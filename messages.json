@@ -56,26 +56,58 @@
    "About_Tampermonkey": {
       "message": "Tampermonkey について"
    },
+   "Account_is_verified": {
+      "message": "Sync credentials are verified"
+   },
+   "Add": {
+      "message": "Add"
+   },
+   "Add_as_0clude0": {
+      "message": "Add as $clude$",
+      "placeholders": {
+         "clude": {
+            "content": "$1"
+         }
+      }
+   },
    "Add_new_script___": {
       "message": "新規スクリプトを追加..."
    },
    "Add_toSource_function_to_Object_Prototype": {
       "message": "Object と Array に互換関数を追加"
    },
+   "Advanced": {
+      "message": "Advanced"
+   },
    "All_script_settings_will_be_reset_": {
       "message": "すべてのスクリプト設定は失われます!"
+   },
+   "Allow_headers_to_be_modified_by_scripts": {
+      "message": "Allow HTTP headers to be modified by scripts"
    },
    "An_error_occured_during_import_": {
       "message": "インポート中にエラーが発生しました。詳細情報はコンソールをご覧ください! (Ctrl+Shift+J)"
    },
+   "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
+      "message": "An internal error occured. If this problem persist, please press OK and report this issue at the forum.\n\nDo you want to visit the Tampermonkey forum?"
+   },
    "Appearance": {
       "message": "外観"
+   },
+   "Apply_compatibility_options_to_required_script_too": {
+      "message": "Apply compatibility options to @require scripts too"
+   },
+   "Apply_this_action_to_the_selected_scripts": {
+      "message": "Apply this action to all selected scripts"
    },
    "Attention_Can_not_display_all_excludes_": {
       "message": "注意: exclude リストは短縮されました。\n手動でチェックしてください!"
    },
    "Attention_Can_not_display_all_includes_": {
       "message": "注意: include リストは短縮されました。\n手動でチェックしてください!"
+   },
+   "Auto": {
+      "message": "Auto"
    },
    "Auto_reload_on_script_enabled": {
       "message": "ページを自動的に再読込"
@@ -91,6 +123,9 @@
    },
    "Cancel": {
       "message": "キャンセル"
+   },
+   "Changes_the_number_of_visible_config_options": {
+      "message": "Changes the number of visible config options"
    },
    "Check_disabled_scripts": {
       "message": "無効なスクリプトを更新"
@@ -113,11 +148,32 @@
    "Close": {
       "message": "閉じる"
    },
+   "Config_Mode": {
+      "message": "Config mode"
+   },
+   "Conflict_Handling": {
+      "message": "Conflict Resolution"
+   },
+   "Conflict_remove_or_disable_sync": {
+      "message": "Conflicting remote version was found. Please remove the local version or disable sync for this script."
+   },
    "Convert_Array_Assignements": {
       "message": "[blub, bla] = s.split(':') 文を変換"
    },
    "Convert_CDATA_sections_into_a_chrome_compatible_format": {
       "message": "CDATA セクションを chrome 互換形式に変換"
+   },
+   "Create_and_remove": {
+      "message": "Create and Remove"
+   },
+   "Create_only": {
+      "message": "Create Only"
+   },
+   "Credentials_are_invalid_": {
+      "message": "The stored sync credentials are invalid!"
+   },
+   "Credentials_are_submitted__Please_check_your_email_account_for_verification_details": {
+      "message": "Your sync credentials are submitted. Please check your email account for verification details."
    },
    "Current_Index_": {
       "message": "現在のインデックスの詳細:"
@@ -130,6 +186,12 @@
    },
    "Delete": {
       "message": "削除"
+   },
+   "Disable": {
+      "message": "Disable"
+   },
+   "Disable_sync": {
+      "message": "Disable Sync"
    },
    "Disabled": {
       "message": "削除済み"
@@ -175,8 +237,14 @@
    "Editor_reset": {
       "message": "エディタ リセット"
    },
+   "Enable": {
+      "message": "Enable"
+   },
    "Enable_Editor": {
       "message": "高度なエディタを有効にする"
+   },
+   "Enable_Script_Sync": {
+      "message": "Enable Script Sync"
    },
    "Enable_Sort_Cache": {
       "message": "並べ替えのキャッシュを有効にする (大容量のメモリを使用します)"
@@ -184,11 +252,17 @@
    "Enable_TamperFire": {
       "message": "TamperFire を有効にする"
    },
+   "Enable_sync": {
+      "message": "Enable Sync"
+   },
    "Enabled": {
       "message": "有効"
    },
    "EnterMode": {
       "message": "Enter モード"
+   },
+   "Enter_the_new_rule": {
+      "message": "Enter the new rule"
    },
    "Entries_": {
       "message": "エントリ:"
@@ -216,6 +290,9 @@
    },
    "Exclude_s__": {
       "message": "Exclude:"
+   },
+   "Export_Mode": {
+      "message": "Export Mode"
    },
    "Export_to_SandboxFS": {
       "message": "SandboxFS にエクスポート"
@@ -282,6 +359,9 @@
    "Icon_badge_info": {
       "message": "アイコン バッジ情報"
    },
+   "Import_Mode": {
+      "message": "Import Mode"
+   },
    "Import_from_SandboxFS": {
       "message": "SandboxFS からインポート"
    },
@@ -290,6 +370,9 @@
    },
    "Include_s__": {
       "message": "Include:"
+   },
+   "Includes_Excludes": {
+      "message": "Includes/Excludes"
    },
    "Includes_more_safe_example": {
       "message": "(有効にすると例えば 'http://*google.*/*' は 'http://*google.tld/*' と解釈されます。このスクリプトが 'http://www.google.myevilpage.com/' で動作するのを防ぐためです。)"
@@ -357,6 +440,9 @@
    "New_userscript": {
       "message": "<新規スクリプト>"
    },
+   "No": {
+      "message": "No"
+   },
    "No_Indentation": {
       "message": "インデントなし"
    },
@@ -375,6 +461,9 @@
    "Note__A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
       "message": "Note: A recheck of the GreaseMonkey/FF       \n    compatibility options may be \n    required in order to run this script."
    },
+   "Novice": {
+      "message": "Novice"
+   },
    "Off": {
       "message": "OFF"
    },
@@ -384,14 +473,32 @@
    "Options": {
       "message": "オプション"
    },
+   "Original_excludes": {
+      "message": "Original excludes"
+   },
+   "Original_includes": {
+      "message": "Original includes"
+   },
+   "Original_matches": {
+      "message": "Original matches"
+   },
    "Overwrite_excludes": {
       "message": "Exclude を上書き"
    },
    "Overwrite_includes": {
       "message": "Include を上書き"
    },
+   "Overwrite_matches": {
+      "message": "Overwrite @match tags"
+   },
+   "Password": {
+      "message": "Password"
+   },
    "Please_consider_a_donation": {
       "message": "寄付を検討してください"
+   },
+   "Please_enter_your_existing_credentials_or_use_new_ones_": {
+      "message": "Please enter your existing sync credentials or use new ones."
    },
    "Please_wait___": {
       "message": "お待ちください..."
@@ -414,6 +521,9 @@
    "Rating": {
       "message": "評価"
    },
+   "Really_delete_the_selected_items_": {
+      "message": "Do you really want to delete the selected items?"
+   },
    "Really_delete_this_extension__": {
       "message": "この拡張機能を本当に削除しますか?"
    },
@@ -428,6 +538,9 @@
    },
    "Reindent_on_typing": {
       "message": "タイプ中に再インデント"
+   },
+   "Remove": {
+      "message": "Remove"
    },
    "Replace_for_each_statements": {
       "message": "'for each' 文を置換"
@@ -449,6 +562,9 @@
    },
    "Save": {
       "message": "保存"
+   },
+   "Script_Syncer": {
+      "message": "Script Syncer"
    },
    "Script_Update": {
       "message": "スクリプトの更新"
@@ -482,6 +598,15 @@
    },
    "Spaces": {
       "message": "空白"
+   },
+   "Start": {
+      "message": "Start"
+   },
+   "Sync": {
+      "message": "Sync"
+   },
+   "Sync_Server": {
+      "message": "Sync Server"
    },
    "TabMode": {
       "message": "タブモード"
@@ -546,6 +671,12 @@
    "This_is_a_system_script": {
       "message": "これはシステム スクリプトです。"
    },
+   "This_options_sets_up_how_to_handle_changes_from_the_sync_server_": {
+      "message": "This options sets up how to handle changes from the sync server. You can a) disable the import feature, b) set it to 'create only', so that TM installs all remote scripts, or c) set it 'create and remove' so that local scripts may be removed in case they are deleted at the server."
+   },
+   "This_options_sets_up_how_to_sync_local_changes_to_the_server_": {
+      "message": "This options sets up how to sync local changes to the server. You can a) disable the export feature, b) set it to 'create only', so that TM copies all local scripts to the server, or c) set it read-write so that a remote script is removed when it is deleted locally."
+   },
    "This_page_is_blacklisted_at_the_security_settings": {
       "message": "セキュリティ設定でブラックリストに入っています"
    },
@@ -569,6 +700,9 @@
    },
    "This_script_uses_uW_gm_api_": {
       "message": "このスクリプトは Greasemonkey 10 API (unsafeWindow.gmonkey) の一部を使用します。\nTampermonkey や他の代わりのスクリプト ハンドラはこれに未対応です。"
+   },
+   "Trigger_Update": {
+      "message": "Trigger an update"
    },
    "Unable_to_get_UserScript__Sry_": {
       "message": "UserScript を読み込めません。すみません!"
@@ -644,6 +778,21 @@
    "Update_needed": {
       "message": "更新が必要"
    },
+   "Use_local": {
+      "message": "Use the local script version"
+   },
+   "Use_remote": {
+      "message": "Use the remote script version"
+   },
+   "User_excludes": {
+      "message": "User excludes"
+   },
+   "User_includes": {
+      "message": "User includes"
+   },
+   "User_matches": {
+      "message": "User matches"
+   },
    "Userscripts": {
       "message": "Userscript"
    },
@@ -653,11 +802,17 @@
    "Version": {
       "message": "バージョン"
    },
+   "Warning": {
+      "message": "Show a warning"
+   },
    "Welcome_": {
       "message": "ようこそ!"
    },
    "Writing_scripts": {
       "message": "スクリプトを書き込み中"
+   },
+   "Yes": {
+      "message": "Yes"
    },
    "You_are_about_to_downgrade_a_UserScript": {
       "message": "注意! Userscript のダウングレード:"
@@ -674,8 +829,17 @@
    "You_are_about_to_update_a_UserScript_": {
       "message": "UserScript の更新:"
    },
+   "Your_data_will_not_automatically_synced_between_different_servers": {
+      "message": "Your data will not automatically be synced between different servers!"
+   },
    "_0_scripts_found": {
       "message": "? スクリプトを利用できます"
+   },
+   "__Please_choose__": {
+      "message": "-- Please choose an option --"
+   },
+   "eMail": {
+      "message": "E-mail Address"
    },
    "env_option__debug_scripts": {
       "message": "環境オプション: スクリプトをデバッグ"
