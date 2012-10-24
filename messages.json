@@ -53,6 +53,9 @@
    "A_reload_is_required": {
       "message": "再読込が必要です: \n安全ではない変更はすべて失われます!"
    },
+   "A_script_blocker_was_detected_": {
+      "message": "A script blocker was detected!"
+   },
    "About_Tampermonkey": {
       "message": "Tampermonkey について"
    },
@@ -141,6 +144,9 @@
    },
    "Classic": {
       "message": "クラシック"
+   },
+   "Click_here_to_allow_TM_to_override_the_script_blocker": {
+      "message": "In order to allow your userscripts to run you need to click here to allow TM to override the script blocker setting!"
    },
    "Click_here_to_install_it_": {
       "message": "インストールするにはここをクリックしてください。"
@@ -302,6 +308,9 @@
    },
    "Export_to_file": {
       "message": "ファイルにエクスポート"
+   },
+   "Factory_Reset": {
+      "message": "Factory Reset"
    },
    "Fans": {
       "message": "ファン"
@@ -500,6 +509,9 @@
    "Please_enter_your_existing_credentials_or_use_new_ones_": {
       "message": "同期で使用する既存の認証情報を入力するか、新規作成してください。"
    },
+   "Please_reload_this_page_in_order_to_run_your_userscripts_": {
+      "message": "Please reload this page to run your userscripts."
+   },
    "Please_wait___": {
       "message": "お待ちください..."
    },
@@ -550,6 +562,12 @@
    },
    "Reset": {
       "message": "リセット"
+   },
+   "Reset_Section": {
+      "message": "Reset"
+   },
+   "Restart_Tampermonkey": {
+      "message": "Restart Tampermonkey"
    },
    "Restart_to_apply": {
       "message": "この設定を適用するには TM を再起動する必要があります。"
@@ -671,6 +689,12 @@
    "This_is_a_system_script": {
       "message": "これはシステム スクリプトです。"
    },
+   "This_is_a_userscript": {
+      "message": "This is a user script written in Javascript"
+   },
+   "This_only_changes_the_user_agent_string": {
+      "message": "This item only changes the User-Agent for the includes webpages"
+   },
    "This_options_sets_up_how_to_handle_changes_from_the_sync_server_": {
       "message": "このオプションでは、同期サーバーでの変更を処理する方法を指定します。a) インポート機能を無効化、b)「作成のみ」…TM がリモートのスクリプトをすべてインストール、c)「作成と削除」…サーバーでスクリプトが削除されたらローカル スクリプトも削除、のいずれかを指定できます。"
    },
@@ -701,8 +725,17 @@
    "This_script_uses_uW_gm_api_": {
       "message": "このスクリプトは Greasemonkey 10 API (unsafeWindow.gmonkey) の一部を使用します。\nTampermonkey や他の代わりのスクリプト ハンドラはこれに未対応です。"
    },
+   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
+      "message": "Do you really want to remove all scripts and reset all settings?"
+   },
+   "This_will_restart_Tampermonkey_Ok_": {
+      "message": "Do you really want to restart Tampermonkey?"
+   },
    "Trigger_Update": {
       "message": "更新を引き起こす"
+   },
+   "Type": {
+      "message": "Type"
    },
    "Unable_to_get_UserScript__Sry_": {
       "message": "UserScript を読み込めません。すみません!"
