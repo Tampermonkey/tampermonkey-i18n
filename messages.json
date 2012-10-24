@@ -54,13 +54,13 @@
       "message": "再読込が必要です: \n安全ではない変更はすべて失われます!"
    },
    "A_script_blocker_was_detected_": {
-      "message": "A script blocker was detected!"
+      "message": "スクリプト ブロッカーを検出しました!"
    },
    "About_Tampermonkey": {
       "message": "Tampermonkey について"
    },
    "Account_is_verified": {
-      "message": "Sync credentials are verified"
+      "message": "同期の認証情報を検証しました"
    },
    "Add": {
       "message": "追加"
@@ -131,7 +131,7 @@
       "message": "設定オプションの表示される個数を変更します"
    },
    "Check_disabled_scripts": {
-      "message": "無効化されたスクリプトを更新"
+      "message": "無効化されているスクリプトを更新"
    },
    "Check_for_Updates": {
       "message": "更新を確認する"
@@ -146,7 +146,7 @@
       "message": "クラシック"
    },
    "Click_here_to_allow_TM_to_override_the_script_blocker": {
-      "message": "In order to allow your userscripts to run you need to click here to allow TM to override the script blocker setting!"
+      "message": "UserScript の実行を許可するために、ここをクリックして TM がスクリプト ブロッカーの設定を上書きするのを許可してください!"
    },
    "Click_here_to_install_it_": {
       "message": "インストールするにはここをクリックしてください。"
@@ -203,7 +203,7 @@
       "message": "無効"
    },
    "Disabled_scripts": {
-      "message": "無効化されたスクリプト数"
+      "message": "無効化されているスクリプト数"
    },
    "Do_you_really_want_to_factory_reset_this_script_": {
       "message": "このスクリプトを本当に完全にリセットしますか?"
@@ -310,7 +310,7 @@
       "message": "ファイルにエクスポート"
    },
    "Factory_Reset": {
-      "message": "Factory Reset"
+      "message": "完全リセット"
    },
    "Fans": {
       "message": "ファン"
@@ -423,7 +423,7 @@
       "message": "URL スキームが無効です"
    },
    "Just_another_service_provided_by_your_friendly_script_updater_": {
-      "message": "Just another service provided by your friendly script updater:"
+      "message": "使いやすいスクリプト アップデーターが提供する他のサービス:"
    },
    "Last_Changed": {
       "message": "最終変更"
@@ -510,7 +510,7 @@
       "message": "同期で使用する既存の認証情報を入力するか、新規作成してください。"
    },
    "Please_reload_this_page_in_order_to_run_your_userscripts_": {
-      "message": "Please reload this page to run your userscripts."
+      "message": "UserScript を実行するにはこのページを再読込してください。"
    },
    "Please_wait___": {
       "message": "お待ちください..."
@@ -564,10 +564,10 @@
       "message": "リセット"
    },
    "Reset_Section": {
-      "message": "Reset"
+      "message": "リセット"
    },
    "Restart_Tampermonkey": {
-      "message": "Restart Tampermonkey"
+      "message": "Tampermonkey を再起動"
    },
    "Restart_to_apply": {
       "message": "この設定を適用するには TM を再起動する必要があります。"
@@ -690,10 +690,10 @@
       "message": "これはシステム スクリプトです。"
    },
    "This_is_a_userscript": {
-      "message": "This is a user script written in Javascript"
+      "message": "これは JavaScript で書かれた UserScript です"
    },
    "This_only_changes_the_user_agent_string": {
-      "message": "This item only changes the User-Agent for the includes webpages"
+      "message": "この項目は、ウェブページをインクルードする際の User-Agent のみを変更します"
    },
    "This_options_sets_up_how_to_handle_changes_from_the_sync_server_": {
       "message": "このオプションでは、同期サーバーでの変更を処理する方法を指定します。a) インポート機能を無効化、b)「作成のみ」…TM がリモートのスクリプトをすべてインストール、c)「作成と削除」…サーバーでスクリプトが削除されたらローカル スクリプトも削除、のいずれかを指定できます。"
@@ -726,16 +726,16 @@
       "message": "このスクリプトは Greasemonkey 10 API (unsafeWindow.gmonkey) の一部を使用します。\nTampermonkey や他の代わりのスクリプト ハンドラはこれに未対応です。"
    },
    "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
-      "message": "Do you really want to remove all scripts and reset all settings?"
+      "message": "すべてのスクリプトの削除とすべての設定のリセットの両方を本当に実行しますか?"
    },
    "This_will_restart_Tampermonkey_Ok_": {
-      "message": "Do you really want to restart Tampermonkey?"
+      "message": "Tampermonkey を本当に再起動しますか?"
    },
    "Trigger_Update": {
       "message": "更新を引き起こす"
    },
    "Type": {
-      "message": "Type"
+      "message": "種類"
    },
    "Unable_to_get_UserScript__Sry_": {
       "message": "UserScript を読み込めません。すみません!"
