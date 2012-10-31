@@ -77,7 +77,7 @@
       "message": "新規スクリプトを追加..."
    },
    "Add_toSource_function_to_Object_Prototype": {
-      "message": "Object と Array に互換関数を追加"
+      "message": "Object と Array に互換関数を追加する"
    },
    "Advanced": {
       "message": "上級者"
@@ -86,7 +86,7 @@
       "message": "スクリプト設定はすべて失われます!"
    },
    "Allow_headers_to_be_modified_by_scripts": {
-      "message": "スクリプトによる HTTP ヘッダーの変更を許可"
+      "message": "スクリプトによる HTTP ヘッダーの変更を許可する"
    },
    "An_error_occured_during_import_": {
       "message": "インポート中にエラーが発生しました。詳細情報はコンソールをご覧ください! (Ctrl+Shift+J)"
@@ -98,7 +98,7 @@
       "message": "外観"
    },
    "Apply_compatibility_options_to_required_script_too": {
-      "message": "@require のスクリプトにも互換性オプションを適用"
+      "message": "@require のスクリプトにも互換性オプションを適用する"
    },
    "Apply_this_action_to_the_selected_scripts": {
       "message": "選択したスクリプトすべてにこの操作を適用"
@@ -113,7 +113,7 @@
       "message": "自動"
    },
    "Auto_reload_on_script_enabled": {
-      "message": "ページを自動で再読込"
+      "message": "ページを自動で再読込する"
    },
    "Auto_reload_on_script_enabled_desc": {
       "message": "スクリプトの ON/OFF を切り替えた際に、影響するページを自動で再読込します"
@@ -131,7 +131,7 @@
       "message": "設定オプションの表示される個数を変更します"
    },
    "Check_disabled_scripts": {
-      "message": "無効化されているスクリプトを更新"
+      "message": "無効化されているスクリプトを更新する"
    },
    "Check_for_Updates": {
       "message": "更新を確認する"
@@ -164,10 +164,10 @@
       "message": "競合するリモート版スクリプトが見つかりました。ローカル版を削除するか、このスクリプトの同期を無効にしてください。"
    },
    "Convert_Array_Assignements": {
-      "message": "[blub, bla] = s.split(':') 文を変換"
+      "message": "[blub, bla] = s.split(':') 文を変換する"
    },
    "Convert_CDATA_sections_into_a_chrome_compatible_format": {
-      "message": "CDATA セクションを chrome 互換形式に変換"
+      "message": "CDATA セクションを chrome 互換形式に変換する"
    },
    "Create_and_remove": {
       "message": "作成と削除"
@@ -188,7 +188,7 @@
       "message": "日付:"
    },
    "Debug_scripts": {
-      "message": "スクリプトをデバッグ"
+      "message": "スクリプトをデバッグする"
    },
    "Delete": {
       "message": "削除"
@@ -209,7 +209,7 @@
       "message": "このスクリプトを本当に完全にリセットしますか?"
    },
    "Do_you_really_want_to_store_fixed_code_": {
-      "message": "オプション '$option$' が有効です!\n\n修正されたソースを本当に保存しますか?",
+      "message": "オプション「$option$」が有効です!\n\n修正されたソースを本当に保存しますか?",
       "placeholders": {
          "option": {
             "content": "$1"
@@ -259,7 +259,7 @@
       "message": "TamperFire を有効にする"
    },
    "Enable_sync": {
-      "message": "同期を無効にする"
+      "message": "同期を有効にする"
    },
    "Enabled": {
       "message": "有効"
@@ -319,13 +319,13 @@
       "message": "機能"
    },
    "Fix_for_var_in_statements": {
-      "message": "'for (var j in x)' 文を修正"
+      "message": "「for (var j in x)」文を修正する"
    },
    "Fix_includes": {
-      "message": "include を修正"
+      "message": "include を修正する"
    },
    "Fix_includes_example": {
-      "message": "(このオプションはシンプルな '*' を 'http://*/*' に変換します)"
+      "message": "(このオプションはシンプルな「*」を「http://*/*」に変換します)"
    },
    "Forbidden_Pages": {
       "message": "実行を禁止するページ"
@@ -377,6 +377,9 @@
    "Import_from_Textarea": {
       "message": "Textarea からインポート"
    },
+   "Imported": {
+      "message": "インポートしました"
+   },
    "Include_s__": {
       "message": "include:"
    },
@@ -384,7 +387,7 @@
       "message": "include/exclude"
    },
    "Includes_more_safe_example": {
-      "message": "(有効にすると、例えば 'http://*google.*/*' は 'http://*google.tld/*' と解釈されます。このスクリプトが 'http://www.google.myevilpage.com/' で動作するのを防ぐためです。)"
+      "message": "(有効にすると、例えば「http://*google.*/*」は「http://*google.tld/*」と解釈されます。このスクリプトが「http://www.google.myevilpage.com/」で動作するのを防ぐためです。)"
    },
    "Indent": {
       "message": "インデント"
@@ -549,13 +552,13 @@
       "message": "登録されたメニュー コマンド"
    },
    "Reindent_on_typing": {
-      "message": "タイプ中に再インデント"
+      "message": "タイピング中に再インデントする"
    },
    "Remove": {
       "message": "削除"
    },
    "Replace_for_each_statements": {
-      "message": "'for each' 文を置換"
+      "message": "「for each」文を置換する"
    },
    "Report_a_bug": {
       "message": "バグを報告"
@@ -588,7 +591,7 @@
       "message": "スクリプトの更新"
    },
    "Script_modified_in_background": {
-      "message": "スクリプトの内容またはオプションが他のタブで変更されました\n(例えば再インストール)。'保存' ボタンを押すとこれらの設定を上書きする\nことにご注意ください。"
+      "message": "スクリプトの内容またはオプションが他のタブで変更されました\n(例えば再インストール)。「保存」ボタンを押すとこれらの設定を上書きする\nことにご注意ください。"
    },
    "Security": {
       "message": "セキュリティ"
@@ -600,10 +603,10 @@
       "message": "Shift"
    },
    "Show_Line_Numbers": {
-      "message": "行番号を表示"
+      "message": "行番号を表示する"
    },
    "Show_fixed_source": {
-      "message": "修正されたソースを表示"
+      "message": "修正されたソースを表示する"
    },
    "Sites": {
       "message": "サイト"
@@ -618,13 +621,16 @@
       "message": "空白"
    },
    "Start": {
-      "message": "開始"
+      "message": "実行"
    },
    "Sync": {
       "message": "同期"
    },
    "Sync_Server": {
       "message": "同期サーバー"
+   },
+   "TESLC": {
+      "message": "TESLC"
    },
    "TabMode": {
       "message": "タブのモード"
@@ -650,11 +656,14 @@
    "TamperFire_update_started": {
       "message": "TamperFire の更新を開始しました"
    },
+   "Tampermonkey_External_Script_List_Control": {
+      "message": "TESLC = Tampermonkey 外部スクリプト一覧制御"
+   },
    "Tampermonkey_Options": {
       "message": "Tampermonkey"
    },
    "Tampermonkey_assumes_0urlAllHttp0_in_order_to_continue_": {
-      "message": "Tampermonkey は続行するために '$urlAllHttp$' を想定します!",
+      "message": "Tampermonkey は続行するために「$urlAllHttp$」を想定します!",
       "placeholders": {
          "urlAllHttp": {
             "content": "$1"
@@ -662,7 +671,7 @@
       }
    },
    "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
-      "message": "更新 URL が変更されました。変更前:\n    '$oldurl$'\n    変更後:\n    '$newurl$'\n",
+      "message": "更新 URL が変更されました。変更前:\n    「$oldurl$」\n    変更後:\n    「$newurl$」\n",
       "placeholders": {
          "newurl": {
             "content": "$2"
@@ -676,7 +685,7 @@
       "message": "保存されていない変更があります。\nエディターを本当に閉じますか?"
    },
    "There_is_an_update_for_0name0_avaiable_": {
-      "message": "'$name$' の更新を利用できます。 :)",
+      "message": "「$name$」の更新を利用できます。 :)",
       "placeholders": {
          "name": {
             "content": "$1"
@@ -755,7 +764,7 @@
       "message": "tabID が空のためストレージを読み込めません!"
    },
    "Unable_to_parse_this_": {
-      "message": "これを構文解析できません! :("
+      "message": "構文解析できません! :("
    },
    "Unable_to_run_scripts_due_to_empty_tabID_": {
       "message": "tabID が空のためスクリプトを実行できません!"
@@ -778,7 +787,7 @@
       }
    },
    "UpdateCheck_of_0name0_Url_0url0_failed_": {
-      "message": "'$name$' (URL: $url$) の更新の確認に失敗しました!",
+      "message": "「$name$」(URL: $url$) の更新の確認に失敗しました!",
       "placeholders": {
          "name": {
             "content": "$1"
@@ -789,7 +798,7 @@
       }
    },
    "Update_Notification": {
-      "message": "TM の更新通知を表示"
+      "message": "TM の更新通知を表示する"
    },
    "Update_URL_": {
       "message": "更新 URL:"
