@@ -148,6 +148,9 @@
    "Click_here_to_allow_TM_to_override_the_script_blocker": {
       "message": "UserScript の実行を許可するために、ここをクリックして TM がスクリプト ブロッカーの設定を上書きするのを許可してください!"
    },
+   "Click_here_to_allow_TM_to_use_Google_sync": {
+      "message": "Tampermonkey が Google Sync を使用するのを許可するにはここをクリックしてください!"
+   },
    "Click_here_to_install_it_": {
       "message": "インストールするにはここをクリックしてください。"
    },
@@ -168,6 +171,12 @@
    },
    "Convert_CDATA_sections_into_a_chrome_compatible_format": {
       "message": "CDATA セクションを chrome 互換形式に変換する"
+   },
+   "Copy_exportable_data_to_clipboard_Ok_": {
+      "message": "エクスポート可能な TESLC データをクリップボードにコピーしますか?"
+   },
+   "Create_Exportable_Data": {
+      "message": "エクスポート可能なデータを作成"
    },
    "Create_and_remove": {
       "message": "作成と削除"
@@ -255,8 +264,17 @@
    "Enable_Sort_Cache": {
       "message": "並べ替えのキャッシュを有効にする (メモリを多く使用します)"
    },
+   "Enable_TESLC": {
+      "message": "TESLC を有効にする"
+   },
    "Enable_TamperFire": {
       "message": "TamperFire を有効にする"
+   },
+   "Enable_autoSave": {
+      "message": "エディターがフォーカスが失った際に内容を保存する"
+   },
+   "Enable_easySave": {
+      "message": "保存する際に確認ダイアログを表示しない"
    },
    "Enable_sync": {
       "message": "同期を有効にする"
@@ -623,11 +641,20 @@
    "Start": {
       "message": "実行"
    },
+   "Storage_permission_is_needed_": {
+      "message": "ストレージにアクセスする権限が必要です!"
+   },
    "Sync": {
       "message": "同期"
    },
    "Sync_Server": {
       "message": "同期サーバー"
+   },
+   "Sync_Id": {
+      "message": "ID"
+   },
+   "Sync_Type": {
+      "message": "種類"
    },
    "TESLC": {
       "message": "TESLC"
