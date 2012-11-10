@@ -647,11 +647,11 @@
    "Sync": {
       "message": "同期"
    },
-   "Sync_Server": {
-      "message": "同期サーバー"
-   },
    "Sync_Id": {
       "message": "ID"
+   },
+   "Sync_Server": {
+      "message": "同期サーバー"
    },
    "Sync_Type": {
       "message": "種類"
