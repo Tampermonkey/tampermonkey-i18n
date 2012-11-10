@@ -127,6 +127,9 @@
    "Cancel": {
       "message": "キャンセル"
    },
+   "Changelog": {
+      "message": "更新履歴"
+   },
    "Changes_the_number_of_visible_config_options": {
       "message": "設定オプションの表示される個数を変更します"
    },
