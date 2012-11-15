@@ -913,6 +913,9 @@
    "__Please_choose__": {
       "message": "-- 選択してください --"
    },
+   "_require_blacklist": {
+      "message": "@require のブラックリスト"
+   },
    "eMail": {
       "message": "メール アドレス"
    },
