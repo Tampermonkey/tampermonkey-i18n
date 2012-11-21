@@ -160,6 +160,9 @@
    "Click_here_to_install_it_": {
       "message": "インストールするにはここをクリックしてください。"
    },
+   "Click_here_to_see_the_recent_changes": {
+      "message": "最近の変更点を見るにはここをクリックしてください"
+   },
    "Close": {
       "message": "閉じる"
    },
@@ -852,6 +855,14 @@
    },
    "Update_needed": {
       "message": "更新が必要"
+   },
+   "Updated_to__0version0": {
+      "message": "$version$ に更新しました",
+      "placeholders": {
+         "version": {
+            "content": "$1"
+         }
+      }
    },
    "Use_local": {
       "message": "ローカル版のスクリプトを使用"
