@@ -51,7 +51,7 @@
       "message": "9"
    },
    "A_reload_is_required": {
-      "message": "再読込が必要です: \n安全ではない変更はすべて失われます!"
+      "message": "再読込が必要です: \n保存していない変更はすべて失われます!"
    },
    "A_script_blocker_was_detected_": {
       "message": "スクリプト ブロッカーを検出しました!"
@@ -90,6 +90,9 @@
    },
    "Allow_headers_to_be_modified_by_scripts": {
       "message": "スクリプトによる HTTP ヘッダーの変更を許可する"
+   },
+   "Allow_overwrite_javascript_settings": {
+      "message": "スクリプト ブロッカーの設定による上書きを許可する"
    },
    "An_error_occured_during_import_": {
       "message": "インポート中にエラーが発生しました。詳細情報はコンソールをご覧ください! (Ctrl+Shift+J)"
@@ -148,11 +151,14 @@
    "Check_interval": {
       "message": "確認の間隔"
    },
+   "Chinese__Simplified_": {
+      "message": "中国語 (簡体)/Chinese (Simplfied)"
+   },
    "Classic": {
       "message": "クラシック"
    },
    "Click_here_to_allow_TM_to_override_the_script_blocker": {
-      "message": "UserScript の実行を許可するために、ここをクリックして TM がスクリプト ブロッカーの設定を上書きするのを許可してください!"
+      "message": "UserScript の実行を許可するために、ここをクリックして Tampermonkey がスクリプト ブロッカーの設定を上書きするのを許可してください!"
    },
    "Click_here_to_allow_TM_to_use_Google_sync": {
       "message": "Tampermonkey が Google Sync を使用するのを許可するにはここをクリックしてください!"
@@ -208,6 +214,9 @@
    "Debug_scripts": {
       "message": "スクリプトをデバッグする"
    },
+   "Default": {
+      "message": "既定"
+   },
    "Delete": {
       "message": "削除"
    },
@@ -261,6 +270,9 @@
    "Editor_reset": {
       "message": "エディターの内容をリセット"
    },
+   "Emacs": {
+      "message": "Emacs"
+   },
    "Enable": {
       "message": "有効にする"
    },
@@ -290,6 +302,9 @@
    },
    "Enabled": {
       "message": "有効"
+   },
+   "English": {
+      "message": "英語/English"
    },
    "EnterMode": {
       "message": "Enter のモード"
@@ -360,6 +375,9 @@
    "Force_Update": {
       "message": "強制的に更新"
    },
+   "French": {
+      "message": "フランス語/French"
+   },
    "Full_reset": {
       "message": "完全リセット"
    },
@@ -368,6 +386,9 @@
    },
    "General": {
       "message": "全般"
+   },
+   "German": {
+      "message": "ドイツ語/German"
    },
    "Get_new_scripts___": {
       "message": "新規スクリプトを取得..."
@@ -452,8 +473,14 @@
    "Invalid_scheme_of_url": {
       "message": "URL スキームが無効です"
    },
+   "Japanese": {
+      "message": "日本語/Japanese"
+   },
    "Just_another_service_provided_by_your_friendly_script_updater_": {
       "message": "使いやすいスクリプト アップデーターが提供する他のサービス:"
+   },
+   "Key_Mapping": {
+      "message": "キー割り当て"
    },
    "Last_Changed": {
       "message": "最終変更"
@@ -545,6 +572,9 @@
    "Please_wait___": {
       "message": "お待ちください..."
    },
+   "Polish": {
+      "message": "ポーランド語/Polish"
+   },
    "Poll_all_unsafeWindow_variables": {
       "message": "すべての unsafeWindow 変数をポーリング (注意: これにより CPU 使用率が高くなる可能性があります!)"
    },
@@ -600,13 +630,19 @@
       "message": "Tampermonkey を再起動"
    },
    "Restart_to_apply": {
-      "message": "この設定を適用するには TM を再起動する必要があります。"
+      "message": "この設定を適用するには Tampermonkey を再起動する必要があります。"
    },
    "Run_at": {
       "message": "実行のタイミング:"
    },
+   "Run_syntax_check": {
+      "message": "構文チェックを実行"
+   },
    "Running_scripts": {
       "message": "実行中のスクリプトのインスタンス数"
+   },
+   "Russian": {
+      "message": "ロシア語/Russian"
    },
    "Save": {
       "message": "保存"
@@ -646,6 +682,9 @@
    },
    "Spaces": {
       "message": "空白"
+   },
+   "Spanish": {
+      "message": "スペイン語/Spanish"
    },
    "Start": {
       "message": "実行"
@@ -706,6 +745,9 @@
          }
       }
    },
+   "Tampermonkey_can_not_work_when_javascript_is_disabled": {
+      "message": "スクリプトを実行するページで JavaScript が無効になっている場合、Tampermonkey は動作できません。この設定を使用すると、ユーザーまたはスクリプト ブロッカーによる設定を Tampermonkey が上書きできるようになります。この設定は、ページのインライン スクリプトのみに影響し、リモート スクリプトには影響しません。"
+   },
    "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
       "message": "更新 URL が変更されました。変更前:\n    「$oldurl$」\n    変更後:\n    「$newurl$」\n",
       "placeholders": {
@@ -741,10 +783,10 @@
       "message": "この項目は、ウェブページをインクルードする際の User-Agent のみを変更します"
    },
    "This_options_sets_up_how_to_handle_changes_from_the_sync_server_": {
-      "message": "このオプションでは、同期サーバーでの変更を処理する方法を指定します。a) インポート機能を無効化、b)「作成のみ」…TM がリモートのスクリプトをすべてインストール、c)「作成と削除」…サーバーでスクリプトが削除されたらローカル スクリプトも削除、のいずれかを指定できます。"
+      "message": "このオプションでは、同期サーバーでの変更を処理する方法を指定します。a) インポート機能を無効化、b)「作成のみ」…Tampermonkey がリモートのスクリプトをすべてインストール、c)「作成と削除」…サーバーでスクリプトが削除されたらローカル スクリプトも削除、のいずれかを指定できます。"
    },
    "This_options_sets_up_how_to_sync_local_changes_to_the_server_": {
-      "message": "このオプションでは、ローカルでの変更をサーバーに同期する方法を指定します。a) エクスポート機能を無効化、b)「作成のみ」…TM がローカルのスクリプトをすべてサーバーにコピー、c)「読み取り/書き込み」…ローカルでスクリプトが削除されたら スクリプトも削除、のいずれかを指定できます。"
+      "message": "このオプションでは、ローカルでの変更をサーバーに同期する方法を指定します。a) エクスポート機能を無効化、b)「作成のみ」…Tampermonkey がローカルのスクリプトをすべてサーバーにコピー、c)「読み取り/書き込み」…ローカルでスクリプトが削除されたら スクリプトも削除、のいずれかを指定できます。"
    },
    "This_page_is_blacklisted_at_the_security_settings": {
       "message": "セキュリティ設定でブラックリストに入っています"
@@ -834,7 +876,7 @@
       }
    },
    "Update_Notification": {
-      "message": "TM の更新通知を表示する"
+      "message": "Tampermonkey の更新通知を表示する"
    },
    "Update_URL_": {
       "message": "更新 URL:"
