@@ -315,6 +315,9 @@
    "Entries_": {
       "message": "エントリ:"
    },
+   "Error": {
+      "message": "エラー"
+   },
    "Every_12_Hour": {
       "message": "12 時間ごと"
    },
@@ -451,6 +454,9 @@
    },
    "Indentation_Width": {
       "message": "インデント幅"
+   },
+   "Info": {
+      "message": "情報"
    },
    "Install": {
       "message": "インストール"
@@ -929,6 +935,9 @@
    },
    "Version": {
       "message": "バージョン"
+   },
+   "Vim": {
+      "message": "Vim"
    },
    "Warning": {
       "message": "警告を表示"
