@@ -92,7 +92,7 @@
       "message": "スクリプトによる HTTP ヘッダーの変更を許可する"
    },
    "Allow_overwrite_javascript_settings": {
-      "message": "スクリプト ブロッカーの設定による上書きを許可する"
+      "message": "スクリプト ブロッカーの設定への上書きを許可する"
    },
    "An_error_occured_during_import_": {
       "message": "インポート中にエラーが発生しました。詳細情報はコンソールをご覧ください! (Ctrl+Shift+J)"
@@ -158,7 +158,7 @@
       "message": "クラシック"
    },
    "Click_here_to_allow_TM_to_override_the_script_blocker": {
-      "message": "UserScript の実行を許可するために、ここをクリックして Tampermonkey がスクリプト ブロッカーの設定を上書きするのを許可してください!"
+      "message": "UserScript の実行を許可するために、ここをクリックして Tampermonkey がスクリプト ブロッカーの設定に上書きするのを許可してください!"
    },
    "Click_here_to_allow_TM_to_use_Google_sync": {
       "message": "Tampermonkey が Google Sync を使用するのを許可するにはここをクリックしてください!"
@@ -555,13 +555,13 @@
       "message": "元の match"
    },
    "Overwrite_excludes": {
-      "message": "exclude を上書き"
+      "message": "exclude タグに上書き"
    },
    "Overwrite_includes": {
-      "message": "include を上書き"
+      "message": "include タグに上書き"
    },
    "Overwrite_matches": {
-      "message": "@match タグを上書き"
+      "message": "@match タグに上書き"
    },
    "Password": {
       "message": "パスワード"
@@ -660,7 +660,7 @@
       "message": "スクリプトの更新"
    },
    "Script_modified_in_background": {
-      "message": "スクリプトの内容またはオプションが他のタブで変更されました\n(例えば再インストール)。「保存」ボタンを押すとこれらの設定を上書きする\nことにご注意ください。"
+      "message": "スクリプトの内容またはオプションが他のタブで変更されました\n(例えば再インストール)。「保存」ボタンを押すとこれらの設定が上書き保存される\nことにご注意ください。"
    },
    "Security": {
       "message": "セキュリティ"
