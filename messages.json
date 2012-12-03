@@ -154,6 +154,12 @@
    "Chinese__Simplified_": {
       "message": "中国語 (簡体)/Chinese (Simplfied)"
    },
+   "Chinese__Traditional_": {
+      "message": "中国語 (繁体)/Chinese (Traditional)"
+   },
+   "Chrome_Sync_Reset": {
+      "message": "Chrome 同期のリセット"
+   },
    "Classic": {
       "message": "クラシック"
    },
@@ -188,7 +194,7 @@
       "message": "CDATA セクションを chrome 互換形式に変換する"
    },
    "Copy_exportable_data_to_clipboard_Ok_": {
-      "message": "エクスポート可能な TESLC データをクリップボードにコピーしますか?"
+      "message": "エクスポート可能な TESLA データをクリップボードにコピーしますか?"
    },
    "Create_Exportable_Data": {
       "message": "エクスポート可能なデータを作成"
@@ -285,8 +291,8 @@
    "Enable_Sort_Cache": {
       "message": "並べ替えのキャッシュを有効にする (メモリを多く使用します)"
    },
-   "Enable_TESLC": {
-      "message": "TESLC を有効にする"
+   "Enable_TESLA": {
+      "message": "TESLA を有効にする"
    },
    "Enable_TamperFire": {
       "message": "TamperFire を有効にする"
@@ -710,8 +716,8 @@
    "Sync_Type": {
       "message": "種類"
    },
-   "TESLC": {
-      "message": "TESLC"
+   "TESLA": {
+      "message": "TESLA"
    },
    "TabMode": {
       "message": "タブのモード"
@@ -737,8 +743,8 @@
    "TamperFire_update_started": {
       "message": "TamperFire の更新を開始しました"
    },
-   "Tampermonkey_External_Script_List_Control": {
-      "message": "TESLC = Tampermonkey 外部スクリプト一覧制御"
+   "Tampermonkey_External_Script_List_Access": {
+      "message": "TESLA = Tampermonkey 外部スクリプト一覧アクセス"
    },
    "Tampermonkey_Options": {
       "message": "Tampermonkey"
@@ -816,10 +822,13 @@
       "message": "このスクリプトは Tampermonkey にデータを保存します。"
    },
    "This_script_uses_uW_gm_api_": {
-      "message": "このスクリプトは Greasemonkey 10 API (unsafeWindow.gmonkey) の一部を使用します。\nTampermonkey や他の代わりのスクリプト ハンドラはこれに未対応です。"
+      "message": "このスクリプトは Greasemonkey 10 API (unsafeWindow.gmonkey) の一部を使用します。\nTampermonkey や他の代わりのスクリプト ハンドラーはこれに未対応です。"
    },
    "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
       "message": "すべてのスクリプトの削除とすべての設定のリセットの両方を本当に実行しますか?"
+   },
+   "This_will_remove_all_stored_data_from_google_sync_Ok_": {
+      "message": "Google Sync からすべてのデータを本当に削除しますか? Do you really want to remove all data from Google Sync?"
    },
    "This_will_restart_Tampermonkey_Ok_": {
       "message": "Tampermonkey を本当に再起動しますか?"
