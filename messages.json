@@ -68,6 +68,9 @@
    "Add": {
       "message": "追加"
    },
+   "Add_TM_to_CSP": {
+      "message": "サイトのコンテンツ セキュリティ ポリシー (CSP) がある場合は、その CSP に Tampermonkey を追加する"
+   },
    "Add_as_0clude0": {
       "message": "$clude$ として追加",
       "placeholders": {
@@ -177,6 +180,9 @@
    },
    "Close": {
       "message": "閉じる"
+   },
+   "Comment": {
+      "message": "コメント"
    },
    "Config_Mode": {
       "message": "設定のモード"
@@ -760,6 +766,9 @@
    "Tampermonkey_can_not_work_when_javascript_is_disabled": {
       "message": "スクリプトを実行するページで JavaScript が無効になっている場合、Tampermonkey は動作できません。この設定を使用すると、ユーザーまたはスクリプト ブロッカーによる設定を Tampermonkey が上書きできるようになります。この設定は、ページのインライン スクリプトのみに影響し、リモート スクリプトには影響しません。"
    },
+   "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
+      "message": "これを無効にすると、安全ではないコンテキスト (unsafeWindow、ページの関数や変数) へのアクセスを Tampermonkey が提供できなくなります。"
+   },
    "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
       "message": "更新 URL が変更されました。変更前:\n    「$oldurl$」\n    変更後:\n    「$newurl$」\n",
       "placeholders": {
@@ -828,7 +837,7 @@
       "message": "すべてのスクリプトの削除とすべての設定のリセットの両方を本当に実行しますか?"
    },
    "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-      "message": "Google Sync からすべてのデータを本当に削除しますか? Do you really want to remove all data from Google Sync?"
+      "message": "Google Sync からすべてのデータを本当に削除しますか?"
    },
    "This_will_restart_Tampermonkey_Ok_": {
       "message": "Tampermonkey を本当に再起動しますか?"
