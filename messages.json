@@ -397,7 +397,7 @@
       "message": "完全リセット"
    },
    "GM_compat_options_": {
-      "message": "GM/FF 互換性オプション:"
+      "message": "GM/FF 互換性オプション"
    },
    "General": {
       "message": "全般"
@@ -600,7 +600,7 @@
       "message": "unsafeWindow 変数をポーリング"
    },
    "Position_": {
-      "message": "実行順序:"
+      "message": "実行順序"
    },
    "Processing_scripts": {
       "message": "スクリプトを処理中"
@@ -651,7 +651,7 @@
       "message": "この設定を適用するには Tampermonkey を再起動する必要があります。"
    },
    "Run_at": {
-      "message": "実行のタイミング:"
+      "message": "実行のタイミング"
    },
    "Run_syntax_check": {
       "message": "構文チェックを実行"
@@ -958,10 +958,13 @@
       "message": "Vim"
    },
    "Warning": {
-      "message": "警告を表示"
+      "message": "警告"
    },
    "Welcome_": {
       "message": "ようこそ!"
+   },
+   "Windows": {
+      "message": "Windows"
    },
    "Writing_scripts": {
       "message": "スクリプトを書き込み中"
