@@ -112,6 +112,9 @@
    "Apply_this_action_to_the_selected_scripts": {
       "message": "選択したスクリプトすべてにこの操作を適用"
    },
+   "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
+      "message": "このページは、「禁止ページ」設定の一覧に載っている要素を 1 個以上含んでいます!"
+   },
    "Attention_Can_not_display_all_excludes_": {
       "message": "注意: exclude リストを短縮しました。\n手作業で確認してください!"
    },
@@ -694,6 +697,9 @@
    },
    "Smart": {
       "message": "スマート"
+   },
+   "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
+      "message": "このページまたはスクリプト ブロッカーの JavaScript 設定でブロックされたスクリプトがある可能性があります!"
    },
    "Sort": {
       "message": "並べ替え"
