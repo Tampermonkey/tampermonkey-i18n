@@ -557,6 +557,9 @@
    "One_or_more_compatibility_options_are_set": {
       "message": "互換性オプションが 1 つ以上設定されています。これらを再確認する必要がある可能性があります。"
    },
+   "Open_changelog": {
+      "message": "更新履歴を開く"
+   },
    "Options": {
       "message": "オプション"
    },
@@ -691,6 +694,9 @@
    },
    "Show_fixed_source": {
       "message": "修正されたソースを表示する"
+   },
+   "Show_notification": {
+      "message": "通知を表示する"
    },
    "Sites": {
       "message": "サイト"
@@ -906,7 +912,7 @@
       }
    },
    "Update_Notification": {
-      "message": "Tampermonkey の更新通知を表示する"
+      "message": "Tampermonkey の更新通知の表示"
    },
    "Update_URL_": {
       "message": "更新 URL:"
