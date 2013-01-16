@@ -533,6 +533,9 @@
    "No_Indentation": {
       "message": "インデントなし"
    },
+   "No_frames": {
+      "message": "最上位フレーム (top) のみで実行する"
+   },
    "No_script_is_installed": {
       "message": "スクリプトはインストールされていません"
    },
