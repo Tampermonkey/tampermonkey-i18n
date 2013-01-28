@@ -951,6 +951,9 @@
    "Use_remote": {
       "message": "リモート版のスクリプトを使用"
    },
+   "Use_top_frame_URL_only": {
+      "message": "最上位フレーム (top) の URL のみを使用する"
+   },
    "User_excludes": {
       "message": "ユーザーによる exclude"
    },
