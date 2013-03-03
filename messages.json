@@ -223,6 +223,9 @@
    "Current_Index_": {
       "message": "現在のインデックスの詳細:"
    },
+   "Dashboard": {
+      "message": "ダッシュボード"
+   },
    "Date_": {
       "message": "日付:"
    },
@@ -619,6 +622,14 @@
    },
    "Rating": {
       "message": "評価"
+   },
+   "Really_delete_0name0__": {
+      "message": "本当に「$name$」を削除しますか?",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         }
+      }
    },
    "Really_delete_the_selected_items_": {
       "message": "選択した項目を本当に削除しますか?"
