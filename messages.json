@@ -685,6 +685,9 @@
    "Save": {
       "message": "保存"
    },
+   "Save_to_disk": {
+      "message": "ディスクに保存"
+   },
    "Script_Syncer": {
       "message": "スクリプトの同期"
    },
@@ -828,6 +831,9 @@
    },
    "This_only_changes_the_user_agent_string": {
       "message": "この項目は、ウェブページをインクルードする際の User-Agent のみを変更します"
+   },
+   "This_option_is_essential_for_many_userscripts_to_work_Do_you_want_to_visit_the_FAQ_": {
+      "message": "このオプションは多数の UserScript を動作させるために必要です! よくある質問を参照しますか?"
    },
    "This_options_sets_up_how_to_handle_changes_from_the_sync_server_": {
       "message": "このオプションでは、同期サーバーでの変更を処理する方法を指定します。a) インポート機能を無効化、b)「作成のみ」…Tampermonkey がリモートのスクリプトをすべてインストール、c)「作成と削除」…サーバーでスクリプトが削除されたらローカル スクリプトも削除、のいずれかを指定できます。"
