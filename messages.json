@@ -124,6 +124,9 @@
    "Auto": {
       "message": "自動"
    },
+   "Auto_Indent_all": {
+      "message": "すべて自動インデント"
+   },
    "Auto_reload_on_script_enabled": {
       "message": "ページを自動で再読込する"
    },
@@ -228,6 +231,9 @@
    },
    "Date_": {
       "message": "日付:"
+   },
+   "Debug": {
+      "message": "デバッグ"
    },
    "Debug_scripts": {
       "message": "スクリプトをデバッグする"
@@ -381,6 +387,9 @@
    "Features": {
       "message": "機能"
    },
+   "File": {
+      "message": "ファイル"
+   },
    "Fix_for_var_in_statements": {
       "message": "「for (var j in x)」文を修正する"
    },
@@ -476,6 +485,9 @@
    "Info": {
       "message": "情報"
    },
+   "Insert_constructor": {
+      "message": "コンストラクターを挿入"
+   },
    "Install": {
       "message": "インストール"
    },
@@ -500,6 +512,9 @@
    "Japanese": {
       "message": "日本語/Japanese"
    },
+   "Jump_to_line": {
+      "message": "指定行にジャンプ"
+   },
    "Just_another_service_provided_by_your_friendly_script_updater_": {
       "message": "使いやすいスクリプト アップデーターが提供する他のサービス:"
    },
@@ -511,6 +526,9 @@
    },
    "Last_Updated": {
       "message": "最終更新"
+   },
+   "LogLevel": {
+      "message": "ログ レベル"
    },
    "Make_includes_more_safe": {
       "message": "include をより安全にする"
@@ -652,6 +670,9 @@
    "Remove": {
       "message": "削除"
    },
+   "Replace": {
+      "message": "置換"
+   },
    "Replace_for_each_statements": {
       "message": "「for each」文を置換する"
    },
@@ -696,6 +717,9 @@
    },
    "Script_modified_in_background": {
       "message": "スクリプトの内容またはオプションが他のタブで変更されました\n(例えば再インストール)。「保存」ボタンを押すとこれらの設定が上書き保存される\nことにご注意ください。"
+   },
+   "Search": {
+      "message": "検索"
    },
    "Security": {
       "message": "セキュリティ"
@@ -798,6 +822,9 @@
    "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
       "message": "これを無効にすると、安全ではないコンテキスト (unsafeWindow、ページの関数や変数) へのアクセスを Tampermonkey が提供できなくなります。"
    },
+   "TextArea": {
+      "message": "TextArea"
+   },
    "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
       "message": "更新 URL が変更されました。変更前:\n    「$oldurl$」\n    変更後:\n    「$newurl$」\n",
       "placeholders": {
@@ -873,6 +900,9 @@
    },
    "This_will_restart_Tampermonkey_Ok_": {
       "message": "Tampermonkey を本当に再起動しますか?"
+   },
+   "Trace": {
+      "message": "トレース"
    },
    "Trigger_Update": {
       "message": "更新を引き起こす"
@@ -985,6 +1015,9 @@
    },
    "Utilities": {
       "message": "ユーティリティ"
+   },
+   "Verbose": {
+      "message": "冗長"
    },
    "Version": {
       "message": "バージョン"
