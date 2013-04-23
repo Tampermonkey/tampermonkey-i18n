@@ -181,6 +181,9 @@
    "Click_here_to_install_it_": {
       "message": "インストールするにはここをクリックしてください。"
    },
+   "Click_here_to_move_this_script": {
+      "message": "このスクリプトを移動させるにはここをクリックしてください"
+   },
    "Click_here_to_see_the_recent_changes": {
       "message": "最近の変更点を見るにはここをクリックしてください"
    },
