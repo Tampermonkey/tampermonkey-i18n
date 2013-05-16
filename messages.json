@@ -91,6 +91,9 @@
    "All_script_settings_will_be_reset_": {
       "message": "スクリプト設定はすべて失われます!"
    },
+   "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
+      "message": "Tampermonkey が Google Analytics を使用して匿名の統計情報を収集するのを許可します。この統計情報は、作者が Tampermonkey を改良するのに役立ち、どの部分の開発に集中すべきかの判断材料としても役立ちます。協力したくない場合は無効にしてください。"
+   },
    "Allow_headers_to_be_modified_by_scripts": {
       "message": "スクリプトによる HTTP ヘッダーの変更を許可する"
    },
@@ -102,6 +105,9 @@
    },
    "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
       "message": "内部エラーが発生しました。この問題点が継続する場合は、OK を押してこの問題点をフォーラムで報告してください。\n\nTampermonkey フォーラムに移動しますか?"
+   },
+   "Anonymous_statistics": {
+      "message": "匿名の統計"
    },
    "Appearance": {
       "message": "外観"
@@ -278,6 +284,14 @@
    },
    "Dont_ask_me_for_simple_script_updates": {
       "message": "シンプルなスクリプトの更新について確認を求めない"
+   },
+   "Downloaded_from_0url0": {
+      "message": "ダウンロード元: $url$",
+      "placeholders": {
+         "url": {
+            "content": "$1"
+         }
+      }
    },
    "Downloading": {
       "message": "ダウンロード中"
@@ -720,6 +734,14 @@
    },
    "Script_modified_in_background": {
       "message": "スクリプトの内容またはオプションが他のタブで変更されました\n(例えば再インストール)。「保存」ボタンを押すとこれらの設定が上書き保存される\nことにご注意ください。"
+   },
+   "Script_name_0url0": {
+      "message": "スクリプト名: $name$",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         }
+      }
    },
    "Search": {
       "message": "検索"
