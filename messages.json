@@ -56,6 +56,9 @@
    "A_script_blocker_was_detected_": {
       "message": "スクリプト ブロッカーを検出しました!"
    },
+   "A_script_with_that_name_already_exists_": {
+      "message": "このスクリプトの名前を変更しましたが、同じ名前の別のスクリプトが既に存在します!"
+   },
    "About": {
       "message": "About"
    },
@@ -144,6 +147,14 @@
    },
    "Beginner": {
       "message": "初心者"
+   },
+   "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
+      "message": "競合:\nこのスクリプトは別のタブで$t$秒前に変更されました!",
+      "placeholders": {
+         "t": {
+            "content": "$1"
+         }
+      }
    },
    "Cancel": {
       "message": "キャンセル"
@@ -1117,5 +1128,8 @@
             "content": "$1"
          }
       }
+   },
+   "some_secs": {
+      "message": "数"
    }
 }
