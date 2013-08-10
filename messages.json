@@ -483,6 +483,9 @@
          }
       }
    },
+   "Help": {
+      "message": "ヘルプ"
+   },
    "Hide_notification_after": {
       "message": "通知を隠すまでの時間"
    },
