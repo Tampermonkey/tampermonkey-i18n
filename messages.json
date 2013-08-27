@@ -445,6 +445,9 @@
    "Fix_includes_example": {
       "message": "(このオプションはシンプルな「*」を「http://*/*」に変換します)"
    },
+   "Fix_wrappedJSObject_property_access": {
+      "message": "wrappedJSObject プロパティのアクセスを修正する"
+   },
    "Forbidden_Pages": {
       "message": "実行を禁止するページ"
    },
