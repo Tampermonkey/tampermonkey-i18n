@@ -97,6 +97,9 @@
    "All_modifications_are_kept_until_this_incognito_session_is_closed_": {
       "message": "すべての変更点は、このシークレット モードが閉じられるまで維持されます!"
    },
+   "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
+      "message": "すべての変更点は、このシークレット モードが閉じられた際に失われます!"
+   },
    "All_script_settings_will_be_reset_": {
       "message": "スクリプト設定はすべて失われます!"
    },
