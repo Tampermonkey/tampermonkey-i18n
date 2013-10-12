@@ -588,6 +588,9 @@
    "Last_Updated": {
       "message": "最終更新"
    },
+   "Layout": {
+      "message": "レイアウト"
+   },
    "LogLevel": {
       "message": "ログ レベル"
    },
@@ -671,6 +674,9 @@
    },
    "Password": {
       "message": "パスワード"
+   },
+   "Permanent": {
+      "message": "永続的"
    },
    "Please_consider_a_donation": {
       "message": "寄付を検討してください"
@@ -846,6 +852,9 @@
    "Storage_permission_is_needed_": {
       "message": "ストレージにアクセスする権限が必要です!"
    },
+   "Store_data_in_incognito_mode": {
+      "message": "シークレット モードでもデータを保管する"
+   },
    "Sync": {
       "message": "同期"
    },
@@ -913,6 +922,9 @@
    },
    "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
       "message": "スクリプトのインポート機能を動作させるには、Tampermonkey にブラウザーのプロファイル フォルダーの絶対パスを Tampermonkey に教える必要があります。\n\n場所が分からない場合は、ここをクリックして、よくある質問をご覧ください!"
+   },
+   "Temporary": {
+      "message": "一時的"
    },
    "TextArea": {
       "message": "TextArea"
