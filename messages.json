@@ -261,6 +261,9 @@
    "Current_Index_": {
       "message": "現在のインデックスの詳細:"
    },
+   "Current_Tab": {
+      "message": "現在のタブ"
+   },
    "Dashboard": {
       "message": "ダッシュボード"
    },
@@ -582,6 +585,9 @@
    "Key_Mapping": {
       "message": "キー割り当て"
    },
+   "Language": {
+      "message": "言語 (Language)"
+   },
    "Last_Changed": {
       "message": "最終変更"
    },
@@ -605,6 +611,9 @@
    },
    "Never": {
       "message": "しない"
+   },
+   "New_Tab": {
+      "message": "新しいタブ"
    },
    "New_script_template_": {
       "message": "新規 UserScript のテンプレート"
@@ -650,6 +659,9 @@
    },
    "Open_changelog": {
       "message": "更新履歴を開く"
+   },
+   "Open_script_links_in": {
+      "message": "スクリプト リンクを開く場所"
    },
    "Options": {
       "message": "オプション"
@@ -704,6 +716,9 @@
    },
    "Position_": {
       "message": "実行順序"
+   },
+   "Post_Import_Action": {
+      "message": "インポート後の動作"
    },
    "Processing_scripts": {
       "message": "スクリプトを処理中"
