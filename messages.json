@@ -603,11 +603,20 @@
    "Make_includes_more_safe": {
       "message": "include をより安全にする"
    },
+   "Many_userscripts_require_the_unsafeWindow_object_to_interact_with_the_pages_javascript_": {
+      "message": "多くのユーザー スクリプトでは、JavaScript でページとやり取りするために unsafeWindow が必要です!"
+   },
    "Name": {
       "message": "名前"
    },
    "Name_": {
       "message": "名前:"
+   },
+   "Native": {
+      "message": "ネイティブ"
+   },
+   "Native_Script_Import": {
+      "message": "ネイティブ スクリプトのインポート"
    },
    "Never": {
       "message": "しない"
@@ -723,6 +732,9 @@
    "Processing_scripts": {
       "message": "スクリプトを処理中"
    },
+   "Proxy": {
+      "message": "プロキシ"
+   },
    "Rank": {
       "message": "順位"
    },
@@ -796,8 +808,17 @@
    "Running_scripts": {
       "message": "実行中のスクリプトのインスタンス数"
    },
+   "Runtime": {
+      "message": "ランタイム"
+   },
    "Russian": {
       "message": "ロシア語/Russian"
+   },
+   "Sandbox": {
+      "message": "サンドボックス"
+   },
+   "SandboxFS": {
+      "message": "SandboxFS"
    },
    "Save": {
       "message": "保存"
@@ -1074,6 +1095,12 @@
             "content": "$1"
          }
       }
+   },
+   "Unsafe": {
+      "message": "安全ではない"
+   },
+   "UnsafeWindow_retrieval_method": {
+      "message": "UnsafeWindow 取得メソッド"
    },
    "UpdateCheck_of_0name0_Url_0url0_failed_": {
       "message": "「$name$」(URL: $url$) の更新の確認に失敗しました!",
