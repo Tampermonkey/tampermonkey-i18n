@@ -723,6 +723,9 @@
    "Poll_unsafeWindow_variables": {
       "message": "unsafeWindow 変数をポーリング"
    },
+   "Portuguese_Brazil": {
+      "message": "ポルトガル語 (ブラジル)/Polish (Brazil)"
+   },
    "Position_": {
       "message": "実行順序"
    },
@@ -1218,6 +1221,9 @@
    },
    "__Please_choose__": {
       "message": "-- 選択してください --"
+   },
+   "_not_set_": {
+      "message": "<未設定>"
    },
    "_require_blacklist": {
       "message": "@require のブラックリスト"
