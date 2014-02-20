@@ -1,0 +1,5 @@
+.svn
+*~
+*.diff
+*.orig
+*.rej
