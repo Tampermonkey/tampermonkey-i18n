@@ -1,5 +1,4 @@
 # tampermonkey-i18n
-=================
 
 This repo contains Tampermonkey's locale files
 
