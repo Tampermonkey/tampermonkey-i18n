@@ -1069,9 +1069,6 @@
   "Error": {
     "message": "Fehler"
   },
-  "Blacklist": {
-    "message": "Blacklist"
-  },
   "Script_Blacklist_Source": {
     "message": "Script Blacklist Quelle"
   },
@@ -1082,10 +1079,43 @@
     "message": "Nur Manuell"
   },
   "Manual_Script_Blacklist": {
-    "message": "Manuelle Script Blacklist"
+    "message": "Manuelle Userscript and @require Blacklist"
   },
   "This_script_is_blacklisted_": {
     "message": "Diese Script steht in der Blacklist!"
+  },
+  "Blacklist_Severity": {
+    "message": "Blocke ab der Gefährdungsstufe"
+  },
+  "severity_1": {
+    "message": "1 (sicherer)"
+  },
+  "severity_2": {
+    "message": "2"
+  },
+  "severity_3": {
+    "message": "3"
+  },
+  "severity_4": {
+    "message": "4"
+  },
+  "severity_5": {
+    "message": "5"
+  },
+  "severity_6": {
+    "message": "6"
+  },
+  "severity_7": {
+    "message": "7"
+  },
+  "severity_8": {
+    "message": "8"
+  },
+  "severity_9": {
+    "message": "9"
+  },
+  "severity_10": {
+    "message": "10 (unsicherer)"
   },
   "EOF": {
     "message": "EOF"

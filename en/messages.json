@@ -1114,8 +1114,8 @@
   "Error": {
     "message": "Error"
   },
-  "Blacklist": {
-    "message": "Blacklist"
+  "BlackCheck": {
+    "message": "BlackCheck"
   },
   "Script_Blacklist_Source": {
     "message": "Script Blacklist Source"
@@ -1127,10 +1127,43 @@
     "message": "Manual Only"
   },
   "Manual_Script_Blacklist": {
-    "message": "Manual Script Blacklist"
+    "message": "Manual Userscript and @require Blacklist"
   },
   "This_script_is_blacklisted_": {
     "message": "This script is blacklisted!"
+  },
+  "Blacklist_Severity": {
+    "message": "Block From Severity Level"
+  },
+  "severity_1": {
+    "message": "1 (most secure)"
+  },
+  "severity_2": {
+    "message": "2"
+  },
+  "severity_3": {
+    "message": "3"
+  },
+  "severity_4": {
+    "message": "4"
+  },
+  "severity_5": {
+    "message": "5"
+  },
+  "severity_6": {
+    "message": "6"
+  },
+  "severity_7": {
+    "message": "7"
+  },
+  "severity_8": {
+    "message": "8"
+  },
+  "severity_9": {
+    "message": "9"
+  },
+  "severity_10": {
+    "message": "10 (least secure)"
   },
   "Default": {
     "message": "Default"
