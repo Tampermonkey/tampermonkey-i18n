@@ -148,6 +148,12 @@
     "Beginner": {
         "message": "Iniciante"
     },
+    "BlackCheck": {
+        "message": "BlackCheck"
+    },
+    "Blacklist_Severity": {
+        "message": "Bloquear a partir do Nível de Segurança"
+    },
     "Browser_Profile_Path": {
         "message": "Caminho de Perfil do Browser"
     },
@@ -389,7 +395,7 @@
         "message": "Exportar para Área de Texto"
     },
     "Export_to_file": {
-        "message": "Exportar para File"
+        "message": "Exportar para Arquivo"
     },
     "Factory_Reset": {
         "message": "Reset de Fábrica"
@@ -544,6 +550,9 @@
     "Make_includes_more_safe": {
         "message": "Fazer inclusões mais seguras"
     },
+    "Manual_Script_Blacklist": {
+        "message": "Usercript Manual e requer uma Lista Negra @require"
+    },
     "Many_userscripts_require_the_unsafeWindow_object_to_interact_with_the_pages_javascript_": {
         "message": "Muitos userscripts precisam do objeto unsafeWindow para interagir com páginas javascript!"
     },
@@ -590,7 +599,7 @@
         "message": "Nenhuma atualização encontrada, desculpe!"
     },
     "None": {
-        "message": "None"
+        "message": "Nenhuma"
     },
     "Note_": {
         "message": "Nota:"
@@ -606,6 +615,9 @@
     },
     "One_or_more_compatibility_options_are_set": {
         "message": "Uma ou mais opções de compatibilidade estão ativadas. Você talvez gostaria/deveria revê-las."
+    },
+    "Only_Manual": {
+        "message": "Apenas Manual"
     },
     "Open_changelog": {
         "message": "Abrir o log de mudanças"
@@ -755,6 +767,9 @@
     "Save_to_disk": {
         "message": "Salvar no disco"
     },
+    "Script_Blacklist_Source": {
+        "message": "Fonte de Lista Negra de Script"
+    },
     "Script_Update": {
         "message": "Atualização de Script"
     },
@@ -774,6 +789,9 @@
     },
     "Security": {
         "message": "Segurança"
+    },
+    "Server_And_Manual": {
+        "message": "Remoto + Manual"
     },
     "Settings": {
         "message": "Configurações"
@@ -936,6 +954,9 @@
     },
     "This_script_has_full_web_access": {
         "message": "Este script tem acesso total à Internet."
+    },
+    "This_script_is_blacklisted_": {
+        "message": "Este script está na lista negra!"
     },
     "This_script_runs_in_Chrome_mode": {
         "message": "Este script será executado em modo Chrome"
@@ -1146,6 +1167,36 @@
                 "content": "$2"
             }
         }
+    },
+    "severity_1": {
+        "message": "1 (mais seguro)"
+    },
+    "severity_10": {
+        "message": "10 (menos seguro)"
+    },
+    "severity_2": {
+        "message": "2"
+    },
+    "severity_3": {
+        "message": "3"
+    },
+    "severity_4": {
+        "message": "4"
+    },
+    "severity_5": {
+        "message": "5"
+    },
+    "severity_6": {
+        "message": "6"
+    },
+    "severity_7": {
+        "message": "7"
+    },
+    "severity_8": {
+        "message": "8"
+    },
+    "severity_9": {
+        "message": "9"
     },
     "some_secs": {
         "message": "alguns"
