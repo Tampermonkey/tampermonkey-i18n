@@ -160,6 +160,12 @@
    "Beginner": {
       "message": "初心者"
    },
+   "BlackCheck": {
+      "message": "ブラックリスト確認"
+   },
+   "Blacklist_Severity": {
+      "message": "ブロック対象のセキュリティ レベル"
+   },
    "Browser_Profile_Path": {
       "message": "ブラウザーのプロファイルのパス"
    },
@@ -603,6 +609,9 @@
    "Make_includes_more_safe": {
       "message": "include をより安全にする"
    },
+   "Manual_Script_Blacklist": {
+      "message": "UserScript と @require のブラックリストの手動指定"
+   },
    "Many_userscripts_require_the_unsafeWindow_object_to_interact_with_the_pages_javascript_": {
       "message": "多くのユーザー スクリプトでは、JavaScript でページとやり取りするために unsafeWindow が必要です!"
    },
@@ -665,6 +674,9 @@
    },
    "One_or_more_compatibility_options_are_set": {
       "message": "互換性オプションが 1 つ以上設定されています。これらを再確認する必要がある可能性があります。"
+   },
+   "Only_Manual": {
+      "message": "手動のみ"
    },
    "Open_changelog": {
       "message": "更新履歴を開く"
@@ -829,6 +841,9 @@
    "Save_to_disk": {
       "message": "ディスクに保存"
    },
+   "Script_Blacklist_Source": {
+      "message": "スクリプト ブラックリストの情報源"
+   },
    "Script_Syncer": {
       "message": "スクリプトの同期"
    },
@@ -851,6 +866,9 @@
    },
    "Security": {
       "message": "セキュリティ"
+   },
+   "Server_And_Manual": {
+      "message": "リモート + 手動"
    },
    "Settings": {
       "message": "設定"
@@ -1028,6 +1046,9 @@
    },
    "This_script_has_full_web_access": {
       "message": "このスクリプトはインターネットに完全なアクセスをします。"
+   },
+   "This_script_is_blacklisted_": {
+      "message": "このスクリプトはブラックリストに入っています!"
    },
    "This_script_runs_in_Chrome_mode": {
       "message": "このスクリプトは Chrome モードで動作します"
@@ -1253,6 +1274,36 @@
             "content": "$1"
          }
       }
+   },
+   "severity_1": {
+      "message": "1 (セキュア度最大)"
+   },
+   "severity_10": {
+      "message": "10 (セキュア度最小)"
+   },
+   "severity_2": {
+      "message": "2"
+   },
+   "severity_3": {
+      "message": "3"
+   },
+   "severity_4": {
+      "message": "4"
+   },
+   "severity_5": {
+      "message": "5"
+   },
+   "severity_6": {
+      "message": "6"
+   },
+   "severity_7": {
+      "message": "7"
+   },
+   "severity_8": {
+      "message": "8"
+   },
+   "severity_9": {
+      "message": "9"
    },
    "some_secs": {
       "message": "数"
