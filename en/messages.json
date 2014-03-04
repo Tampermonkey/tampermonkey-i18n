@@ -1132,6 +1132,9 @@
   "This_script_is_blacklisted_": {
     "message": "This script is blacklisted!"
   },
+  "Report_this_as_spam_or_malicious": {
+    "message": "Report this as spam or malicious\n(An user account may be required)"
+  },
   "Blacklist_Severity": {
     "message": "Block From Severity Level"
   },

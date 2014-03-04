@@ -1084,6 +1084,9 @@
   "This_script_is_blacklisted_": {
     "message": "Diese Script steht in der Blacklist!"
   },
+  "Report_this_as_spam_or_malicious": {
+    "message": "Als Spam oder bösartig markieren\n(Ein Nutzer-Account könnte benötigt werden)"
+  },
   "Blacklist_Severity": {
     "message": "Blocke ab der Gefährdungsstufe"
   },
