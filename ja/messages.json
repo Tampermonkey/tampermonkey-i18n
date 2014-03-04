@@ -50,6 +50,9 @@
    "9": {
       "message": "9"
    },
+   "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
+      "message": "GreaseMonkey/FF 互換性オプションを\n再確認してください。このスクリプトの\n実行に必要である可能性があります。"
+   },
    "A_reload_is_required": {
       "message": "再読込が必要です: \n保存していない変更はすべて失われます!"
    },
@@ -164,7 +167,7 @@
       "message": "ブラックリスト確認"
    },
    "Blacklist_Severity": {
-      "message": "ブロック対象のセキュリティ レベル"
+      "message": "セキュリティ ブロックに基づくブロック"
    },
    "Browser_Profile_Path": {
       "message": "ブラウザーのプロファイルのパス"
@@ -662,9 +665,6 @@
    },
    "Note_": {
       "message": "注釈:"
-   },
-   "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-      "message": "GreaseMonkey/FF 互換性オプションを\n再確認してください。このスクリプトの\n実行に必要である可能性があります。"
    },
    "Novice": {
       "message": "新参者"
