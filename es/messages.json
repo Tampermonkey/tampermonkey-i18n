@@ -95,8 +95,8 @@
   "Exclude_s__": {
     "message": "Excluye(s)"
   },
-  "Note__A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-    "message": "Advertencia: Una revisión de las opciones de  \ncompatibilidad de GreaseMonkey/FF puede ser necesaria \npara ejecutar este script."
+  "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
+    "message": "Una revisión de las opciones de compatibilidad de GreaseMonkey/FF puede ser necesaria para ejecutar este script."
   },
   "Do_you_want_to_continue_": {
     "message": "Deseas continuar?"

@@ -468,8 +468,8 @@
    "Note_": {
       "message": "Notatka"
    },
-   "Note__A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-      "message": "Uwaga: Ponowne sprawdzenie opcji zgodno\u015Bci       \n    z GreaseMonkey/FF mo\u017Ce by\u0107 konieczne\n    w celu uruchomienia skryptu."
+   "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
+      "message": "Ponowne sprawdzenie opcji zgodno\u015Bci z GreaseMonkey/FF mo\u017Ce by\u0107 konieczne w celu uruchomienia skryptu."
    },
    "Novice": {
       "message": "dla nowucjuszy"

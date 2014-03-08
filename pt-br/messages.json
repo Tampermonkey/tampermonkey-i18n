@@ -604,8 +604,8 @@
     "Note_": {
         "message": "Nota:"
     },
-    "Note__A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-        "message": "Nota: Uma rechecagem do GreaseMonkey/FF \n opções de compatibilidade talvez sejam \n necessária para executar este script."
+    "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
+        "message": "Uma rechecagem do GreaseMonkey/FF opções de compatibilidade talvez sejam necessária para executar este script."
     },
     "Novice": {
         "message": "Aprendiz"

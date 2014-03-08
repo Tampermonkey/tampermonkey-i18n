@@ -613,7 +613,7 @@
       "message": "UserScript と @require のブラックリストの手動指定"
    },
    "Many_userscripts_require_the_unsafeWindow_object_to_interact_with_the_pages_javascript_": {
-      "message": "多くのユーザー スクリプトでは、JavaScript でページとやり取りするために unsafeWindow が必要です!"
+      "message": "多くの UserScript では、JavaScript でページとやり取りするために unsafeWindow が必要です!"
    },
    "Name": {
       "message": "名前"
@@ -663,8 +663,8 @@
    "Note_": {
       "message": "注釈:"
    },
-   "Note__A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-      "message": "注釈: GreaseMonkey/FF 互換性オプションを\n再確認してください。このスクリプトの\n実行に必要である可能性があります。"
+   "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
+      "message": "GreaseMonkey/FF 互換性オプションを\n再確認してください。このスクリプトの\n実行に必要である可能性があります。"
    },
    "Novice": {
       "message": "新参者"
@@ -801,6 +801,9 @@
    },
    "Report_a_bug": {
       "message": "バグを報告"
+   },
+   "Report_this_as_spam_or_malicious": {
+      "message": "これをスパムまたは有害として報告\n(userscripts.org のアカウントが必要)"
    },
    "Reset": {
       "message": "リセット"

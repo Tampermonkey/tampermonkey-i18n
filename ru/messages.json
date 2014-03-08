@@ -562,8 +562,8 @@
    "Note_": {
       "message": "Примечание"
    },
-   "Note__A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-      "message": "Примечание: Перепроверьте на GreaseMonkey/FF       \n    для запуска скрипта \n    могут понадобиться параметры совместимости."
+   "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
+      "message": "Перепроверьте на GreaseMonkey/FF для запуска скрипта могут понадобиться параметры совместимости."
    },
    "Novice": {
       "message": "Начинающий"

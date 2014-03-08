@@ -95,8 +95,8 @@
   "Exclude_s__": {
     "message": "排除URL(s)"
   },
-  "Note__A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-    "message": "说明: 为了运行当前脚本需要开启 GreaseMonkey/FF 兼容性选项."
+  "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
+    "message": "为了运行当前脚本需要开启 GreaseMonkey/FF 兼容性选项."
   },
   "Do_you_want_to_continue_": {
     "message": "是否继续?"

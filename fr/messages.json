@@ -197,7 +197,7 @@
   "No_update_found__sry_" : { "message" : "Aucune mise à jour trouvée, désolé!" },
   "None" : { "message" : "Sans" },
   "Note_" : { "message" : "Note :" },
-  "Note__A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_" : { "message" : "Note : une vérification de la compatibilité \n de GreaseMonkey/FF peut-être \n demandée pour démarrer ce \n script." },
+  "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_" : { "message" : "Une vérification de la compatibilité de GreaseMonkey/FF peut-être demandée pour démarrer ce script." },
   "Novice" : { "message" : "Novice" },
   "Off" : { "message" : "Off" },
   "One_or_more_compatibility_options_are_set" : { "message" : "Des options de compatibilités sont mises. Vous devriez/devez les revérifier." },

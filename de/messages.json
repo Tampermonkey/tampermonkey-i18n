@@ -65,6 +65,12 @@
   "You_are_about_to_downgrade_a_UserScript": {
     "message": "Achtung! Downgrade des Userscripts"
   },
+  "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
+    "message": "Das Script könnte Probleme haben sein gespeicherten Daten zu lesen!"
+  },
+  "Malicious_scripts_can_violate_your_privacy_": {
+    "message": "Bösartige Scripte können die Privatshäre verletzen und in Ihrem Namen handeln. Bitte installieren Sie nur Scripte von vertrauenswürdigen Quellen."
+  },
   "You_are_about_to_modify_a_UserScript_": {
     "message": "Modifikation des Userscripts"
   },
@@ -111,8 +117,17 @@
   "Exclude_s__": {
     "message": "Exclude(s)"
   },
-  "Note__A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-    "message": "Achtung: Bitte überprüfen Sie die GreaseMonkey/FF       \n    Kompatibilitäts-Optionen um\n    Fehler im Script zu vermeiden."
+  "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
+    "message": "Bitte überprüfen Sie die GreaseMonkey/FF Kompatibilitäts-Optionen um Fehler im Script zu vermeiden."
+  },
+  "Author": {
+    "message": "Autor"
+  },
+  "Description": {
+    "message": "Beschreibung"
+  },
+  "Source": {
+    "message": "Quelle"
   },
   "Do_you_want_to_continue_": {
     "message": "Möchten Sie fortfahren?"
