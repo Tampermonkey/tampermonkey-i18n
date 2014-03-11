@@ -50,6 +50,9 @@
     "5_Minutes": {
         "message": "5 Minutos"
     },
+    "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
+        "message": "Uma rechecagem das opções de compatibilidade do GreaseMonkey/FF talvez seja necessária para executar este script."
+    },
     "A_reload_is_required": {
         "message": "Uma recarga é necessária: \nTodas as mudanças não salvas serão perdidas!"
     },
@@ -129,6 +132,9 @@
     },
     "Attention_Can_not_display_all_includes_": {
         "message": "Atenção: A lista de inclusões foi encurtada.\nPor favor, cheque manualmente!"
+    },
+    "Author": {
+        "message": "Autor"
     },
     "Auto": {
         "message": "Auto"
@@ -254,6 +260,9 @@
     },
     "Delete": {
         "message": "Deletar"
+    },
+    "Description": {
+        "message": "Descrição"
     },
     "Disable": {
         "message": "Desativar"
@@ -523,6 +532,9 @@
     "Invalid_scheme_of_url": {
         "message": "esquema invalido de url"
     },
+    "Italian": {
+        "message": "Italiano"
+    },
     "Japanese": {
         "message": "日本語"
     },
@@ -549,6 +561,10 @@
     },
     "Make_includes_more_safe": {
         "message": "Fazer inclusões mais seguras"
+    },
+    "Malicious_scripts_can_violate_your_privacy_": {
+        "message": "Scripts maliciosos podem violar a sua privacidade e agir em sua pessoa!\nVocê deve apenas instalar scripts de fontes que você confia."
+
     },
     "Manual_Script_Blacklist": {
         "message": "Usercript Manual e requer uma Lista Negra @require"
@@ -603,9 +619,6 @@
     },
     "Note_": {
         "message": "Nota:"
-    },
-    "Note__A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-        "message": "Nota: Uma rechecagem do GreaseMonkey/FF \n opções de compatibilidade talvez sejam \n necessária para executar este script."
     },
     "Novice": {
         "message": "Aprendiz"
@@ -730,6 +743,9 @@
     },
     "Report_this_as_spam_or_malicious": {
         "message": "Reportar este script como spam ou malicioso\n(Requer uma conta no userscripts.org)"
+
+
+
     },
     "Reset": {
         "message": "Resetar"
@@ -823,6 +839,9 @@
     "Sort": {
         "message": "Ordenar"
     },
+    "Source": {
+        "message": "Fonte"
+    },
     "Spaces": {
         "message": "Espaços"
     },
@@ -905,6 +924,10 @@
     },
     "TextArea": {
         "message": "Área de Texto"
+    },
+    "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
+        "message": "O script desatualizado poderá ter problemas para ler sua informação guardada!"
+
     },
     "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
         "message": "A url de atualização mudou:\n '$oldurl$'\n para:\n '$newurl$'\n",
