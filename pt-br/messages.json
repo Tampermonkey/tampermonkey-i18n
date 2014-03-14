@@ -564,7 +564,6 @@
     },
     "Malicious_scripts_can_violate_your_privacy_": {
         "message": "Scripts maliciosos podem violar a sua privacidade e agir em sua pessoa!\nVocê deve apenas instalar scripts de fontes que você confia."
-
     },
     "Manual_Script_Blacklist": {
         "message": "Usercript Manual e requer uma Lista Negra @require"
@@ -743,9 +742,6 @@
     },
     "Report_this_as_spam_or_malicious": {
         "message": "Reportar este script como spam ou malicioso\n(Requer uma conta no userscripts.org)"
-
-
-
     },
     "Reset": {
         "message": "Resetar"
