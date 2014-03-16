@@ -51,7 +51,7 @@
       "message": "9"
    },
    "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-      "message": "GreaseMonkey/FF 互換性オプションを\n再確認してください。このスクリプトの\n実行に必要である可能性があります。"
+      "message": "GreaseMonkey/FF 互換性オプションを再確認してください。このスクリプトの実行に必要である可能性があります。"
    },
    "A_reload_is_required": {
       "message": "再読込が必要です: \n保存していない変更はすべて失われます!"
@@ -144,6 +144,9 @@
    },
    "Attention_Can_not_display_all_includes_": {
       "message": "注意: include リストを短縮しました。\n手作業で確認してください!"
+   },
+   "Author": {
+      "message": "作者"
    },
    "Auto": {
       "message": "自動"
@@ -290,6 +293,9 @@
    },
    "Delete": {
       "message": "削除"
+   },
+   "Description": {
+      "message": "説明"
    },
    "Disable": {
       "message": "無効にする"
@@ -564,6 +570,12 @@
    "Install": {
       "message": "インストール"
    },
+   "Install_to_Chrome": {
+      "message": "Chrome にインストール"
+   },
+   "Install_to_Tampermonkey": {
+      "message": "Tampermonkey にインストール"
+   },
    "Installed_Version_": {
       "message": "インストールされたバージョン:"
    },
@@ -581,6 +593,9 @@
    },
    "Invalid_scheme_of_url": {
       "message": "URL スキームが無効です"
+   },
+   "Italian": {
+      "message": "イタリア語/Italian"
    },
    "Japanese": {
       "message": "日本語/Japanese"
@@ -611,6 +626,9 @@
    },
    "Make_includes_more_safe": {
       "message": "include をより安全にする"
+   },
+   "Malicious_scripts_can_violate_your_privacy_": {
+      "message": "悪意があるスクリプトは、あなたのプライバシーを侵害する場合があり、あなたに成りすます場合があります!\n信頼できる入手元のスクリプトのみをインストールしてください。"
    },
    "Manual_Script_Blacklist": {
       "message": "UserScript と @require のブラックリストの手動指定"
@@ -900,6 +918,9 @@
    "Sort": {
       "message": "並べ替え"
    },
+   "Source": {
+      "message": "入手元"
+   },
    "Spaces": {
       "message": "空白"
    },
@@ -988,6 +1009,9 @@
    },
    "TextArea": {
       "message": "TextArea"
+   },
+   "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
+      "message": "ダウングレードされたスクリプトが格納されたデータを読み取ることで問題点が発生する場合があります!"
    },
    "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
       "message": "更新 URL が変更されました。変更前:\n    「$oldurl$」\n    変更後:\n    「$newurl$」\n",
