@@ -332,6 +332,9 @@
    "Dont_ask_me_for_simple_script_updates": {
       "message": "シンプルなスクリプトの更新について確認を求めない"
    },
+   "Downgrade": {
+      "message": "ダウングレード"
+   },
    "Downloaded_from_0url0": {
       "message": "ダウンロード元: $url$",
       "placeholders": {
@@ -636,6 +639,9 @@
    "Many_userscripts_require_the_unsafeWindow_object_to_interact_with_the_pages_javascript_": {
       "message": "多くの UserScript では、JavaScript でページとやり取りするために unsafeWindow が必要です!"
    },
+   "Modify": {
+      "message": "変更"
+   },
    "Name": {
       "message": "名前"
    },
@@ -762,6 +768,9 @@
    "Post_Import_Action": {
       "message": "インポート後の動作"
    },
+   "Process_with_Chrome": {
+      "message": "Chrome で処理"
+   },
    "Processing_scripts": {
       "message": "スクリプトを処理中"
    },
@@ -807,6 +816,9 @@
    },
    "Reindent_on_typing": {
       "message": "タイピング中に再インデントする"
+   },
+   "Reinstall": {
+      "message": "再インストール"
    },
    "Remove": {
       "message": "削除"
@@ -1153,6 +1165,9 @@
    "UnsafeWindow_retrieval_method": {
       "message": "UnsafeWindow 取得メソッド"
    },
+   "Update": {
+      "message": "更新"
+   },
    "UpdateCheck_of_0name0_Url_0url0_failed_": {
       "message": "「$name$」(URL: $url$) の更新の確認に失敗しました!",
       "placeholders": {
@@ -1263,6 +1278,9 @@
    },
    "Your_data_will_not_automatically_synced_between_different_servers": {
       "message": "データは異なるサーバー間では自動同期できません!"
+   },
+   "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
+      "message": "あなたの言語には未対応ですか?\nTampermonkey を翻訳する手順についてはこちらをクリックしてください。"
    },
    "_0_scripts_found": {
       "message": "? スクリプトを利用できます"
