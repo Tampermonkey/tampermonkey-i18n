@@ -34,10 +34,10 @@
   "Do_you_want_to_install_this_userscript_in_Tampermonkey_or_Chrome": {
     "message": "Deseas instalar este userscript: \nen Tampermonkey (Aceptar) o \nnativamente en Chrome (Cancelar)"
   },
-  "Name_": {
+  "Name": {
     "message": "Nombre"
   },
-  "Note_": {
+  "Note": {
     "message": "Advertencia"
   },
   "Installed_Version_": {
@@ -603,9 +603,6 @@
   },
   "Last_Changed": {
     "message": "Último Cambio"
-  },
-  "Name": {
-    "message": "Nombre"
   },
   "Version": {
     "message": "Versión"

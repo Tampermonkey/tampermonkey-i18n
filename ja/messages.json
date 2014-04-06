@@ -645,9 +645,6 @@
    "Name": {
       "message": "名前"
    },
-   "Name_": {
-      "message": "名前:"
-   },
    "Native": {
       "message": "ネイティブ"
    },
@@ -687,8 +684,8 @@
    "None": {
       "message": "なし"
    },
-   "Note_": {
-      "message": "注釈:"
+   "Note": {
+      "message": "注釈"
    },
    "Novice": {
       "message": "新参者"

@@ -34,10 +34,10 @@
   "Do_you_want_to_install_this_userscript_in_Tampermonkey_or_Chrome": {
     "message": "您是安装这个用户脚本: \n在 Tampermonkey 中 (确定)\n原生在 Chrome 中 (取消)"
   },
-  "Name_": {
+  "Name": {
     "message": "名称"
   },
-  "Note_": {
+  "Note": {
     "message": "说明"
   },
   "Installed_Version_": {
@@ -645,9 +645,6 @@
   },
   "Last_Changed": {
     "message": "最新变化"
-  },
-  "Name": {
-    "message": "名称"
   },
   "Version": {
     "message": "版本"

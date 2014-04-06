@@ -438,9 +438,6 @@
    "Name": {
       "message": "Nazwa"
    },
-   "Name_": {
-      "message": "Nazwa"
-   },
    "Never": {
       "message": "nigdy"
    },
@@ -465,7 +462,7 @@
    "No_update_found__sry_": {
       "message": "Brak aktualizacji!"
    },
-   "Note_": {
+   "Note": {
       "message": "Notatka"
    },
    "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {

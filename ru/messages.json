@@ -50,10 +50,10 @@
   "Please_double_check_the_native_script_import_settings__": {
     "message": "Невозможно загрузить UserScript!\n\nПожалуйста, дважды проверьте настройки 'Native Script Import'."
   },
-  "Name_": {
+  "Name": {
     "message": "Имя"
   },
-  "Note_": {
+  "Note": {
     "message": "Примечание"
   },
   "Installed_Version_": {
@@ -736,9 +736,6 @@
   },
   "Last_Changed": {
     "message": "Последние изменения"
-  },
-  "Name": {
-    "message": "Название"
   },
   "Version": {
     "message": "Версия"

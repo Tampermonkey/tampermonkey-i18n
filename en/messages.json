@@ -50,10 +50,10 @@
   "Please_double_check_the_native_script_import_settings__": {
     "message": "Unable to load the UserScript!\n\nPlease double check the 'Native Script Import' settings."
   },
-  "Name_": {
+  "Name": {
     "message": "Name"
   },
-  "Note_": {
+  "Note": {
     "message": "Note"
   },
   "Installed_Version_": {
@@ -128,6 +128,24 @@
   },
   "Source": {
     "message": "Source"
+  },
+  "Install": {
+    "message": "Install"
+  },
+  "Reinstall": {
+    "message": "Reinstall"
+  },
+  "Modify": {
+    "message": "Modify"
+  },
+  "Downgrade": {
+    "message": "Downgrade"
+  },
+  "Update": {
+    "message": "Update"
+  },
+  "Process_with_Chrome": {
+    "message": "Process with Chrome"
   },
   "Do_you_want_to_continue_": {
     "message": "Do you want to continue?"
@@ -438,7 +456,7 @@
     "message": "Unable to parse this! :("
   },
   "An_error_occured_during_import_": {
-    "message": "An error occured during import. Please take a look at the console for more infos! (CTRL+SHIFT+J)"
+    "message": "An error occured during import."
   },
   "Import_from_Textarea": {
     "message": "Import from Textarea"
@@ -737,9 +755,6 @@
   "Last_Changed": {
     "message": "Last Changed"
   },
-  "Name": {
-    "message": "Name"
-  },
   "Version": {
     "message": "Version"
   },
@@ -945,6 +960,9 @@
   },
   "Tampermonkey_can_not_work_when_javascript_is_disabled": {
     "message": "Tampermonkey can't work when javascript is disabled at a page where a script should run on. This settings allows TM to overwrite this setting that either was made by you or a script blocker. This does only affects inline scripts from the page but not remote scripts."
+  },
+  "A_lot_of_userscripts_require_the_unsafeWindow_object_to_interact_with_the_pages_javascript_": {
+    "message": "A lot of userscripts require the unsafeWindow object to interact with the pages javascript! When this is configured wrong some of them might not work anymore!"
   },
   "Yes": {
     "message": "Yes"
@@ -1185,6 +1203,9 @@
   },
   "severity_10": {
     "message": "10 (least secure)"
+  },
+  "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
+    "message": "Your language is not supported?\nClick here to get intructions how to translate Tampermonkey?"
   },
   "Default": {
     "message": "Default"

@@ -50,10 +50,10 @@
   "Please_double_check_the_native_script_import_settings__": {
     "message": "Non riesco a caricare lo script!\n\nPer favore ricontrolla le impostazioni di 'Importa script nativo'."
   },
-  "Name_": {
+  "Name": {
     "message": "Nome"
   },
-  "Note_": {
+  "Note": {
     "message": "Nota"
   },
   "Installed_Version_": {
@@ -721,9 +721,6 @@
   },
   "Last_Changed": {
     "message": "Ultima modifica"
-  },
-  "Name": {
-    "message": "Nome"
   },
   "Version": {
     "message": "Versione"

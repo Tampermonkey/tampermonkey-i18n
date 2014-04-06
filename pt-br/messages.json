@@ -574,9 +574,6 @@
     "Name": {
         "message": "Nome"
     },
-    "Name_": {
-        "message": "Nome:"
-    },
     "Native": {
         "message": "Nativo"
     },
@@ -616,8 +613,8 @@
     "None": {
         "message": "Nenhuma"
     },
-    "Note_": {
-        "message": "Nota:"
+    "Note": {
+        "message": "Nota"
     },
     "Novice": {
         "message": "Aprendiz"

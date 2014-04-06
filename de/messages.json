@@ -50,10 +50,10 @@
   "Please_double_check_the_native_script_import_settings__": {
     "message": "Das Userscript konnte nicht geladen werden!\n\nBitte Überprüfen Sie die Einstellungen im Abschnitt 'Nativer Script Import'."
   },
-  "Name_": {
+  "Name": {
     "message": "Name"
   },
-  "Note_": {
+  "Note": {
     "message": "Achtung"
   },
   "Installed_Version_": {
@@ -128,6 +128,24 @@
   },
   "Source": {
     "message": "Quelle"
+  },
+  "Install": {
+    "message": "Installieren"
+  },
+  "Reinstall": {
+    "message": "Neu installieren"
+  },
+  "Modify": {
+    "message": "Modifizieren"
+  },
+  "Downgrade": {
+    "message": "Downgrade"
+  },
+  "Update": {
+    "message": "Update"
+  },
+  "Process_with_Chrome": {
+    "message": "An Chrome übergeben"
   },
   "Do_you_want_to_continue_": {
     "message": "Möchten Sie fortfahren?"
@@ -438,7 +456,7 @@
     "message": "Falsche syntax! :("
   },
   "An_error_occured_during_import_": {
-    "message": "Ein Fehler ist aufgetreten, mehr Informationen sind in der Konsole zu finden! (Strg-Shift+J)"
+    "message": "Während des Imports is ein Fehler aufgetreten."
   },
   "Import_from_Textarea": {
     "message": "Import von Textarea"
@@ -692,9 +710,6 @@
   "Last_Changed": {
     "message": "Letzte Änderung"
   },
-  "Name": {
-    "message": "Name"
-  },
   "Version": {
     "message": "Version"
   },
@@ -898,6 +913,9 @@
   "Tampermonkey_can_not_work_when_javascript_is_disabled": {
     "message": "Tampermonkey kann nicht arbeiten, wenn auf einer Seite kein Javascript aktiviert ist. Diese Option erlaubt TM diese Einstellung zu überschreiben, falls Javascript z.B. durch einen Script-Blocker deaktiviert wurde. Hiervon sind nur direkt in der Seite enthaltenen Scripte betroffen. "
   },
+  "A_lot_of_userscripts_require_the_unsafeWindow_object_to_interact_with_the_pages_javascript_": {
+    "message": "Viele Scripte benötigen ein 'unsafeWindow' Objekt, dass Zugriff auf den Javascript-Kontext der Seite erlaubt. Wenn diese Option falsch eingestellt ist, funktionieren einige Scripte eventuell nicht mehr!"
+  },
   "Yes": {
     "message": "Ja"
   },
@@ -1031,7 +1049,10 @@
     "message": "Nativer Script Import"
   },
   "Enable_Native_Script_Import": {
-    "message": "Nativen Script Import Aktivieren"
+    "message": "Nativen Script Import aktivieren"
+  },
+  "Post_Import_Action": {
+    "message": "Aktion nach dem Import"
   },
   "None": {
     "message": "Keine"
@@ -1134,6 +1155,9 @@
   },
   "severity_10": {
     "message": "10 (unsicherer)"
+  },
+  "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
+    "message": "Deine Sprache wird nicht unterstützt?\nKlicken sie hier um zu erfahren, wie sie Tampermonkey übersetzen können?"
   },
   "EOF": {
     "message": "EOF"

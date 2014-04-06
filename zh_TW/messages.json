@@ -34,10 +34,10 @@
   "Do_you_want_to_install_this_userscript_in_Tampermonkey_or_Chrome": {
     "message": "要安裝使用者腳本到: \n Tampermonkey (Ok) 或 \n Chrome (Cancel)"
   },
-  "Name_": {
+  "Name": {
     "message": "名稱"
   },
-  "Note_": {
+  "Note": {
     "message": "說明"
   },
   "Installed_Version_": {
@@ -618,9 +618,6 @@
   },
   "Last_Changed": {
     "message": "最新更動"
-  },
-  "Name": {
-    "message": "名稱"
   },
   "Version": {
     "message": "版本"
