@@ -50,6 +50,9 @@
    "9": {
       "message": "9"
    },
+   "A_lot_of_userscripts_require_the_unsafeWindow_object_to_interact_with_the_pages_javascript_": {
+      "message": "多数の UserScript が、JavaScript でページとやり取りするために unsafeWindow を必要とします! 設定を誤ると、これらのスクリプトは動作しなくなるおそれがあります!"
+   },
    "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
       "message": "GreaseMonkey/FF 互換性オプションを再確認してください。このスクリプトの実行に必要である可能性があります。"
    },
@@ -116,7 +119,7 @@
       "message": "スクリプト ブロッカーの設定への上書きを許可する"
    },
    "An_error_occured_during_import_": {
-      "message": "インポート中にエラーが発生しました。詳細情報はコンソールをご覧ください! (Ctrl+Shift+J)"
+      "message": "インポート中にエラーが発生しました。"
    },
    "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
       "message": "内部エラーが発生しました。この問題点が継続する場合は、OK を押してこの問題点をフォーラムで報告してください。\n\nTampermonkey フォーラムに移動しますか?"
