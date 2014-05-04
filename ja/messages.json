@@ -208,7 +208,7 @@
       "message": "確認の間隔"
    },
    "Chinese__Simplified_": {
-      "message": "中国語 (簡体)/Chinese (Simplfied)"
+      "message": "中国語 (簡体)/Chinese (Simplified)"
    },
    "Chinese__Traditional_": {
       "message": "中国語 (繁体)/Chinese (Traditional)"
@@ -389,7 +389,7 @@
       "message": "TamperFire を有効にする"
    },
    "Enable_autoSave": {
-      "message": "エディターがフォーカスが失った際に内容を保存する"
+      "message": "エディターがフォーカスを失った際に内容を保存する"
    },
    "Enable_easySave": {
       "message": "保存する際に確認ダイアログを表示しない"
