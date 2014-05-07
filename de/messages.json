@@ -315,6 +315,9 @@
   "Save": {
     "message": "Speichern"
   },
+  "OK": {
+    "message": "OK"
+  },
   "Cancel": {
     "message": "Abbrechen"
   },
@@ -636,8 +639,23 @@
   "Security": {
     "message": "Sicherheit"
   },
-  "Forbidden_Pages": {
-    "message": "Verbotene Seiten"
+  "Page_Filter_Mode": {
+    "message": "Filtere Seiten durch"
+  },
+  "Whitelisted_Pages": {
+    "message": "Positivliste"
+  },
+  "Blacklisted_Pages": {
+    "message": "Negativliste"
+  },
+  "Blacklist": {
+    "message": "Negativliste"
+  },
+  "Whitelist": {
+    "message": "Positivliste"
+  },
+  "Both": {
+    "message": "Beide"
   },
   "This_page_is_blacklisted_at_the_security_settings": {
     "message": "Durch Sicherheitsoptionen geblockt"
@@ -1035,6 +1053,9 @@
   },
   "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
     "message": "Tampermonkey benötigt Zugriff auf das lokale Dateisystem um den 'Nativen Script Import' zu ermöglichen.\n\nKlicken Sie hier um Hilfe zum Thema zu bekommen!"
+  },
+  "Tampermonkey_has_no_file_access_permission_": {
+    "message": "Tampermonkey hat keinen Zugriff auf das lokale Dateisystem!"
   },
   "Everything_is_setup_correctly_": {
     "message": "Hier wurde alles korrekt konfiguriert."

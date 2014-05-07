@@ -315,6 +315,9 @@
   "Save": {
     "message": "Save"
   },
+  "OK": {
+    "message": "OK"
+  },
   "Cancel": {
     "message": "Cancel"
   },
@@ -678,8 +681,23 @@
   "Security": {
     "message": "Security"
   },
-  "Forbidden_Pages": {
-    "message": "Forbidden Pages"
+  "Page_Filter_Mode": {
+    "message": "Page Filter Mode"
+  },
+  "Whitelisted_Pages": {
+    "message": "Whitelisted Pages"
+  },
+  "Blacklisted_Pages": {
+    "message": "Blacklisted Pages"
+  },
+  "Blacklist": {
+    "message": "Blacklist"
+  },
+  "Whitelist": {
+    "message": "Whitelist"
+  },
+  "Both": {
+    "message": "Both"
   },
   "_require_blacklist": {
     "message": "@require Blacklist"
@@ -1080,6 +1098,9 @@
   },
   "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
     "message": "Tampermonkey needs access to file URIs to make the script import work.\n\nClick here to visit the FAQ to learn how you can grant that permission!"
+  },
+  "Tampermonkey_has_no_file_access_permission_": {
+    "message": "Tampermonkey has no permission to access local files!"
   },
   "Everything_is_setup_correctly_": {
     "message": "Everything is setup correctly."
