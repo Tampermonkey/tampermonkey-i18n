@@ -12,10 +12,10 @@
     "message": "运行脚本 $name$ @ $url$",
     "placeholders": {
       "url": {
-         "content": "$1"
+        "content": "$1"
       },
       "name": {
-         "content": "$2"
+        "content": "$2"
       }
     }
   },
@@ -28,11 +28,27 @@
   "Invalid_UserScript_name__Sry_": {
     "message": "无效的 UserScript 脚本名称!"
   },
-  "Unable_to_get_UserScript__Sry_": {
-    "message": "无法加载 UserScript!"
+  "Script_name_0url0": {
+    "message": "脚本名称: $name$",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      }
+    }
   },
-  "Do_you_want_to_install_this_userscript_in_Tampermonkey_or_Chrome": {
-    "message": "您是安装这个用户脚本: \n在 Tampermonkey 中 (确定)\n原生在 Chrome 中 (取消)"
+  "Downloaded_from_0url0": {
+    "message": "下载来源: $url$",
+    "placeholders": {
+      "url": {
+        "content": "$1"
+      }
+    }
+  },
+  "Unable_to_get_UserScript__Sry_": {
+    "message": "无法获取 UserScript!"
+  },
+  "Please_double_check_the_native_script_import_settings__": {
+    "message": "无法读取 UserScript!\n\n请再次检查 'Native Script Import' 设置."
   },
   "Name": {
     "message": "名称"
@@ -44,16 +60,22 @@
     "message": "已安装版本"
   },
   "You_are_about_to_reinstall_a_UserScript_": {
-    "message": "UserScript 脚本重装"
+    "message": "即将重新安装 UserScript"
   },
   "You_are_about_to_downgrade_a_UserScript": {
-    "message": "注意! Userscript 脚本降级"
+    "message": "即将降级 Userscript"
+  },
+  "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
+    "message": "降级后的脚本可能无法读取自身已存数据!"
+  },
+  "Malicious_scripts_can_violate_your_privacy_": {
+    "message": "恶意脚本可能违背您的意愿进行操作从而侵犯您的隐私!\n您应当从信任的来源安装脚本."
   },
   "You_are_about_to_modify_a_UserScript_": {
-    "message": "UserScript 脚本修改"
+    "message": "进行 UserScript 的修改"
   },
   "You_are_about_to_update_a_UserScript_": {
-    "message": "UserScript 脚本更新"
+    "message": "将要进行 UserScript 的更新"
   },
   "You_are_about_to_install_a_UserScript_": {
     "message": "UserScript 脚本安装"
@@ -68,7 +90,7 @@
     "message": "Tampermonkey 假设使用 '$urlAllHttp$' 以继续执行!",
     "placeholders": {
       "urlAllHttp": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -76,10 +98,10 @@
     "message": "更新 url 从 '$oldurl$' 改为 '$newurl$'.",
     "placeholders": {
       "oldurl": {
-         "content": "$1"
+        "content": "$1"
       },
       "newurl": {
-         "content": "$2"
+        "content": "$2"
       }
     }
   },
@@ -98,17 +120,41 @@
   "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
     "message": "为了运行当前脚本需要开启 GreaseMonkey/FF 兼容性选项."
   },
+  "Author": {
+    "message": "作者"
+  },
+  "Description": {
+    "message": "简介"
+  },
+  "Source": {
+    "message": "源"
+  },
+  "Install": {
+    "message": "安装"
+  },
+  "Reinstall": {
+    "message": "重新安装"
+  },
+  "Modify": {
+    "message": "修改"
+  },
+  "Downgrade": {
+    "message": "降级"
+  },
+  "Update": {
+    "message": "更新"
+  },
+  "Process_with_Chrome": {
+    "message": "安装在 Chrome"
+  },
   "Do_you_want_to_continue_": {
     "message": "是否继续?"
-  },
-  "Got_strange_source_code_": {
-    "message": "获取到囧囧的源码"
   },
   "Update_found_for_0name0_": {
     "message": "'$name$' 发现可用更新.",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -116,10 +162,10 @@
     "message": "检查 '$name$' (Url: $url$) 的更新失败!",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       },
       "url": {
-         "content": "$2"
+        "content": "$2"
       }
     }
   },
@@ -145,7 +191,7 @@
     "message": "未知方法: $name$",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -182,6 +228,18 @@
   "Show_fixed_source": {
     "message": "显示规格化的源码"
   },
+  "LogLevel": {
+    "message": "日志记录级别"
+  },
+  "Trace": {
+    "message": "追踪"
+  },
+  "Verbose": {
+    "message": "详细"
+  },
+  "Debug": {
+    "message": "调试"
+  },
   "Installed_userscripts": {
     "message": "已安装脚本"
   },
@@ -197,8 +255,8 @@
   "Registered_menu_cmds": {
     "message": "注册菜单命令"
   },
-  "About": {
-    "message": "关于"
+  "Help": {
+    "message": "帮助"
   },
   "Changelog": {
     "message": "更新日志"
@@ -220,6 +278,9 @@
   },
   "Apply_compatibility_options_to_required_script_too": {
     "message": "也应用兼容性选项到 @require 脚本"
+  },
+  "Fix_wrappedJSObject_property_access": {
+    "message": "修复 wrappedJSObject 属性"
   },
   "Convert_CDATA_sections_into_a_chrome_compatible_format": {
     "message": "转换 CDATA 部分为 chrome 兼容的格式"
@@ -254,20 +315,38 @@
   "Save": {
     "message": "保存"
   },
+  "OK": {
+    "message": "OK"
+  },
   "Cancel": {
     "message": "取消"
   },
   "Reset": {
     "message": "重置"
   },
-  "There_are_unsaved_changed_" : {
+  "Search": {
+    "message": "搜索"
+  },
+  "Replace": {
+    "message": "替换"
+  },
+  "Jump_to_line": {
+    "message": "跳转到行"
+  },
+  "Insert_constructor": {
+    "message": "插入构造函数"
+  },
+  "Auto_Indent_all": {
+    "message": "全部自动缩进"
+  },
+  "There_are_unsaved_changed_": {
     "message": "有未保存改动! \n 确定关闭编辑器?"
   },
   "Do_you_really_want_to_store_fixed_code_": {
     "message": "选项 '$option$' 已启用! \n 是否确定保存修复后的源码?",
     "placeholders": {
       "option": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -285,6 +364,12 @@
   },
   "Sort": {
     "message": "排序"
+  },
+  "Actions": {
+    "message": "操作"
+  },
+  "Import": {
+    "message": "导入"
   },
   "Delete": {
     "message": "删除"
@@ -319,11 +404,21 @@
   "This_is_a_userscript": {
     "message": "这是一个使用 Javascript 编写的用户脚本"
   },
-  "Really_delete_this_script__": {
-    "message": "真的删除本脚本?"
+  "Really_import_0name0__": {
+    "message": "确认是否导入本地脚本 '$name$'?",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      }
+    }
   },
-  "Really_delete_this_extension__": {
-    "message": "真的删除本扩展?"
+  "Really_delete_0name0__": {
+    "message": "确认删除 '$name$'?",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      }
+    }
   },
   "Edit_this_script": {
     "message": "编辑本脚本"
@@ -339,6 +434,20 @@
   },
   "This_script_uses_uW_gm_api_": {
     "message": "本脚本使用了部分不被 Tampermonkey 或者其他任何脚本处理插件支持的 Greasemonkey 10 API (unsafeWindow.gmonkey)."
+  },
+  "A_script_with_that_name_already_exists_": {
+    "message": "重命名后的脚本名称已存在!"
+  },
+  "some_secs": {
+    "message": "部分"
+  },
+  "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
+    "message": "检测到冲突:\n $t$ 秒钟前另外一个标签页修改了此脚本!",
+    "placeholders": {
+      "t": {
+        "content": "$1"
+      }
+    }
   },
   "Enabled": {
     "message": "已启用"
@@ -367,11 +476,20 @@
   "Export_to_SandboxFS": {
     "message": "导出到 SandboxFS"
   },
+  "TextArea": {
+    "message": "TextArea"
+  },
+  "SandboxFS": {
+    "message": "SandboxFS"
+  },
+  "File": {
+    "message": "File"
+  },
   "There_is_an_update_for_0name0_avaiable_": {
     "message": "'$name$' 有可用更新. ^-^",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -382,7 +500,7 @@
     "message": "已更新到: $version$",
     "placeholders": {
       "version": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -421,24 +539,12 @@
   },
   "Every_Month": {
     "message": "每月"
-   },
+  },
   "Update_interval": {
     "message": "更新周期"
-   },
+  },
   "Editor": {
     "message": "编辑器"
-  },
-  "Key_Mapping": {
-    "message": "键位设置"
-  },
-  "Windows": {
-    "message": "Windows"
-  },
-  "Emacs": {
-    "message": "Emacs"
-  },
-  "Vim": {
-    "message": "Vim"
   },
   "Key_Mapping": {
     "message": "按键映射"
@@ -536,8 +642,11 @@
   "Auto_reload_on_script_enabled_desc": {
     "message": "在脚本启用/禁用后刷新相关页面"
   },
-  "Dont_ask_me_for_simple_script_updates": {
-    "message": "禁止询问一般脚本的更新请求"
+  "Anonymous_statistics": {
+    "message": "匿名统计信息"
+  },
+  "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
+    "message": "允许Tampermonkey通过GA统计匿名使用信息. 这能列出使用的侧重点来帮助开发与改进Tampermonkey. 如果无需要可直接禁用."
   },
   "Dont_ask_me_for_simple_script_updates": {
     "message": "不要询问我进行简单的脚本更新"
@@ -572,8 +681,23 @@
   "Security": {
     "message": "安全"
   },
-  "Forbidden_Pages": {
-    "message": "禁用脚本的页面"
+  "Page_Filter_Mode": {
+    "message": "页面过滤模式"
+  },
+  "Whitelisted_Pages": {
+    "message": "白名单页面"
+  },
+  "Blacklisted_Pages": {
+    "message": "黑名单页面"
+  },
+  "Blacklist": {
+    "message": "黑名单"
+  },
+  "Whitelist": {
+    "message": "白名单"
+  },
+  "Both": {
+    "message": "同时"
   },
   "_require_blacklist": {
     "message": "@require 黑名单"
@@ -588,7 +712,7 @@
     "message": "不能从 URL 加载脚本: \n $url$",
     "placeholders": {
       "url": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -606,6 +730,9 @@
   },
   "Restart_to_apply": {
     "message": "您需要重启 TM 以应用本设置。"
+  },
+  "Use_top_frame_URL_only": {
+    "message": "仅使用在顶层页面"
   },
   "TamperFire_update_started": {
     "message": "开始 TamperFire 更新"
@@ -673,6 +800,9 @@
   "Force_Update": {
     "message": "强制更新"
   },
+  "Click_here_to_move_this_script": {
+    "message": "点此移动脚本"
+  },
   "TamperFire_is_up_to_date_": {
     "message": "TamperFire 已是最新!"
   },
@@ -709,6 +839,9 @@
   "Enable_Sort_Cache": {
     "message": "开启排序缓存 (高内存占用)"
   },
+  "Save_to_disk": {
+    "message": "保存到磁盘"
+  },
   "Editor_reset": {
     "message": "重置编辑"
   },
@@ -720,6 +853,9 @@
   },
   "Do_you_really_want_to_factory_reset_this_script_": {
     "message": "您确实想要初始化这个脚本?"
+  },
+  "Dashboard": {
+    "message": "仪表盘"
   },
   "Options": {
     "message": "选项"
@@ -767,7 +903,7 @@
     "message": "添加为 $clude$",
     "placeholders": {
       "clude": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -843,6 +979,9 @@
   "Tampermonkey_can_not_work_when_javascript_is_disabled": {
     "message": "Tampermonkey 在脚本应该运行在的页面上的 javascript 被禁用时不能工作。这个设置让 TM 可以覆盖这个由您或脚本拦截器所做出的设置。这个只会影响来自页面的内联脚本而不会影响远程脚本。"
   },
+  "A_lot_of_userscripts_require_the_unsafeWindow_object_to_interact_with_the_pages_javascript_": {
+    "message": "绝大多数的脚本都需要此 unsafeWindow 对象来与页面js进行交互! 如果这个配置出错了,这些脚本可能永远无法再正常工作!"
+  },
   "Yes": {
     "message": "是"
   },
@@ -876,14 +1015,8 @@
   "A_script_blocker_was_detected_": {
     "message": "检测到一个脚本拦截器!"
   },
-  "Storage_permission_is_needed_": {
-    "message": "需要存储权限!"
-  },
   "Click_here_to_allow_TM_to_override_the_script_blocker": {
     "message": "为了让您的用户脚本运行，您需要点击这里以允许 Tampermonkey 能够凌驾于脚本拦截器设置之上!"
-  },
-  "Click_here_to_allow_TM_to_use_Google_sync": {
-    "message": "点击这里允许 Tampermonkey 使用 Google 同步!"
   },
   "Please_reload_this_page_in_order_to_run_your_userscripts_": {
     "message": "请重载本页面以运行您的用户脚本。"
@@ -921,6 +1054,114 @@
   "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
     "message": "当这个禁用时，Tampermonkey 可能无法提供对不安全上下文的访问 (unsafeWindow,页面的函数和变量)。"
   },
+  "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
+    "message": "至少这个页面的一部分会在 '禁止页面' 设置里列出来!"
+  },
+  "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
+    "message": "部分脚本会被当前页面的js设置或者js拦截器禁用!"
+  },
+  "Show_notification": {
+    "message": "显示一个通知"
+  },
+  "Open_changelog": {
+    "message": "打开更新日志"
+  },
+  "No_frames": {
+    "message": "仅在顶层页面运行"
+  },
+  "Runtime": {
+    "message": "运行时"
+  },
+  "UnsafeWindow_retrieval_method": {
+    "message": "UnsafeWindow 检索方法"
+  },
+  "Native": {
+    "message": "本地"
+  },
+  "Proxy": {
+    "message": "代理"
+  },
+  "Unsafe": {
+    "message": "非安全"
+  },
+  "Sandbox": {
+    "message": "沙河"
+  },
+  "Many_userscripts_require_the_unsafeWindow_object_to_interact_with_the_pages_javascript_": {
+    "message": "绝大多数的脚本都需要此 unsafeWindow 对象来与页面js进行交互!"
+  },
+  "This_option_is_essential_for_many_userscripts_to_work__Visit_the_FAQ_": {
+    "message": "绝大多数的脚本都需要此选项才能正常工作! 点此访问 FAQ."
+  },
+  "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
+    "message": "Tampermonkey 需要知道浏览器配置文件夹的绝对路径来保证脚本导入正常工作.\n\n点此访问 FAQ 去了解如何找到该路径!"
+  },
+  "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
+    "message": "Tampermonkey 需要访问本地文件权限来保证脚本导入正常工作.\n\n点此访问 FAQ 去了解如何获取此权限!"
+  },
+  "Tampermonkey_has_no_file_access_permission_": {
+    "message": "Tampermonkey 没有访问本地文件的权限!"
+  },
+  "Everything_is_setup_correctly_": {
+    "message": "安装完美成功."
+  },
+  "TM_has_access_to_file_URIs": {
+    "message": "Tampermonkey 拥有访问本地文件的权限. :)"
+  },
+  "Browser_Profile_Path": {
+    "message": "浏览器配置文件路径"
+  },
+  "Native_Script_Import": {
+    "message": "导入本地脚本"
+  },
+  "Enable_Native_Script_Import": {
+    "message": "允许导入本地脚本"
+  },
+  "Post_Import_Action": {
+    "message": "导入后的操作"
+  },
+  "None": {
+    "message": "无"
+  },
+  "Disable_Extension": {
+    "message": "禁用扩展"
+  },
+  "Uninstall_Extension": {
+    "message": "卸载扩展"
+  },
+  "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
+    "message": "成功导入一个本地脚本之后进档进行何种操作?"
+  },
+  "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
+    "message": "当浏览器升级 Tampermonkey 时会重启 Tampermonkey. 这可能会中断当前还在执行的脚本!\n\n请确认您不需要接收 Tampermonkey 更新的通知?"
+  },
+  "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
+    "message": "所有的改动只会保存到此隐身会话结束为止.!"
+  },
+  "Open_script_links_in": {
+    "message": "打开脚本连接"
+  },
+  "Current_Tab": {
+    "message": "当前标签页"
+  },
+  "New_Tab": {
+    "message": "新标签页"
+  },
+  "_not_set_": {
+    "message": "未设置"
+  },
+  "Layout": {
+    "message": "布局"
+  },
+  "Store_data_in_incognito_mode": {
+    "message": "以隐身模式保存数据"
+  },
+  "Temporary": {
+    "message": "临时"
+  },
+  "Permanent": {
+    "message": "永久"
+  },
   "Warning": {
     "message": "警告"
   },
@@ -929,6 +1170,63 @@
   },
   "Error": {
     "message": "错误"
+  },
+  "BlackCheck": {
+    "message": "黑名单检查"
+  },
+  "Script_Blacklist_Source": {
+    "message": "脚本黑名单源"
+  },
+  "Server_And_Manual": {
+    "message": "远程 + 手动管理"
+  },
+  "Only_Manual": {
+    "message": "仅手动管理"
+  },
+  "Manual_Script_Blacklist": {
+    "message": "手动管理脚本与 @require 的黑名单"
+  },
+  "This_script_is_blacklisted_": {
+    "message": "这个脚本在黑名单里!"
+  },
+  "Report_this_as_spam_or_malicious": {
+    "message": "报告这个是垃圾脚本或者是恶意脚本\n(需要拥有用户账户)"
+  },
+  "Blacklist_Severity": {
+    "message": "以严重等级禁用"
+  },
+  "severity_1": {
+    "message": "1 (最安全)"
+  },
+  "severity_2": {
+    "message": "2"
+  },
+  "severity_3": {
+    "message": "3"
+  },
+  "severity_4": {
+    "message": "4"
+  },
+  "severity_5": {
+    "message": "5"
+  },
+  "severity_6": {
+    "message": "6"
+  },
+  "severity_7": {
+    "message": "7"
+  },
+  "severity_8": {
+    "message": "8"
+  },
+  "severity_9": {
+    "message": "9"
+  },
+  "severity_10": {
+    "message": "10 (最不安全)"
+  },
+  "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
+    "message": "Your language is not supported?\nClick here to get intructions how to translate Tampermonkey?"
   },
   "Default": {
     "message": "默认"
@@ -942,11 +1240,17 @@
   "French": {
     "message": "Français"
   },
+  "Italian": {
+    "message": "Italiano"
+  },
   "Spanish": {
     "message": "español"
   },
   "Polish": {
     "message": "polski"
+  },
+  "Portuguese_Brazil": {
+    "message": "Português Brasileiro"
   },
   "Chinese__Simplified_": {
     "message": "中文 (简体)"
@@ -957,8 +1261,10 @@
   "Japanese": {
     "message": "日本語"
   },
+  "Russian": {
+    "message": "русский"
+  },
   "EOF": {
     "message": "EOF"
   }
 }
-
