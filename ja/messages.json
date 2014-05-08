@@ -172,8 +172,17 @@
    "BlackCheck": {
       "message": "ブラックリスト確認"
    },
+   "Blacklist": {
+      "message": "ブラックリスト"
+   },
    "Blacklist_Severity": {
       "message": "セキュリティ ブロックに基づくブロック"
+   },
+   "Blacklisted_Pages": {
+      "message": "ページのブラックリスト"
+   },
+   "Both": {
+      "message": "両方"
    },
    "Browser_Profile_Path": {
       "message": "ブラウザーのプロファイルのパス"
@@ -541,7 +550,7 @@
       "message": "Textarea からインポート"
    },
    "Imported": {
-      "message": "インポートしました"
+      "message": "インポート済み"
    },
    "Include_s__": {
       "message": "include:"
@@ -693,6 +702,9 @@
    "Novice": {
       "message": "新参者"
    },
+   "OK": {
+      "message": "OK"
+   },
    "Off": {
       "message": "OFF"
    },
@@ -728,6 +740,9 @@
    },
    "Overwrite_matches": {
       "message": "@match タグに上書き"
+   },
+   "Page_Filter_Mode": {
+      "message": "ページ フィルターのモード"
    },
    "Password": {
       "message": "パスワード"
@@ -1007,6 +1022,9 @@
    "Tampermonkey_can_not_work_when_javascript_is_disabled": {
       "message": "スクリプトを実行するページで JavaScript が無効になっている場合、Tampermonkey は動作できません。この設定を使用すると、ユーザーまたはスクリプト ブロッカーによる設定を Tampermonkey が上書きできるようになります。この設定は、ページのインライン スクリプトのみに影響し、リモート スクリプトには影響しません。"
    },
+   "Tampermonkey_has_no_file_access_permission_": {
+      "message": "Tampermonkey のローカル ファイルへのアクセスが許可されていません!"
+   },
    "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
       "message": "これを無効にすると、安全ではないコンテキスト (unsafeWindow、ページの関数や変数) へのアクセスを Tampermonkey が提供できなくなります。"
    },
@@ -1251,6 +1269,12 @@
    },
    "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
       "message": "ネイティブ スクリプトのインポートが完了した際、どの操作を実行しますか?"
+   },
+   "Whitelist": {
+      "message": "ホワイトリスト"
+   },
+   "Whitelisted_Pages": {
+      "message": "ページのホワイトリスト"
    },
    "Windows": {
       "message": "Windows"
