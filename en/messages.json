@@ -1171,6 +1171,24 @@
   "Error": {
     "message": "Error"
   },
+  "Externals": {
+    "message": "Externals"
+  },
+  "Requires": {
+    "message": "Requires"
+  },
+  "Resources": {
+    "message": "Resources"
+  },
+  "URL": {
+    "message": "URL"
+  },
+  "Size": {
+    "message": "Size"
+  },
+  "No_entry_found": {
+    "message": "No entry found"
+  },
   "BlackCheck": {
     "message": "BlackCheck"
   },

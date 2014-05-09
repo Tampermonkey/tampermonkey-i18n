@@ -1126,6 +1126,27 @@
   "Error": {
     "message": "Fehler"
   },
+  "Externals": {
+    "message": "Externals"
+  },
+  "Requires": {
+    "message": "Requires"
+  },
+  "Resources": {
+    "message": "Resources"
+  },
+  "URL": {
+    "message": "URL"
+  },
+  "Size": {
+    "message": "Größe"
+  },
+  "No_entry_found": {
+    "message": "Kein Eintrag gefunden"
+  },
+  "BlackCheck": {
+    "message": "BlackCheck"
+  },
   "Script_Blacklist_Source": {
     "message": "Script Blacklist Quelle"
   },
