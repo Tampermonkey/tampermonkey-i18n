@@ -463,6 +463,9 @@
    "Export_to_file": {
       "message": "ファイルにエクスポート"
    },
+   "Externals": {
+      "message": "外部"
+   },
    "Factory_Reset": {
       "message": "完全リセット"
    },
@@ -681,6 +684,9 @@
    "No_Indentation": {
       "message": "インデントなし"
    },
+   "No_entry_found": {
+      "message": "エントリがありません"
+   },
    "No_frames": {
       "message": "最上位フレーム (top) のみで実行する"
    },
@@ -850,11 +856,17 @@
    "Report_this_as_spam_or_malicious": {
       "message": "これをスパムまたは有害として報告\n(userscripts.org のアカウントが必要)"
    },
+   "Requires": {
+      "message": "require 指定"
+   },
    "Reset": {
       "message": "リセット"
    },
    "Reset_Section": {
       "message": "リセット"
+   },
+   "Resources": {
+      "message": "リソース"
    },
    "Restart_Tampermonkey": {
       "message": "Tampermonkey を再起動"
@@ -935,6 +947,9 @@
    },
    "Sites": {
       "message": "サイト"
+   },
+   "Size": {
+      "message": "サイズ"
    },
    "Smart": {
       "message": "スマート"
@@ -1133,6 +1148,9 @@
    },
    "Type": {
       "message": "種類"
+   },
+   "URL": {
+      "message": "URL"
    },
    "Unable_to_get_UserScript__Sry_": {
       "message": "UserScript を読み込めません。すみません!"
