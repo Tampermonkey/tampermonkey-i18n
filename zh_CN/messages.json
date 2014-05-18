@@ -691,7 +691,7 @@
     "message": "被安全设置列入黑名单"
   },
   "Update_Notification": {
-    "message": "显示 TampleMonkey 升级提醒"
+    "message": "显示 Tampermonkey 升级提醒"
   },
   "Unable_to_load_script_from_url_0url0": {
     "message": "无法从 URL 加载脚本: \n $url$",
@@ -714,7 +714,7 @@
     "message": "启用 TamperFire"
   },
   "Restart_to_apply": {
-    "message": "您需要重启 TamperMonkey 以应用本设置。"
+    "message": "您需要重启 Tampermonkey 以应用本设置。"
   },
   "Use_top_frame_URL_only": {
     "message": "仅使用在顶层页面"
