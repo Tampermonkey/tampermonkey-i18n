@@ -461,26 +461,11 @@
   "An_error_occured_during_import_": {
     "message": "导入出现错误。检查控制台以获得更多信息！(按Ctrl+Shift+J)"
   },
-  "Import_from_Textarea": {
-    "message": "从 Textarea 导入"
-  },
-  "Import_from_SandboxFS": {
-    "message": "从 SandboxFS 导入"
-  },
-  "Export_to_Textarea": {
-    "message": "导出到 Textarea"
-  },
-  "Export_to_file": {
-    "message": "导出到文件"
-  },
-  "Export_to_SandboxFS": {
-    "message": "导出到 SandboxFS"
+  "Export": {
+    "message": "导出到"
   },
   "TextArea": {
     "message": "TextArea"
-  },
-  "SandboxFS": {
-    "message": "SandboxFS"
   },
   "File": {
     "message": "File"

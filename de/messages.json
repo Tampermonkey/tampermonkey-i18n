@@ -464,26 +464,14 @@
   "An_error_occured_during_import_": {
     "message": "Während des Imports is ein Fehler aufgetreten."
   },
-  "Import_from_Textarea": {
-    "message": "Import von Textarea"
+  "Export": {
+    "message": "Exportieren"
   },
-  "Import_from_SandboxFS": {
-    "message": "Import von SandboxFS"
-  },
-  "Export_to_Textarea": {
-    "message": "Export zu Textarea"
-  },
-  "Export_to_file": {
-    "message": "Export in eine Datei"
-  },
-  "Export_to_SandboxFS": {
-    "message": "Export zu SandboxFS"
+  "Zip": {
+    "message": "Zip"
   },
   "TextArea": {
     "message": "Textarea"
-  },
-  "SandboxFS": {
-    "message": "SandboxFS"
   },
   "File": {
     "message": "Datei"

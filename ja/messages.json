@@ -457,14 +457,8 @@
    "Export_Mode": {
       "message": "エクスポートのモード"
    },
-   "Export_to_SandboxFS": {
-      "message": "SandboxFS にエクスポート"
-   },
-   "Export_to_Textarea": {
-      "message": "Textarea にエクスポート"
-   },
-   "Export_to_file": {
-      "message": "ファイルにエクスポート"
+   "Export": {
+      "message": "にエクスポート"
    },
    "Externals": {
       "message": "外部"
@@ -548,12 +542,6 @@
    },
    "Import_Mode": {
       "message": "インポートのモード"
-   },
-   "Import_from_SandboxFS": {
-      "message": "SandboxFS からインポート"
-   },
-   "Import_from_Textarea": {
-      "message": "Textarea からインポート"
    },
    "Imported": {
       "message": "インポート済み"
@@ -894,9 +882,6 @@
    },
    "Sandbox": {
       "message": "サンドボックス"
-   },
-   "SandboxFS": {
-      "message": "SandboxFS"
    },
    "Save": {
       "message": "保存"

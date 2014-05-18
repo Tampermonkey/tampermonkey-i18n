@@ -425,26 +425,14 @@
   "An_error_occured_during_import_": {
     "message": "Si è verfificato un errore durante l'importazione. Per favore, controlla la console per maggiori informazioni! (CTRL+SHIFT+J)"
   },
-  "Import_from_Textarea": {
-    "message": "Importa da area testo"
-  },
-  "Import_from_SandboxFS": {
-    "message": "Importa da SandboxFS"
-  },
-  "Export_to_Textarea": {
-    "message": "Esporta in area testo"
-  },
-  "Export_to_file": {
-    "message": "Esporta su file"
-  },
-  "Export_to_SandboxFS": {
-    "message": "Esporta su SandboxFS"
+  "Export": {
+    "message": "Esporta"
   },
   "TextArea": {
     "message": "Area testo"
   },
-  "SandboxFS": {
-    "message": "SandboxFS"
+  "Zip": {
+    "message": "Zip"
   },
   "File": {
     "message": "File"

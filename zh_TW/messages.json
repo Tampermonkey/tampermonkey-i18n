@@ -352,20 +352,11 @@
   "An_error_occured_during_import_": {
     "message": "匯入時發生錯誤. 檢查控制台以獲取更多訊息! (CTRL+SHIFT+J)"
   },
-  "Import_from_Textarea": {
-    "message": "從 文字區域 匯入"
+  "Import": {
+    "message": "匯入"
   },
-  "Import_from_SandboxFS": {
-    "message": "從 SandboxFS 匯入"
-  },
-  "Export_to_Textarea": {
-    "message": "匯出到 文字區域"
-  },
-  "Export_to_file": {
-    "message": "匯出到 檔案"
-  },
-  "Export_to_SandboxFS": {
-    "message": "匯出到 SandboxFS"
+  "Export": {
+    "message": "匯出到"
   },
   "There_is_an_update_for_0name0_avaiable_": {
     "message": "'$name$' 有可用更新. :)",

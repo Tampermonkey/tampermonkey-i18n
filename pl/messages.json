@@ -306,14 +306,8 @@
    "Export_Mode": {
       "message": "Tryb eksportu"
    },
-   "Export_to_SandboxFS": {
-      "message": "Eksportuj do SandboxFS"
-   },
-   "Export_to_Textarea": {
-      "message": "Eksportuj do pola tekstowego"
-   },
-   "Export_to_file": {
-      "message": "Eksportuj do pliku"
+   "Export": {
+      "message": "Eksportuj"
    },
    "Factory_Reset": {
       "message": "Ustawienia domy\u015Blne"
@@ -369,11 +363,8 @@
    "Import_Mode": {
       "message": "Tryb importu"
    },
-   "Import_from_SandboxFS": {
-      "message": "Importuj z SandboxFS"
-   },
-   "Import_from_Textarea": {
-      "message": "Importuj z pola tekstowego"
+   "Import": {
+      "message": "Importuj"
    },
    "Imported": {
       "message": "Zaimportowane"

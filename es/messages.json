@@ -340,20 +340,11 @@
   "An_error_occured_during_import_": {
     "message": "Ocurrió un error durante la importación. Dale una mirada a la consola para más información! (CTRL+SHIFT+J)"
   },
-  "Import_from_Textarea": {
-    "message": "Importar desde Textarea"
+  "Import": {
+    "message": "Importar"
   },
-  "Import_from_SandboxFS": {
-    "message": "Importar desde SandboxFS"
-  },
-  "Export_to_Textarea": {
-    "message": "Exportar a Textarea"
-  },
-  "Export_to_file": {
-    "message": "Exportar a Archivo"
-  },
-  "Export_to_SandboxFS": {
-    "message": "Exportar a SandboxFS"
+  "Export": {
+    "message": "Exportar"
   },
   "There_is_an_update_for_0name0_avaiable_": {
     "message": "Hay una actualización disponible para '$name$'. :)",

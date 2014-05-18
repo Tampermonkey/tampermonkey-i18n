@@ -397,14 +397,8 @@
     "Exclude_s__": {
         "message": "Exclusão(ões):"
     },
-    "Export_to_SandboxFS": {
-        "message": "Exportar para SandboxFS"
-    },
-    "Export_to_Textarea": {
-        "message": "Exportar para Área de Texto"
-    },
-    "Export_to_file": {
-        "message": "Exportar para Arquivo"
+    "Export": {
+        "message": "Exportar"
     },
     "Factory_Reset": {
         "message": "Reset de Fábrica"
@@ -470,13 +464,7 @@
         "message": "Icon Badge Info"
     },
     "Import": {
-        "message": "Import"
-    },
-    "Import_from_SandboxFS": {
-        "message": "Importar de SandboxFS"
-    },
-    "Import_from_Textarea": {
-        "message": "Importar de Área de Texto"
+        "message": "Importar"
     },
     "Imported": {
         "message": "Importado"
@@ -769,9 +757,6 @@
     },
     "Sandbox": {
         "message": "Sandbox"
-    },
-    "SandboxFS": {
-        "message": "SandboxFS"
     },
     "Save": {
         "message": "Salvar"
@@ -1151,6 +1136,9 @@
     },
     "You_are_about_to_update_a_UserScript_": {
         "message": "Atualização de Userscript:"
+    },
+    "Zip": {
+        "message": "Zip"
     },
     "_0_scripts_found": {
         "message": "? scripts disponíveis"

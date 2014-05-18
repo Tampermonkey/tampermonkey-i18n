@@ -440,26 +440,11 @@
   "An_error_occured_during_import_": {
     "message": "Произошла ошибка при импорте. Пожалуйста, посмотрите в консоли более подробную информацию! (Ctrl + Shift + J)"
   },
-  "Import_from_Textarea": {
-    "message": "Импорт из текстового поля"
-  },
-  "Import_from_SandboxFS": {
-    "message": "Импорт из SandboxFS"
-  },
-  "Export_to_Textarea": {
-    "message": "Экспорт в текстовое поле"
-  },
-  "Export_to_file": {
-    "message": "Экспорт в файл"
-  },
-  "Export_to_SandboxFS": {
-    "message": "Экспорт в SandboxFS"
+  "Export": {
+    "message": "Экспорт"
   },
   "TextArea": {
     "message": "TextArea"
-  },
-  "SandboxFS": {
-    "message": "SandboxFS"
   },
   "File": {
     "message": "Файл"
