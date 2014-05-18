@@ -74,6 +74,9 @@
    "Account_is_verified": {
       "message": "同期の認証情報を検証しました"
    },
+   "Action": {
+      "message": "操作"
+   },
    "Actions": {
       "message": "操作"
    },
