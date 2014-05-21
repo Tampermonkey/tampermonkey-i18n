@@ -356,7 +356,7 @@
     "message": "匯入"
   },
   "Export": {
-    "message": "匯出到"
+    "message": "匯出"
   },
   "There_is_an_update_for_0name0_avaiable_": {
     "message": "'$name$' 有可用更新. :)",

@@ -462,7 +462,7 @@
     "message": "导入出现错误。检查控制台以获得更多信息！(按Ctrl+Shift+J)"
   },
   "Export": {
-    "message": "导出到"
+    "message": "导出"
   },
   "TextArea": {
     "message": "TextArea"
