@@ -214,13 +214,13 @@
     "message": "Includes absichern"
   },
   "Includes_more_safe_example": {
-    "message": "(Wenn aktiviert wird z.B. 'http://*google.*/*' als 'http://*google.tld/*' interpretiert um das Starten auf 'http://www.google.myevilpage.com/' zu verhindern.)"
+    "message": "Wenn diese Option aktiviert ist, dann wird z.B. 'http://*google.*/*' als 'http://*google.tld/*' interpretiert um das Starten auf 'http://www.google.myevilpage.com/' zu verhindern."
   },
   "Fix_includes": {
     "message": "Berichtige Includes"
   },
   "Fix_includes_example": {
-    "message": "(Diese Option interpretiert '*' als 'http://*/*')"
+    "message": "Diese Option interpretiert '*' als '/https?:\/\/.*\/.*/'"
   },
   "Debug_scripts": {
     "message": "Aktiviere Script-Debugger"
@@ -470,6 +470,9 @@
   "Zip": {
     "message": "Zip"
   },
+  "Include_script_storage": {
+    "message": "Inklusive den gespeicherten Script-Daten"
+  },
   "TextArea": {
     "message": "Textarea"
   },
@@ -673,6 +676,9 @@
   },
   "Enable_TamperFire": {
     "message": "Aktiviere TamperFire"
+  },
+  "Searches_for_scripts_that_can_be_used_on_the_current_page_": {
+    "message": "Sucht nach Scripts, die auf der aktuellen Seite genutzt werden können.\nDie Ergebnisse werden im Kontext-Menü angezeigt."
   },
   "Restart_to_apply": {
     "message": "TM muss neu gestartet werden um diese Einstellung zu übernehmen."
@@ -888,6 +894,9 @@
   },
   "Enable_TESLA": {
     "message": "Aktiviere TESLA"
+  },
+  "Tampermonkey_External_Script_List_Access": {
+    "message": "Script Synchronization (Tampermonkey External Script List Access)"
   },
   "Sync_Type": {
     "message": "Typ"

@@ -214,13 +214,13 @@
     "message": "Make includes more safe"
   },
   "Includes_more_safe_example": {
-    "message": "(if enabled for example 'http://*google.*/*' is interpreted as 'http://*google.tld/*' to avoid this script to work on 'http://www.google.myevilpage.com/')"
+    "message": "If enabled for example 'http://*google.*/*' is interpreted as 'http://*google.tld/*' to avoid this script to work on 'http://www.google.myevilpage.com/'"
   },
   "Fix_includes": {
     "message": "Fix includes"
   },
   "Fix_includes_example": {
-    "message": "(this option converts a simple '*' to 'http://*/*')"
+    "message": "This option converts a simple '*' to '/https?:\/\/.*\/.*/'"
   },
   "Debug_scripts": {
     "message": "Debug scripts"
@@ -473,6 +473,9 @@
   "Zip": {
     "message": "Zip"
   },
+  "Include_script_storage": {
+    "message": "Include script storage"
+  },
   "File": {
     "message": "File"
   },
@@ -719,6 +722,9 @@
   "Enable_TamperFire": {
     "message": "Enable TamperFire"
   },
+  "Searches_for_scripts_that_can_be_used_on_the_current_page_": {
+    "message": "Searches for scripts that can be used on the current page.\nThe results will then be displayed at the context menu."
+  },
   "Restart_to_apply": {
     "message": "You need to restart TM to apply this setting."
   },
@@ -935,7 +941,7 @@
     "message": "Enable TESLA"
   },
   "Tampermonkey_External_Script_List_Access": {
-    "message": "Tampermonkey External Script List Access"
+    "message": "Script synchronization (Tampermonkey External Script List Access)"
   },
   "Sync_Type": {
     "message": "Type"
@@ -1043,7 +1049,7 @@
     "message": "Add Tampermonkey to the site's content security policy (CSP) if there is one"
   },
   "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
-    "message": "Tampermonkey might not be able not provide access to the unsafe context (unsafeWindow, page's functions and variables) when this is disabled."
+    "message": "Tampermonkey might not be able to provide access to the unsafe context (unsafeWindow, page's functions and variables) when this is disabled."
   },
   "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
     "message": "At least one part of this page is listed at the 'forbidden pages' setting!"
