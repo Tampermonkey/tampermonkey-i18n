@@ -283,7 +283,7 @@
     "message": "Fix wrappedJSObject property access"
   },
   "Convert_CDATA_sections_into_a_chrome_compatible_format": {
-    "message": "Convert CDATA sections into a chrome compatible format"
+    "message": "Convert CDATA sections into a Chrome compatible format"
   },
   "Fix_for_var_in_statements": {
     "message": "Fix 'for (var j in x)' statements"
@@ -396,7 +396,7 @@
     "message": "This is a system script."
   },
   "This_is_a_chrome_extension": {
-    "message": "This is a chrome extension"
+    "message": "This is a Chrome extension"
   },
   "This_script_runs_in_Chrome_mode": {
     "message": "This script runs in Chrome mode"
@@ -405,7 +405,7 @@
     "message": "This item only changes the User-Agent for the includes webpages"
   },
   "This_is_a_userscript": {
-    "message": "This is a user script written in Javascript"
+    "message": "This is a userscript written in Javascript"
   },
   "Really_import_0name0__": {
     "message": "Do you really want to import the native script '$name$'?",
@@ -674,6 +674,33 @@
   },
   "Security": {
     "message": "Security"
+  },
+  "Downloads": {
+    "message": "Downloads"
+  },
+  "Download_Mode": {
+    "message": "Download Mode"
+  },
+  "Browser_API": {
+    "message": "Browser API"
+  },
+  "The_Browser_API_mode_requires_a_special_permission_": {
+    "message": "The Browser API mode requires a special permission."
+  },
+  "Whitelisted_File_Extensions": {
+    "message": "Whitelisted File Extensions"
+  },
+  "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
+    "message": "Only files with these extensions can be saved to the harddisk.\nBe careful to not allow file extensions that represent executables at your operating system!"
+  },
+  "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
+    "message": "Your whitelist seems to include executable files!\nThis means your userscripts may download malware or spyware to your harddisk!!"
+  },
+  "Browser_API_Downloads": {
+    "message": "Browser API Downloads"
+  },
+  "Click_here_to_allow_TM_to_start_downloads": {
+    "message": "Click here to allow Tampermonkey to start downloads."
   },
   "Page_Filter_Mode": {
     "message": "Page Filter Mode"
@@ -974,10 +1001,10 @@
     "message": "Allow overwrite scriptblocker settings"
   },
   "Tampermonkey_can_not_work_when_javascript_is_disabled": {
-    "message": "Tampermonkey can't work when javascript is disabled at a page where a script should run on. This settings allows TM to overwrite this setting that either was made by you or a script blocker. This does only affects inline scripts from the page but not remote scripts."
+    "message": "Tampermonkey can't work when Javascript is disabled at a page where a script should run on. This settings allows TM to overwrite this setting that either was made by you or a script blocker. This does only affects inline scripts from the page but not remote scripts."
   },
   "A_lot_of_userscripts_require_the_unsafeWindow_object_to_interact_with_the_pages_javascript_": {
-    "message": "A lot of userscripts require the unsafeWindow object to interact with the pages javascript! When this is configured wrong some of them might not work anymore!"
+    "message": "A lot of userscripts require the unsafeWindow object to interact with the pages Javascript! When this is configured wrong some of them might not work anymore!"
   },
   "Yes": {
     "message": "Yes"
@@ -1055,7 +1082,7 @@
     "message": "At least one part of this page is listed at the 'forbidden pages' setting!"
   },
   "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
-    "message": "Some scripts might be blocked by the javascript settings for this page or a script blocker!"
+    "message": "Some scripts might be blocked by the Javascript settings for this page or a script blocker!"
   },
   "Show_notification": {
     "message": "Show a notification"
@@ -1085,7 +1112,7 @@
     "message": "Sandbox"
   },
   "Many_userscripts_require_the_unsafeWindow_object_to_interact_with_the_pages_javascript_": {
-    "message": "Many userscripts require the unsafeWindow object to interact with the pages javascript!"
+    "message": "Many userscripts require the unsafeWindow object to interact with the pages Javascript!"
   },
   "This_option_is_essential_for_many_userscripts_to_work__Visit_the_FAQ_": {
     "message": "This option is essential for many userscripts to work! Click here to visit the FAQ."

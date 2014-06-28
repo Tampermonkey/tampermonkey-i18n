@@ -633,6 +633,33 @@
   "Security": {
     "message": "Sicherheit"
   },
+  "Downloads": {
+    "message": "Downloads"
+  },
+  "Download_Mode": {
+    "message": "Download Mode"
+  },
+  "Browser_API": {
+    "message": "Browser API"
+  },
+  "The_Browser_API_mode_requires_a_special_permission_": {
+    "message": "'Browser API' benötigt eine spezielle Berechtigung."
+  },
+  "Whitelisted_File_Extensions": {
+    "message": "Positivliste der erlaubten Datei-Endungen"
+  },
+  "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
+    "message": "Nur Dateien mir dieser Datei-Endung können auf der Festplatte gespeichert werden.\nHier sollten keine Endungen von ausführbaren Dateien zu finden sein!"
+  },
+  "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
+    "message": "Die Positivliste scheint ausführbare Dateien einzuschließen!\nDas bedeuted, dass Scripts Viren und Trojaner auf der Festplatte speichern dürfen!!"
+  },
+  "Browser_API_Downloads": {
+    "message": "Browser API Downloads"
+  },
+  "Click_here_to_allow_TM_to_start_downloads": {
+    "message": "Ein Klick hier her erlaubt Tampermonkey bzw. den Scripts Downloads zu starten."
+  },
   "Page_Filter_Mode": {
     "message": "Filtere Seiten durch"
   },
@@ -968,7 +995,7 @@
     "message": "Ein Script-Blocker wurde entdeckt!"
   },
   "Click_here_to_allow_TM_to_override_the_script_blocker": {
-    "message": "Bitte klicken, um Tampermonkey zu erlauben, die Einstellungen des Script-Blockers zu überschreiben."
+    "message": "Ein Klick hier her erlaubt Tampermonkey die Einstellungen des Script-Blockers zu überschreiben."
   },
   "Please_reload_this_page_in_order_to_run_your_userscripts_": {
     "message": "Bitte laden sie die Seite neu, damit die Userscripte ausgeführt werden können."
