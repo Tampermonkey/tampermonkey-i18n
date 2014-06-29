@@ -238,7 +238,7 @@
         "message": "Criar informação exportável"
     },
     "Current_Index_": {
-        "message": "Índice atual de detalhes:"
+        "message": "Índice atual de detalhes"
     },
     "Current_Tab": {
         "message": "Aba atual"
@@ -247,7 +247,7 @@
         "message": "Dashboard"
     },
     "Date_": {
-        "message": "Data:"
+        "message": "Data"
     },
     "Debug": {
         "message": "Debug"
@@ -365,7 +365,7 @@
         "message": "Adicionar nova regra"
     },
     "Entries_": {
-        "message": "Entradas:"
+        "message": "Entradas"
     },
     "Error": {
         "message": "Erro"

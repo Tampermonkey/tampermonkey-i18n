@@ -295,7 +295,7 @@
       "message": "同期で使用する認証情報を送信しました。検証メールをお送りしましたので、受信メールを確認してください。"
    },
    "Current_Index_": {
-      "message": "現在のインデックスの詳細:"
+      "message": "現在のインデックスの詳細"
    },
    "Current_Tab": {
       "message": "現在のタブ"
@@ -304,7 +304,7 @@
       "message": "ダッシュボード"
    },
    "Date_": {
-      "message": "日付:"
+      "message": "日付"
    },
    "Debug": {
       "message": "デバッグ"
@@ -437,7 +437,7 @@
       "message": "新規ルールを入力"
    },
    "Entries_": {
-      "message": "エントリ:"
+      "message": "エントリ"
    },
    "Error": {
       "message": "エラー"
@@ -1234,7 +1234,7 @@
       "message": "Tampermonkey の更新通知の表示"
    },
    "Update_URL_": {
-      "message": "更新 URL:"
+      "message": "更新 URL"
    },
    "Update_found_for_0name0_": {
       "message": "$name$ の更新が見つかりました。",
