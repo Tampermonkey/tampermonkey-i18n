@@ -482,7 +482,7 @@
       "message": "include を修正する"
    },
    "Fix_includes_example": {
-      "message": "(このオプションはシンプルな「*」を「http://*/*」に変換します)"
+      "message": "このオプションはシンプルな「*」を「/https?:\/\/.*\/.*/」に変換します"
    },
    "Fix_wrappedJSObject_property_access": {
       "message": "wrappedJSObject プロパティのアクセスを修正する"
@@ -548,6 +548,9 @@
    },
    "Include_s__": {
       "message": "include:"
+   },
+   "Include_script_storage": {
+      "message": "スクリプトのストレージを含める"
    },
    "Includes_Excludes": {
       "message": "include/exclude"
@@ -912,6 +915,9 @@
    "Search": {
       "message": "検索"
    },
+   "Searches_for_scripts_that_can_be_used_on_the_current_page_": {
+      "message": "現在のページで使用できるスクリプトを検索します。\nその結果はコンテキスト メニューに表示されます。"
+   },
    "Security": {
       "message": "セキュリティ"
    },
@@ -1009,7 +1015,7 @@
       "message": "TamperFire の更新を開始しました"
    },
    "Tampermonkey_External_Script_List_Access": {
-      "message": "TESLA = Tampermonkey 外部スクリプト一覧アクセス"
+      "message": "スクリプト同期 (TESLA = Tampermonkey 外部スクリプト リスト アクセス)"
    },
    "Tampermonkey_Options": {
       "message": "Tampermonkey"
