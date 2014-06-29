@@ -854,9 +854,6 @@
   "Report_a_bug": {
     "message": "Report a bug"
   },
-  "Install": {
-    "message": "Install"
-  },
   "A_reload_is_required": {
     "message": "A reload is required: \nAll unsaved changes will be lost!"
   },

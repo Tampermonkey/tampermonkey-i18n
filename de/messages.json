@@ -809,9 +809,6 @@
   "Report_a_bug": {
     "message": "Problem melden"
   },
-  "Install": {
-    "message": "Installieren"
-  },
   "A_reload_is_required": {
     "message": "Der Tab muss neu geladen werden: \nAlle ungespeicherten Änderungen gehen verloren!"
   },
