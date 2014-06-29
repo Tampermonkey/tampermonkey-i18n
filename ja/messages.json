@@ -187,6 +187,12 @@
    "Both": {
       "message": "両方"
    },
+   "Browser_API": {
+      "message": "ブラウザー API"
+   },
+   "Browser_API_Downloads": {
+      "message": "ブラウザー API ダウンロード"
+   },
    "Browser_Profile_Path": {
       "message": "ブラウザーのプロファイルのパス"
    },
@@ -234,6 +240,9 @@
    "Click_here_to_allow_TM_to_override_the_script_blocker": {
       "message": "UserScript の実行を許可するために、ここをクリックして Tampermonkey がスクリプト ブロッカーの設定に上書きするのを許可してください!"
    },
+   "Click_here_to_allow_TM_to_start_downloads": {
+      "message": "Tampermonkey がダウンロードを開始できるようにするにはここをクリックしてください。"
+   },
    "Click_here_to_allow_TM_to_use_Google_sync": {
       "message": "Tampermonkey が Google Sync を使用するのを許可するにはここをクリックしてください!"
    },
@@ -265,7 +274,7 @@
       "message": "[blub, bla] = s.split(':') 文を変換する"
    },
    "Convert_CDATA_sections_into_a_chrome_compatible_format": {
-      "message": "CDATA セクションを chrome 互換形式に変換する"
+      "message": "CDATA セクションを Chrome 互換形式に変換する"
    },
    "Copy_exportable_data_to_clipboard_Ok_": {
       "message": "エクスポート可能な TESLA データをクリップボードにコピーしますか?"
@@ -350,6 +359,9 @@
    "Downgrade": {
       "message": "ダウングレード"
    },
+   "Download_Mode": {
+      "message": "ダウンロードのモード"
+   },
    "Downloaded_from_0url0": {
       "message": "ダウンロード元: $url$",
       "placeholders": {
@@ -360,6 +372,9 @@
    },
    "Downloading": {
       "message": "ダウンロード中"
+   },
+   "Downloads": {
+      "message": "ダウンロード"
    },
    "EOF": {
       "message": "EOF"
@@ -711,6 +726,9 @@
    "One_or_more_compatibility_options_are_set": {
       "message": "互換性オプションが 1 つ以上設定されています。これらを再確認する必要がある可能性があります。"
    },
+   "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
+      "message": "これらの拡張子を持つファイルのみをハードディスクに保存できます。\nあなたのオペレーティング システムの実行可能ファイルの拡張子を指定しないようにご注意ください!"
+   },
    "Only_Manual": {
       "message": "手動のみ"
    },
@@ -1049,6 +1067,9 @@
    "TextArea": {
       "message": "TextArea"
    },
+   "The_Browser_API_mode_requires_a_special_permission_": {
+      "message": "ブラウザー API モードには特別な許可が必要です。"
+   },
    "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
       "message": "ダウングレードされたスクリプトが格納されたデータを読み取ることで問題点が発生する場合があります!"
    },
@@ -1075,7 +1096,7 @@
       }
    },
    "This_is_a_chrome_extension": {
-      "message": "これは chrome 拡張機能です"
+      "message": "これは Chrome 拡張機能です"
    },
    "This_is_a_system_script": {
       "message": "これはシステム スクリプトです。"
@@ -1285,6 +1306,9 @@
    "Whitelist": {
       "message": "ホワイトリスト"
    },
+   "Whitelisted_File_Extensions": {
+      "message": "ファイル拡張子のホワイトリスト"
+   },
    "Whitelisted_Pages": {
       "message": "ページのホワイトリスト"
    },
@@ -1317,6 +1341,9 @@
    },
    "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
       "message": "あなたの言語には未対応ですか?\nTampermonkey を翻訳する手順についてはこちらをクリックしてください。"
+   },
+   "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
+      "message": "ホワイトリストが実行可能ファイルを含んでいるようです!\nこれは、UserScript がマルウェアやスパイウェアをダウンロードできてしまうことを意味します!!"
    },
    "_0_scripts_found": {
       "message": "? スクリプトを利用できます"
