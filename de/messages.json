@@ -658,7 +658,7 @@
     "message": "Browser API Downloads"
   },
   "Click_here_to_allow_TM_to_start_downloads": {
-    "message": "Ein Klick hier her erlaubt Tampermonkey bzw. den Scripts Downloads zu starten."
+    "message": "Ein Klick auf 'OK' erlaubt Tampermonkey bzw. den Scripts sofort startende Downloads."
   },
   "Page_Filter_Mode": {
     "message": "Filtere Seiten durch"

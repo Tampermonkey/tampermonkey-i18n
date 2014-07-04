@@ -700,7 +700,7 @@
     "message": "Browser API Downloads"
   },
   "Click_here_to_allow_TM_to_start_downloads": {
-    "message": "Click here to allow Tampermonkey to start downloads."
+    "message": "Click OK to allow Tampermonkey to start instant downloads."
   },
   "Page_Filter_Mode": {
     "message": "Page Filter Mode"
