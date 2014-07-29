@@ -144,6 +144,17 @@
   "Update": {
     "message": "Update"
   },
+  "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
+    "message": "$name$ $version$ ist verfügbar.\nBitte starten sie für die Aktualisierung den Browser neu!",
+    "placeholders": {
+      "name": {
+         "content": "$1"
+      },
+      "version": {
+         "content": "$2"
+      }
+    }
+  },
   "Process_with_Chrome": {
     "message": "An Chrome übergeben"
   },
@@ -471,7 +482,7 @@
     "message": "Zip"
   },
   "Include_script_storage": {
-    "message": "Inklusive den gespeicherten Script-Daten"
+    "message": "Exportiere die vom Script gespeicherten Daten"
   },
   "TextArea": {
     "message": "Textarea"

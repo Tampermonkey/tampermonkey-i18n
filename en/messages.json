@@ -144,6 +144,17 @@
   "Update": {
     "message": "Update"
   },
+  "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
+    "message": "$name$ $version$ is available.\nPlease re-start your browser to start the update!",
+    "placeholders": {
+      "name": {
+         "content": "$1"
+      },
+      "version": {
+         "content": "$2"
+      }
+    }
+  },
   "Process_with_Chrome": {
     "message": "Process with Chrome"
   },
