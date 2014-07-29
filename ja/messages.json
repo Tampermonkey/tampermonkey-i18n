@@ -1,4 +1,15 @@
 {
+   "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
+      "message": "$name$ $version$ を利用できます。\n更新を開始するにはブラウザーを再起動してください!",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         },
+         "version": {
+            "content": "$2"
+         }
+      }
+   },
    "1": {
       "message": "1"
    },
@@ -241,7 +252,7 @@
       "message": "UserScript の実行を許可するために、ここをクリックして Tampermonkey がスクリプト ブロッカーの設定に上書きするのを許可してください!"
    },
    "Click_here_to_allow_TM_to_start_downloads": {
-      "message": "Tampermonkey がダウンロードを開始できるようにするにはここをクリックしてください。"
+      "message": "Tampermonkey がインスタント ダウンロードを開始できるようにするには OK をクリックしてください。"
    },
    "Click_here_to_allow_TM_to_use_Google_sync": {
       "message": "Tampermonkey が Google Sync を使用するのを許可するにはここをクリックしてください!"
