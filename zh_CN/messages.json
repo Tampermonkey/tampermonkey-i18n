@@ -268,7 +268,7 @@
     "message": "位置"
   },
   "Close": {
-    "message": "管次"
+    "message": "关闭"
   },
   "GM_compat_options_": {
     "message": "GM/FF 兼容选项"
@@ -977,7 +977,7 @@
     "message": "自动"
   },
   "__Please_choose__": {
-    "message": "-- 请选择一个操作---"
+    "message": "-- 请选择一个操作 --"
   },
   "Enable": {
     "message": "启用"
@@ -1037,10 +1037,10 @@
     "message": "如果有站点的内容安全策略 (CSP) 的话则添加 Tampermonkey 到站点的内容安全策略"
   },
   "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
-    "message": "当这个禁用时，Tampermonkey 可能无法提供对不安全上下文的访问（unsafeWindow,页面的函数和变量）。"
+    "message": "当这个选项被禁用时，Tampermonkey 可能无法提供对不安全上下文的访问（unsafeWindow，页面的函数和变量）。"
   },
   "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-    "message": "至少这个页面的一部分会在“禁止页面”设置里列出来！"
+    "message": "该页面的一部分被列入“禁止页面”设置中！"
   },
   "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
     "message": "部分脚本会被当前页面的 JavaScript 设置或者 JavaScript 拦截器禁用！"
@@ -1070,7 +1070,7 @@
     "message": "非安全"
   },
   "Sandbox": {
-    "message": "沙河"
+    "message": "沙盒"
   },
   "Many_userscripts_require_the_unsafeWindow_object_to_interact_with_the_pages_javascript_": {
     "message": "绝大多数的脚本都需要此 unsafeWindow 对象来与页面js进行交互！"
