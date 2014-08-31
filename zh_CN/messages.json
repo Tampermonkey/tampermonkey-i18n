@@ -1174,7 +1174,7 @@
   "This_script_is_blacklisted_": {
     "message": "这个脚本在黑名单里！"
   },
-  "Report_this_as_spam_or_malicious": {
+  "Report_an_issue_to_the_script_hoster_": {
     "message": "报告这个是垃圾脚本或者是恶意脚本\n（需要拥有userscript.org的账户）"
   },
   "Blacklist_Severity": {

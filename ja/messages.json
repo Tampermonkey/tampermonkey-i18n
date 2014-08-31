@@ -876,7 +876,7 @@
    "Report_a_bug": {
       "message": "バグを報告"
    },
-   "Report_this_as_spam_or_malicious": {
+   "Report_an_issue_to_the_script_hoster_": {
       "message": "これをスパムまたは有害として報告\n(userscripts.org のアカウントが必要)"
    },
    "Requires": {

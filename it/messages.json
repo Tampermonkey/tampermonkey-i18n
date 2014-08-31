@@ -1117,7 +1117,7 @@
   "This_script_is_blacklisted_": {
     "message": "Questo script è nella lista nera!"
   },
-  "Report_this_as_spam_or_malicious": {
+  "Report_an_issue_to_the_script_hoster_": {
     "message": "Segnala questo come spam o pericolo\n(potrebbe essere necessario un account utente)"
   },
   "Blacklist_Severity": {

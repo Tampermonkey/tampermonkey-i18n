@@ -218,6 +218,9 @@
   "Check_for_userscripts_updates": {
     "message": "Check for userscript updates"
   },
+  "Waiting_for_sync_to_finish": {
+    "message": "Waiting for sync to finish"
+  },
   "Settings": {
     "message": "Settings"
   },
@@ -981,6 +984,15 @@
   "Sync_Type": {
     "message": "Type"
   },
+  "Sync_Version": {
+    "message": "Version"
+  },
+  "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
+    "message": "Unlike the 'Legacy' sync version this one synchronizes your scripts by reference to a unique ID that is created when a script is installed!\n\nThis means if you installed a script at multiple Tampermonkey instances by either another sync method or a normal script installation then this script will appear multiple times after the next sync iteration has finished.\n\nThe only way to recover is to manually remove each doubled script entry!\n\nDo you really want to continue?"
+  },
+  "Different_sync_versions_are_not_compatible_to_each_other_": {
+    "message": "Different sync versions are not compatible to each other!"
+  },
   "Sync_Id": {
     "message": "Id"
   },
@@ -1239,8 +1251,8 @@
   "This_script_is_blacklisted_": {
     "message": "This script is blacklisted!"
   },
-  "Report_this_as_spam_or_malicious": {
-    "message": "Report this as spam or malicious\n(A user account may be required)"
+  "Report_an_issue_to_the_script_hoster_": {
+    "message": "Report an issue to the script hoster.\n(A user account may be required)"
   },
   "Blacklist_Severity": {
     "message": "Block From Severity Level"
