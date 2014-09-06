@@ -999,6 +999,9 @@
   "Disable": {
     "message": "Deaktivieren"
   },
+  "Toggle_Enable": {
+    "message": "Aktivierung umschalten"
+  },
   "Trigger_Update": {
     "message": "Aktualisieren"
   },

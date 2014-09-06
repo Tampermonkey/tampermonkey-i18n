@@ -1044,8 +1044,11 @@
   "Disable": {
     "message": "Disable"
   },
+  "Toggle_Enable": {
+    "message": "Toggle Enable"
+  },
   "Trigger_Update": {
-    "message": "Trigger an update"
+    "message": "Trigger Update"
   },
   "Apply_this_action_to_the_selected_scripts": {
     "message": "Apply this action to all selected scripts"
