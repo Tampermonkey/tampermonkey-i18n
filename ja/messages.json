@@ -1175,6 +1175,9 @@
    "This_will_restart_Tampermonkey_Ok_": {
       "message": "Tampermonkey を本当に再起動しますか?"
    },
+   "Toggle_Enable": {
+      "message": "有効/無効を反転"
+   },
    "Trace": {
       "message": "トレース"
    },
