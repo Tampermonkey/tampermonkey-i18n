@@ -267,7 +267,7 @@
     "message": "Seguro que quieres revertir todos los cambios?"
   },
   "Please_wait___": {
-    "message": "Por favor espere..."
+    "message": "Aguántese un metro..."
   },
   "Edit": {
     "message": "Editar"
@@ -317,7 +317,7 @@
     "message": "Editar este script"
   },
   "This_script_has_access_to_webpage_scripts": {
-    "message": "Este script tiene acceso completo a los scripts de la página web."
+    "message": "Este script tiene completo acceso a la página web."
   },
   "Utilities": {
     "message": "Utilidades"
@@ -329,7 +329,7 @@
     "message": "Este script usa una parte de la API de Greasemonkey 10 (unsafeWindow.gmonkey)\nque no es soportada por Tampermonkey ni ningún otro gestor de scripts."
   },
   "Enabled": {
-    "message": "Activado"
+    "message": "Acrivado"
   },
   "Disabled": {
     "message": "Desactivado"
@@ -355,13 +355,13 @@
     }
   },
   "Just_another_service_provided_by_your_friendly_script_updater_": {
-    "message": "Simplemente otro servicio proporcionado por tu simpático actualizador de scripts"
+    "message": "Actualizaciones de userscripts"
   },
   "Welcome_": {
     "message": "Bienvenido/a!"
   },
   "Have_fun_with_Tampermonkey": {
-    "message": "Disfruta con Tampermonkey $version$! :)",
+    "message": "Disfruta Tampermonkey $version$! :)",
     "placeholders": {
       "version": {
          "content": "$1"
@@ -375,7 +375,7 @@
     "message": "Actualización de Script"
   },
   "Check_interval": {
-    "message": "Intervalo de comprobación"
+    "message": "Intervalo de Revisión"
   },
   "Never": {
     "message": "Nunca"
@@ -635,13 +635,13 @@
     "message": "sobreescrito por configuración de usuario"
   },
   "Overwrite_includes": {
-    "message": "Sobreescribir tags @include"
+    "message": "Sobreescribir @include"
   },
   "Overwrite_matches": {
-    "message": "Sobreescribir tags @match"
+    "message": "Sobreescribir @match"
   },
   "Overwrite_excludes": {
-    "message": "Sobreescribir tags @exclude"
+    "message": "Sobreescribir @exclude"
   },
   "Report_a_bug": {
     "message": "Reportar un bug"
@@ -659,7 +659,7 @@
     "message": "Restablecer editor"
   },
   "Full_reset": {
-    "message": "Restablecer configuración de fábrica"
+    "message": "Restablecer de fábrica"
   },
   "Do_you_really_want_to_factory_reset_this_script_": {
     "message": "Estás seguro que deseas restablecer este script a su configuración de fábrica?"
@@ -701,10 +701,10 @@
     "message": "Avanzado"
   },
   "Changes_the_number_of_visible_config_options": {
-    "message": "Cambia el número de opciones de configuración visibles"
+    "message": "Cambia el número de configuraciones visibles"
   },
   "Enter_the_new_rule": {
-    "message": "Introducir la nueva regla"
+    "message": "Ingresa la nueva regla"
   },
   "Add_as_0clude0": {
     "message": "Agregar como $clude$",
@@ -742,4 +742,3 @@
     "message": "EOF"
   }
 }
-
