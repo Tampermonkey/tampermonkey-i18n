@@ -403,6 +403,9 @@
   "One_or_more_compatibility_options_are_set": {
     "message": "One or more compatibility options are set. You might want/should review them."
   },
+  "This_script_has_no_grant_header_set_": {
+    "message": "This script has no @grant header set!"
+  },
   "This_script_has_full_web_access": {
     "message": "This script has full internet access."
   },

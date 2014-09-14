@@ -403,6 +403,9 @@
   "One_or_more_compatibility_options_are_set": {
     "message": "Eine oder mehrere Kompatibilitätsoptionen sind aktiviert."
   },
+  "This_script_has_no_grant_header_set_": {
+    "message": "Dieses Script hat keine @grant-Anweisung!"
+  },
   "This_script_has_full_web_access": {
     "message": "Dieses Script hat vollen Internet-Zugang."
   },
