@@ -1,38 +1,48 @@
 {
+  "1": {
+    "message": "1"
+  },
+  "2": {
+    "message": "2"
+  },
+  "3": {
+    "message": "3"
+  },
+  "4": {
+    "message": "4"
+  },
+  "5": {
+    "message": "5"
+  },
+  "6": {
+    "message": "6"
+  },
+  "7": {
+    "message": "7"
+  },
+  "8": {
+    "message": "8"
+  },
+  "9": {
+    "message": "9"
+  },
+  "10": {
+    "message": "10"
+  },
+  "11": {
+    "message": "11"
+  },
   "fatal_error": {
     "message": "error fatal"
   },
   "Please_consider_a_donation": {
     "message": "Por favor considera una donación"
   },
-  "Invalid_scheme_of_url": {
-    "message": "Esquema de url inválido"
-  },
-  "run_script_0url0___0name0": {
-    "message": "Ejecutar script $name$ @ $url$",
-    "placeholders": {
-      "url": {
-         "content": "$1"
-      },
-      "name": {
-         "content": "$2"
-      }
-    }
-  },
-  "env_option__debug_scripts": {
-    "message": "Env option: depurar scripts"
-  },
   "Invalid_UserScript__Sry_": {
     "message": "UserScript inválido :("
   },
   "Invalid_UserScript_name__Sry_": {
     "message": "Nombre de UserScript inválido :("
-  },
-  "Unable_to_get_UserScript__Sry_": {
-    "message": "No se pudo cargar el UserScript :("
-  },
-  "Do_you_want_to_install_this_userscript_in_Tampermonkey_or_Chrome": {
-    "message": "Deseas instalar este userscript: \nen Tampermonkey (Aceptar) o \nnativamente en Chrome (Cancelar)"
   },
   "Name": {
     "message": "Nombre"
@@ -98,20 +108,6 @@
   "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
     "message": "Una revisión de las opciones de compatibilidad de GreaseMonkey/FF puede ser necesaria para ejecutar este script."
   },
-  "Do_you_want_to_continue_": {
-    "message": "Deseas continuar?"
-  },
-  "Got_strange_source_code_": {
-    "message": "Código fuente extraño"
-  },
-  "Update_found_for_0name0_": {
-    "message": "Actualización encontrada para $name$.",
-    "placeholders": {
-      "name": {
-         "content": "$1"
-      }
-    }
-  },
   "UpdateCheck_of_0name0_Url_0url0_failed_": {
     "message": "La búsqueda de actualizaciones para '$name$' (Url: $url$) falló estrepitosamente!",
     "placeholders": {
@@ -126,9 +122,6 @@
   "No_update_found__sry_": {
     "message": "No se encontraron actualizaciones :("
   },
-  "Unable_to_save_tab_due_to_empty_tabID_": {
-    "message": "No se pudo grabar el tab debido a un tabID vacío!"
-  },
   "Unable_to_load_storage_due_to_empty_tabID_": {
     "message": "No se pudo cargar el storage debido a un tabID vacío!"
   },
@@ -137,9 +130,6 @@
   },
   "Unable_to_install_script_due_to_empty_tabID_": {
     "message": "No se pudo instalar el script debido a un tabID vacío!"
-  },
-  "Unable_to_run_scripts_due_to_empty_tabID_": {
-    "message": "No se pudo ejecutar los scripts debido a un tabID vacío!"
   },
   "Unknown_method_0name0": {
     "message": "Método desconocido: $name$",
@@ -182,7 +172,6 @@
   "Show_fixed_source": {
     "message": "Mostrar fuente fija"
   },
-
   "Installed_userscripts": {
     "message": "Scripts instalados"
   },
@@ -194,15 +183,6 @@
   },
   "New_userscript": {
     "message": "<Nuevo userscript>"
-  },
-  "Registered_menu_cmds": {
-    "message": "Comandos Registrados"
-  },
-  "About_Tampermonkey": {
-    "message": "Acerca de Tampermonkey"
-  },
-  "Tampermonkey_Options": {
-    "message": "Tampermonkey"
   },
   "Position_": {
     "message": "Posición"
@@ -228,15 +208,6 @@
   "Add_toSource_function_to_Object_Prototype": {
     "message": "Agregar funciones de compatibilidad a Object y Array"
   },
-  "Poll_unsafeWindow_variables": {
-    "message": "Hacer polling de variables unsafeWindow"
-  },
-  "Poll_all_unsafeWindow_variables": {
-    "message": "Hacer polling de TODAS las variables unsafeWindow (Atención: esto puede generar mucha carga de CPU!)"
-  },
-  "every_x_ms": {
-    "message": "cada ## ms"
-  },
   "Run_at": {
     "message": "Ejecutar en"
   },
@@ -248,9 +219,6 @@
   },
   "Cancel": {
     "message": "Cancelar"
-  },
-  "Reset": {
-    "message": "Restablecer"
   },
   "There_are_unsaved_changed_" : {
     "message": "Hay cambios sin guardar.\nEstás seguro que quieres cerrar el editor?"
@@ -313,17 +281,11 @@
       }
     }
   },
-  "Edit_this_script": {
-    "message": "Editar este script"
-  },
   "This_script_has_access_to_webpage_scripts": {
     "message": "Este script tiene completo acceso a la página web."
   },
   "Utilities": {
     "message": "Utilidades"
-  },
-  "Script_modified_in_background": {
-    "message": "Los contenidos u opciones de este script pueden ser modificados\npor otra pestaña (por ejemplo una reinstalación). Presionar el \nbotón 'guardar' sobreescribiría dichos cambios."
   },
   "This_script_uses_uW_gm_api_": {
     "message": "Este script usa una parte de la API de Greasemonkey 10 (unsafeWindow.gmonkey)\nque no es soportada por Tampermonkey ni ningún otro gestor de scripts."
@@ -357,17 +319,6 @@
   "Just_another_service_provided_by_your_friendly_script_updater_": {
     "message": "Actualizaciones de userscripts"
   },
-  "Welcome_": {
-    "message": "Bienvenido/a!"
-  },
-  "Have_fun_with_Tampermonkey": {
-    "message": "Disfruta Tampermonkey $version$! :)",
-    "placeholders": {
-      "version": {
-         "content": "$1"
-      }
-    }
-  },
   "General": {
     "message": "General"
   },
@@ -395,9 +346,6 @@
   "Every_Week": {
     "message": "Cada Semana"
   },
-  "Every_2_Weeks": {
-    "message": "Cada 2 Semanas"
-  },
   "Every_Month": {
     "message": "Cada Mes"
    },
@@ -409,39 +357,6 @@
   },
   "Indentation_Width": {
     "message": "Ancho de Indentación"
-  },
-  "1": {
-    "message": "1"
-  },
-  "2": {
-    "message": "2"
-  },
-  "3": {
-    "message": "3"
-  },
-  "4": {
-    "message": "4"
-  },
-  "5": {
-    "message": "5"
-  },
-  "6": {
-    "message": "6"
-  },
-  "7": {
-    "message": "7"
-  },
-  "8": {
-    "message": "8"
-  },
-  "9": {
-    "message": "9"
-  },
-  "10": {
-    "message": "10"
-  },
-  "11": {
-    "message": "11"
   },
   "Indent_with": {
     "message": "Indentar con"
@@ -458,32 +373,14 @@
   "Classic": {
     "message": "Clásico"
   },
-  "Shift": {
-    "message": "Shift"
-  },
   "Indent": {
     "message": "Indentar"
   },
   "Smart": {
     "message": "Smart"
   },
-  "EnterMode": {
-    "message": "EnterMode"
-  },
-  "Indent_new_lines": {
-    "message": "Indentar nuevas líneas"
-  },
-  "Indent_as_previous": {
-    "message": "Indentar como anterior"
-  },
-  "No_Indentation": {
-    "message": "Sin Indentación"
-  },
   "Reindent_on_typing": {
     "message": "Re-indentar al escribir"
-  },
-  "Show_Line_Numbers": {
-    "message": "Mostrar Números de Línea"
   },
   "Auto_reload_on_script_enabled": {
     "message": "Auto recargar páginas"
@@ -518,14 +415,8 @@
   "Appearance": {
     "message": "Apariencia"
   },
-  "3D_Icon_Set": {
-    "message": "Icono 3D"
-  },
   "Security": {
     "message": "Seguridad"
-  },
-  "Forbidden_Pages": {
-    "message": "Páginas Prohibidas"
   },
   "This_page_is_blacklisted_at_the_security_settings": {
     "message": "En lista negra por configuración de seguridad"
@@ -547,101 +438,20 @@
   "Check_disabled_scripts": {
     "message": "Actualizar scripts deshabilitados"
   },
-  "TamperFire": {
-    "message": "TamperFire"
-  },
-  "Enable_TamperFire": {
-    "message": "Activar TamperFire"
-  },
-  "Restart_to_apply": {
-    "message": "Necesitas reiniciar TM para aplicar esta configuración."
-  },
-  "TamperFire_update_started": {
-    "message": "Actualización de TamperFire iniciada"
-  },
-  "TamperFire_update_failed___": {
-    "message": "Actualización de TamperFire fallida :("
-  },
-  "TamperFire_import_started": {
-    "message": "Importación de scripts de TamperFire iniciada"
-  },
-  "TamperFire_is_up_to_date": {
-    "message": "TamperFire está actualizado :)"
-  },
-  "_0_scripts_found": {
-    "message": "? scripts disponibles"
-  },
-  "Available_Userscripts": {
-    "message": "Userscripts disponibles"
-  },
-  "Rank": {
-    "message": "Lugar"
-  },
-  "Installs": {
-    "message": "Instalaciones"
-  },
-  "Rating": {
-    "message": "Evaluación"
-  },
-  "Fans": {
-    "message": "Fans"
-  },
   "Homepage": {
     "message": "Página Web"
   },
   "Last_Updated": {
     "message": "Última Actualización"
   },
-  "Last_Changed": {
-    "message": "Último Cambio"
-  },
   "Version": {
     "message": "Versión"
-  },
-  "Update_needed": {
-    "message": "Se necesita actualizar"
-  },
-  "Update_in_progress": {
-    "message": "Actualización en progreso"
-  },
-  "Downloading": {
-    "message": "Descargando"
-  },
-  "Processing_scripts": {
-    "message": "Procesando scripts"
-  },
-  "Writing_scripts": {
-    "message": "Escribiendo scripts"
   },
   "Check_for_Updates": {
     "message": "Revisar Actualizaciones"
   },
-  "Force_Update": {
-    "message": "Forzar Actualización"
-  },
-  "TamperFire_is_up_to_date_": {
-    "message": "TamperFire está actualizado!"
-  },
-  "Current_Index_": {
-    "message": "Detalles del índice actual"
-  },
-  "Date_": {
-    "message": "Fecha"
-  },
-  "Entries_": {
-    "message": "Entradas"
-  },
   "overwritten_by_user": {
     "message": "sobreescrito por configuración de usuario"
-  },
-  "Overwrite_includes": {
-    "message": "Sobreescribir @include"
-  },
-  "Overwrite_matches": {
-    "message": "Sobreescribir @match"
-  },
-  "Overwrite_excludes": {
-    "message": "Sobreescribir @exclude"
   },
   "Report_a_bug": {
     "message": "Reportar un bug"
@@ -652,20 +462,11 @@
   "A_reload_is_required": {
     "message": "Se necesita reiniciar: \nSe perderán los cambios sin guardar!"
   },
-  "Enable_Sort_Cache": {
-    "message": "Activar caché de ordenamiento (Alto consumo de memoria)"
-  },
   "Editor_reset": {
     "message": "Restablecer editor"
   },
   "Full_reset": {
     "message": "Restablecer de fábrica"
-  },
-  "Do_you_really_want_to_factory_reset_this_script_": {
-    "message": "Estás seguro que deseas restablecer este script a su configuración de fábrica?"
-  },
-  "Options": {
-    "message": "Opciones"
   },
   "Userscripts": {
     "message": "Userscripts"
@@ -737,8 +538,5 @@
   },
   "User_excludes": {
     "message": "Excludes de usuario"
-  },
-  "EOF": {
-    "message": "EOF"
   }
 }

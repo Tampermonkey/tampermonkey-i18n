@@ -1,26 +1,42 @@
 {
+  "1": {
+    "message": "1"
+  },
+  "2": {
+    "message": "2"
+  },
+  "3": {
+    "message": "3"
+  },
+  "4": {
+    "message": "4"
+  },
+  "5": {
+    "message": "5"
+  },
+  "6": {
+    "message": "6"
+  },
+  "7": {
+    "message": "7"
+  },
+  "8": {
+    "message": "8"
+  },
+  "9": {
+    "message": "9"
+  },
+  "10": {
+    "message": "10"
+  },
+  "11": {
+    "message": "11"
+  },
   "fatal_error": {
     "message": "致命错误"
   },
   "Please_consider_a_donation": {
     "message": "欢迎捐助"
-  },
-  "Invalid_scheme_of_url": {
-    "message": "无效的URL地址"
-  },
-  "run_script_0url0___0name0": {
-    "message": "运行脚本 $name$ @ $url$",
-    "placeholders": {
-      "url": {
-        "content": "$1"
-      },
-      "name": {
-        "content": "$2"
-      }
-    }
-  },
-  "env_option__debug_scripts": {
-    "message": "环境选项： 调试脚本"
   },
   "Invalid_UserScript__Sry_": {
     "message": "无效的 UserScript脚本！"
@@ -43,9 +59,6 @@
         "content": "$1"
       }
     }
-  },
-  "Unable_to_get_UserScript__Sry_": {
-    "message": "无法获取 UserScript!"
   },
   "Please_double_check_the_native_script_import_settings__": {
     "message": "无法读取 UserScript！\n\n请再次检查 “导入本地脚本” 设置。"
@@ -147,17 +160,6 @@
   "Process_with_Chrome": {
     "message": "安装在 Chrome"
   },
-  "Do_you_want_to_continue_": {
-    "message": "是否继续？"
-  },
-  "Update_found_for_0name0_": {
-    "message": "'$name$' 发现可用更新。",
-    "placeholders": {
-      "name": {
-        "content": "$1"
-      }
-    }
-  },
   "UpdateCheck_of_0name0_Url_0url0_failed_": {
     "message": "检查 '$name$' (Url: $url$) 的更新失败！",
     "placeholders": {
@@ -172,9 +174,6 @@
   "No_update_found__sry_": {
     "message": "暂时没有更新，等会儿再来吧~"
   },
-  "Unable_to_save_tab_due_to_empty_tabID_": {
-    "message": "tabID 为空导致无法保存 tab ！"
-  },
   "Unable_to_load_storage_due_to_empty_tabID_": {
     "message": "tabID 为空导致无法读取文件！"
   },
@@ -183,9 +182,6 @@
   },
   "Unable_to_install_script_due_to_empty_tabID_": {
     "message": "tabID 为空导致无法安装脚本！"
-  },
-  "Unable_to_run_scripts_due_to_empty_tabID_": {
-    "message": "tabID 为空导致无法运行脚本！"
   },
   "Unknown_method_0name0": {
     "message": "未知方法: $name$",
@@ -252,17 +248,11 @@
   "New_userscript": {
     "message": "<新建用户脚本>"
   },
-  "Registered_menu_cmds": {
-    "message": "注册菜单命令"
-  },
   "Help": {
     "message": "帮助"
   },
   "Changelog": {
     "message": "更新日志"
-  },
-  "Tampermonkey_Options": {
-    "message": "Tampermonkey"
   },
   "Position_": {
     "message": "位置"
@@ -297,15 +287,6 @@
   "Add_toSource_function_to_Object_Prototype": {
     "message": "为对象和数组增加兼容性函数"
   },
-  "Poll_unsafeWindow_variables": {
-    "message": "轮询 unsafeWindow 变量"
-  },
-  "Poll_all_unsafeWindow_variables": {
-    "message": "轮询全部 unsafeWindow 变量 （注意: 这会导致大量的 CPU 运算！）"
-  },
-  "every_x_ms": {
-    "message": "每 ## 毫秒"
-  },
   "Run_at": {
     "message": "加载位置"
   },
@@ -315,14 +296,8 @@
   "Save": {
     "message": "保存"
   },
-  "OK": {
-    "message": "OK"
-  },
   "Cancel": {
     "message": "取消"
-  },
-  "Reset": {
-    "message": "重置"
   },
   "Search": {
     "message": "搜索"
@@ -420,23 +395,14 @@
       }
     }
   },
-  "Edit_this_script": {
-    "message": "编辑本脚本"
-  },
   "This_script_has_access_to_webpage_scripts": {
     "message": "本项拥有对网页的完整的访问权限。"
   },
   "Utilities": {
     "message": "实用程序"
   },
-  "Script_modified_in_background": {
-    "message": "本脚本的内容或者选项可以在其他的操作中修改（例如一次重装操作）。请注意点击'保存'按钮会覆盖其他操作引发的修改。"
-  },
   "This_script_uses_uW_gm_api_": {
     "message": "本脚本使用了部分不被 Tampermonkey 或者其他任何脚本处理插件支持的 Greasemonkey 10 API (unsafeWindow.gmonkey)。"
-  },
-  "A_script_with_that_name_already_exists_": {
-    "message": "已经有另一个脚本使用了此名称！"
   },
   "some_secs": {
     "message": "部分"
@@ -519,9 +485,6 @@
   "Every_Week": {
     "message": "每周"
   },
-  "Every_2_Weeks": {
-    "message": "每2周"
-  },
   "Every_Month": {
     "message": "每月"
   },
@@ -546,39 +509,6 @@
   "Indentation_Width": {
     "message": "缩进宽度"
   },
-  "1": {
-    "message": "1"
-  },
-  "2": {
-    "message": "2"
-  },
-  "3": {
-    "message": "3"
-  },
-  "4": {
-    "message": "4"
-  },
-  "5": {
-    "message": "5"
-  },
-  "6": {
-    "message": "6"
-  },
-  "7": {
-    "message": "7"
-  },
-  "8": {
-    "message": "8"
-  },
-  "9": {
-    "message": "9"
-  },
-  "10": {
-    "message": "10"
-  },
-  "11": {
-    "message": "11"
-  },
   "Indent_with": {
     "message": "缩进方式"
   },
@@ -594,32 +524,14 @@
   "Classic": {
     "message": "经典"
   },
-  "Shift": {
-    "message": "换挡"
-  },
   "Indent": {
     "message": "缩进"
   },
   "Smart": {
     "message": "智能"
   },
-  "EnterMode": {
-    "message": "Enter类型"
-  },
-  "Indent_new_lines": {
-    "message": "带缩进的新行"
-  },
-  "Indent_as_previous": {
-    "message": "按先前的缩进"
-  },
-  "No_Indentation": {
-    "message": "不缩进"
-  },
   "Reindent_on_typing": {
     "message": "输入时重新缩进"
-  },
-  "Show_Line_Numbers": {
-    "message": "显示行号"
   },
   "Auto_reload_on_script_enabled": {
     "message": "自动刷新页面"
@@ -660,9 +572,6 @@
   "Appearance": {
     "message": "外观"
   },
-  "3D_Icon_Set": {
-    "message": "3D图标"
-  },
   "Security": {
     "message": "安全"
   },
@@ -684,9 +593,6 @@
   "Both": {
     "message": "同时"
   },
-  "_require_blacklist": {
-    "message": "@require 黑名单"
-  },
   "This_page_is_blacklisted_at_the_security_settings": {
     "message": "被安全设置列入黑名单"
   },
@@ -707,56 +613,11 @@
   "Check_disabled_scripts": {
     "message": "升级禁用的脚本"
   },
-  "TamperFire": {
-    "message": "TamperFire"
-  },
-  "Enable_TamperFire": {
-    "message": "启用 TamperFire"
-  },
-  "Restart_to_apply": {
-    "message": "您需要重启 Tampermonkey 以应用本设置。"
-  },
-  "Use_top_frame_URL_only": {
-    "message": "仅使用在顶层页面"
-  },
-  "TamperFire_update_started": {
-    "message": "开始 TamperFire 更新"
-  },
-  "TamperFire_update_failed___": {
-    "message": "更新 TamperFire 失败 >-<"
-  },
-  "TamperFire_import_started": {
-    "message": "开始 TamperFire 脚本导入"
-  },
-  "TamperFire_is_up_to_date": {
-    "message": "TamperFire 已是最新 ^-^"
-  },
-  "_0_scripts_found": {
-    "message": "? 个可用脚本"
-  },
-  "Available_Userscripts": {
-    "message": "可用的 Userscripts 脚本"
-  },
-  "Rank": {
-    "message": "评分"
-  },
-  "Installs": {
-    "message": "安装数"
-  },
-  "Rating": {
-    "message": "得分"
-  },
-  "Fans": {
-    "message": "粉丝数"
-  },
   "Homepage": {
     "message": "主页"
   },
   "Last_Updated": {
     "message": "最新更新"
-  },
-  "Last_Changed": {
-    "message": "最新变化"
   },
   "Version": {
     "message": "版本"
@@ -764,65 +625,20 @@
   "Type": {
     "message": "类型"
   },
-  "Update_needed": {
-    "message": "需要更新"
-  },
-  "Update_in_progress": {
-    "message": "正在更新"
-  },
-  "Downloading": {
-    "message": "下载中"
-  },
-  "Processing_scripts": {
-    "message": "正在处理脚本"
-  },
-  "Writing_scripts": {
-    "message": "正在写入脚本"
-  },
   "Check_for_Updates": {
     "message": "检查更新"
-  },
-  "Force_Update": {
-    "message": "强制更新"
   },
   "Click_here_to_move_this_script": {
     "message": "点此移动脚本"
   },
-  "TamperFire_is_up_to_date_": {
-    "message": "TamperFire 已是最新!"
-  },
-  "Current_Index_": {
-    "message": "当前索引细节"
-  },
-  "Date_": {
-    "message": "日期"
-  },
-  "Entries_": {
-    "message": "条目"
-  },
   "overwritten_by_user": {
     "message": "被用户设置覆盖"
-  },
-  "Overwrite_includes": {
-    "message": "覆盖 @include 标记"
-  },
-  "Overwrite_matches": {
-    "message": "覆盖 @match 标记"
-  },
-  "Overwrite_excludes": {
-    "message": "覆盖 @exclude 标记"
   },
   "Report_a_bug": {
     "message": "提交 Bug"
   },
-  "Install": {
-    "message": "安装"
-  },
   "A_reload_is_required": {
     "message": "需要刷新: \n所有未保存的数据将会丢失！"
-  },
-  "Enable_Sort_Cache": {
-    "message": "开启排序缓存 （可能占用更多内存）"
   },
   "Save_to_disk": {
     "message": "保存到磁盘"
@@ -836,14 +652,8 @@
   "Run_syntax_check": {
     "message": "运行语法检查"
   },
-  "Do_you_really_want_to_factory_reset_this_script_": {
-    "message": "您确实想要初始化这个脚本？"
-  },
   "Dashboard": {
     "message": "仪表盘"
-  },
-  "Options": {
-    "message": "选项"
   },
   "Userscripts": {
     "message": "用户脚本"
@@ -940,15 +750,6 @@
   "Imported": {
     "message": "已导入"
   },
-  "Sync": {
-    "message": "同步"
-  },
-  "Disable_sync": {
-    "message": "禁用同步"
-  },
-  "Enable_sync": {
-    "message": "启用同步"
-  },
   "Create_Exportable_Data": {
     "message": "创建可导出数据"
   },
@@ -963,9 +764,6 @@
   },
   "Tampermonkey_can_not_work_when_javascript_is_disabled": {
     "message": "Tampermonkey 在脚本应该运行在的页面上的 javascript 被禁用时不能工作。这个设置让 TM 可以覆盖这个由您或脚本拦截器所做出的设置。这个只会影响来自页面的内联脚本而不会影响远程脚本。"
-  },
-  "A_lot_of_userscripts_require_the_unsafeWindow_object_to_interact_with_the_pages_javascript_": {
-    "message": "绝大多数的脚本都需要此 unsafeWindow 对象来与页面js进行交互！如果这个配置出错了，这些脚本可能永远无法再正常工作！"
   },
   "Yes": {
     "message": "是"
@@ -1054,29 +852,8 @@
   "No_frames": {
     "message": "仅在顶层页面运行"
   },
-  "Runtime": {
-    "message": "运行时"
-  },
-  "UnsafeWindow_retrieval_method": {
-    "message": "UnsafeWindow 检索方法"
-  },
   "Native": {
     "message": "本地"
-  },
-  "Proxy": {
-    "message": "代理"
-  },
-  "Unsafe": {
-    "message": "非安全"
-  },
-  "Sandbox": {
-    "message": "沙盒"
-  },
-  "Many_userscripts_require_the_unsafeWindow_object_to_interact_with_the_pages_javascript_": {
-    "message": "绝大多数的脚本都需要此 unsafeWindow 对象来与页面js进行交互！"
-  },
-  "This_option_is_essential_for_many_userscripts_to_work__Visit_the_FAQ_": {
-    "message": "绝大多数的脚本都需要此选项才能正常工作！点此访问 FAQ。"
   },
   "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
     "message": "Tampermonkey 需要知道浏览器配置文件夹的绝对路径来保证脚本导入正常工作。\n\n点此访问 FAQ 去了解如何找到该路径！"
@@ -1122,15 +899,6 @@
   },
   "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
     "message": "所有的改动只会保存到此隐身会话结束为止！"
-  },
-  "Open_script_links_in": {
-    "message": "打开脚本连接"
-  },
-  "Current_Tab": {
-    "message": "当前标签页"
-  },
-  "New_Tab": {
-    "message": "新标签页"
   },
   "_not_set_": {
     "message": "未设置"
@@ -1215,41 +983,5 @@
   },
   "Default": {
     "message": "默认"
-  },
-  "English": {
-    "message": "English"
-  },
-  "German": {
-    "message": "Deutsch"
-  },
-  "French": {
-    "message": "Français"
-  },
-  "Italian": {
-    "message": "Italiano"
-  },
-  "Spanish": {
-    "message": "español"
-  },
-  "Polish": {
-    "message": "polski"
-  },
-  "Portuguese_Brazil": {
-    "message": "Português Brasileiro"
-  },
-  "Chinese__Simplified_": {
-    "message": "中文 （简体）"
-  },
-  "Chinese__Traditional_": {
-    "message": "中文 （繁體）"
-  },
-  "Japanese": {
-    "message": "日本語"
-  },
-  "Russian": {
-    "message": "русский"
-  },
-  "EOF": {
-    "message": "EOF"
   }
 }

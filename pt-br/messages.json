@@ -44,9 +44,6 @@
     "30_Seconds": {
         "message": "30 Segundos"
     },
-    "3D_Icon_Set": {
-        "message": "Ícone 3D"
-    },
     "5_Minutes": {
         "message": "5 Minutos"
     },
@@ -58,9 +55,6 @@
     },
     "A_script_blocker_was_detected_": {
         "message": "Um bloqueador de scripts foi detectado!"
-    },
-    "A_script_with_that_name_already_exists_": {
-        "message": "Você renomeou este script mas já existo outro com este nome!"
     },
     "Actions": {
         "message": "Ações"
@@ -148,9 +142,6 @@
     "Auto_reload_on_script_enabled_desc": {
         "message": "Recarregar páginas afetadas se o script for ligado ou desligado"
     },
-    "Available_Userscripts": {
-        "message": "Scripts disponíveis"
-    },
     "Beginner": {
         "message": "Iniciante"
     },
@@ -192,12 +183,6 @@
     "Check_interval": {
         "message": "Intervalo para checar"
     },
-    "Chinese__Simplified_": {
-        "message": "中文 (简体)"
-    },
-    "Chinese__Traditional_": {
-        "message": "中文 (繁體)"
-    },
     "Chrome_Sync_Reset": {
         "message": "Resetar Chrome Sync"
     },
@@ -237,17 +222,8 @@
     "Create_Exportable_Data": {
         "message": "Criar informação exportável"
     },
-    "Current_Index_": {
-        "message": "Índice atual de detalhes"
-    },
-    "Current_Tab": {
-        "message": "Aba atual"
-    },
     "Dashboard": {
         "message": "Dashboard"
-    },
-    "Date_": {
-        "message": "Data"
     },
     "Debug": {
         "message": "Debug"
@@ -270,17 +246,11 @@
     "Disable_Extension": {
         "message": "Desativar extensão"
     },
-    "Disable_sync": {
-        "message": "Desativar Sincronização"
-    },
     "Disabled": {
         "message": "Desativado"
     },
     "Disabled_scripts": {
         "message": "Desativar scripts"
-    },
-    "Do_you_really_want_to_factory_reset_this_script_": {
-        "message": "Você tem certeza de que executar um reset de Fábrica neste script?"
     },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "A Opção '$option$' está habilitada!\n\nVocê quer realmente salvar a fonte consertada?",
@@ -289,9 +259,6 @@
                 "content": "$1"
             }
         }
-    },
-    "Do_you_want_to_continue_": {
-        "message": "Deseja continuar?"
     },
     "Dont_ask_me_for_simple_script_updates": {
         "message": "Não me pergunte para simples atualizações de scripts"
@@ -304,17 +271,8 @@
             }
         }
     },
-    "Downloading": {
-        "message": "Baixando"
-    },
-    "EOF": {
-        "message": "EOF"
-    },
     "Edit": {
         "message": "Editar"
-    },
-    "Edit_this_script": {
-        "message": "Editar este script"
     },
     "Editor": {
         "message": "Editor"
@@ -334,14 +292,8 @@
     "Enable_Native_Script_Import": {
         "message": "Habilitar Importação de Script Nativo"
     },
-    "Enable_Sort_Cache": {
-        "message": "Permitir ordenação de Cache (Alto uso de memória)"
-    },
     "Enable_TESLA": {
         "message": "Habilitar TESLA"
-    },
-    "Enable_TamperFire": {
-        "message": "Habilitar TamperFire"
     },
     "Enable_autoSave": {
         "message": "Salvar conteúdo quando o editor perder o foco"
@@ -349,32 +301,17 @@
     "Enable_easySave": {
         "message": "Não mostrar diálogo de confirmação para salvar"
     },
-    "Enable_sync": {
-        "message": "Ativar Sincronização"
-    },
     "Enabled": {
         "message": "Ativado"
     },
-    "English": {
-        "message": "English"
-    },
-    "EnterMode": {
-        "message": "EnterMode"
-    },
     "Enter_the_new_rule": {
         "message": "Adicionar nova regra"
-    },
-    "Entries_": {
-        "message": "Entradas"
     },
     "Error": {
         "message": "Erro"
     },
     "Every_12_Hour": {
         "message": "A cada 12 horas"
-    },
-    "Every_2_Weeks": {
-        "message": "A cada 2 semanas"
     },
     "Every_6_Hours": {
         "message": "A cada 6 horas"
@@ -403,9 +340,6 @@
     "Factory_Reset": {
         "message": "Reset de Fábrica"
     },
-    "Fans": {
-        "message": "Fãs"
-    },
     "Features": {
         "message": "Características"
     },
@@ -424,15 +358,6 @@
     "Fix_wrappedJSObject_property_access": {
         "message": "Consertar acesso de propriedade wrappedJSObject"
     },
-    "Forbidden_Pages": {
-        "message": "Páginas proibidas"
-    },
-    "Force_Update": {
-        "message": "Forçar Atualização"
-    },
-    "French": {
-        "message": "Français"
-    },
     "Full_reset": {
         "message": "Reset de Fábrica"
     },
@@ -441,9 +366,6 @@
     },
     "General": {
         "message": "Geral"
-    },
-    "German": {
-        "message": "Deutsch"
     },
     "Get_new_scripts___": {
         "message": "Obter novos scripts..."
@@ -481,12 +403,6 @@
     "Indent": {
         "message": "Indentar"
     },
-    "Indent_as_previous": {
-        "message": "Indentar como antes"
-    },
-    "Indent_new_lines": {
-        "message": "Indentar novas linhas"
-    },
     "Indent_with": {
         "message": "Indentar com"
     },
@@ -508,23 +424,11 @@
     "Installed_userscripts": {
         "message": "Userscripts instalados"
     },
-    "Installs": {
-        "message": "Instalações"
-    },
     "Invalid_UserScript__Sry_": {
         "message": "Script inválido. Desculpe!"
     },
     "Invalid_UserScript_name__Sry_": {
         "message": "Nome de Script inválido. Desculpe!"
-    },
-    "Invalid_scheme_of_url": {
-        "message": "esquema invalido de url"
-    },
-    "Italian": {
-        "message": "Italiano"
-    },
-    "Japanese": {
-        "message": "日本語"
     },
     "Jump_to_line": {
         "message": "Ir para linha"
@@ -534,9 +438,6 @@
     },
     "Key_Mapping": {
         "message": "Mapeamento de Chaves"
-    },
-    "Last_Changed": {
-        "message": "Última vez modificado"
     },
     "Last_Updated": {
         "message": "Última vez atualizado"
@@ -556,9 +457,6 @@
     "Manual_Script_Blacklist": {
         "message": "Usercript Manual e requer uma Lista Negra @require"
     },
-    "Many_userscripts_require_the_unsafeWindow_object_to_interact_with_the_pages_javascript_": {
-        "message": "Muitos userscripts precisam do objeto unsafeWindow para interagir com páginas javascript!"
-    },
     "Name": {
         "message": "Nome"
     },
@@ -571,9 +469,6 @@
     "Never": {
         "message": "Nunca"
     },
-    "New_Tab": {
-        "message": "Nova aba"
-    },
     "New_script_template_": {
         "message": "Novo modelo de Userscript"
     },
@@ -582,9 +477,6 @@
     },
     "No": {
         "message": "Não"
-    },
-    "No_Indentation": {
-        "message": "Sem indentação"
     },
     "No_frames": {
         "message": "Executar apenas no frame superior"
@@ -619,12 +511,6 @@
     "Open_changelog": {
         "message": "Abrir o log de mudanças"
     },
-    "Open_script_links_in": {
-        "message": "Abrir links de script em"
-    },
-    "Options": {
-        "message": "Opções"
-    },
     "Original_excludes": {
         "message": "Excludes originais"
     },
@@ -633,15 +519,6 @@
     },
     "Original_matches": {
         "message": "Matches originais"
-    },
-    "Overwrite_excludes": {
-        "message": "Sobrescrever tags @exclude"
-    },
-    "Overwrite_includes": {
-        "message": "Sobrescrever tags @include"
-    },
-    "Overwrite_matches": {
-        "message": "Sobrescrever tags @match"
     },
     "Permanent": {
         "message": "Permanente"
@@ -658,32 +535,8 @@
     "Please_wait___": {
         "message": "Por favor, espere..."
     },
-    "Polish": {
-        "message": "Polski"
-    },
-    "Poll_all_unsafeWindow_variables": {
-        "message": "Fazer Poll de todas as variáveis unsafeWindow (Atenção: isto pode causar uma sobrecarga de CPU!)"
-    },
-    "Poll_unsafeWindow_variables": {
-        "message": "Fazer Poll de variáveis unsafeWindow"
-    },
-    "Portuguese_Brazil": {
-        "message": "Português Brasileiro"
-    },
     "Position_": {
         "message": "Posição"
-    },
-    "Processing_scripts": {
-        "message": "Processando scripts"
-    },
-    "Proxy": {
-        "message": "Proxy"
-    },
-    "Rank": {
-        "message": "Rank"
-    },
-    "Rating": {
-        "message": "Pontuação"
     },
     "Really_delete_0name0__": {
         "message": "Você tem certeza de que deseja deletar '$name$'?",
@@ -707,9 +560,6 @@
     "Really_reset_all_changes_": {
         "message": "Você tem certeza que quer resetar todas as mudanças?"
     },
-    "Registered_menu_cmds": {
-        "message": "Comandos Registrados"
-    },
     "Reindent_on_typing": {
         "message": "Re-indentar ao digitar"
     },
@@ -728,17 +578,11 @@
     "Report_an_issue_to_the_script_hoster_": {
         "message": "Reportar este script como spam ou malicioso\n(Requer uma conta no userscripts.org)"
     },
-    "Reset": {
-        "message": "Resetar"
-    },
     "Reset_Section": {
         "message": "Resetar"
     },
     "Restart_Tampermonkey": {
         "message": "Reiniciar Tampermonkey"
-    },
-    "Restart_to_apply": {
-        "message": "Você precisa reiniciar TM para aplicar esta opção."
     },
     "Run_at": {
         "message": "Executar em:"
@@ -748,15 +592,6 @@
     },
     "Running_scripts": {
         "message": "Executando instâncias de scripts"
-    },
-    "Runtime": {
-        "message": "Tempo de execução"
-    },
-    "Russian": {
-        "message": "русский"
-    },
-    "Sandbox": {
-        "message": "Sandbox"
     },
     "Save": {
         "message": "Salvar"
@@ -769,9 +604,6 @@
     },
     "Script_Update": {
         "message": "Atualização de Script"
-    },
-    "Script_modified_in_background": {
-        "message": "O conteúdo deste script ou opções talvez sejam modificados por outra \naba (por exemplo, uma reinstalação). Por favor, note que clicar\nno botão 'salvar' irá sobrescrever essas mudanças."
     },
     "Script_name_0url0": {
         "message": "Script name: $name$",
@@ -792,12 +624,6 @@
     },
     "Settings": {
         "message": "Configurações"
-    },
-    "Shift": {
-        "message": "Shift"
-    },
-    "Show_Line_Numbers": {
-        "message": "Mostar número de linhas"
     },
     "Show_fixed_source": {
         "message": "Mostrar fonte consertada"
@@ -823,17 +649,11 @@
     "Spaces": {
         "message": "Espaços"
     },
-    "Spanish": {
-        "message": "Español"
-    },
     "Start": {
         "message": "Iniciar"
     },
     "Store_data_in_incognito_mode": {
         "message": "Salvar informações no modo incognito"
-    },
-    "Sync": {
-        "message": "Sincronização"
     },
     "Sync_Id": {
         "message": "Id"
@@ -853,29 +673,8 @@
     "Tabs": {
         "message": "Tabs"
     },
-    "TamperFire": {
-        "message": "TamperFire"
-    },
-    "TamperFire_import_started": {
-        "message": "Importação de script TamperFire começou"
-    },
-    "TamperFire_is_up_to_date": {
-        "message": "TamperFire está atualizado :)"
-    },
-    "TamperFire_is_up_to_date_": {
-        "message": "TamperFire está atualizado!"
-    },
-    "TamperFire_update_failed___": {
-        "message": "Atualização do TamperFire falhou :("
-    },
-    "TamperFire_update_started": {
-        "message": "Atualização do TamperFire começou"
-    },
     "Tampermonkey_External_Script_List_Access": {
         "message": "Tampermonkey External Script List Access (Lista de Acesso de Scripts Externos Tampermonkey)"
-    },
-    "Tampermonkey_Options": {
-        "message": "Tampermonkey"
     },
     "Tampermonkey_assumes_0urlAllHttp0_in_order_to_continue_": {
         "message": "Tampermonkey assume '$urlAllHttp$' para continuar!",
@@ -905,7 +704,6 @@
     },
     "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
         "message": "O script desatualizado poderá ter problemas para ler sua informação guardada!"
-
     },
     "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
         "message": "A url de atualização mudou:\n '$oldurl$'\n para:\n '$newurl$'\n",
@@ -940,9 +738,6 @@
     },
     "This_only_changes_the_user_agent_string": {
         "message": "Este item somente muda o User-Agent para as páginas incluídas"
-    },
-    "This_option_is_essential_for_many_userscripts_to_work__Visit_the_FAQ_": {
-        "message": "Esta opção é essencial para muitos Userscripts funcionarem! Clique aqui para visitar o FAQ."
     },
     "This_page_is_blacklisted_at_the_security_settings": {
         "message": "Listado pelas opções de segurança"
@@ -989,9 +784,6 @@
     "Type": {
         "message": "Tipo"
     },
-    "Unable_to_get_UserScript__Sry_": {
-        "message": "Não foi possível carregar o Userscript. Desculpe!"
-    },
     "Unable_to_install_script_due_to_empty_tabID_": {
         "message": "Não foi possível instalar script devido a tabID vazio!"
     },
@@ -1009,14 +801,8 @@
     "Unable_to_parse_this_": {
         "message": "Não foi possível analisar isto! :("
     },
-    "Unable_to_run_scripts_due_to_empty_tabID_": {
-        "message": "Não foi possível executar scripts devido a tabID vazio!"
-    },
     "Unable_to_save_storage_due_to_empty_tabID_": {
         "message": "Não foi possível salvar storage devido a tabID vazio!"
-    },
-    "Unable_to_save_tab_due_to_empty_tabID_": {
-        "message": "Não foi possível salvar tab devido a tabID vazio!"
     },
     "Uninstall_Extension": {
         "message": "Uninstall Extension"
@@ -1031,12 +817,6 @@
                 "content": "$1"
             }
         }
-    },
-    "Unsafe": {
-        "message": "Unsafe"
-    },
-    "UnsafeWindow_retrieval_method": {
-        "message": "UnsafeWindow retrieval method"
     },
     "UpdateCheck_of_0name0_Url_0url0_failed_": {
         "message": "Checagem de atualização de '$name$' (Url: $url$) falhou!",
@@ -1055,22 +835,8 @@
     "Update_URL_": {
         "message": "Atualizar URL"
     },
-    "Update_found_for_0name0_": {
-        "message": "Atualização encontrada para $name$.",
-        "placeholders": {
-            "name": {
-                "content": "$1"
-            }
-        }
-    },
-    "Update_in_progress": {
-        "message": "Atualizando em progresso"
-    },
     "Update_interval": {
         "message": "Intervalo de atualizações"
-    },
-    "Update_needed": {
-        "message": "Atualização necessária"
     },
     "Updated_to__0version0": {
         "message": "Atualizado para: $version$",
@@ -1079,9 +845,6 @@
                 "content": "$1"
             }
         }
-    },
-    "Use_top_frame_URL_only": {
-        "message": "Usar apenas o frame superior da URL"
     },
     "User_excludes": {
         "message": "Excludes do usuário"
@@ -1116,9 +879,6 @@
     "Windows": {
         "message": "Windows"
     },
-    "Writing_scripts": {
-        "message": "Escrevendo scripts"
-    },
     "Yes": {
         "message": "Sim"
     },
@@ -1140,40 +900,17 @@
     "Zip": {
         "message": "Zip"
     },
-    "_0_scripts_found": {
-        "message": "? scripts disponíveis"
-    },
     "__Please_choose__": {
         "message": "-- Por favor, escolha uma opção --"
     },
     "_not_set_": {
         "message": "<não escolhido>"
     },
-    "_require_blacklist": {
-        "message": "Lista Negra @require"
-    },
-    "env_option__debug_scripts": {
-        "message": "Env option: debug scripts"
-    },
-    "every_x_ms": {
-        "message": "Cada ## ms"
-    },
     "fatal_error": {
         "message": "erro fatal"
     },
     "overwritten_by_user": {
         "message": "sobrescrito por opções de usuário"
-    },
-    "run_script_0url0___0name0": {
-        "message": "Executar script $name$ @ $url$",
-        "placeholders": {
-            "url": {
-                "content": "$1"
-            },
-            "name": {
-                "content": "$2"
-            }
-        }
     },
     "severity_1": {
         "message": "1 (mais seguro)"

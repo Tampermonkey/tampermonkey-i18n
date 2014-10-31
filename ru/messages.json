@@ -1,26 +1,42 @@
 {
+  "1": {
+    "message": "1"
+  },
+  "2": {
+    "message": "2"
+  },
+  "3": {
+    "message": "3"
+  },
+  "4": {
+    "message": "4"
+  },
+  "5": {
+    "message": "5"
+  },
+  "6": {
+    "message": "6"
+  },
+  "7": {
+    "message": "7"
+  },
+  "8": {
+    "message": "8"
+  },
+  "9": {
+    "message": "9"
+  },
+  "10": {
+    "message": "10"
+  },
+  "11": {
+    "message": "11"
+  },
   "fatal_error": {
     "message": "Критическая ошибка"
   },
   "Please_consider_a_donation": {
     "message": "Внести пожертвование"
-  },
-  "Invalid_scheme_of_url": {
-    "message": "Неверный URL"
-  },
-  "run_script_0url0___0name0": {
-    "message": "Запуск скрипта $name$ @ $url$",
-    "placeholders": {
-      "url": {
-         "content": "$1"
-      },
-      "name": {
-         "content": "$2"
-      }
-    }
-  },
-  "env_option__debug_scripts": {
-    "message": "Env option: отладка скриптов"
   },
   "Invalid_UserScript__Sry_": {
     "message": "Неправильный UserScript. Извините!"
@@ -43,9 +59,6 @@
          "content": "$1"
       }
     }
-  },
-  "Unable_to_get_UserScript__Sry_": {
-    "message": "Невозможно загрузить UserScript. Извините!"
   },
   "Please_double_check_the_native_script_import_settings__": {
     "message": "Невозможно загрузить UserScript!\n\nПожалуйста, дважды проверьте настройки 'Native Script Import'."
@@ -129,17 +142,6 @@
   "Source": {
     "message": "Источник"
   },
-  "Do_you_want_to_continue_": {
-    "message": "Вы хотите продолжить?"
-  },
-  "Update_found_for_0name0_": {
-    "message": "Обновление найдено для $name$.",
-    "placeholders": {
-      "name": {
-         "content": "$1"
-      }
-    }
-  },
   "UpdateCheck_of_0name0_Url_0url0_failed_": {
     "message": "Обновить/проверить '$name$' (адрес: $url$) не удалось!",
     "placeholders": {
@@ -154,9 +156,6 @@
   "No_update_found__sry_": {
     "message": "Извините, но обновлений нет!"
   },
-  "Unable_to_save_tab_due_to_empty_tabID_": {
-    "message": "Не удается сохранить вкладки из-за пустого tabID!"
-  },
   "Unable_to_load_storage_due_to_empty_tabID_": {
     "message": "Невозможно загрузить из хранилища из-за пустого tabID!"
   },
@@ -165,9 +164,6 @@
   },
   "Unable_to_install_script_due_to_empty_tabID_": {
     "message": "Не удается установить скрипт из-за пустого tabID!"
-  },
-  "Unable_to_run_scripts_due_to_empty_tabID_": {
-    "message": "Невозможно выполнить скрипт из-за пустого tabID!"
   },
   "Unknown_method_0name0": {
     "message": "Неизвестный метод $name$",
@@ -234,17 +230,11 @@
   "New_userscript": {
     "message": "<Новый скрипт>"
   },
-  "Registered_menu_cmds": {
-    "message": "Зарегистрированные пункты меню"
-  },
   "Help": {
     "message": "Помощь"
   },
   "Changelog": {
     "message": "Список изменений"
-  },
-  "Tampermonkey_Options": {
-    "message": "Tampermonkey"
   },
   "Position_": {
     "message": "Позиция"
@@ -279,15 +269,6 @@
   "Add_toSource_function_to_Object_Prototype": {
     "message": "Добавить совместимость функций объектов и массивов"
   },
-  "Poll_unsafeWindow_variables": {
-    "message": "Опрос unsafeWindow переменных"
-  },
-  "Poll_all_unsafeWindow_variables": {
-    "message": "Опрос всех unsafeWindow переменных (Внимание: может потребоваться большой нагрузки на процессор!)"
-  },
-  "every_x_ms": {
-    "message": "каждые ## мс"
-  },
   "Run_at": {
     "message": "Запускать при"
   },
@@ -299,9 +280,6 @@
   },
   "Cancel": {
     "message": "Отмена"
-  },
-  "Reset": {
-    "message": "Сбросить"
   },
   "Search": {
     "message": "Поиск"
@@ -399,23 +377,14 @@
       }
     }
   },
-  "Edit_this_script": {
-    "message": "Редактировать этот скрипт"
-  },
   "This_script_has_access_to_webpage_scripts": {
     "message": "Этот пункт имеет полный доступ к странице."
   },
   "Utilities": {
     "message": "Утилиты"
   },
-  "Script_modified_in_background": {
-    "message": "Содержимое скрипта может быть изменено на другой вкладке \n(например при переустановке). Кнопка 'сохранить' заменит содержимое."
-  },
   "This_script_uses_uW_gm_api_": {
     "message": "Этот скрипт использует часть из Greasemonkey 10 API (unsafeWindow.gmonkey)\nон не поддерживается Tampermonkey и другим скрипт-обработчиком."
-  },
-  "A_script_with_that_name_already_exists_": {
-    "message": "Вы переименовали этот скрипт, но скрипт с таким именем уже существует!"
   },
   "some_secs": {
     "message": "некоторые"
@@ -498,9 +467,6 @@
   "Every_Week": {
     "message": "Каждую неделю"
   },
-  "Every_2_Weeks": {
-    "message": "Каждые 2 недели"
-  },
   "Every_Month": {
     "message": "Каждый месяц"
    },
@@ -525,39 +491,6 @@
   "Indentation_Width": {
     "message": "Indentation Width"
   },
-  "1": {
-    "message": "1"
-  },
-  "2": {
-    "message": "2"
-  },
-  "3": {
-    "message": "3"
-  },
-  "4": {
-    "message": "4"
-  },
-  "5": {
-    "message": "5"
-  },
-  "6": {
-    "message": "6"
-  },
-  "7": {
-    "message": "7"
-  },
-  "8": {
-    "message": "8"
-  },
-  "9": {
-    "message": "9"
-  },
-  "10": {
-    "message": "10"
-  },
-  "11": {
-    "message": "11"
-  },
   "Indent_with": {
     "message": "Indent with"
   },
@@ -573,32 +506,14 @@
   "Classic": {
     "message": "Классический"
   },
-  "Shift": {
-    "message": "Сдвиг"
-  },
   "Indent": {
     "message": "Отступ"
   },
   "Smart": {
     "message": "Умный"
   },
-  "EnterMode": {
-    "message": "Режим ввода"
-  },
-  "Indent_new_lines": {
-    "message": "Отступ новых линий"
-  },
-  "Indent_as_previous": {
-    "message": "Отступ как на прошлой"
-  },
-  "No_Indentation": {
-    "message": "Без выравнивания"
-  },
   "Reindent_on_typing": {
     "message": "Повторно выровнять при вводе"
-  },
-  "Show_Line_Numbers": {
-    "message": "Показывать номера строк"
   },
   "Auto_reload_on_script_enabled": {
     "message": "Автоматическая перезагрузка страниц"
@@ -639,17 +554,8 @@
   "Appearance": {
     "message": "Внешний вид"
   },
-  "3D_Icon_Set": {
-    "message": "3D иконка"
-  },
   "Security": {
     "message": "Безопасность"
-  },
-  "Forbidden_Pages": {
-    "message": "Запрещенные страницы"
-  },
-  "_require_blacklist": {
-    "message": "@require черный список"
   },
   "This_page_is_blacklisted_at_the_security_settings": {
     "message": "Блокируемые по настройкам безопасности"
@@ -671,56 +577,11 @@
   "Check_disabled_scripts": {
     "message": "Обновлять отключенные скрипты"
   },
-  "TamperFire": {
-    "message": "TamperFire"
-  },
-  "Enable_TamperFire": {
-    "message": "Включить TamperFire"
-  },
-  "Restart_to_apply": {
-    "message": "Требуется перезагрузка TM для применения этой настройки."
-  },
-  "Use_top_frame_URL_only": {
-    "message": "Использование URL верхнего уровня"
-  },
-  "TamperFire_update_started": {
-    "message": "TamperFire обновление началось"
-  },
-  "TamperFire_update_failed___": {
-    "message": "TamperFire обновление не удалось :("
-  },
-  "TamperFire_import_started": {
-    "message": "TamperFire скрипт начал импорт"
-  },
-  "TamperFire_is_up_to_date": {
-    "message": "TamperFire находится в актуальном состоянии :)"
-  },
-  "_0_scripts_found": {
-    "message": "? доступные скрипты"
-  },
-  "Available_Userscripts": {
-    "message": "Доступные Userscript-ы"
-  },
-  "Rank": {
-    "message": "Ранг"
-  },
-  "Installs": {
-    "message": "Установлено"
-  },
-  "Rating": {
-    "message": "Рейтинг"
-  },
-  "Fans": {
-    "message": "Вентилятор"
-  },
   "Homepage": {
     "message": "Домашняя страница"
   },
   "Last_Updated": {
     "message": "Последнее обновление"
-  },
-  "Last_Changed": {
-    "message": "Последние изменения"
   },
   "Version": {
     "message": "Версия"
@@ -728,53 +589,14 @@
   "Type": {
     "message": "Тип"
   },
-  "Update_needed": {
-    "message": "Требуется обновление"
-  },
-  "Update_in_progress": {
-    "message": "Обновление запущено"
-  },
-  "Downloading": {
-    "message": "Загрузка"
-  },
-  "Processing_scripts": {
-    "message": "Запущенные скрипты"
-  },
-  "Writing_scripts": {
-    "message": "Написание скриптов"
-  },
   "Check_for_Updates": {
     "message": "Проверить обновления"
-  },
-  "Force_Update": {
-    "message": "Принудительное обновление"
   },
   "Click_here_to_move_this_script": {
     "message": "Нажмите сюда для перемещения этого скрипта"
   },
-  "TamperFire_is_up_to_date_": {
-    "message": "TamperFire находится в актуальном состоянии!"
-  },
-  "Current_Index_": {
-    "message": "Текущие основные показатели"
-  },
-  "Date_": {
-    "message": "Дата"
-  },
-  "Entries_": {
-    "message": "Записи"
-  },
   "overwritten_by_user": {
     "message": "изменено пользовательской настройкой"
-  },
-  "Overwrite_includes": {
-    "message": "Переопределения правил @include"
-  },
-  "Overwrite_matches": {
-    "message": "Переопределения правил @match"
-  },
-  "Overwrite_excludes": {
-    "message": "Переопределения правил @exclude"
   },
   "Report_a_bug": {
     "message": "Сообщить об ошибке"
@@ -784,9 +606,6 @@
   },
   "A_reload_is_required": {
     "message": "Требуется перезагрузка: \nВсе несохраненные изменения будут потеряны!"
-  },
-  "Enable_Sort_Cache": {
-    "message": "Включить кэш (Используется много памяти)"
   },
   "Save_to_disk": {
     "message": "Сохранить на диск"
@@ -800,14 +619,8 @@
   "Run_syntax_check": {
     "message": "Выполнить проверку синтаксиса"
   },
-  "Do_you_really_want_to_factory_reset_this_script_": {
-    "message": "Вы действительно хотите сбросить этот скрипт?"
-  },
   "Dashboard": {
     "message": "Панель"
-  },
-  "Options": {
-    "message": "Параметры"
   },
   "Userscripts": {
     "message": "Юзер-скрипты"
@@ -903,15 +716,6 @@
   },
   "Imported": {
     "message": "Импортирован"
-  },
-  "Sync": {
-    "message": "Синхронизация"
-  },
-  "Disable_sync": {
-    "message": "Отключить синхронизацию"
-  },
-  "Enable_sync": {
-    "message": "Включить синхронизацию"
   },
   "Create_Exportable_Data": {
     "message": "Создать экспортируемые данные"
@@ -1015,29 +819,8 @@
   "No_frames": {
     "message": "Запускать только в верхнем фрейме"
   },
-  "Runtime": {
-    "message": "Время работы"
-  },
-  "UnsafeWindow_retrieval_method": {
-    "message": "метод извлечения UnsafeWindow"
-  },
   "Native": {
     "message": "Родной"
-  },
-  "Proxy": {
-    "message": "Прокси"
-  },
-  "Unsafe": {
-    "message": "Небезопасный"
-  },
-  "Sandbox": {
-    "message": "Песочница"
-  },
-  "Many_userscripts_require_the_unsafeWindow_object_to_interact_with_the_pages_javascript_": {
-    "message": "Некоторые скрипты могут запрашивать объекты небезопасные для страницы!"
-  },
-  "This_option_is_essential_for_many_userscripts_to_work__Visit_the_FAQ_": {
-    "message": "Этот параметр важен для работы многих пользовательских скриптов! Нажмите здесь, чтобы посетить раздел FAQ!"
   },
   "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
     "message": "Для работы функции импорта скриптов, Tampermonkey должен знать абсолютный путь к папке профиля браузера.\n\nНажмите здесь, чтобы посетить FAQ!"
@@ -1077,15 +860,6 @@
   },
   "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
     "message": "Все изменения сохраняются только до закрытия этой инкогнито сессии!"
-  },
-  "Open_script_links_in": {
-    "message": "Открывать ссылки на скрипты"
-  },
-  "Current_Tab": {
-    "message": "В текущей вкладке"
-  },
-  "New_Tab": {
-    "message": "В новой вкладке"
   },
   "_not_set_": {
     "message": "<не установлен>"
@@ -1167,41 +941,5 @@
   },
   "Default": {
     "message": "По умолчанию"
-  },
-  "English": {
-    "message": "English"
-  },
-  "German": {
-    "message": "Deutsch"
-  },
-  "French": {
-    "message": "Français"
-  },
-  "Italian": {
-    "message": "Italiano"
-  },
-  "Spanish": {
-    "message": "Español"
-  },
-  "Polish": {
-    "message": "Polski"
-  },
-  "Portuguese_Brazil": {
-    "message": "Português Brasileiro"
-  },
-  "Chinese__Simplified_": {
-    "message": "中文 (简体)"
-  },
-  "Chinese__Traditional_": {
-    "message": "中文 (繁體)"
-  },
-  "Japanese": {
-    "message": "日本語"
-  },
-  "Russian": {
-    "message": "Русский"
-  },
-  "EOF": {
-    "message": "EOF"
   }
 }

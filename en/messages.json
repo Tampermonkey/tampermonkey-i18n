@@ -1,26 +1,42 @@
 {
+  "1": {
+    "message": "1"
+  },
+  "2": {
+    "message": "2"
+  },
+  "3": {
+    "message": "3"
+  },
+  "4": {
+    "message": "4"
+  },
+  "5": {
+    "message": "5"
+  },
+  "6": {
+    "message": "6"
+  },
+  "7": {
+    "message": "7"
+  },
+  "8": {
+    "message": "8"
+  },
+  "9": {
+    "message": "9"
+  },
+  "10": {
+    "message": "10"
+  },
+  "11": {
+    "message": "11"
+  },
   "fatal_error": {
     "message": "fatal error"
   },
   "Please_consider_a_donation": {
     "message": "Please consider a donation"
-  },
-  "Invalid_scheme_of_url": {
-    "message": "Invalid scheme of url"
-  },
-  "run_script_0url0___0name0": {
-    "message": "Run script $name$ @ $url$",
-    "placeholders": {
-      "url": {
-         "content": "$1"
-      },
-      "name": {
-         "content": "$2"
-      }
-    }
-  },
-  "env_option__debug_scripts": {
-    "message": "Env option: debug scripts"
   },
   "Invalid_UserScript__Sry_": {
     "message": "Invalid UserScript. Sry!"
@@ -43,9 +59,6 @@
          "content": "$1"
       }
     }
-  },
-  "Unable_to_get_UserScript__Sry_": {
-    "message": "Unable to load the UserScript. Sry!"
   },
   "Please_double_check_the_native_script_import_settings__": {
     "message": "Unable to load the UserScript!\n\nPlease double check the 'Native Script Import' settings."
@@ -158,17 +171,6 @@
   "Process_with_Chrome": {
     "message": "Process with Chrome"
   },
-  "Do_you_want_to_continue_": {
-    "message": "Do you want to continue?"
-  },
-  "Update_found_for_0name0_": {
-    "message": "Update found for $name$.",
-    "placeholders": {
-      "name": {
-         "content": "$1"
-      }
-    }
-  },
   "UpdateCheck_of_0name0_Url_0url0_failed_": {
     "message": "UpdateCheck of '$name$' (Url: $url$) failed!",
     "placeholders": {
@@ -183,9 +185,6 @@
   "No_update_found__sry_": {
     "message": "No update found, sry!"
   },
-  "Unable_to_save_tab_due_to_empty_tabID_": {
-    "message": "Unable to save tab due to empty tabID!"
-  },
   "Unable_to_load_storage_due_to_empty_tabID_": {
     "message": "Unable to load storage due to empty tabID!"
   },
@@ -194,9 +193,6 @@
   },
   "Unable_to_install_script_due_to_empty_tabID_": {
     "message": "Unable to install script due to empty tabID!"
-  },
-  "Unable_to_run_scripts_due_to_empty_tabID_": {
-    "message": "Unable to run scripts due to empty tabID!"
   },
   "Unknown_method_0name0": {
     "message": "Unknown method $name$",
@@ -234,7 +230,7 @@
     "message": "Fix includes"
   },
   "Fix_includes_example": {
-    "message": "This option converts a simple '*' to '/https?:\/\/.*\/.*/'"
+    "message": "This option converts a simple '*' to '/https?:\\/\\/.*\\/.*\\/'"
   },
   "Debug_scripts": {
     "message": "Debug scripts"
@@ -266,17 +262,11 @@
   "New_userscript": {
     "message": "<New userscript>"
   },
-  "Registered_menu_cmds": {
-    "message": "Registered Menu Cmds"
-  },
   "Help": {
     "message": "Help"
   },
   "Changelog": {
     "message": "Changelog"
-  },
-  "Tampermonkey_Options": {
-    "message": "Tampermonkey"
   },
   "Position_": {
     "message": "Position"
@@ -311,15 +301,6 @@
   "Add_toSource_function_to_Object_Prototype": {
     "message": "Add compatibility functions to Object and Array"
   },
-  "Poll_unsafeWindow_variables": {
-    "message": "Poll unsafeWindow variables"
-  },
-  "Poll_all_unsafeWindow_variables": {
-    "message": "Poll all unsafeWindow variables (Attention: this might produce a lot of cpu load!)"
-  },
-  "every_x_ms": {
-    "message": "every ## ms"
-  },
   "Run_at": {
     "message": "Run at"
   },
@@ -329,14 +310,8 @@
   "Save": {
     "message": "Save"
   },
-  "OK": {
-    "message": "OK"
-  },
   "Cancel": {
     "message": "Cancel"
-  },
-  "Reset": {
-    "message": "Reset"
   },
   "Search": {
     "message": "Search"
@@ -440,23 +415,14 @@
       }
     }
   },
-  "Edit_this_script": {
-    "message": "Edit this script"
-  },
   "This_script_has_access_to_webpage_scripts": {
     "message": "This item has full access to the webpage."
   },
   "Utilities": {
     "message": "Utilities"
   },
-  "Script_modified_in_background": {
-    "message": "The script content or options may be modified by another \ntab (for example a reinstallation). Please note that hitting\nthe 'save' button will overwrite these changes."
-  },
   "This_script_uses_uW_gm_api_": {
     "message": "This script uses a part of Greasemonkey 10 API (unsafeWindow.gmonkey)\nthat is not supported by Tampermonkey nor any other alternative script handler."
-  },
-  "A_script_with_that_name_already_exists_": {
-    "message": "You've renamed this script but another one with that name already exists!"
   },
   "some_secs": {
     "message": "some"
@@ -527,6 +493,9 @@
   "Check_interval": {
     "message": "Check Interval"
   },
+  "Always": {
+    "message": "Always"
+  },
   "Never": {
     "message": "Never"
   },
@@ -544,9 +513,6 @@
   },
   "Every_Week": {
     "message": "Every Week"
-  },
-  "Every_2_Weeks": {
-    "message": "Every 2 Weeks"
   },
   "Every_Month": {
     "message": "Every Month"
@@ -572,39 +538,6 @@
   "Indentation_Width": {
     "message": "Indentation Width"
   },
-  "1": {
-    "message": "1"
-  },
-  "2": {
-    "message": "2"
-  },
-  "3": {
-    "message": "3"
-  },
-  "4": {
-    "message": "4"
-  },
-  "5": {
-    "message": "5"
-  },
-  "6": {
-    "message": "6"
-  },
-  "7": {
-    "message": "7"
-  },
-  "8": {
-    "message": "8"
-  },
-  "9": {
-    "message": "9"
-  },
-  "10": {
-    "message": "10"
-  },
-  "11": {
-    "message": "11"
-  },
   "Indent_with": {
     "message": "Indent with"
   },
@@ -620,32 +553,14 @@
   "Classic": {
     "message": "Classic"
   },
-  "Shift": {
-    "message": "Shift"
-  },
   "Indent": {
     "message": "Indent"
   },
   "Smart": {
     "message": "Smart"
   },
-  "EnterMode": {
-    "message": "EnterMode"
-  },
-  "Indent_new_lines": {
-    "message": "Indent new lines"
-  },
-  "Indent_as_previous": {
-    "message": "Indent as previous"
-  },
-  "No_Indentation": {
-    "message": "No Indentation"
-  },
   "Reindent_on_typing": {
     "message": "Re-indent on typing"
-  },
-  "Show_Line_Numbers": {
-    "message": "Show Line Numbers"
   },
   "Auto_reload_on_script_enabled": {
     "message": "Auto reload pages"
@@ -685,9 +600,6 @@
   },
   "Appearance": {
     "message": "Appearance"
-  },
-  "3D_Icon_Set": {
-    "message": "3D Icon"
   },
   "Security": {
     "message": "Security"
@@ -737,9 +649,6 @@
   "Both": {
     "message": "Both"
   },
-  "_require_blacklist": {
-    "message": "@require Blacklist"
-  },
   "This_page_is_blacklisted_at_the_security_settings": {
     "message": "Blacklisted by security settings"
   },
@@ -760,59 +669,11 @@
   "Check_disabled_scripts": {
     "message": "Update disabled scripts"
   },
-  "TamperFire": {
-    "message": "TamperFire"
-  },
-  "Enable_TamperFire": {
-    "message": "Enable TamperFire"
-  },
-  "Searches_for_scripts_that_can_be_used_on_the_current_page_": {
-    "message": "Searches for scripts that can be used on the current page.\nThe results will then be displayed at the context menu."
-  },
-  "Restart_to_apply": {
-    "message": "You need to restart TM to apply this setting."
-  },
-  "Use_top_frame_URL_only": {
-    "message": "Use top frame URL only"
-  },
-  "TamperFire_update_started": {
-    "message": "TamperFire update started"
-  },
-  "TamperFire_update_failed___": {
-    "message": "TamperFire update failed :("
-  },
-  "TamperFire_import_started": {
-    "message": "TamperFire script import started"
-  },
-  "TamperFire_is_up_to_date": {
-    "message": "TamperFire is up to date :)"
-  },
-  "_0_scripts_found": {
-    "message": "? scripts available"
-  },
-  "Available_Userscripts": {
-    "message": "Available Userscripts"
-  },
-  "Rank": {
-    "message": "Rank"
-  },
-  "Installs": {
-    "message": "Installs"
-  },
-  "Rating": {
-    "message": "Rating"
-  },
-  "Fans": {
-    "message": "Fans"
-  },
   "Homepage": {
     "message": "Homepage"
   },
   "Last_Updated": {
     "message": "Last Updated"
-  },
-  "Last_Changed": {
-    "message": "Last Changed"
   },
   "Version": {
     "message": "Version"
@@ -820,62 +681,20 @@
   "Type": {
     "message": "Type"
   },
-  "Update_needed": {
-    "message": "Update needed"
-  },
-  "Update_in_progress": {
-    "message": "Update running"
-  },
-  "Downloading": {
-    "message": "Downloading"
-  },
-  "Processing_scripts": {
-    "message": "Processing scripts"
-  },
-  "Writing_scripts": {
-    "message": "Writing scripts"
-  },
   "Check_for_Updates": {
     "message": "Check for Updates"
-  },
-  "Force_Update": {
-    "message": "Force Update"
   },
   "Click_here_to_move_this_script": {
     "message": "Click here to move this script"
   },
-  "TamperFire_is_up_to_date_": {
-    "message": "TamperFire is up to date!"
-  },
-  "Current_Index_": {
-    "message": "Current Index Details"
-  },
-  "Date_": {
-    "message": "Date"
-  },
-  "Entries_": {
-    "message": "Entries"
-  },
   "overwritten_by_user": {
     "message": "overwritten by user setting"
-  },
-  "Overwrite_includes": {
-    "message": "Overwrite @include tags"
-  },
-  "Overwrite_matches": {
-    "message": "Overwrite @match tags"
-  },
-  "Overwrite_excludes": {
-    "message": "Overwrite @exclude tags"
   },
   "Report_a_bug": {
     "message": "Report a bug"
   },
   "A_reload_is_required": {
     "message": "A reload is required: \nAll unsaved changes will be lost!"
-  },
-  "Enable_Sort_Cache": {
-    "message": "Enable sort cache (High memory usage)"
   },
   "Save_to_disk": {
     "message": "Save to disk"
@@ -889,14 +708,8 @@
   "Run_syntax_check": {
     "message": "Run syntax check"
   },
-  "Do_you_really_want_to_factory_reset_this_script_": {
-    "message": "Do you really want to factory reset this script?"
-  },
   "Dashboard": {
     "message": "Dashboard"
-  },
-  "Options": {
-    "message": "Options"
   },
   "Userscripts": {
     "message": "Userscripts"
@@ -1002,15 +815,6 @@
   "Imported": {
     "message": "Imported"
   },
-  "Sync": {
-    "message": "Sync"
-  },
-  "Disable_sync": {
-    "message": "Disable Sync"
-  },
-  "Enable_sync": {
-    "message": "Enable Sync"
-  },
   "Create_Exportable_Data": {
     "message": "Create Exportable Data"
   },
@@ -1025,9 +829,6 @@
   },
   "Tampermonkey_can_not_work_when_javascript_is_disabled": {
     "message": "Tampermonkey can't work when Javascript is disabled at a page where a script should run on. This settings allows TM to overwrite this setting that either was made by you or a script blocker. This does only affects inline scripts from the page but not remote scripts."
-  },
-  "A_lot_of_userscripts_require_the_unsafeWindow_object_to_interact_with_the_pages_javascript_": {
-    "message": "A lot of userscripts require the unsafeWindow object to interact with the pages Javascript! When this is configured wrong some of them might not work anymore!"
   },
   "Yes": {
     "message": "Yes"
@@ -1119,29 +920,8 @@
   "No_frames": {
     "message": "Run only in top frame"
   },
-  "Runtime": {
-    "message": "Runtime"
-  },
-  "UnsafeWindow_retrieval_method": {
-    "message": "UnsafeWindow retrieval method"
-  },
   "Native": {
     "message": "Native"
-  },
-  "Proxy": {
-    "message": "Proxy"
-  },
-  "Unsafe": {
-    "message": "Unsafe"
-  },
-  "Sandbox": {
-    "message": "Sandbox"
-  },
-  "Many_userscripts_require_the_unsafeWindow_object_to_interact_with_the_pages_javascript_": {
-    "message": "Many userscripts require the unsafeWindow object to interact with the pages Javascript!"
-  },
-  "This_option_is_essential_for_many_userscripts_to_work__Visit_the_FAQ_": {
-    "message": "This option is essential for many userscripts to work! Click here to visit the FAQ."
   },
   "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
     "message": "Tampermonkey needs to know the absolute path to your browser profile folder to make the script import function work.\n\nClick here to visit the FAQ to learn where this can be found!"
@@ -1185,17 +965,11 @@
   "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
     "message": "When Tampermonkey is updated by your browser it is also re-started. Unfortunately this might break currently running scripts!\n\nSo are you sure that you don't want to be notified of updates?"
   },
+  "Operation_completed_successfully": {
+    "message": "Operation completed successfully"
+  },
   "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
     "message": "All modifications are only kept until this incognito session is closed!"
-  },
-  "Open_script_links_in": {
-    "message": "Open script links in"
-  },
-  "Current_Tab": {
-    "message": "Current Tab"
-  },
-  "New_Tab": {
-    "message": "New Tab"
   },
   "_not_set_": {
     "message": "<not set>"
@@ -1299,41 +1073,16 @@
   "Default": {
     "message": "Default"
   },
-  "English": {
-    "message": "English"
+  "Username": {
+    "message": "Username"
   },
-  "German": {
-    "message": "Deutsch"
+  "Login": {
+    "message": "Login"
   },
-  "French": {
-    "message": "Français"
+  "Last_updated": {
+    "message": "Last updated"
   },
-  "Italian": {
-    "message": "Italiano"
-  },
-  "Spanish": {
-    "message": "Español"
-  },
-  "Polish": {
-    "message": "Polski"
-  },
-  "Portuguese_Brazil": {
-    "message": "Português Brasileiro"
-  },
-  "Chinese__Simplified_": {
-    "message": "中文 (简体)"
-  },
-  "Chinese__Traditional_": {
-    "message": "中文 (繁體)"
-  },
-  "Japanese": {
-    "message": "日本語"
-  },
-  "Russian": {
-    "message": "русский"
-  },
-  "EOF": {
-    "message": "EOF"
+  "Ok": {
+    "message": "Ok"
   }
 }
-

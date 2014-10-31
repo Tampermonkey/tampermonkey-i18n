@@ -5,23 +5,6 @@
   "Please_consider_a_donation": {
     "message": "Bitte spende einen kleinen Betrag"
   },
-  "Invalid_scheme_of_url": {
-    "message": "Ungültige URL"
-  },
-  "run_script_0url0___0name0": {
-    "message": "Starte Script $name$ @ $url$",
-    "placeholders": {
-      "url": {
-         "content": "$1"
-      },
-      "name": {
-         "content": "$2"
-      }
-    }
-  },
-  "env_option__debug_scripts": {
-    "message": "Env option: debugge Scripts"
-  },
   "Invalid_UserScript__Sry_": {
     "message": "Ungültiges Userscript. Sry!"
   },
@@ -43,9 +26,6 @@
          "content": "$1"
       }
     }
-  },
-  "Unable_to_get_UserScript__Sry_": {
-    "message": "Das Userscript konnte nicht geladen werden!"
   },
   "Please_double_check_the_native_script_import_settings__": {
     "message": "Das Userscript konnte nicht geladen werden!\n\nBitte Überprüfen Sie die Einstellungen im Abschnitt 'Nativer Script Import'."
@@ -158,17 +138,6 @@
   "Process_with_Chrome": {
     "message": "An Chrome übergeben"
   },
-  "Do_you_want_to_continue_": {
-    "message": "Möchten Sie fortfahren?"
-  },
-  "Update_found_for_0name0_": {
-    "message": "Ein Update für $name$ wurde gefunden.",
-    "placeholders": {
-      "name": {
-         "content": "$1"
-      }
-    }
-  },
   "UpdateCheck_of_0name0_Url_0url0_failed_": {
     "message": "Update-Prüfung von '$name$' (Url: $url$) fehlgeschlagen!",
     "placeholders": {
@@ -183,9 +152,6 @@
   "No_update_found__sry_": {
     "message": "Keine Updates gefunden!"
   },
-  "Unable_to_save_tab_due_to_empty_tabID_": {
-    "message": "Das Tab Objekt konnte wegen fehlender tabID nicht gespeichert werden!"
-  },
   "Unable_to_load_storage_due_to_empty_tabID_": {
     "message": "Der Script-Speicher konnte wegen fehlender tabID nicht geladen werden!"
   },
@@ -194,9 +160,6 @@
   },
   "Unable_to_install_script_due_to_empty_tabID_": {
     "message": "Das Script konnte wegen fehlender tabID nicht installiert werden!"
-  },
-  "Unable_to_run_scripts_due_to_empty_tabID_": {
-    "message": "Die Scripte konnte wegen fehlender tabID nicht gestartet werden!"
   },
   "Unknown_method_0name0": {
     "message": "Unbekannte Methode $name$",
@@ -234,7 +197,7 @@
     "message": "Berichtige Includes"
   },
   "Fix_includes_example": {
-    "message": "Diese Option interpretiert '*' als '/https?:\/\/.*\/.*/'"
+    "message": "Diese Option interpretiert '*' als '/https?:\\/\\/.*\\/.*\\/'"
   },
   "Debug_scripts": {
     "message": "Aktiviere Script-Debugger"
@@ -266,17 +229,11 @@
   "New_userscript": {
     "message": "<Neues Script>"
   },
-  "Registered_menu_cmds": {
-    "message": "Registrierte Menü-Kommandos"
-  },
   "Help": {
     "message": "Hilfe"
   },
   "Changelog": {
     "message": "Änderungen"
-  },
-  "Tampermonkey_Options": {
-    "message": "Tampermonkey"
   },
   "Position_": {
     "message": "Position"
@@ -311,15 +268,6 @@
   "Add_toSource_function_to_Object_Prototype": {
     "message": "Füge dem Object und Array Kompatibilitätsfunktionen hinzu"
   },
-  "Poll_unsafeWindow_variables": {
-    "message": "Lese unsafeWindow-Variablen"
-  },
-  "Poll_all_unsafeWindow_variables": {
-    "message": "Lese alle unsafeWindow-Variablen (Achtung: u.U. hohe CPU-Last!)"
-  },
-  "every_x_ms": {
-    "message": "aller ## ms"
-  },
   "Run_at": {
     "message": "Starte wenn"
   },
@@ -329,14 +277,8 @@
   "Save": {
     "message": "Speichern"
   },
-  "OK": {
-    "message": "OK"
-  },
   "Cancel": {
     "message": "Abbrechen"
-  },
-  "Reset": {
-    "message": "Zurücksetzen"
   },
   "Search": {
     "message": "Suchen"
@@ -440,23 +382,14 @@
       }
     }
   },
-  "Edit_this_script": {
-    "message": "Script bearbeiten"
-  },
   "This_script_has_access_to_webpage_scripts": {
     "message": "Dieses Element hat vollen Zugriff auf die Web-Seite."
   },
   "Utilities": {
     "message": "Hilfsmittel"
   },
-  "Script_modified_in_background": {
-    "message": "Das Script wurde im Hintergrund (z.B. durch eine erneute\nInstallation verändert. Bitte beachte, dass diese Änderungen\nbeim Speichern überschrieben werden!"
-  },
   "This_script_uses_uW_gm_api_": {
     "message": "Dieses Script nutzt einen Teil der Greasemonkey 10 API (unsafeWindow.gmonkey)\nder weder von Tampermonkey, noch von irgendeinem anderen alternativen Script-Manager unterstützt wird."
-  },
-  "A_script_with_that_name_already_exists_": {
-    "message": "Dieses Userscript wurde umbenannt, aber es existiert bereits ein anderes mit diesem Namen!"
   },
   "some_secs": {
     "message": "einigen"
@@ -527,6 +460,9 @@
   "Check_interval": {
     "message": "Check Interval"
   },
+  "Always": {
+    "message": "Immer"
+  },
   "Never": {
     "message": "Nie"
   },
@@ -544,9 +480,6 @@
   },
   "Every_Week": {
     "message": "Jede Woche"
-  },
-  "Every_2_Weeks": {
-    "message": "Alle 2 Wochen"
   },
   "Every_Month": {
     "message": "Jeden Monat"
@@ -578,32 +511,14 @@
   "Classic": {
     "message": "Classic"
   },
-  "Shift": {
-    "message": "Shift"
-  },
   "Indent": {
     "message": "Indent"
   },
   "Smart": {
     "message": "Smart"
   },
-  "EnterMode": {
-    "message": "EnterMode"
-  },
-  "Indent_new_lines": {
-    "message": "Rücke neue Zeilen ein"
-  },
-  "Indent_as_previous": {
-    "message": "Einrückung wie vorherige Zeile"
-  },
-  "No_Indentation": {
-    "message": "Keine Einrückung"
-  },
   "Reindent_on_typing": {
     "message": "Einrückung beim Schreiben"
-  },
-  "Show_Line_Numbers": {
-    "message": "Zeige Zeilennummern"
   },
   "Auto_reload_on_script_enabled": {
     "message": "Automatisches Seiten-Neu-Laden"
@@ -643,9 +558,6 @@
   },
   "Appearance": {
     "message": "Aussehen"
-  },
-  "3D_Icon_Set": {
-    "message": "3D Icon"
   },
   "Security": {
     "message": "Sicherheit"
@@ -715,59 +627,8 @@
   "Check_disabled_scripts": {
     "message": "Aktualisiere deaktivierte Scripte"
   },
-  "TamperFire": {
-    "message": "TamperFire"
-  },
-  "Enable_TamperFire": {
-    "message": "Aktiviere TamperFire"
-  },
-  "Searches_for_scripts_that_can_be_used_on_the_current_page_": {
-    "message": "Sucht nach Scripts, die auf der aktuellen Seite genutzt werden können.\nDie Ergebnisse werden im Kontext-Menü angezeigt."
-  },
-  "Restart_to_apply": {
-    "message": "TM muss neu gestartet werden um diese Einstellung zu übernehmen."
-  },
-  "Use_top_frame_URL_only": {
-    "message": "Nutze lediglich die URL des Haupt-Frames"
-  },
-  "TamperFire_update_started": {
-    "message": "TamperFire Update gestartet"
-  },
-  "TamperFire_update_failed___": {
-    "message": "TamperFire Update fehlgeschlagen :("
-  },
-  "TamperFire_import_started": {
-    "message": "TamperFire Script-Import gestartet"
-  },
-  "TamperFire_is_up_to_date": {
-    "message": "TamperFire wurde aktualisiert :)"
-  },
-  "_0_scripts_found": {
-    "message": "? Script gefunden"
-  },
-  "Available_Userscripts": {
-    "message": "Gefundene Userscripte"
-  },
-  "Rank": {
-    "message": "Rang"
-  },
-  "Installs": {
-    "message": "Installationen"
-  },
-  "Rating": {
-    "message": "Bewertung"
-  },
-  "Fans": {
-    "message": "Fans"
-  },
-  "Homepage": {
-    "message": "Homepage"
-  },
   "Last_Updated": {
     "message": "Letzte Aktualisierung"
-  },
-  "Last_Changed": {
-    "message": "Letzte Änderung"
   },
   "Version": {
     "message": "Version"
@@ -775,62 +636,20 @@
   "Type": {
     "message": "Typ"
   },
-  "Update_needed": {
-    "message": "Update notwendig"
-  },
-  "Update_in_progress": {
-    "message": "Update läuft"
-  },
-  "Downloading": {
-    "message": "Downloading"
-  },
-  "Processing_scripts": {
-    "message": "Verarbeite Scripts"
-  },
-  "Writing_scripts": {
-    "message": "Speichere Scripts"
-  },
   "Check_for_Updates": {
     "message": "Suche Updates"
-  },
-  "Force_Update": {
-    "message": "Aktualisiere jetzt"
   },
   "Click_here_to_move_this_script": {
     "message": "Hier klicken um das Script zu verschieben"
   },
-  "TamperFire_is_up_to_date_": {
-    "message": "TamperFire ist aktuell!"
-  },
-  "Current_Index_": {
-    "message": "Aktuelle DB Details"
-  },
-  "Date_": {
-    "message": "Datum"
-  },
-  "Entries_": {
-    "message": "Einträge"
-  },
   "overwritten_by_user": {
     "message": "Überschrieben vom nutzer"
-  },
-  "Overwrite_includes": {
-    "message": "Überschreibe @include Tags"
-  },
-  "Overwrite_matches": {
-    "message": "Überschreibe @match Tags"
-  },
-  "Overwrite_excludes": {
-    "message": "Überschreibe @exclude Tags"
   },
   "Report_a_bug": {
     "message": "Problem melden"
   },
   "A_reload_is_required": {
     "message": "Der Tab muss neu geladen werden: \nAlle ungespeicherten Änderungen gehen verloren!"
-  },
-  "Enable_Sort_Cache": {
-    "message": "Aktiviere den Sortierungs-Cache (Hoher Speicherverbrauch)"
   },
   "Save_to_disk": {
     "message": "Auf die Festplatte speichern"
@@ -844,14 +663,8 @@
   "Run_syntax_check": {
     "message": "Starte Syntax-Check"
   },
-  "Do_you_really_want_to_factory_reset_this_script_": {
-    "message": "Soll das Script wirklick komplett zurückgesetzt werden?"
-  },
   "Dashboard": {
     "message": "Übersicht"
-  },
-  "Options": {
-    "message": "Optionen"
   },
   "Userscripts": {
     "message": "Userscripte"
@@ -957,15 +770,6 @@
   "Imported": {
     "message": "Importiert"
   },
-  "Sync": {
-    "message": "Sync"
-  },
-  "Disable_sync": {
-    "message": "Deaktiviere Synchronisation"
-  },
-  "Enable_sync": {
-    "message": "Aktiviere Synchronisation"
-  },
   "Create_Exportable_Data": {
     "message": "Erstelle TESLA Daten"
   },
@@ -980,9 +784,6 @@
   },
   "Tampermonkey_can_not_work_when_javascript_is_disabled": {
     "message": "Tampermonkey kann nicht arbeiten, wenn auf einer Seite kein Javascript aktiviert ist. Diese Option erlaubt TM diese Einstellung zu überschreiben, falls Javascript z.B. durch einen Script-Blocker deaktiviert wurde. Hiervon sind nur direkt in der Seite enthaltenen Scripte betroffen. "
-  },
-  "A_lot_of_userscripts_require_the_unsafeWindow_object_to_interact_with_the_pages_javascript_": {
-    "message": "Viele Scripte benötigen ein 'unsafeWindow' Objekt, dass Zugriff auf den Javascript-Kontext der Seite erlaubt. Wenn diese Option falsch eingestellt ist, funktionieren einige Scripte eventuell nicht mehr!"
   },
   "Yes": {
     "message": "Ja"
@@ -1077,29 +878,8 @@
   "No_frames": {
     "message": "Nur im Haupt-Frame ausführen"
   },
-  "Runtime": {
-    "message": "Laufzeit"
-  },
-  "UnsafeWindow_retrieval_method": {
-    "message": "UnsafeWindow Beschaffung"
-  },
   "Native": {
     "message": "Nativ"
-  },
-  "Proxy": {
-    "message": "Proxy"
-  },
-  "Unsafe": {
-    "message": "Unsicher"
-  },
-  "Sandbox": {
-    "message": "Sandbox"
-  },
-  "Many_userscripts_require_the_unsafeWindow_object_to_interact_with_the_pages_javascript_": {
-    "message": "Viele Userscripte brauchen das unsafeWindow Objekt um mit dem Javascript der Seite zu interagieren!"
-  },
-  "This_option_is_essential_for_many_userscripts_to_work__Visit_the_FAQ_": {
-    "message": "Wenn diese Option falsch eingestellt ist, werden wahrscheinlich viele Userscripte nicht korrekt arbeiten können.\n\nKlicken Sie hier um Hilfe zum Thema zu bekommen!"
   },
   "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
     "message": "Tampermonkey benötigt den absoluten Pfad zum Profile Ordner des Browsers um den Nativen Script Import zu ermöglichen.\n\nKlicken Sie hier um Hilfe zum Thema zu bekommen!"
@@ -1143,17 +923,11 @@
   "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
     "message": "Der Browser startet die Tampermonkey Erweiterung neu wenn sie aktualiert wurde. Leider kann das zu Problemen bei aktuell laufenden Userscripten führen.!\n\nSoll also wirklich keine Meldung bei einem Update gezeigt werden?"
   },
+  "Operation_completed_successfully": {
+    "message": "Die Aktion wurde erfolgreich durchgeführt!"
+  },
   "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
     "message": "Alle Änderungen werden nur behalten bis der Inkognito-Modus beendet wird!"
-  },
-  "Open_script_links_in": {
-    "message": "Öffne Script Links in"
-  },
-  "Current_Tab": {
-    "message": "Aktueller Tab"
-  },
-  "New_Tab": {
-    "message": "Neuer Tab"
   },
   "_not_set_": {
     "message": "<unbekannt>"
@@ -1254,7 +1028,16 @@
   "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
     "message": "Deine Sprache wird nicht unterstützt?\nKlicken sie hier um zu erfahren, wie sie Tampermonkey übersetzen können?"
   },
-  "EOF": {
-    "message": "EOF"
+  "Username": {
+    "message": "Nutzer"
+  },
+  "Login": {
+    "message": "Login"
+  },
+  "Last_updated": {
+    "message": "Letzte Aktualisierung"
+  },
+  "Ok": {
+    "message": "Ok"
   }
 }
