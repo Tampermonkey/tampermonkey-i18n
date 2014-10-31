@@ -1,28 +1,28 @@
 {
   "1": {
     "message": "1"
-    },
+  },
   "2": {
     "message": "2"
-    },
+  },
   "3": {
     "message": "3"
-    },
+  },
   "4": {
     "message": "4"
-    },
+  },
   "5": {
     "message": "5"
-    },
+  },
   "6": {
     "message": "6"
-    },
+  },
   "7": {
     "message": "7"
-    },
+  },
   "8": {
     "message": "8"
-    },
+  },
   "9": {
     "message": "9"
   },
@@ -67,18 +67,18 @@
     "placeholders": {
       "clude": {
         "content": "$1"
-        }
+      }
     }
-    },
+  },
   "Add_new_script___": {
     "message": "Ajouter un nouveau script..."
-    },
+  },
   "Add_toSource_function_to_Object_Prototype": {
     "message": "Ajouter les fonctions de compatibilité à l'Objet et Tableau"
-    },
+  },
   "Advanced": {
     "message": "Avancé"
-    },
+  },
   "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
     "message": "Toutes les modifications ne sont gardées que pendant cette session de navigation privée !"
   },
@@ -147,15 +147,15 @@
     "placeholders": {
       "t": {
         "content": "$1"
-        }
+      }
     }
-    },
+  },
   "Cancel": {
     "message": "Annuler"
-    },
+  },
   "Changelog": {
     "message": "Modifications"
-    },
+  },
   "Changes_the_number_of_visible_config_options": {
     "message": "Change le nombre d'options visibles"
   },
@@ -242,9 +242,9 @@
     "placeholders": {
       "option": {
         "content": "$1"
-        }
+      }
     }
-    },
+  },
   "Dont_ask_me_for_simple_script_updates": {
     "message": "Ne pas me demander pour les MàJ simple"
   },
@@ -253,7 +253,7 @@
     "placeholders": {
       "url": {
         "content": "$1"
-}
+      }
     }
   },
   "Edit": {

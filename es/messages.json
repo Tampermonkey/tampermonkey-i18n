@@ -78,7 +78,7 @@
     "message": "Tampermonkey asume '$urlAllHttp$' para continuar!",
     "placeholders": {
       "urlAllHttp": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -86,10 +86,10 @@
     "message": "La url de actualización cambió de:\n    '$oldurl$'\n    a:\n    '$newurl$'\n",
     "placeholders": {
       "oldurl": {
-         "content": "$1"
+        "content": "$1"
       },
       "newurl": {
-         "content": "$2"
+        "content": "$2"
       }
     }
   },
@@ -112,10 +112,10 @@
     "message": "La búsqueda de actualizaciones para '$name$' (Url: $url$) falló estrepitosamente!",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       },
       "url": {
-         "content": "$2"
+        "content": "$2"
       }
     }
   },
@@ -135,7 +135,7 @@
     "message": "Método desconocido: $name$",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -220,14 +220,14 @@
   "Cancel": {
     "message": "Cancelar"
   },
-  "There_are_unsaved_changed_" : {
+  "There_are_unsaved_changed_": {
     "message": "Hay cambios sin guardar.\nEstás seguro que quieres cerrar el editor?"
   },
   "Do_you_really_want_to_store_fixed_code_": {
     "message": "La opción '$option$' está activada!\n\nEstás seguro que quieres guardar la fuente fija?",
     "placeholders": {
       "option": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -277,7 +277,7 @@
     "message": "Seguro que quieres eliminar '$name$'?",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -312,7 +312,7 @@
     "message": "Hay una actualización disponible para '$name$'. :)",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -348,10 +348,10 @@
   },
   "Every_Month": {
     "message": "Cada Mes"
-   },
+  },
   "Update_interval": {
     "message": "Intervalo de Actualización"
-   },
+  },
   "Editor": {
     "message": "Editor"
   },
@@ -428,7 +428,7 @@
     "message": "No se pudo cargar el script de la url: \n $url$",
     "placeholders": {
       "url": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -511,7 +511,7 @@
     "message": "Agregar como $clude$",
     "placeholders": {
       "clude": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },

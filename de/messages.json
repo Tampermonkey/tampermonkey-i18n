@@ -15,7 +15,7 @@
     "message": "Script Name: $name$",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -23,7 +23,7 @@
     "message": "Heruntergeladen von: $url$",
     "placeholders": {
       "url": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -70,7 +70,7 @@
     "message": "Tampermonkey verwendet '$urlAllHttp$' um fortzufahren!",
     "placeholders": {
       "urlAllHttp": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -78,10 +78,10 @@
     "message": "Die Update-URL hat sich von:\n    '$oldurl$'\n    zu:\n    '$newurl$'\n verändert.\n",
     "placeholders": {
       "oldurl": {
-         "content": "$1"
+        "content": "$1"
       },
       "newurl": {
-         "content": "$2"
+        "content": "$2"
       }
     }
   },
@@ -128,10 +128,10 @@
     "message": "$name$ $version$ ist verfügbar.\nBitte starten sie für die Aktualisierung den Browser neu!",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       },
       "version": {
-         "content": "$2"
+        "content": "$2"
       }
     }
   },
@@ -142,10 +142,10 @@
     "message": "Update-Prüfung von '$name$' (Url: $url$) fehlgeschlagen!",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       },
       "url": {
-         "content": "$2"
+        "content": "$2"
       }
     }
   },
@@ -165,7 +165,7 @@
     "message": "Unbekannte Methode $name$",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -295,14 +295,14 @@
   "Auto_Indent_all": {
     "message": "Automatische Einrückung"
   },
-  "There_are_unsaved_changed_" : {
+  "There_are_unsaved_changed_": {
     "message": "Die Änderungen wurden nicht gespeichert.\nMöchten Sie den Dialog wirklich schließen?"
   },
   "Do_you_really_want_to_store_fixed_code_": {
     "message": "Die Option '$option$' ist aktiviert!\n\nMöchten Sie wirklich den von TM modifizierten Quellcode speichern?",
     "placeholders": {
       "option": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -370,7 +370,7 @@
     "message": "Soll das native Userscript '$name$' wirklich importiert werden?",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -378,7 +378,7 @@
     "message": "Soll '$name$' wirklich gelöscht werden?",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -398,10 +398,10 @@
     "message": "KONFLIKT:\nDieses Script wurde vor $t$ Sekunde(n) von einem anderen Tab gespeichert!",
     "placeholders": {
       "t": {
-         "content": "$1"
+        "content": "$1"
       }
     }
-   },
+  },
   "Enabled": {
     "message": "Aktiviert"
   },
@@ -433,7 +433,7 @@
     "message": "Es ist ein Update von '$name$' verfügbar. :)",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -444,7 +444,7 @@
     "message": "Aktualisiert auf $version$",
     "placeholders": {
       "version": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -486,7 +486,7 @@
   },
   "Update_interval": {
     "message": "Aktualisierungsinterval"
-   },
+  },
   "Editor": {
     "message": "Editor"
   },
@@ -617,7 +617,7 @@
     "message": "Script kann nicht geladen werden: \n $url$",
     "placeholders": {
       "url": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -709,7 +709,7 @@
     "message": "Behandle Regel als $clude$",
     "placeholders": {
       "clude": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },

@@ -48,7 +48,7 @@
     "message": "腳本名稱: $name$",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -56,7 +56,7 @@
     "message": "已經下載從: $url$",
     "placeholders": {
       "url": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -100,7 +100,7 @@
     "message": "Tampermonkey 採用 '$urlAllHttp$' 以繼續執行!",
     "placeholders": {
       "urlAllHttp": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -108,10 +108,10 @@
     "message": "更新的 url 已經從：\n    '$oldurl$'\n    變更為：\n    '$newurl$'\n",
     "placeholders": {
       "oldurl": {
-         "content": "$1"
+        "content": "$1"
       },
       "newurl": {
-         "content": "$2"
+        "content": "$2"
       }
     }
   },
@@ -161,10 +161,10 @@
     "message": "'$name$' (Url: $url$) 的更新檢查失敗!",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       },
       "url": {
-         "content": "$2"
+        "content": "$2"
       }
     }
   },
@@ -184,7 +184,7 @@
     "message": "未知方法: $name$",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -311,14 +311,14 @@
   "Auto_Indent_all": {
     "message": "自動縮排全部"
   },
-  "There_are_unsaved_changed_" : {
+  "There_are_unsaved_changed_": {
     "message": "還有未儲存的更改！\n確定要關閉編輯器嗎？"
   },
   "Do_you_really_want_to_store_fixed_code_": {
     "message": "選項 '$option$' 已啟用！\n\n真的要儲存修正過的原始碼嗎？",
     "placeholders": {
       "option": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -383,7 +383,7 @@
     "message": "你確定要匯入 native script '$name$'？",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -391,10 +391,10 @@
     "message": "你確定要刪除 '$name$'？",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
-   },
+  },
   "This_script_has_access_to_webpage_scripts": {
     "message": "此項目可完全存取該網頁。"
   },
@@ -411,10 +411,10 @@
     "message": "衝突：\n這個腳本曾被另外的分頁修改過，在 $t$ 秒前！",
     "placeholders": {
       "t": {
-         "content": "$1"
+        "content": "$1"
       }
     }
-   },
+  },
   "Enabled": {
     "message": "已啟動"
   },
@@ -446,7 +446,7 @@
     "message": "'$name$' 有可用更新。 :)",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -457,7 +457,7 @@
     "message": "已更新到： $version$ 版",
     "placeholders": {
       "version": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -493,10 +493,10 @@
   },
   "Every_Month": {
     "message": "每月"
-   },
+  },
   "Update_interval": {
     "message": "更新週期"
-   },
+  },
   "Editor": {
     "message": "編輯器"
   },
@@ -636,7 +636,7 @@
     "message": "無法載入腳本從 url: \n $url$",
     "placeholders": {
       "url": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -731,7 +731,7 @@
     "message": "新增為 $clude$",
     "placeholders": {
       "clude": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },

@@ -48,7 +48,7 @@
     "message": "Nome script: $name$",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -56,7 +56,7 @@
     "message": "Scaricato da: $url$",
     "placeholders": {
       "url": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -97,7 +97,7 @@
     "message": "Tampermonkey assume '$urlAllHttp$' in modo da poter continuare!",
     "placeholders": {
       "urlAllHttp": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -105,10 +105,10 @@
     "message": "La url di aggiornamento è cambiata da:\n    '$oldurl$'\n    a:\n    '$newurl$'\n",
     "placeholders": {
       "oldurl": {
-         "content": "$1"
+        "content": "$1"
       },
       "newurl": {
-         "content": "$2"
+        "content": "$2"
       }
     }
   },
@@ -128,10 +128,10 @@
     "message": "Controllo aggiornamento di '$name$' (Url: $url$) fallito!",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       },
       "url": {
-         "content": "$2"
+        "content": "$2"
       }
     }
   },
@@ -151,7 +151,7 @@
     "message": "Metodo $name$ sconosciuto",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -278,14 +278,14 @@
   "Auto_Indent_all": {
     "message": "Auto rientra tutto"
   },
-  "There_are_unsaved_changed_" : {
+  "There_are_unsaved_changed_": {
     "message": "Ci sono modifiche non salvate.\nVuoi davvero chiudere l'editor?"
   },
   "Do_you_really_want_to_store_fixed_code_": {
     "message": "L'opzione '$option$' è abilitata!\n\nVuoi davvero registrare il sorgente corretto?",
     "placeholders": {
       "option": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -347,7 +347,7 @@
     "message": "Vuoi davvero importare lo script nativo '$name$'?",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -355,7 +355,7 @@
     "message": "Vuoi davvero eliminare '$name$'?",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -375,10 +375,10 @@
     "message": "CONFLITTO:\nQuesto script è stato modificato da un'altra scheda $t$ secondo/i fa!",
     "placeholders": {
       "t": {
-         "content": "$1"
+        "content": "$1"
       }
     }
-   },
+  },
   "Enabled": {
     "message": "Abilitato"
   },
@@ -407,7 +407,7 @@
     "message": "C'è un aggiornamento disponibile per '$name$'. :)",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -418,7 +418,7 @@
     "message": "Aggiornato a: $version$",
     "placeholders": {
       "version": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -454,10 +454,10 @@
   },
   "Every_Month": {
     "message": "Ogni mese"
-   },
+  },
   "Update_interval": {
     "message": "Intervallo di aggiornamento"
-   },
+  },
   "Editor": {
     "message": "Editor"
   },
@@ -552,7 +552,7 @@
     "message": "Impossibile caricare lo script dalla url: \n $url$",
     "placeholders": {
       "url": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -650,7 +650,7 @@
     "message": "Aggiungi come $clude$",
     "placeholders": {
       "clude": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },

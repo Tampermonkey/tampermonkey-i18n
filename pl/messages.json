@@ -1,31 +1,31 @@
 {
-   "1": {
-      "message": "1"
-   },
-   "2": {
-      "message": "2"
-   },
-   "3": {
-      "message": "3"
-   },
-   "4": {
-      "message": "4"
-   },
-   "5": {
-      "message": "5"
-   },
-   "6": {
-      "message": "6"
-   },
-   "7": {
-      "message": "7"
-   },
-   "8": {
-      "message": "8"
-   },
-   "9": {
-      "message": "9"
-   },
+  "1": {
+    "message": "1"
+  },
+  "2": {
+    "message": "2"
+  },
+  "3": {
+    "message": "3"
+  },
+  "4": {
+    "message": "4"
+  },
+  "5": {
+    "message": "5"
+  },
+  "6": {
+    "message": "6"
+  },
+  "7": {
+    "message": "7"
+  },
+  "8": {
+    "message": "8"
+  },
+  "9": {
+    "message": "9"
+  },
   "10": {
     "message": "10"
   },
@@ -47,612 +47,612 @@
   "5_Minutes": {
     "message": "5 minutach"
   },
-   "A_reload_is_required": {
+  "A_reload_is_required": {
     "message": "Konieczne jest ponowne załadowanie: \nWszystkie niezapisane zmiany zostaną utracone!"
-   },
-   "A_script_blocker_was_detected_": {
+  },
+  "A_script_blocker_was_detected_": {
     "message": "Wykryto blokadę skryptów!"
-   },
-   "Add": {
-      "message": "Dodaj"
-   },
-   "Add_as_0clude0": {
-      "message": "Dodaj do '$clude$'",
-      "placeholders": {
-         "clude": {
-            "content": "$1"
-         }
+  },
+  "Add": {
+    "message": "Dodaj"
+  },
+  "Add_as_0clude0": {
+    "message": "Dodaj do '$clude$'",
+    "placeholders": {
+      "clude": {
+        "content": "$1"
       }
-   },
-   "Add_new_script___": {
-      "message": "Dodaj nowy skrypt..."
-   },
-   "Add_toSource_function_to_Object_Prototype": {
+    }
+  },
+  "Add_new_script___": {
+    "message": "Dodaj nowy skrypt..."
+  },
+  "Add_toSource_function_to_Object_Prototype": {
     "message": "Dodaj opcje zgodności dla Object and Array"
-   },
-   "Advanced": {
-      "message": "dla zaawansowanych"
-   },
-   "All_script_settings_will_be_reset_": {
-      "message": "Wszystkie ustawienia skryptu zostana wyzerowane!"
-   },
-   "Allow_headers_to_be_modified_by_scripts": {
+  },
+  "Advanced": {
+    "message": "dla zaawansowanych"
+  },
+  "All_script_settings_will_be_reset_": {
+    "message": "Wszystkie ustawienia skryptu zostana wyzerowane!"
+  },
+  "Allow_headers_to_be_modified_by_scripts": {
     "message": "Pozwól skryptom na modyfikację nagłówków HTTP"
-   },
-   "An_error_occured_during_import_": {
+  },
+  "An_error_occured_during_import_": {
     "message": "Wystąpił problem podczas importu. Proszę sprawdzić informacje wyświetlane na konsoli! (CTRL+SHIFT+J)"
-   },
-   "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
+  },
+  "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
     "message": "Wystąpił problem wewnętrzny. Jeśli problem będzie się powtarzał, proszę nacisnąć OK i zgłosić problem na forum.\n\nCzy chcesz przejść do forum Tampermonkey?"
-   },
-   "Appearance": {
+  },
+  "Appearance": {
     "message": "Wygląd"
-   },
-   "Apply_compatibility_options_to_required_script_too": {
+  },
+  "Apply_compatibility_options_to_required_script_too": {
     "message": "Zastosuj opcje zgodności także do skryptów z listy @require"
-   },
-   "Apply_this_action_to_the_selected_scripts": {
+  },
+  "Apply_this_action_to_the_selected_scripts": {
     "message": "Zastosuj tę akcję do wszystkich zaznaczonych skryptów"
-   },
-   "Attention_Can_not_display_all_excludes_": {
+  },
+  "Attention_Can_not_display_all_excludes_": {
     "message": "Uwaga: Lista @exclude została skrócona.\nProszę o ręczne sprawdzenie!"
-   },
-   "Attention_Can_not_display_all_includes_": {
+  },
+  "Attention_Can_not_display_all_includes_": {
     "message": "Uwaga: Lista @include została skrócona.\nProszę o ręczne sprawdzenie!"
-   },
-   "Auto": {
-      "message": "Automatycznie"
-   },
-   "Auto_reload_on_script_enabled": {
+  },
+  "Auto": {
+    "message": "Automatycznie"
+  },
+  "Auto_reload_on_script_enabled": {
     "message": "Załaduj strony ponownie"
-   },
-   "Auto_reload_on_script_enabled_desc": {
+  },
+  "Auto_reload_on_script_enabled_desc": {
     "message": "Załaduj ponownie strony jeśli skrypt został włączony/wyłączony"
-   },
-   "Beginner": {
+  },
+  "Beginner": {
     "message": "dla początkujących"
-   },
-   "Cancel": {
-      "message": "Anuluj"
-   },
-   "Changelog": {
-      "message": "Historia zmian"
-   },
-   "Changes_the_number_of_visible_config_options": {
+  },
+  "Cancel": {
+    "message": "Anuluj"
+  },
+  "Changelog": {
+    "message": "Historia zmian"
+  },
+  "Changes_the_number_of_visible_config_options": {
     "message": "Zmienia liczbę dostępnych opcji konfiguracyjnych"
-   },
-   "Check_disabled_scripts": {
+  },
+  "Check_disabled_scripts": {
     "message": "Aktualizuj również skrypty wyłączone"
-   },
-   "Check_for_Updates": {
+  },
+  "Check_for_Updates": {
     "message": "Sprawdź dostępność aktualizacji"
-   },
-   "Check_for_userscripts_updates": {
+  },
+  "Check_for_userscripts_updates": {
     "message": "Sprawdzanie aktualizacji skryptów"
-   },
-   "Check_interval": {
+  },
+  "Check_interval": {
     "message": "Częstotliwość"
-   },
-   "Classic": {
-      "message": "klasyczne"
-   },
-   "Click_here_to_allow_TM_to_override_the_script_blocker": {
+  },
+  "Classic": {
+    "message": "klasyczne"
+  },
+  "Click_here_to_allow_TM_to_override_the_script_blocker": {
     "message": "Aby umożliwić uruchamianie skryptów kliknij tutaj w celu nadpisania ustawień blokady skryptów!"
-   },
-   "Click_here_to_install_it_": {
+  },
+  "Click_here_to_install_it_": {
     "message": "Kliknij tutaj aby zainstalować."
-   },
-   "Click_here_to_see_the_recent_changes": {
+  },
+  "Click_here_to_see_the_recent_changes": {
     "message": "Kliknij tutaj aby zobaczyć ostatnie zmiany"
-   },
-   "Close": {
-      "message": "Zamknij"
-   },
-   "Config_Mode": {
-      "message": "Tryb konfiguracji"
-   },
-   "Convert_Array_Assignements": {
+  },
+  "Close": {
+    "message": "Zamknij"
+  },
+  "Config_Mode": {
+    "message": "Tryb konfiguracji"
+  },
+  "Convert_Array_Assignements": {
     "message": "Zamień wyrażenie [blub, bla] = s.split(':')"
-   },
-   "Convert_CDATA_sections_into_a_chrome_compatible_format": {
+  },
+  "Convert_CDATA_sections_into_a_chrome_compatible_format": {
     "message": "Zamień sekcje CDATA na format zgodny z Chrone"
-   },
-   "Copy_exportable_data_to_clipboard_Ok_": {
+  },
+  "Copy_exportable_data_to_clipboard_Ok_": {
     "message": "Czy skopiować eksportowalne dane TESLA do schowka?"
-   },
-   "Create_Exportable_Data": {
+  },
+  "Create_Exportable_Data": {
     "message": "Stwórz eksportowalne dane"
-   },
-   "Debug_scripts": {
-      "message": "Analizuj skrypty"
-   },
-   "Delete": {
+  },
+  "Debug_scripts": {
+    "message": "Analizuj skrypty"
+  },
+  "Delete": {
     "message": "Usuń"
-   },
-   "Disable": {
+  },
+  "Disable": {
     "message": "Wyłącz"
-   },
-   "Disabled": {
+  },
+  "Disabled": {
     "message": "Wyłączone"
-   },
-   "Disabled_scripts": {
+  },
+  "Disabled_scripts": {
     "message": "liczba wyłączonych skryptów"
-   },
-   "Do_you_really_want_to_store_fixed_code_": {
+  },
+  "Do_you_really_want_to_store_fixed_code_": {
     "message": "Opcja '$option$' jest włączona!\n\nCzy na pewno chcesz zapisać poprawiony plik zródłowy?",
-      "placeholders": {
-         "option": {
-            "content": "$1"
-         }
+    "placeholders": {
+      "option": {
+        "content": "$1"
       }
-   },
-   "Dont_ask_me_for_simple_script_updates": {
-      "message": "Nie pytaj przy drobnych aktualizacjach"
-   },
-   "Edit": {
-      "message": "Edycja"
-   },
-   "Editor": {
-      "message": "Edytor"
-   },
-   "Editor_reset": {
-      "message": "Anuluj zmiany"
-   },
-   "Enable": {
+    }
+  },
+  "Dont_ask_me_for_simple_script_updates": {
+    "message": "Nie pytaj przy drobnych aktualizacjach"
+  },
+  "Edit": {
+    "message": "Edycja"
+  },
+  "Editor": {
+    "message": "Edytor"
+  },
+  "Editor_reset": {
+    "message": "Anuluj zmiany"
+  },
+  "Enable": {
     "message": "Włącz"
-   },
-   "Enable_Editor": {
+  },
+  "Enable_Editor": {
     "message": "Włącz edytor zaawansowany"
-   },
-   "Enable_TESLA": {
+  },
+  "Enable_TESLA": {
     "message": "Włącz TESLA"
-   },
-   "Enable_autoSave": {
+  },
+  "Enable_autoSave": {
     "message": "Zapisz zawartość kiedy edytor przestanie być aktywny"
-   },
-   "Enable_easySave": {
-      "message": "Nie pokazuj potwierdzenia przy zapisie"
-   },
-   "Enabled": {
+  },
+  "Enable_easySave": {
+    "message": "Nie pokazuj potwierdzenia przy zapisie"
+  },
+  "Enabled": {
     "message": "Włączone"
-   },
-   "Enter_the_new_rule": {
+  },
+  "Enter_the_new_rule": {
     "message": "Wprowadź nową regułę"
-   },
-   "Every_12_Hour": {
-      "message": "co 12 godzin"
-   },
-   "Every_6_Hours": {
-      "message": "co 6 godzin"
-   },
-   "Every_Day": {
+  },
+  "Every_12_Hour": {
+    "message": "co 12 godzin"
+  },
+  "Every_6_Hours": {
+    "message": "co 6 godzin"
+  },
+  "Every_Day": {
     "message": "co dzień"
-   },
-   "Every_Hour": {
+  },
+  "Every_Hour": {
     "message": "co godzinę"
-   },
-   "Every_Month": {
+  },
+  "Every_Month": {
     "message": "co miesiąc"
-   },
-   "Every_Week": {
+  },
+  "Every_Week": {
     "message": "co tydzień"
-   },
-   "Exclude_s__": {
-      "message": "Lista @exclude"
-   },
-   "Export": {
-      "message": "Eksportuj"
-   },
-   "Factory_Reset": {
+  },
+  "Exclude_s__": {
+    "message": "Lista @exclude"
+  },
+  "Export": {
+    "message": "Eksportuj"
+  },
+  "Factory_Reset": {
     "message": "Ustawienia domyślne"
-   },
-   "Features": {
+  },
+  "Features": {
     "message": "Właściwości"
-   },
-   "Fix_for_var_in_statements": {
+  },
+  "Fix_for_var_in_statements": {
     "message": "Popraw wyrażenie 'for (var j in x)'"
-   },
-   "Fix_includes": {
+  },
+  "Fix_includes": {
     "message": "Popraw reguły @include"
-   },
-   "Fix_includes_example": {
-      "message": "(zamienia np. '*' na 'http://*/*')"
-   },
-   "Full_reset": {
+  },
+  "Fix_includes_example": {
+    "message": "(zamienia np. '*' na 'http://*/*')"
+  },
+  "Full_reset": {
     "message": "Ustawienia domyślne"
-   },
-   "GM_compat_options_": {
+  },
+  "GM_compat_options_": {
     "message": "Opcje zgodności GM/FF"
-   },
-   "General": {
+  },
+  "General": {
     "message": "Ogólne"
-   },
-   "Get_new_scripts___": {
-      "message": "Pobierz nowe skrypty..."
-   },
-   "Get_some_scripts___": {
-      "message": "Pobierz skrypty..."
-   },
-   "Hide_notification_after": {
-      "message": "Ukryj powiadomienia po"
-   },
-   "Homepage": {
-      "message": "Strona domowa"
-   },
-   "Icon_badge_info": {
-      "message": "Plakietka przy ikonie"
-   },
-   "Import": {
-      "message": "Importuj"
-   },
-   "Imported": {
-      "message": "Zaimportowane"
-   },
-   "Include_s__": {
-      "message": "Lista @include"
-   },
-   "Includes_Excludes": {
-      "message": "Listy @include/@exclude"
-   },
-   "Includes_more_safe_example": {
+  },
+  "Get_new_scripts___": {
+    "message": "Pobierz nowe skrypty..."
+  },
+  "Get_some_scripts___": {
+    "message": "Pobierz skrypty..."
+  },
+  "Hide_notification_after": {
+    "message": "Ukryj powiadomienia po"
+  },
+  "Homepage": {
+    "message": "Strona domowa"
+  },
+  "Icon_badge_info": {
+    "message": "Plakietka przy ikonie"
+  },
+  "Import": {
+    "message": "Importuj"
+  },
+  "Imported": {
+    "message": "Zaimportowane"
+  },
+  "Include_s__": {
+    "message": "Lista @include"
+  },
+  "Includes_Excludes": {
+    "message": "Listy @include/@exclude"
+  },
+  "Includes_more_safe_example": {
     "message": "(np. 'http://*google.*/*' zostanie zinterpretowany jako 'http://*google.tld/*' aby uniknąć aktywacji skryptu dla adresu np.  'http://www.google.myevilpage.com/')"
-   },
-   "Indent": {
+  },
+  "Indent": {
     "message": "wcięcie"
-   },
-   "Indent_with": {
+  },
+  "Indent_with": {
     "message": "Metoda wcięcia"
-   },
-   "Indentation_Width": {
+  },
+  "Indentation_Width": {
     "message": "Szerokość wcięcia"
-   },
-   "Install": {
-      "message": "Instalacja"
-   },
-   "Installed_Version_": {
-      "message": "Zainstalowana wersja"
-   },
-   "Installed_userscripts": {
-      "message": "Zainstalowane skrypty"
-   },
-   "Invalid_UserScript__Sry_": {
+  },
+  "Install": {
+    "message": "Instalacja"
+  },
+  "Installed_Version_": {
+    "message": "Zainstalowana wersja"
+  },
+  "Installed_userscripts": {
+    "message": "Zainstalowane skrypty"
+  },
+  "Invalid_UserScript__Sry_": {
     "message": "Niewłaściwy skrypt!"
-   },
-   "Invalid_UserScript_name__Sry_": {
+  },
+  "Invalid_UserScript_name__Sry_": {
     "message": "Niewłaściwa nazwa skryptu!"
-   },
-   "Just_another_service_provided_by_your_friendly_script_updater_": {
+  },
+  "Just_another_service_provided_by_your_friendly_script_updater_": {
     "message": "Zaprzyjaźniony aktualizator skryptów uprzejmie donosi"
-   },
-   "Last_Updated": {
-      "message": "Ostatnia aktualizacja"
-   },
-   "Make_includes_more_safe": {
+  },
+  "Last_Updated": {
+    "message": "Ostatnia aktualizacja"
+  },
+  "Make_includes_more_safe": {
     "message": "Popraw bezpieczeństwo reguł @includes"
-   },
-   "Name": {
-      "message": "Nazwa"
-   },
-   "Never": {
-      "message": "nigdy"
-   },
-   "New_script_template_": {
+  },
+  "Name": {
+    "message": "Nazwa"
+  },
+  "Never": {
+    "message": "nigdy"
+  },
+  "New_script_template_": {
     "message": "Wzór nowego skryptu"
-   },
-   "New_userscript": {
+  },
+  "New_userscript": {
     "message": "<Nowy skrypt>"
-   },
-   "No": {
-      "message": "Nie"
-   },
-   "No_script_is_installed": {
+  },
+  "No": {
+    "message": "Nie"
+  },
+  "No_script_is_installed": {
     "message": "Brak zainstalowanych skryptów"
-   },
-   "No_script_is_running": {
+  },
+  "No_script_is_running": {
     "message": "Brak aktywnych skryptów"
-   },
-   "No_update_found__sry_": {
-      "message": "Brak aktualizacji!"
-   },
-   "Note": {
-      "message": "Notatka"
-   },
-   "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
+  },
+  "No_update_found__sry_": {
+    "message": "Brak aktualizacji!"
+  },
+  "Note": {
+    "message": "Notatka"
+  },
+  "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
     "message": "Ponowne sprawdzenie opcji zgodności z GreaseMonkey/FF może być konieczne w celu uruchomienia skryptu."
-   },
-   "Novice": {
-      "message": "dla nowucjuszy"
-   },
-   "Off": {
+  },
+  "Novice": {
+    "message": "dla nowucjuszy"
+  },
+  "Off": {
     "message": "wyłączone"
-   },
-   "One_or_more_compatibility_options_are_set": {
+  },
+  "One_or_more_compatibility_options_are_set": {
     "message": "Ustawione są opcje zgodności. Prosze o ręczne sprawdzenie."
-   },
-   "Original_excludes": {
-      "message": "Lista @exclude skryptu"
-   },
-   "Original_includes": {
-      "message": "Lista @include skryptu"
-   },
-   "Original_matches": {
-      "message": "Lista @match skryptu"
-   },
-   "Please_consider_a_donation": {
+  },
+  "Original_excludes": {
+    "message": "Lista @exclude skryptu"
+  },
+  "Original_includes": {
+    "message": "Lista @include skryptu"
+  },
+  "Original_matches": {
+    "message": "Lista @match skryptu"
+  },
+  "Please_consider_a_donation": {
     "message": "Weprzyj projekt darowizną"
-   },
-   "Please_reload_this_page_in_order_to_run_your_userscripts_": {
+  },
+  "Please_reload_this_page_in_order_to_run_your_userscripts_": {
     "message": "W celu urochomienia skryptu proszę załadować tę stronę ponownie."
-   },
-   "Please_wait___": {
+  },
+  "Please_wait___": {
     "message": "Proszę czekać..."
-   },
-   "Position_": {
-      "message": "Nr skryptu"
-   },
-   "Really_delete_the_selected_items_": {
+  },
+  "Position_": {
+    "message": "Nr skryptu"
+  },
+  "Really_delete_the_selected_items_": {
     "message": "Czy na pewno chcesz usunąć zaznaczone elementy?"
-   },
-   "Really_delete_0name0__": {
+  },
+  "Really_delete_0name0__": {
     "message": "Czy na pewno chcesz usunąć '$name$' ?",
-         "placeholders": {
-         "name": {
-            "content": "$1"
-         }
+    "placeholders": {
+      "name": {
+        "content": "$1"
       }
-   },
-   "Really_reset_all_changes_": {
+    }
+  },
+  "Really_reset_all_changes_": {
     "message": "Czy na pewno chcesz anulować wszystkie zmiany?"
-   },
-   "Reindent_on_typing": {
-      "message": "Wcinaj ponownie w trakcie pisania"
-   },
-   "Remove": {
+  },
+  "Reindent_on_typing": {
+    "message": "Wcinaj ponownie w trakcie pisania"
+  },
+  "Remove": {
     "message": "Usuń"
-   },
-   "Replace_for_each_statements": {
+  },
+  "Replace_for_each_statements": {
     "message": "Zamień wyrażenie 'for each'"
-   },
-   "Report_a_bug": {
+  },
+  "Report_a_bug": {
     "message": "Zgłoś błąd"
-   },
-   "Reset_Section": {
+  },
+  "Reset_Section": {
     "message": "Przywróć"
-   },
-   "Restart_Tampermonkey": {
-      "message": "Ponownie uruchom Tampermonkey"
-   },
-   "Run_at": {
-      "message": "Uruchom po"
-   },
-   "Running_scripts": {
+  },
+  "Restart_Tampermonkey": {
+    "message": "Ponownie uruchom Tampermonkey"
+  },
+  "Run_at": {
+    "message": "Uruchom po"
+  },
+  "Running_scripts": {
     "message": "liczba działajacych kopii skryptów"
-   },
-   "Save": {
-      "message": "Zapisz"
-   },
-   "Script_Update": {
+  },
+  "Save": {
+    "message": "Zapisz"
+  },
+  "Script_Update": {
     "message": "Aktualizacja skryptów"
-   },
-   "Security": {
+  },
+  "Security": {
     "message": "Bezpieczeństwo"
-   },
-   "Settings": {
-      "message": "Ustawienia"
-   },
-   "Show_fixed_source": {
+  },
+  "Settings": {
+    "message": "Ustawienia"
+  },
+  "Show_fixed_source": {
     "message": "Pokaż poprawione źródła"
-   },
-   "Sites": {
-      "message": "Strony"
-   },
-   "Smart": {
-      "message": "inteligentne"
-   },
-   "Sort": {
-      "message": "Sortuj"
-   },
-   "Spaces": {
-      "message": "Spacja"
-   },
-   "Start": {
-      "message": "Start"
-   },
-   "Sync_Id": {
-      "message": "Identyfikator"
-   },
-   "Sync_Type": {
-      "message": "Typ"
-   },
-   "TESLA": {
-      "message": "TESLA"
-   },
-   "TabMode": {
+  },
+  "Sites": {
+    "message": "Strony"
+  },
+  "Smart": {
+    "message": "inteligentne"
+  },
+  "Sort": {
+    "message": "Sortuj"
+  },
+  "Spaces": {
+    "message": "Spacja"
+  },
+  "Start": {
+    "message": "Start"
+  },
+  "Sync_Id": {
+    "message": "Identyfikator"
+  },
+  "Sync_Type": {
+    "message": "Typ"
+  },
+  "TESLA": {
+    "message": "TESLA"
+  },
+  "TabMode": {
     "message": "Rodzaj wcięcia"
-   },
-   "Tabs": {
-      "message": "Tab"
-   },
-   "Tampermonkey_assumes_0urlAllHttp0_in_order_to_continue_": {
+  },
+  "Tabs": {
+    "message": "Tab"
+  },
+  "Tampermonkey_assumes_0urlAllHttp0_in_order_to_continue_": {
     "message": "Tampermonkey przyjmnie '$urlAllHttp$' aby kontynuować!",
-      "placeholders": {
-         "urlAllHttp": {
-            "content": "$1"
-         }
+    "placeholders": {
+      "urlAllHttp": {
+        "content": "$1"
       }
-   },
-   "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
-      "message": "Adres URL aktualizacji zmieniony z :\n    '$oldurl$'\n    na:\n    '$newurl$'\n",
-      "placeholders": {
-         "newurl": {
-            "content": "$2"
-         },
-         "oldurl": {
-            "content": "$1"
-         }
+    }
+  },
+  "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
+    "message": "Adres URL aktualizacji zmieniony z :\n    '$oldurl$'\n    na:\n    '$newurl$'\n",
+    "placeholders": {
+      "newurl": {
+        "content": "$2"
+      },
+      "oldurl": {
+        "content": "$1"
       }
-   },
-   "There_are_unsaved_changed_": {
+    }
+  },
+  "There_are_unsaved_changed_": {
     "message": "Nie zapisano wszystkich zmian.\nCzy na pewno chcesz zamknąć edytor?"
-   },
-   "There_is_an_update_for_0name0_avaiable_": {
+  },
+  "There_is_an_update_for_0name0_avaiable_": {
     "message": "Dostępna jest aktualizacja dla skryptu '$name$'. :)",
-      "placeholders": {
-         "name": {
-            "content": "$1"
-         }
+    "placeholders": {
+      "name": {
+        "content": "$1"
       }
-   },
-   "This_is_a_chrome_extension": {
-      "message": "To jest rozszerzenie Chrome"
-   },
-   "This_is_a_system_script": {
-      "message": "To jest skrypt systemowy."
-   },
-   "This_is_a_userscript": {
-      "message": "To jest skrypt napisany w Javacript"
-   },
-   "This_only_changes_the_user_agent_string": {
+    }
+  },
+  "This_is_a_chrome_extension": {
+    "message": "To jest rozszerzenie Chrome"
+  },
+  "This_is_a_system_script": {
+    "message": "To jest skrypt systemowy."
+  },
+  "This_is_a_userscript": {
+    "message": "To jest skrypt napisany w Javacript"
+  },
+  "This_only_changes_the_user_agent_string": {
     "message": "Ten element tylko zmienia zawartość User-Agent dla stron z listy @include"
-   },
-   "This_page_is_blacklisted_at_the_security_settings": {
+  },
+  "This_page_is_blacklisted_at_the_security_settings": {
     "message": "Zablokowano na podstawie ustawień bezpieczeństwa"
-   },
-   "This_script_does_not_provide_any__include_information_": {
+  },
+  "This_script_does_not_provide_any__include_information_": {
     "message": "Skrypt nie zawiera żadnych reguł @include."
-   },
-   "This_script_has_access_to_https_pages": {
+  },
+  "This_script_has_access_to_https_pages": {
     "message": "Ten skrypt ma dostęp do stron https."
-   },
-   "This_script_has_access_to_webpage_scripts": {
+  },
+  "This_script_has_access_to_webpage_scripts": {
     "message": "Ten skrypt ma pełen dostęp do źródła strony."
-   },
-   "This_script_has_full_web_access": {
+  },
+  "This_script_has_full_web_access": {
     "message": "Ten skrypt ma pełen dostęp do internetu."
-   },
-   "This_script_runs_in_Chrome_mode": {
+  },
+  "This_script_runs_in_Chrome_mode": {
     "message": "Ten skrypt działa w trybie natywnym Chrome"
-   },
-   "This_script_stores_data": {
-      "message": "Ten skrypt zapisuje dane w Tampermonkey."
-   },
-   "This_script_uses_uW_gm_api_": {
+  },
+  "This_script_stores_data": {
+    "message": "Ten skrypt zapisuje dane w Tampermonkey."
+  },
+  "This_script_uses_uW_gm_api_": {
     "message": "Ten skrypt używa funkcji API Greasemonkey w wersji 10 (unsafeWindow.gmonkey)\nktóra nie jest wspierana przez Tampermonkey ani innne jego alternatywy."
-   },
-   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
+  },
+  "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
     "message": "Czy na pewno chcesz usunąć wszystkie skrypty i przywrócić wszystkie ustawienia?"
-   },
-   "This_will_restart_Tampermonkey_Ok_": {
+  },
+  "This_will_restart_Tampermonkey_Ok_": {
     "message": "Czy na pewno chcesz ponownie uruchomić Tampermonkey?"
-   },
-   "Trigger_Update": {
+  },
+  "Trigger_Update": {
     "message": "Uruchom aktualizację"
-   },
-   "Type": {
-      "message": "Typ"
-   },
-   "Unable_to_install_script_due_to_empty_tabID_": {
+  },
+  "Type": {
+    "message": "Typ"
+  },
+  "Unable_to_install_script_due_to_empty_tabID_": {
     "message": "Nie można zainstalować skryptu z powodu pustego tabID!"
-   },
-   "Unable_to_load_script_from_url_0url0": {
+  },
+  "Unable_to_load_script_from_url_0url0": {
     "message": "Nie mozna załadować skryptu spod adresu URL: \n $url$",
-      "placeholders": {
-         "url": {
-            "content": "$1"
-         }
+    "placeholders": {
+      "url": {
+        "content": "$1"
       }
-   },
-   "Unable_to_load_storage_due_to_empty_tabID_": {
+    }
+  },
+  "Unable_to_load_storage_due_to_empty_tabID_": {
     "message": "Nie można załadować danych z powodu pustego tabID!"
-   },
-   "Unable_to_parse_this_": {
+  },
+  "Unable_to_parse_this_": {
     "message": "Nie można przetworzyć! :("
-   },
-   "Unable_to_save_storage_due_to_empty_tabID_": {
+  },
+  "Unable_to_save_storage_due_to_empty_tabID_": {
     "message": "Nie można zapisać danych z powodu pustego tabID!"
-   },
-   "Unique_running_scripts": {
+  },
+  "Unique_running_scripts": {
     "message": "liczba działających (unikalnych) skryptów"
-   },
-   "Unknown_method_0name0": {
-      "message": "Nieznana metoda $name$",
-      "placeholders": {
-         "name": {
-            "content": "$1"
-         }
+  },
+  "Unknown_method_0name0": {
+    "message": "Nieznana metoda $name$",
+    "placeholders": {
+      "name": {
+        "content": "$1"
       }
-   },
-   "UpdateCheck_of_0name0_Url_0url0_failed_": {
+    }
+  },
+  "UpdateCheck_of_0name0_Url_0url0_failed_": {
     "message": "Sprawdzenie aktualizacji dla '$name$' (URL: $url$) nie powiodło się!",
-      "placeholders": {
-         "name": {
-            "content": "$1"
-         },
-         "url": {
-            "content": "$2"
-         }
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      },
+      "url": {
+        "content": "$2"
       }
-   },
-   "Update_Notification": {
+    }
+  },
+  "Update_Notification": {
     "message": "Pokaż powiadomienia o aktualizacjach Tampermonkey"
-   },
-   "Update_URL_": {
-      "message": "Adres URL aktualizacji"
-   },
-   "Update_interval": {
+  },
+  "Update_URL_": {
+    "message": "Adres URL aktualizacji"
+  },
+  "Update_interval": {
     "message": "Częstotliwość aktualizacji"
-   },
-   "Updated_to__0version0": {
-      "message": "Zaktualizowano do wersji: $version$",
-      "placeholders": {
-         "version": {
-            "content": "$1"
-         }
+  },
+  "Updated_to__0version0": {
+    "message": "Zaktualizowano do wersji: $version$",
+    "placeholders": {
+      "version": {
+        "content": "$1"
       }
-   },
-   "User_excludes": {
+    }
+  },
+  "User_excludes": {
     "message": "Lista @exclude użytkownika"
-   },
-   "User_includes": {
+  },
+  "User_includes": {
     "message": "Lista @include użytkownika"
-   },
-   "User_matches": {
+  },
+  "User_matches": {
     "message": "Lista @match użytkownika"
-   },
-   "Userscripts": {
-      "message": "Skrypty"
-   },
-   "Utilities": {
+  },
+  "Userscripts": {
+    "message": "Skrypty"
+  },
+  "Utilities": {
     "message": "Narzędzia"
-   },
-   "Version": {
-      "message": "Wersja"
-   },
-   "Yes": {
-      "message": "Tak"
-   },
-   "You_are_about_to_downgrade_a_UserScript": {
-      "message": "Uwaga! Starsza wersja skryptu"
-   },
-   "You_are_about_to_install_a_UserScript_": {
-      "message": "Instalacja skryptu"
-   },
-   "You_are_about_to_modify_a_UserScript_": {
-      "message": "Zmiana skryptu"
-   },
-   "You_are_about_to_reinstall_a_UserScript_": {
-      "message": "Ponowna instalacja skryptu"
-   },
-   "You_are_about_to_update_a_UserScript_": {
-      "message": "Aktualizacja skryptu"
-   },
-   "__Please_choose__": {
+  },
+  "Version": {
+    "message": "Wersja"
+  },
+  "Yes": {
+    "message": "Tak"
+  },
+  "You_are_about_to_downgrade_a_UserScript": {
+    "message": "Uwaga! Starsza wersja skryptu"
+  },
+  "You_are_about_to_install_a_UserScript_": {
+    "message": "Instalacja skryptu"
+  },
+  "You_are_about_to_modify_a_UserScript_": {
+    "message": "Zmiana skryptu"
+  },
+  "You_are_about_to_reinstall_a_UserScript_": {
+    "message": "Ponowna instalacja skryptu"
+  },
+  "You_are_about_to_update_a_UserScript_": {
+    "message": "Aktualizacja skryptu"
+  },
+  "__Please_choose__": {
     "message": "-- Przoszę wybrać opcję --"
-   },
-   "fatal_error": {
+  },
+  "fatal_error": {
     "message": "błąd krytyczny"
-   },
-   "overwritten_by_user": {
+  },
+  "overwritten_by_user": {
     "message": "nadpisane przez ustawienia użytkownika"
-         }
+  }
 }

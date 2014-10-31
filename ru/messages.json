@@ -48,7 +48,7 @@
     "message": "Имя скрипта: $name$",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -56,7 +56,7 @@
     "message": "Загружен из: $url$",
     "placeholders": {
       "url": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -103,7 +103,7 @@
     "message": "Tampermonkey подразумевает '$urlAllHttp$' и предлагает продолжить!",
     "placeholders": {
       "urlAllHttp": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -111,10 +111,10 @@
     "message": "Произошло URL обновление с:\n    '$oldurl$'\n    на:\n    '$newurl$'\n",
     "placeholders": {
       "oldurl": {
-         "content": "$1"
+        "content": "$1"
       },
       "newurl": {
-         "content": "$2"
+        "content": "$2"
       }
     }
   },
@@ -146,10 +146,10 @@
     "message": "Обновить/проверить '$name$' (адрес: $url$) не удалось!",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       },
       "url": {
-         "content": "$2"
+        "content": "$2"
       }
     }
   },
@@ -169,7 +169,7 @@
     "message": "Неизвестный метод $name$",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -296,14 +296,14 @@
   "Auto_Indent_all": {
     "message": "Автоотступ для всех"
   },
-  "There_are_unsaved_changed_" : {
+  "There_are_unsaved_changed_": {
     "message": "Есть несохраненные изменения.\nВы действительно хотите закрыть редактор?"
   },
   "Do_you_really_want_to_store_fixed_code_": {
     "message": "Параметр '$option$' включен!\n\nВы действительно хотите сохранить изменения в исходном коде?",
     "placeholders": {
       "option": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -365,7 +365,7 @@
     "message": "Вы действительно хотите импортировать родной скрипт '$name$'?",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -373,7 +373,7 @@
     "message": "Вы действительно хотите удалить '$name$'?",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -393,10 +393,10 @@
     "message": "КОНФЛИКТ: Этот скрипт был изменен на другой вкладке '$t$' секунд назад!",
     "placeholders": {
       "t": {
-         "content": "$1"
+        "content": "$1"
       }
     }
-   },
+  },
   "Enabled": {
     "message": "Включено"
   },
@@ -422,7 +422,7 @@
     "message": "Доступны обновления для '$name$'. :)",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -433,7 +433,7 @@
     "message": "Обновлен до: $version$",
     "placeholders": {
       "version": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -469,10 +469,10 @@
   },
   "Every_Month": {
     "message": "Каждый месяц"
-   },
+  },
   "Update_interval": {
     "message": "Период обновления"
-   },
+  },
   "Editor": {
     "message": "Редактор"
   },
@@ -567,7 +567,7 @@
     "message": "Невозможно загрузить скрипт из адреса: \n $url$",
     "placeholders": {
       "url": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -665,7 +665,7 @@
     "message": "Добавить как $clude$",
     "placeholders": {
       "clude": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },

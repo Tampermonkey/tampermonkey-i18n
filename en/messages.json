@@ -48,7 +48,7 @@
     "message": "Script name: $name$",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -56,7 +56,7 @@
     "message": "Downloaded from: $url$",
     "placeholders": {
       "url": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -103,7 +103,7 @@
     "message": "Tampermonkey assumes '$urlAllHttp$' in order to continue!",
     "placeholders": {
       "urlAllHttp": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -111,10 +111,10 @@
     "message": "The update url has changed from:\n    '$oldurl$'\n    to:\n    '$newurl$'\n",
     "placeholders": {
       "oldurl": {
-         "content": "$1"
+        "content": "$1"
       },
       "newurl": {
-         "content": "$2"
+        "content": "$2"
       }
     }
   },
@@ -161,10 +161,10 @@
     "message": "$name$ $version$ is available.\nPlease re-start your browser to start the update!",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       },
       "version": {
-         "content": "$2"
+        "content": "$2"
       }
     }
   },
@@ -175,10 +175,10 @@
     "message": "UpdateCheck of '$name$' (Url: $url$) failed!",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       },
       "url": {
-         "content": "$2"
+        "content": "$2"
       }
     }
   },
@@ -198,7 +198,7 @@
     "message": "Unknown method $name$",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -328,14 +328,14 @@
   "Auto_Indent_all": {
     "message": "Auto-Indent all"
   },
-  "There_are_unsaved_changed_" : {
+  "There_are_unsaved_changed_": {
     "message": "There are unsaved changes.\nDo you really want to close the editor?"
   },
   "Do_you_really_want_to_store_fixed_code_": {
     "message": "The Option '$option$' is enabled!\n\nDo you really want to store the fixed source?",
     "placeholders": {
       "option": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -403,7 +403,7 @@
     "message": "Do you really want to import the native script '$name$'?",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -411,7 +411,7 @@
     "message": "Do you really want to delete '$name$'?",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -431,10 +431,10 @@
     "message": "CONFLICT:\nThis script was modified by another tab $t$ second(s) ago!",
     "placeholders": {
       "t": {
-         "content": "$1"
+        "content": "$1"
       }
     }
-   },
+  },
   "Enabled": {
     "message": "Enabled"
   },
@@ -466,7 +466,7 @@
     "message": "There is an update for '$name$' available. :)",
     "placeholders": {
       "name": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -477,7 +477,7 @@
     "message": "Updated to: $version$",
     "placeholders": {
       "version": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -516,10 +516,10 @@
   },
   "Every_Month": {
     "message": "Every Month"
-   },
+  },
   "Update_interval": {
     "message": "Update Interval"
-   },
+  },
   "Editor": {
     "message": "Editor"
   },
@@ -659,7 +659,7 @@
     "message": "Unable to load script from url: \n $url$",
     "placeholders": {
       "url": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
@@ -754,7 +754,7 @@
     "message": "Add as $clude$",
     "placeholders": {
       "clude": {
-         "content": "$1"
+        "content": "$1"
       }
     }
   },
