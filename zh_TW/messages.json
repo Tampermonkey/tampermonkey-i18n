@@ -39,13 +39,13 @@
     "message": "歡迎贊助"
   },
   "Invalid_UserScript__Sry_": {
-    "message": "無效的 UserScript腳本!"
+    "message": "無效的使用者腳本！"
   },
   "Invalid_UserScript_name__Sry_": {
-    "message": "無效的 UserScript 名稱。抱歉！"
+    "message": "無效的使用者腳本名稱。抱歉！"
   },
   "Script_name_0url0": {
-    "message": "腳本名稱: $name$",
+    "message": "腳本名稱： $name$",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -53,12 +53,15 @@
     }
   },
   "Downloaded_from_0url0": {
-    "message": "已經下載從: $url$",
+    "message": "已經下載從： $url$",
     "placeholders": {
       "url": {
         "content": "$1"
       }
     }
+  },
+  "Please_double_check_the_native_script_import_settings__": {
+    "message": "無法載入使用者腳本！\n\n請再次檢查「原生腳本匯入」的設定。"
   },
   "Name": {
     "message": "名稱"
@@ -70,10 +73,10 @@
     "message": "已安裝版本"
   },
   "You_are_about_to_reinstall_a_UserScript_": {
-    "message": "UserScript 腳本重裝"
+    "message": "使用者腳本重新安裝"
   },
   "You_are_about_to_downgrade_a_UserScript": {
-    "message": "注意！ Userscript 將要降級"
+    "message": "注意！使用者腳本將要降級"
   },
   "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
     "message": "降級的腳本可能會在讀取已儲存資料時發生問題！"
@@ -82,22 +85,22 @@
     "message": "惡意腳本會侵犯你的隱私並假裝你做你不知道的事！\n你應該只從你相信的來源安裝腳本。"
   },
   "You_are_about_to_modify_a_UserScript_": {
-    "message": "UserScript 腳本修改"
+    "message": "使用者腳本修改"
   },
   "You_are_about_to_update_a_UserScript_": {
-    "message": "UserScript 腳本更新"
+    "message": "使用者腳本更新"
   },
   "You_are_about_to_install_a_UserScript_": {
-    "message": "UserScript 腳本安裝"
+    "message": "使用者腳本安裝"
   },
   "This_script_does_not_provide_any__include_information_": {
-    "message": "此腳本沒有提供任何 @include 資訊."
+    "message": "此腳本沒有提供任何 @include 資訊。"
   },
   "All_script_settings_will_be_reset_": {
-    "message": "全部的腳本設置將會重設!"
+    "message": "全部的腳本設置將會重設！"
   },
   "Tampermonkey_assumes_0urlAllHttp0_in_order_to_continue_": {
-    "message": "Tampermonkey 採用 '$urlAllHttp$' 以繼續執行!",
+    "message": "Tampermonkey 採用 '$urlAllHttp$' 以繼續執行！",
     "placeholders": {
       "urlAllHttp": {
         "content": "$1"
@@ -154,11 +157,22 @@
   "Update": {
     "message": "更新"
   },
+  "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
+    "message": "$name$ $version$ 可供更新。\n\n請重開瀏覽器來進行更新！",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      },
+      "version": {
+        "content": "$2"
+      }
+    }
+  },
   "Process_with_Chrome": {
-    "message": "Process with Chrome"
+    "message": "用Chrome執行"
   },
   "UpdateCheck_of_0name0_Url_0url0_failed_": {
-    "message": "'$name$' (Url: $url$) 的更新檢查失敗!",
+    "message": "'$name$' (Url: $url$) 的更新檢查失敗！",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -169,19 +183,19 @@
     }
   },
   "No_update_found__sry_": {
-    "message": "沒有發現更新喔,抱歉!"
+    "message": "沒有發現更新喔，抱歉！"
   },
   "Unable_to_load_storage_due_to_empty_tabID_": {
-    "message": "tabID為空導致無法讀取文件!"
+    "message": "tabID為空導致無法讀取文件！"
   },
   "Unable_to_save_storage_due_to_empty_tabID_": {
-    "message": "tabID為空導致無法寫入文件!"
+    "message": "tabID為空導致無法寫入文件！"
   },
   "Unable_to_install_script_due_to_empty_tabID_": {
-    "message": "tabID為空導致無法安裝腳本!"
+    "message": "tabID為空導致無法安裝腳本！"
   },
   "Unknown_method_0name0": {
-    "message": "未知方法: $name$",
+    "message": "未知方法： $name$",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -198,7 +212,10 @@
     "message": "獲得新腳本..."
   },
   "Check_for_userscripts_updates": {
-    "message": "檢查用戶腳本更新"
+    "message": "檢查使用者腳本更新"
+  },
+  "Waiting_for_sync_to_finish": {
+    "message": "正在等待同步結束"
   },
   "Settings": {
     "message": "設置"
@@ -207,7 +224,7 @@
     "message": "確保啟用的URLs的安全"
   },
   "Includes_more_safe_example": {
-    "message": "(如果開啟, 'http://*google.*/*' 類似的配置將會解析為 'http://*google.tld/*' 來阻止腳本在 'http://www.google.myevilpage.com/' 的運行)"
+    "message": "(如果開啟 'http://*google.*/*' 類似的配置將會解析為 'http://*google.tld/*' 來阻止腳本在 'http://www.google.myevilpage.com/' 的運行)"
   },
   "Fix_includes": {
     "message": "修正include URL(s)"
@@ -234,7 +251,7 @@
     "message": "除錯(Debug)"
   },
   "Installed_userscripts": {
-    "message": "已安裝的腳本"
+    "message": "已安裝的使用者腳本"
   },
   "No_script_is_installed": {
     "message": "無安裝任何的腳本"
@@ -243,7 +260,7 @@
     "message": "找些腳本來用..."
   },
   "New_userscript": {
-    "message": "<新增用戶腳本>"
+    "message": "<新增使用者腳本>"
   },
   "Help": {
     "message": "幫助"
@@ -261,7 +278,7 @@
     "message": "GM/FF 相容選項"
   },
   "Comment": {
-    "message": "Comment"
+    "message": "註解"
   },
   "Apply_compatibility_options_to_required_script_too": {
     "message": "同時也應用相容性選項於 @require 腳本"
@@ -356,10 +373,13 @@
     "message": "此腳本在 Tampermonkey 存儲資料。"
   },
   "This_script_has_access_to_https_pages": {
-    "message": "此腳本存取https頁面。"
+    "message": "此腳本可存取 https 頁面。"
   },
   "One_or_more_compatibility_options_are_set": {
-    "message": "此腳本開啟了一個或多個chrome相容選項。 你可以(應當)詳細檢查。"
+    "message": "此腳本開啟了一個或多個 Chrome 相容選項。 你可以(應當)詳細檢查。"
+  },
+  "This_script_has_no_grant_header_set_": {
+    "message": "這個腳本沒有設定 @grant 標頭區塊！"
   },
   "This_script_has_full_web_access": {
     "message": "此腳本可完全存取網際網路。"
@@ -377,10 +397,10 @@
     "message": "此項目只會對收錄的網頁更動 User-Agent"
   },
   "This_is_a_userscript": {
-    "message": "此使用者腳本是用 Javascript 寫的"
+    "message": "這個使用者腳本是用 Javascript 寫的"
   },
   "Really_import_0name0__": {
-    "message": "你確定要匯入 native script '$name$'？",
+    "message": "你確定要匯入原生腳本 '$name$'？",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -399,7 +419,7 @@
     "message": "此項目可完全存取該網頁。"
   },
   "Utilities": {
-    "message": "實用工具"
+    "message": "設定匯入匯出工具"
   },
   "This_script_uses_uW_gm_api_": {
     "message": "此腳本使用了一些 Greasemonkey 10 API (unsafeWindow.gmonkey)。\n既不被 Tampermonkey 支持也不被其他任何腳本處理外掛支持。"
@@ -431,10 +451,10 @@
     "message": "匯出"
   },
   "TextArea": {
-    "message": "TextArea"
+    "message": "文字區"
   },
   "Zip": {
-    "message": "Zip"
+    "message": "Zip檔"
   },
   "Include_script_storage": {
     "message": "Include script storage"
@@ -624,7 +644,7 @@
     "message": "白名單"
   },
   "Both": {
-    "message": "Both"
+    "message": "兩者都用"
   },
   "This_page_is_blacklisted_at_the_security_settings": {
     "message": "此頁面由於安全設定被黑名單了"
@@ -633,7 +653,7 @@
     "message": "顯示 TamperMonkey 更新提示"
   },
   "Unable_to_load_script_from_url_0url0": {
-    "message": "無法載入腳本從 url: \n $url$",
+    "message": "無法載入腳本從 url： \n $url$",
     "placeholders": {
       "url": {
         "content": "$1"
@@ -698,7 +718,7 @@
     "message": "圖示徽章訊息"
   },
   "Off": {
-    "message": "關"
+    "message": "關閉"
   },
   "Running_scripts": {
     "message": "運行中的腳本實例"
@@ -775,7 +795,16 @@
     "message": "腳本同步 (Tampermonkey External Script List Access)"
   },
   "Sync_Type": {
-    "message": "類型"
+    "message": "同步類型"
+  },
+  "Sync_Version": {
+    "message": "同步版本"
+  },
+  "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
+    "message": "Unlike the 'Legacy' sync version this one synchronizes your scripts by reference to a unique ID that is created when a script is installed!\n\nThis means if you installed a script at multiple Tampermonkey instances by either another sync method or a normal script installation then this script will appear multiple times after the next sync iteration has finished.\n\nThe only way to recover is to manually remove each doubled script entry!\n\nDo you really want to continue?"
+  },
+  "Different_sync_versions_are_not_compatible_to_each_other_": {不同的同步版本互相不相容
+    "message": "Different sync versions are not compatible to each other!"
   },
   "Sync_Id": {
     "message": "Id"
@@ -815,6 +844,9 @@
   },
   "Disable": {
     "message": "停用"
+  },
+  "Toggle_Enable": {
+    "message": "Toggle Enable"
   },
   "Trigger_Update": {
     "message": "觸發更新"
@@ -880,10 +912,10 @@
     "message": "顯示一個提示"
   },
   "Open_changelog": {
-    "message": "打開 changelog"
+    "message": "打開更動紀錄"
   },
   "No_frames": {
-    "message": "Run only in top frame"
+    "message": "只在最上層頁框執行"
   },
   "Native": {
     "message": "原生的"
@@ -933,6 +965,9 @@
   "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
     "message": "所有修改將只在此無痕模式 session 關閉後才會留存！"
   },
+  "Operation_completed_successfully": {
+    "message": "成功完成操作"
+  },
   "_not_set_": {
     "message": "<not set>"
   },
@@ -973,13 +1008,13 @@
     "message": "大小"
   },
   "No_entry_found": {
-    "message": "No entry found"
+    "message": "找不到條目"
   },
   "BlackCheck": {
     "message": "BlackCheck"
   },
   "Script_Blacklist_Source": {
-    "message": "Script Blacklist Source"
+    "message": "腳本黑名單來源"
   },
   "Server_And_Manual": {
     "message": "遠端的 + 手動設定"
@@ -988,7 +1023,7 @@
     "message": "純手動設定"
   },
   "Manual_Script_Blacklist": {
-    "message": "手動設定 Userscript 還有 @require Blacklist"
+    "message": "手動設定使用者腳本還有 @require Blacklist"
   },
   "This_script_is_blacklisted_": {
     "message": "此腳本已被黑名單！"
@@ -1033,6 +1068,18 @@
     "message": "你的語言沒有被翻譯嗎？\n點這裡教你怎麼翻譯 Tampermonkey"
   },
   "Default": {
-    "message": "Default"
+    "message": "預設"
+  },
+  "Username": {
+    "message": "帳戶名稱"
+  },
+  "Login": {
+    "message": "登入"
+  },
+  "Last_updated": {
+    "message": "最近更新"
+  },
+  "Ok": {
+    "message": "Ok"
   }
 }
