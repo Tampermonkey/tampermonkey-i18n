@@ -1028,12 +1028,6 @@
   "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
     "message": "Deine Sprache wird nicht unterstützt?\nKlicken sie hier um zu erfahren, wie sie Tampermonkey übersetzen können?"
   },
-  "Username": {
-    "message": "Nutzer"
-  },
-  "Login": {
-    "message": "Login"
-  },
   "Last_updated": {
     "message": "Letzte Aktualisierung"
   },
