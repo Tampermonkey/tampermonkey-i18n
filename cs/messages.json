@@ -125,13 +125,13 @@
     "message": "Pozor: exclude list se zkrázil.\nProsím, překontrolujte ho ručně!"
   },
   "Include_s__": {
-    "message": "Include(s)"
+    "message": "Zahrnuje"
   },
   "Exclude_s__": {
-    "message": "Exclude(s)"
+    "message": "Vynechává"
   },
   "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-    "message": "Překontrolování nastavení GreaseMonkey/FF kompatibility může být vyžadováno, aby mohl být skript spuštěn."
+    "message": "Může být vyžadováno překontrolování nastavení GreaseMonkey/FF kompatibility, aby mohl být skript spuštěn."
   },
   "Author": {
     "message": "Autor"
