@@ -981,10 +981,10 @@
     "message": "Uchovat data v anonymním prohlížení"
   },
   "Temporary": {
-    "message": "Dočasný"
+    "message": "Dočasně"
   },
   "Permanent": {
-    "message": "Permanentní"
+    "message": "Permanentně"
   },
   "Warning": {
     "message": "Varování"
@@ -1020,10 +1020,10 @@
     "message": "Zdroj Script Blacklistu"
   },
   "Server_And_Manual": {
-    "message": "Vzdáleně + Ručně"
+    "message": "Vzdálený + Ruční"
   },
   "Only_Manual": {
-    "message": "Pouze Ručně"
+    "message": "Pouze Ruční"
   },
   "Manual_Script_Blacklist": {
     "message": "Ruční UserScript a @require Blacklist"
