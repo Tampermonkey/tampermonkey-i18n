@@ -230,7 +230,7 @@
     "message": "Opravit includes"
   },
   "Fix_includes_example": {
-    "message": "Tato možnost opraví jednoduché '*' na '/https?:\\/\\/.*\\/.*\\/'"
+    "message": "Tato možnost opraví prosté '*' na '/https?:\\/\\/.*\\/.*\\/'"
   },
   "Debug_scripts": {
     "message": "Ladění skriptů"
@@ -825,7 +825,7 @@
     "message": "Povolit upravování HTTP hlaviček skripty"
   },
   "Allow_overwrite_javascript_settings": {
-    "message": "Allow overwrite scriptblocker settings"
+    "message": "Povolit přepsání nastavení scriptblockeru"
   },
   "Tampermonkey_can_not_work_when_javascript_is_disabled": {
     "message": "Tampermonkey nemůže fungovat na stránce, kde je zakázán JavaScript. Tato možnost umožní TM přepsat toto nastavení, ať už bylo provedeno vámi nebo script blockerem. Toto ovlivní pouze řádkové skripty na stránce, nikoliv vzdálené skripty."
@@ -888,7 +888,7 @@
     "message": "Opravdu chcete smazat všechny skripty a resetovat všechna nastavení?"
   },
   "Chrome_Sync_Reset": {
-    "message": "Chrome Sync Reset"
+    "message": "Resetovat Chrome Sync"
   },
   "This_will_remove_all_stored_data_from_google_sync_Ok_": {
     "message": "Opravdu chcete smazat všechna data z Google Sync?"
