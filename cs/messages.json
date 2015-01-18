@@ -100,7 +100,7 @@
     "message": "Všechna nastavení skriptu budou resetována!"
   },
   "Tampermonkey_assumes_0urlAllHttp0_in_order_to_continue_": {
-    "message": "Tampermonkey assumes '$urlAllHttp$' in order to continue!",
+    "message": "Tampermonkey předpokládá'$urlAllHttp$', aby mohl pokračovat!",
     "placeholders": {
       "urlAllHttp": {
         "content": "$1"
@@ -125,13 +125,13 @@
     "message": "Pozor: exclude list se zkrázil.\nProsím, překontrolujte ho ručně!"
   },
   "Include_s__": {
-    "message": "Include(s)"
+    "message": "Zahrnuje"
   },
   "Exclude_s__": {
-    "message": "Exclude(s)"
+    "message": "Vynechává"
   },
   "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-    "message": "Překontrolování nastavení GreaseMonkey/FF kompatibility může být vyžadováno, aby mohl být skript spuštěn."
+    "message": "Může být vyžadováno překontrolování nastavení GreaseMonkey/FF kompatibility, aby mohl být skript spuštěn."
   },
   "Author": {
     "message": "Autor"
@@ -230,7 +230,7 @@
     "message": "Opravit includes"
   },
   "Fix_includes_example": {
-    "message": "Tato možnost opraví jednoduché '*' na '/https?:\\/\\/.*\\/.*\\/'"
+    "message": "Tato možnost opraví prosté '*' na '/https?:\\/\\/.*\\/.*\\/'"
   },
   "Debug_scripts": {
     "message": "Ladění skriptů"
@@ -248,7 +248,7 @@
     "message": "Verbose"
   },
   "Debug": {
-    "message": "Ladit"
+    "message": "Ladění"
   },
   "Installed_userscripts": {
     "message": "Nainstalované UserScripty"
@@ -284,7 +284,7 @@
     "message": "Použít nastavení kompatibility i pro @require skripty"
   },
   "Fix_wrappedJSObject_property_access": {
-    "message": "Fix wrappedJSObject property access"
+    "message": "Opravit přístup vlastnosti wrappedJSObject"
   },
   "Convert_CDATA_sections_into_a_chrome_compatible_format": {
     "message": "Převést sekce CDATA do formátu kompatibilního s Chromem"
@@ -323,10 +323,10 @@
     "message": "Skočit na řádek"
   },
   "Insert_constructor": {
-    "message": "Insert constructor"
+    "message": "Vložit konstruktor"
   },
   "Auto_Indent_all": {
-    "message": "Auto-Indent all"
+    "message": "Automaticky odsadit vše"
   },
   "There_are_unsaved_changed_": {
     "message": "Jsou tu neuložené změny.\nOpravdu chcete zavřít editor?"
@@ -457,7 +457,7 @@
     "message": "Zip"
   },
   "Include_script_storage": {
-    "message": "Include script storage"
+    "message": "Zahrnout úložiště skriptů"
   },
   "File": {
     "message": "Soubor"
@@ -825,7 +825,7 @@
     "message": "Povolit upravování HTTP hlaviček skripty"
   },
   "Allow_overwrite_javascript_settings": {
-    "message": "Allow overwrite scriptblocker settings"
+    "message": "Povolit přepsání nastavení scriptblockeru"
   },
   "Tampermonkey_can_not_work_when_javascript_is_disabled": {
     "message": "Tampermonkey nemůže fungovat na stránce, kde je zakázán JavaScript. Tato možnost umožní TM přepsat toto nastavení, ať už bylo provedeno vámi nebo script blockerem. Toto ovlivní pouze řádkové skripty na stránce, nikoliv vzdálené skripty."
@@ -888,7 +888,7 @@
     "message": "Opravdu chcete smazat všechny skripty a resetovat všechna nastavení?"
   },
   "Chrome_Sync_Reset": {
-    "message": "Chrome Sync Reset"
+    "message": "Resetovat Chrome Sync"
   },
   "This_will_remove_all_stored_data_from_google_sync_Ok_": {
     "message": "Opravdu chcete smazat všechna data z Google Sync?"
@@ -981,10 +981,10 @@
     "message": "Uchovat data v anonymním prohlížení"
   },
   "Temporary": {
-    "message": "Dočasný"
+    "message": "Dočasně"
   },
   "Permanent": {
-    "message": "Permanentní"
+    "message": "Permanentně"
   },
   "Warning": {
     "message": "Varování"
@@ -993,7 +993,7 @@
     "message": "Info"
   },
   "Error": {
-    "message": "Chyba"
+    "message": "Chyby"
   },
   "Externals": {
     "message": "Externals"
@@ -1020,10 +1020,10 @@
     "message": "Zdroj Script Blacklistu"
   },
   "Server_And_Manual": {
-    "message": "Vzdáleně + Ručně"
+    "message": "Vzdálený + Ruční"
   },
   "Only_Manual": {
-    "message": "Pouze Ručně"
+    "message": "Pouze Ruční"
   },
   "Manual_Script_Blacklist": {
     "message": "Ruční UserScript a @require Blacklist"
