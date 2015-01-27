@@ -39,10 +39,10 @@
     "message": "Внести пожертвование"
   },
   "Invalid_UserScript__Sry_": {
-    "message": "Неправильный UserScript. Извините!"
+    "message": "Неправильный скрипт. Извините!"
   },
   "Invalid_UserScript_name__Sry_": {
-    "message": "Неправильное имя UserScript-а. Извините!"
+    "message": "Некорректное имя скрипта. Извините!"
   },
   "Script_name_0url0": {
     "message": "Имя скрипта: $name$",
@@ -61,7 +61,7 @@
     }
   },
   "Please_double_check_the_native_script_import_settings__": {
-    "message": "Невозможно загрузить UserScript!\n\nПожалуйста, дважды проверьте настройки 'Native Script Import'."
+    "message": "Невозможно загрузить скрипт!\n\nПожалуйста, проверьте настройки импорта в опции 'Native Script Import'."
   },
   "Name": {
     "message": "Имя"
@@ -73,25 +73,25 @@
     "message": "Установленная версия"
   },
   "You_are_about_to_reinstall_a_UserScript_": {
-    "message": "Переустановка UserScript"
+    "message": "Переустановка скрипта"
   },
   "You_are_about_to_downgrade_a_UserScript": {
-    "message": "Внимание! Понижение версии Userscript"
+    "message": "Внимание! Откат версии скрипта"
   },
   "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
-    "message": "The downgraded script might have problems to read its stored data!"
+    "message": "После отката у скрипта могут возникать проблемы чтением сохраненных раннее данных!"
   },
   "Malicious_scripts_can_violate_your_privacy_": {
-    "message": "Вредоносные скрипты могут нарушить вашу частную жизнь и действовать от вашего имени!\nВы должны устанавливать скрипты из источников, которым доверяете."
+    "message": "Вредоносные скрипты могут вторгнуться в Ваши личные данные и даже действовать от вашего имени!\nВы должны устанавливать скрипты из источников, которым доверяете."
   },
   "You_are_about_to_modify_a_UserScript_": {
-    "message": "Изменение UserScript"
+    "message": "Изменение скрипта"
   },
   "You_are_about_to_update_a_UserScript_": {
-    "message": "Обновление UserScript"
+    "message": "Обновление скрипта"
   },
   "You_are_about_to_install_a_UserScript_": {
-    "message": "Установка UserScript"
+    "message": "Установка скрипта"
   },
   "This_script_does_not_provide_any__include_information_": {
     "message": "Этот скрипт не дает никакой информации по @include данным"
@@ -108,7 +108,7 @@
     }
   },
   "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
-    "message": "Произошло URL обновление с:\n    '$oldurl$'\n    на:\n    '$newurl$'\n",
+    "message": "Произошло обновление URL с:\n    '$oldurl$'\n    на:\n    '$newurl$'\n",
     "placeholders": {
       "oldurl": {
         "content": "$1"
@@ -131,7 +131,7 @@
     "message": "Исключить"
   },
   "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-    "message": "Перепроверьте на GreaseMonkey/FF для запуска скрипта могут понадобиться параметры совместимости."
+    "message": "Проверьте на GreaseMonkey/FF для запуска скрипта могут понадобиться параметры совместимости."
   },
   "Author": {
     "message": "Автор"
@@ -157,13 +157,13 @@
     "message": "Извините, но обновлений нет!"
   },
   "Unable_to_load_storage_due_to_empty_tabID_": {
-    "message": "Невозможно загрузить из хранилища из-за пустого tabID!"
+    "message": "Невозможно загрузить из хранилища из-за пустого поля tabID!"
   },
   "Unable_to_save_storage_due_to_empty_tabID_": {
-    "message": "Невозможно сохранить в хранилище из-за пустого tabID!"
+    "message": "Невозможно сохранить в хранилище из-за пустого поля tabID!"
   },
   "Unable_to_install_script_due_to_empty_tabID_": {
-    "message": "Не удается установить скрипт из-за пустого tabID!"
+    "message": "Не удается установить скрипт из-за пустого поля tabID!"
   },
   "Unknown_method_0name0": {
     "message": "Неизвестный метод $name$",
@@ -252,16 +252,16 @@
     "message": "Для совместимости скриптов укажите параметр @require"
   },
   "Fix_wrappedJSObject_property_access": {
-    "message": "Fix wrappedJSObject property access"
+    "message": "Исправить доступ к свойству wrappedJSObject"
   },
   "Convert_CDATA_sections_into_a_chrome_compatible_format": {
-    "message": "Преобразовать CDATA разделы в соместимый формат для chrome"
+    "message": "Преобразовать разделы CDATA в соместимый формат для Chrome"
   },
   "Fix_for_var_in_statements": {
-    "message": "Исправьте 'for (var j in x)' значения"
+    "message": "Исправьте значения 'for (var j in x)'"
   },
   "Replace_for_each_statements": {
-    "message": "Заменять 'for each' значения"
+    "message": "Заменять значения 'for each'"
   },
   "Convert_Array_Assignements": {
     "message": "Преобразование массива как [blub, bla] = s.split(':')"
@@ -311,7 +311,7 @@
     "message": "Хотите сбросить все изменения?"
   },
   "Please_wait___": {
-    "message": "Подождите ..."
+    "message": "Пожалуйста ждите ..."
   },
   "Edit": {
     "message": "Редактировать"
@@ -338,7 +338,7 @@
     "message": "Этот скрипт сохраняет данные в Tampermonkey."
   },
   "This_script_has_access_to_https_pages": {
-    "message": "Этот пункт имеет доступ на https страницы."
+    "message": "Этот пункт имеет доступ на HTTPS страницы."
   },
   "One_or_more_compatibility_options_are_set": {
     "message": "Один или несколько вариантов совместимости включены."
@@ -356,7 +356,7 @@
     "message": "Этот скрипт работает в режиме Chrome"
   },
   "This_only_changes_the_user_agent_string": {
-    "message": "Этот пункт изменяет User-Agent для включенных страниц"
+    "message": "Этот пункт изменяет параметр User-Agent для включенных страниц"
   },
   "This_is_a_userscript": {
     "message": "Это пользовательский скрипт написанный на Javascript"
@@ -384,7 +384,7 @@
     "message": "Утилиты"
   },
   "This_script_uses_uW_gm_api_": {
-    "message": "Этот скрипт использует часть из Greasemonkey 10 API (unsafeWindow.gmonkey)\nон не поддерживается Tampermonkey и другим скрипт-обработчиком."
+    "message": "Этот скрипт использует часть из Greasemonkey 10 API (unsafeWindow.gmonkey)\nон пока что не поддерживается Tampermonkey."
   },
   "some_secs": {
     "message": "некоторые"
@@ -413,7 +413,7 @@
     "message": "Экспорт"
   },
   "TextArea": {
-    "message": "TextArea"
+    "message": "Поле для текста"
   },
   "File": {
     "message": "Файл"
@@ -489,19 +489,19 @@
     "message": "Vim"
   },
   "Indentation_Width": {
-    "message": "Indentation Width"
+    "message": "Ширина отступа"
   },
   "Indent_with": {
-    "message": "Indent with"
+    "message": "Отступ"
   },
   "Tabs": {
-    "message": "Tabs"
+    "message": "Вкладки"
   },
   "Spaces": {
-    "message": "Spaces"
+    "message": "Пробелы"
   },
   "TabMode": {
-    "message": "TabMode"
+    "message": "Режим с вкладками"
   },
   "Classic": {
     "message": "Классический"
@@ -525,7 +525,7 @@
     "message": "Анонимная статистика"
   },
   "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-    "message": "Разрешить Tampermonkey собирать анонимную статистику с помощью Google Analytics. Это поможет улучшить Tampermonkey и определить дальнейшее развитие. Отключите - если вас это не интересует.."
+    "message": "Разрешить Tampermonkey собирать анонимную статистику с помощью Google Analytics. Это поможет улучшить Tampermonkey и определить дальнейшее развитие. Отключите - если Вам это не интересно!"
   },
   "Dont_ask_me_for_simple_script_updates": {
     "message": "Не спрашивать меня при небольших изменениях в скрипте"
@@ -558,7 +558,7 @@
     "message": "Безопасность"
   },
   "This_page_is_blacklisted_at_the_security_settings": {
-    "message": "Блокируемые по настройкам безопасности"
+    "message": "Блокируемые из-за настроек безопасности"
   },
   "Update_Notification": {
     "message": "Уведомление об обновлении"
@@ -644,7 +644,7 @@
     "message": "Отключенные скрипты"
   },
   "Config_Mode": {
-    "message": "Режим конфигуратора"
+    "message": "Режим настройки"
   },
   "Novice": {
     "message": "Базовый"
@@ -712,7 +712,7 @@
     "message": "Тип"
   },
   "Sync_Id": {
-    "message": "Ид"
+    "message": "ID"
   },
   "Imported": {
     "message": "Импортирован"
@@ -730,7 +730,7 @@
     "message": "Позволить перекрывать параметры JavaScript"
   },
   "Tampermonkey_can_not_work_when_javascript_is_disabled": {
-    "message": "Tampermonkey не может запустить скрипт на странице где javascript отключен. Эту настройку можете изменить только вы или другая программа блокирующая скрипты. Это влияет только на inline скрипты со страницы, без удаления их."
+    "message": "Tampermonkey не может запустить скрипт на странице где Javascript отключен. Эту настройку можете изменить только вы или другая программа блокирующая скрипты. Это влияет только на встроенные скрипты (inline) со страницы, без удаления их."
   },
   "Yes": {
     "message": "Да"
@@ -790,7 +790,7 @@
     "message": "Сброс синхронизации Chrome"
   },
   "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-    "message": "Вы хотите удалить все данные из Google Sync?"
+    "message": "Вы хотите удалить все данные из хранилища Google Sync?"
   },
   "Enable_autoSave": {
     "message": "Сохранить содержимое, если редактор теряет фокус"
@@ -838,13 +838,13 @@
     "message": "Путь к профилю браузера"
   },
   "Native_Script_Import": {
-    "message": "Native Script Import"
+    "message": "Импорт нативного скрипта (Native Script)"
   },
   "Enable_Native_Script_Import": {
-    "message": "Включить Native Script Import"
+    "message": "Включить импорт нативных скриптов (Native Script)"
   },
   "None": {
-    "message": "Нет действия"
+    "message": "Нет действий"
   },
   "Disable_Extension": {
     "message": "Отключить расширение"
@@ -853,13 +853,13 @@
     "message": "Удалить расширение"
   },
   "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
-    "message": "Какие действия нужно сделать после успешного импортирования Native Script?"
+    "message": "Какие действия нужно сделать после успешного импортирования нативного скрипта (Native Script)?"
   },
   "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
-    "message": "Когда Tampermonkey обновится, он будет перезапущен. К сожалению, в это время скрипты не будут работать!\n\nВы уверены, что не хотите получать уведомления об обновлениях?"
+    "message": "Когда Tampermonkey обновится, он будет перезапущен. Во время перезапуска скрипты временно не будут работать!\n\nВы уверены, что не хотите получать уведомления об обновлениях?"
   },
   "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-    "message": "Все изменения сохраняются только до закрытия этой инкогнито сессии!"
+    "message": "Все изменения сохраняются только до закрытия сессии Инкогнито!"
   },
   "_not_set_": {
     "message": "<не установлен>"
@@ -868,7 +868,7 @@
     "message": "Макет"
   },
   "Store_data_in_incognito_mode": {
-    "message": "Хранить данные в режиме инкогнито"
+    "message": "Хранить данные в режиме Инкогнито"
   },
   "Temporary": {
     "message": "Временно"
@@ -886,28 +886,28 @@
     "message": "Ошибка"
   },
   "BlackCheck": {
-    "message": "BlackCheck"
+    "message": "Проверка на присутствие в черном списке"
   },
   "Script_Blacklist_Source": {
-    "message": "Script Blacklist Source"
+    "message": "Список запрещенных источников"
   },
   "Server_And_Manual": {
-    "message": "Remote + Manual"
+    "message": "Удаленный + Ручной"
   },
   "Only_Manual": {
-    "message": "Manual Only"
+    "message": "Только ручной"
   },
   "Manual_Script_Blacklist": {
-    "message": "Manual Userscript and @require Blacklist"
+    "message": "Ручной режим скрипта требующий параметр '@require Blacklist'"
   },
   "This_script_is_blacklisted_": {
-    "message": "This script is blacklisted!"
+    "message": "Этот скрипт в черном списке!"
   },
   "Report_an_issue_to_the_script_hoster_": {
-    "message": "Report this as spam or malicious\n(An user account may be required)"
+    "message": "Пожаловаться на спам и/или фишинг\n(Может понадобиться пользовательский аккаунт)"
   },
   "Blacklist_Severity": {
-    "message": "Block From Severity Level"
+    "message": "Заблокировать уровень безопасности"
   },
   "severity_1": {
     "message": "1 (Самый безопасный)"
