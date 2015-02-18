@@ -78,6 +78,12 @@
   "You_are_about_to_downgrade_a_UserScript": {
     "message": "Attenzione! Ripristino versione precedente dello script"
   },
+  "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
+      "message": "La versione precedente dello script potrebbe avere problemi nel leggere i suoi dati!"
+  },
+  "Malicious_scripts_can_violate_your_privacy_": {
+      "message": "Script malevoli possono violare la tua privacy ed eseguire azioni al tuo posto!\nDovresti installare script solo da sorgenti di cui ti fidi."
+  },
   "You_are_about_to_modify_a_UserScript_": {
     "message": "Modifica dello script"
   },
@@ -124,6 +130,47 @@
   "Exclude_s__": {
     "message": "Escluso/i"
   },
+  "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
+      "message": "Potrebbe essere necessario riabilitare le opzioni di compatibilità con GreaseMonkey/FF per poter eseguire questo script."
+  },
+  "Author": {
+      "message": "Autore"
+  },
+  "Description": {
+      "message": "Descrizione"
+  },
+  "Source": {
+      "message": "Sorgente"
+  },
+  "Install": {
+      "message": "Installa"
+  },
+  "Reinstall": {
+      "message": "Reinstalla"
+  },
+  "Modify": {
+      "message": "Modifica"
+  },
+  "Downgrade": {
+      "message": "Versione precedente"
+  },
+  "Update": {
+      "message": "Aggiorna"
+  },
+  "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
+      "message": "$name$ $version$ è disponibile.\nRiavvia il tuo browser per iniziare l'aggiornamento!",
+      "placeholders": {
+          "name": {
+              "content": "$1"
+          },
+          "version": {
+              "content": "$2"
+          }
+      }
+  },
+  "Process_with_Chrome": {
+      "message": "Esegui con Chrome"
+  },
   "UpdateCheck_of_0name0_Url_0url0_failed_": {
     "message": "Controllo aggiornamento di '$name$' (Url: $url$) fallito!",
     "placeholders": {
@@ -166,6 +213,9 @@
   },
   "Check_for_userscripts_updates": {
     "message": "Controlla aggiornamenti per gli script"
+  },
+  "Waiting_for_sync_to_finish": {
+      "message": "In attesa che la sincronizzazione sia terminata"
   },
   "Settings": {
     "message": "Impostazioni"
@@ -325,6 +375,9 @@
   "One_or_more_compatibility_options_are_set": {
     "message": "Una o più opzioni di compatibilità sono attive. Potresti/dovresti controllarle."
   },
+  "This_script_has_no_grant_header_set_": {
+      "message": "Questo script non ha impostato l'header @grant!"
+  },
   "This_script_has_full_web_access": {
     "message": "Questo script ha pieno accesso a internet."
   },
@@ -389,7 +442,7 @@
     "message": "Impossibile da analizzare! :("
   },
   "An_error_occured_during_import_": {
-    "message": "Si è verfificato un errore durante l'importazione. Per favore, controlla la console per maggiori informazioni! (CTRL+SHIFT+J)"
+    "message": "Si è verfificato un errore durante l'importazione."
   },
   "Export": {
     "message": "Esporta"
@@ -399,6 +452,9 @@
   },
   "Zip": {
     "message": "Zip"
+  },
+  "Include_script_storage": {
+      "message": "Include lo storage dello script"
   },
   "File": {
     "message": "File"
@@ -433,6 +489,9 @@
   },
   "Check_interval": {
     "message": "Intervallo di controllo"
+  },
+  "Always": {
+      "message": "Sempre"
   },
   "Never": {
     "message": "Mai"
@@ -542,8 +601,53 @@
   "Security": {
     "message": "Sicurezza"
   },
+  "Downloads": {
+      "message": "Scaricamenti"
+  },
+  "Download_Mode": {
+      "message": "Modalità scaricamento"
+  },
+  "Browser_API": {
+      "message": "API browser"
+  },
+  "The_Browser_API_mode_requires_a_special_permission_": {
+      "message": "La modalità API browser richiede un permesso speciale."
+  },
+  "Whitelisted_File_Extensions": {
+      "message": "Lista bianca estensioni file"
+  },
+  "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
+      "message": "Solo i file con queste estensioni possono essere salvati sull'hard disk.\nAssicurati di non permettere estensioni di file che siano eseguibili sul tuo sistema operativo!"
+  },
+  "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
+      "message": "La tua lista bianca sembra includere file eseguibili!\nCiò significa che i tuoi script utente potrebbero scaricare malware o spyware sul tuo hard disk!!"
+  },
+  "Browser_API_Downloads": {
+      "message": "Scaricamenti API browser"
+  },
+  "Click_here_to_allow_TM_to_start_downloads": {
+      "message": "Clicca OK per permettere a Tampermonkey di iniziare scaricamenti immediati."
+  },
+  "Page_Filter_Mode": {
+      "message": "Modalità filtro pagina"
+  },
+  "Whitelisted_Pages": {
+      "message": "Pagine in lista bianca"
+  },
+  "Blacklisted_Pages": {
+      "message": "Pagine in lista nera"
+  },
+  "Blacklist": {
+      "message": "Lista nera"
+  },
+  "Whitelist": {
+      "message": "Lista bianca"
+  },
+  "Both": {
+      "message": "Entrambe"
+  },
   "This_page_is_blacklisted_at_the_security_settings": {
-    "message": "Messi in lista nera dai settaggi di sicurezza"
+    "message": "Messa in lista nera dai settaggi di sicurezza"
   },
   "Update_Notification": {
     "message": "Mostra notifiche di aggiornamento per TM"
@@ -585,9 +689,6 @@
   },
   "Report_a_bug": {
     "message": "Segnala un errore"
-  },
-  "Install": {
-    "message": "Installa"
   },
   "A_reload_is_required": {
     "message": "É necessario ricaricare: \ntutte le modifiche non salvate andranno perse!"
@@ -696,6 +797,15 @@
   "Sync_Type": {
     "message": "Tipo"
   },
+  "Sync_Version": {
+      "message": "Versione"
+  },
+  "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
+      "message": "A differenza della versione di sincronizzazione 'Legacy', questa sincronizza i tuoi script come riferimento ad un unico ID creato quando una script viene installato!\n\nQuesto significa che se hai installato uno script in più istanze di  Tampermonkey sia tramite un altro metodo di sincronizzazione che tramite la normale installazione dello script, allora questo script apparirà più volte dopo che la successiva sessione di sincronizzazione verrà completata.\n\nIl solo modo per risolvere è rimuovere manualmente tutti gli script doppi!\n\nVuoi davvero continuare?"
+  },
+  "Different_sync_versions_are_not_compatible_to_each_other_": {
+      "message": "Versioni differenti di sincronizzazione non sono compatibili tra di loro!"
+  },
   "Sync_Id": {
     "message": "Id"
   },
@@ -727,13 +837,16 @@
     "message": "Auto"
   },
   "__Please_choose__": {
-    "message": "-- Secgli un'opzione --"
+    "message": "-- Scegli un'opzione --"
   },
   "Enable": {
     "message": "Abilita"
   },
   "Disable": {
     "message": "Disabilita"
+  },
+  "Toggle_Enable": {
+      "message": "Inverti abilitazione"
   },
   "Trigger_Update": {
     "message": "Lancia un'aggiornamento"
@@ -813,6 +926,9 @@
   "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
     "message": "Tampermonkey deve accedere alle URI dei file perché l'importazioni di script funzioni.\n\nClicca qui per visitare le FAQ e sapere come fare per abilitare questo permesso!"
   },
+  "Tampermonkey_has_no_file_access_permission_": {
+      "message": "Tampermonkey non ha il permesso di accedere ai file locali!"
+  },
   "Everything_is_setup_correctly_": {
     "message": "Tutto è impostato correttamente."
   },
@@ -828,6 +944,9 @@
   "Enable_Native_Script_Import": {
     "message": "Abilita importazione script nativo"
   },
+  "Post_Import_Action": {
+      "message": "Azione successiva all'importazione"
+  },
   "None": {
     "message": "Niente"
   },
@@ -842,6 +961,9 @@
   },
   "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
     "message": "Quando Tampermonkey viene aggiornato dal tuo browser, esso viene anche riavviato. Purtroppo questo potrebbe interrompere gli script attualemnte in esecuzione!\n\nQuindi, sei sicuro di non voler essere avvisato per gli aggiornamenti?"
+  },
+  "Operation_completed_successfully": {
+      "message": "Operazione eseguita con successo"
   },
   "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
     "message": "Tutte le modifiche vengono mantenute fino a che questa sessione in incognito non viene chiusa!"
@@ -869,6 +991,24 @@
   },
   "Error": {
     "message": "Errore"
+  },
+  "Externals": {
+      "message": "Esterni"
+  },
+  "Requires": {
+      "message": "Richieste"
+  },
+  "Resources": {
+      "message": "Risorse"
+  },
+  "URL": {
+      "message": "URL"
+  },
+  "Size": {
+      "message": "Dimensione"
+  },
+  "No_entry_found": {
+      "message": "Nessuna voce trovata"
   },
   "BlackCheck": {
     "message": "Controllo lista nera"
@@ -924,7 +1064,16 @@
   "severity_10": {
     "message": "10 (meno sicuro)"
   },
+  "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
+      "message": "La tua lingua non è supportata?\nClicca qui per sapere come tradurre Tampermonkey"
+  },
   "Default": {
-    "message": "Default"
+    "message": "Predefinito"
+  },
+  "Last_updated": {
+    "message": "Ultimo aggiornamento"
+  },
+  "Ok": {
+    "message": "Ok"
   }
 }
