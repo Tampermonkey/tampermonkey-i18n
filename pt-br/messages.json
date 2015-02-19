@@ -56,6 +56,9 @@
   "A_script_blocker_was_detected_": {
     "message": "Um bloqueador de scripts foi detectado!"
   },
+  "Action": {
+    "message": "Ação"
+  },
   "Actions": {
     "message": "Ações"
   },
@@ -146,10 +149,25 @@
     "message": "Iniciante"
   },
   "BlackCheck": {
-    "message": "BlackCheck"
+    "message": "Checar Lista Negra"
+  },
+  "Blacklist": {
+    "message": "Lista Negra"
   },
   "Blacklist_Severity": {
     "message": "Bloquear a partir do Nível de Segurança"
+  },
+  "Blacklisted_Pages": {
+    "message": "Páginas na Lista Negra"
+  },
+  "Both": {
+    "message": "Ambas"
+  },
+  "Browser_API": {
+    "message": "API de Browser"
+  },
+  "Browser_API_Downloads": {
+    "message": "Downloads de API de Browser"
   },
   "Browser_Profile_Path": {
     "message": "Caminho de Perfil do Browser"
@@ -191,6 +209,9 @@
   },
   "Click_here_to_allow_TM_to_override_the_script_blocker": {
     "message": "Para permitir que seu script seja executado você precisa clicar aqui para permitir que o Tampermonkey sobrescreva a opção do bloqueador de scripts!"
+  },
+  "Click_here_to_allow_TM_to_start_downloads": {
+    "message": "Clique em OK para permitir o Tampermonkey para iniciar downloads instantâneos."
   },
   "Click_here_to_install_it_": {
     "message": "Clique aqui para instalar."
@@ -263,6 +284,12 @@
   "Dont_ask_me_for_simple_script_updates": {
     "message": "Não me pergunte para simples atualizações de scripts"
   },
+  "Downgrade": {
+    "message": "Downgrade"
+  },
+  "Download_Mode": {
+    "message": "Modo de Download"
+  },
   "Downloaded_from_0url0": {
     "message": "Downloaded from: $url$",
     "placeholders": {
@@ -270,6 +297,9 @@
         "content": "$1"
       }
     }
+  },
+  "Downloads": {
+    "message": "Downloads"
   },
   "Edit": {
     "message": "Editar"
@@ -337,6 +367,9 @@
   "Export": {
     "message": "Exportar"
   },
+  "Externals": {
+    "message": "Externos"
+  },
   "Factory_Reset": {
     "message": "Reset de Fábrica"
   },
@@ -393,6 +426,9 @@
   },
   "Include_s__": {
     "message": "Inclusão(ões):"
+  },
+  "Include_script_storage": {
+    "message": "Incluir armazenamento de script"
   },
   "Includes_Excludes": {
     "message": "Includes/Excludes"
@@ -457,6 +493,9 @@
   "Manual_Script_Blacklist": {
     "message": "Usercript Manual e requer uma Lista Negra @require"
   },
+  "Modify": {
+    "message": "Modificar"
+  },
   "Name": {
     "message": "Nome"
   },
@@ -477,6 +516,9 @@
   },
   "No": {
     "message": "Não"
+  },
+  "No_entry_found": {
+    "message": "Nenhum entrada encontrada"
   },
   "No_frames": {
     "message": "Executar apenas no frame superior"
@@ -508,6 +550,9 @@
   "Only_Manual": {
     "message": "Apenas Manual"
   },
+  "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
+    "message": "Apenas arquivos com esta extensão podem ser salvos no Disco Rígido.\nTenha cuidado para não permitir extensões de arquivo que representam executáveis no seu Sistema Operacional!"
+  },
   "Open_changelog": {
     "message": "Abrir o log de mudanças"
   },
@@ -519,6 +564,9 @@
   },
   "Original_matches": {
     "message": "Matches originais"
+  },
+  "Page_Filter_Mode": {
+    "message": "Modo de Filtro de Página"
   },
   "Permanent": {
     "message": "Permanente"
@@ -537,6 +585,12 @@
   },
   "Position_": {
     "message": "Posição"
+  },
+  "Post_Import_Action": {
+    "message": "Ação Pós-Importação"
+  },
+  "Process_with_Chrome": {
+    "message": "Processar com Chrome"
   },
   "Really_delete_0name0__": {
     "message": "Você tem certeza de que deseja deletar '$name$'?",
@@ -563,6 +617,9 @@
   "Reindent_on_typing": {
     "message": "Re-indentar ao digitar"
   },
+  "Reinstall": {
+    "message": "Reinstalar"
+  },
   "Remove": {
     "message": "Remover"
   },
@@ -575,11 +632,14 @@
   "Report_a_bug": {
     "message": "Reportar um bug"
   },
-  "Report_an_issue_to_the_script_hoster_": {
-    "message": "Reportar este script como spam ou malicioso\n(Requer uma conta no userscripts.org)"
+  "Requires": {
+    "message": "Requires"
   },
   "Reset_Section": {
     "message": "Resetar"
+  },
+  "Resources": {
+    "message": "Recursos"
   },
   "Restart_Tampermonkey": {
     "message": "Reiniciar Tampermonkey"
@@ -634,6 +694,9 @@
   "Sites": {
     "message": "Sites"
   },
+  "Size": {
+    "message": "Tamanho"
+  },
   "Smart": {
     "message": "Smart"
   },
@@ -687,6 +750,9 @@
   "Tampermonkey_can_not_work_when_javascript_is_disabled": {
     "message": "Tampermonkey não pode funcionar quando o javascript está desativado em uma página onde deveria ser executado. Esta opção permite que o TM sobrescreva esta opção que foi feita por você ou um bloqueador de script. Isto afeta apenas scripts 'inline' da página e não scripts remotos."
   },
+  "Tampermonkey_has_no_file_access_permission_": {
+    "message": "Tampermonkey não tem permissão para acessar arquivos locais!"
+  },
   "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
     "message": "Tampermonkey talvez não possa ter acesso ao unsafe context (unsafeWindow, variáveis e funções da página) quando isto estiver desativado."
   },
@@ -701,6 +767,9 @@
   },
   "TextArea": {
     "message": "Área de Texto"
+  },
+  "The_Browser_API_mode_requires_a_special_permission_": {
+    "message": "O modo de API de Browser requer uma permissão especial."
   },
   "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
     "message": "O script desatualizado poderá ter problemas para ler sua informação guardada!"
@@ -784,6 +853,9 @@
   "Type": {
     "message": "Tipo"
   },
+  "URL": {
+    "message": "URL"
+  },
   "Unable_to_install_script_due_to_empty_tabID_": {
     "message": "Não foi possível instalar script devido a tabID vazio!"
   },
@@ -817,6 +889,9 @@
         "content": "$1"
       }
     }
+  },
+  "Update": {
+    "message": "Atualizar"
   },
   "UpdateCheck_of_0name0_Url_0url0_failed_": {
     "message": "Checagem de atualização de '$name$' (Url: $url$) falhou!",
@@ -876,6 +951,15 @@
   "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
     "message": "Que ação deve ser tomada depois de um userscript nativo ser importado com sucesso?"
   },
+  "Whitelist": {
+    "message": "Lista Branca"
+  },
+  "Whitelisted_File_Extensions": {
+    "message": "Extensões de Arquivo na Lista Branca"
+  },
+  "Whitelisted_Pages": {
+    "message": "Páginas na Lista Branca"
+  },
   "Windows": {
     "message": "Windows"
   },
@@ -896,6 +980,12 @@
   },
   "You_are_about_to_update_a_UserScript_": {
     "message": "Atualização de Userscript:"
+  },
+  "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
+    "message": "Sua linguagem não é suportada?\nClique aqui para obter instruçõesd de como traduzir o Tampermonkey?"
+  },
+  "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
+    "message": "Sua Lista Branca parece incluir arquivos executáveis!\nIsso significa que seus userscripts podem baixar malwares ou spywares para o seu disco rígido!!"
   },
   "Zip": {
     "message": "Zip"
