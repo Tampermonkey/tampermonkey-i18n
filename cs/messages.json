@@ -419,7 +419,7 @@
     "message": "Tato položka má plný přístup k webové stránce."
   },
   "Utilities": {
-    "message": "Utility"
+    "message": "Nástroje"
   },
   "This_script_uses_uW_gm_api_": {
     "message": "Tento skript je součástí Greasemonkey 10 API (unsafeWindow.gmonkey),\nkteré Tampermonkey ani jiný alternativní správce skriptů nepodporuje."
@@ -966,7 +966,7 @@
     "message": "When Tampermonkey is updated by your browser it is also re-started. Unfortunately this might break currently running scripts!\n\nSo are you sure that you don't want to be notified of updates?"
   },
   "Operation_completed_successfully": {
-    "message": "Operation completed successfully"
+    "message": "Operace úspěšně dokončena"
   },
   "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
     "message": "Všechny změny jsou uchovány pouze do ukončení anonymního prohlížení!"
