@@ -2,8 +2,20 @@
   "fatal_error": {
     "message": "Schwerer Fehler"
   },
-  "Please_consider_a_donation": {
-    "message": "Bitte spende einen kleinen Betrag"
+  "Please_consider_a_contribution": {
+    "message": "Unterstütze die Entwicklung"
+  },
+  "I_contributed_already": {
+    "message": "Ich habe schon beigetragen"
+  },
+  "Remember_me_later": {
+    "message": "Später erinneren"
+  },
+  "I_dont_want_to_contribute": {
+    "message": "Ich möchte nicht beitragen"
+  },
+  "Thank_you_very_much_": {
+    "message": "Vielen Dank!"
   },
   "Invalid_UserScript__Sry_": {
     "message": "Ungültiges Userscript. Sry!"

@@ -35,8 +35,20 @@
   "fatal_error": {
     "message": "fatal error"
   },
-  "Please_consider_a_donation": {
-    "message": "Please consider a donation"
+  "Please_consider_a_contribution": {
+    "message": "Please consider to contribute"
+  },
+  "I_contributed_already": {
+    "message": "I contributed already"
+  },
+  "Remember_me_later": {
+    "message": "Remember me later"
+  },
+  "I_dont_want_to_contribute": {
+    "message": "I don't want to contribute"
+  },
+  "Thank_you_very_much_": {
+    "message": "Thank you very much!"
   },
   "Invalid_UserScript__Sry_": {
     "message": "Invalid UserScript. Sry!"
