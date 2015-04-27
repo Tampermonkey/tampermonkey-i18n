@@ -84,6 +84,15 @@
   "Installed_Version_": {
     "message": "Installed Version"
   },
+  "Global_Settings" : {
+    "message": "Global Settings"
+  },
+  "Global_settings_import" : {
+    "message": "Global settings import"
+  },
+  "This_will_overwrite_your_global_settings_" : {
+    "message": "This will overwrite your global settings!"
+  },
   "You_are_about_to_reinstall_a_UserScript_": {
     "message": "UserScript re-installation"
   },
@@ -471,6 +480,9 @@
   "Include_script_storage": {
     "message": "Include script storage"
   },
+  "Include_TM_settings": {
+    "message": "Include Tampermonkey settings"
+  },
   "File": {
     "message": "File"
   },
@@ -731,6 +743,9 @@
   },
   "Icon_badge_info": {
     "message": "Icon Badge Info"
+  },
+  "Icon_badge_color": {
+    "message": "Icon Badge Color"
   },
   "Off": {
     "message": "Off"

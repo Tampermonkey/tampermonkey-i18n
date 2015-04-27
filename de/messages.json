@@ -51,6 +51,15 @@
   "Installed_Version_": {
     "message": "Installierte Version"
   },
+  "Global_Settings" : {
+    "message": "Globale Einstellungen"
+  },
+  "Global_settings_import" : {
+    "message": "Import der globalen Einstellungen"
+  },
+  "This_will_overwrite_your_global_settings_" : {
+    "message": "Das wird die globalen Tampermonkey Einstellungen überschreiben"
+  },
   "You_are_about_to_reinstall_a_UserScript_": {
     "message": "Neu-Installation des Userscripts"
   },
@@ -435,6 +444,9 @@
   "Include_script_storage": {
     "message": "Exportiere die vom Script gespeicherten Daten"
   },
+  "Include_TM_settings": {
+    "message": "Exportiere die Tampermonkey Einstellungen"
+  },
   "TextArea": {
     "message": "Textarea"
   },
@@ -685,7 +697,10 @@
     "message": "Maske für neue Userscripte"
   },
   "Icon_badge_info": {
-    "message": "Erweiterte Icon Info"
+    "message": "Icon Information"
+  },
+  "Icon_badge_color": {
+    "message": "Icon Info Hintergrundfarbe"
   },
   "Off": {
     "message": "Aus"
