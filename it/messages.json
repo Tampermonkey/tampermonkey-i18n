@@ -38,6 +38,18 @@
   "Please_consider_a_contribution": {
     "message": "Ti prego di considerare una donazione"
   },
+"I_contributed_already": {
+    "message": "Ho già contribuito."
+  },
+  "Remember_me_later": {
+    "message": "Ricordamelo dopo."
+  },
+  "I_dont_want_to_contribute": {
+    "message": "No, non voglio effettuare una donazione."
+  },
+  "Thank_you_very_much_": {
+    "message": "Grazie infinite!"
+  },
   "Invalid_UserScript__Sry_": {
     "message": "Spiacente! Script non valido."
   },
@@ -61,7 +73,7 @@
     }
   },
   "Please_double_check_the_native_script_import_settings__": {
-    "message": "Non riesco a caricare lo script!\n\nPer favore ricontrolla le impostazioni di 'Importa script nativo'."
+    "message": "Non riesco a caricare lo script!\n\nPer favore ricontrolla le impostazioni 'Importa script nativo'."
   },
   "Name": {
     "message": "Nome"
@@ -108,7 +120,7 @@
     }
   },
   "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
-    "message": "La url di aggiornamento è cambiata da:\n    '$oldurl$'\n    a:\n    '$newurl$'\n",
+    "message": "L'url di aggiornamento è cambiato da:\n    '$oldurl$'\n    a:\n    '$newurl$'\n",
     "placeholders": {
       "oldurl": {
         "content": "$1"
@@ -119,10 +131,10 @@
     }
   },
   "Attention_Can_not_display_all_includes_": {
-    "message": "Attenzione: l'elenco di inclusione è stato ridotto.\nSi prega di controllarlo manualmente!"
+    "message": "Attenzione: l'elenco di inclusione è stato ridotto.\nSi prega di ricontrollarlo manualmente!"
   },
   "Attention_Can_not_display_all_excludes_": {
-    "message": "Attenzione: l'elenco di esclusione è stato ridotto.\nSi prega di controllarlo manualmente!"
+    "message": "Attenzione: l'elenco di esclusione è stato ridotto.\nSi prega di ricontrollarlo manualmente!"
   },
   "Include_s__": {
     "message": "Incluso/i"
@@ -131,7 +143,7 @@
     "message": "Escluso/i"
   },
   "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-    "message": "Potrebbe essere necessario riabilitare le opzioni di compatibilità con GreaseMonkey/FF per poter eseguire questo script."
+    "message": "Potrebbe essere necessario ricontrollare le opzioni di compatibilità di GreaseMonkey/FF per poter eseguire questo script."
   },
   "Author": {
     "message": "Autore"
@@ -172,7 +184,7 @@
     "message": "Esegui con Chrome"
   },
   "UpdateCheck_of_0name0_Url_0url0_failed_": {
-    "message": "Controllo aggiornamento di '$name$' (Url: $url$) fallito!",
+    "message": "Ricerca aggiornamenti per '$name$' (Url: $url$) fallita!",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -186,13 +198,13 @@
     "message": "Spiacente! Nessun aggiornamento trovato."
   },
   "Unable_to_load_storage_due_to_empty_tabID_": {
-    "message": "Impossibile caricare dallo storage a causa del tabID mancante!"
+    "message": "È risultato impossibile caricare lo storage perchè il tabID è mancante!"
   },
   "Unable_to_save_storage_due_to_empty_tabID_": {
-    "message": "Impossibile salvare nello storage a causa del tabID mancante!"
+    "message": "È risultato impossibile salvare lo storage perchè il tabID è mancante!"
   },
   "Unable_to_install_script_due_to_empty_tabID_": {
-    "message": "Impossibile installare lo script a causa del tabID mancante!"
+    "message": "È risultato impossibile installare lo script perchè il tabID è mancante!"
   },
   "Unknown_method_0name0": {
     "message": "Metodo $name$ sconosciuto",
@@ -230,13 +242,13 @@
     "message": "Correggi inclusioni"
   },
   "Fix_includes_example": {
-    "message": "(questa opzione converte un semplice '*' in 'http://*/*')"
+    "message": "(questa opzione converte un semplice '*' in '/https?:\\/\\/.*\\/.*\\/')"
   },
   "Debug_scripts": {
     "message": "Debug degli script"
   },
   "Show_fixed_source": {
-    "message": "Mostra sorgente corretto"
+    "message": "Mostra codice sorgente corretto"
   },
   "LogLevel": {
     "message": "Livello di logging"
@@ -425,7 +437,7 @@
     "message": "alcuni"
   },
   "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
-    "message": "CONFLITTO:\nQuesto script è stato modificato da un'altra scheda $t$ secondo/i fa!",
+    "message": "CONFLITTO:\nQuesto script è stato modificato in un'altra scheda $t$ secondo/i fa!",
     "placeholders": {
       "t": {
         "content": "$1"
@@ -439,16 +451,16 @@
     "message": "Disabilitato"
   },
   "Unable_to_parse_this_": {
-    "message": "Impossibile da analizzare! :("
+    "message": "Impossibile analizzare! :("
   },
   "An_error_occured_during_import_": {
-    "message": "Si è verfificato un errore durante l'importazione."
+    "message": "Si è verificato un errore durante l'importazione."
   },
   "Export": {
     "message": "Esporta"
   },
   "TextArea": {
-    "message": "Area testo"
+    "message": "Area di testo"
   },
   "Zip": {
     "message": "Zip"
@@ -653,7 +665,7 @@
     "message": "Mostra notifiche di aggiornamento per TM"
   },
   "Unable_to_load_script_from_url_0url0": {
-    "message": "Impossibile caricare lo script dalla url: \n $url$",
+    "message": "Impossibile caricare lo script dall'url: \n $url$",
     "placeholders": {
       "url": {
         "content": "$1"
@@ -712,10 +724,13 @@
     "message": "Script"
   },
   "New_script_template_": {
-    "message": "Modello nuovo script"
+    "message": "Nuovo modello script"
   },
   "Icon_badge_info": {
     "message": "Informazioni icona badge"
+  },
+ "Icon_badge_color": {
+    "message": "Informazioni colore badge"
   },
   "Off": {
     "message": "Disattivato"
@@ -960,7 +975,7 @@
     "message": "Quale azione dovrebbe essere eseguita dopo che uno script nativo è stato correttamente importato?"
   },
   "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
-    "message": "Quando Tampermonkey viene aggiornato dal tuo browser, esso viene anche riavviato. Purtroppo questo potrebbe interrompere gli script attualemnte in esecuzione!\n\nQuindi, sei sicuro di non voler essere avvisato per gli aggiornamenti?"
+    "message": "Quando Tampermonkey viene aggiornato dal tuo browser, esso viene anche riavviato. Purtroppo questo potrebbe danneggiare gli script attualmente in esecuzione!\n\nQuindi, sei sicuro di non voler essere avvisato per gli aggiornamenti?"
   },
   "Operation_completed_successfully": {
     "message": "Operazione eseguita con successo"
