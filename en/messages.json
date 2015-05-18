@@ -84,13 +84,13 @@
   "Installed_Version_": {
     "message": "Installed Version"
   },
-  "Global_Settings" : {
+  "Global_Settings": {
     "message": "Global Settings"
   },
-  "Global_settings_import" : {
+  "Global_settings_import": {
     "message": "Global settings import"
   },
-  "This_will_overwrite_your_global_settings_" : {
+  "This_will_overwrite_your_global_settings_": {
     "message": "This will overwrite your global settings!"
   },
   "You_are_about_to_reinstall_a_UserScript_": {

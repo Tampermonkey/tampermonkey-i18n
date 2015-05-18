@@ -51,13 +51,13 @@
   "Installed_Version_": {
     "message": "Installierte Version"
   },
-  "Global_Settings" : {
+  "Global_Settings": {
     "message": "Globale Einstellungen"
   },
-  "Global_settings_import" : {
+  "Global_settings_import": {
     "message": "Import der globalen Einstellungen"
   },
-  "This_will_overwrite_your_global_settings_" : {
+  "This_will_overwrite_your_global_settings_": {
     "message": "Das wird die globalen Tampermonkey Einstellungen überschreiben"
   },
   "You_are_about_to_reinstall_a_UserScript_": {
