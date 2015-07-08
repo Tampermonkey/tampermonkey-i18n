@@ -171,17 +171,6 @@
   "Process_with_Chrome": {
     "message": "Zpracovat Chromem"
   },
-  "UpdateCheck_of_0name0_Url_0url0_failed_": {
-    "message": "Kontrola aktualizací '$name$' (Url: $url$) selhala!",
-    "placeholders": {
-      "name": {
-        "content": "$1"
-      },
-      "url": {
-        "content": "$2"
-      }
-    }
-  },
   "No_update_found__sry_": {
     "message": "Žádné aktualizace nenalezeny, pardon!"
   },

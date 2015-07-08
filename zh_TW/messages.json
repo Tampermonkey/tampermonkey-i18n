@@ -38,6 +38,15 @@
   "Please_consider_a_contribution": {
     "message": "歡迎贊助"
   },
+  "I_contributed_already": {
+    "message": "我已支付"
+  },
+  "Remember_me_later": {
+    "message": "請記住我，稍後支付"
+  },
+  "I_dont_want_to_contribute": {
+    "message": "我不想支付"
+  },
   "Invalid_UserScript__Sry_": {
     "message": "無效的使用者腳本！"
   },
@@ -170,17 +179,6 @@
   },
   "Process_with_Chrome": {
     "message": "用Chrome執行"
-  },
-  "UpdateCheck_of_0name0_Url_0url0_failed_": {
-    "message": "'$name$' (Url: $url$) 的更新檢查失敗！",
-    "placeholders": {
-      "name": {
-        "content": "$1"
-      },
-      "url": {
-        "content": "$2"
-      }
-    }
   },
   "No_update_found__sry_": {
     "message": "沒有發現更新喔，抱歉！"

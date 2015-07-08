@@ -893,17 +893,6 @@
   "Update": {
     "message": "Atualizar"
   },
-  "UpdateCheck_of_0name0_Url_0url0_failed_": {
-    "message": "Checagem de atualização de '$name$' (Url: $url$) falhou!",
-    "placeholders": {
-      "name": {
-        "content": "$1"
-      },
-      "url": {
-        "content": "$2"
-      }
-    }
-  },
   "Update_Notification": {
     "message": "Mostrar opções de atualização do TM"
   },

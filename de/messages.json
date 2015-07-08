@@ -159,17 +159,6 @@
   "Process_with_Chrome": {
     "message": "An Chrome übergeben"
   },
-  "UpdateCheck_of_0name0_Url_0url0_failed_": {
-    "message": "Update-Prüfung von '$name$' (Url: $url$) fehlgeschlagen!",
-    "placeholders": {
-      "name": {
-        "content": "$1"
-      },
-      "url": {
-        "content": "$2"
-      }
-    }
-  },
   "No_update_found__sry_": {
     "message": "Keine Updates gefunden!"
   },
@@ -692,6 +681,12 @@
   },
   "Userscripts": {
     "message": "Userscripte"
+  },
+  "Script_URL_detection": {
+    "message": "Script-URL-Erkennung"
+  },
+  "Install_this_script": {
+    "message": "Dieses Script installieren"
   },
   "New_script_template_": {
     "message": "Maske für neue Userscripte"

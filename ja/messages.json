@@ -919,17 +919,6 @@
   "Update": {
     "message": "更新"
   },
-  "UpdateCheck_of_0name0_Url_0url0_failed_": {
-    "message": "「$name$」(URL: $url$) の更新の確認に失敗しました!",
-    "placeholders": {
-      "name": {
-        "content": "$1"
-      },
-      "url": {
-        "content": "$2"
-      }
-    }
-  },
   "Update_Notification": {
     "message": "Tampermonkey の更新通知の表示"
   },

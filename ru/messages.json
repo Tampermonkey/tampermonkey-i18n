@@ -38,6 +38,15 @@
   "Please_consider_a_contribution": {
     "message": "Внести пожертвование"
   },
+  "I_contributed_already": {
+    "message": "Я уже пожертвовал"
+  },
+  "Remember_me_later": {
+    "message": "Напомнить мне позже"
+  },
+  "I_dont_want_to_contribute": {
+    "message": "Я не хочу жертвовать"
+  },
   "Invalid_UserScript__Sry_": {
     "message": "Неправильный скрипт. Извините!"
   },
@@ -141,17 +150,6 @@
   },
   "Source": {
     "message": "Источник"
-  },
-  "UpdateCheck_of_0name0_Url_0url0_failed_": {
-    "message": "Обновить/проверить '$name$' (адрес: $url$) не удалось!",
-    "placeholders": {
-      "name": {
-        "content": "$1"
-      },
-      "url": {
-        "content": "$2"
-      }
-    }
   },
   "No_update_found__sry_": {
     "message": "Извините, но обновлений нет!"

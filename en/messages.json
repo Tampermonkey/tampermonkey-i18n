@@ -192,17 +192,6 @@
   "Process_with_Chrome": {
     "message": "Process with Chrome"
   },
-  "UpdateCheck_of_0name0_Url_0url0_failed_": {
-    "message": "UpdateCheck of '$name$' (Url: $url$) failed!",
-    "placeholders": {
-      "name": {
-        "content": "$1"
-      },
-      "url": {
-        "content": "$2"
-      }
-    }
-  },
   "No_update_found__sry_": {
     "message": "No update found, sry!"
   },
@@ -737,6 +726,12 @@
   },
   "Userscripts": {
     "message": "Userscripts"
+  },
+  "Script_URL_detection": {
+    "message": "Script URL detection"
+  },
+  "Install_this_script": {
+    "message": "Install this script"
   },
   "New_script_template_": {
     "message": "New userscript template"

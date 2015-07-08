@@ -779,17 +779,6 @@
       }
     }
   },
-  "UpdateCheck_of_0name0_Url_0url0_failed_": {
-    "message": "MàJ de '$name$' (Url : $url$) impossible!",
-    "placeholders": {
-      "name": {
-        "content": "$1"
-      },
-      "url": {
-        "content": "$2"
-      }
-    }
-  },
   "Update_Notification": {
     "message": "Afficher les notifications de mise à jour de TamperMonkey"
   },

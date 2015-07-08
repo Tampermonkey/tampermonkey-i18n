@@ -183,17 +183,6 @@
   "Process_with_Chrome": {
     "message": "Esegui con Chrome"
   },
-  "UpdateCheck_of_0name0_Url_0url0_failed_": {
-    "message": "Ricerca aggiornamenti per '$name$' (Url: $url$) fallita!",
-    "placeholders": {
-      "name": {
-        "content": "$1"
-      },
-      "url": {
-        "content": "$2"
-      }
-    }
-  },
   "No_update_found__sry_": {
     "message": "Spiacente! Nessun aggiornamento trovato."
   },

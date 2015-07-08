@@ -38,6 +38,15 @@
   "Please_consider_a_contribution": {
     "message": "欢迎捐助"
   },
+  "I_contributed_already": {
+    "message": "我已支付"
+  },
+  "Remember_me_later": {
+    "message": "稍后提醒我"
+  },
+  "I_dont_want_to_contribute": {
+    "message": "我不想支付"
+  },
   "Invalid_UserScript__Sry_": {
     "message": "无效的 UserScript脚本！"
   },
@@ -159,17 +168,6 @@
   },
   "Process_with_Chrome": {
     "message": "安装在 Chrome"
-  },
-  "UpdateCheck_of_0name0_Url_0url0_failed_": {
-    "message": "检查 '$name$' (Url: $url$) 的更新失败！",
-    "placeholders": {
-      "name": {
-        "content": "$1"
-      },
-      "url": {
-        "content": "$2"
-      }
-    }
   },
   "No_update_found__sry_": {
     "message": "暂时没有更新，等会儿再来吧~"
