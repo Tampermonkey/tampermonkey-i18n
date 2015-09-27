@@ -18,13 +18,13 @@
     "message": "Vielen Dank!"
   },
   "Invalid_UserScript__Sry_": {
-    "message": "Ungültiges Userscript. Sry!"
+    "message": "Ungültiges Userscript. Sorry!"
   },
   "Invalid_UserScript_name__Sry_": {
-    "message": "Ungültiger Userscript-Name. Sry!"
+    "message": "Ungültiger Userscript-Name. Sorry!"
   },
   "Script_name_0url0": {
-    "message": "Script Name: $name$",
+    "message": "Script-Name: $name$",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -58,7 +58,7 @@
     "message": "Import der globalen Einstellungen"
   },
   "This_will_overwrite_your_global_settings_": {
-    "message": "Das wird die globalen Tampermonkey Einstellungen überschreiben"
+    "message": "Das wird die globalen Tampermonkey-Einstellungen überschreiben"
   },
   "You_are_about_to_reinstall_a_UserScript_": {
     "message": "Neu-Installation des Userscripts"
@@ -67,10 +67,10 @@
     "message": "Achtung! Downgrade des Userscripts"
   },
   "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
-    "message": "Das Script könnte Probleme haben sein gespeicherten Daten zu lesen!"
+    "message": "Das Script könnte Probleme haben, seine gespeicherten Daten zu lesen!"
   },
   "Malicious_scripts_can_violate_your_privacy_": {
-    "message": "Bösartige Scripte können die Privatshäre verletzen und in Ihrem Namen handeln. Bitte installieren Sie nur Scripte von vertrauenswürdigen Quellen."
+    "message": "Bösartige Scripte können die Privatsphäre verletzen und in Ihrem Namen handeln. Bitte installieren Sie nur Scripte aus vertrauenswürdigen Quellen."
   },
   "You_are_about_to_modify_a_UserScript_": {
     "message": "Modifikation des Userscripts"
@@ -82,7 +82,7 @@
     "message": "Installation des Userscripts"
   },
   "This_script_does_not_provide_any__include_information_": {
-    "message": "Dieses Script beinhaltet keine @include Informationen."
+    "message": "Dieses Script beinhaltet keine @include-Informationen."
   },
   "All_script_settings_will_be_reset_": {
     "message": "Alle Script-Einstellungen werden zurückgesetzt!"
@@ -119,7 +119,7 @@
     "message": "Exclude(s)"
   },
   "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-    "message": "Bitte überprüfen Sie die GreaseMonkey/FF Kompatibilitäts-Optionen um Fehler im Script zu vermeiden."
+    "message": "Bitte überprüfen Sie die GreaseMonkey/FF Kompatibilitäts-Optionen, um Fehler im Script zu vermeiden."
   },
   "Author": {
     "message": "Autor"
@@ -201,19 +201,19 @@
     "message": "Includes absichern"
   },
   "Includes_more_safe_example": {
-    "message": "Wenn diese Option aktiviert ist, dann wird z.B. 'http://*google.*/*' als 'http://*google.tld/*' interpretiert um das Starten auf 'http://www.google.myevilpage.com/' zu verhindern."
+    "message": "Wenn diese Option aktiviert ist, dann wird z.B. 'http://*google.*/*' als 'http://*google.tld/*' interpretiert, um das Starten auf 'http://www.google.myevilpage.com/' zu verhindern."
   },
   "Fix_includes": {
-    "message": "Berichtige Includes"
+    "message": "Includes berichtigen"
   },
   "Fix_includes_example": {
     "message": "Diese Option interpretiert '*' als '/https?:\\/\\/.*\\/.*\\/'"
   },
   "Debug_scripts": {
-    "message": "Aktiviere Script-Debugger"
+    "message": "Script-Debugger aktivieren"
   },
   "Show_fixed_source": {
-    "message": "Zeige 'fehlerbereinigten' Sourcecode"
+    "message": "„Fehlerbereinigten“ Quellcode anzeigen"
   },
   "LogLevel": {
     "message": "Log-Level"
@@ -234,7 +234,7 @@
     "message": "Es ist kein Script installiert"
   },
   "Get_some_scripts___": {
-    "message": "Suche neue Scripte"
+    "message": "Neue Scripte suchen"
   },
   "New_userscript": {
     "message": "<Neues Script>"
@@ -258,25 +258,25 @@
     "message": "Kommentar"
   },
   "Apply_compatibility_options_to_required_script_too": {
-    "message": "Anwenden der Kompatibilitätsoptionen auf @require Scripte"
+    "message": "Anwenden der Kompatibilitätsoptionen auf @require-Scripte"
   },
   "Fix_wrappedJSObject_property_access": {
-    "message": "Konvertiere Zugriffe auf das 'wrappedJSObject' Attribut"
+    "message": "Zugriffe auf das Attribut „wrappedJSObject“ beheben"
   },
   "Convert_CDATA_sections_into_a_chrome_compatible_format": {
-    "message": "Konvertiere CDATA Sektionen in ein Chrome-kompatibles Format"
+    "message": "CDATA-Abschnitte in ein Chrome-kompatibles Format konvertieren"
   },
   "Fix_for_var_in_statements": {
-    "message": "Konvertiere Fixe 'for (var j in x)' Ausdrücke"
+    "message": "Ausdrücke der Form „for (var j in x)“ konvertieren"
   },
   "Replace_for_each_statements": {
-    "message": "Ersetze 'for each' Ausdrücke"
+    "message": "„for each“-Ausdrücke konvertieren"
   },
   "Convert_Array_Assignements": {
-    "message": "Konvertiere Array-Zuweisungen wie [blub, bla] = s.split(':')"
+    "message": "Array-Zuweisungen wie „[blub, bla] = s.split(':')“ konvertieren"
   },
   "Add_toSource_function_to_Object_Prototype": {
-    "message": "Füge dem Object und Array Kompatibilitätsfunktionen hinzu"
+    "message": "Den Prototypen Object und Array Kompatibilitätsfunktionen hinzufügen"
   },
   "Run_at": {
     "message": "Starte wenn"
@@ -300,7 +300,7 @@
     "message": "Springe zu Zeile"
   },
   "Insert_constructor": {
-    "message": "Erstelle Konstruktor"
+    "message": "Konstruktor einfügen"
   },
   "Auto_Indent_all": {
     "message": "Automatische Einrückung"
@@ -362,19 +362,19 @@
     "message": "Dieses Script hat vollen Internet-Zugang."
   },
   "This_is_a_system_script": {
-    "message": "Ich bin ein System-Script. ;)"
+    "message": "Dieses Script ist ein System-Script."
   },
   "This_is_a_chrome_extension": {
-    "message": "Ich bin eine Chrome Erweiterung. ;)"
+    "message": "Dieses Script ist eine Chrome-Erweiterung."
   },
   "This_script_runs_in_Chrome_mode": {
-    "message": "Diese Script läuft im Chrome-Modus"
+    "message": "Dieses Script läuft im Chrome-Modus."
   },
   "This_only_changes_the_user_agent_string": {
-    "message": "Dieses Element verändert den User-Agent bei allen inkludierten Seiten"
+    "message": "Dieses Element verändert den User-Agent bei allen inkludierten Seiten."
   },
   "This_is_a_userscript": {
-    "message": "Dieses Element ist ein Userscript geschrieben in Javascript"
+    "message": "Dieses Element ist ein Userscript geschrieben in JavaScript."
   },
   "Really_import_0name0__": {
     "message": "Soll das native Userscript '$name$' wirklich importiert werden?",
@@ -399,7 +399,7 @@
     "message": "Hilfsmittel"
   },
   "This_script_uses_uW_gm_api_": {
-    "message": "Dieses Script nutzt einen Teil der Greasemonkey 10 API (unsafeWindow.gmonkey)\nder weder von Tampermonkey, noch von irgendeinem anderen alternativen Script-Manager unterstützt wird."
+    "message": "Dieses Script nutzt einen Teil der Greasemonkey-10-API (unsafeWindow.gmonkey),\nder weder von Tampermonkey, noch von irgendeinem anderen alternativen Script-Manager unterstützt wird."
   },
   "some_secs": {
     "message": "einigen"
@@ -419,10 +419,10 @@
     "message": "Deaktiviert"
   },
   "Unable_to_parse_this_": {
-    "message": "Falsche syntax! :("
+    "message": "Falsche Syntax! :("
   },
   "An_error_occured_during_import_": {
-    "message": "Während des Imports is ein Fehler aufgetreten."
+    "message": "Während des Imports ist ein Fehler aufgetreten."
   },
   "Export": {
     "message": "Exportieren"
@@ -431,10 +431,10 @@
     "message": "Zip"
   },
   "Include_script_storage": {
-    "message": "Exportiere die vom Script gespeicherten Daten"
+    "message": "Die vom Script gespeicherten Daten exportieren"
   },
   "Include_TM_settings": {
-    "message": "Exportiere die Tampermonkey Einstellungen"
+    "message": "Tampermonkey-Einstellungen exportieren"
   },
   "TextArea": {
     "message": "Textarea"
@@ -462,7 +462,7 @@
     }
   },
   "Click_here_to_see_the_recent_changes": {
-    "message": "Klicken Sie hier um die aktuellen Änderungen zu sehen"
+    "message": "Klicken Sie hier, um die aktuellen Änderungen zu sehen"
   },
   "General": {
     "message": "Allgemein"
@@ -498,7 +498,7 @@
     "message": "Jeden Monat"
   },
   "Update_interval": {
-    "message": "Aktualisierungsinterval"
+    "message": "Aktualisierungsintervall"
   },
   "Editor": {
     "message": "Editor"
@@ -507,7 +507,7 @@
     "message": "Tastenbelegung"
   },
   "Indentation_Width": {
-    "message": "Einrückungsbreite"
+    "message": "Einrückungstiefe"
   },
   "Indent_with": {
     "message": "Einrückung mit"
@@ -537,19 +537,19 @@
     "message": "Automatisches Seiten-Neu-Laden"
   },
   "Auto_reload_on_script_enabled_desc": {
-    "message": "Lade betroffene Seiten neu, wenn ein Script an- oder ausgeschalten wurde."
+    "message": "Betroffene Seiten neu laden, wenn ein Script an- oder ausgeschaltet wurde."
   },
   "Anonymous_statistics": {
     "message": "Anonyme Statistiken"
   },
   "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-    "message": "Erlaube Tampermonkey anonyme Statistiken mit Hilfe von Google Analytics zu sammeln. Das hilft mir Tampermonkey zu verbessern und den Fokus auf wichtige Entwicklungen zu setzen."
+    "message": "Tampermonkey erlauben, anonyme Statistiken mit Hilfe von Google Analytics zu sammeln. Das hilft mir Tampermonkey zu verbessern und den Fokus auf wichtige Entwicklungen zu setzen."
   },
   "Dont_ask_me_for_simple_script_updates": {
-    "message": "Installiere bei einfachen Script-Updates automatisch"
+    "message": "Einfache Script-Updates ohne Nachfrage installieren"
   },
   "Hide_notification_after": {
-    "message": "Verstecke Update Benachrichtigung nach"
+    "message": "Update-Benachrichtigung ausblenden nach"
   },
   "15_Seconds": {
     "message": "15 Sekunden"
@@ -567,7 +567,7 @@
     "message": "1 Stunde"
   },
   "Enable_Editor": {
-    "message": "Aktiviere erweiterten Editor"
+    "message": "Erweiterten Editor aktivieren"
   },
   "Appearance": {
     "message": "Aussehen"
@@ -579,13 +579,13 @@
     "message": "Downloads"
   },
   "Download_Mode": {
-    "message": "Download Mode"
+    "message": "Download-Modus"
   },
   "Browser_API": {
-    "message": "Browser API"
+    "message": "Browser-API"
   },
   "The_Browser_API_mode_requires_a_special_permission_": {
-    "message": "'Browser API' benötigt eine spezielle Berechtigung."
+    "message": "'Browser-API' benötigt eine spezielle Berechtigung."
   },
   "Whitelisted_File_Extensions": {
     "message": "Positivliste der erlaubten Datei-Endungen"
@@ -594,7 +594,7 @@
     "message": "Nur Dateien mir dieser Datei-Endung können auf der Festplatte gespeichert werden.\nHier sollten keine Endungen von ausführbaren Dateien zu finden sein!"
   },
   "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
-    "message": "Die Positivliste scheint ausführbare Dateien einzuschließen!\nDas bedeuted, dass Scripts Viren und Trojaner auf der Festplatte speichern dürfen!!"
+    "message": "Die Positivliste scheint ausführbare Dateien einzuschließen!\nDas bedeutet, dass Scripts Viren und Trojaner auf der Festplatte speichern dürfen!"
   },
   "Browser_API_Downloads": {
     "message": "Browser API Downloads"
@@ -603,7 +603,7 @@
     "message": "Ein Klick auf 'OK' erlaubt Tampermonkey bzw. den Scripts sofort startende Downloads."
   },
   "Page_Filter_Mode": {
-    "message": "Filtere Seiten durch"
+    "message": "Filtere Seiten nach"
   },
   "Whitelisted_Pages": {
     "message": "Positivliste"
@@ -624,7 +624,7 @@
     "message": "Durch Sicherheitsoptionen geblockt"
   },
   "Update_Notification": {
-    "message": "Zeige Aktualisierungs-Benachrichtigung"
+    "message": "Aktualisierungs-Benachrichtigung anzeigen"
   },
   "Unable_to_load_script_from_url_0url0": {
     "message": "Script kann nicht geladen werden: \n $url$",
@@ -635,10 +635,10 @@
     }
   },
   "Click_here_to_install_it_": {
-    "message": "Klicke hier, um es zu installieren."
+    "message": "Klicken Sie hier, um es zu installieren."
   },
   "Check_disabled_scripts": {
-    "message": "Aktualisiere deaktivierte Scripte"
+    "message": "Deaktivierte Scripte aktualisieren"
   },
   "Last_Updated": {
     "message": "Letzte Aktualisierung"
@@ -650,13 +650,13 @@
     "message": "Typ"
   },
   "Check_for_Updates": {
-    "message": "Suche Updates"
+    "message": "Nach Updates suchen"
   },
   "Click_here_to_move_this_script": {
-    "message": "Hier klicken um das Script zu verschieben"
+    "message": "Klicken Sie hier, um das Script zu verschieben"
   },
   "overwritten_by_user": {
-    "message": "Überschrieben vom nutzer"
+    "message": "Überschrieben vom Benutzer"
   },
   "Report_a_bug": {
     "message": "Problem melden"
@@ -668,13 +668,13 @@
     "message": "Auf die Festplatte speichern"
   },
   "Editor_reset": {
-    "message": "Editor Zurücksetzen"
+    "message": "Editor zurücksetzen"
   },
   "Full_reset": {
-    "message": "Script Zurücksetzen"
+    "message": "Script zurücksetzen"
   },
   "Run_syntax_check": {
-    "message": "Starte Syntax-Check"
+    "message": "Syntax-Überprüfung starten"
   },
   "Dashboard": {
     "message": "Übersicht"
@@ -725,10 +725,10 @@
     "message": "Ändert die Anzahl der einstellbaren Optionen"
   },
   "Enter_the_new_rule": {
-    "message": "Gib eine neue Regel ein"
+    "message": "Geben Sie eine neue Regel ein"
   },
   "Add_as_0clude0": {
-    "message": "Behandle Regel als $clude$",
+    "message": "Regel als $clude$ behandeln",
     "placeholders": {
       "clude": {
         "content": "$1"
@@ -754,25 +754,25 @@
     "message": "Original Exclude"
   },
   "User_includes": {
-    "message": "Nutzer Include"
+    "message": "Benutzer-Include"
   },
   "User_matches": {
-    "message": "Nutzer Match"
+    "message": "Benutzer-Match"
   },
   "User_excludes": {
-    "message": "Nutzer Exclude"
+    "message": "Benutzer-Exclude"
   },
   "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
-    "message": "Ein interner Fehler ist aufgetreten. Bitte melden Sie dieses Problem im Tampermonkey Forum, falls es auch nach einem Neustart von Chrome weiterhin besteht.\n\nWollen Sie das Forum jetzt besuchen?"
+    "message": "Ein interner Fehler ist aufgetreten. Bitte melden Sie dieses Problem im Tampermonkey-Forum, falls es auch nach einem Neustart von Chrome weiterhin besteht.\n\nWollen Sie das Forum jetzt besuchen?"
   },
   "TESLA": {
     "message": "TESLA"
   },
   "Enable_TESLA": {
-    "message": "Aktiviere TESLA"
+    "message": "TESLA aktivieren"
   },
   "Tampermonkey_External_Script_List_Access": {
-    "message": "Script Synchronization (Tampermonkey External Script List Access)"
+    "message": "Script-Synchronisierung (Tampermonkey External Script List Access)"
   },
   "Sync_Type": {
     "message": "Typ"
@@ -781,7 +781,7 @@
     "message": "Version"
   },
   "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
-    "message": "Im Gegensatz zur Legacy-Version synchonisiert diese Variante die Scripts anhand einer eindeutigen ID, die beim Installieren oder beim Synchronisieren mit einer anderen Version generiert wurde.\n\nDas bedeuted, dass die installierten Scripts nun unter Umständen mehrfach auftauchen können nachdem die Synchronisation die nächsten Male ausgeführt wurde.\n\nDie einzige Möglichkeit das Problem zu beheben wird die Deinstallation aller mehrfach auftauchenden Scripts sein!\n\nSoll wirklich diese Sync-Version genutzt werden?"
+    "message": "Im Gegensatz zur Legacy-Version synchonisiert diese Variante die Scripts anhand einer eindeutigen ID, die beim Installieren oder beim Synchronisieren mit einer anderen Version generiert wurde.\n\nDas bedeutet, dass die installierten Scripts nun unter Umständen mehrfach auftauchen können, nachdem die Synchronisation die nächsten Male ausgeführt wurde.\n\nDie einzige Möglichkeit das Problem zu beheben, wird die Deinstallation aller mehrfach auftauchenden Scripts sein!\n\nSoll wirklich diese Sync-Version genutzt werden?"
   },
   "Different_sync_versions_are_not_compatible_to_each_other_": {
     "message": "Die unterschiedlichen Versionen sind untereinander inkompatibel!"
@@ -793,16 +793,16 @@
     "message": "Importiert"
   },
   "Create_Exportable_Data": {
-    "message": "Erstelle TESLA Daten"
+    "message": "TESLA-Daten erstellen"
   },
   "Copy_exportable_data_to_clipboard_Ok_": {
-    "message": "Kopiere TESLA Daten in die Zwischenablage. Ok?"
+    "message": "TESLA-Daten werden in die Zwischenablage kopiert. Ok?"
   },
   "Allow_headers_to_be_modified_by_scripts": {
-    "message": "Erlaube Modifikation der HTTP-Header durch Scripte"
+    "message": "Modifikation der HTTP-Header durch Scripte erlauben"
   },
   "Allow_overwrite_javascript_settings": {
-    "message": "Erlaube das Überschreiben der Javascript Einstellungen"
+    "message": "Überschreiben der Javascript-Einstellungen erlauben"
   },
   "Tampermonkey_can_not_work_when_javascript_is_disabled": {
     "message": "Tampermonkey kann nicht arbeiten, wenn auf einer Seite kein Javascript aktiviert ist. Diese Option erlaubt TM diese Einstellung zu überschreiben, falls Javascript z.B. durch einen Script-Blocker deaktiviert wurde. Hiervon sind nur direkt in der Seite enthaltenen Scripte betroffen. "
@@ -817,7 +817,7 @@
     "message": "Automatisch"
   },
   "__Please_choose__": {
-    "message": "-- Bitte wähle eine Aktion aus --"
+    "message": "-- Bitte wählen Sie eine Aktion aus --"
   },
   "Enable": {
     "message": "Aktivieren"
@@ -832,7 +832,7 @@
     "message": "Aktualisieren"
   },
   "Apply_this_action_to_the_selected_scripts": {
-    "message": "Anwenden der gewählten Aktion auf alle markierten Skripte"
+    "message": "Die gewählte Aktion auf alle markierten Skripte anwenden"
   },
   "Start": {
     "message": "Start"
@@ -847,7 +847,7 @@
     "message": "Ein Klick hier her erlaubt Tampermonkey die Einstellungen des Script-Blockers zu überschreiben."
   },
   "Please_reload_this_page_in_order_to_run_your_userscripts_": {
-    "message": "Bitte laden sie die Seite neu, damit die Userscripte ausgeführt werden können."
+    "message": "Bitte laden Sie die Seite neu, damit die Userscripte ausgeführt werden können."
   },
   "Reset_Section": {
     "message": "Reset"
@@ -871,7 +871,7 @@
     "message": "Sollen wirklich alle Daten von Google Sync gelöscht werden?"
   },
   "Enable_autoSave": {
-    "message": "Automatischen Speichern wenn der Editor den Fokus verliert"
+    "message": "Automatisch speichern, wenn der Editor den Fokus verliert"
   },
   "Enable_easySave": {
     "message": "Speichere ohne Bestätigungsdialog"
@@ -880,22 +880,22 @@
     "message": "Standard"
   },
   "Add_TM_to_CSP": {
-    "message": "Füge Tampermonkey zur Content Security Policy (CSP) der geladenen Seiten hinzu"
+    "message": "Tampermonkey zur Content Security Policy (CSP) der geladenen Seiten hinzufügen"
   },
   "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
-    "message": "Tampermonkey kann ohne diese Option möglicherweise keinen Zugriff auf den unsicheren Kontext (unsafeWindow, globale Funktionen und Variables) bereitstellen"
+    "message": "Tampermonkey kann ohne diese Option möglicherweise keinen Zugriff auf den unsicheren Kontext (unsafeWindow, globale Funktionen und Variablen) bereitstellen"
   },
   "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-    "message": "Mindestens ein Teil der Seite ist gelistet in der 'Verbotene Seiten'-Einstellung"
+    "message": "Mindestens ein Teil der Seite ist in der „Verbotene Seiten“-Einstellung gelistet"
   },
   "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
-    "message": "Einige Scripte könnten durch einen Script-Blocker oder die Javascript-Einstellungen blockiert worden sein!"
+    "message": "Einige Scripte könnten durch einen Script-Blocker oder die JavaScript-Einstellungen blockiert worden sein!"
   },
   "Show_notification": {
-    "message": "Zeige einen Hinweis"
+    "message": "Einen Hinweis anzeigen"
   },
   "Open_changelog": {
-    "message": "Öffne das Changelog"
+    "message": "Die Versionsänderungen anzeigen"
   },
   "No_frames": {
     "message": "Nur im Haupt-Frame ausführen"
@@ -904,10 +904,10 @@
     "message": "Nativ"
   },
   "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
-    "message": "Tampermonkey benötigt den absoluten Pfad zum Profile Ordner des Browsers um den Nativen Script Import zu ermöglichen.\n\nKlicken Sie hier um Hilfe zum Thema zu bekommen!"
+    "message": "Tampermonkey benötigt den absoluten Pfad zum Profil-Ordner des Browsers, um den Nativen Script-Import zu ermöglichen.\n\nKlicken Sie hier, um Hilfe zum Thema zu bekommen!"
   },
   "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-    "message": "Tampermonkey benötigt Zugriff auf das lokale Dateisystem um den 'Nativen Script Import' zu ermöglichen.\n\nKlicken Sie hier um Hilfe zum Thema zu bekommen!"
+    "message": "Tampermonkey benötigt Zugriff auf das lokale Dateisystem, um den 'Nativen Script-Import' zu ermöglichen.\n\nKlicken Sie hier, um Hilfe zum Thema zu bekommen!"
   },
   "Tampermonkey_has_no_file_access_permission_": {
     "message": "Tampermonkey hat keinen Zugriff auf das lokale Dateisystem!"
@@ -922,10 +922,10 @@
     "message": "Browser Profil Pfad"
   },
   "Native_Script_Import": {
-    "message": "Nativer Script Import"
+    "message": "Nativer Script-Import"
   },
   "Enable_Native_Script_Import": {
-    "message": "Nativen Script Import aktivieren"
+    "message": "Nativen Script-Import aktivieren"
   },
   "Post_Import_Action": {
     "message": "Aktion nach dem Import"
@@ -943,13 +943,13 @@
     "message": "Welche Aktion soll ausgeführt werden nachdem ein natives Skript importiert wurde?"
   },
   "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
-    "message": "Der Browser startet die Tampermonkey Erweiterung neu wenn sie aktualiert wurde. Leider kann das zu Problemen bei aktuell laufenden Userscripten führen.!\n\nSoll also wirklich keine Meldung bei einem Update gezeigt werden?"
+    "message": "Der Browser startet die Tampermonkey-Erweiterung neu, wenn sie aktualiert wurde. Das kann zu Problemen bei aktuell laufenden Userscripten führen.!\n\nSoll wirklich keine Meldung bei einem Update angezeigt werden?"
   },
   "Operation_completed_successfully": {
-    "message": "Die Aktion wurde erfolgreich durchgeführt!"
+    "message": "Die Aktion wurde erfolgreich durchgeführt."
   },
   "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-    "message": "Alle Änderungen werden nur behalten bis der Inkognito-Modus beendet wird!"
+    "message": "Alle Änderungen werden nur behalten, bis der Inkognito-Modus beendet wird!"
   },
   "_not_set_": {
     "message": "<unbekannt>"
@@ -958,7 +958,7 @@
     "message": "Layout"
   },
   "Store_data_in_incognito_mode": {
-    "message": "Speichere Daten im Incognito Modus"
+    "message": "Daten auch im Inkognito-Modus speichern"
   },
   "Temporary": {
     "message": "Temporär"
@@ -1006,22 +1006,22 @@
     "message": "Nur Manuell"
   },
   "Manual_Script_Blacklist": {
-    "message": "Manuelle Userscript and @require Blacklist"
+    "message": "Manuelle Userscript- and @require-Negativliste"
   },
   "This_script_is_blacklisted_": {
-    "message": "Diese Script steht in der Blacklist!"
+    "message": "Dieses Script steht in der Negativliste!"
   },
   "Report_an_issue_to_the_script_hoster_": {
-    "message": "Ein Problem an die verteilende Seite melden.\n(Ein Nutzer-Account könnte benötigt werden)"
+    "message": "Ein Problem an die verteilende Seite melden.\n(Dazu brauchen Sie möglicherweise ein Benutzerkonto.)"
   },
   "Blacklist_Severity": {
-    "message": "Blocke ab der Gefährdungsstufe"
+    "message": "Ab dieser Gefährdungsstufe blockieren"
   },
   "Action_Menu": {
     "message": "Aktions-Menü"
   },
   "Hide_disabled_scripts": {
-    "message": "Verstecke deaktivierte Scripte"
+    "message": "Deaktivierte Scripte verstecken"
   },
   "Columns": {
     "message": "Spalten"
@@ -1060,7 +1060,7 @@
     "message": "10 (unsicherer)"
   },
   "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
-    "message": "Deine Sprache wird nicht unterstützt?\nKlicken sie hier um zu erfahren, wie sie Tampermonkey übersetzen können?"
+    "message": "Ihre Sprache wird nicht unterstützt?\nKlicken sie hier, um zu erfahren, wie Sie Tampermonkey übersetzen können."
   },
   "Last_updated": {
     "message": "Letzte Aktualisierung"
