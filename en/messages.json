@@ -721,6 +721,20 @@
   "Run_syntax_check": {
     "message": "Run syntax check"
   },
+  "No_syntax_errors_were_found_": {
+    "message": "No syntax errors were found."
+  },
+  "One_error_or_hint_was_found_": {
+    "message": "One error or hint was found."
+  },
+  "0x0_errors_or_hints_were_found_": {
+    "message": "$count$ errors or hints were found.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
   "Dashboard": {
     "message": "Dashboard"
   },

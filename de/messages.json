@@ -676,6 +676,20 @@
   "Run_syntax_check": {
     "message": "Starte Syntax-Check"
   },
+  "No_syntax_errors_were_found_": {
+    "message": "Es wurden keine Syntax-Fehler gefunden."
+  },
+  "One_error_or_hint_was_found_": {
+    "message": "Es wurde ein Syntax-Fehler gefunden."
+  },
+  "0x0_errors_or_hints_were_found_": {
+    "message": "Es wurden $count$ Syntax-Fehler gefunden.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
   "Dashboard": {
     "message": "Übersicht"
   },
