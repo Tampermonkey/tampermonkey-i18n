@@ -47,6 +47,9 @@
   "I_dont_want_to_contribute": {
     "message": "我不想支付"
   },
+  "Thank_you_very_much_": {
+    "message": "非常感谢您！"
+  },
   "Invalid_UserScript__Sry_": {
     "message": "无效的 UserScript脚本！"
   },
@@ -80,6 +83,15 @@
   },
   "Installed_Version_": {
     "message": "已安装版本"
+  },
+  "Global_Settings": {
+    "message": "全局设置"
+  },
+  "Global_settings_import": {
+    "message": "导入全局设置"
+  },
+  "This_will_overwrite_your_global_settings_": {
+    "message": "这将覆盖您的全局设置！"
   },
   "You_are_about_to_reinstall_a_UserScript_": {
     "message": "即将重新安装 UserScript"
@@ -166,6 +178,17 @@
   "Update": {
     "message": "更新"
   },
+"0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
+    "message": "$name$ $version$ 现在可用。\n请重启您的浏览器来启动更新！",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      },
+      "version": {
+        "content": "$2"
+      }
+    }
+  },
   "Process_with_Chrome": {
     "message": "安装在 Chrome"
   },
@@ -200,6 +223,9 @@
   },
   "Check_for_userscripts_updates": {
     "message": "检查用户脚本更新"
+  },
+  "Waiting_for_sync_to_finish": {
+    "message": "正在等待同步完成"
   },
   "Settings": {
     "message": "设置"
@@ -339,6 +365,9 @@
     "message": "排序"
   },
   "Actions": {
+    "message": "多项操作"
+  },
+  "Action": {
     "message": "操作"
   },
   "Import": {
@@ -358,6 +387,9 @@
   },
   "One_or_more_compatibility_options_are_set": {
     "message": "本脚本开启了一个或多个Chrome兼容选项. 您应当检查详细配置。"
+  },
+  "This_script_has_no_grant_header_set_": {
+    "message": "此脚本未声明@grant头！"
   },
   "This_script_has_full_web_access": {
     "message": "本脚本有完整的网络访问权限。"
@@ -431,8 +463,17 @@
   "TextArea": {
     "message": "TextArea"
   },
+  "Zip": {
+    "message": "Zip"
+  },
+  "Include_script_storage": {
+    "message": "包括脚本存储"
+  },
+  "Include_TM_settings": {
+    "message": "包括Tampermonkey设置"
+  },
   "File": {
-    "message": "File"
+    "message": "文件"
   },
   "There_is_an_update_for_0name0_avaiable_": {
     "message": "'$name$' 有可用更新。 ^-^",
@@ -464,6 +505,9 @@
   },
   "Check_interval": {
     "message": "更新检查间隔"
+  },
+  "Always": {
+    "message": "总是"
   },
   "Never": {
     "message": "从不"
@@ -573,6 +617,33 @@
   "Security": {
     "message": "安全"
   },
+  "Downloads": {
+    "message": "下载"
+  },
+  "Download_Mode": {
+    "message": "下载模式"
+  },
+  "Browser_API": {
+    "message": "浏览器API"
+  },
+  "The_Browser_API_mode_requires_a_special_permission_": {
+    "message": "浏览器API模式需要特殊许可。"
+  },
+  "Whitelisted_File_Extensions": {
+    "message": "文件扩展名白名单"
+  },
+  "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
+    "message": "仅具有以下扩展名的文件可被保存至硬盘。\n注意不要允许代表可在您的操作系统上执行的文件扩展名！"
+  },
+  "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
+    "message": "您的白名单似乎包含可执行文件！\n这意味着您的用户脚本可能下载恶意软件或间谍软件到您的硬盘！！"
+  },
+  "Browser_API_Downloads": {
+    "message": "浏览器API下载"
+  },
+  "Click_here_to_allow_TM_to_start_downloads": {
+    "message": "点击确定以允许Tampermonkey立即开始下载。"
+  },
   "Page_Filter_Mode": {
     "message": "页面过滤模式"
   },
@@ -650,17 +721,40 @@
   "Run_syntax_check": {
     "message": "运行语法检查"
   },
+  "No_syntax_errors_were_found_": {
+    "message": "未发现语法错误。"
+  },
+  "One_error_or_hint_was_found_": {
+    "message": "发现了一个错误或提示。"
+  },
+  "0x0_errors_or_hints_were_found_": {
+    "message": "发现了$count$ 个错误或提示。",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
   "Dashboard": {
     "message": "仪表盘"
   },
   "Userscripts": {
     "message": "用户脚本"
   },
+  "Script_URL_detection": {
+    "message": "脚本URL检测"
+  },
+  "Install_this_script": {
+    "message": "安装此脚本"
+  },
   "New_script_template_": {
     "message": "新建用户脚本模板"
   },
   "Icon_badge_info": {
     "message": "图标包信息"
+  },
+  "Icon_badge_color": {
+    "message": "图标包颜色"
   },
   "Off": {
     "message": "关"
@@ -742,6 +836,15 @@
   "Sync_Type": {
     "message": "类型"
   },
+  "Sync_Version": {
+    "message": "版本"
+  },
+  "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
+    "message": "不同于“传统”同步版本，此版本参考一个独特的当脚本被安装时创建的ID同步您的脚本！\n\n这意味着如果您在多个Tampermonkey实例中通过其他同步方式或正常的脚本安装途径安装一个脚本，这个脚本将在下个同步迭代结束时重复出现。\n\n仅有的恢复方法是人工移除重复的脚本路径！\n\n您确实要继续吗？"
+  },
+  "Different_sync_versions_are_not_compatible_to_each_other_": {
+    "message": "不同的同步版本相互不兼容！"
+  },
   "Sync_Id": {
     "message": "Id"
   },
@@ -780,6 +883,9 @@
   },
   "Disable": {
     "message": "禁用"
+  },
+  "Toggle_Enable": {
+    "message": "切换启用/禁用"
   },
   "Trigger_Update": {
     "message": "触发一个更新"
@@ -895,6 +1001,9 @@
   "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
     "message": "当浏览器升级 Tampermonkey 时会重启 Tampermonkey。这可能会中断当前还在执行的脚本！\n\n确认您不需要接收 Tampermonkey 更新的通知吗？"
   },
+  "Operation_completed_successfully": {
+    "message": "操作成功完成"
+  },
   "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
     "message": "所有的改动只会保存到此隐身会话结束为止！"
   },
@@ -922,6 +1031,24 @@
   "Error": {
     "message": "错误"
   },
+  "Externals": {
+    "message": "外部"
+  },
+  "Requires": {
+    "message": "要求"
+  },
+  "Resources": {
+    "message": "资源"
+  },
+  "URL": {
+    "message": "URL"
+  },
+  "Size": {
+    "message": "大小"
+  },
+  "No_entry_found": {
+    "message": "No entry found"
+  },
   "BlackCheck": {
     "message": "黑名单检查"
   },
@@ -945,6 +1072,18 @@
   },
   "Blacklist_Severity": {
     "message": "以严重等级禁用"
+  },
+  "Action_Menu": {
+    "message": "动作菜单"
+  },
+  "Hide_disabled_scripts": {
+    "message": "隐藏禁用的脚本"
+  },
+  "Columns": {
+    "message": "列"
+  },
+  "Script_order": {
+    "message": "脚本顺序"
   },
   "severity_1": {
     "message": "1 （最安全）"
@@ -981,5 +1120,11 @@
   },
   "Default": {
     "message": "默认"
+  },
+  "Last_updated": {
+    "message": "最后更新"
+  },
+  "Ok": {
+    "message": "确定"
   }
 }
