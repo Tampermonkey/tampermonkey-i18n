@@ -257,6 +257,12 @@
   "Comment": {
     "message": "Kommentar"
   },
+  "Details": {
+    "message": "Details"
+  },
+  "UUID": {
+    "message": "UUID"
+  },
   "Apply_compatibility_options_to_required_script_too": {
     "message": "Anwenden der Kompatibilitätsoptionen auf @require-Scripte"
   },
@@ -620,6 +626,15 @@
   "Both": {
     "message": "Beide"
   },
+  "Experimental": {
+    "message": "Experimente"
+  },
+  "strict_mode": {
+    "message": "strict mode"
+  },
+  "strong_mode": {
+    "message": "strong mode"
+  },
   "This_page_is_blacklisted_at_the_security_settings": {
     "message": "Durch Sicherheitsoptionen geblockt"
   },
@@ -689,6 +704,21 @@
         "content": "$1"
       }
     }
+  },
+  "Auto_syntax_check_on_typing": {
+    "message": "Automatische Syntax-Überprüfung"
+  },
+  "Enable_this_option_to_automatically_check_the_code_on_typing_": {
+    "message": "Aktivieren Sie diese Option um eine automatische Syntax-Überprüfung während des Tippens durchzuführen."
+  },
+  "Auto_syntax_check_max_length": {
+    "message": "Längenbeschränkung für die automatischen Syntax-Überprüfung"
+  },
+  "Check_only_scripts_up_to_this_size_automatically_": {
+    "message": "Scripts werden nur bis zu dieser Länge automatisch überprüft."
+  },
+  "Highlight_trailing_whitespace": {
+    "message": "Leerzeichen am Ende der Zeile markieren"
   },
   "Dashboard": {
     "message": "Übersicht"

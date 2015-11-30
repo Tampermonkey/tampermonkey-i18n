@@ -317,7 +317,7 @@
     "message": "Ativar"
   },
   "Enable_Editor": {
-    "message": "Habilitar editor modificado"
+    "message": "Habilitar editor"
   },
   "Enable_Native_Script_Import": {
     "message": "Habilitar Importação de Script Nativo"
@@ -359,7 +359,7 @@
     "message": "Toda semana"
   },
   "Everything_is_setup_correctly_": {
-    "message": "Everything is setup correctly."
+    "message": "Tudo está configurado corretamente."
   },
   "Exclude_s__": {
     "message": "Exclusão(ões):"
@@ -407,13 +407,13 @@
     "message": "Obter alguns scripts..."
   },
   "Help": {
-    "message": "Help"
+    "message": "Ajuda"
   },
   "Hide_notification_after": {
     "message": "Esconder notificações após"
   },
   "Homepage": {
-    "message": "Homepage"
+    "message": "Pagina Inicial"
   },
   "Icon_badge_info": {
     "message": "Icon Badge Info"
