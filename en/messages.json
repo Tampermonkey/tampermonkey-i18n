@@ -290,6 +290,12 @@
   "Comment": {
     "message": "Comment"
   },
+  "Details": {
+    "message": "Details"
+  },
+  "UUID": {
+    "message": "UUID"
+  },
   "Apply_compatibility_options_to_required_script_too": {
     "message": "Apply compatibility options to @require scripts too"
   },
@@ -542,6 +548,9 @@
   "Windows": {
     "message": "Windows"
   },
+  "Sublime": {
+    "message": "Sublime Text"
+  },
   "Emacs": {
     "message": "Emacs"
   },
@@ -662,6 +671,15 @@
   "Both": {
     "message": "Both"
   },
+  "Experimental": {
+    "message": "Experimental"
+  },
+  "strict_mode": {
+    "message": "strict mode"
+  },
+  "strong_mode": {
+    "message": "strong mode"
+  },
   "This_page_is_blacklisted_at_the_security_settings": {
     "message": "Blacklisted by security settings"
   },
@@ -734,6 +752,21 @@
         "content": "$1"
       }
     }
+  },
+  "Auto_syntax_check_on_typing": {
+    "message": "Automatic syntax check on typing"
+  },
+  "Enable_this_option_to_automatically_check_the_code_on_typing_": {
+    "message": "Enable this option to automtically check the code on typing."
+  },
+  "Auto_syntax_check_max_length": {
+    "message": "Automatic syntax check max size"
+  },
+  "Check_only_scripts_up_to_this_size_automatically_": {
+    "message": "Check only scripts up to this size automatically."
+  },
+  "Highlight_trailing_whitespace": {
+    "message": "Highlight trailing whitespace"
   },
   "Dashboard": {
     "message": "Dashboard"
