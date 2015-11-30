@@ -281,7 +281,7 @@
     "message": "Activer TESLA"
   },
   "Enable_autoSave": {
-    "message": "Enregistrer le contenu quand l'éditeur pers le focus"
+    "message": "Enregistrer le contenu quand l'éditeur perd le focus"
   },
   "Enable_easySave": {
     "message": "Ne pas montrer la confirmation lors de l'enregistrement"
