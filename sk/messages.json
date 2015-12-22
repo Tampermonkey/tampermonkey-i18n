@@ -694,7 +694,7 @@
     "Script_Update": {
         "message": "Aktualizovať skript"
     },
-    "Script_name_0url0": {
+    "Script_name_0name0": {
         "message": "Názov skriptu: $name$",
         "placeholders": {
             "name": {

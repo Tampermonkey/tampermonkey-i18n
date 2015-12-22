@@ -53,7 +53,7 @@
   "Invalid_UserScript_name__Sry_": {
     "message": "無效的使用者腳本名稱。抱歉！"
   },
-  "Script_name_0url0": {
+  "Script_name_0name0": {
     "message": "腳本名稱： $name$",
     "placeholders": {
       "name": {

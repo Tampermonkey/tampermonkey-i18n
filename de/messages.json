@@ -23,7 +23,7 @@
   "Invalid_UserScript_name__Sry_": {
     "message": "Ungültiger Userscript-Name. Sorry!"
   },
-  "Script_name_0url0": {
+  "Script_name_0name0": {
     "message": "Script-Name: $name$",
     "placeholders": {
       "name": {
@@ -509,8 +509,19 @@
   "Editor": {
     "message": "Editor"
   },
+  "Theme": {
+    "message": "Theme"
+  },
   "Key_Mapping": {
     "message": "Tastenbelegung"
+  },
+  "Please_check_the_0editor0_documentation_for_more_details_": {
+    "message": "Bitte konsultieren Sie die $editor$-Dokumentation für weitere Informationen.",
+    "placeholders": {
+      "editor": {
+        "content": "$1"
+      }
+    }
   },
   "Indentation_Width": {
     "message": "Einrückungstiefe"
@@ -697,7 +708,7 @@
   "One_error_or_hint_was_found_": {
     "message": "Es wurde ein Syntax-Fehler gefunden."
   },
-  "0x0_errors_or_hints_were_found_": {
+  "0count0_errors_or_hints_were_found_": {
     "message": "Es wurden $count$ Syntax-Fehler gefunden.",
     "placeholders": {
       "count": {

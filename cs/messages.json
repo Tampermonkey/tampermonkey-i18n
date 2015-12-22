@@ -44,7 +44,7 @@
   "Invalid_UserScript_name__Sry_": {
     "message": "Neplatný název UserScriptu. Pardon!"
   },
-  "Script_name_0url0": {
+  "Script_name_0name0": {
     "message": "Název skriptu: $name$",
     "placeholders": {
       "name": {

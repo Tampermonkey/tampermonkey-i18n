@@ -682,7 +682,7 @@
   "Script_Update": {
     "message": "スクリプトの更新"
   },
-  "Script_name_0url0": {
+  "Script_name_0name0": {
     "message": "スクリプト名: $name$",
     "placeholders": {
       "name": {

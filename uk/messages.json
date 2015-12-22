@@ -53,7 +53,7 @@
   "Invalid_UserScript_name__Sry_": {
     "message": "Некоректне ім'я скрипта. Вибачте!"
   },
-  "Script_name_0url0": {
+  "Script_name_0name0": {
     "message": "Ім'я скрипта: $name$",
     "placeholders": {
       "name": {
