@@ -159,6 +159,48 @@
   "Process_with_Chrome": {
     "message": "An Chrome übergeben"
   },
+  "Enforce": {
+    "message": "Erzwingen"
+  },
+  "connect_src_mode": {
+    "message": "@connect-src-Modus"
+  },
+  "Ask_if_unknown": {
+    "message": "Nachfragen"
+  },
+  "Strict": {
+    "message": "Streng"
+  },
+  "Allow_once": {
+    "message": "Einmal erlauben"
+  },
+  "Allow_temporarily": {
+    "message": "Temporär erlauben"
+  },
+  "Allow": {
+    "message": "Immer erlauben"
+  },
+  "Allow_domain": {
+    "message": "Diese Domain erlauben"
+  },
+  "Focus_tab": {
+    "message": "Herkunfts-Tab fokusieren"
+  },
+  "Deny": {
+    "message": "Verbieten"
+  },
+  "A_userscript_wants_to_access_a_cross_origin_resource_": {
+    "message": "Ein Userscript möchte eine fremde Ressource laden."
+  },
+  "Tab_URL": {
+    "message": "Tab URL"
+  },
+  "Destination_domain": {
+    "message": "Anfrageziel-Domain"
+  },
+  "Destination_URL": {
+    "message": "Anfrageziel-URL"
+  },
   "No_update_found__sry_": {
     "message": "Keine Updates gefunden!"
   },
@@ -817,6 +859,27 @@
   "User_excludes": {
     "message": "Benutzer-Exclude"
   },
+  "Original_domain_whitelist": {
+      "message": "Originale Domain-Positivlist"
+  },
+  "User_domain_whitelist": {
+      "message": "Benutzer-definierte Domain-Positivlist"
+  },
+  "Temporary_domain_whitelist": {
+      "message": "Temporäre Domain-Positivlist"
+  },
+  "User_domain_blacklist": {
+      "message": "Domain-Negativlist"
+  },
+  "Deny_once": {
+      "message": "Einmal blockieren"
+  },
+  "Deny_domain": {
+      "message": "Immer blockieren"
+  },
+  "XHR_Security": {
+      "message": "XHR-Sicherheit"
+  },
   "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
     "message": "Ein interner Fehler ist aufgetreten. Bitte melden Sie dieses Problem im Tampermonkey-Forum, falls es auch nach einem Neustart von Chrome weiterhin besteht.\n\nWollen Sie das Forum jetzt besuchen?"
   },
@@ -861,6 +924,18 @@
   },
   "Tampermonkey_can_not_work_when_javascript_is_disabled": {
     "message": "Tampermonkey kann nicht arbeiten, wenn auf einer Seite kein Javascript aktiviert ist. Diese Option erlaubt TM diese Einstellung zu überschreiben, falls Javascript z.B. durch einen Script-Blocker deaktiviert wurde. Hiervon sind nur direkt in der Seite enthaltenen Scripte betroffen. "
+  },
+  "Subresource_Integrity": {
+    "message": "Integrität externer Ressourcen"
+  },
+  "Validate_if_supported": {
+    "message": "Validierung wenn möglich"
+  },
+  "Validate_if_given": {
+    "message": "Validierung wenn angegeben"
+  },
+  "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
+    "message": "Script-Autoren können externe Ressourcen mittels eines SRI Hashes absichern."
   },
   "Yes": {
     "message": "Ja"
