@@ -56,7 +56,7 @@
   "Invalid_UserScript_name__Sry_": {
     "message": "Érvénytelen UserScript név. Bocsi!"
   },
-  "Script_name_0url0": {
+  "Script_name_0name0": {
     "message": "Szkript neve: $name$",
     "placeholders": {
       "name": {

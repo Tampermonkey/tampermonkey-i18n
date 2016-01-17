@@ -578,7 +578,7 @@
   "Script_Update": {
     "message": "Mise à jour des scripts"
   },
-  "Script_name_0url0": {
+  "Script_name_0name0": {
     "message": "Nom du script : $name$",
     "placeholders": {
       "name": {

@@ -56,7 +56,7 @@
   "Invalid_UserScript_name__Sry_": {
     "message": "无效的 UserScript 脚本名称！"
   },
-  "Script_name_0url0": {
+  "Script_name_0name0": {
     "message": "脚本名称： $name$",
     "placeholders": {
       "name": {
@@ -727,7 +727,7 @@
   "One_error_or_hint_was_found_": {
     "message": "发现了一个错误或提示。"
   },
-  "0x0_errors_or_hints_were_found_": {
+  "0count0_errors_or_hints_were_found_": {
     "message": "发现了$count$ 个错误或提示。",
     "placeholders": {
       "count": {

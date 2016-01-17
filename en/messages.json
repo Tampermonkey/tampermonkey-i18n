@@ -56,7 +56,7 @@
   "Invalid_UserScript_name__Sry_": {
     "message": "Invalid UserScript name. Sry!"
   },
-  "Script_name_0url0": {
+  "Script_name_0name0": {
     "message": "Script name: $name$",
     "placeholders": {
       "name": {
@@ -191,6 +191,56 @@
   },
   "Process_with_Chrome": {
     "message": "Process with Chrome"
+  },
+  "Enforce": {
+    "message": "Enforce"
+  },
+  "connect_src_mode": {
+    "message": "@connect-src mode"
+  },
+  "Ask_if_unknown": {
+    "message": "Ask if unknown"
+  },
+  "Strict": {
+    "message": "Strict"
+  },
+  "Allow_once": {
+    "message": "Allow once"
+  },
+  "Allow_temporarily": {
+    "message": "Allow temporarily"
+  },
+  "Allow": {
+    "message": "Allow"
+  },
+  "Allow_domain": {
+    "message": "Allow domain"
+  },
+  "Focus_tab": {
+    "message": "Focus source tab"
+  },
+  "Deny": {
+    "message": "Deny"
+  },
+  "Skip_timeout__0seconds0_seconds_": {
+    "message": "Skip timeout ($seconds$ seconds)",
+    "placeholders": {
+      "seconds": {
+        "content": "$1"
+      }
+    }
+  },
+  "A_userscript_wants_to_access_a_cross_origin_resource_": {
+    "message": "A userscript wants to access a cross-origin resource."
+  },
+  "Tab_URL": {
+    "message": "Tab URL"
+  },
+  "Destination_domain": {
+    "message": "Destination domain"
+  },
+  "Destination_URL": {
+    "message": "Destination URL"
   },
   "No_update_found__sry_": {
     "message": "No update found, sry!"
@@ -542,6 +592,9 @@
   "Editor": {
     "message": "Editor"
   },
+  "Theme": {
+    "message": "Theme"
+  },
   "Key_Mapping": {
     "message": "Key Mapping"
   },
@@ -556,6 +609,14 @@
   },
   "Vim": {
     "message": "Vim"
+  },
+  "Please_check_the_0editor0_documentation_for_more_details_": {
+    "message": "Please check the $editor$ documentation for more details.",
+    "placeholders": {
+      "editor": {
+        "content": "$1"
+      }
+    }
   },
   "Indentation_Width": {
     "message": "Indentation Width"
@@ -745,7 +806,7 @@
   "One_error_or_hint_was_found_": {
     "message": "One error or hint was found."
   },
-  "0x0_errors_or_hints_were_found_": {
+  "0count0_errors_or_hints_were_found_": {
     "message": "$count$ errors or hints were found.",
     "placeholders": {
       "count": {
@@ -854,6 +915,27 @@
   "User_excludes": {
     "message": "User excludes"
   },
+  "Original_domain_whitelist": {
+      "message": "Original domain whitelist"
+  },
+  "User_domain_whitelist": {
+      "message": "User domain whitelist"
+  },
+  "Temporary_domain_whitelist": {
+      "message": "Temporary domain whitelist"
+  },
+  "User_domain_blacklist": {
+      "message": "User domain blacklist"
+  },
+  "Deny_once": {
+      "message": "Deny once"
+  },
+  "Deny_domain": {
+      "message": "Deny domain"
+  },
+  "XHR_Security": {
+      "message": "XHR Security"
+  },
   "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
     "message": "An internal error occured. If this problem persists even after a restart of Chrome, please press OK and report this issue at the forum.\n\nDo you want to visit the Tampermonkey forum?"
   },
@@ -898,6 +980,18 @@
   },
   "Tampermonkey_can_not_work_when_javascript_is_disabled": {
     "message": "Tampermonkey can't work when Javascript is disabled at a page where a script should run on. This settings allows TM to overwrite this setting that either was made by you or a script blocker. This does only affects inline scripts from the page but not remote scripts."
+  },
+  "Subresource_Integrity": {
+    "message": "Subresource Integrity"
+  },
+  "Validate_if_supported": {
+    "message": "Validate if possible"
+  },
+  "Validate_if_given": {
+    "message": "Validate if given"
+  },
+  "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
+    "message": "Script authors can secure external resources by adding a SRI hash to the source URL."
   },
   "Yes": {
     "message": "Yes"
