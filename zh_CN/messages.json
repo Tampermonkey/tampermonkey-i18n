@@ -192,6 +192,56 @@
   "Process_with_Chrome": {
     "message": "安装在 Chrome"
   },
+  "Enforce": {
+    "message": "强制"
+  },
+  "connect_src_mode": {
+    "message": "@connect-src模式"
+  },
+  "Ask_if_unknown": {
+    "message": "未知时询问"
+  },
+  "Strict": {
+    "message": "严格"
+  },
+  "Allow_once": {
+    "message": "允许一次"
+  },
+  "Allow_temporarily": {
+    "message": "临时允许"
+  },
+  "Allow": {
+    "message": "允许"
+  },
+  "Allow_domain": {
+    "message": "允许域名"
+  },
+  "Focus_tab": {
+    "message": "聚焦到源码标签"
+  },
+  "Deny": {
+    "message": "拒绝"
+  },
+  "Skip_timeout__0seconds0_seconds_": {
+    "message": "跳过超时（$seconds$ 秒）",
+    "placeholders": {
+      "seconds": {
+        "content": "$1"
+      }
+    }
+  },
+  "A_userscript_wants_to_access_a_cross_origin_resource_": {
+    "message": "一个用户脚本试图访问跨源资源。"
+  },
+  "Tab_URL": {
+    "message": "标签URL"
+  },
+  "Destination_domain": {
+    "message": "目标域名"
+  },
+  "Destination_URL": {
+    "message": "目标URL"
+  },
   "No_update_found__sry_": {
     "message": "暂时没有更新，等会儿再来吧~"
   },
@@ -289,6 +339,12 @@
   },
   "Comment": {
     "message": "注释"
+  },
+  "Details": {
+    "message": "详情"
+  },
+  "UUID": {
+    "message": "UUID"
   },
   "Apply_compatibility_options_to_required_script_too": {
     "message": "也应用兼容性选项到 @require 脚本"
@@ -536,17 +592,31 @@
   "Editor": {
     "message": "编辑器"
   },
+  "Theme": {
+    "message": "主题"
+  },
   "Key_Mapping": {
     "message": "按键映射"
   },
   "Windows": {
     "message": "Windows"
   },
+  "Sublime": {
+    "message": "Sublime Text"
+  },
   "Emacs": {
     "message": "Emacs"
   },
   "Vim": {
     "message": "Vim"
+  },
+  "Please_check_the_0editor0_documentation_for_more_details_": {
+    "message": "请检查$editor$文档以获取更多信息。",
+    "placeholders": {
+      "editor": {
+        "content": "$1"
+      }
+    }
   },
   "Indentation_Width": {
     "message": "缩进宽度"
@@ -662,6 +732,15 @@
   "Both": {
     "message": "同时"
   },
+  "Experimental": {
+    "message": "实验"
+  },
+  "strict_mode": {
+    "message": "严格模式"
+  },
+  "strong_mode": {
+    "message": "增强模式"
+  },
   "This_page_is_blacklisted_at_the_security_settings": {
     "message": "被安全设置列入黑名单"
   },
@@ -734,6 +813,21 @@
         "content": "$1"
       }
     }
+  },
+  "Auto_syntax_check_on_typing": {
+    "message": "在输入时自动拼写检查"
+  },
+  "Enable_this_option_to_automatically_check_the_code_on_typing_": {
+    "message": "启用此选项以在输入时自动检查代码。"
+  },
+  "Auto_syntax_check_max_length": {
+    "message": "自动语法检查最大长度"
+  },
+  "Check_only_scripts_up_to_this_size_automatically_": {
+    "message": "只检查大于此长度的脚本。"
+  },
+  "Highlight_trailing_whitespace": {
+    "message": "高亮结尾的空格"
   },
   "Dashboard": {
     "message": "仪表盘"
@@ -821,6 +915,27 @@
   "User_excludes": {
     "message": "用户排除"
   },
+  "Original_domain_whitelist": {
+      "message": "源域名白名单"
+  },
+  "User_domain_whitelist": {
+      "message": "用户域名白名单"
+  },
+  "Temporary_domain_whitelist": {
+      "message": "临时域名白名单"
+  },
+  "User_domain_blacklist": {
+      "message": "用户域名黑名单"
+  },
+  "Deny_once": {
+      "message": "拒绝一次"
+  },
+  "Deny_domain": {
+      "message": "拒绝域名"
+  },
+  "XHR_Security": {
+      "message": "XHR安全"
+  },
   "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
     "message": "发生一个内部错误。如果这个问题在重启 Chrome 后继续出现，请按“确定”并在论坛中报告这个问题。\n\n您是否想访问 Tampermonkey 论坛？"
   },
@@ -865,6 +980,18 @@
   },
   "Tampermonkey_can_not_work_when_javascript_is_disabled": {
     "message": "Tampermonkey 在脚本应该运行在的页面上的 javascript 被禁用时不能工作。这个设置让 TM 可以覆盖这个由您或脚本拦截器所做出的设置。这个只会影响来自页面的内联脚本而不会影响远程脚本。"
+  },
+  "Subresource_Integrity": {
+    "message": "子资源完整性"
+  },
+  "Validate_if_supported": {
+    "message": "检查是否可能（受支持）"
+  },
+  "Validate_if_given": {
+    "message": "检查是否给出"
+  },
+  "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
+    "message": "脚本作者可通过添加SRI hash到源URL保证外部资源安全。"
   },
   "Yes": {
     "message": "是"
