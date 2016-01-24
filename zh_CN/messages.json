@@ -207,19 +207,19 @@
   "Allow_once": {
     "message": "允许一次"
   },
-  "Allow_temporarily": {
+  "Temporarily_allow": {
     "message": "临时允许"
   },
-  "Allow": {
+  "Always_allow": {
     "message": "允许"
   },
-  "Allow_domain": {
+  "Always_allow_domain": {
     "message": "允许域名"
   },
   "Focus_tab": {
     "message": "聚焦到源码标签"
   },
-  "Deny": {
+  "Always_forbid": {
     "message": "拒绝"
   },
   "Skip_timeout__0seconds0_seconds_": {
@@ -927,10 +927,10 @@
   "User_domain_blacklist": {
       "message": "用户域名黑名单"
   },
-  "Deny_once": {
+  "Forbid_once": {
       "message": "拒绝一次"
   },
-  "Deny_domain": {
+  "Always_forbid_domain": {
       "message": "拒绝域名"
   },
   "XHR_Security": {
