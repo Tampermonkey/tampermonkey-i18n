@@ -162,32 +162,50 @@
   "Enforce": {
     "message": "Erzwingen"
   },
+  "Strict": {
+    "message": "Streng"
+  },
   "connect_src_mode": {
     "message": "@connect-src-Modus"
   },
   "Ask_if_unknown": {
     "message": "Nachfragen"
   },
-  "Strict": {
-    "message": "Streng"
+  "Always_ask": {
+    "message": "Immer nachfragen"
+  },
+  "Casual": {
+    "message": "Locker"
   },
   "Allow_once": {
     "message": "Einmal erlauben"
   },
-  "Allow_temporarily": {
+  "Temporarily_allow": {
     "message": "Temporär erlauben"
   },
-  "Allow": {
+  "Always_allow": {
     "message": "Immer erlauben"
   },
-  "Allow_domain": {
-    "message": "Diese Domain erlauben"
+  "Always_allow_domain": {
+    "message": "Diese Domain immer erlauben"
+  },
+  "Always_allow_all_domains": {
+    "message": "Alle Domains immer erlauben"
+  },
+ "Forbid_once": {
+      "message": "Einmal verbieten"
+  },
+  "Always_forbid": {
+      "message": "Immer verbieten"
+  },
+  "Always_forbid_domain": {
+      "message": "Diese Domain immer verbieten"
+  },
+  "Dont_ask_again": {
+      "message": "Nicht mehr nachfragen"
   },
   "Focus_tab": {
     "message": "Herkunfts-Tab fokusieren"
-  },
-  "Deny": {
-    "message": "Verbieten"
   },
   "A_userscript_wants_to_access_a_cross_origin_resource_": {
     "message": "Ein Userscript möchte eine fremde Ressource laden."
@@ -200,6 +218,9 @@
   },
   "Destination_URL": {
     "message": "Anfrageziel-URL"
+  },
+  "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
+    "message": "Dies gibt dem Script die Erlaubnis Daten von und zu jeder beliebigen Webseite zu übertragen. Das kann die Sicherheit der von Ihnen verwendeten Seiten einschränken!\n\nSind Sie sicher, dass sie fortfahren möchten?"
   },
   "No_update_found__sry_": {
     "message": "Keine Updates gefunden!"
@@ -870,12 +891,6 @@
   },
   "User_domain_blacklist": {
       "message": "Domain-Negativlist"
-  },
-  "Deny_once": {
-      "message": "Einmal blockieren"
-  },
-  "Deny_domain": {
-      "message": "Immer blockieren"
   },
   "XHR_Security": {
       "message": "XHR-Sicherheit"

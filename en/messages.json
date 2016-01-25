@@ -193,7 +193,10 @@
     "message": "Process with Chrome"
   },
   "Enforce": {
-    "message": "Enforce"
+    "message": "enforce"
+  },
+  "Strict": {
+    "message": "Strict"
   },
   "connect_src_mode": {
     "message": "@connect-src mode"
@@ -201,26 +204,41 @@
   "Ask_if_unknown": {
     "message": "Ask if unknown"
   },
-  "Strict": {
-    "message": "Strict"
+  "Always_ask": {
+    "message": "Always ask"
+  },
+  "Casual": {
+    "message": "Casual"
   },
   "Allow_once": {
     "message": "Allow once"
   },
-  "Allow_temporarily": {
-    "message": "Allow temporarily"
+  "Temporarily_allow": {
+    "message": "Temporarily allow"
   },
-  "Allow": {
-    "message": "Allow"
+  "Always_allow": {
+    "message": "Always allow"
   },
-  "Allow_domain": {
-    "message": "Allow domain"
+  "Always_allow_domain": {
+    "message": "Always allow domain"
+  },
+  "Always_allow_all_domains": {
+    "message": "Always allow all domains"
+  },
+  "Forbid_once": {
+      "message": "Forbid once"
+  },
+  "Always_forbid": {
+      "message": "Always forbid"
+  },
+  "Always_forbid_domain": {
+      "message": "Always forbid domain"
+  },
+  "Dont_ask_again": {
+      "message": "Don't ask again"
   },
   "Focus_tab": {
     "message": "Focus source tab"
-  },
-  "Deny": {
-    "message": "Deny"
   },
   "Skip_timeout__0seconds0_seconds_": {
     "message": "Skip timeout ($seconds$ seconds)",
@@ -241,6 +259,9 @@
   },
   "Destination_URL": {
     "message": "Destination URL"
+  },
+  "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
+    "message": "This gives this script the permission to retrieve and send data from and to every webpage. This is potentially unsafe!\n\nAre you sure you want to continue?"
   },
   "No_update_found__sry_": {
     "message": "No update found, sry!"
@@ -926,12 +947,6 @@
   },
   "User_domain_blacklist": {
       "message": "User domain blacklist"
-  },
-  "Deny_once": {
-      "message": "Deny once"
-  },
-  "Deny_domain": {
-      "message": "Deny domain"
   },
   "XHR_Security": {
       "message": "XHR Security"
