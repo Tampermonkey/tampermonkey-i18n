@@ -195,14 +195,20 @@
   "Enforce": {
     "message": "强制"
   },
+  "Strict": {
+    "message": "严格"
+  },
   "connect_src_mode": {
     "message": "@connect-src模式"
   },
   "Ask_if_unknown": {
     "message": "未知时询问"
   },
-  "Strict": {
-    "message": "严格"
+  "Always_ask": {
+    "message": "总是询问"
+  },
+  "Casual": {
+    "message": "宽松"
   },
   "Allow_once": {
     "message": "允许一次"
@@ -216,11 +222,23 @@
   "Always_allow_domain": {
     "message": "允许域名"
   },
-  "Focus_tab": {
-    "message": "聚焦到源码标签"
+  "Always_allow_all_domains": {
+    "message": "总是允许域名"
+  },
+  "Forbid_once": {
+      "message": "阻止一次"
   },
   "Always_forbid": {
     "message": "拒绝"
+  },
+  "Always_forbid_domain": {
+      "message": "总是阻止域名"
+  },
+  "Dont_ask_again": {
+      "message": "不再询问"
+  },
+  "Focus_tab": {
+    "message": "聚焦到源码标签"
   },
   "Skip_timeout__0seconds0_seconds_": {
     "message": "跳过超时（$seconds$ 秒）",
@@ -241,6 +259,9 @@
   },
   "Destination_URL": {
     "message": "目标URL"
+  },
+ "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
+    "message": "这给予此脚本在所有页面接收和发送数据的权限。这可能不安全！\n\n您确定要继续吗？"
   },
   "No_update_found__sry_": {
     "message": "暂时没有更新，等会儿再来吧~"
@@ -926,12 +947,6 @@
   },
   "User_domain_blacklist": {
       "message": "用户域名黑名单"
-  },
-  "Forbid_once": {
-      "message": "拒绝一次"
-  },
-  "Always_forbid_domain": {
-      "message": "拒绝域名"
   },
   "XHR_Security": {
       "message": "XHR安全"
