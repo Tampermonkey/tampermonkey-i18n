@@ -353,9 +353,6 @@
   "This_script_runs_in_Chrome_mode": {
     "message": "Цей скрипт працює в режимі Chrome"
   },
-  "This_only_changes_the_user_agent_string": {
-    "message": "Цей пункт змінює параметр User-Agent для включенийих сторінок"
-  },
   "This_is_a_userscript": {
     "message": "Це користувацький скрипт написаний на Javascript"
   },
@@ -724,12 +721,6 @@
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "Дозволити HTTP заголовкам змінювати скрипти."
   },
-  "Allow_overwrite_javascript_settings": {
-    "message": "Дозволити перекривати параметри JavaScript"
-  },
-  "Tampermonkey_can_not_work_when_javascript_is_disabled": {
-    "message": "Tampermonkey не может запустить скрипт на сторінці де Javascript відключений. Це налаштування можете змінити тільки ви чи інша програма блокуюча скрипти. Це впливає тільки на вбудовані скрипти (inline) із сторінки, без видалення їх."
-  },
   "Yes": {
     "message": "Так"
   },
@@ -759,15 +750,6 @@
   },
   "Really_delete_the_selected_items_": {
     "message": "Вы дійсно хочете видалити вибрані пункти?"
-  },
-  "A_script_blocker_was_detected_": {
-    "message": "Був виявлений блокувальник скриптів."
-  },
-  "Click_here_to_allow_TM_to_override_the_script_blocker": {
-    "message": "Натисніть сюди, щоб Tampermonkey перевизначив параметри заблокованих скриптів!"
-  },
-  "Please_reload_this_page_in_order_to_run_your_userscripts_": {
-    "message": "Перезавантажте цю сторіноку для запуску ваших скриптів."
   },
   "Reset_Section": {
     "message": "Перезавантаження"

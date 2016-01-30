@@ -53,9 +53,6 @@
   "A_reload_is_required": {
     "message": "Uma recarga é necessária: \nTodas as mudanças não salvas serão perdidas!"
   },
-  "A_script_blocker_was_detected_": {
-    "message": "Um bloqueador de scripts foi detectado!"
-  },
   "Action": {
     "message": "Ação"
   },
@@ -96,9 +93,6 @@
   },
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "Permitir cabeçalhos HTTP serem modificados por scripts"
-  },
-  "Allow_overwrite_javascript_settings": {
-    "message": "Permitir sobrescrita de opções de bloqueadores de script"
   },
   "An_error_occured_during_import_": {
     "message": "Um erro ocorreu durante a importação. Por favor, cheque o console para mais informações! (CTRL+SHIFT+J)"
@@ -206,9 +200,6 @@
   },
   "Classic": {
     "message": "Clássico"
-  },
-  "Click_here_to_allow_TM_to_override_the_script_blocker": {
-    "message": "Para permitir que seu script seja executado você precisa clicar aqui para permitir que o Tampermonkey sobrescreva a opção do bloqueador de scripts!"
   },
   "Click_here_to_allow_TM_to_start_downloads": {
     "message": "Clique em OK para permitir o Tampermonkey para iniciar downloads instantâneos."
@@ -577,9 +568,6 @@
   "Please_double_check_the_native_script_import_settings__": {
     "message": "Não foi possível carregar o UserScript!\n\nPor favor, cheque as opção de 'Importação de Script Nativo'."
   },
-  "Please_reload_this_page_in_order_to_run_your_userscripts_": {
-    "message": "Recarregue esta página para executar o seu Userscript."
-  },
   "Please_wait___": {
     "message": "Por favor, espere..."
   },
@@ -747,9 +735,6 @@
       }
     }
   },
-  "Tampermonkey_can_not_work_when_javascript_is_disabled": {
-    "message": "Tampermonkey não pode funcionar quando o javascript está desativado em uma página onde deveria ser executado. Esta opção permite que o TM sobrescreva esta opção que foi feita por você ou um bloqueador de script. Isto afeta apenas scripts 'inline' da página e não scripts remotos."
-  },
   "Tampermonkey_has_no_file_access_permission_": {
     "message": "Tampermonkey não tem permissão para acessar arquivos locais!"
   },
@@ -804,9 +789,6 @@
   },
   "This_is_a_userscript": {
     "message": "Este é um Userscript escrito em JavaScript"
-  },
-  "This_only_changes_the_user_agent_string": {
-    "message": "Este item somente muda o User-Agent para as páginas incluídas"
   },
   "This_page_is_blacklisted_at_the_security_settings": {
     "message": "Listado pelas opções de segurança"

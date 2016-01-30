@@ -391,9 +391,6 @@
   "This_script_runs_in_Chrome_mode": {
     "message": "Questo script gira in modalità Chrome"
   },
-  "This_only_changes_the_user_agent_string": {
-    "message": "Questa voce modifica solo lo User-Agent per le pagine web incluse"
-  },
   "This_is_a_userscript": {
     "message": "Questo è uno script utente scritto in Javascript"
   },
@@ -825,12 +822,6 @@
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "Permette agli script di modificare gli header HTTP"
   },
-  "Allow_overwrite_javascript_settings": {
-    "message": "Permette la sovrascrittura delle impostazioni degli scriptblocker"
-  },
-  "Tampermonkey_can_not_work_when_javascript_is_disabled": {
-    "message": "Tampermonkey non può funzionare quando Javascript è disabilitato in una pagina dove uno script dovrebbe girare. Questa permette a TM di sovrascrivere l'impostazione impostata da te o da una script blocker. Questo influenza solo gli script inline della pagina e non quelli remoti."
-  },
   "Yes": {
     "message": "Sì"
   },
@@ -863,15 +854,6 @@
   },
   "Really_delete_the_selected_items_": {
     "message": "Vuoi davvero eliminare le voci selezionate?"
-  },
-  "A_script_blocker_was_detected_": {
-    "message": "É stato rilvato uno script blocker!"
-  },
-  "Click_here_to_allow_TM_to_override_the_script_blocker": {
-    "message": "Per permettere ai tuoi script di funzionare devi cliccare qui per dare modo a Tampermonkey di aggirare l'impostazione dello script blocker!"
-  },
-  "Please_reload_this_page_in_order_to_run_your_userscripts_": {
-    "message": "Ricarica questa pagina per eseguire i tuoi script."
   },
   "Reset_Section": {
     "message": "Ripristina"

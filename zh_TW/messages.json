@@ -391,9 +391,6 @@
   "This_script_runs_in_Chrome_mode": {
     "message": "此腳本運行於 Chrome 模式"
   },
-  "This_only_changes_the_user_agent_string": {
-    "message": "此項目只會對收錄的網頁更動 User-Agent"
-  },
   "This_is_a_userscript": {
     "message": "這個使用者腳本是用 Javascript 寫的"
   },
@@ -819,12 +816,6 @@
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "允許腳本修改 HTTP 標頭"
   },
-  "Allow_overwrite_javascript_settings": {
-    "message": "允許覆蓋 scriptblocker 設定"
-  },
-  "Tampermonkey_can_not_work_when_javascript_is_disabled": {
-    "message": "Tampermonkey 不能運行在 Javascript 被停用的頁面。這些設定允許 TM 覆蓋你或者 script blocker 做的的設定。此選項只會影響行內腳本而非遠端腳本。"
-  },
   "Yes": {
     "message": "是"
   },
@@ -857,15 +848,6 @@
   },
   "Really_delete_the_selected_items_": {
     "message": "確定要移除所選的項目嗎？"
-  },
-  "A_script_blocker_was_detected_": {
-    "message": "偵測到1個腳本禁用器！"
-  },
-  "Click_here_to_allow_TM_to_override_the_script_blocker": {
-    "message": "為了允許腳本運行，按此讓 Tampermonkey 覆寫腳本禁用器的設定！"
-  },
-  "Please_reload_this_page_in_order_to_run_your_userscripts_": {
-    "message": "請重新載入此頁以運行使用者腳本。"
   },
   "Reset_Section": {
     "message": "重設"

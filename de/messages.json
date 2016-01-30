@@ -165,8 +165,8 @@
   "Strict": {
     "message": "Streng"
   },
-  "connect_src_mode": {
-    "message": "@connect-src-Modus"
+  "connect_mode": {
+    "message": "@connect-Modus"
   },
   "Ask_if_unknown": {
     "message": "Nachfragen"
@@ -207,8 +207,27 @@
   "Focus_tab": {
     "message": "Herkunfts-Tab fokusieren"
   },
+  "Skip_timeout__0seconds0_seconds_": {
+    "message": "Countdown stoppen ($seconds$ seconds)",
+    "placeholders": {
+      "seconds": {
+        "content": "$1"
+      }
+    }
+  },
   "A_userscript_wants_to_access_a_cross_origin_resource_": {
     "message": "Ein Userscript möchte eine fremde Ressource laden."
+  },
+  "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
+    "message": "Es ist nichts Ungewöhnliches, wenn ein Script domänenübergreifende Zugriffe ausführt.\nSie sollten lediglich überlegen, ob dieses Script Zugriff auf die oben genannte Domain benötigt.\nEin Zugriff z.B. auf die Web-Seite ihrer Bank ist wahrscheinlich nur seltenen Fällen nötig.\n\nUserscript-Autoren sollten beachten, dass dieser Dialog durch das Hinzufügen von [url=$connect$]@connect Anweisungen[/url] fast immer vermieden werden kann.\n\nEgal wie Sie nun entscheiden: Sie können Ihre Meinung jederzeit auf der [url=$settings$]Einstellungsseite[/url] dieses Scripts ändern.",
+    "placeholders": {
+      "connect": {
+        "content": "$1"
+      },
+      "settings": {
+        "content": "$2"
+      }
+    }
   },
   "Tab_URL": {
     "message": "Tab URL"
@@ -439,9 +458,6 @@
   "This_script_runs_in_Chrome_mode": {
     "message": "Dieses Script läuft im Chrome-Modus."
   },
-  "This_only_changes_the_user_agent_string": {
-    "message": "Dieses Element verändert den User-Agent bei allen inkludierten Seiten."
-  },
   "This_is_a_userscript": {
     "message": "Dieses Element ist ein Userscript geschrieben in JavaScript."
   },
@@ -571,6 +587,9 @@
   },
   "Editor": {
     "message": "Editor"
+  },
+  "Font_Size": {
+    "message": "Schriftgröße"
   },
   "Theme": {
     "message": "Theme"
@@ -934,12 +953,6 @@
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "Modifikation der HTTP-Header durch Scripte erlauben"
   },
-  "Allow_overwrite_javascript_settings": {
-    "message": "Überschreiben der Javascript-Einstellungen erlauben"
-  },
-  "Tampermonkey_can_not_work_when_javascript_is_disabled": {
-    "message": "Tampermonkey kann nicht arbeiten, wenn auf einer Seite kein Javascript aktiviert ist. Diese Option erlaubt TM diese Einstellung zu überschreiben, falls Javascript z.B. durch einen Script-Blocker deaktiviert wurde. Hiervon sind nur direkt in der Seite enthaltenen Scripte betroffen. "
-  },
   "Subresource_Integrity": {
     "message": "Integrität externer Ressourcen"
   },
@@ -985,20 +998,14 @@
   "Really_delete_the_selected_items_": {
     "message": "Sollen wirklich alle ausgewählten Elemente gelöscht werden?"
   },
-  "A_script_blocker_was_detected_": {
-    "message": "Ein Script-Blocker wurde entdeckt!"
-  },
-  "Click_here_to_allow_TM_to_override_the_script_blocker": {
-    "message": "Ein Klick hier her erlaubt Tampermonkey die Einstellungen des Script-Blockers zu überschreiben."
-  },
-  "Please_reload_this_page_in_order_to_run_your_userscripts_": {
-    "message": "Bitte laden Sie die Seite neu, damit die Userscripte ausgeführt werden können."
-  },
   "Reset_Section": {
     "message": "Reset"
   },
   "Restart_Tampermonkey": {
     "message": "Neustart"
+  },
+  "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
+    "message": "Tampermonkey muss neu gestartet werden um diese Änderung anzuwenden.\n\nSind Sie sicher, dass sie fortfahren möchten??"
   },
   "This_will_restart_Tampermonkey_Ok_": {
     "message": "Tampermonkey jetzt neustarten?"

@@ -64,9 +64,6 @@
     "A_reload_is_required": {
         "message": "Vyžaduje sa znovanačítanie: \nVšetky neuložené zmeny sa stratia!"
     },
-    "A_script_blocker_was_detected_": {
-        "message": "Bol detegovaný blokovač skriptov!"
-    },
     "Action": {
         "message": "Akcia"
     },
@@ -107,9 +104,6 @@
     },
     "Allow_headers_to_be_modified_by_scripts": {
         "message": "Povoliť úpravu HTTP hlaviček skriptami"
-    },
-    "Allow_overwrite_javascript_settings": {
-        "message": "Povoliť prepísanie nastavení blokovača skriptov"
     },
     "Always": {
         "message": "Vždy"
@@ -220,9 +214,6 @@
     },
     "Classic": {
         "message": "Klasický"
-    },
-    "Click_here_to_allow_TM_to_override_the_script_blocker": {
-        "message": "Aby mohli vaše skripty bežať, musíte povoliť prepis nastavení blokovača skriptov pomocou Tampermonkey!"
     },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Kliknite na OK, aby mohol Tampermonkey okamžite sťahovať súbory."
@@ -603,9 +594,6 @@
     "Please_double_check_the_native_script_import_settings__": {
         "message": "Skript sa nedá načítať!\n\nProsím, prekontrolujte v nastaveniach 'Natívny import skriptov'."
     },
-    "Please_reload_this_page_in_order_to_run_your_userscripts_": {
-        "message": "Prosím, obnovte túto stránku pre spustenie vašich skriptov."
-    },
     "Please_wait___": {
         "message": "Čakajte prosím..."
     },
@@ -779,9 +767,6 @@
             }
         }
     },
-    "Tampermonkey_can_not_work_when_javascript_is_disabled": {
-        "message": "Tampermonkey nefunguje na stránke, kde je zakázaný JavaScript. Táto možnosť umožní TM prepísať toto nastavenie, či ste ho už nastavili vy alebo blokovač skriptov. Toto ovplyvní iba riadkové skripty na stránke, vzdialené skripty nie."
-    },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey nemá oprávnenie pristupovať k lokálnym súborom!"
     },
@@ -836,9 +821,6 @@
     },
     "This_is_a_userscript": {
         "message": "Toto je skript napísaný v JavaScripte"
-    },
-    "This_only_changes_the_user_agent_string": {
-        "message": "Táto položka mení User-Agenta len includes stránok"
     },
     "This_page_is_blacklisted_at_the_security_settings": {
         "message": "Blokované kvôli nastaveniu zabezpečenia"

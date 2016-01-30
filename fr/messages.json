@@ -50,9 +50,6 @@
   "A_reload_is_required": {
     "message": "Un rechargement est nécessaire : \nLes modifications non sauvegardées seront perdues !"
   },
-  "A_script_blocker_was_detected_": {
-    "message": "Un bloqueur de script a été détecté!"
-  },
   "Actions": {
     "message": "Actions"
   },
@@ -90,9 +87,6 @@
   },
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "Autoriser la modification par les scripts des en-têtes HTTP"
-  },
-  "Allow_overwrite_javascript_settings": {
-    "message": "Autoriser l'écrasement des paramètres du bloqueur de script"
   },
   "An_error_occured_during_import_": {
     "message": "Une erreur est survenue lors de l'importation. Vérifier la console pour plus d'info! (CTRL+SHIFT+J)"
@@ -176,9 +170,6 @@
   },
   "Classic": {
     "message": "Classic"
-  },
-  "Click_here_to_allow_TM_to_override_the_script_blocker": {
-    "message": "Pour autoriser le fonctionnement de vos scripts, vous devez cliquer ici pour autoriser Tampermonkey à remplacer le bloqueur!"
   },
   "Click_here_to_install_it_": {
     "message": "Cliquer ici pour l'installer."
@@ -508,9 +499,6 @@
   "Please_double_check_the_native_script_import_settings__": {
     "message": "Impossible de lire le script !\n\nVérifier les paramétrages 'Import script natif'."
   },
-  "Please_reload_this_page_in_order_to_run_your_userscripts_": {
-    "message": "Veuillez recharger cette page pour démarrer le script."
-  },
   "Please_wait___": {
     "message": "Veuillez patienter..."
   },
@@ -651,9 +639,6 @@
       }
     }
   },
-  "Tampermonkey_can_not_work_when_javascript_is_disabled": {
-    "message": "Tampermonkey ne peut fonctionner que si le javascript est désactivé sur une page où un script doit tourner. Ce paramètre permet à TM d'écraser ce paramètre. Ceci n'affecte que les scripts interne de la page et non les scripts distants."
-  },
   "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
     "message": "Tampermonkey ne peut peut-être pas donner accès au contenu non sécurisé (les fonctions/variables unsafeWindow) quand ceci est éteint."
   },
@@ -699,9 +684,6 @@
   },
   "This_is_a_userscript": {
     "message": "Ceci est un script écrit en Javascript"
-  },
-  "This_only_changes_the_user_agent_string": {
-    "message": "Cet élément ne fait que changer le User-Agent pour les pages incluses"
   },
   "This_page_is_blacklisted_at_the_security_settings": {
     "message": "Blacklisté par les paramètres de sécurité"

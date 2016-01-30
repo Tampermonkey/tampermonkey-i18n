@@ -403,9 +403,6 @@
   "This_script_runs_in_Chrome_mode": {
     "message": "Ez a szkript Chrome üzemmódban fut "
   },
-  "This_only_changes_the_user_agent_string": {
-    "message": "Ez a szkript User-Agent –et csak a hozzárendelt weboldalakon módosítja "
-  },
   "This_is_a_userscript": {
     "message": "Ez egy userscript amely Javascript nyelven íródott"
   },
@@ -846,12 +843,6 @@
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "HTTP fejlécek szkript általi módosításának engedélyezése"
   },
-  "Allow_overwrite_javascript_settings": {
-    "message": "scriptblocker felülíró beállítások engedélyezése"
-  },
-  "Tampermonkey_can_not_work_when_javascript_is_disabled": {
-    "message": "Tampermonkey nem tud futni, ha a Javascript ki van kapcsolva azon az oldalon ahol a szkriptnek futnia kellene. Ez az opció engedélyezi a TM számára, hogy felülírja ezt a beállítást, amit vagy te, vagy egy script blocker állított be. Ez csak az inline típusú szkripteket érinti, távoli szkripteket nem"
-  },
   "Yes": {
     "message": "Igen"
   },
@@ -884,15 +875,6 @@
   },
   "Really_delete_the_selected_items_": {
     "message": "Biztosan törölni akarod a kijelölt elemeket?"
-  },
-  "A_script_blocker_was_detected_": {
-    "message": "Script blokkoló detektálva!"
-  },
-  "Click_here_to_allow_TM_to_override_the_script_blocker": {
-    "message": "Annak érdekében, hogy a userscript futhasson ide kell kattintanod, így engedélyezed a Tampermonkey számára a szkript blokkoló bállítások felülírását!"
-  },
-  "Please_reload_this_page_in_order_to_run_your_userscripts_": {
-    "message": "Kérlek töltsd újra ezt az oldalt a userscripteid futtatásához."
   },
   "Reset_Section": {
     "message": "Visszaállítás"
