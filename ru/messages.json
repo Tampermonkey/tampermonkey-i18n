@@ -353,9 +353,6 @@
   "This_script_runs_in_Chrome_mode": {
     "message": "Этот скрипт работает в режиме Chrome"
   },
-  "This_only_changes_the_user_agent_string": {
-    "message": "Этот пункт изменяет параметр User-Agent для включенных страниц"
-  },
   "This_is_a_userscript": {
     "message": "Это пользовательский скрипт написанный на Javascript"
   },
@@ -724,12 +721,6 @@
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "Разрешить HTTP заголовкам изменять скрипты."
   },
-  "Allow_overwrite_javascript_settings": {
-    "message": "Позволить перекрывать параметры JavaScript"
-  },
-  "Tampermonkey_can_not_work_when_javascript_is_disabled": {
-    "message": "Tampermonkey не может запустить скрипт на странице где Javascript отключен. Эту настройку можете изменить только вы или другая программа блокирующая скрипты. Это влияет только на встроенные скрипты (inline) со страницы, без удаления их."
-  },
   "Yes": {
     "message": "Да"
   },
@@ -759,15 +750,6 @@
   },
   "Really_delete_the_selected_items_": {
     "message": "Вы действительно хотите удалить выбранные пункты?"
-  },
-  "A_script_blocker_was_detected_": {
-    "message": "Был обнаружен блокиратор скриптов."
-  },
-  "Click_here_to_allow_TM_to_override_the_script_blocker": {
-    "message": "Нажмите сюда, чтобы Tampermonkey переопределил параметры блокируемых скриптов!"
-  },
-  "Please_reload_this_page_in_order_to_run_your_userscripts_": {
-    "message": "Перезагрузите эту страницу для запуска ваших скриптов."
   },
   "Reset_Section": {
     "message": "Перезагрузка"

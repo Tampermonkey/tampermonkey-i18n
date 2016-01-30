@@ -198,8 +198,8 @@
   "Strict": {
     "message": "Strict"
   },
-  "connect_src_mode": {
-    "message": "@connect-src mode"
+  "connect_mode": {
+    "message": "@connect mode"
   },
   "Ask_if_unknown": {
     "message": "Ask if unknown"
@@ -250,6 +250,17 @@
   },
   "A_userscript_wants_to_access_a_cross_origin_resource_": {
     "message": "A userscript wants to access a cross-origin resource."
+  },
+  "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
+    "message": "A request to a cross origin resource is nothing unusual.\nYou just have to check whether this script has a good reason to access this domain.\nFor example there are only a very few reasons for a userscript to contact your bank.\n\nPlease note that userscript authors can avoid this dialog by adding [url=$connect$]@connect tags[/url] to their scripts.\n\nNo matter how you'll decide, you can change your opinion at any time at the script's [url=$settings$]settings tab[/url].",
+    "placeholders": {
+      "connect": {
+        "content": "$1"
+      },
+      "settings": {
+        "content": "$2"
+      }
+    }
   },
   "Tab_URL": {
     "message": "Tab URL"
@@ -480,9 +491,6 @@
   "This_script_runs_in_Chrome_mode": {
     "message": "This script runs in Chrome mode"
   },
-  "This_only_changes_the_user_agent_string": {
-    "message": "This item only changes the User-Agent for the includes webpages"
-  },
   "This_is_a_userscript": {
     "message": "This is a userscript written in Javascript"
   },
@@ -612,6 +620,9 @@
   },
   "Editor": {
     "message": "Editor"
+  },
+  "Font_Size": {
+    "message": "Font Size"
   },
   "Theme": {
     "message": "Theme"
@@ -990,12 +1001,6 @@
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "Allow HTTP headers to be modified by scripts"
   },
-  "Allow_overwrite_javascript_settings": {
-    "message": "Allow overwrite scriptblocker settings"
-  },
-  "Tampermonkey_can_not_work_when_javascript_is_disabled": {
-    "message": "Tampermonkey can't work when Javascript is disabled at a page where a script should run on. This settings allows TM to overwrite this setting that either was made by you or a script blocker. This does only affects inline scripts from the page but not remote scripts."
-  },
   "Subresource_Integrity": {
     "message": "Subresource Integrity"
   },
@@ -1041,15 +1046,6 @@
   "Really_delete_the_selected_items_": {
     "message": "Do you really want to delete the selected items?"
   },
-  "A_script_blocker_was_detected_": {
-    "message": "A script blocker was detected!"
-  },
-  "Click_here_to_allow_TM_to_override_the_script_blocker": {
-    "message": "In order to allow your userscripts to run you need to click here to allow Tampermonkey to override the script blocker setting!"
-  },
-  "Please_reload_this_page_in_order_to_run_your_userscripts_": {
-    "message": "Please reload this page to run your userscripts."
-  },
   "Reset_Section": {
     "message": "Reset"
   },
@@ -1058,6 +1054,9 @@
   },
   "This_will_restart_Tampermonkey_Ok_": {
     "message": "Do you really want to restart Tampermonkey?"
+  },
+  "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
+    "message": "Tampermonkey needs to be restarted to make this change apply.\n\nDo you want to continue?"
   },
   "Factory_Reset": {
     "message": "Factory Reset"

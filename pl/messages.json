@@ -50,9 +50,6 @@
   "A_reload_is_required": {
     "message": "Konieczne jest ponowne załadowanie: \nWszystkie niezapisane zmiany zostaną utracone!"
   },
-  "A_script_blocker_was_detected_": {
-    "message": "Wykryto blokadę skryptów!"
-  },
   "Add": {
     "message": "Dodaj"
   },
@@ -135,9 +132,6 @@
   },
   "Classic": {
     "message": "klasyczne"
-  },
-  "Click_here_to_allow_TM_to_override_the_script_blocker": {
-    "message": "Aby umożliwić uruchamianie skryptów kliknij tutaj w celu nadpisania ustawień blokady skryptów!"
   },
   "Click_here_to_install_it_": {
     "message": "Kliknij tutaj aby zainstalować."
@@ -381,9 +375,6 @@
   "Please_consider_a_contribution": {
     "message": "Weprzyj projekt darowizną"
   },
-  "Please_reload_this_page_in_order_to_run_your_userscripts_": {
-    "message": "W celu urochomienia skryptu proszę załadować tę stronę ponownie."
-  },
   "Please_wait___": {
     "message": "Proszę czekać..."
   },
@@ -511,9 +502,6 @@
   },
   "This_is_a_userscript": {
     "message": "To jest skrypt napisany w Javacript"
-  },
-  "This_only_changes_the_user_agent_string": {
-    "message": "Ten element tylko zmienia zawartość User-Agent dla stron z listy @include"
   },
   "This_page_is_blacklisted_at_the_security_settings": {
     "message": "Zablokowano na podstawie ustawień bezpieczeństwa"

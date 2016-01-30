@@ -382,9 +382,6 @@
   "This_script_runs_in_Chrome_mode": {
     "message": "Tento skript běží ve Chrome módu"
   },
-  "This_only_changes_the_user_agent_string": {
-    "message": "Tato položka mění User-Agenta použe u includes stránek"
-  },
   "This_is_a_userscript": {
     "message": "Toto je UserScript napsán v JavaScriptu"
   },
@@ -813,12 +810,6 @@
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "Povolit upravování HTTP hlaviček skripty"
   },
-  "Allow_overwrite_javascript_settings": {
-    "message": "Povolit přepsání nastavení scriptblockeru"
-  },
-  "Tampermonkey_can_not_work_when_javascript_is_disabled": {
-    "message": "Tampermonkey nemůže fungovat na stránce, kde je zakázán JavaScript. Tato možnost umožní TM přepsat toto nastavení, ať už bylo provedeno vámi nebo script blockerem. Toto ovlivní pouze řádkové skripty na stránce, nikoliv vzdálené skripty."
-  },
   "Yes": {
     "message": "Ano"
   },
@@ -851,15 +842,6 @@
   },
   "Really_delete_the_selected_items_": {
     "message": "Opravdu chcete smazat vybrané položky?"
-  },
-  "A_script_blocker_was_detected_": {
-    "message": "Script blocker byl detekován!"
-  },
-  "Click_here_to_allow_TM_to_override_the_script_blocker": {
-    "message": "Aby mohly vaše UserScripty běžet, musíte povolit přepis nastavení script blockeru pomocí Tampermonkey!"
-  },
-  "Please_reload_this_page_in_order_to_run_your_userscripts_": {
-    "message": "Prosím, obnovte tuto stránku pro spuštění vašich UserScriptů."
   },
   "Reset_Section": {
     "message": "Resetovat"

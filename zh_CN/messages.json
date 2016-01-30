@@ -198,8 +198,8 @@
   "Strict": {
     "message": "严格"
   },
-  "connect_src_mode": {
-    "message": "@connect-src模式"
+  "connect_mode": {
+    "message": "@connect模式"
   },
   "Ask_if_unknown": {
     "message": "未知时询问"
@@ -479,9 +479,6 @@
   },
   "This_script_runs_in_Chrome_mode": {
     "message": "本脚本运行在 Chrome 模式中，"
-  },
-  "This_only_changes_the_user_agent_string": {
-    "message": "本项仅更改用于包含网页的 User-Agent（用户代理）。"
   },
   "This_is_a_userscript": {
     "message": "这是一个使用 Javascript 编写的用户脚本。"
@@ -990,12 +987,6 @@
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "允许 HTTP 报头被脚本修改"
   },
-  "Allow_overwrite_javascript_settings": {
-    "message": "允许覆盖脚本拦截器设置"
-  },
-  "Tampermonkey_can_not_work_when_javascript_is_disabled": {
-    "message": "Tampermonkey 在脚本应该运行在的页面上的 javascript 被禁用时不能工作。这个设置让 TM 可以覆盖这个由您或脚本拦截器所做出的设置。这个只会影响来自页面的内联脚本而不会影响远程脚本。"
-  },
   "Subresource_Integrity": {
     "message": "子资源完整性"
   },
@@ -1040,15 +1031,6 @@
   },
   "Really_delete_the_selected_items_": {
     "message": "您真的想删除选择的项目吗？"
-  },
-  "A_script_blocker_was_detected_": {
-    "message": "检测到一个脚本拦截器！"
-  },
-  "Click_here_to_allow_TM_to_override_the_script_blocker": {
-    "message": "为了运行您的用户脚本，您需要点击这里以允许 Tampermonkey 覆盖脚本拦截器的设置！"
-  },
-  "Please_reload_this_page_in_order_to_run_your_userscripts_": {
-    "message": "请刷新本页面以运行您的用户脚本。"
   },
   "Reset_Section": {
     "message": "重置"

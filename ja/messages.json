@@ -64,9 +64,6 @@
   "A_reload_is_required": {
     "message": "再読込が必要です: \n保存していない変更はすべて失われます!"
   },
-  "A_script_blocker_was_detected_": {
-    "message": "スクリプト ブロッカーを検出しました!"
-  },
   "Action": {
     "message": "操作"
   },
@@ -107,9 +104,6 @@
   },
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "スクリプトによる HTTP ヘッダーの変更を許可する"
-  },
-  "Allow_overwrite_javascript_settings": {
-    "message": "スクリプト ブロッカーの設定への上書きを許可する"
   },
   "An_error_occured_during_import_": {
     "message": "インポート中にエラーが発生しました。"
@@ -217,9 +211,6 @@
   },
   "Classic": {
     "message": "クラシック"
-  },
-  "Click_here_to_allow_TM_to_override_the_script_blocker": {
-    "message": "UserScript の実行を許可するために、ここをクリックして Tampermonkey がスクリプト ブロッカーの設定に上書きするのを許可してください!"
   },
   "Click_here_to_allow_TM_to_start_downloads": {
     "message": "Tampermonkey がインスタント ダウンロードを開始できるようにするには OK をクリックしてください。"
@@ -591,9 +582,6 @@
   "Please_double_check_the_native_script_import_settings__": {
     "message": "UserScript を読み込めません!\n\n「ネイティブ スクリプトのインポート」の設定を確認してください。"
   },
-  "Please_reload_this_page_in_order_to_run_your_userscripts_": {
-    "message": "UserScript を実行するにはこのページを再読込してください。"
-  },
   "Please_wait___": {
     "message": "お待ちください..."
   },
@@ -767,9 +755,6 @@
       }
     }
   },
-  "Tampermonkey_can_not_work_when_javascript_is_disabled": {
-    "message": "スクリプトを実行するページで JavaScript が無効になっている場合、Tampermonkey は動作できません。この設定を使用すると、ユーザーまたはスクリプト ブロッカーによる設定を Tampermonkey が上書きできるようになります。この設定は、ページのインライン スクリプトのみに影響し、リモート スクリプトには影響しません。"
-  },
   "Tampermonkey_has_no_file_access_permission_": {
     "message": "Tampermonkey のローカル ファイルへのアクセスが許可されていません!"
   },
@@ -824,9 +809,6 @@
   },
   "This_is_a_userscript": {
     "message": "これは JavaScript で書かれた UserScript です"
-  },
-  "This_only_changes_the_user_agent_string": {
-    "message": "この項目は、ウェブページをインクルードする際の User-Agent のみを変更します"
   },
   "This_page_is_blacklisted_at_the_security_settings": {
     "message": "セキュリティ設定でブラックリストに入っています"
