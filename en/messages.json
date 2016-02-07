@@ -426,6 +426,18 @@
   "Auto_Indent_all": {
     "message": "Auto-Indent all"
   },
+  "Search_for": {
+    "message": "Search for"
+  },
+  "Replace_all": {
+    "message": "Replace all"
+  },
+  "Replace_with": {
+    "message": "Replace with"
+  },
+  "Replace_": {
+    "message": "Replace?"
+  },
   "There_are_unsaved_changed_": {
     "message": "There are unsaved changes.\nDo you really want to close the editor?"
   },
@@ -908,6 +920,9 @@
   },
   "Changes_the_number_of_visible_config_options": {
     "message": "Changes the number of visible config options"
+  },
+  "Language": {
+    "message": "Language"
   },
   "Enter_the_new_rule": {
     "message": "Enter the new rule"

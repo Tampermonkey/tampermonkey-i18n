@@ -393,6 +393,18 @@
   "Auto_Indent_all": {
     "message": "Automatische Einrückung"
   },
+  "Search_for": {
+    "message": "Suche"
+  },
+  "Replace_all": {
+    "message": "Alle ersetzen"
+  },
+  "Replace_with": {
+    "message": "Ersetzen mit"
+  },
+  "Replace_": {
+    "message": "Wirklich ersetzen?"
+  },
   "There_are_unsaved_changed_": {
     "message": "Die Änderungen wurden nicht gespeichert.\nMöchten Sie den Dialog wirklich schließen?"
   },
@@ -860,6 +872,9 @@
   },
   "Changes_the_number_of_visible_config_options": {
     "message": "Ändert die Anzahl der einstellbaren Optionen"
+  },
+  "Language": {
+    "message": "Sprache"
   },
   "Enter_the_new_rule": {
     "message": "Geben Sie eine neue Regel ein"
