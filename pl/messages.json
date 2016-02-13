@@ -246,12 +246,6 @@
   "Fix_for_var_in_statements": {
     "message": "Popraw wyrażenie 'for (var j in x)'"
   },
-  "Fix_includes": {
-    "message": "Popraw reguły @include"
-  },
-  "Fix_includes_example": {
-    "message": "(zamienia np. '*' na 'http://*/*')"
-  },
   "Full_reset": {
     "message": "Ustawienia domyślne"
   },
@@ -288,9 +282,6 @@
   "Includes_Excludes": {
     "message": "Listy @include/@exclude"
   },
-  "Includes_more_safe_example": {
-    "message": "(np. 'http://*google.*/*' zostanie zinterpretowany jako 'http://*google.tld/*' aby uniknąć aktywacji skryptu dla adresu np.  'http://www.google.myevilpage.com/')"
-  },
   "Indent": {
     "message": "wcięcie"
   },
@@ -318,11 +309,8 @@
   "Just_another_service_provided_by_your_friendly_script_updater_": {
     "message": "Zaprzyjaźniony aktualizator skryptów uprzejmie donosi"
   },
-  "Last_Updated": {
+  "Last_updated": {
     "message": "Ostatnia aktualizacja"
-  },
-  "Make_includes_more_safe": {
-    "message": "Popraw bezpieczeństwo reguł @includes"
   },
   "Name": {
     "message": "Nazwa"

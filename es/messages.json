@@ -152,18 +152,6 @@
   "Settings": {
     "message": "Configuración"
   },
-  "Make_includes_more_safe": {
-    "message": "Hacer includes más seguros"
-  },
-  "Includes_more_safe_example": {
-    "message": "(si se habilita, por ejemplo 'http://*google.*/*' se interpreta como 'http://*google.tld/*' para evitar que el script funcione en 'http://www.google.myevilpage.com/')"
-  },
-  "Fix_includes": {
-    "message": "Corregir includes"
-  },
-  "Fix_includes_example": {
-    "message": "(esta opción convierte un simple '*' en 'http://*/*')"
-  },
   "Debug_scripts": {
     "message": "Depurar scripts"
   },
@@ -439,7 +427,7 @@
   "Homepage": {
     "message": "Página Web"
   },
-  "Last_Updated": {
+  "Last_updated": {
     "message": "Última Actualización"
   },
   "Version": {

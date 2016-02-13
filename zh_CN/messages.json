@@ -301,18 +301,6 @@
   "Settings": {
     "message": "设置"
   },
-  "Make_includes_more_safe": {
-    "message": "确保启用的URLs更加安全"
-  },
-  "Includes_more_safe_example": {
-    "message": "如果开启, 'http://*google.*/*' 类似的配置将会解析为 'http://*google.tld/*' 来阻止脚本在 'http://www.google.myevilpage.com/' 的运行)"
-  },
-  "Fix_includes": {
-    "message": "转换URL地址"
-  },
-  "Fix_includes_example": {
-    "message": "(此选项将 '*' 转换为 'http://*/*')"
-  },
   "Debug_scripts": {
     "message": "脚本调试"
   },
@@ -464,9 +452,6 @@
   },
   "One_or_more_compatibility_options_are_set": {
     "message": "本脚本开启了一个或多个Chrome兼容选项. 您应当检查详细配置。"
-  },
-  "This_script_has_no_grant_header_set_": {
-    "message": "此脚本未声明@grant头！"
   },
   "This_script_has_full_web_access": {
     "message": "本脚本有完整的网络访问权限。"
@@ -782,7 +767,7 @@
   "Homepage": {
     "message": "主页"
   },
-  "Last_Updated": {
+  "Last_updated": {
     "message": "最新更新"
   },
   "Version": {
@@ -1244,9 +1229,6 @@
   },
   "Default": {
     "message": "默认"
-  },
-  "Last_updated": {
-    "message": "最后更新"
   },
   "Ok": {
     "message": "确定"

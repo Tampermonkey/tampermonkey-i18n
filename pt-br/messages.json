@@ -373,12 +373,6 @@
   "Fix_for_var_in_statements": {
     "message": "Consertar sentenças 'for (var j in x)'"
   },
-  "Fix_includes": {
-    "message": "Corrigir inclusões"
-  },
-  "Fix_includes_example": {
-    "message": "(esta opção converte um simples '*' em 'http://*/*')"
-  },
   "Fix_wrappedJSObject_property_access": {
     "message": "Consertar acesso de propriedade wrappedJSObject"
   },
@@ -424,9 +418,6 @@
   "Includes_Excludes": {
     "message": "Includes/Excludes"
   },
-  "Includes_more_safe_example": {
-    "message": "(se habilitado, por exemplo 'http://*google.*/*' se interpreta como 'http://*google.tld/*' para evitar que o script funcione em 'http://www.google.minhapaginamaligna.com/')"
-  },
   "Indent": {
     "message": "Indentar"
   },
@@ -466,7 +457,7 @@
   "Key_Mapping": {
     "message": "Mapeamento de Chaves"
   },
-  "Last_Updated": {
+  "Last_updated": {
     "message": "Última vez atualizado"
   },
   "Layout": {
@@ -474,9 +465,6 @@
   },
   "LogLevel": {
     "message": "Nível de Logging"
-  },
-  "Make_includes_more_safe": {
-    "message": "Fazer inclusões mais seguras"
   },
   "Malicious_scripts_can_violate_your_privacy_": {
     "message": "Scripts maliciosos podem violar a sua privacidade e agir em sua pessoa!\nVocê deve apenas instalar scripts de fontes que você confia."

@@ -140,7 +140,7 @@
     }
   },
   "Attention_Can_not_display_all_includes_": {
-    "message": "Pozor: include seznam byk zkrácen.\nProsím překontrolujte ho ručně!"
+    "message": "Pozor: include seznam byl zkrácen.\nProsím překontrolujte ho ručně!"
   },
   "Attention_Can_not_display_all_excludes_": {
     "message": "Pozor: exclude seznam byl zkrácen.\nProsím překontrolujte ho ručně!"
@@ -312,18 +312,6 @@
   "Settings": {
     "message": "Nastavení"
   },
-  "Make_includes_more_safe": {
-    "message": "Bezpečnější includes"
-  },
-  "Includes_more_safe_example": {
-    "message": "Pokud je toto povoleno, adresa např. 'http://*google.*/*' je interpretována jako 'http://*google.tld/*', aby skript neběžel na 'http://www.google.myevilpage.com/'"
-  },
-  "Fix_includes": {
-    "message": "Opravit includes"
-  },
-  "Fix_includes_example": {
-    "message": "Tato volba opraví prosté '*' na '/https?:\\/\\/.*\\/.*\\/'"
-  },
   "Debug_scripts": {
     "message": "Ladění skriptů"
   },
@@ -426,6 +414,18 @@
   "Auto_Indent_all": {
     "message": "Automaticky vše odsadit"
   },
+  "Search_for": {
+    "message": "Hledat"
+  },
+  "Replace_all": {
+    "message": "Nahradit vše"
+  },
+  "Replace_with": {
+    "message": "Nahradit"
+  },
+  "Replace_": {
+    "message": "Nahradit?"
+  },
   "There_are_unsaved_changed_": {
     "message": "Máte neuložené změny.\nOpravdu chcete editor zavřít?"
   },
@@ -475,9 +475,6 @@
   },
   "One_or_more_compatibility_options_are_set": {
     "message": "Je nastavena jedna či více voleb kompatibility. Zvažte jejich kontrolu."
-  },
-  "This_script_has_no_grant_header_set_": {
-    "message": "Tento skript nemá nastaven žádný @grant tag!"
   },
   "This_script_has_full_web_access": {
     "message": "Tento skript má plný přístup k internetu."
@@ -687,7 +684,7 @@
     "message": "Anonymní statistky"
   },
   "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-    "message": "Povolit anonymní sběr dat pomocí Google Analytics. Pomáhá to vylepšit Tampermonkey a zjistit, na co se zaměřit při jeho vývoji. Můžete zakázat, pokud se nechete podílet."
+    "message": "Povolit anonymní sběr dat pomocí Google Analytics. Pomáhá to vylepšit Tampermonkey a zjistit, na co se zaměřit při jeho vývoji. Můžete zakázat, pokud se nechcete podílet."
   },
   "Dont_ask_me_for_simple_script_updates": {
     "message": "Neptat se na jednoduché aktualizace skriptu"
@@ -796,6 +793,9 @@
   "Homepage": {
     "message": "Domovská stránka"
   },
+  "Last_updated": {
+    "message": "Poslední aktualizace"
+  },
   "Version": {
     "message": "Verze"
   },
@@ -847,7 +847,7 @@
     "message": "Automatická kontrola syntaxe při psaní"
   },
   "Enable_this_option_to_automatically_check_the_code_on_typing_": {
-    "message": "Povolí automtickou kontrolu kódu při psaní."
+    "message": "Povolí automatickou kontrolu kódu při psaní."
   },
   "Auto_syntax_check_max_length": {
     "message": "Maximální velikost pro automatickou kontrolu syntaxe"
@@ -963,7 +963,7 @@
     "message": "XHR zabezpečení"
   },
   "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
-    "message": "Nastala interní chyba. Pokud tato chyba přetrvává i po restartu Chromu, klikněte prosím na OK a nahlašte tuto chybu na fóru.\n\nChcete navštívit Tampermonkey fórum?"
+    "message": "Nastala interní chyba. Pokud tato chyba přetrvává i po restartu Chromu, klikněte prosím na OK a nahlaste tuto chybu na fóru.\n\nChcete navštívit Tampermonkey fórum?"
   },
   "TESLA": {
     "message": "TESLA"
@@ -984,7 +984,7 @@
     "message": "Narozdíl od 'Legacy' synchronizace, tato verze synchronizuje skripty podle unikátního ID, které je vytvořeno při instalaci skriptu!\n\nPokud tedy nainstalujete tento skript do jiné instance Tampermonkey, buď jinou metodou synchronizace nebo normálním instalačním způsobem, objeví se tento skript vícekrát, dokud neproběhne další synchronizace.\n\nToto lze napravit pouze ručním odstraněním duplicitních skriptů!\n\nOpravdu chcete pokračovat?"
   },
   "Different_sync_versions_are_not_compatible_to_each_other_": {
-    "message": "Synchronizované verze nejsou navzájem kompatibliní!"
+    "message": "Synchronizované verze nejsou navzájem kompatibilní!"
   },
   "Sync_Id": {
     "message": "Id"
@@ -1261,9 +1261,6 @@
   },
   "Default": {
     "message": "Výchozí"
-  },
-  "Last_updated": {
-    "message": "Poslední aktualizace"
   },
   "Ok": {
     "message": "Ok"

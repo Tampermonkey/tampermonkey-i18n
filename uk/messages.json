@@ -186,18 +186,6 @@
   "Settings": {
     "message": "Налаштування"
   },
-  "Make_includes_more_safe": {
-    "message": "Зробити ввімкнення безпечними"
-  },
-  "Includes_more_safe_example": {
-    "message": "((Наприклад, якщо встановлений  'http://*google.*/*' це розпізнається як 'http://*google.tld/*' щоб уникнути роботи на 'http://www.google.myevilpage.com/')"
-  },
-  "Fix_includes": {
-    "message": "Виправляти ввімкнення"
-  },
-  "Fix_includes_example": {
-    "message": "(ця опція перетворює '*' в 'http://*/*')"
-  },
   "Debug_scripts": {
     "message": "Налагодження скриптів"
   },
@@ -575,7 +563,7 @@
   "Homepage": {
     "message": "Домашня сторінка"
   },
-  "Last_Updated": {
+  "Last_updated": {
     "message": "Останнє оновлення"
   },
   "Version": {

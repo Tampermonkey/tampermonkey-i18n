@@ -325,12 +325,6 @@
   "Fix_for_var_in_statements": {
     "message": "Réparer les instructions 'for (var j in x)'"
   },
-  "Fix_includes": {
-    "message": "Réparer les inclusions"
-  },
-  "Fix_includes_example": {
-    "message": "Cette option convertis un simple '*' en 'http://*/*'"
-  },
   "Fix_wrappedJSObject_property_access": {
     "message": "Répare l'accès wrappedJSObject"
   },
@@ -373,9 +367,6 @@
   "Includes_Excludes": {
     "message": "Inclusions/Exclusions"
   },
-  "Includes_more_safe_example": {
-    "message": "Si activée, par exemple 'http://*google.*/*' est interprété comme 'http://*google.tld/*' pour éviter que le script ne fonctionne sur \n 'http://www.google.pagediabolique.com/'"
-  },
   "Indent": {
     "message": "Indentation"
   },
@@ -415,7 +406,7 @@
   "Key_Mapping": {
     "message": "Mappage des touches"
   },
-  "Last_Updated": {
+  "Last_updated": {
     "message": "Dernière mise à jour"
   },
   "Layout": {
@@ -423,9 +414,6 @@
   },
   "LogLevel": {
     "message": "Niveau journalisation"
-  },
-  "Make_includes_more_safe": {
-    "message": "Faire des inclusions plus sures"
   },
   "Name": {
     "message": "Nom"

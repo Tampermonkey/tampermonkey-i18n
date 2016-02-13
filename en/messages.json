@@ -312,18 +312,6 @@
   "Settings": {
     "message": "Settings"
   },
-  "Make_includes_more_safe": {
-    "message": "Make includes more safe"
-  },
-  "Includes_more_safe_example": {
-    "message": "If enabled for example 'http://*google.*/*' is interpreted as 'http://*google.tld/*' to avoid this script to work on 'http://www.google.myevilpage.com/'"
-  },
-  "Fix_includes": {
-    "message": "Fix includes"
-  },
-  "Fix_includes_example": {
-    "message": "This option converts a simple '*' to '/https?:\\/\\/.*\\/.*\\/'"
-  },
   "Debug_scripts": {
     "message": "Debug scripts"
   },
@@ -487,9 +475,6 @@
   },
   "One_or_more_compatibility_options_are_set": {
     "message": "One or more compatibility options are set. You might want/should review them."
-  },
-  "This_script_has_no_grant_header_set_": {
-    "message": "This script has no @grant header set!"
   },
   "This_script_has_full_web_access": {
     "message": "This script has full internet access."
@@ -808,8 +793,8 @@
   "Homepage": {
     "message": "Homepage"
   },
-  "Last_Updated": {
-    "message": "Last Updated"
+  "Last_updated": {
+    "message": "Last updated"
   },
   "Version": {
     "message": "Version"
@@ -1276,9 +1261,6 @@
   },
   "Default": {
     "message": "Default"
-  },
-  "Last_updated": {
-    "message": "Last updated"
   },
   "Ok": {
     "message": "Ok"

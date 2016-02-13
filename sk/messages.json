@@ -390,12 +390,6 @@
     "Fix_for_var_in_statements": {
         "message": "Opraviť výskyty 'for (var j in x)'"
     },
-    "Fix_includes": {
-        "message": "Opraviť includes"
-    },
-    "Fix_includes_example": {
-        "message": "Táto možnost opraví jednoduché '*' na '/https?:\\/\\/.*\\/.*\\/'"
-    },
     "Fix_wrappedJSObject_property_access": {
         "message": "Opraviť prístup vlastností wrappedJSObject"
     },
@@ -441,9 +435,6 @@
     "Includes_Excludes": {
         "message": "Includes/Excludes"
     },
-    "Includes_more_safe_example": {
-        "message": "Ak je toto povolené, napr. 'http://*google.*/*' je interpretováné ako 'http://*google.tld/*', aby skript nebežal na 'http://www.google.myevilpage.com/'"
-    },
     "Indent": {
         "message": "Odsadenie"
     },
@@ -483,9 +474,6 @@
     "Key_Mapping": {
         "message": "Priradenie klávesov"
     },
-    "Last_Updated": {
-        "message": "Posledná aktualizácia"
-    },
     "Last_updated": {
         "message": "Posledná aktualizácia"
     },
@@ -494,9 +482,6 @@
     },
     "LogLevel": {
         "message": "Úroveň logovania"
-    },
-    "Make_includes_more_safe": {
-        "message": "Viac zabezpečiť includes"
     },
     "Malicious_scripts_can_violate_your_privacy_": {
         "message": "Nebezpečné skripty môžu narušiť vaše súkromie a urobiť nejaké akcie za vás!\nSkripty by mali byť inštalované iba z dôveryhodných zdrojov."
@@ -836,9 +821,6 @@
     },
     "This_script_has_full_web_access": {
         "message": "Tento skript má plný prístup k internetu."
-    },
-    "This_script_has_no_grant_header_set_": {
-        "message": "Tento skript nemá nastavenú žiadnu @grant hlavičku!"
     },
     "This_script_is_blacklisted_": {
         "message": "Tento skript je na blackliste!"

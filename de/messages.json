@@ -279,18 +279,6 @@
   "Settings": {
     "message": "Einstellungen"
   },
-  "Make_includes_more_safe": {
-    "message": "Includes absichern"
-  },
-  "Includes_more_safe_example": {
-    "message": "Wenn diese Option aktiviert ist, dann wird z.B. 'http://*google.*/*' als 'http://*google.tld/*' interpretiert, um das Starten auf 'http://www.google.myevilpage.com/' zu verhindern."
-  },
-  "Fix_includes": {
-    "message": "Includes berichtigen"
-  },
-  "Fix_includes_example": {
-    "message": "Diese Option interpretiert '*' als '/https?:\\/\\/.*\\/.*\\/'"
-  },
   "Debug_scripts": {
     "message": "Script-Debugger aktivieren"
   },
@@ -454,9 +442,6 @@
   },
   "One_or_more_compatibility_options_are_set": {
     "message": "Eine oder mehrere Kompatibilitätsoptionen sind aktiviert."
-  },
-  "This_script_has_no_grant_header_set_": {
-    "message": "Dieses Script hat keine @grant-Anweisung!"
   },
   "This_script_has_full_web_access": {
     "message": "Dieses Script hat vollen Internet-Zugang."
@@ -760,7 +745,7 @@
   "Check_disabled_scripts": {
     "message": "Deaktivierte Scripte aktualisieren"
   },
-  "Last_Updated": {
+  "Last_updated": {
     "message": "Letzte Aktualisierung"
   },
   "Version": {
@@ -1228,9 +1213,6 @@
   },
   "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
     "message": "Ihre Sprache wird nicht unterstützt?\nKlicken sie hier, um zu erfahren, wie Sie Tampermonkey übersetzen können."
-  },
-  "Last_updated": {
-    "message": "Letzte Aktualisierung"
   },
   "Ok": {
     "message": "Ok"
