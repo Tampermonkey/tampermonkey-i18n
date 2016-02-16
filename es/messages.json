@@ -47,17 +47,39 @@
   "I_dont_want_to_contribute": {
     "message": "No quiero contribuir"
   },
+  "Thank_you_very_much_": {
+    "message": "Muchas gracias!"
+  },
   "Invalid_UserScript__Sry_": {
     "message": "UserScript inválido :("
   },
   "Invalid_UserScript_name__Sry_": {
     "message": "Nombre de UserScript inválido :("
   },
+    "Script_name_0name0": {
+    "message": "Nombre del script: $name$",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      }
+    }
+  },
+  "Downloaded_from_0url0": {
+    "message": "Descargado desde: $url$",
+    "placeholders": {
+      "url": {
+        "content": "$1"
+      }
+    }
+  },
+  "Please_double_check_the_native_script_import_settings__": {
+    "message": "No se pudo descargar UserScript!\n\nPor favor revisar la configuración de 'Native Script Import'."
+  },
   "Name": {
     "message": "Nombre"
   },
   "Note": {
-    "message": "Advertencia"
+    "message": "Nota"
   },
   "Installed_Version_": {
     "message": "Versión instalada"
