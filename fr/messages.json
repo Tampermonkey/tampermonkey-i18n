@@ -715,9 +715,6 @@
   "Type": {
     "message": "Type"
   },
-  "Unable_to_install_script_due_to_empty_tabID_": {
-    "message": "Impossible d'installer le script à cause d'un tabID vide !"
-  },
   "Unable_to_load_script_from_url_0url0": {
     "message": "Impossible de charger le script à partir de : \n $url$",
     "placeholders": {
@@ -726,14 +723,8 @@
       }
     }
   },
-  "Unable_to_load_storage_due_to_empty_tabID_": {
-    "message": "Impossible de charger le stockage car tabID est vide !"
-  },
   "Unable_to_parse_this_": {
     "message": "Impossible d'analyser ceci ! :("
-  },
-  "Unable_to_save_storage_due_to_empty_tabID_": {
-    "message": "Impossible d'enregistrer le stockage car tabID est vide !"
   },
   "Uninstall_Extension": {
     "message": "Désinstaller l'extension"

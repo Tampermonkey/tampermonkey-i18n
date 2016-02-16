@@ -186,15 +186,6 @@
   "No_update_found__sry_": {
     "message": "Spiacente! Nessun aggiornamento trovato."
   },
-  "Unable_to_load_storage_due_to_empty_tabID_": {
-    "message": "È risultato impossibile caricare lo storage perchè il tabID è mancante!"
-  },
-  "Unable_to_save_storage_due_to_empty_tabID_": {
-    "message": "È risultato impossibile salvare lo storage perchè il tabID è mancante!"
-  },
-  "Unable_to_install_script_due_to_empty_tabID_": {
-    "message": "È risultato impossibile installare lo script perchè il tabID è mancante!"
-  },
   "Unknown_method_0name0": {
     "message": "Metodo $name$ sconosciuto",
     "placeholders": {

@@ -266,15 +266,6 @@
   "No_update_found__sry_": {
     "message": "暂时没有更新，等会儿再来吧~"
   },
-  "Unable_to_load_storage_due_to_empty_tabID_": {
-    "message": "tabID 为空导致无法读取文件！"
-  },
-  "Unable_to_save_storage_due_to_empty_tabID_": {
-    "message": "tabID 为空导致无法写入文件！"
-  },
-  "Unable_to_install_script_due_to_empty_tabID_": {
-    "message": "tabID 为空导致无法安装脚本！"
-  },
   "Unknown_method_0name0": {
     "message": "未知方法: $name$",
     "placeholders": {

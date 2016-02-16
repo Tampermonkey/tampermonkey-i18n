@@ -120,15 +120,6 @@
   "No_update_found__sry_": {
     "message": "No se encontraron actualizaciones :("
   },
-  "Unable_to_load_storage_due_to_empty_tabID_": {
-    "message": "No se pudo cargar el storage debido a un tabID vacío!"
-  },
-  "Unable_to_save_storage_due_to_empty_tabID_": {
-    "message": "No se pudo grabar el storage debido a un tabID vacío!"
-  },
-  "Unable_to_install_script_due_to_empty_tabID_": {
-    "message": "No se pudo instalar el script debido a un tabID vacío!"
-  },
   "Unknown_method_0name0": {
     "message": "Método desconocido: $name$",
     "placeholders": {

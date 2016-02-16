@@ -861,9 +861,6 @@
     "URL": {
         "message": "URL"
     },
-    "Unable_to_install_script_due_to_empty_tabID_": {
-        "message": "Nie je možné nainštalovať skript kvôli prázdnemu tabID!"
-    },
     "Unable_to_load_script_from_url_0url0": {
         "message": "Nie je možné načítať skript z URL: \n $url$",
         "placeholders": {
@@ -872,14 +869,8 @@
             }
         }
     },
-    "Unable_to_load_storage_due_to_empty_tabID_": {
-        "message": "Nie je možné načítať úložisko kvôli prázdnemu tabID!"
-    },
     "Unable_to_parse_this_": {
         "message": "Toto nie je možné parsovať! :("
-    },
-    "Unable_to_save_storage_due_to_empty_tabID_": {
-        "message": "Nie je možné uložiť úložisko kvôli prázdnemu tabID!"
     },
     "Uninstall_Extension": {
         "message": "Odinštalovať rozšírenie"

@@ -195,15 +195,6 @@
   "No_update_found__sry_": {
     "message": "Nem találtunk frissítést, bocs!"
   },
-  "Unable_to_load_storage_due_to_empty_tabID_": {
-    "message": "Üres tabID miatt nem lehetett betölteni a tárolót!"
-  },
-  "Unable_to_save_storage_due_to_empty_tabID_": {
-    "message": " Üres tabID miatt nem lehetett elmenteni a tárolót!"
-  },
-  "Unable_to_install_script_due_to_empty_tabID_": {
-    "message": " Üres tabID miatt nem lehetett telepíteni a szkriptet!"
-  },
   "Unknown_method_0name0": {
     "message": "Ismeretlen metódus $name$",
     "placeholders": {

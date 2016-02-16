@@ -277,15 +277,6 @@
   "No_update_found__sry_": {
     "message": "No update found, sry!"
   },
-  "Unable_to_load_storage_due_to_empty_tabID_": {
-    "message": "Unable to load storage due to empty tabID!"
-  },
-  "Unable_to_save_storage_due_to_empty_tabID_": {
-    "message": "Unable to save storage due to empty tabID!"
-  },
-  "Unable_to_install_script_due_to_empty_tabID_": {
-    "message": "Unable to install script due to empty tabID!"
-  },
   "Unknown_method_0name0": {
     "message": "Unknown method $name$",
     "placeholders": {

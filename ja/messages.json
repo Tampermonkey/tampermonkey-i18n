@@ -852,9 +852,6 @@
   "URL": {
     "message": "URL"
   },
-  "Unable_to_install_script_due_to_empty_tabID_": {
-    "message": "tabID が空のためスクリプトをインストールできません!"
-  },
   "Unable_to_load_script_from_url_0url0": {
     "message": "URL からスクリプトを読み込めません: \n $url$",
     "placeholders": {
@@ -863,14 +860,8 @@
       }
     }
   },
-  "Unable_to_load_storage_due_to_empty_tabID_": {
-    "message": "tabID が空のためストレージを読み込めません!"
-  },
   "Unable_to_parse_this_": {
     "message": "構文解析できません! :("
-  },
-  "Unable_to_save_storage_due_to_empty_tabID_": {
-    "message": "tabID が空のためストレージを保存できません!"
   },
   "Uninstall_Extension": {
     "message": "拡張機能をアンインストール"

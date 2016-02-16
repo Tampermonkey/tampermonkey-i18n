@@ -244,15 +244,6 @@
   "No_update_found__sry_": {
     "message": "Keine Updates gefunden!"
   },
-  "Unable_to_load_storage_due_to_empty_tabID_": {
-    "message": "Der Script-Speicher konnte wegen fehlender tabID nicht geladen werden!"
-  },
-  "Unable_to_save_storage_due_to_empty_tabID_": {
-    "message": "Der Script-Speicher konnte wegen fehlender tabID nicht gesichert werden!"
-  },
-  "Unable_to_install_script_due_to_empty_tabID_": {
-    "message": "Das Script konnte wegen fehlender tabID nicht installiert werden!"
-  },
   "Unknown_method_0name0": {
     "message": "Unbekannte Methode $name$",
     "placeholders": {

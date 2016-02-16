@@ -183,15 +183,6 @@
   "No_update_found__sry_": {
     "message": "沒有發現更新喔，抱歉！"
   },
-  "Unable_to_load_storage_due_to_empty_tabID_": {
-    "message": "tabID為空導致無法讀取文件！"
-  },
-  "Unable_to_save_storage_due_to_empty_tabID_": {
-    "message": "tabID為空導致無法寫入文件！"
-  },
-  "Unable_to_install_script_due_to_empty_tabID_": {
-    "message": "tabID為空導致無法安裝腳本！"
-  },
   "Unknown_method_0name0": {
     "message": "未知方法： $name$",
     "placeholders": {

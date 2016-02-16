@@ -154,15 +154,6 @@
   "No_update_found__sry_": {
     "message": "Вибачте, але оновлень немає!"
   },
-  "Unable_to_load_storage_due_to_empty_tabID_": {
-    "message": "Неможливо завантажити із сховища через пусте поле tabID!"
-  },
-  "Unable_to_save_storage_due_to_empty_tabID_": {
-    "message": "Неможливо зберегти в сховище через пусте поле tabID!"
-  },
-  "Unable_to_install_script_due_to_empty_tabID_": {
-    "message": "Не удається установити скрипт через пусте поле tabID!"
-  },
   "Unknown_method_0name0": {
     "message": "Невідомий метод $name$",
     "placeholders": {

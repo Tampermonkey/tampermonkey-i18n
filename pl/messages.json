@@ -527,9 +527,6 @@
   "Type": {
     "message": "Typ"
   },
-  "Unable_to_install_script_due_to_empty_tabID_": {
-    "message": "Nie można zainstalować skryptu z powodu pustego tabID!"
-  },
   "Unable_to_load_script_from_url_0url0": {
     "message": "Nie mozna załadować skryptu spod adresu URL: \n $url$",
     "placeholders": {
@@ -538,14 +535,8 @@
       }
     }
   },
-  "Unable_to_load_storage_due_to_empty_tabID_": {
-    "message": "Nie można załadować danych z powodu pustego tabID!"
-  },
   "Unable_to_parse_this_": {
     "message": "Nie można przetworzyć! :("
-  },
-  "Unable_to_save_storage_due_to_empty_tabID_": {
-    "message": "Nie można zapisać danych z powodu pustego tabID!"
   },
   "Unique_running_scripts": {
     "message": "liczba działających (unikalnych) skryptów"

@@ -826,9 +826,6 @@
   "URL": {
     "message": "URL"
   },
-  "Unable_to_install_script_due_to_empty_tabID_": {
-    "message": "Não foi possível instalar script devido a tabID vazio!"
-  },
   "Unable_to_load_script_from_url_0url0": {
     "message": "Não foi possível carregar script da url: \n $url$",
     "placeholders": {
@@ -837,14 +834,8 @@
       }
     }
   },
-  "Unable_to_load_storage_due_to_empty_tabID_": {
-    "message": "Não foi possível de carregar o storage devido a tabID vazio!"
-  },
   "Unable_to_parse_this_": {
     "message": "Não foi possível analisar isto! :("
-  },
-  "Unable_to_save_storage_due_to_empty_tabID_": {
-    "message": "Não foi possível salvar storage devido a tabID vazio!"
   },
   "Uninstall_Extension": {
     "message": "Uninstall Extension"
