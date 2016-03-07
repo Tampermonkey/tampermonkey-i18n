@@ -47,17 +47,39 @@
   "I_dont_want_to_contribute": {
     "message": "No quiero contribuir"
   },
+  "Thank_you_very_much_": {
+    "message": "Muchas gracias!"
+  },
   "Invalid_UserScript__Sry_": {
     "message": "UserScript inválido :("
   },
   "Invalid_UserScript_name__Sry_": {
     "message": "Nombre de UserScript inválido :("
   },
+    "Script_name_0name0": {
+    "message": "Nombre del script: $name$",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      }
+    }
+  },
+  "Downloaded_from_0url0": {
+    "message": "Descargado desde: $url$",
+    "placeholders": {
+      "url": {
+        "content": "$1"
+      }
+    }
+  },
+  "Please_double_check_the_native_script_import_settings__": {
+    "message": "No se pudo descargar UserScript!\n\nPor favor revisar la configuración de 'Importación Nativa de Script'."
+  },
   "Name": {
     "message": "Nombre"
   },
   "Note": {
-    "message": "Advertencia"
+    "message": "Nota"
   },
   "Installed_Version_": {
     "message": "Versión instalada"
@@ -92,7 +114,7 @@
     }
   },
   "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
-    "message": "La url de actualización cambió de:\n    '$oldurl$'\n    a:\n    '$newurl$'\n",
+    "message": "La URL de actualización cambió de:\n    '$oldurl$'\n    a:\n    '$newurl$'\n",
     "placeholders": {
       "oldurl": {
         "content": "$1"
@@ -103,10 +125,10 @@
     }
   },
   "Attention_Can_not_display_all_includes_": {
-    "message": "Atención: La lista de includes fue acortada.\nPor favor revísala manualmente!"
+    "message": "Atención: La lista de inclusiones fue acortada.\nPor favor revísala manualmente!"
   },
   "Attention_Can_not_display_all_excludes_": {
-    "message": "Atención: La lista de excludes fue acortada.\nPor favor revísala manualmente!"
+    "message": "Atención: La lista de exclusiones fue acortada.\nPor favor revísala manualmente!"
   },
   "Include_s__": {
     "message": "Incluye(s)"
@@ -119,15 +141,6 @@
   },
   "No_update_found__sry_": {
     "message": "No se encontraron actualizaciones :("
-  },
-  "Unable_to_load_storage_due_to_empty_tabID_": {
-    "message": "No se pudo cargar el storage debido a un tabID vacío!"
-  },
-  "Unable_to_save_storage_due_to_empty_tabID_": {
-    "message": "No se pudo grabar el storage debido a un tabID vacío!"
-  },
-  "Unable_to_install_script_due_to_empty_tabID_": {
-    "message": "No se pudo instalar el script debido a un tabID vacío!"
   },
   "Unknown_method_0name0": {
     "message": "Método desconocido: $name$",
@@ -147,22 +160,10 @@
     "message": "Obtener nuevos scripts..."
   },
   "Check_for_userscripts_updates": {
-    "message": "Revisar actualizaciones de userscripts"
+    "message": "Revisar actualizaciones de UserScripts"
   },
   "Settings": {
     "message": "Configuración"
-  },
-  "Make_includes_more_safe": {
-    "message": "Hacer includes más seguros"
-  },
-  "Includes_more_safe_example": {
-    "message": "(si se habilita, por ejemplo 'http://*google.*/*' se interpreta como 'http://*google.tld/*' para evitar que el script funcione en 'http://www.google.myevilpage.com/')"
-  },
-  "Fix_includes": {
-    "message": "Corregir includes"
-  },
-  "Fix_includes_example": {
-    "message": "(esta opción convierte un simple '*' en 'http://*/*')"
   },
   "Debug_scripts": {
     "message": "Depurar scripts"
@@ -177,7 +178,7 @@
     "message": "No hay scripts instalados"
   },
   "Get_some_scripts___": {
-    "message": "Bajar algunos scripts..."
+    "message": "Obtener algunos scripts..."
   },
   "New_userscript": {
     "message": "<Nuevo userscript>"
@@ -233,7 +234,7 @@
     "message": "Seguro que quieres revertir todos los cambios?"
   },
   "Please_wait___": {
-    "message": "Aguántese un metro..."
+    "message": "Por favor espere..."
   },
   "Edit": {
     "message": "Editar"
@@ -254,7 +255,7 @@
     "message": "Este script guarda datos en Tampermonkey."
   },
   "This_script_has_access_to_https_pages": {
-    "message": "Este script tiene accesp a páginas https."
+    "message": "Este script tiene acceso a páginas https."
   },
   "One_or_more_compatibility_options_are_set": {
     "message": "Una o más opciones de compatibilidad están activadas. Quizás quieras/deberías revisarlas."
@@ -298,7 +299,7 @@
     "message": "No se pudo interpretar esto! :("
   },
   "An_error_occured_during_import_": {
-    "message": "Ocurrió un error durante la importación. Dale una mirada a la consola para más información! (CTRL+SHIFT+J)"
+    "message": "Ocurrió un error durante la importación. Revisa la consola para más información! (CTRL+SHIFT+J)"
   },
   "Import": {
     "message": "Importar"
@@ -366,7 +367,7 @@
     "message": "Espacios"
   },
   "TabMode": {
-    "message": "TabMode"
+    "message": "Tabulado"
   },
   "Classic": {
     "message": "Clásico"
@@ -439,7 +440,7 @@
   "Homepage": {
     "message": "Página Web"
   },
-  "Last_Updated": {
+  "Last_updated": {
     "message": "Última Actualización"
   },
   "Version": {
@@ -520,21 +521,21 @@
     "message": "Eliminar"
   },
   "Original_includes": {
-    "message": "Includes originales"
+    "message": "Inclusiones originales"
   },
   "Original_matches": {
-    "message": "Matches originales"
+    "message": "Coincidencias originales"
   },
   "Original_excludes": {
-    "message": "Excludes originales"
+    "message": "Exclusiones originales"
   },
   "User_includes": {
-    "message": "Includes de usuario"
+    "message": "Inclusiones de usuario"
   },
   "User_matches": {
-    "message": "Matches de usuario"
+    "message": "Coincidencias de usuario"
   },
   "User_excludes": {
-    "message": "Excludes de usuario"
+    "message": "Exclusiones de usuario"
   }
 }

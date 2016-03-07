@@ -244,15 +244,6 @@
   "No_update_found__sry_": {
     "message": "Keine Updates gefunden!"
   },
-  "Unable_to_load_storage_due_to_empty_tabID_": {
-    "message": "Der Script-Speicher konnte wegen fehlender tabID nicht geladen werden!"
-  },
-  "Unable_to_save_storage_due_to_empty_tabID_": {
-    "message": "Der Script-Speicher konnte wegen fehlender tabID nicht gesichert werden!"
-  },
-  "Unable_to_install_script_due_to_empty_tabID_": {
-    "message": "Das Script konnte wegen fehlender tabID nicht installiert werden!"
-  },
   "Unknown_method_0name0": {
     "message": "Unbekannte Methode $name$",
     "placeholders": {
@@ -278,18 +269,6 @@
   },
   "Settings": {
     "message": "Einstellungen"
-  },
-  "Make_includes_more_safe": {
-    "message": "Includes absichern"
-  },
-  "Includes_more_safe_example": {
-    "message": "Wenn diese Option aktiviert ist, dann wird z.B. 'http://*google.*/*' als 'http://*google.tld/*' interpretiert, um das Starten auf 'http://www.google.myevilpage.com/' zu verhindern."
-  },
-  "Fix_includes": {
-    "message": "Includes berichtigen"
-  },
-  "Fix_includes_example": {
-    "message": "Diese Option interpretiert '*' als '/https?:\\/\\/.*\\/.*\\/'"
   },
   "Debug_scripts": {
     "message": "Script-Debugger aktivieren"
@@ -393,6 +372,18 @@
   "Auto_Indent_all": {
     "message": "Automatische Einrückung"
   },
+  "Search_for": {
+    "message": "Suche"
+  },
+  "Replace_all": {
+    "message": "Alle ersetzen"
+  },
+  "Replace_with": {
+    "message": "Ersetzen mit"
+  },
+  "Replace_": {
+    "message": "Wirklich ersetzen?"
+  },
   "There_are_unsaved_changed_": {
     "message": "Die Änderungen wurden nicht gespeichert.\nMöchten Sie den Dialog wirklich schließen?"
   },
@@ -442,9 +433,6 @@
   },
   "One_or_more_compatibility_options_are_set": {
     "message": "Eine oder mehrere Kompatibilitätsoptionen sind aktiviert."
-  },
-  "This_script_has_no_grant_header_set_": {
-    "message": "Dieses Script hat keine @grant-Anweisung!"
   },
   "This_script_has_full_web_access": {
     "message": "Dieses Script hat vollen Internet-Zugang."
@@ -748,7 +736,7 @@
   "Check_disabled_scripts": {
     "message": "Deaktivierte Scripte aktualisieren"
   },
-  "Last_Updated": {
+  "Last_updated": {
     "message": "Letzte Aktualisierung"
   },
   "Version": {
@@ -860,6 +848,9 @@
   },
   "Changes_the_number_of_visible_config_options": {
     "message": "Ändert die Anzahl der einstellbaren Optionen"
+  },
+  "Language": {
+    "message": "Sprache"
   },
   "Enter_the_new_rule": {
     "message": "Geben Sie eine neue Regel ein"
@@ -1213,9 +1204,6 @@
   },
   "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
     "message": "Ihre Sprache wird nicht unterstützt?\nKlicken sie hier, um zu erfahren, wie Sie Tampermonkey übersetzen können."
-  },
-  "Last_updated": {
-    "message": "Letzte Aktualisierung"
   },
   "Ok": {
     "message": "Ok"

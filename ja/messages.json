@@ -387,12 +387,6 @@
   "Fix_for_var_in_statements": {
     "message": "「for (var j in x)」文を修正する"
   },
-  "Fix_includes": {
-    "message": "include を修正する"
-  },
-  "Fix_includes_example": {
-    "message": "このオプションはシンプルな「*」を「/https?://.*/.*/」に変換します"
-  },
   "Fix_wrappedJSObject_property_access": {
     "message": "wrappedJSObject プロパティのアクセスを修正する"
   },
@@ -438,9 +432,6 @@
   "Includes_Excludes": {
     "message": "include/exclude"
   },
-  "Includes_more_safe_example": {
-    "message": "(有効にすると、例えば「http://*google.*/*」は「http://*google.tld/*」と解釈されます。このスクリプトが「http://www.google.myevilpage.com/」で動作するのを防ぐためです。)"
-  },
   "Indent": {
     "message": "インデント"
   },
@@ -480,7 +471,7 @@
   "Key_Mapping": {
     "message": "キー割り当て"
   },
-  "Last_Updated": {
+  "Last_updated": {
     "message": "最終更新"
   },
   "Layout": {
@@ -488,9 +479,6 @@
   },
   "LogLevel": {
     "message": "ログ レベル"
-  },
-  "Make_includes_more_safe": {
-    "message": "include をより安全にする"
   },
   "Malicious_scripts_can_violate_your_privacy_": {
     "message": "悪意があるスクリプトは、あなたのプライバシーを侵害する場合があり、あなたに成りすます場合があります!\n信頼できる入手元のスクリプトのみをインストールしてください。"
@@ -864,9 +852,6 @@
   "URL": {
     "message": "URL"
   },
-  "Unable_to_install_script_due_to_empty_tabID_": {
-    "message": "tabID が空のためスクリプトをインストールできません!"
-  },
   "Unable_to_load_script_from_url_0url0": {
     "message": "URL からスクリプトを読み込めません: \n $url$",
     "placeholders": {
@@ -875,14 +860,8 @@
       }
     }
   },
-  "Unable_to_load_storage_due_to_empty_tabID_": {
-    "message": "tabID が空のためストレージを読み込めません!"
-  },
   "Unable_to_parse_this_": {
     "message": "構文解析できません! :("
-  },
-  "Unable_to_save_storage_due_to_empty_tabID_": {
-    "message": "tabID が空のためストレージを保存できません!"
   },
   "Uninstall_Extension": {
     "message": "拡張機能をアンインストール"

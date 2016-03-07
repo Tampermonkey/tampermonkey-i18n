@@ -183,15 +183,6 @@
   "No_update_found__sry_": {
     "message": "沒有發現更新喔，抱歉！"
   },
-  "Unable_to_load_storage_due_to_empty_tabID_": {
-    "message": "tabID為空導致無法讀取文件！"
-  },
-  "Unable_to_save_storage_due_to_empty_tabID_": {
-    "message": "tabID為空導致無法寫入文件！"
-  },
-  "Unable_to_install_script_due_to_empty_tabID_": {
-    "message": "tabID為空導致無法安裝腳本！"
-  },
   "Unknown_method_0name0": {
     "message": "未知方法： $name$",
     "placeholders": {
@@ -217,18 +208,6 @@
   },
   "Settings": {
     "message": "設置"
-  },
-  "Make_includes_more_safe": {
-    "message": "確保啟用的URLs的安全"
-  },
-  "Includes_more_safe_example": {
-    "message": "(如果開啟 'http://*google.*/*' 類似的配置將會解析為 'http://*google.tld/*' 來阻止腳本在 'http://www.google.myevilpage.com/' 的運行)"
-  },
-  "Fix_includes": {
-    "message": "修正include URL(s)"
-  },
-  "Fix_includes_example": {
-    "message": "此選項把 '*' 轉換為 '/https?://.*/.*/'"
   },
   "Debug_scripts": {
     "message": "為腳本除錯"
@@ -375,9 +354,6 @@
   },
   "One_or_more_compatibility_options_are_set": {
     "message": "此腳本開啟了一個或多個 Chrome 相容選項。 你可以(應當)詳細檢查。"
-  },
-  "This_script_has_no_grant_header_set_": {
-    "message": "這個腳本沒有設定 @grant 標頭區塊！"
   },
   "This_script_has_full_web_access": {
     "message": "此腳本可完全存取網際網路。"
@@ -664,7 +640,7 @@
   "Homepage": {
     "message": "首頁"
   },
-  "Last_Updated": {
+  "Last_updated": {
     "message": "最後更新"
   },
   "Version": {
@@ -1049,9 +1025,6 @@
   },
   "Default": {
     "message": "預設"
-  },
-  "Last_updated": {
-    "message": "最近更新"
   },
   "Ok": {
     "message": "Ok"

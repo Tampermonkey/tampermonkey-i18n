@@ -325,12 +325,6 @@
   "Fix_for_var_in_statements": {
     "message": "Réparer les instructions 'for (var j in x)'"
   },
-  "Fix_includes": {
-    "message": "Réparer les inclusions"
-  },
-  "Fix_includes_example": {
-    "message": "Cette option convertis un simple '*' en 'http://*/*'"
-  },
   "Fix_wrappedJSObject_property_access": {
     "message": "Répare l'accès wrappedJSObject"
   },
@@ -373,9 +367,6 @@
   "Includes_Excludes": {
     "message": "Inclusions/Exclusions"
   },
-  "Includes_more_safe_example": {
-    "message": "Si activée, par exemple 'http://*google.*/*' est interprété comme 'http://*google.tld/*' pour éviter que le script ne fonctionne sur \n 'http://www.google.pagediabolique.com/'"
-  },
   "Indent": {
     "message": "Indentation"
   },
@@ -415,7 +406,7 @@
   "Key_Mapping": {
     "message": "Mappage des touches"
   },
-  "Last_Updated": {
+  "Last_updated": {
     "message": "Dernière mise à jour"
   },
   "Layout": {
@@ -423,9 +414,6 @@
   },
   "LogLevel": {
     "message": "Niveau journalisation"
-  },
-  "Make_includes_more_safe": {
-    "message": "Faire des inclusions plus sures"
   },
   "Name": {
     "message": "Nom"
@@ -727,9 +715,6 @@
   "Type": {
     "message": "Type"
   },
-  "Unable_to_install_script_due_to_empty_tabID_": {
-    "message": "Impossible d'installer le script à cause d'un tabID vide !"
-  },
   "Unable_to_load_script_from_url_0url0": {
     "message": "Impossible de charger le script à partir de : \n $url$",
     "placeholders": {
@@ -738,14 +723,8 @@
       }
     }
   },
-  "Unable_to_load_storage_due_to_empty_tabID_": {
-    "message": "Impossible de charger le stockage car tabID est vide !"
-  },
   "Unable_to_parse_this_": {
     "message": "Impossible d'analyser ceci ! :("
-  },
-  "Unable_to_save_storage_due_to_empty_tabID_": {
-    "message": "Impossible d'enregistrer le stockage car tabID est vide !"
   },
   "Uninstall_Extension": {
     "message": "Désinstaller l'extension"

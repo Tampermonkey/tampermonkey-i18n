@@ -186,15 +186,6 @@
   "No_update_found__sry_": {
     "message": "Spiacente! Nessun aggiornamento trovato."
   },
-  "Unable_to_load_storage_due_to_empty_tabID_": {
-    "message": "È risultato impossibile caricare lo storage perchè il tabID è mancante!"
-  },
-  "Unable_to_save_storage_due_to_empty_tabID_": {
-    "message": "È risultato impossibile salvare lo storage perchè il tabID è mancante!"
-  },
-  "Unable_to_install_script_due_to_empty_tabID_": {
-    "message": "È risultato impossibile installare lo script perchè il tabID è mancante!"
-  },
   "Unknown_method_0name0": {
     "message": "Metodo $name$ sconosciuto",
     "placeholders": {
@@ -220,18 +211,6 @@
   },
   "Settings": {
     "message": "Impostazioni"
-  },
-  "Make_includes_more_safe": {
-    "message": "Rendi inclusioni più sicure"
-  },
-  "Includes_more_safe_example": {
-    "message": "(se abilitato, per esempio, 'http://*google.*/*' viene interpretato come 'http://*google.tld/*' per evitare che questo script venga eseguito su 'http://www.google.myevilpage.com/')"
-  },
-  "Fix_includes": {
-    "message": "Correggi inclusioni"
-  },
-  "Fix_includes_example": {
-    "message": "(questa opzione converte un semplice '*' in '/https?:\\/\\/.*\\/.*\\/')"
   },
   "Debug_scripts": {
     "message": "Debug degli script"
@@ -375,9 +354,6 @@
   },
   "One_or_more_compatibility_options_are_set": {
     "message": "Una o più opzioni di compatibilità sono attive. Potresti/dovresti controllarle."
-  },
-  "This_script_has_no_grant_header_set_": {
-    "message": "Questo script non ha impostato l'header @grant!"
   },
   "This_script_has_full_web_access": {
     "message": "Questo script ha pieno accesso a internet."
@@ -667,7 +643,7 @@
   "Homepage": {
     "message": "Homepage"
   },
-  "Last_Updated": {
+  "Last_updated": {
     "message": "Ultimo aggiornamento"
   },
   "Version": {
@@ -1055,9 +1031,6 @@
   },
   "Default": {
     "message": "Predefinito"
-  },
-  "Last_updated": {
-    "message": "Ultimo aggiornamento"
   },
   "Ok": {
     "message": "Ok"

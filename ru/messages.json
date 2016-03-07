@@ -154,15 +154,6 @@
   "No_update_found__sry_": {
     "message": "Извините, но обновлений нет!"
   },
-  "Unable_to_load_storage_due_to_empty_tabID_": {
-    "message": "Невозможно загрузить из хранилища из-за пустого поля tabID!"
-  },
-  "Unable_to_save_storage_due_to_empty_tabID_": {
-    "message": "Невозможно сохранить в хранилище из-за пустого поля tabID!"
-  },
-  "Unable_to_install_script_due_to_empty_tabID_": {
-    "message": "Не удается установить скрипт из-за пустого поля tabID!"
-  },
   "Unknown_method_0name0": {
     "message": "Неизвестный метод $name$",
     "placeholders": {
@@ -185,18 +176,6 @@
   },
   "Settings": {
     "message": "Настройки"
-  },
-  "Make_includes_more_safe": {
-    "message": "Сделать включения безопасными"
-  },
-  "Includes_more_safe_example": {
-    "message": "((Например, если установлен  'http://*google.*/*' это распознается как 'http://*google.tld/*' чтобы избежать работы на 'http://www.google.myevilpage.com/')"
-  },
-  "Fix_includes": {
-    "message": "Исправлять включения"
-  },
-  "Fix_includes_example": {
-    "message": "(эта опция преобразует '*' в 'http://*/*')"
   },
   "Debug_scripts": {
     "message": "Отладка скриптов"
@@ -575,7 +554,7 @@
   "Homepage": {
     "message": "Домашняя страница"
   },
-  "Last_Updated": {
+  "Last_updated": {
     "message": "Последнее обновление"
   },
   "Version": {

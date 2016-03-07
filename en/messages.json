@@ -277,15 +277,6 @@
   "No_update_found__sry_": {
     "message": "No update found, sry!"
   },
-  "Unable_to_load_storage_due_to_empty_tabID_": {
-    "message": "Unable to load storage due to empty tabID!"
-  },
-  "Unable_to_save_storage_due_to_empty_tabID_": {
-    "message": "Unable to save storage due to empty tabID!"
-  },
-  "Unable_to_install_script_due_to_empty_tabID_": {
-    "message": "Unable to install script due to empty tabID!"
-  },
   "Unknown_method_0name0": {
     "message": "Unknown method $name$",
     "placeholders": {
@@ -311,18 +302,6 @@
   },
   "Settings": {
     "message": "Settings"
-  },
-  "Make_includes_more_safe": {
-    "message": "Make includes more safe"
-  },
-  "Includes_more_safe_example": {
-    "message": "If enabled for example 'http://*google.*/*' is interpreted as 'http://*google.tld/*' to avoid this script to work on 'http://www.google.myevilpage.com/'"
-  },
-  "Fix_includes": {
-    "message": "Fix includes"
-  },
-  "Fix_includes_example": {
-    "message": "This option converts a simple '*' to '/https?:\\/\\/.*\\/.*\\/'"
   },
   "Debug_scripts": {
     "message": "Debug scripts"
@@ -426,6 +405,18 @@
   "Auto_Indent_all": {
     "message": "Auto-Indent all"
   },
+  "Search_for": {
+    "message": "Search for"
+  },
+  "Replace_all": {
+    "message": "Replace all"
+  },
+  "Replace_with": {
+    "message": "Replace with"
+  },
+  "Replace_": {
+    "message": "Replace?"
+  },
   "There_are_unsaved_changed_": {
     "message": "There are unsaved changes.\nDo you really want to close the editor?"
   },
@@ -475,9 +466,6 @@
   },
   "One_or_more_compatibility_options_are_set": {
     "message": "One or more compatibility options are set. You might want/should review them."
-  },
-  "This_script_has_no_grant_header_set_": {
-    "message": "This script has no @grant header set!"
   },
   "This_script_has_full_web_access": {
     "message": "This script has full internet access."
@@ -796,8 +784,8 @@
   "Homepage": {
     "message": "Homepage"
   },
-  "Last_Updated": {
-    "message": "Last Updated"
+  "Last_updated": {
+    "message": "Last updated"
   },
   "Version": {
     "message": "Version"
@@ -908,6 +896,9 @@
   },
   "Changes_the_number_of_visible_config_options": {
     "message": "Changes the number of visible config options"
+  },
+  "Language": {
+    "message": "Language"
   },
   "Enter_the_new_rule": {
     "message": "Enter the new rule"
@@ -1261,9 +1252,6 @@
   },
   "Default": {
     "message": "Default"
-  },
-  "Last_updated": {
-    "message": "Last updated"
   },
   "Ok": {
     "message": "Ok"

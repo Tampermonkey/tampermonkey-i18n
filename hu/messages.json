@@ -195,15 +195,6 @@
   "No_update_found__sry_": {
     "message": "Nem találtunk frissítést, bocs!"
   },
-  "Unable_to_load_storage_due_to_empty_tabID_": {
-    "message": "Üres tabID miatt nem lehetett betölteni a tárolót!"
-  },
-  "Unable_to_save_storage_due_to_empty_tabID_": {
-    "message": " Üres tabID miatt nem lehetett elmenteni a tárolót!"
-  },
-  "Unable_to_install_script_due_to_empty_tabID_": {
-    "message": " Üres tabID miatt nem lehetett telepíteni a szkriptet!"
-  },
   "Unknown_method_0name0": {
     "message": "Ismeretlen metódus $name$",
     "placeholders": {
@@ -229,18 +220,6 @@
   },
   "Settings": {
     "message": "Beállítások"
-  },
-  "Make_includes_more_safe": {
-    "message": "A hozzárendelések biztonságosabbá tevése "
-  },
-  "Includes_more_safe_example": {
-    "message": "Amennyiben engedélyezve van akkor például 'http://*google.*/*' úgy van értelmezve mint 'http://*google.tld/*' annak érdekében, hogy a szkript ne működjön a 'http://www.google.myevilpage.com/' -on"
-  },
-  "Fix_includes": {
-    "message": "Hozzárendelések kijavítása"
-  },
-  "Fix_includes_example": {
-    "message": "Ez az opció átkonvertál egy sima '*' -ot '/https?:\\/\\/.*\\/.*\\/' -ra"
   },
   "Debug_scripts": {
     "message": "Szkriptben való hibakeresés"
@@ -387,9 +366,6 @@
   },
   "One_or_more_compatibility_options_are_set": {
     "message": "Egy vagy több kompatibilitási opció be van kapcsolva. Talán érdemes lenne ezeket ellenőrizned. "
-  },
-  "This_script_has_no_grant_header_set_": {
-    "message": "A szikriptben fejlécében nincs @grant beállítva!"
   },
   "This_script_has_full_web_access": {
     "message": "Ennek a szkriptnek teljes internet hozzáférése van."
@@ -682,7 +658,7 @@
   "Homepage": {
     "message": "Honlap"
   },
-  "Last_Updated": {
+  "Last_updated": {
     "message": "Utolsó frissítés"
   },
   "Version": {
@@ -1076,9 +1052,6 @@
   },
   "Default": {
     "message": "Alapértelmezett"
-  },
-  "Last_updated": {
-    "message": "Utolsó frissítés"
   },
   "Ok": {
     "message": "Rendben"
