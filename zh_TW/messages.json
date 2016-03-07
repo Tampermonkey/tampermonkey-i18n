@@ -108,14 +108,6 @@
   "All_script_settings_will_be_reset_": {
     "message": "全部的腳本設置將會重設！"
   },
-  "Tampermonkey_assumes_0urlAllHttp0_in_order_to_continue_": {
-    "message": "Tampermonkey 採用 '$urlAllHttp$' 以繼續執行！",
-    "placeholders": {
-      "urlAllHttp": {
-        "content": "$1"
-      }
-    }
-  },
   "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
     "message": "更新的 url 已經從：\n    '$oldurl$'\n    變更為：\n    '$newurl$'\n",
     "placeholders": {

@@ -619,14 +619,6 @@
   "Tampermonkey_External_Script_List_Access": {
     "message": "Liste d'accès des scripts externes TM"
   },
-  "Tampermonkey_assumes_0urlAllHttp0_in_order_to_continue_": {
-    "message": "Tampermonkey suppose '$urlAllHttp$' pour continuer!",
-    "placeholders": {
-      "urlAllHttp": {
-        "content": "$1"
-      }
-    }
-  },
   "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
     "message": "Tampermonkey ne peut peut-être pas donner accès au contenu non sécurisé (les fonctions/variables unsafeWindow) quand ceci est éteint."
   },

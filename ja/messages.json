@@ -735,14 +735,6 @@
   "Tampermonkey_External_Script_List_Access": {
     "message": "スクリプト同期 (TESLA = Tampermonkey 外部スクリプト リスト アクセス)"
   },
-  "Tampermonkey_assumes_0urlAllHttp0_in_order_to_continue_": {
-    "message": "Tampermonkey は続行するために「$urlAllHttp$」を想定します!",
-    "placeholders": {
-      "urlAllHttp": {
-        "content": "$1"
-      }
-    }
-  },
   "Tampermonkey_has_no_file_access_permission_": {
     "message": "Tampermonkey のローカル ファイルへのアクセスが許可されていません!"
   },

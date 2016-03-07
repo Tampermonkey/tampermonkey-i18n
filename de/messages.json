@@ -87,14 +87,6 @@
   "All_script_settings_will_be_reset_": {
     "message": "Alle Script-Einstellungen werden zurückgesetzt!"
   },
-  "Tampermonkey_assumes_0urlAllHttp0_in_order_to_continue_": {
-    "message": "Tampermonkey verwendet '$urlAllHttp$' um fortzufahren!",
-    "placeholders": {
-      "urlAllHttp": {
-        "content": "$1"
-      }
-    }
-  },
   "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
     "message": "Die Update-URL hat sich von:\n    '$oldurl$'\n    zu:\n    '$newurl$'\n verändert.\n",
     "placeholders": {
@@ -988,6 +980,12 @@
   },
   "Really_delete_the_selected_items_": {
     "message": "Sollen wirklich alle ausgewählten Elemente gelöscht werden?"
+  },
+  "Really_factory_reset_the_selected_items_": {
+    "message": "Sollen wirklich alle Einstellungen der ausgewählten Elemente zurückgesetzt werden?"
+  },
+  "Really_factory_reset_this_script_": {
+    "message": "Sollen wirklich alle Einstellungen dieses Scripts zurückgesetzt werden?"
   },
   "Reset_Section": {
     "message": "Reset"

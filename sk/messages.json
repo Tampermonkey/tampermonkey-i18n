@@ -744,14 +744,6 @@
     "Tampermonkey_External_Script_List_Access": {
         "message": "Synchronizácia skriptov (Tampermonkey External Script List Access)"
     },
-    "Tampermonkey_assumes_0urlAllHttp0_in_order_to_continue_": {
-        "message": "Tampermonkey predpokladá '$urlAllHttp$', aby mohol pokračovať!",
-        "placeholders": {
-            "urlAllHttp": {
-                "content": "$1"
-            }
-        }
-    },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey nemá oprávnenie pristupovať k lokálnym súborom!"
     },

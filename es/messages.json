@@ -105,14 +105,6 @@
   "All_script_settings_will_be_reset_": {
     "message": "Todas las configuraciones del script se perderán!"
   },
-  "Tampermonkey_assumes_0urlAllHttp0_in_order_to_continue_": {
-    "message": "Tampermonkey asume '$urlAllHttp$' para continuar!",
-    "placeholders": {
-      "urlAllHttp": {
-        "content": "$1"
-      }
-    }
-  },
   "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
     "message": "La URL de actualización cambió de:\n    '$oldurl$'\n    a:\n    '$newurl$'\n",
     "placeholders": {

@@ -120,14 +120,6 @@
   "All_script_settings_will_be_reset_": {
     "message": "Minden szkript beállítás visszaállításra fog kerülni!"
   },
-  "Tampermonkey_assumes_0urlAllHttp0_in_order_to_continue_": {
-    "message": "A fojtatáshoz a Tampermonkey a '$urlAllHttp$' feltételezi!",
-    "placeholders": {
-      "urlAllHttp": {
-        "content": "$1"
-      }
-    }
-  },
   "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
     "message": "A frissítési cím megváltozott :\n    '$oldurl$' -ról\n    :\n    '$newurl$' -ren",
     "placeholders": {

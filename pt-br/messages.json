@@ -715,14 +715,6 @@
   "Tampermonkey_External_Script_List_Access": {
     "message": "Tampermonkey External Script List Access (Lista de Acesso de Scripts Externos Tampermonkey)"
   },
-  "Tampermonkey_assumes_0urlAllHttp0_in_order_to_continue_": {
-    "message": "Tampermonkey assume '$urlAllHttp$' para continuar!",
-    "placeholders": {
-      "urlAllHttp": {
-        "content": "$1"
-      }
-    }
-  },
   "Tampermonkey_has_no_file_access_permission_": {
     "message": "Tampermonkey não tem permissão para acessar arquivos locais!"
   },
