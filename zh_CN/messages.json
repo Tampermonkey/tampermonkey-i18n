@@ -251,6 +251,17 @@
   "A_userscript_wants_to_access_a_cross_origin_resource_": {
     "message": "一个用户脚本试图访问跨源资源。"
   },
+  "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
+    "message": "一个跨源资源请求并不罕见。\n您只需检查这个脚本是否有个访问这一域名的好理由。\n例如用户脚本仅有非常少的理由去访问您的银行账户。\n\n请注意用户脚本作者可通过添加[url=$connect$]@connect tags[/url]到他们的脚本中来避免此对话框。\n\n不管您如何决定，您都可以随时在脚本的[url=$settings$]设置页面[/url]更改您的选项。",
+    "placeholders": {
+      "connect": {
+        "content": "$1"
+      },
+      "settings": {
+        "content": "$2"
+      }
+    }
+  },
   "Tab_URL": {
     "message": "标签URL"
   },
@@ -393,6 +404,18 @@
   },
   "Auto_Indent_all": {
     "message": "全部自动缩进"
+  },
+  "Search_for": {
+    "message": "搜索……"
+  },
+  "Replace_all": {
+    "message": "全部替换"
+  },
+  "Replace_with": {
+    "message": "用……替换"
+  },
+  "Replace_": {
+    "message": "替换？"
   },
   "There_are_unsaved_changed_": {
     "message": "有未保存的改动！ \n 确定关闭编辑器？"
@@ -585,6 +608,9 @@
   },
   "Editor": {
     "message": "编辑器"
+  },
+  "Font_Size": {
+    "message": "字号"
   },
   "Theme": {
     "message": "主题"
@@ -871,6 +897,9 @@
   "Changes_the_number_of_visible_config_options": {
     "message": "更改可见配置选项的数量"
   },
+  "Language": {
+    "message": "语言"
+  },
   "Enter_the_new_rule": {
     "message": "输入新规则"
   },
@@ -1016,6 +1045,9 @@
   },
   "This_will_restart_Tampermonkey_Ok_": {
     "message": "您真的想重启 Tampermonkey 吗？"
+  },
+  "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
+    "message": "Tampermonkey需要重启以应用这些更改。 \n\n您要继续吗？"
   },
   "Factory_Reset": {
     "message": "出厂重置"
