@@ -862,8 +862,14 @@
   "Icon_badge_color": {
     "message": "Icon Badge Color"
   },
+  "On": {
+    "message": "On"
+  },
   "Off": {
     "message": "Off"
+  },
+  "Disabled": {
+    "message": "Disabled"
   },
   "Running_scripts": {
     "message": "Running scripts instances"

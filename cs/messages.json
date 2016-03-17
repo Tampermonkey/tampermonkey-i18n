@@ -862,7 +862,13 @@
   "Icon_badge_color": {
     "message": "Barva ikony odznaku"
   },
+  "On": {
+    "message": "Na"
+  },
   "Off": {
+    "message": "Pryč"
+  },
+  "Disabled": {
     "message": "Vypnuto"
   },
   "Running_scripts": {

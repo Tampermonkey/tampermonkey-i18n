@@ -680,7 +680,13 @@
   "Icon_badge_info": {
     "message": "圖示徽章訊息"
   },
+  "On": {
+    "message": "打開"
+  },
   "Off": {
+    "message": "關閉"
+  },
+  "Disabled": {
     "message": "關閉"
   },
   "Running_scripts": {

@@ -184,7 +184,7 @@
   "Always_allow_all_domains": {
     "message": "Alle Domains immer erlauben"
   },
- "Forbid_once": {
+  "Forbid_once": {
       "message": "Einmal verbieten"
   },
   "Always_forbid": {
@@ -814,7 +814,13 @@
   "Icon_badge_color": {
     "message": "Icon Info Hintergrundfarbe"
   },
+  "On": {
+    "message": "An"
+  },
   "Off": {
+    "message": "Aus"
+  },
+  "Disabled": {
     "message": "Aus"
   },
   "Running_scripts": {

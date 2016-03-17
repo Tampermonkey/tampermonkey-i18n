@@ -534,7 +534,13 @@
   "Novice": {
     "message": "新参者"
   },
+  "On": {
+    "message": "ON"
+  },
   "Off": {
+    "message": "OFF"
+  },
+  "Disabled": {
     "message": "OFF"
   },
   "One_or_more_compatibility_options_are_set": {

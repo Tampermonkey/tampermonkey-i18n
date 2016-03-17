@@ -976,5 +976,54 @@
   },
   "some_secs": {
     "message": "alguns"
+  },
+  "Allow_once": {
+    "message": "Permitir uma vez"
+  },
+  "Temporarily_allow": {
+    "message": "Permitir temporariamente"
+  },
+  "Always_allow": {
+    "message": "Sempre permitir"
+  },
+  "Always_allow_domain": {
+    "message": "Sempre permitir domínio"
+  },
+  "Forbid_once": {
+      "message": "Proibir uma vez"
+  },
+  "Always_forbid": {
+      "message": "Sempre proibir"
+  },
+  "Always_forbid_domain": {
+      "message": "Sempre proibir domínio"
+  },
+  "Dont_ask_again": {
+      "message": "Não perguntar novamente"
+  },
+  "Focus_tab": {
+    "message": "Focalizar guia fonte"
+  },
+  "Skip_timeout__0seconds0_seconds_": {
+    "message": "Saltar tempo esgotado ($seconds$ segundos)",
+    "placeholders": {
+      "seconds": {
+        "content": "$1"
+      }
+    }
+  },
+  "A_userscript_wants_to_access_a_cross_origin_resource_": {
+    "message": "Um script de usuário quer acessar um recurso de origem cruzada."
+  },
+  "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
+    "message": "Uma solicitação para um recurso de origem cruzada não é incomum. Você tem de verificar se esse script tem boa razão para acessar esse domínio.\nPor exemplo, há apenas algumas poucas razões para que um script de usuário entre em contato com seu banco.\n\nObserve que os autores do script de usuário podem evitar esse diálogo, adicionando etiquetas [url=$connect$]@connect[/url] aos seus scripts.\n\nIndependente do que você decidir, você pode mudar sua opinião quando quiser na guia de [url=$settings$]definições do script[/url].",
+    "placeholders": {
+      "connect": {
+        "content": "$1"
+      },
+      "settings": {
+        "content": "$2"
+      }
+    }
   }
 }

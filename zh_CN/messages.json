@@ -862,7 +862,13 @@
   "Icon_badge_color": {
     "message": "图标包颜色"
   },
+  "On": {
+    "message": "打开"
+  },
   "Off": {
+    "message": "关"
+  },
+  "Disabled": {
     "message": "关"
   },
   "Running_scripts": {
