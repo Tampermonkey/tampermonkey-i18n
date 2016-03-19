@@ -172,6 +172,58 @@
   "Process_with_Chrome": {
     "message": "用Chrome執行"
   },
+  "Allow_once": {
+    "message": "允許一次"
+  },
+  "Temporarily_allow": {
+    "message": "臨時允許"
+  },
+  "Always_allow": {
+    "message": "始終允許"
+  },
+  "Always_allow_domain": {
+    "message": "始終允許域"
+  },
+  "Always_allow_all_domains": {
+    "message": "Always allow all domains"
+  },
+  "Forbid_once": {
+      "message": "禁止一次"
+  },
+  "Always_forbid": {
+      "message": "始終禁止"
+  },
+  "Always_forbid_domain": {
+      "message": "始終禁止域"
+  },
+  "Dont_ask_again": {
+      "message": "不要再問"
+  },
+  "Focus_tab": {
+    "message": "重點來源欄標"
+  },
+  "Skip_timeout__0seconds0_seconds_": {
+    "message": "跳過超時（$seconds$秒）",
+    "placeholders": {
+      "seconds": {
+        "content": "$1"
+      }
+    }
+  },
+  "A_userscript_wants_to_access_a_cross_origin_resource_": {
+    "message": "使用者腳本需要獲取跨域資源。"
+  },
+  "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
+    "message": "跨域資源請求並無異常之處。\n只需檢查此腳本是否具有訪問本域的充分理由即可。\n例如，使用者腳本聯繫你的記憶庫僅有為數不多的幾個理由。\n\n請注意，使用者腳本作者可通過向其腳本添加[url=$connect$]@connect標籤[/url]避免這一對話。\n\n不管如何決定，你均可隨時在腳本[url=$settings$]設置欄[/url]標更改你的意見。",
+    "placeholders": {
+      "connect": {
+        "content": "$1"
+      },
+      "settings": {
+        "content": "$2"
+      }
+    }
+  },
   "No_update_found__sry_": {
     "message": "沒有發現更新喔，抱歉！"
   },
