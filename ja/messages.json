@@ -540,9 +540,6 @@
   "Off": {
     "message": "OFF"
   },
-  "Disabled": {
-    "message": "OFF"
-  },
   "One_or_more_compatibility_options_are_set": {
     "message": "互換性オプションが 1 つ以上設定されています。これらを再確認する必要がある可能性があります。"
   },

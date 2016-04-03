@@ -820,9 +820,6 @@
   "Off": {
     "message": "Aus"
   },
-  "Disabled": {
-    "message": "Aus"
-  },
   "Running_scripts": {
     "message": "Aktive Script-Instanzen"
   },

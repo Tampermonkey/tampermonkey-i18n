@@ -868,9 +868,6 @@
   "Off": {
     "message": "关"
   },
-  "Disabled": {
-    "message": "关"
-  },
   "Running_scripts": {
     "message": "正在运行脚本实例"
   },

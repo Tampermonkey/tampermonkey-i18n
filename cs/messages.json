@@ -514,7 +514,7 @@
     "message": "Povoleno"
   },
   "Disabled": {
-    "message": "Zakázano"
+    "message": "Vypnuto"
   },
   "Unable_to_parse_this_": {
     "message": "Toto nelze parsovat! :("
@@ -867,9 +867,6 @@
   },
   "Off": {
     "message": "Pryč"
-  },
-  "Disabled": {
-    "message": "Vypnuto"
   },
   "Running_scripts": {
     "message": "Běžící skripty"

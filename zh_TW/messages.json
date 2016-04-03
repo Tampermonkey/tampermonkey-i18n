@@ -738,9 +738,6 @@
   "Off": {
     "message": "關閉"
   },
-  "Disabled": {
-    "message": "關閉"
-  },
   "Running_scripts": {
     "message": "運行中的腳本實例"
   },

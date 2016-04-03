@@ -868,9 +868,6 @@
   "Off": {
     "message": "Off"
   },
-  "Disabled": {
-    "message": "Disabled"
-  },
   "Running_scripts": {
     "message": "Running scripts instances"
   },

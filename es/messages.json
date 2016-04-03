@@ -520,9 +520,6 @@
   "Icon_badge_info": {
     "message": "Icon Badge Info"
   },
-  "Disabled": {
-    "message": "Desactivado"
-  },
   "Running_scripts": {
     "message": "Instancias de scripts en ejecución"
   },
