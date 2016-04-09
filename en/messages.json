@@ -654,6 +654,9 @@
   "Smart": {
     "message": "Smart"
   },
+  "Line_break": {
+    "message": "Line break"
+  },
   "Reindent_on_typing": {
     "message": "Re-indent on typing"
   },
@@ -749,9 +752,6 @@
   },
   "strict_mode": {
     "message": "strict mode"
-  },
-  "strong_mode": {
-    "message": "strong mode"
   },
   "This_page_is_blacklisted_at_the_security_settings": {
     "message": "Blacklisted by security settings"

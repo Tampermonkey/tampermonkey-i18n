@@ -609,6 +609,9 @@
   "Smart": {
     "message": "Smart"
   },
+  "Line_break": {
+    "message": "Automatischer Zeilenumbruch"
+  },
   "Reindent_on_typing": {
     "message": "Einrückung beim Schreiben"
   },
@@ -704,9 +707,6 @@
   },
   "strict_mode": {
     "message": "strict mode"
-  },
-  "strong_mode": {
-    "message": "strong mode"
   },
   "This_page_is_blacklisted_at_the_security_settings": {
     "message": "Durch Sicherheitsoptionen geblockt"

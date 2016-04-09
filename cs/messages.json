@@ -750,9 +750,6 @@
   "strict_mode": {
     "message": "Režim strict"
   },
-  "strong_mode": {
-    "message": "Režim strong"
-  },
   "This_page_is_blacklisted_at_the_security_settings": {
     "message": "Blokováno kvůli nastavení zabezpečení"
   },

@@ -750,9 +750,6 @@
   "strict_mode": {
     "message": "严格模式"
   },
-  "strong_mode": {
-    "message": "增强模式"
-  },
   "This_page_is_blacklisted_at_the_security_settings": {
     "message": "被安全设置列入黑名单"
   },

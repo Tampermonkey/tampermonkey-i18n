@@ -1253,8 +1253,5 @@
     },
     "strict_mode": {
         "message": "prísny mód"
-    },
-    "strong_mode": {
-        "message": "tvrdý mode"
     }
 }
