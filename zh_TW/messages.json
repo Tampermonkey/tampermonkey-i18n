@@ -39,13 +39,13 @@
     "message": "歡迎贊助"
   },
   "I_contributed_already": {
-    "message": "我已支付"
+    "message": "我已贊助"
   },
   "Remind_me_later": {
-    "message": "請記住我，稍後支付"
+    "message": "請記住我，稍後贊助"
   },
   "I_dont_want_to_contribute": {
-    "message": "我不想支付"
+    "message": "我不想贊助"
   },
   "Invalid_UserScript__Sry_": {
     "message": "無效的使用者腳本！"
@@ -62,7 +62,7 @@
     }
   },
   "Downloaded_from_0url0": {
-    "message": "已經下載從： $url$",
+    "message": "已經從 $url$ 下載",
     "placeholders": {
       "url": {
         "content": "$1"
