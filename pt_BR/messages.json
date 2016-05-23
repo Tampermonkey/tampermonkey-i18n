@@ -445,6 +445,9 @@
   "Global_settings_import": {
     "message": "Importação de configuração global"
   },
+  "This_will_overwrite_your_global_settings_": {
+    "message": "Isto irá sobrecrever suas configurações globais!"
+  },
   "Installed_userscripts": {
     "message": "Userscripts instalados"
   },
@@ -586,9 +589,6 @@
   "Post_Import_Action": {
     "message": "Ação Pós-Importação"
   },
-  "Process_with_Chrome": {
-    "message": "Processar com Chrome"
-  },
   "Really_delete_0name0__": {
     "message": "Você tem certeza de que deseja deletar '$name$'?",
     "placeholders": {
@@ -596,6 +596,27 @@
         "content": "$1"
       }
     }
+  },
+  "Process_with_Chrome": {
+    "message": "Processar com Chrome"
+  },
+  "Enforce": {
+    "message": "Forçar"
+  },
+  "Strict": {
+    "message": "Estrito"
+  },
+  "connect_mode": {
+    "message": "modo @connect"
+  },
+  "Ask_if_unknown": {
+    "message": "Pergunte se não conhece."
+  },
+  "Always_ask": {
+    "message": "Sempre pergunte."
+  },
+  "Casual": {
+    "message": "Casual"
   },
   "Really_delete_the_selected_items_": {
     "message": "Você tem certeza de que quer deletar os itens selectionados?"
@@ -867,6 +888,17 @@
   "Update": {
     "message": "Atualizar"
   },
+  "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
+    "message": "$name$ $version$ está disponível.\nPor favor reinicie seu navegador para começar a atualização!",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      },
+      "version": {
+        "content": "$2"
+      }
+    }
+  },
   "Update_Notification": {
     "message": "Mostrar opções de atualização do TM"
   },
@@ -1010,17 +1042,20 @@
   "Always_allow_domain": {
     "message": "Sempre permitir domínio"
   },
+  "Always_allow_all_domains": {
+    "message": "Sempre permita todos os domínios"
+  },
   "Forbid_once": {
-      "message": "Proibir uma vez"
+    "message": "Proibir uma vez"
   },
   "Always_forbid": {
-      "message": "Sempre proibir"
+    "message": "Sempre proibir"
   },
   "Always_forbid_domain": {
-      "message": "Sempre proibir domínio"
+    "message": "Sempre proibir domínio"
   },
   "Dont_ask_again": {
-      "message": "Não perguntar novamente"
+    "message": "Não perguntar novamente"
   },
   "Focus_tab": {
     "message": "Focalizar guia fonte"
@@ -1046,5 +1081,180 @@
         "content": "$2"
       }
     }
+  },
+  "Tab_URL": {
+    "message": "URL da aba"
+  },
+  "Destination_domain": {
+    "message": "Domínio destino"
+  },
+  "Destination_URL": {
+    "message": "URL destino"
+  },
+  "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
+    "message": "Isto dá ao script a permissão de recuperar e enviar datos de e para qualquer pagina da web. Isto é potencialmente inseguro!\n\nVocê tem certeza que deseja continuar?"
+  },
+  "Waiting_for_sync_to_finish": {
+    "message": "Esperando a sincronização terminar"
+  },
+  "Details": {
+    "message": "Detalhes"
+  },
+  "UUID": {
+    "message": "UUID"
+  },
+  "Search_for": {
+    "message": "Procure por"
+  },
+  "Replace_all": {
+    "message": "Substituir tudo"
+  },
+  "Replace_with": {
+    "message": "Substituir por"
+  },
+  "Replace_": {
+    "message": "Substituir?"
+  },
+  "Include_TM_settings": {
+    "message": "incluir configurações do Tampermonkey"
+  },
+  "Always": {
+    "message": "Sempre"
+  },
+  "Font_Size": {
+    "message": "Tamanho da fonte"
+  },
+  "Theme": {
+    "message": "Tema"
+  },
+  "Sublime": {
+    "message": "Sublime Text"
+  },
+  "Please_check_the_0editor0_documentation_for_more_details_": {
+    "message": "Por favor verifique a configuração do $editor$ para mais detalhes.",
+    "placeholders": {
+      "editor": {
+        "content": "$1"
+      }
+    }
+  },
+  "Line_break": {
+    "message": "Quebra de linha."
+  },
+  "Experimental": {
+    "message": "Experimental"
+  },
+  "strict_mode": {
+    "message": "Modo estrito"
+  },
+  "No_syntax_errors_were_found_": {
+    "message": "Não foram encontrados erros de sintaxe."
+  },
+  "One_error_or_hint_was_found_": {
+    "message": "Um erro ou aviso foi encontrado."
+  },
+  "0count0_errors_or_hints_were_found_": {
+    "message": "$count$ erros ou avisos foram encontrados.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "Auto_syntax_check_on_typing": {
+    "message": "Verificação automatica de sintaxe ao digitar."
+  },
+  "Enable_this_option_to_automatically_check_the_code_on_typing_": {
+    "message": "Habilite esta opção para verificar automaticamente o código ao digitar."
+  },
+  "Auto_syntax_check_max_length": {
+    "message": "Tamanho maximo da verificação automatica."
+  },
+  "Check_only_scripts_up_to_this_size_automatically_": {
+    "message": "Verificação de scripts automatica até este tamanho apenas."
+  },
+  "Highlight_trailing_whitespace": {
+    "message": "Realce espaços em branco"
+  },
+  "Script_URL_detection": {
+    "message": "Detecção da url do script."
+  },
+  "Install_this_script": {
+    "message": "Instale este script"
+  },
+  "Icon_badge_color": {
+    "message": "Cor do ícone do badge"
+  },
+  "Language": {
+    "message": "Linguagem"
+  },
+  "Original_domain_whitelist": {
+    "message": "whitelist de domínio original"
+  },
+  "User_domain_whitelist": {
+    "message": "whitelist de domínio do usuário"
+  },
+  "Temporary_domain_whitelist": {
+    "message": "whitelist de domínio temporário"
+  },
+  "User_domain_blacklist": {
+    "message": "blacklist de domínio do usuário"
+  },
+  "XHR_Security": {
+    "message": "Segurança de XHR"
+  },
+  "Sync_Version": {
+    "message": "Versão"
+  },
+  "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
+    "message": "Diferente da versão de sincronização 'legado' esta sincroniza seus scripts pela referencia de um ID único que é criado quando um script é instalado!\n\nIsto significa que se voce instalou um script em multiplas instancias de Tampermonkey por algum outro método de sincronização ou uma instalação normal de script entao este script irá aparecer varias vezes depois que a próxima iteração de sincronização estiver terminada.\n\nA unica forma de recuperar é remover manualmente cada script duplicado!\n\nVocê realmente quer continuar?"
+  },
+  "Different_sync_versions_are_not_compatible_to_each_other_": {
+    "message": "Versões Diferente de sincronização não são compativeis entre si!"
+  },
+  "Subresource_Integrity": {
+    "message": "Integridade de subrecursos"
+  },
+  "Validate_if_supported": {
+    "message": "Valide se possível"
+  },
+  "Validate_if_given": {
+    "message": "Valide se determinado"
+  },
+  "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
+    "message": "Autores de scripts externos podem proteger seus recursos externos adicionando um hash SRI à URL."
+  },
+  "Toggle_Enable": {
+    "message": "Alterne para habilitar."
+  },
+  "Really_factory_reset_the_selected_items_": {
+    "message": "Você realmente deseja realizar o reset de fabrica para os itens selecionados?"
+  },
+  "Really_factory_reset_this_script_": {
+    "message": "Você realmente deseja realizar o reset de fabrica neste script?"
+  },
+  "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
+    "message": "Tampermonkey precisa ser reiniciado para aplicar esta alteração.\n\nVocê quer continuar?"
+  },
+  "Operation_completed_successfully": {
+    "message": "Operação completa com sucesso."
+  },
+  "Report_an_issue_to_the_script_hoster_": {
+    "message": "Reporte uma issue ao hóspede do script.\n(Uma conta de usuário é necessária.)"
+  },
+  "Action_Menu": {
+    "message": "Menu de ações"
+  },
+  "Hide_disabled_scripts": {
+    "message": "Esconde scripts desabilitados."
+  },
+  "Columns": {
+    "message": "Colunas."
+  },
+  "Script_order": {
+    "message": "Ordem de scripts"
+  },
+  "Ok": {
+    "message": "Ok"
   }
 }
