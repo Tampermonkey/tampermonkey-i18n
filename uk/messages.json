@@ -108,14 +108,6 @@
   "All_script_settings_will_be_reset_": {
     "message": "Всі налаштування скриптів будуть скинуті!"
   },
-  "Tampermonkey_assumes_0urlAllHttp0_in_order_to_continue_": {
-    "message": "Tampermonkey має на увазі '$urlAllHttp$' і пропонує продовжити!",
-    "placeholders": {
-      "urlAllHttp": {
-        "content": "$1"
-      }
-    }
-  },
   "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
     "message": "Відбулося оновлення URL з:\n    '$oldurl$'\n    на:\n    '$newurl$'\n",
     "placeholders": {

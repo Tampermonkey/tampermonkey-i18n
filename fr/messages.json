@@ -460,9 +460,6 @@
   "Novice": {
     "message": "Novice"
   },
-  "Off": {
-    "message": "Off"
-  },
   "One_or_more_compatibility_options_are_set": {
     "message": "Des options de compatibilités sont mises. Vous devriez/devez les revérifier."
   },
@@ -618,14 +615,6 @@
   },
   "Tampermonkey_External_Script_List_Access": {
     "message": "Liste d'accès des scripts externes TM"
-  },
-  "Tampermonkey_assumes_0urlAllHttp0_in_order_to_continue_": {
-    "message": "Tampermonkey suppose '$urlAllHttp$' pour continuer!",
-    "placeholders": {
-      "urlAllHttp": {
-        "content": "$1"
-      }
-    }
   },
   "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
     "message": "Tampermonkey ne peut peut-être pas donner accès au contenu non sécurisé (les fonctions/variables unsafeWindow) quand ceci est éteint."
@@ -822,5 +811,57 @@
   },
   "some_secs": {
     "message": "quelques"
+  },
+  "Allow_once": {
+    "message": "Autoriser une fois"
+  },
+  "Temporarily_allow": {
+    "message": "Autoriser temporairement"
+  },
+  "Always_allow": {
+    "message": "Toujours autoriser"
+  },
+  "Always_allow_domain": {
+    "message": "Toujours autoriser le domaine"
+  },
+  "Always_allow_all_domains": {
+    "message": "Always allow all domains"
+  },
+  "Forbid_once": {
+      "message": "Interdire une fois"
+  },
+  "Always_forbid": {
+      "message": "Toujours interdire"
+  },
+  "Always_forbid_domain": {
+      "message": "Toujours interdire le domaine"
+  },
+  "Dont_ask_again": {
+      "message": "Ne plus demander"
+  },
+  "Focus_tab": {
+    "message": "Focus onglet source"
+  },
+  "Skip_timeout__0seconds0_seconds_": {
+    "message": "Ignorer le timeout ($seconds$ secondes)",
+    "placeholders": {
+      "seconds": {
+        "content": "$1"
+      }
+    }
+  },
+  "A_userscript_wants_to_access_a_cross_origin_resource_": {
+    "message": "Un script utilisateur veut accéder à une ressource d'origines croisées."
+  },
+  "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
+    "message": "Une requête vers une ressource d'origines croisées n'est pas inhabituelle.\nIl suffit de vérifier si ce script a une raison valable d'accéder à ce domaine.\nPar exemple, il existe très peu de raisons pour qu'un script utilisateur contacte votre banque.\n\nÀ noter que les auteurs de scripts utilisateur peuvent éviter cette boîte de dialogue en ajoutant une balise [url=$connect$]@connect[/url] à leur script.\n\nQuoi que vous décidiez, vous pouvez effectuer des modifications à tout moment via l'onglet des [url=$settings$]paramètres du script[/url].",
+    "placeholders": {
+      "connect": {
+        "content": "$1"
+      },
+      "settings": {
+        "content": "$2"
+      }
+    }
   }
 }

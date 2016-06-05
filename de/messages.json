@@ -87,14 +87,6 @@
   "All_script_settings_will_be_reset_": {
     "message": "Alle Script-Einstellungen werden zurückgesetzt!"
   },
-  "Tampermonkey_assumes_0urlAllHttp0_in_order_to_continue_": {
-    "message": "Tampermonkey verwendet '$urlAllHttp$' um fortzufahren!",
-    "placeholders": {
-      "urlAllHttp": {
-        "content": "$1"
-      }
-    }
-  },
   "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
     "message": "Die Update-URL hat sich von:\n    '$oldurl$'\n    zu:\n    '$newurl$'\n verändert.\n",
     "placeholders": {
@@ -192,7 +184,7 @@
   "Always_allow_all_domains": {
     "message": "Alle Domains immer erlauben"
   },
- "Forbid_once": {
+  "Forbid_once": {
       "message": "Einmal verbieten"
   },
   "Always_forbid": {
@@ -617,6 +609,9 @@
   "Smart": {
     "message": "Smart"
   },
+  "Line_break": {
+    "message": "Automatischer Zeilenumbruch"
+  },
   "Reindent_on_typing": {
     "message": "Einrückung beim Schreiben"
   },
@@ -712,9 +707,6 @@
   },
   "strict_mode": {
     "message": "strict mode"
-  },
-  "strong_mode": {
-    "message": "strong mode"
   },
   "This_page_is_blacklisted_at_the_security_settings": {
     "message": "Durch Sicherheitsoptionen geblockt"
@@ -821,6 +813,9 @@
   },
   "Icon_badge_color": {
     "message": "Icon Info Hintergrundfarbe"
+  },
+  "On": {
+    "message": "An"
   },
   "Off": {
     "message": "Aus"
@@ -988,6 +983,12 @@
   },
   "Really_delete_the_selected_items_": {
     "message": "Sollen wirklich alle ausgewählten Elemente gelöscht werden?"
+  },
+  "Really_factory_reset_the_selected_items_": {
+    "message": "Sollen wirklich alle Einstellungen der ausgewählten Elemente zurückgesetzt werden?"
+  },
+  "Really_factory_reset_this_script_": {
+    "message": "Sollen wirklich alle Einstellungen dieses Scripts zurückgesetzt werden?"
   },
   "Reset_Section": {
     "message": "Reset"

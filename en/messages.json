@@ -120,14 +120,6 @@
   "All_script_settings_will_be_reset_": {
     "message": "All script settings will be reset!"
   },
-  "Tampermonkey_assumes_0urlAllHttp0_in_order_to_continue_": {
-    "message": "Tampermonkey assumes '$urlAllHttp$' in order to continue!",
-    "placeholders": {
-      "urlAllHttp": {
-        "content": "$1"
-      }
-    }
-  },
   "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
     "message": "The update url has changed from:\n    '$oldurl$'\n    to:\n    '$newurl$'\n",
     "placeholders": {
@@ -193,7 +185,7 @@
     "message": "Process with Chrome"
   },
   "Enforce": {
-    "message": "enforce"
+    "message": "Enforce"
   },
   "Strict": {
     "message": "Strict"
@@ -662,6 +654,9 @@
   "Smart": {
     "message": "Smart"
   },
+  "Line_break": {
+    "message": "Line break"
+  },
   "Reindent_on_typing": {
     "message": "Re-indent on typing"
   },
@@ -757,9 +752,6 @@
   },
   "strict_mode": {
     "message": "strict mode"
-  },
-  "strong_mode": {
-    "message": "strong mode"
   },
   "This_page_is_blacklisted_at_the_security_settings": {
     "message": "Blacklisted by security settings"
@@ -869,6 +861,9 @@
   },
   "Icon_badge_color": {
     "message": "Icon Badge Color"
+  },
+  "On": {
+    "message": "On"
   },
   "Off": {
     "message": "Off"
@@ -1036,6 +1031,12 @@
   },
   "Really_delete_the_selected_items_": {
     "message": "Do you really want to delete the selected items?"
+  },
+  "Really_factory_reset_the_selected_items_": {
+    "message": "Do you really want to factory reset the selected items?"
+  },
+  "Really_factory_reset_this_script_": {
+    "message": "Do you really want to factory reset this script?"
   },
   "Reset_Section": {
     "message": "Reset"

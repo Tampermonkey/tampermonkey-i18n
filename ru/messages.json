@@ -108,14 +108,6 @@
   "All_script_settings_will_be_reset_": {
     "message": "Все настройки скриптов будут сброшены!"
   },
-  "Tampermonkey_assumes_0urlAllHttp0_in_order_to_continue_": {
-    "message": "Tampermonkey подразумевает '$urlAllHttp$' и предлагает продолжить!",
-    "placeholders": {
-      "urlAllHttp": {
-        "content": "$1"
-      }
-    }
-  },
   "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
     "message": "Произошло обновление URL с:\n    '$oldurl$'\n    на:\n    '$newurl$'\n",
     "placeholders": {
@@ -150,6 +142,55 @@
   },
   "Source": {
     "message": "Источник"
+  },
+  "Allow_once": {
+    "message": "Разрешить 1 раз"
+  },
+  "Temporarily_allow": {
+    "message": "Временно разрешить"
+  },
+  "Always_allow": {
+    "message": "Всегда разрешать"
+  },
+  "Always_allow_domain": {
+    "message": "Всегда разрешать домену"
+  },
+  "Forbid_once": {
+      "message": "Запретить 1 раз"
+  },
+  "Always_forbid": {
+      "message": "Всегда запрещать"
+  },
+  "Always_forbid_domain": {
+      "message": "Всегда запрещать домену"
+  },
+  "Dont_ask_again": {
+      "message": "Больше не спрашивать"
+  },
+  "Focus_tab": {
+    "message": "На вкладку источника"
+  },
+  "Skip_timeout__0seconds0_seconds_": {
+    "message": "Пропустить тайм-аут ($seconds$ секунд)",
+    "placeholders": {
+      "seconds": {
+        "content": "$1"
+      }
+    }
+  },
+  "A_userscript_wants_to_access_a_cross_origin_resource_": {
+    "message": "Пользовательский сценарий хочет получить доступ к ресурсу с запросом происхождения."
+  },
+  "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
+    "message": "Запрос происхождения ресурса не является чем-то необычным.\nВы просто должны проверить, есть ли у этого сценария достаточный повод для получения доступа к этому домену.\nК примеру, у пользовательского сценария есть очень мало причин для связи с вашим банком.\n\nОбратите внимание, что авторы пользовательского сценария могут избежать этого диалога путем добавления тега [url=$connect$]@connect[/url] к своим сценариям.\n\nНезависимо от того, что вы решите, вы в любое время можете изменить свое решение на [url=$settings$]вкладке настроек[/url] сценария.",
+    "placeholders": {
+      "connect": {
+        "content": "$1"
+      },
+      "settings": {
+        "content": "$2"
+      }
+    }
   },
   "No_update_found__sry_": {
     "message": "Извините, но обновлений нет!"
