@@ -42,10 +42,13 @@
     "message": "我已贊助"
   },
   "Remind_me_later": {
-    "message": "請記住我，稍後贊助"
+    "message": "稍後提醒"
   },
   "I_dont_want_to_contribute": {
     "message": "我不想贊助"
+  },
+  "Thank_you_very_much_": {
+    "message": "非常感謝您！"
   },
   "Invalid_UserScript__Sry_": {
     "message": "無效的使用者腳本！"
@@ -80,6 +83,15 @@
   },
   "Installed_Version_": {
     "message": "已安裝版本"
+  },
+  "Global_Settings": {
+    "message": "Global Settings"
+  },
+  "Global_settings_import": {
+    "message": "Global settings import"
+  },
+  "This_will_overwrite_your_global_settings_": {
+    "message": "This will overwrite your global settings!"
   },
   "You_are_about_to_reinstall_a_UserScript_": {
     "message": "使用者腳本重新安裝"
@@ -172,6 +184,24 @@
   "Process_with_Chrome": {
     "message": "用Chrome執行"
   },
+  "Enforce": {
+    "message": "Enforce"
+  },
+  "Strict": {
+    "message": "Strict"
+  },
+  "connect_mode": {
+    "message": "@connect mode"
+  },
+  "Ask_if_unknown": {
+    "message": "Ask if unknown"
+  },
+  "Always_ask": {
+    "message": "Always ask"
+  },
+  "Casual": {
+    "message": "Casual"
+  },
   "Allow_once": {
     "message": "允許一次"
   },
@@ -223,6 +253,18 @@
         "content": "$2"
       }
     }
+  },
+  "Tab_URL": {
+    "message": "Tab URL"
+  },
+  "Destination_domain": {
+    "message": "Destination domain"
+  },
+  "Destination_URL": {
+    "message": "Destination URL"
+  },
+  "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
+    "message": "This gives this script the permission to retrieve and send data from and to every webpage. This is potentially unsafe!\n\nAre you sure you want to continue?"
   },
   "No_update_found__sry_": {
     "message": "沒有發現更新喔，抱歉！"
@@ -301,6 +343,12 @@
   "Comment": {
     "message": "註解"
   },
+  "Details": {
+    "message": "Details"
+  },
+  "UUID": {
+    "message": "UUID"
+  },
   "Apply_compatibility_options_to_required_script_too": {
     "message": "也套用相容性選項到 @require 腳本"
   },
@@ -348,6 +396,18 @@
   },
   "Auto_Indent_all": {
     "message": "自動縮排全部"
+  },
+  "Search_for": {
+    "message": "Search for"
+  },
+  "Replace_all": {
+    "message": "Replace all"
+  },
+  "Replace_with": {
+    "message": "Replace with"
+  },
+  "Replace_": {
+    "message": "Replace?"
   },
   "There_are_unsaved_changed_": {
     "message": "還有未儲存的更改！\n確定要關閉編輯器嗎？"
@@ -508,8 +568,11 @@
   "Script_Update": {
     "message": "腳本更新"
   },
-  "Check_interval": {
+  "Check_interval   ": {
     "message": "檢查週期"
+  },
+  "Always": {
+    "message": "Always"
   },
   "Never": {
     "message": "從不"
@@ -538,17 +601,34 @@
   "Editor": {
     "message": "編輯器"
   },
+  "Font_Size": {
+    "message": "Font Size"
+  },
+  "Theme": {
+    "message": "Theme"
+  },
   "Key_Mapping": {
     "message": "按鍵配置"
   },
   "Windows": {
     "message": "Windows"
   },
+  "Sublime": {
+    "message": "Sublime Text"
+  },
   "Emacs": {
     "message": "Emacs"
   },
   "Vim": {
     "message": "Vim"
+  },
+  "Please_check_the_0editor0_documentation_for_more_details_": {
+    "message": "Please check the $editor$ documentation for more details.",
+    "placeholders": {
+      "editor": {
+        "content": "$1"
+      }
+    }
   },
   "Indentation_Width": {
     "message": "縮排寬度"
@@ -573,6 +653,9 @@
   },
   "Smart": {
     "message": "智慧型"
+  },
+  "Line_break": {
+    "message": "Line break"
   },
   "Reindent_on_typing": {
     "message": "輸入時重新縮排"
@@ -664,6 +747,12 @@
   "Both": {
     "message": "兩者都用"
   },
+  "Experimental": {
+    "message": "Experimental"
+  },
+  "strict_mode": {
+    "message": "strict mode"
+  },
   "This_page_is_blacklisted_at_the_security_settings": {
     "message": "此頁面由於安全設定被黑名單了"
   },
@@ -723,17 +812,55 @@
   "Run_syntax_check": {
     "message": "執行語法檢查"
   },
+  "No_syntax_errors_were_found_": {
+    "message": "No syntax errors were found."
+  },
+  "One_error_or_hint_was_found_": {
+    "message": "One error or hint was found."
+  },
+  "0count0_errors_or_hints_were_found_": {
+    "message": "$count$ errors or hints were found.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "Auto_syntax_check_on_typing": {
+    "message": "Automatic syntax check on typing"
+  },
+  "Enable_this_option_to_automatically_check_the_code_on_typing_": {
+    "message": "Enable this option to automtically check the code on typing."
+  },
+  "Auto_syntax_check_max_length": {
+    "message": "Automatic syntax check max size"
+  },
+  "Check_only_scripts_up_to_this_size_automatically_": {
+    "message": "Check only scripts up to this size automatically."
+  },
+  "Highlight_trailing_whitespace": {
+    "message": "Highlight trailing whitespace"
+  },
   "Dashboard": {
     "message": "控制台(Dashboard)"
   },
   "Userscripts": {
     "message": "使用者腳本"
   },
+  "Script_URL_detection": {
+    "message": "Script URL detection"
+  },
+  "Install_this_script": {
+    "message": "Install this script"
+  },
   "New_script_template_": {
     "message": "新使用者腳本模板"
   },
   "Icon_badge_info": {
     "message": "圖示徽章訊息"
+  },
+  "Icon_badge_color": {
+    "message": "Icon Badge Color"
   },
   "On": {
     "message": "打開"
@@ -764,6 +891,9 @@
   },
   "Changes_the_number_of_visible_config_options": {
     "message": "改變可見選設置選項的數量"
+  },
+  "Language": {
+    "message": "Language"
   },
   "Enter_the_new_rule": {
     "message": "輸入新規則"
@@ -802,6 +932,21 @@
   },
   "User_excludes": {
     "message": "使用者排除"
+  },
+  "Original_domain_whitelist": {
+      "message": "Original domain whitelist"
+  },
+  "User_domain_whitelist": {
+      "message": "User domain whitelist"
+  },
+  "Temporary_domain_whitelist": {
+      "message": "Temporary domain whitelist"
+  },
+  "User_domain_blacklist": {
+      "message": "User domain blacklist"
+  },
+  "XHR_Security": {
+      "message": "XHR Security"
   },
   "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
     "message": "發生內部錯誤。若問題持續，請按 OK 並且向論壇回報這問題。n\n想去 Tampermonkey 論壇嗎？"
@@ -842,6 +987,18 @@
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "允許腳本修改 HTTP 標頭"
   },
+  "Subresource_Integrity": {
+    "message": "Subresource Integrity"
+  },
+  "Validate_if_supported": {
+    "message": "Validate if possible"
+  },
+  "Validate_if_given": {
+    "message": "Validate if given"
+  },
+  "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
+    "message": "Script authors can secure external resources by adding a SRI hash to the source URL."
+  },
   "Yes": {
     "message": "是"
   },
@@ -875,6 +1032,12 @@
   "Really_delete_the_selected_items_": {
     "message": "確定要移除所選的項目嗎？"
   },
+  "Really_factory_reset_the_selected_items_": {
+    "message": "Do you really want to factory reset the selected items?"
+  },
+  "Really_factory_reset_this_script_": {
+    "message": "Do you really want to factory reset this script?"
+  },
   "Reset_Section": {
     "message": "重設"
   },
@@ -883,6 +1046,9 @@
   },
   "This_will_restart_Tampermonkey_Ok_": {
     "message": "確定要重開 Tampermonkey 嗎？"
+  },
+  "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
+    "message": "Tampermonkey needs to be restarted to make this change apply.\n\nDo you want to continue?"
   },
   "Factory_Reset": {
     "message": "重設成出廠設定"
@@ -1039,6 +1205,18 @@
   },
   "Blacklist_Severity": {
     "message": "照嚴重等級禁用"
+  },
+  "Action_Menu": {
+    "message": "Action Menu"
+  },
+  "Hide_disabled_scripts": {
+    "message": "Hide disabled scripts"
+  },
+  "Columns": {
+    "message": "Columns"
+  },
+  "Script_order": {
+    "message": "Script order"
   },
   "severity_1": {
     "message": "1 (最安全)"
