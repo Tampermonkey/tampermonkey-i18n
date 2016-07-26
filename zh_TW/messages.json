@@ -176,28 +176,28 @@
     "message": "允許一次"
   },
   "Temporarily_allow": {
-    "message": "臨時允許"
+    "message": "暫時允許"
   },
   "Always_allow": {
-    "message": "始終允許"
+    "message": "永遠允許"
   },
   "Always_allow_domain": {
-    "message": "始終允許域"
+    "message": "永遠允許此網域"
   },
   "Always_allow_all_domains": {
-    "message": "Always allow all domains"
+    "message": "永遠允許所有網域"
   },
   "Forbid_once": {
       "message": "禁止一次"
   },
   "Always_forbid": {
-      "message": "始終禁止"
+      "message": "永遠禁止"
   },
   "Always_forbid_domain": {
-      "message": "始終禁止域"
+      "message": "永遠禁止此網域"
   },
   "Dont_ask_again": {
-      "message": "不要再問"
+      "message": "不再詢問"
   },
   "Focus_tab": {
     "message": "重點來源欄標"
@@ -211,10 +211,10 @@
     }
   },
   "A_userscript_wants_to_access_a_cross_origin_resource_": {
-    "message": "使用者腳本需要獲取跨域資源。"
+    "message": "使用者腳本需要獲取跨網域資源。"
   },
   "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
-    "message": "跨域資源請求並無異常之處。\n只需檢查此腳本是否具有訪問本域的充分理由即可。\n例如，使用者腳本聯繫你的記憶庫僅有為數不多的幾個理由。\n\n請注意，使用者腳本作者可通過向其腳本添加[url=$connect$]@connect標籤[/url]避免這一對話。\n\n不管如何決定，你均可隨時在腳本[url=$settings$]設置欄[/url]標更改你的意見。",
+    "message": "跨網域資源請求並非異常。\n只需檢查此腳本是否具有訪問本網域的充分理由即可。\n例如，使用者腳本只有非常少的理由存取你的銀行帳號。\n\n請注意，使用者腳本作者可透過在腳本增加[url=$connect$]@connect標籤[/url]來避免此對話框。\n\n不論如何，你可以隨時在腳本[url=$settings$]設置欄[/url]更改你的設定。",
     "placeholders": {
       "connect": {
         "content": "$1"
@@ -287,7 +287,7 @@
     "message": "幫助"
   },
   "Changelog": {
-    "message": "更動紀錄"
+    "message": "更新紀錄"
   },
   "Position_": {
     "message": "排位"
@@ -302,7 +302,7 @@
     "message": "註解"
   },
   "Apply_compatibility_options_to_required_script_too": {
-    "message": "同時也應用相容性選項於 @require 腳本"
+    "message": "也套用相容性選項到 @require 腳本"
   },
   "Fix_wrappedJSObject_property_access": {
     "message": "修正 wrappedJSObject 屬性存取"
@@ -376,7 +376,7 @@
     "message": "排序"
   },
   "Actions": {
-    "message": "動作(s)"
+    "message": "動作"
   },
   "Action": {
     "message": "動作"
@@ -391,7 +391,7 @@
     "message": "功能"
   },
   "This_script_stores_data": {
-    "message": "此腳本在 Tampermonkey 存儲資料。"
+    "message": "此腳本在 Tampermonkey 儲存資料。"
   },
   "This_script_has_access_to_https_pages": {
     "message": "此腳本可存取 https 頁面。"
@@ -431,10 +431,10 @@
     }
   },
   "This_script_has_access_to_webpage_scripts": {
-    "message": "此項目可完全存取該網頁。"
+    "message": "此腳本可完全存取網頁。"
   },
   "Utilities": {
-    "message": "設定匯入匯出工具"
+    "message": "匯入匯出工具"
   },
   "This_script_uses_uW_gm_api_": {
     "message": "此腳本使用了一些 Greasemonkey 10 API (unsafeWindow.gmonkey)。\n既不被 Tampermonkey 支持也不被其他任何腳本處理外掛支持。"
@@ -443,7 +443,7 @@
     "message": "一些"
   },
   "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
-    "message": "衝突：\n這個腳本曾被另外的分頁修改過，在 $t$ 秒前！",
+    "message": "衝突：\n在 $t$ 秒前這個腳本曾被另外的分頁修改過！",
     "placeholders": {
       "t": {
         "content": "$1"
@@ -451,10 +451,10 @@
     }
   },
   "Enabled": {
-    "message": "已啟動"
+    "message": "已啟用"
   },
   "Disabled": {
-    "message": "已停止"
+    "message": "已停用"
   },
   "Unable_to_parse_this_": {
     "message": "無法對此解析！ :("
@@ -472,7 +472,10 @@
     "message": "Zip檔"
   },
   "Include_script_storage": {
-    "message": "Include script storage"
+    "message": "包含腳本儲存空間"
+  },
+  "Include_TM_settings": {
+    "message": "包含 Tampermonkey 設置"
   },
   "File": {
     "message": "檔案"
@@ -486,7 +489,7 @@
     }
   },
   "Just_another_service_provided_by_your_friendly_script_updater_": {
-    "message": "你友善的腳本作者提供了又一個更新"
+    "message": "Just another service provided by your friendly script updater"
   },
   "Updated_to__0version0": {
     "message": "已更新到： $version$ 版",
@@ -536,7 +539,7 @@
     "message": "編輯器"
   },
   "Key_Mapping": {
-    "message": "(鍵盤)按鍵配置"
+    "message": "按鍵配置"
   },
   "Windows": {
     "message": "Windows"
@@ -551,7 +554,7 @@
     "message": "縮排寬度"
   },
   "Indent_with": {
-    "message": "縮排用"
+    "message": "縮排字元"
   },
   "Tabs": {
     "message": "Tab"
@@ -578,7 +581,7 @@
     "message": "自動重載頁面"
   },
   "Auto_reload_on_script_enabled_desc": {
-    "message": "在腳本 啟用/停用後 重載相關頁面"
+    "message": "在腳本啟用/停用後重載相關頁面"
   },
   "Anonymous_statistics": {
     "message": "匿名統計資料"
@@ -587,7 +590,7 @@
     "message": "允許 Tampermonkey 由 Google Analytics 蒐集匿名統計資料。這能讓我改進 Tampermonkey 並且決定該著重在哪個方面進行開發。如果你不喜歡可以關掉。"
   },
   "Dont_ask_me_for_simple_script_updates": {
-    "message": "簡單的腳本更新別問我"
+    "message": "簡單的腳本更新不需詢問"
   },
   "Hide_notification_after": {
     "message": "多少時間後隱藏提示"
@@ -801,7 +804,7 @@
     "message": "使用者排除"
   },
   "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
-    "message": "發生內部錯誤。如若問題持續，請按 OK 並且向論壇回報這問題。n\n想去 Tampermonkey 論壇嗎？"
+    "message": "發生內部錯誤。若問題持續，請按 OK 並且向論壇回報這問題。n\n想去 Tampermonkey 論壇嗎？"
   },
   "TESLA": {
     "message": "TESLA"
@@ -849,7 +852,7 @@
     "message": "自動"
   },
   "__Please_choose__": {
-    "message": "-- 請單選項目 --"
+    "message": "-- 請選擇動作 --"
   },
   "Enable": {
     "message": "啟用"
@@ -858,10 +861,10 @@
     "message": "停用"
   },
   "Toggle_Enable": {
-    "message": "Toggle Enable"
+    "message": "切換"
   },
   "Trigger_Update": {
-    "message": "觸發更新"
+    "message": "更新"
   },
   "Apply_this_action_to_the_selected_scripts": {
     "message": "應用此動作於所選腳本"
@@ -972,7 +975,7 @@
     "message": "成功完成操作"
   },
   "_not_set_": {
-    "message": "<not set>"
+    "message": "<未設定>"
   },
   "Layout": {
     "message": "介面配置"
@@ -996,7 +999,7 @@
     "message": "錯誤"
   },
   "Externals": {
-    "message": "Externals"
+    "message": "外部"
   },
   "Requires": {
     "message": "Requires"
@@ -1014,28 +1017,28 @@
     "message": "找不到條目"
   },
   "BlackCheck": {
-    "message": "BlackCheck"
+    "message": "黑名單檢查"
   },
   "Script_Blacklist_Source": {
     "message": "腳本黑名單來源"
   },
   "Server_And_Manual": {
-    "message": "遠端的 + 手動設定"
+    "message": "自動 + 手動"
   },
   "Only_Manual": {
-    "message": "純手動設定"
+    "message": "手動"
   },
   "Manual_Script_Blacklist": {
-    "message": "手動設定使用者腳本還有 @require Blacklist"
+    "message": "手動設定使用者腳本還有 @require 黑名單"
   },
   "This_script_is_blacklisted_": {
     "message": "此腳本已被黑名單！"
   },
   "Report_an_issue_to_the_script_hoster_": {
-    "message": "Report this as spam or malicious\n(A user account may be required)"
+    "message": "回報為垃圾或惡意腳本\n(可能需要登入)"
   },
   "Blacklist_Severity": {
-    "message": "Block From Severity Level"
+    "message": "照嚴重等級禁用"
   },
   "severity_1": {
     "message": "1 (最安全)"
@@ -1068,7 +1071,7 @@
     "message": "10 (最不安全)"
   },
   "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
-    "message": "你的語言沒有被翻譯嗎？\n點這裡教你怎麼翻譯 Tampermonkey"
+    "message": "你的語言沒有被翻譯嗎？\n點這裡了解如何翻譯 Tampermonkey"
   },
   "Default": {
     "message": "預設"
