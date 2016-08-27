@@ -51,10 +51,10 @@
     "message": "Děkuji mnohokrát!"
   },
   "Invalid_UserScript__Sry_": {
-    "message": "Neplatný skript. Pardon!"
+    "message": "Neplatný skript. Omlouváme se!"
   },
   "Invalid_UserScript_name__Sry_": {
-    "message": "Neplatný název skriptu. Pardon!"
+    "message": "Neplatný název skriptu. Omlouváme se!"
   },
   "Script_name_0name0": {
     "message": "Název skriptu: $name$",
@@ -91,7 +91,7 @@
     "message": "Import globálních nastavení"
   },
   "This_will_overwrite_your_global_settings_": {
-    "message": "Vaše globální nastavení budou přepsána!"
+    "message": "Tato akce přepíše vaše globální nastavení!"
   },
   "You_are_about_to_reinstall_a_UserScript_": {
     "message": "Přeinstalace skriptu"
@@ -165,7 +165,7 @@
     "message": "Modifikovat"
   },
   "Downgrade": {
-    "message": "Downgradovat"
+    "message": "Přepnout na starší verzi"
   },
   "Update": {
     "message": "Aktualizovat"
@@ -860,10 +860,10 @@
     "message": "Barva ikony odznaku"
   },
   "On": {
-    "message": "Na"
+    "message": "Zapnuto"
   },
   "Off": {
-    "message": "Pryč"
+    "message": "Vypnuto"
   },
   "Running_scripts": {
     "message": "Běžící skripty"
@@ -878,7 +878,7 @@
     "message": "Režim konfigurace"
   },
   "Novice": {
-    "message": "Nováček"
+    "message": "Novic"
   },
   "Beginner": {
     "message": "Začátečník"
@@ -887,7 +887,7 @@
     "message": "Pokročilý"
   },
   "Changes_the_number_of_visible_config_options": {
-    "message": "Změní počet viditelných nastavení"
+    "message": "Změní počet viditelných konfigurací"
   },
   "Language": {
     "message": "Jazyk"
@@ -928,7 +928,7 @@
     "message": "uživatelské shody"
   },
   "User_excludes": {
-    "message": "uživatelské excludes"
+    "message": "uživatelské neshody"
   },
   "Original_domain_whitelist": {
     "message": "Originální whitelist domén"
@@ -1153,7 +1153,7 @@
     "message": "Informace"
   },
   "Error": {
-    "message": "Chyby"
+    "message": "Chyba"
   },
   "Externals": {
     "message": "Externí"
@@ -1237,7 +1237,7 @@
     "message": "9"
   },
   "severity_10": {
-    "message": "10 (nejméně bezpečný)"
+    "message": "10 (nejnebezpečnějsí)"
   },
   "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
     "message": "Není váš jazyk podporován?\nPro instrukce o lokalizaci Tampermonkey klikněte sem."
