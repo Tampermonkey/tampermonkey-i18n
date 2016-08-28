@@ -441,8 +441,17 @@
   "Action": {
     "message": "Action"
   },
+  "Please_select_a_file": {
+    "message": "Please select a file"
+  },
+  "Cloud": {
+    "message": "Cloud"
+  },
   "Import": {
     "message": "Import"
+  },
+  "Show_backups": {
+    "message": "Show_backups"
   },
   "Delete": {
     "message": "Delete"
@@ -519,8 +528,11 @@
   "Unable_to_parse_this_": {
     "message": "Unable to parse this! :("
   },
+  "No_backups_found": {
+    "message": "No backups found"
+  },
   "An_error_occured_during_import_": {
-    "message": "An error occured during import."
+    "message": "An error occurred during import."
   },
   "Export": {
     "message": "Export"
@@ -678,6 +690,9 @@
   "Hide_notification_after": {
     "message": "Hide notification after"
   },
+  "Today": {
+    "message": "Today"
+  },
   "15_Seconds": {
     "message": "15 Seconds"
   },
@@ -830,7 +845,7 @@
     "message": "Automatic syntax check on typing"
   },
   "Enable_this_option_to_automatically_check_the_code_on_typing_": {
-    "message": "Enable this option to automtically check the code on typing."
+    "message": "Enable this option to automatically check the code on typing."
   },
   "Auto_syntax_check_max_length": {
     "message": "Automatic syntax check max size"
@@ -949,7 +964,7 @@
       "message": "XHR Security"
   },
   "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
-    "message": "An internal error occured. If this problem persists even after a restart of Chrome, please press OK and report this issue at the forum.\n\nDo you want to visit the Tampermonkey forum?"
+    "message": "An internal error occurred. If this problem persists even after a restart of Chrome, please press OK and report this issue at the forum.\n\nDo you want to visit the Tampermonkey forum?"
   },
   "TESLA": {
     "message": "TESLA"
@@ -1078,7 +1093,7 @@
     "message": "At least one part of this page is listed at the 'forbidden pages' setting!"
   },
   "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
-    "message": "Some scripts might be blocked by the Javascript settings for this page or a script blocker!"
+    "message": "Some scripts might be blocked by the JavaScript settings for this page or a script blocker!"
   },
   "Show_notification": {
     "message": "Show a notification"
@@ -1249,7 +1264,7 @@
     "message": "10 (least secure)"
   },
   "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
-    "message": "Your language is not supported?\nClick here to get intructions how to translate Tampermonkey?"
+    "message": "Your language is not supported?\nClick here to get instructions how to translate Tampermonkey?"
   },
   "Default": {
     "message": "Default"

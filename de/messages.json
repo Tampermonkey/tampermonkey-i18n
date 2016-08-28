@@ -408,8 +408,17 @@
   "Action": {
     "message": "Aktion"
   },
+  "Please_select_a_file": {
+    "message": "Bitte wählen Sie eine Datei aus"
+  },
+  "Cloud": {
+    "message": "Cloud"
+  },
   "Import": {
     "message": "Importieren"
+  },
+  "Show_backups": {
+    "message": "Backups anzeigen"
   },
   "Delete": {
     "message": "Löschen"
@@ -485,6 +494,9 @@
   },
   "Unable_to_parse_this_": {
     "message": "Falsche Syntax! :("
+  },
+  "No_backups_found": {
+    "message": "Es wurden keine Backup-Dateien gefunden"
   },
   "An_error_occured_during_import_": {
     "message": "Während des Imports ist ein Fehler aufgetreten."
@@ -632,6 +644,9 @@
   },
   "Hide_notification_after": {
     "message": "Update-Benachrichtigung ausblenden nach"
+  },
+  "Today": {
+    "message": "Heute"
   },
   "15_Seconds": {
     "message": "15 Sekunden"
