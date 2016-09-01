@@ -97,7 +97,7 @@
         "message": "即将重新安装 UserScript"
     },
     "You_are_about_to_downgrade_a_UserScript": {
-        "message": "即将降级 Userscript"
+        "message": "注意！即将降级 Userscript"
     },
     "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
         "message": "降级后的脚本可能无法读取自身已存数据！"
@@ -191,7 +191,7 @@
         "message": "严格"
     },
     "connect_mode": {
-        "message": "@connect模式"
+        "message": "@connect 模式"
     },
     "Ask_if_unknown": {
         "message": "未知时询问"
@@ -281,10 +281,10 @@
         "message": "没有在运行的脚本"
     },
     "Add_new_script___": {
-        "message": "添加新脚本…………"
+        "message": "添加新脚本..."
     },
     "Get_new_scripts___": {
-        "message": "获取新脚本…………"
+        "message": "获取新脚本..."
     },
     "Check_for_userscripts_updates": {
         "message": "检查用户脚本更新"
@@ -398,13 +398,13 @@
         "message": "全部自动缩进"
     },
     "Search_for": {
-        "message": "搜索……"
+        "message": "搜索..."
     },
     "Replace_all": {
         "message": "全部替换"
     },
     "Replace_with": {
-        "message": "用……替换"
+        "message": "用...替换"
     },
     "Replace_": {
         "message": "替换？"
@@ -424,7 +424,7 @@
         "message": "确定重置这些改动吗？"
     },
     "Please_wait___": {
-        "message": "请稍候…………"
+        "message": "请稍候..."
     },
     "Edit": {
         "message": "编辑"
@@ -441,8 +441,17 @@
     "Action": {
         "message": "操作"
     },
+    "Please_select_a_file": {
+        "message": "请选择一个文件"
+    },
+    "Cloud": {
+        "message": "云"
+    },
     "Import": {
         "message": "导入"
+    },
+    "Show_backups": {
+        "message": "显示备份"
     },
     "Delete": {
         "message": "删除"
@@ -454,10 +463,10 @@
         "message": "本脚本在 Tampermonkey 存储了数据。"
     },
     "This_script_has_access_to_https_pages": {
-        "message": "本脚本能访问https页面。"
+        "message": "本脚本能访问 https 页面。"
     },
     "One_or_more_compatibility_options_are_set": {
-        "message": "本脚本开启了一个或多个Chrome兼容选项. 您应当检查详细配置。"
+        "message": "本脚本开启了一个或多个Chrome兼容选项，您应当检查详细配置。"
     },
     "This_script_has_full_web_access": {
         "message": "本脚本有完整的网络访问权限。"
@@ -466,7 +475,7 @@
         "message": "本脚本为系统级脚本。"
     },
     "This_is_a_chrome_extension": {
-        "message": "这是一个 chrome 扩展。"
+        "message": "这是一个 Chrome 扩展。"
     },
     "This_script_runs_in_Chrome_mode": {
         "message": "本脚本运行在 Chrome 模式中，"
@@ -517,25 +526,28 @@
         "message": "已禁用"
     },
     "Unable_to_parse_this_": {
-        "message": "无法解析! >-<"
+        "message": "无法解析! :("
+    },
+    "No_backups_found": {
+        "message": "没有找到备份"
     },
     "An_error_occured_during_import_": {
-        "message": "导入出现错误。检查控制台以获得更多信息！(按Ctrl+Shift+J)"
+        "message": "导入过程中出现错误"
     },
     "Export": {
         "message": "导出"
     },
     "TextArea": {
-        "message": "TextArea"
+        "message": "文本区"
     },
     "Zip": {
-        "message": "Zip"
+        "message": "压缩包"
     },
     "Include_script_storage": {
         "message": "包括脚本存储"
     },
     "Include_TM_settings": {
-        "message": "包括Tampermonkey设置"
+        "message": "包括 Tampermonkey 设置"
     },
     "File": {
         "message": "文件"
@@ -623,7 +635,7 @@
         "message": "Vim"
     },
     "Please_check_the_0editor0_documentation_for_more_details_": {
-        "message": "请检查$editor$文档以获取更多信息。",
+        "message": "请检查 $editor$ 文档以获取更多信息。",
         "placeholders": {
             "editor": {
                 "content": "$1"
@@ -677,6 +689,9 @@
     },
     "Hide_notification_after": {
         "message": "多少时间后隐藏提醒"
+    },
+    "Today": {
+        "message": "今天"
     },
     "15_Seconds": {
         "message": "15秒"
@@ -798,7 +813,7 @@
         "message": "提交 Bug"
     },
     "A_reload_is_required": {
-        "message": "需要刷新: \n所有未保存的数据将会丢失！"
+        "message": "需要刷新： \n所有未保存的数据将会丢失！"
     },
     "Save_to_disk": {
         "message": "保存到磁盘"
@@ -819,7 +834,7 @@
         "message": "发现了一个错误或提示。"
     },
     "0count0_errors_or_hints_were_found_": {
-        "message": "发现了$count$ 个错误或提示。",
+        "message": "发现了 $count$ 个错误或提示。",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -842,7 +857,7 @@
         "message": "高亮结尾的空格"
     },
     "Dashboard": {
-        "message": "仪表盘"
+        "message": "仪表盘（管理面板）"
     },
     "Userscripts": {
         "message": "用户脚本"
@@ -1129,7 +1144,7 @@
         "message": "卸载扩展"
     },
     "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
-        "message": "成功导入一个本地脚本之后进行什么操作?"
+        "message": "成功导入一个本地脚本之后进行什么操作？"
     },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "当浏览器升级 Tampermonkey 时会重启 Tampermonkey。这可能会中断当前还在执行的脚本！\n\n确认您不需要接收 Tampermonkey 更新的通知吗？"
@@ -1180,7 +1195,7 @@
         "message": "大小"
     },
     "No_entry_found": {
-        "message": "No entry found"
+        "message": "没有找到该项"
     },
     "BlackCheck": {
         "message": "黑名单检查"
