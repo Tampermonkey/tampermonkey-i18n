@@ -299,7 +299,7 @@
         "message": "脚本调试"
     },
     "Show_fixed_source": {
-        "message": "显示规格化的源码"
+        "message": "显示修正后的源码"
     },
     "LogLevel": {
         "message": "日志记录级别"
