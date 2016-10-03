@@ -723,6 +723,15 @@
   "strict_mode": {
     "message": "strict mode"
   },
+  "Inject_Mode": {
+    "message": "Script-Injektion"
+  },
+  "Fast": {
+    "message": "Schnell"
+  },
+  "Normal": {
+    "message": "Normal"
+  },
   "This_page_is_blacklisted_at_the_security_settings": {
     "message": "Durch Sicherheitsoptionen geblockt"
   },

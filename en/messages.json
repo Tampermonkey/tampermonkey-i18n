@@ -768,6 +768,15 @@
   "strict_mode": {
     "message": "strict mode"
   },
+  "Inject_Mode": {
+    "message": "Inject Mode"
+  },
+  "Fast": {
+    "message": "Fast"
+  },
+  "Normal": {
+    "message": "Normal"
+  },
   "This_page_is_blacklisted_at_the_security_settings": {
     "message": "Blacklisted by security settings"
   },
