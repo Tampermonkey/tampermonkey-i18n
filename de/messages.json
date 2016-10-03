@@ -954,6 +954,18 @@
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "Modifikation der HTTP-Header durch Scripte erlauben"
   },
+  "Allow_communication_with_cooperate_pages": {
+    "message": "Kommunikation mit kooperierenden Web-Seiten erlauben"
+  },
+  "Tampermonkey_and_script_version": {
+    "message": "Tampermonkey + Script Version"
+  },
+  "Tampermonkey_version": {
+    "message": "Tampermonkey Version"
+  },
+  "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
+    "message": "Diese Option erlaubt es der Tampermonkey-Homepage und einigen Seiten, von denen Scripte heruntergeladen werden können, die Tampermonkey-Version und grundlegende Informationen (installiert, aktiviert, Version) zu einem Script abzufragen."
+  },
   "Subresource_Integrity": {
     "message": "Integrität externer Ressourcen"
   },
@@ -991,7 +1003,7 @@
     "message": "Aktualisieren"
   },
   "Apply_this_action_to_the_selected_scripts": {
-    "message": "Die gewählte Aktion auf alle markierten Skripte anwenden"
+    "message": "Die gewählte Aktion auf alle markierten Scripte anwenden"
   },
   "Start": {
     "message": "Start"

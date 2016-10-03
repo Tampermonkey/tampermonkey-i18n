@@ -1002,6 +1002,18 @@
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "Allow HTTP headers to be modified by scripts"
   },
+  "Allow_communication_with_cooperate_pages": {
+    "message": "Allow communication with cooperate pages"
+  },
+  "Tampermonkey_and_script_version": {
+    "message": "Tampermonkey + script version"
+  },
+  "Tampermonkey_version": {
+    "message": "Tampermonkey version only"
+  },
+  "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
+    "message": "This option allows the Tampermonkey homepage and some script hosting pages to determine the Tampermonkey version and some basic script information (installed, version, enabled)."
+  },
   "Subresource_Integrity": {
     "message": "Subresource Integrity"
   },
