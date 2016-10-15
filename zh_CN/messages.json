@@ -1216,7 +1216,7 @@
         "message": "这个脚本在黑名单里！"
     },
     "Report_an_issue_to_the_script_hoster_": {
-        "message": "报告这个是垃圾脚本或者是恶意脚本\n（需要拥有userscript.org的账户）"
+        "message": "向脚本网站反馈问题\n（可能需要脚本网站账户）"
     },
     "Blacklist_Severity": {
         "message": "以严重等级禁用"
