@@ -1060,7 +1060,7 @@
     "message": "Trigger Update"
   },
   "Apply_this_action_to_the_selected_scripts": {
-    "message": "Apply this action to all selected scripts"
+    "message": "Apply this to all selected scripts"
   },
   "Start": {
     "message": "Start"
@@ -1070,6 +1070,15 @@
   },
   "Really_factory_reset_the_selected_items_": {
     "message": "Do you really want to factory reset the selected items?"
+  },
+  "Filter_by": {
+    "message": "Filter by"
+  },
+  "Namespace": {
+    "message": "Namespace"
+  },
+  "Matching_URL": {
+    "message": "Matching URL"
   },
   "Really_factory_reset_this_script_": {
     "message": "Do you really want to factory reset this script?"

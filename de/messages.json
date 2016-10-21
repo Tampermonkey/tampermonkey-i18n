@@ -1023,6 +1023,15 @@
   "Really_factory_reset_the_selected_items_": {
     "message": "Sollen wirklich alle Einstellungen der ausgewählten Elemente zurückgesetzt werden?"
   },
+  "Filter_by": {
+    "message": "Filterkriterium"
+  },
+  "Namespace": {
+    "message": "Namespace"
+  },
+  "Matching_URL": {
+    "message": "Übereinstimmende URLs"
+  },
   "Really_factory_reset_this_script_": {
     "message": "Sollen wirklich alle Einstellungen dieses Scripts zurückgesetzt werden?"
   },
