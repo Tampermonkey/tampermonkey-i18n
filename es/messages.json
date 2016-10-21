@@ -123,10 +123,10 @@
     "message": "Atención: La lista de exclusiones fue acortada.\nPor favor revísala manualmente!"
   },
   "Include_s__": {
-    "message": "Incluye(s)"
+    "message": "Incluye"
   },
   "Exclude_s__": {
-    "message": "Excluye(s)"
+    "message": "Excluye"
   },
   "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
     "message": "Una revisión de las opciones de compatibilidad de GreaseMonkey/FF puede ser necesaria para ejecutar este script."
@@ -144,7 +144,7 @@
     "message": "Permitir siempre el dominio"
   },
   "Always_allow_all_domains": {
-    "message": "Always allow all domains"
+    "message": "Permitir siempre totos los dominios"
   },
   "Forbid_once": {
       "message": "Prohibir una vez"
@@ -170,10 +170,10 @@
     }
   },
   "A_userscript_wants_to_access_a_cross_origin_resource_": {
-    "message": "Un userscript quiere acceder a un recurso de múltiples orígenes."
+    "message": "Un userscript quiere acceder a un recurso de origen cruzado."
   },
   "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
-    "message": "Una solicitud para un recurso de múltiples orígenes no es nada extraño.\nSolo tienes que comprobar si este script tiene una buena razón para acceder a este dominio.\nPor ejemplo, solo hay unas pocas razones para que un userscript contacte con tu banco.\n\nPor favor, ten en cuenta que los autores del userscript pueden evitar este diálogo añadiendo etiquetas [url=$connect$]@connect[/url] a sus scripts.\n\nNo importa lo que decidas, puedes cambiar tu opinión en cualquier momento en la pestaña de [url=$settings$]ajustes del script[/url].",
+    "message": "Una solicitud para un recurso de origen cruzado no es nada extraño.\nSolo tienes que comprobar si este script tiene una buena razón para acceder a este dominio.\nPor ejemplo, solo hay unas pocas razones para que un userscript contacte con tu banco.\n\nPor favor, ten en cuenta que los autores del userscript pueden evitar este diálogo añadiendo etiquetas [url=$connect$]@connect[/url] a sus scripts.\n\nNo importa lo que decidas, puedes cambiar tu opinión en cualquier momento en la pestaña de [url=$settings$]ajustes del script[/url].",
     "placeholders": {
       "connect": {
         "content": "$1"
