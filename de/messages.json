@@ -12,7 +12,7 @@
     "message": "Später erinneren"
   },
   "I_dont_want_to_contribute": {
-    "message": "Ich möchte nicht beitragen"
+    "message": "Ich möchte nichts beitragen"
   },
   "Thank_you_very_much_": {
     "message": "Vielen Dank!"
@@ -248,10 +248,10 @@
     "message": "Kein Script gestartet"
   },
   "Add_new_script___": {
-    "message": "Neues Script bearbeiten"
+    "message": "Neues Script erstellen"
   },
   "Get_new_scripts___": {
-    "message": "Neue Scripte installieren"
+    "message": "Neue Scripte suchen"
   },
   "Check_for_userscripts_updates": {
     "message": "Scripte auf Updates prüfen"
@@ -1025,9 +1025,6 @@
   },
   "Filter_by": {
     "message": "Filterkriterium"
-  },
-  "Namespace": {
-    "message": "Namespace"
   },
   "Matching_URL": {
     "message": "Übereinstimmende URLs"
