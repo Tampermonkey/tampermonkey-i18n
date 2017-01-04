@@ -1074,9 +1074,6 @@
   "Filter_by": {
     "message": "필터"
   },
-  "Namespace": {
-    "message": "Namespace"
-  },
   "Matching_URL": {
     "message": "매치 URL"
   },
