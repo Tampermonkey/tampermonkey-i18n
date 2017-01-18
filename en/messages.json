@@ -36,16 +36,16 @@
     "message": "fatal error"
   },
   "Please_consider_a_contribution": {
-    "message": "Please consider to contribute"
+    "message": "Please send a donation"
   },
   "I_contributed_already": {
-    "message": "I contributed already"
+    "message": "I donated already"
   },
   "Remind_me_later": {
     "message": "Remind me later"
   },
   "I_dont_want_to_contribute": {
-    "message": "I don't want to contribute"
+    "message": "I don't want to donate"
   },
   "Thank_you_very_much_": {
     "message": "Thank you very much!"
@@ -281,10 +281,10 @@
     "message": "No script is running"
   },
   "Add_new_script___": {
-    "message": "Add a new script..."
+    "message": "Create a new script..."
   },
   "Get_new_scripts___": {
-    "message": "Get new scripts..."
+    "message": "Find new scripts..."
   },
   "Check_for_userscripts_updates": {
     "message": "Check for userscript updates"
@@ -1073,9 +1073,6 @@
   },
   "Filter_by": {
     "message": "Filter by"
-  },
-  "Namespace": {
-    "message": "Namespace"
   },
   "Matching_URL": {
     "message": "Matching URL"
