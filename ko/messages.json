@@ -36,16 +36,16 @@
     "message": "결정적 오류"
   },
   "Please_consider_a_contribution": {
-    "message": "기여를 고려해 주세요"
+    "message": "기부를 고려해 주세요"
   },
   "I_contributed_already": {
-    "message": "이미 기여함"
+    "message": "이미 기부함"
   },
   "Remind_me_later": {
     "message": "나중에 다시 알림"
   },
   "I_dont_want_to_contribute": {
-    "message": "기여하고 싶지 않음"
+    "message": "기부하고 싶지 않음"
   },
   "Thank_you_very_much_": {
     "message": "정말 감사합니다!"
@@ -281,10 +281,10 @@
     "message": "아무런 스크립트도 동작 중이지 않음"
   },
   "Add_new_script___": {
-    "message": "새 스크립트 추가..."
+    "message": "새 스크립트 만들기..."
   },
   "Get_new_scripts___": {
-    "message": "새 스크립트 가져오기..."
+    "message": "새 스크립트 찾기..."
   },
   "Check_for_userscripts_updates": {
     "message": "유저 스크립트 업데이트 확인"
