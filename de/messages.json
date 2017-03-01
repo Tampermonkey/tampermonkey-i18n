@@ -149,7 +149,7 @@
     }
   },
   "Process_with_Chrome": {
-    "message": "An Chrome übergeben"
+    "message": "An den Browser übergeben"
   },
   "Enforce": {
     "message": "Erzwingen"
@@ -323,7 +323,7 @@
     "message": "Zugriffe auf das Attribut „wrappedJSObject“ beheben"
   },
   "Convert_CDATA_sections_into_a_chrome_compatible_format": {
-    "message": "CDATA-Abschnitte in ein Chrome-kompatibles Format konvertieren"
+    "message": "CDATA-Abschnitte in ein Browser-kompatibles Format konvertieren"
   },
   "Fix_for_var_in_statements": {
     "message": "Ausdrücke der Form „for (var j in x)“ konvertieren"
@@ -442,7 +442,7 @@
     "message": "Dieses Script ist ein System-Script."
   },
   "This_is_a_chrome_extension": {
-    "message": "Dieses Script ist eine Chrome-Erweiterung."
+    "message": "Dieses Script ist eine Browser-Erweiterung."
   },
   "This_script_runs_in_Chrome_mode": {
     "message": "Dieses Script läuft im Chrome-Modus."
@@ -761,8 +761,14 @@
   "Type": {
     "message": "Typ"
   },
+  "Updates": {
+    "message": "Updates"
+  },
   "Check_for_Updates": {
     "message": "Nach Updates suchen"
+  },
+  "Update_check_is_disabled": {
+    "message": "Die Update-Suche ist deaktiviert oder nicht möglich"
   },
   "Click_here_to_move_this_script": {
     "message": "Klicken Sie hier, um das Script zu verschieben"
@@ -925,7 +931,7 @@
       "message": "XHR-Sicherheit"
   },
   "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
-    "message": "Ein interner Fehler ist aufgetreten. Bitte melden Sie dieses Problem im Tampermonkey-Forum, falls es auch nach einem Neustart von Chrome weiterhin besteht.\n\nWollen Sie das Forum jetzt besuchen?"
+    "message": "Ein interner Fehler ist aufgetreten. Bitte melden Sie dieses Problem im Tampermonkey-Forum, falls es auch nach einem Neustart des Browsers weiterhin besteht.\n\nWollen Sie das Forum jetzt besuchen?"
   },
   "TESLA": {
     "message": "TESLA"
@@ -1142,6 +1148,12 @@
   },
   "Layout": {
     "message": "Layout"
+  },
+  "User_CSS": {
+    "message": "Nutzer-spezifische CSS-Answeisungen"
+  },
+  "You_can_add_your_custom_CSS_rules_here_": {
+    "message": "Sie können hier Ihre eigenen CSS-Answeisungen für die Tampermonkey-Benutzeroberfläche definieren. Falls daduch diese Seite dadurch unbenutzbar wird, hängen Sie bitte ?layout=reset an die URL dieser Seite an."
   },
   "Store_data_in_incognito_mode": {
     "message": "Daten auch im Inkognito-Modus speichern"
