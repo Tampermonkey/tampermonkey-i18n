@@ -182,7 +182,7 @@
     }
   },
   "Process_with_Chrome": {
-    "message": "Process with Chrome"
+    "message": "Process with the browser"
   },
   "Enforce": {
     "message": "Enforce"
@@ -356,7 +356,7 @@
     "message": "Fix wrappedJSObject property access"
   },
   "Convert_CDATA_sections_into_a_chrome_compatible_format": {
-    "message": "Convert CDATA sections into a Chrome compatible format"
+    "message": "Convert CDATA sections into a browser compatible format"
   },
   "Fix_for_var_in_statements": {
     "message": "Fix 'for (var j in x)' statements"
@@ -475,7 +475,7 @@
     "message": "This is a system script."
   },
   "This_is_a_chrome_extension": {
-    "message": "This is a Chrome extension"
+    "message": "This is a browser extension"
   },
   "This_script_runs_in_Chrome_mode": {
     "message": "This script runs in Chrome mode"
@@ -809,8 +809,14 @@
   "Type": {
     "message": "Type"
   },
+  "Updates": {
+    "message": "Updates"
+  },
   "Check_for_Updates": {
-    "message": "Check for Updates"
+    "message": "Check for updates"
+  },
+  "Update_check_is_disabled": {
+    "message": "The update check of this script is disabled or not possible"
   },
   "Click_here_to_move_this_script": {
     "message": "Click here to move this script"
@@ -973,7 +979,7 @@
       "message": "XHR Security"
   },
   "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
-    "message": "An internal error occurred. If this problem persists even after a restart of Chrome, please press OK and report this issue at the forum.\n\nDo you want to visit the Tampermonkey forum?"
+    "message": "An internal error occurred. If this problem persists even after a restart of the browser, please press OK and report this issue at the forum.\n\nDo you want to visit the Tampermonkey forum?"
   },
   "TESLA": {
     "message": "TESLA"
@@ -1187,6 +1193,12 @@
   },
   "Layout": {
     "message": "Layout"
+  },
+  "User_CSS": {
+    "message": "User CSS"
+  },
+  "You_can_add_your_custom_CSS_rules_here_": {
+    "message": "You can add your own CSS rules for the Tampermonkey UI here. In case this breaks something you can get the default layout by appending ?layout=reset to the options page URL."
   },
   "Store_data_in_incognito_mode": {
     "message": "Store data in incognito mode"
