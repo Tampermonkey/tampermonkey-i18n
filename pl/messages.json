@@ -36,7 +36,7 @@
       "message": "błąd krytyczny"
   },
   "Please_consider_a_contribution": {
-      "message": "Proszę o wysłanie datku na dalszy rozwój programu"
+      "message": "Wyślij datek na dalszy rozwój programu"
   },
   "I_contributed_already": {
       "message": "Już przekazałem datek"
@@ -395,7 +395,7 @@
       "message": "Wstaw konstruktor"
   },
   "Auto_Indent_all": {
-      "message": "Automatycznie wcięcie dla wszystkiego"
+      "message": "Automatyczne wcięcie dla wszystkiego"
   },
   "Search_for": {
       "message": "Szukaj"
@@ -587,7 +587,7 @@
       "message": "Zawsze"
   },
   "Never": {
-      "message": "nigdy"
+      "message": "Nigdy"
   },
   "Every_Hour": {
       "message": "Co godzinę"
