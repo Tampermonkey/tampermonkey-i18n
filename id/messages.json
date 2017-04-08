@@ -230,10 +230,10 @@
       "message": "Jangan tanya lagi"
   },
   "Focus_tab": {
-    "message": "Focus source tab"
+    "message": "Fokus tab sumber"
   },
   "Skip_timeout__0seconds0_seconds_": {
-    "message": "Skip timeout ($seconds$ seconds)",
+    "message": "Lewati batas waktu ($seconds$ detik)",
     "placeholders": {
       "seconds": {
         "content": "$1"
@@ -241,10 +241,10 @@
     }
   },
   "A_userscript_wants_to_access_a_cross_origin_resource_": {
-    "message": "A userscript wants to access a cross-origin resource."
+    "message": "Sebuah userscript ingin mengakses sumber daya lintas asal."
   },
   "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
-    "message": "A request to a cross origin resource is nothing unusual.\nYou just have to check whether this script has a good reason to access this domain.\nFor example there are only a very few reasons for a userscript to contact your bank.\n\nPlease note that userscript authors can avoid this dialog by adding [url=$connect$]@connect tags[/url] to their scripts.\n\nNo matter how you'll decide, you can change your opinion at any time at the script's [url=$settings$]settings tab[/url].",
+    "message": "Permintaan untuk sumber daya lintas asal ada yang luar biasa.\nAnda hanya perlu memeriksa apakah script ini memiliki alasan yang baik untuk mengakses domain ini.\nUntuk misalnya hanya ada sangat sedikit alasan untuk userscript untuk menghubungi bank Anda.\n\nMohon dicatat bahwa penulis userscript dapat menghindari dialog ini dengan menambahkan [url=$connect$]@connect tag [/url] untuk script mereka.\n\nTidak peduli bagaimana Anda akan memutuskan, Anda dapat mengubah pendapat Anda setiap saat di skrip [url=$settings$]tab pengaturan[/url].",
     "placeholders": {
       "connect": {
         "content": "$1"
@@ -270,7 +270,7 @@
     "message": "Update tak ditemukan, mf!"
   },
   "Unknown_method_0name0": {
-    "message": "Unknown method $name$",
+    "message": "Metode yang tidak diketahui $name$",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -296,19 +296,19 @@
     "message": "Pengaturan"
   },
   "Debug_scripts": {
-    "message": "Debug scripts"
+    "message": "Script Debug"
   },
   "Show_fixed_source": {
-    "message": "Show fixed source"
+    "message": "Tampilkan sumber tetap"
   },
   "LogLevel": {
-    "message": "Logging Level"
+    "message": "Tingkat Logging"
   },
   "Trace": {
     "message": "Trace"
   },
   "Verbose": {
-    "message": "Verbose"
+    "message": "Jejak"
   },
   "Debug": {
     "message": "Debug"
@@ -350,7 +350,7 @@
     "message": "UUID"
   },
   "Apply_compatibility_options_to_required_script_too": {
-    "message": "Terapkan opsi kompatibilitas untuk @require script juga"
+    "message": "Terapkan juga opsi kompatibilitas untuk @require script"
   },
   "Fix_wrappedJSObject_property_access": {
     "message": "Perbaiki akses properti wrappedJSObject"
@@ -368,7 +368,7 @@
     "message": "Convert [blub, bla] = s.split(':') statements"
   },
   "Add_toSource_function_to_Object_Prototype": {
-    "message": "Add compatibility functions to Object and Array"
+    "message": "Tambahkan fungsi kompatibilitas ke Obyek dan Array"
   },
   "Run_at": {
     "message": "Run at"
@@ -451,7 +451,7 @@
     "message": "Import"
   },
   "Show_backups": {
-    "message": "Show backups"
+    "message": "Buka backup"
   },
   "Delete": {
     "message": "Delete"
@@ -561,10 +561,10 @@
     }
   },
   "Just_another_service_provided_by_your_friendly_script_updater_": {
-    "message": "Just another service provided by your friendly script updater"
+    "message": "Hanya layanan lain yang disediakan oleh skrip updater ramah Anda"
   },
   "Updated_to__0version0": {
-    "message": "Updated to: $version$",
+    "message": "Diperbaharui ke: $version$",
     "placeholders": {
       "version": {
         "content": "$1"
@@ -578,7 +578,7 @@
     "message": "Umum"
   },
   "Script_Update": {
-    "message": "Script Update"
+    "message": "Pembaharuan skrip"
   },
   "Check_interval": {
     "message": "Interval Periksa"
@@ -614,10 +614,10 @@
     "message": "Editor"
   },
   "Font_Size": {
-    "message": "Font Size"
+    "message": "Ukuran Font"
   },
   "Theme": {
-    "message": "Theme"
+    "message": "Tema"
   },
   "Key_Mapping": {
     "message": "Key Mapping"
@@ -635,7 +635,7 @@
     "message": "Vim"
   },
   "Please_check_the_0editor0_documentation_for_more_details_": {
-    "message": "Please check the $editor$ documentation for more details.",
+    "message": "Silahkan cek $editor$ documentation untuk lebih detailnya.",
     "placeholders": {
       "editor": {
         "content": "$1"
@@ -667,10 +667,10 @@
     "message": "Smart"
   },
   "Line_break": {
-    "message": "Line break"
+    "message": "Baris Jeda"
   },
   "Reindent_on_typing": {
-    "message": "Re-indent on typing"
+    "message": "Re-indent pada saat mengetik"
   },
   "Auto_reload_on_script_enabled": {
     "message": "Auto reload pages"
@@ -712,37 +712,37 @@
     "message": "Enable enhanced editor"
   },
   "Appearance": {
-    "message": "Appearance"
+    "message": "Tampilan"
   },
   "Security": {
-    "message": "Security"
+    "message": "Keamanan"
   },
   "Downloads": {
-    "message": "Downloads"
+    "message": "Unduhan"
   },
   "Download_Mode": {
-    "message": "Download Mode"
+    "message": "Mode Unduhan"
   },
   "Browser_API": {
-    "message": "Browser API"
+    "message": "API Browser "
   },
   "The_Browser_API_mode_requires_a_special_permission_": {
-    "message": "The Browser API mode requires a special permission."
+    "message": "Mode Browser API memerlukan izin khusus."
   },
   "Whitelisted_File_Extensions": {
     "message": "Whitelisted File Extensions"
   },
   "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
-    "message": "Only files with these extensions can be saved to the harddisk.\nBe careful to not allow file extensions that represent executables at your operating system!"
+    "message": "Hanya file dengan ekstensi ini dapat disimpan ke hard disk.\nHati-hati untuk tidak mengizinkan ekstensi file yang mewakili executable di sistem operasi Anda!"
   },
   "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
-    "message": "Your whitelist seems to include executable files!\nThis means your userscripts may download malware or spyware to your harddisk!!"
+    "message": "Daftar putih Anda tampaknya menyertakan file executable!\nIni berarti userscript Anda dapat men-download malware atau spyware ke harddisk Anda!!"
   },
   "Browser_API_Downloads": {
-    "message": "Browser API Downloads"
+    "message": "Unduhan API Browser"
   },
   "Click_here_to_allow_TM_to_start_downloads": {
-    "message": "Click OK to allow Tampermonkey to start instant downloads."
+    "message": "Klik OK untuk mengizinkan Tampermonkey memulai download instan."
   },
   "Page_Filter_Mode": {
     "message": "Page Filter Mode"
@@ -781,7 +781,7 @@
     "message": "Blacklisted by security settings"
   },
   "Update_Notification": {
-    "message": "Show TM update notification"
+    "message": "Tampilkan pembaruan TM pemberitahuan"
   },
   "Unable_to_load_script_from_url_0url0": {
     "message": "Unable to load script from url: \n $url$",
@@ -795,7 +795,7 @@
     "message": "Click here to install it."
   },
   "Check_disabled_scripts": {
-    "message": "Update disabled scripts"
+    "message": "Nonaktifkan Update skrip"
   },
   "Homepage": {
     "message": "Homepage"
@@ -857,7 +857,7 @@
     }
   },
   "Auto_syntax_check_on_typing": {
-    "message": "Automatic syntax check on typing"
+    "message": "Cek otomatis syntax pada saat mengetik"
   },
   "Enable_this_option_to_automatically_check_the_code_on_typing_": {
     "message": "Enable this option to automatically check the code on typing."
@@ -869,7 +869,7 @@
     "message": "Check only scripts up to this size automatically."
   },
   "Highlight_trailing_whitespace": {
-    "message": "Highlight trailing whitespace"
+    "message": "Otomatis cek ukuran maksimal syntax"
   },
   "Dashboard": {
     "message": "Dashboard"
@@ -890,7 +890,7 @@
     "message": "Icon Badge Info"
   },
   "Icon_badge_color": {
-    "message": "Icon Badge Color"
+    "message": "Warna Icon Badge"
   },
   "On": {
     "message": "On"
@@ -1111,13 +1111,13 @@
     "message": "Do you really want to remove all data from Google Sync?"
   },
   "Enable_autoSave": {
-    "message": "Save content when editor loses focus"
+    "message": "Menyimpan konten ketika Editor kehilangan fokus"
   },
   "Enable_easySave": {
-    "message": "Don't show confirmation dialog on save"
+    "message": "Jangan tampilkan dialog konfirmasi saat menyimpan"
   },
   "Add_TM_to_CSP": {
-    "message": "Add Tampermonkey to the site's content security policy (CSP) if there is one"
+    "message": "Tambahkan Tampermonkey dengan kebijakan keamanan konten situs (CSP) jika ada"
   },
   "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
     "message": "Tampermonkey might not be able to provide access to the unsafe context (unsafeWindow, page's functions and variables) when this is disabled."
@@ -1219,7 +1219,7 @@
     "message": "Error"
   },
   "Externals": {
-    "message": "Externals"
+    "message": "Eksternal"
   },
   "Requires": {
     "message": "Requires"
@@ -1261,16 +1261,16 @@
     "message": "Block From Severity Level"
   },
   "Action_Menu": {
-    "message": "Action Menu"
+    "message": "Menu Aksi"
   },
   "Hide_disabled_scripts": {
     "message": "Hide disabled scripts"
   },
   "Columns": {
-    "message": "Columns"
+    "message": "Kolom"
   },
   "Script_order": {
-    "message": "Script order"
+    "message": "Urutan Script"
   },
   "severity_1": {
     "message": "1 (most secure)"
