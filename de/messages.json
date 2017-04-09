@@ -1182,6 +1182,9 @@
   "Resources": {
     "message": "Resources"
   },
+  "Storage": {
+    "message": "Speicher"
+  },
   "URL": {
     "message": "URL"
   },
