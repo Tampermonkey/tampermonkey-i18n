@@ -1174,19 +1174,19 @@
     "message": "Disable Extension"
   },
   "Uninstall_Extension": {
-    "message": "Uninstall Extension"
+    "message": "Copot Ekstensi"
   },
   "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
-    "message": "What action should be done after a native userscript was imported successfully?"
+    "message": "Tindakan apa yang harus dilakukan setelah userscript asli berhasil diimpor?"
   },
   "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
-    "message": "When Tampermonkey is updated by your browser it is also re-started. Unfortunately this might break currently running scripts!\n\nSo are you sure that you don't want to be notified of updates?"
+    "message": "Ketika Tampermonkey diperbarui oleh browser Anda itu juga dimulai-ulang. Sayangnya ini mungkin dapat menganggu script! \n\nJadi, apakah Anda yakin bahwa Anda tidak ingin mendapat notifikasi pembaruan?"
   },
   "Operation_completed_successfully": {
-    "message": "Operation completed successfully"
+    "message": "Operasi berhasil diselesaikan"
   },
   "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-    "message": "All modifications are only kept until this incognito session is closed!"
+    "message": "Semua modifikasi hanya disimpan hingga sesi penyamaran ini telah ditutup!"
   },
   "_not_set_": {
     "message": "<not set>"
@@ -1195,10 +1195,10 @@
     "message": "Layout"
   },
   "User_CSS": {
-    "message": "User CSS"
+    "message": "CSS Pengguna"
   },
   "You_can_add_your_custom_CSS_rules_here_": {
-    "message": "You can add your own CSS rules for the Tampermonkey UI here. In case this breaks something you can get the default layout by appending ?layout=reset to the options page URL."
+    "message": "Anda dapat menambahkan aturan CSS Anda sendiri untuk Tampermonkey UI di sini. Dalam hal ini Anda dapat memecahkan sesuatu dengan menambahkan ?layout=reset ke halaman pilihan URL."
   },
   "Store_data_in_incognito_mode": {
     "message": "Store data in incognito mode"
@@ -1246,7 +1246,7 @@
     "message": "Remote + Manual"
   },
   "Only_Manual": {
-    "message": "Manual Only"
+    "message": "Hanya Manual"
   },
   "Manual_Script_Blacklist": {
     "message": "Manual Userscript and @require Blacklist"
@@ -1255,7 +1255,7 @@
     "message": "This script is blacklisted!"
   },
   "Report_an_issue_to_the_script_hoster_": {
-    "message": "Report an issue to the script hoster.\n(A user account may be required)"
+    "message": "Melaporkan masalah ke hoster script. \n(Sebuah akun pengguna mungkin diperlukan)"
   },
   "Blacklist_Severity": {
     "message": "Block From Severity Level"
@@ -1264,7 +1264,7 @@
     "message": "Menu Aksi"
   },
   "Hide_disabled_scripts": {
-    "message": "Hide disabled scripts"
+    "message": "Sembunyikan script nonaktif"
   },
   "Columns": {
     "message": "Kolom"
@@ -1273,7 +1273,7 @@
     "message": "Urutan Script"
   },
   "severity_1": {
-    "message": "1 (most secure)"
+    "message": "1 (lebih aman)"
   },
   "severity_2": {
     "message": "2"
@@ -1300,7 +1300,7 @@
     "message": "9"
   },
   "severity_10": {
-    "message": "10 (least secure)"
+    "message": "10 (paling tidak aman)"
   },
   "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
     "message": "Your language is not supported?\nClick here to get instructions how to translate Tampermonkey?"
