@@ -454,10 +454,10 @@
     "message": "Buka backup"
   },
   "Delete": {
-    "message": "Delete"
+    "message": "Hapus"
   },
   "Features": {
-    "message": "Features"
+    "message": "Fitur"
   },
   "This_script_stores_data": {
     "message": "Script ini menyimpan data ke Tampermonkey."
@@ -801,13 +801,13 @@
     "message": "Homepage"
   },
   "Last_updated": {
-    "message": "Last updated"
+    "message": "Terakhir diperbarui"
   },
   "Version": {
     "message": "Version"
   },
   "Type": {
-    "message": "Type"
+    "message": "Tipe"
   },
   "Updates": {
     "message": "Updates"
@@ -908,10 +908,10 @@
     "message": "Disabled scripts"
   },
   "Config_Mode": {
-    "message": "Config mode"
+    "message": "Mode Config"
   },
   "Novice": {
-    "message": "Noob"
+    "message": "Basic"
   },
   "Beginner": {
     "message": "Pemula"
@@ -920,7 +920,7 @@
     "message": "Lanjutan"
   },
   "Changes_the_number_of_visible_config_options": {
-    "message": "Mengubah jumlah terlihat pilihan konfigurasi"
+    "message": "Mengubah jumlah yang terlihat pada konfigurasi pilihan"
   },
   "Language": {
     "message": "Language"
@@ -991,7 +991,7 @@
     "message": "Script synchronization (Tampermonkey External Script List Access)"
   },
   "Sync_Type": {
-    "message": "Type"
+    "message": "Tipe"
   },
   "Sync_Version": {
     "message": "Version"
