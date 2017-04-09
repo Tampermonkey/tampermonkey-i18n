@@ -380,7 +380,7 @@
     "message": "Simpan"
   },
   "Cancel": {
-    "message": "Batall"
+    "message": "Batal"
   },
   "Search": {
     "message": "Cari"
@@ -427,19 +427,19 @@
     "message": "Silahkan tunggu..."
   },
   "Edit": {
-    "message": "Edit"
+    "message": "Sunting"
   },
   "Sites": {
-    "message": "Sites"
+    "message": "Laman"
   },
   "Sort": {
     "message": "Sort"
   },
   "Actions": {
-    "message": "Actions"
+    "message": "Aksi"
   },
   "Action": {
-    "message": "Action"
+    "message": "Aksi"
   },
   "Please_select_a_file": {
     "message": "Sila pilih berkas"
@@ -448,7 +448,7 @@
     "message": "Cloud"
   },
   "Import": {
-    "message": "Import"
+    "message": "Impor"
   },
   "Show_backups": {
     "message": "Buka backup"
@@ -509,7 +509,7 @@
     "message": "Script ini menggunakan bagian dari Greasemonkey 10 API (unsafeWindow.monkey) \nyang tidak didukung oleh Tampermonkey atau script handler alternatif lainnya."
   },
   "some_secs": {
-    "message": "some"
+    "message": "beberapa"
   },
   "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
     "message": "KONFLIK:\nScript ini dimodifikasi oleh tab lain $t$ detik yang lalu!",
@@ -825,7 +825,7 @@
     "message": "overwritten by user setting"
   },
   "Report_a_bug": {
-    "message": "Report a bug"
+    "message": "Laporkan bug"
   },
   "A_reload_is_required": {
     "message": "A reload is required: \nAll unsaved changes will be lost!"
