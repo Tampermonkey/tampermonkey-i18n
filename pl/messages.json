@@ -658,7 +658,7 @@
       "message": "Rodzaj wcięcia"
   },
   "Classic": {
-      "message": "klasyczne"
+      "message": "Klasyczne"
   },
   "Indent": {
       "message": "Wcięcie"
@@ -1226,6 +1226,9 @@
   },
   "Resources": {
       "message": "Zasoby"
+  },
+  "Storage": {
+      "message": "Pamięć"
   },
   "URL": {
       "message": "Adres URL"
