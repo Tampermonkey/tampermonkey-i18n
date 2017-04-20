@@ -32,63 +32,64 @@
   "11": {
     "message": "11"
   },
-  "fatal_error": {
-    "message": "خطأ قاتل"
-  },
-  "Please_consider_a_contribution": {
-    "message": "تبرع لنا من فضلك"
-  },
-  "I_contributed_already": {
-    "message": "لقد تبرعت بالفعل"
-  },
-  "Remind_me_later": {
-    "message": "ذكرني لاحقاَ"
-  },
-  "I_dont_want_to_contribute": {
-    "message": "لن اتبرع"
-  },
-  "Thank_you_very_much_": {
-    "message": "!شكرا جزيلاَ"
-  },
-  "Invalid_UserScript__Sry_": {
-    "message": "!ملف غير صالح"
-  },
-  "Invalid_UserScript_name__Sry_": {
-    "message": "!اسم الملف غير صالح"
+    "fatal_error": {
+        "message": "خطأ قاتل"
+    },
+    "Please_consider_a_contribution": {
+        "message": "تبرع لنا من فضلك"
+    },
+    "I_contributed_already": {
+        "message": "لقد تبرعت بالفعل"
+    },
+    "Remind_me_later": {
+        "message": "ذكرني لاحقاَ"
+    },
+    "I_dont_want_to_contribute": {
+        "message": "لن اتبرع"
+    },
+    "Thank_you_very_much_": {
+        "message": "!شكرا جزيلاَ"
+    },
+    "Invalid_UserScript__Sry_": {
+        "message": "!ملف غير صالح"
+    },
+    "Invalid_UserScript_name__Sry_": {
+        "message": "!اسم الملف غير صالح"
+
   },
   "Script_name_0name0": {
-    "message": "اسم الكود: $name$",
+    "message": "Script name: $name$",
     "placeholders": {
-      "الاسم": {
-        "المحتوي": "$1"
+      "name": {
+        "content": "$1"
       }
     }
   },
   "Downloaded_from_0url0": {
-    "message": "تم التحميل من: $url$",
+    "message": "Downloaded from: $url$",
     "placeholders": {
-      "رابط": {
-        "المحتوي": "$1"
+      "url": {
+        "content": "$1"
       }
     }
   },
   "Please_double_check_the_native_script_import_settings__": {
-    "message": "!غير قادر علي تحميل الملف\n\n.من فضلك أعد التحقق من اعدادات الاستيراد"
+    "message": "Unable to load the UserScript!\n\nPlease double check the 'Native Script Import' settings."
   },
   "Name": {
-    "message": "الاسم"
+    "message": "Name"
   },
   "Note": {
-    "message": "ملاحظة"
+    "message": "Note"
   },
   "Installed_Version_": {
-    "message": "النسخة المثبتة"
+    "message": "Installed Version"
   },
   "Global_Settings": {
-    "message": "لإعدادات العامة"
+    "message": "Global Settings"
   },
   "Global_settings_import": {
-    "message": "استيراد الاعدادات العامة"
+    "message": "Global settings import"
   },
   "This_will_overwrite_your_global_settings_": {
     "message": "This will overwrite your global settings!"
