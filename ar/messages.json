@@ -58,7 +58,7 @@
 
   },
   "Script_name_0name0": {
-    "message": "Script name: $name$",
+    "message": "$name$: اسم الملف",
     "placeholders": {
       "name": {
         "content": "$1"
