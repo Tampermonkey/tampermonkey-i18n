@@ -66,7 +66,7 @@
     }
   },
   "Downloaded_from_0url0": {
-    "message": "Downloaded from: $url$",
+    "message": "$url$ تم التحميل من:",
     "placeholders": {
       "url": {
         "content": "$1"
@@ -74,25 +74,25 @@
     }
   },
   "Please_double_check_the_native_script_import_settings__": {
-    "message": "Unable to load the UserScript!\n\nPlease double check the 'Native Script Import' settings."
+    "message": "!غير قادر علي تحميل الملف\n\n.من فضلك تأكد من إعدادات 'استيراد الملفات المحلية'"
   },
   "Name": {
-    "message": "Name"
+    "message": "الاسم"
   },
   "Note": {
-    "message": "Note"
+    "message": "ملاحظة"
   },
   "Installed_Version_": {
     "message": "Installed Version"
   },
   "Global_Settings": {
-    "message": "Global Settings"
+    "message": "الإعدادات العامة"
   },
   "Global_settings_import": {
-    "message": "Global settings import"
+    "message": "استيراد الإعدادت العامة"
   },
   "This_will_overwrite_your_global_settings_": {
-    "message": "This will overwrite your global settings!"
+    "message": "!سيتم استبدال اعداداتك العامة"
   },
   "You_are_about_to_reinstall_a_UserScript_": {
     "message": "UserScript re-installation"
