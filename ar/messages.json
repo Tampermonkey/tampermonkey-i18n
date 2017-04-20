@@ -36,59 +36,59 @@
     "message": "خطأ قاتل"
   },
   "Please_consider_a_contribution": {
-    "message": "Please send a donation"
+    "message": "تبرع لنا من فضلك"
   },
   "I_contributed_already": {
-    "message": "I donated already"
+    "message": "لقد تبرعت بالفعل"
   },
   "Remind_me_later": {
-    "message": "Remind me later"
+    "message": "ذكرني لاحقاَ"
   },
   "I_dont_want_to_contribute": {
-    "message": "I don't want to donate"
+    "message": "لن اتبرع"
   },
   "Thank_you_very_much_": {
-    "message": "Thank you very much!"
+    "message": "!شكرا جزيلاَ"
   },
   "Invalid_UserScript__Sry_": {
-    "message": "Invalid UserScript. Sry!"
+    "message": "!ملف غير صالح"
   },
   "Invalid_UserScript_name__Sry_": {
-    "message": "Invalid UserScript name. Sry!"
+    "message": "!اسم الملف غير صالح"
   },
   "Script_name_0name0": {
-    "message": "Script name: $name$",
+    "message": "اسم الكود: $name$",
     "placeholders": {
-      "name": {
-        "content": "$1"
+      "الاسم": {
+        "المحتوي": "$1"
       }
     }
   },
   "Downloaded_from_0url0": {
-    "message": "Downloaded from: $url$",
+    "message": "تم التحميل من: $url$",
     "placeholders": {
-      "url": {
-        "content": "$1"
+      "رابط": {
+        "المحتوي": "$1"
       }
     }
   },
   "Please_double_check_the_native_script_import_settings__": {
-    "message": "Unable to load the UserScript!\n\nPlease double check the 'Native Script Import' settings."
+    "message": "!غير قادر علي تحميل الملف\n\n.من فضلك أعد التحقق من اعدادات الاستيراد"
   },
   "Name": {
-    "message": "Name"
+    "message": "الاسم"
   },
   "Note": {
-    "message": "Note"
+    "message": "ملاحظة"
   },
   "Installed_Version_": {
-    "message": "Installed Version"
+    "message": "النسخة المثبتة"
   },
   "Global_Settings": {
-    "message": "Global Settings"
+    "message": "لإعدادات العامة"
   },
   "Global_settings_import": {
-    "message": "Global settings import"
+    "message": "استيراد الاعدادات العامة"
   },
   "This_will_overwrite_your_global_settings_": {
     "message": "This will overwrite your global settings!"
