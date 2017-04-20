@@ -264,13 +264,13 @@
         "message": "الرابط المستهدف"
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
-        "message": "This gives this script the permission to retrieve and send data from and to every webpage. This is potentially unsafe!\n\nAre you sure you want to continue?"
+        "message": "!هذا يعطي الكود كامل الصلاحية لاستقبال وارسال البيانات من كل صفحات الويب. وقد يكون هذا غير ءامنا\n\n؟أمتأكد من الاستمرار"
     },
     "No_update_found__sry_": {
-        "message": "No update found, sry!"
+        "message": "!لا يوجد تحديث"
     },
     "Unknown_method_0name0": {
-        "message": "Unknown method $name$",
+        "message": "$name$ طريقة مجهولة",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -278,91 +278,91 @@
         }
     },
     "No_script_is_running": {
-        "message": "No script is running"
+        "message": "لا كود يعمل"
     },
     "Add_new_script___": {
-        "message": "Create a new script..."
+        "message": "...صنع كود جديد"
     },
     "Get_new_scripts___": {
-        "message": "Find new scripts..."
+        "message": "...إيجاد أكواد جديدة"
     },
     "Check_for_userscripts_updates": {
-        "message": "Check for userscript updates"
+        "message": "التحقق من تحديثات للأكواد"
     },
     "Waiting_for_sync_to_finish": {
-        "message": "Waiting for sync to finish"
+        "message": "الانتظار حتي انتهاء المزامنة"
     },
     "Settings": {
-        "message": "Settings"
+        "message": "الإعدادات"
     },
     "Debug_scripts": {
-        "message": "Debug scripts"
+        "message": "تصحيح الأكواد"
     },
     "Show_fixed_source": {
-        "message": "Show fixed source"
+        "message": "إظهار المصدر الثابت"
     },
     "LogLevel": {
-        "message": "Logging Level"
+        "message": "مستوي سجل الأداء"
     },
     "Trace": {
-        "message": "Trace"
+        "message": "تتبع"
     },
     "Verbose": {
-        "message": "Verbose"
+        "message": "مسهب"
     },
     "Debug": {
-        "message": "Debug"
+        "message": "تصحيح"
     },
     "Installed_userscripts": {
-        "message": "Installed userscripts"
+        "message": "الأكواد المثبتة"
     },
     "No_script_is_installed": {
-        "message": "No script is installed"
+        "message": "لا أكواد مثبتة"
     },
     "Get_some_scripts___": {
-        "message": "Get some scripts..."
+        "message": "...احصل علي بعض الأكواد"
     },
     "New_userscript": {
-        "message": "<New userscript>"
+        "message": "<كود جديد>"
     },
     "Help": {
-        "message": "Help"
+        "message": "مساعدة"
     },
     "Changelog": {
-        "message": "Changelog"
+        "message": "سجل التغييرات"
     },
     "Position_": {
-        "message": "Position"
+        "message": "الموضع"
     },
     "Close": {
-        "message": "Close"
+        "message": "غلق"
     },
     "GM_compat_options_": {
-        "message": "GM/FF compatibility options"
+        "message": "GM/FF خيارات توافق"
     },
     "Comment": {
-        "message": "Comment"
+        "message": "تعليق"
     },
     "Details": {
-        "message": "Details"
+        "message": "تفاصيل"
     },
     "UUID": {
         "message": "UUID"
     },
     "Apply_compatibility_options_to_required_script_too": {
-        "message": "Apply compatibility options to @require scripts too"
+        "message": "تطبيق خيارات التوافق علي أكواد @require أيضا"
     },
     "Fix_wrappedJSObject_property_access": {
         "message": "Fix wrappedJSObject property access"
     },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
-        "message": "Convert CDATA sections into a browser compatible format"
+        "message": "تحويل أقسام CDATA إلي صيغة متوافقة مع المتصفح"
     },
     "Fix_for_var_in_statements": {
         "message": "Fix 'for (var j in x)' statements"
     },
     "Replace_for_each_statements": {
-        "message": "Replace 'for each' statements"
+        "message": "'for each' استبدال جمل"
     },
     "Convert_Array_Assignements": {
         "message": "Convert [blub, bla] = s.split(':') statements"
@@ -371,46 +371,46 @@
         "message": "Add compatibility functions to Object and Array"
     },
     "Run_at": {
-        "message": "Run at"
+        "message": "تشغيل عند"
     },
     "Update_URL_": {
-        "message": "Update URL"
+        "message": "رابط التحديث"
     },
     "Save": {
-        "message": "Save"
+        "message": "حفظ"
     },
     "Cancel": {
-        "message": "Cancel"
+        "message": "إلغاء"
     },
     "Search": {
-        "message": "Search"
+        "message": "بحث"
     },
     "Replace": {
-        "message": "Replace"
+        "message": "استبدال"
     },
     "Jump_to_line": {
-        "message": "Jump to line"
+        "message": "القفز إلي سطر"
     },
     "Insert_constructor": {
-        "message": "Insert constructor"
+        "message": "إدراج constructor"
     },
     "Auto_Indent_all": {
         "message": "Auto-Indent all"
     },
     "Search_for": {
-        "message": "Search for"
+        "message": "البحث عن"
     },
     "Replace_all": {
-        "message": "Replace all"
+        "message": "استبدال الكل"
     },
     "Replace_with": {
-        "message": "Replace with"
+        "message": "استبدال بـ"
     },
     "Replace_": {
-        "message": "Replace?"
+        "message": "استبدال؟"
     },
     "There_are_unsaved_changed_": {
-        "message": "There are unsaved changes.\nDo you really want to close the editor?"
+        "message": ".هناك تغييرات غير محفوظة\nأمتأكد من غلق المحرر؟"
     },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "The Option '$option$' is enabled!\n\nDo you really want to store the fixed source?",
@@ -421,19 +421,19 @@
         }
     },
     "Really_reset_all_changes_": {
-        "message": "Really reset all changes?"
+        "message": "أمتاكد من إعادة ضبط كل التغييرات؟"
     },
     "Please_wait___": {
-        "message": "Please wait..."
+        "message": "...انتظر من فضلك"
     },
     "Edit": {
-        "message": "Edit"
+        "message": "تحرير"
     },
     "Sites": {
-        "message": "Sites"
+        "message": "المواقع"
     },
     "Sort": {
-        "message": "Sort"
+        "message": "تصنيف"
     },
     "Actions": {
         "message": "Actions"
@@ -442,40 +442,40 @@
         "message": "Action"
     },
     "Please_select_a_file": {
-        "message": "Please select a file"
+        "message": "من فضلك اختر ملفا"
     },
     "Cloud": {
-        "message": "Cloud"
+        "message": "التخزين السحابي"
     },
     "Import": {
-        "message": "Import"
+        "message": "استيراد"
     },
     "Show_backups": {
-        "message": "Show backups"
+        "message": "اظهار النسخ الاحتياطية"
     },
     "Delete": {
-        "message": "Delete"
+        "message": "حذف"
     },
     "Features": {
-        "message": "Features"
+        "message": "المواصفات"
     },
     "This_script_stores_data": {
-        "message": "This script stores data to Tampermonkey."
+        "message": "Tampermonkey هذا الكود يحفظ البيانات في"
     },
     "This_script_has_access_to_https_pages": {
-        "message": "This item has access to https pages."
+        "message": "(HTTPS pages) هذا الكود لديه صلاحية الدخول علي صفحات الويب المشفرة"
     },
     "One_or_more_compatibility_options_are_set": {
-        "message": "One or more compatibility options are set. You might want/should review them."
+        "message": "تم ضبط خيار توافق أو أكثر. قد تريد / يتوجب  عليك مراجعتها"
     },
     "This_script_has_full_web_access": {
-        "message": "This script has full internet access."
+        "message": "هذا الكود لديه كامل صلاحية الدخول علي شبكة الانترنت"
     },
     "This_is_a_system_script": {
-        "message": "This is a system script."
+        "message": ".هذا كود نظام"
     },
     "This_is_a_chrome_extension": {
-        "message": "This is a browser extension"
+        "message": "هذا إضافة متصفح"
     },
     "This_script_runs_in_Chrome_mode": {
         "message": "This script runs in Chrome mode"
