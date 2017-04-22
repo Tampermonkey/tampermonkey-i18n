@@ -1240,16 +1240,16 @@
         "message": "No entry found"
     },
     "BlackCheck": {
-        "message": "فحص القائمة السوداء
+        "message": "فحص القائمة السوداء"
     },
     "Script_Blacklist_Source": {
-        "message": "مصدر قائمة الأكواد السوداء
+        "message": "مصدر قائمة الأكواد السوداء"
     },
     "Server_And_Manual": {
-        "message": "يدوي و عن بعد
+        "message": "يدوي و عن بعد"
     },
     "Only_Manual": {
-        "message": "يدوي فقط
+        "message": "يدوي فقط"
     },
     "Manual_Script_Blacklist": {
         "message": "الأكواد اليدوية و قائمة @require السوداء"
