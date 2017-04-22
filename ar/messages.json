@@ -478,13 +478,13 @@
         "message": "هذا إضافة متصفح"
     },
     "This_script_runs_in_Chrome_mode": {
-        "message": "This script runs in Chrome mode"
+        "message": "chrome هذا الكود يعمل في وضع"
     },
     "This_is_a_userscript": {
-        "message": "This is a userscript written in Javascript"
+        "message": "Javascript هذا الكود مكتوب بلغة"
     },
     "Really_import_0name0__": {
-        "message": "Do you really want to import the native script '$name$'?",
+        "message": "؟'$name$' أترغب بالتأكيد من استيراد الكود المحلي",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -492,7 +492,7 @@
         }
     },
     "Really_delete_0name0__": {
-        "message": "Do you really want to delete '$name$'?",
+        "message": "؟'$name$' أترغب بالتأكيد بحذف",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -500,10 +500,10 @@
         }
     },
     "This_script_has_access_to_webpage_scripts": {
-        "message": "This item has full access to the webpage."
+        "message": ".هذا الكود لديه كامل الصلاحية للدخول عي هذه الصفحة"
     },
     "Utilities": {
-        "message": "Utilities"
+        "message": "الأدوات"
     },
     "This_script_uses_uW_gm_api_": {
         "message": "This script uses a part of Greasemonkey 10 API (unsafeWindow.gmonkey)\nthat is not supported by Tampermonkey nor any other alternative script handler."
@@ -535,10 +535,10 @@
         "message": "An error occurred during import."
     },
     "Export": {
-        "message": "Export"
+        "message": "تصدير"
     },
     "TextArea": {
-        "message": "TextArea"
+        "message": "منطقة الكتابة"
     },
     "Zip": {
         "message": "Zip"
@@ -575,55 +575,55 @@
         "message": "Click here to see the recent changes"
     },
     "General": {
-        "message": "General"
+        "message": "عام"
     },
     "Script_Update": {
-        "message": "Script Update"
+        "message": "تحديث الكود"
     },
     "Check_interval": {
         "message": "Check Interval"
     },
     "Always": {
-        "message": "Always"
+        "message": "دائما"
     },
     "Never": {
-        "message": "Never"
+        "message": "أبدا"
     },
     "Every_Hour": {
-        "message": "Every Hour"
+        "message": "كل ساعة"
     },
     "Every_6_Hours": {
-        "message": "Every 6 Hours"
+        "message": "كل 6 ساعات"
     },
     "Every_12_Hour": {
-        "message": "Every 12 Hours"
+        "message": "كل 12 ساعة"
     },
     "Every_Day": {
-        "message": "Every Day"
+        "message": "كل يوم"
     },
     "Every_Week": {
-        "message": "Every Week"
+        "message": "كل أسبوع"
     },
     "Every_Month": {
-        "message": "Every Month"
+        "message": "كل شهر"
     },
     "Update_interval": {
         "message": "Update Interval"
     },
     "Editor": {
-        "message": "Editor"
+        "message": "المحرر"
     },
     "Font_Size": {
-        "message": "Font Size"
+        "message": "حجم الخط"
     },
     "Theme": {
-        "message": "Theme"
+        "message": "المظاهر"
     },
     "Key_Mapping": {
         "message": "Key Mapping"
     },
     "Windows": {
-        "message": "Windows"
+        "message": "النوافذ"
     },
     "Sublime": {
         "message": "Sublime Text"
@@ -691,37 +691,37 @@
         "message": "Hide notification after"
     },
     "Today": {
-        "message": "Today"
+        "message": "اليوم"
     },
     "15_Seconds": {
-        "message": "15 Seconds"
+        "message": " ثانية 15"
     },
     "30_Seconds": {
-        "message": "30 Seconds"
+        "message": "30 ثانية"
     },
     "1_Minute": {
-        "message": "1 Minute"
+        "message": "دقيقة واحدة"
     },
     "5_Minutes": {
-        "message": "5 Minutes"
+        "message": "خمس دقائق"
     },
     "1_Hour": {
-        "message": "1 Hour"
+        "message": "ساعة واحدة"
     },
     "Enable_Editor": {
-        "message": "Enable enhanced editor"
+        "message": "تمكين المحرر المحسن"
     },
     "Appearance": {
-        "message": "Appearance"
+        "message": "المظهر"
     },
     "Security": {
-        "message": "Security"
+        "message": "الأمان"
     },
     "Downloads": {
-        "message": "Downloads"
+        "message": "التحميلات"
     },
     "Download_Mode": {
-        "message": "Download Mode"
+        "message": "وضع التحميل"
     },
     "Browser_API": {
         "message": "Browser API"
@@ -754,16 +754,16 @@
         "message": "Blacklisted Pages"
     },
     "Blacklist": {
-        "message": "Blacklist"
+        "message": "القائمة السوداء"
     },
     "Whitelist": {
-        "message": "Whitelist"
+        "message": "القائمة البيضاء"
     },
     "Both": {
-        "message": "Both"
+        "message": "كلاهما"
     },
     "Experimental": {
-        "message": "Experimental"
+        "message": "تجريبي"
     },
     "strict_mode": {
         "message": "strict mode"
@@ -772,7 +772,7 @@
         "message": "Inject Mode"
     },
     "Fast": {
-        "message": "Fast"
+        "message": "سريع"
     },
     "Normal": {
         "message": "Normal"
@@ -798,7 +798,7 @@
         "message": "Update disabled scripts"
     },
     "Homepage": {
-        "message": "Homepage"
+        "message": "الصفحة الرئيسية"
     },
     "Last_updated": {
         "message": "Last updated"
@@ -810,34 +810,34 @@
         "message": "Type"
     },
     "Updates": {
-        "message": "Updates"
+        "message": "التحديثات"
     },
     "Check_for_Updates": {
-        "message": "Check for updates"
+        "message": "البحث عن تحديثات"
     },
     "Update_check_is_disabled": {
         "message": "The update check of this script is disabled or not possible"
     },
     "Click_here_to_move_this_script": {
-        "message": "Click here to move this script"
+        "message": "اضغط هنا لنقل الكود"
     },
     "overwritten_by_user": {
         "message": "overwritten by user setting"
     },
     "Report_a_bug": {
-        "message": "Report a bug"
+        "message": "الإبلاغ عن مشكلة"
     },
     "A_reload_is_required": {
         "message": "A reload is required: \nAll unsaved changes will be lost!"
     },
     "Save_to_disk": {
-        "message": "Save to disk"
+        "message": "حفظ إلي القرص"
     },
     "Editor_reset": {
         "message": "Editor reset"
     },
     "Full_reset": {
-        "message": "Factory reset"
+        "message": "إعادة ضبط المصنع"
     },
     "Run_syntax_check": {
         "message": "Run syntax check"
@@ -881,10 +881,10 @@
         "message": "Script URL detection"
     },
     "Install_this_script": {
-        "message": "Install this script"
+        "message": "تثبيت هذا الكود"
     },
     "New_script_template_": {
-        "message": "New userscript template"
+        "message": "قالب ملف كودي جديد"
     },
     "Icon_badge_info": {
         "message": "Icon Badge Info"
@@ -905,19 +905,19 @@
         "message": "Unique running scripts"
     },
     "Disabled_scripts": {
-        "message": "Disabled scripts"
+        "message": "الأكواد المعطلة"
     },
     "Config_Mode": {
         "message": "Config mode"
     },
     "Novice": {
-        "message": "Novice"
+        "message": "أول مرة"
     },
     "Beginner": {
-        "message": "Beginner"
+        "message": "مبتدأ"
     },
     "Advanced": {
-        "message": "Advanced"
+        "message": "متقدم"
     },
     "Changes_the_number_of_visible_config_options": {
         "message": "Changes the number of visible config options"
@@ -926,10 +926,10 @@
         "message": "Language"
     },
     "Enter_the_new_rule": {
-        "message": "Enter the new rule"
+        "message": "أدخل القاعدة الجديدة"
     },
     "Add_as_0clude0": {
-        "message": "Add as $clude$",
+        "message": "$clude$ إضافة كـ",
         "placeholders": {
             "clude": {
                 "content": "$1"
@@ -1042,22 +1042,22 @@
         "message": "Script authors can secure external resources by adding a SRI hash to the source URL."
     },
     "Yes": {
-        "message": "Yes"
+        "message": "نعم"
     },
     "No": {
-        "message": "No"
+        "message": "لا"
     },
     "Auto": {
-        "message": "Auto"
+        "message": "آلي"
     },
     "__Please_choose__": {
         "message": "-- Please choose an option --"
     },
     "Enable": {
-        "message": "Enable"
+        "message": "تكين"
     },
     "Disable": {
-        "message": "Disable"
+        "message": "تعطيل"
     },
     "Toggle_Enable": {
         "message": "Toggle Enable"
@@ -1069,7 +1069,7 @@
         "message": "Apply this to all selected scripts"
     },
     "Start": {
-        "message": "Start"
+        "message": "بدأ"
     },
     "Really_delete_the_selected_items_": {
         "message": "Do you really want to delete the selected items?"
@@ -1087,19 +1087,19 @@
         "message": "Do you really want to factory reset this script?"
     },
     "Reset_Section": {
-        "message": "Reset"
+        "message": "إعادة ضبط"
     },
     "Restart_Tampermonkey": {
-        "message": "Restart Tampermonkey"
+        "message": "Tampermonkey إعادة تشغيل"
     },
     "This_will_restart_Tampermonkey_Ok_": {
-        "message": "Do you really want to restart Tampermonkey?"
+        "message": "؟Tampermonkey أتريد بالتأكيد إعادة تشغيل"
     },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
         "message": "Tampermonkey needs to be restarted to make this change apply.\n\nDo you want to continue?"
     },
     "Factory_Reset": {
-        "message": "Factory Reset"
+        "message": "إعادة ضبط المصنع"
     },
     "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
         "message": "Do you really want to remove all scripts and reset all settings?"
