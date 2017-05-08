@@ -1105,10 +1105,10 @@
     "message": "Do you really want to remove all scripts and reset all settings?"
   },
   "Chrome_Sync_Reset": {
-    "message": "Chrome Sync Reset"
+    "message": "Sync Reset"
   },
   "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-    "message": "Do you really want to remove all data from Google Sync?"
+    "message": "Do you really want to remove all data from Sync?"
   },
   "Enable_autoSave": {
     "message": "Save content when editor loses focus"
