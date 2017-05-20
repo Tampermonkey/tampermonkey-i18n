@@ -503,16 +503,16 @@
     "message": "Dette skriptet har tilgang til nettsideskripter."
   },
   "Utilities": {
-    "message": "Utilities"
+    "message": "Verktøy"
   },
   "This_script_uses_uW_gm_api_": {
-    "message": "This script uses a part of Greasemonkey 10 API (unsafeWindow.gmonkey)\nthat is not supported by Tampermonkey nor any other alternative script handler."
+    "message": "Dette skriptet bruker en del av Greasemonkey 10s API (unsafeWindow.gmonkey)\nsom ikke støttes av Tampermonkey eller av noen andre skripthåndterere."
   },
   "some_secs": {
-    "message": "some"
+    "message": "noen"
   },
   "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
-    "message": "CONFLICT:\nThis script was modified by another tab $t$ second(s) ago!",
+    "message": "KONFLIKT:\nDette skriptet ble endret på av en annen fane for $t$ second(s) siden!",
     "placeholders": {
       "t": {
         "content": "$1"
@@ -520,40 +520,40 @@
     }
   },
   "Enabled": {
-    "message": "Enabled"
+    "message": "Aktivert"
   },
   "Disabled": {
-    "message": "Disabled"
+    "message": "Deaktivert"
   },
   "Unable_to_parse_this_": {
-    "message": "Unable to parse this! :("
+    "message": "Klarte ikke å parse dette! :("
   },
   "No_backups_found": {
-    "message": "No backups found"
+    "message": "Ingen sikkerhetskopier ble funnet"
   },
   "An_error_occured_during_import_": {
-    "message": "An error occurred during import."
+    "message": "En feil oppstod under importeringen.."
   },
   "Export": {
-    "message": "Export"
+    "message": "Eksporter"
   },
   "TextArea": {
-    "message": "TextArea"
+    "message": "Tekstområdet"
   },
   "Zip": {
-    "message": "Zip"
+    "message": "ZIP"
   },
   "Include_script_storage": {
-    "message": "Include script storage"
+    "message": "Inkluder skriptlagringen"
   },
   "Include_TM_settings": {
-    "message": "Include Tampermonkey settings"
+    "message": "Inkluder Tampermonkey-innstillingene"
   },
   "File": {
-    "message": "File"
+    "message": "Fil"
   },
   "There_is_an_update_for_0name0_avaiable_": {
-    "message": "There is an update for '$name$' available. :)",
+    "message": "En oppdatering for '$name$' er tilgjengelig. :)",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -561,10 +561,10 @@
     }
   },
   "Just_another_service_provided_by_your_friendly_script_updater_": {
-    "message": "Just another service provided by your friendly script updater"
+    "message": "Bare en ekstra tjeneste levert til deg av din vennlige skriptoppdaterer."
   },
   "Updated_to__0version0": {
-    "message": "Updated to: $version$",
+    "message": "Oppdatert til: $version$",
     "placeholders": {
       "version": {
         "content": "$1"
@@ -572,58 +572,58 @@
     }
   },
   "Click_here_to_see_the_recent_changes": {
-    "message": "Click here to see the recent changes"
+    "message": "Klikk her for å se de nylige endringene"
   },
   "General": {
-    "message": "General"
+    "message": "Generelt"
   },
   "Script_Update": {
-    "message": "Script Update"
+    "message": "Skriptoppdatering"
   },
   "Check_interval": {
-    "message": "Check Interval"
+    "message": "Tidsrom mellom søk"
   },
   "Always": {
-    "message": "Always"
+    "message": "Alltid"
   },
   "Never": {
-    "message": "Never"
+    "message": "Aldri"
   },
   "Every_Hour": {
-    "message": "Every Hour"
+    "message": "Hver time"
   },
   "Every_6_Hours": {
-    "message": "Every 6 Hours"
+    "message": "Hver 6. time"
   },
   "Every_12_Hour": {
-    "message": "Every 12 Hours"
+    "message": "Hver 12. time"
   },
   "Every_Day": {
-    "message": "Every Day"
+    "message": "Hver dag"
   },
   "Every_Week": {
-    "message": "Every Week"
+    "message": "Hver uke"
   },
   "Every_Month": {
-    "message": "Every Month"
+    "message": "Hver måned"
   },
   "Update_interval": {
-    "message": "Update Interval"
+    "message": "Tidsrom mellom oppdateringer"
   },
   "Editor": {
-    "message": "Editor"
+    "message": "Redigeringer"
   },
   "Font_Size": {
-    "message": "Font Size"
+    "message": "Skrifttypestørrelse"
   },
   "Theme": {
-    "message": "Theme"
+    "message": "Tema"
   },
   "Key_Mapping": {
-    "message": "Key Mapping"
+    "message": "Tastebindinger"
   },
   "Windows": {
-    "message": "Windows"
+    "message": "Vinduer"
   },
   "Sublime": {
     "message": "Sublime Text"
@@ -635,7 +635,7 @@
     "message": "Vim"
   },
   "Please_check_the_0editor0_documentation_for_more_details_": {
-    "message": "Please check the $editor$ documentation for more details.",
+    "message": "Vennligst sjekk $editor$-dokumentasjonen for flere detaljer.",
     "placeholders": {
       "editor": {
         "content": "$1"
@@ -643,22 +643,22 @@
     }
   },
   "Indentation_Width": {
-    "message": "Indentation Width"
+    "message": "Indenteringsbredden"
   },
   "Indent_with": {
-    "message": "Indent with"
+    "message": "Indentér med"
   },
   "Tabs": {
-    "message": "Tabs"
+    "message": "Faner"
   },
   "Spaces": {
-    "message": "Spaces"
+    "message": "Mellomrom"
   },
   "TabMode": {
-    "message": "TabMode"
+    "message": "Fanemodus"
   },
   "Classic": {
-    "message": "Classic"
+    "message": "Klassisk"
   },
   "Indent": {
     "message": "Indent"
@@ -667,124 +667,124 @@
     "message": "Smart"
   },
   "Line_break": {
-    "message": "Line break"
+    "message": "Linjebryting"
   },
   "Reindent_on_typing": {
-    "message": "Re-indent on typing"
+    "message": "Gjenindentér når det skrives"
   },
   "Auto_reload_on_script_enabled": {
-    "message": "Auto reload pages"
+    "message": "Auto-ominnlast sider"
   },
   "Auto_reload_on_script_enabled_desc": {
-    "message": "Reload affected pages if a script was turned on or off"
+    "message": "Ominnlast påvirkede sider dersom et skript ble skrudd av eller på"
   },
   "Anonymous_statistics": {
-    "message": "Anonymous statistics"
+    "message": "Anonyme statistikker"
   },
   "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-    "message": "Allow Tampermonkey to collect anonymous statistics via Google Analytics. This helps me to improve Tampermonkey and to determine on what criteria I should focus my development. Just disable this if you dislike it."
+    "message": "Tillat Tampermonkey å samle inn anonyme statistikker gjennom Google Analytics. Dette gjøre det mulig for meg å forbedre Tampermonkey og å avgjøre hvilke ting jeg burde fokusere utviklingen min på. Det er bare å deaktivere dette dersom du ikke liker det."
   },
   "Dont_ask_me_for_simple_script_updates": {
-    "message": "Don't ask me for simple script updates"
+    "message": "Ikke spør meg angående enkle skriptoppdateringer"
   },
   "Hide_notification_after": {
-    "message": "Hide notification after"
+    "message": "Skjul bemerkninger etter"
   },
   "Today": {
-    "message": "Today"
+    "message": "I dag"
   },
   "15_Seconds": {
-    "message": "15 Seconds"
+    "message": "15 sekunder"
   },
   "30_Seconds": {
-    "message": "30 Seconds"
+    "message": "30 sekunder"
   },
   "1_Minute": {
-    "message": "1 Minute"
+    "message": "1 minutt"
   },
   "5_Minutes": {
-    "message": "5 Minutes"
+    "message": "5 minutter"
   },
   "1_Hour": {
-    "message": "1 Hour"
+    "message": "1 time"
   },
   "Enable_Editor": {
-    "message": "Enable enhanced editor"
+    "message": "Aktiver den forbedrede redigereren"
   },
   "Appearance": {
-    "message": "Appearance"
+    "message": "Utseende"
   },
   "Security": {
-    "message": "Security"
+    "message": "Sikkerhet"
   },
   "Downloads": {
-    "message": "Downloads"
+    "message": "Nedlastninger"
   },
   "Download_Mode": {
-    "message": "Download Mode"
+    "message": "Nedlastningsmodus"
   },
   "Browser_API": {
-    "message": "Browser API"
+    "message": "Nettleser-API"
   },
   "The_Browser_API_mode_requires_a_special_permission_": {
-    "message": "The Browser API mode requires a special permission."
+    "message": "Nettleser-API-modusen krever en spesiell tilgang."
   },
   "Whitelisted_File_Extensions": {
-    "message": "Whitelisted File Extensions"
+    "message": "Godkjente filutvidelser"
   },
   "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
-    "message": "Only files with these extensions can be saved to the harddisk.\nBe careful to not allow file extensions that represent executables at your operating system!"
+    "message": "Kun filer med disse utvidelsene kan bli lagret til harddisken.\nVær forsiktig med å godkjenne filutivdelser som representer eksekverbare filer i systemet ditt!"
   },
   "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
-    "message": "Your whitelist seems to include executable files!\nThis means your userscripts may download malware or spyware to your harddisk!!"
+    "message": "Din liste over godkjenninger ser til å inkludere eksekverbare filer!\nDette betyr at brukerskriptene kan laste ned søppelprogrammer eller spionprogrammer på harddisken din!!"
   },
   "Browser_API_Downloads": {
-    "message": "Browser API Downloads"
+    "message": "Nettleser-API-nedlastninger"
   },
   "Click_here_to_allow_TM_to_start_downloads": {
-    "message": "Click OK to allow Tampermonkey to start instant downloads."
+    "message": "Klikk OK for å tillate Tampermonkey å starte øyeblikkelige nedlastninger."
   },
   "Page_Filter_Mode": {
-    "message": "Page Filter Mode"
+    "message": "Sidefiltreringsmodus"
   },
   "Whitelisted_Pages": {
-    "message": "Whitelisted Pages"
+    "message": "Godkjente sider"
   },
   "Blacklisted_Pages": {
-    "message": "Blacklisted Pages"
+    "message": "Svartelistede sider"
   },
   "Blacklist": {
-    "message": "Blacklist"
+    "message": "Svarteliste"
   },
   "Whitelist": {
-    "message": "Whitelist"
+    "message": "Godkjenningsliste"
   },
   "Both": {
-    "message": "Both"
+    "message": "Begge deler"
   },
   "Experimental": {
-    "message": "Experimental"
+    "message": "Eksperimentell"
   },
   "strict_mode": {
-    "message": "strict mode"
+    "message": "Streng modus"
   },
   "Inject_Mode": {
-    "message": "Inject Mode"
+    "message": "Innsettingsmodus"
   },
   "Fast": {
-    "message": "Fast"
+    "message": "Hurtig"
   },
   "Normal": {
     "message": "Normal"
   },
   "This_page_is_blacklisted_at_the_security_settings": {
-    "message": "Blacklisted by security settings"
+    "message": "Svartelistet av sikkerhetsinnstillingene"
   },
   "Update_Notification": {
-    "message": "Show TM update notification"
+    "message": "Vis TM-oppdateringsbemerkningen"
   },
   "Unable_to_load_script_from_url_0url0": {
-    "message": "Unable to load script from url: \n $url$",
+    "message": "Klarte ikke å laste inn skriptet fra nettadressen: \n $url$",
     "placeholders": {
       "url": {
         "content": "$1"
@@ -792,64 +792,64 @@
     }
   },
   "Click_here_to_install_it_": {
-    "message": "Click here to install it."
+    "message": "Klikk her for å installere den."
   },
   "Check_disabled_scripts": {
-    "message": "Update disabled scripts"
+    "message": "Oppdater deaktiverte skripter"
   },
   "Homepage": {
-    "message": "Homepage"
+    "message": "Hjemmesiden"
   },
   "Last_updated": {
-    "message": "Last updated"
+    "message": "Senest oppdatert"
   },
   "Version": {
-    "message": "Version"
+    "message": "Versjon"
   },
   "Type": {
     "message": "Type"
   },
   "Updates": {
-    "message": "Updates"
+    "message": "Oppdateringer"
   },
   "Check_for_Updates": {
-    "message": "Check for updates"
+    "message": "Søk etter oppdateringer"
   },
   "Update_check_is_disabled": {
-    "message": "The update check of this script is disabled or not possible"
+    "message": "Oppdateringssøkingen av dette skriptet har blitt deaktivert eller umuliggjort."
   },
   "Click_here_to_move_this_script": {
-    "message": "Click here to move this script"
+    "message": "Klikk her for å flytte dette skriptet"
   },
   "overwritten_by_user": {
-    "message": "overwritten by user setting"
+    "message": "Overskrevet av brukerinnstillingene"
   },
   "Report_a_bug": {
-    "message": "Report a bug"
+    "message": "Meld fra om en bug"
   },
   "A_reload_is_required": {
-    "message": "A reload is required: \nAll unsaved changes will be lost!"
+    "message": "En ominnlasting er påkreved: \nAlle ulagrede innstillinger vil gå tapt!"
   },
   "Save_to_disk": {
-    "message": "Save to disk"
+    "message": "Lagre til disk"
   },
   "Editor_reset": {
-    "message": "Editor reset"
+    "message": "Tilbakestilling av redigereren"
   },
   "Full_reset": {
-    "message": "Factory reset"
+    "message": "Fullstendig tilbakestilling"
   },
   "Run_syntax_check": {
-    "message": "Run syntax check"
+    "message": "Kjør syntakssjekker"
   },
   "No_syntax_errors_were_found_": {
-    "message": "No syntax errors were found."
+    "message": "Ingen syntaksfeil ble funnet."
   },
   "One_error_or_hint_was_found_": {
-    "message": "One error or hint was found."
+    "message": "Én feil eller hint ble funnet."
   },
   "0count0_errors_or_hints_were_found_": {
-    "message": "$count$ errors or hints were found.",
+    "message": "$count$ feil eller hint ble funnet.",
     "placeholders": {
       "count": {
         "content": "$1"
@@ -857,79 +857,79 @@
     }
   },
   "Auto_syntax_check_on_typing": {
-    "message": "Automatic syntax check on typing"
+    "message": "Automatisk syntakssjekk ved skriving"
   },
   "Enable_this_option_to_automatically_check_the_code_on_typing_": {
-    "message": "Enable this option to automatically check the code on typing."
+    "message": "Aktiver denne innstillingen for å automatisk sjekke koden under skriving."
   },
   "Auto_syntax_check_max_length": {
-    "message": "Automatic syntax check max size"
+    "message": "Den automatiske synstakssjekkens maksstørrelse"
   },
   "Check_only_scripts_up_to_this_size_automatically_": {
-    "message": "Check only scripts up to this size automatically."
+    "message": "Sjekk kun skripter opptil denne størrelsen automatisk.."
   },
   "Highlight_trailing_whitespace": {
-    "message": "Highlight trailing whitespace"
+    "message": "Fremhev sporets tomrom"
   },
   "Dashboard": {
-    "message": "Dashboard"
+    "message": "Hovedmeny"
   },
   "Userscripts": {
-    "message": "Userscripts"
+    "message": "Brukerskripter"
   },
   "Script_URL_detection": {
-    "message": "Script URL detection"
+    "message": "Oppdaging av skriptnettadresse"
   },
   "Install_this_script": {
-    "message": "Install this script"
+    "message": "Installer dette skriptet"
   },
   "New_script_template_": {
-    "message": "New userscript template"
+    "message": "Ny brukerskriptmal"
   },
   "Icon_badge_info": {
-    "message": "Icon Badge Info"
+    "message": "Ikonmerkeinfo"
   },
   "Icon_badge_color": {
-    "message": "Icon Badge Color"
+    "message": "Ikonmerkefarge"
   },
   "On": {
-    "message": "On"
+    "message": "På"
   },
   "Off": {
-    "message": "Off"
+    "message": "Av"
   },
   "Running_scripts": {
-    "message": "Running scripts instances"
+    "message": "Kjørende skriptinstanser"
   },
   "Unique_running_scripts": {
-    "message": "Unique running scripts"
+    "message": "Unike kjørende skripter"
   },
   "Disabled_scripts": {
-    "message": "Disabled scripts"
+    "message": "Deaktiverte skripter"
   },
   "Config_Mode": {
-    "message": "Config mode"
+    "message": "Oppsettsmodus"
   },
   "Novice": {
-    "message": "Novice"
+    "message": "Nybegynner"
   },
   "Beginner": {
-    "message": "Beginner"
+    "message": "Begynner"
   },
   "Advanced": {
-    "message": "Advanced"
+    "message": "Avansert"
   },
   "Changes_the_number_of_visible_config_options": {
-    "message": "Changes the number of visible config options"
+    "message": "Endrer antall synlige oppsettsinnstillinger"
   },
   "Language": {
-    "message": "Language"
+    "message": "Språk"
   },
   "Enter_the_new_rule": {
-    "message": "Enter the new rule"
+    "message": "Skriv inn den nye regelen"
   },
   "Add_as_0clude0": {
-    "message": "Add as $clude$",
+    "message": "Legg til som $clude$",
     "placeholders": {
       "clude": {
         "content": "$1"
@@ -937,79 +937,79 @@
     }
   },
   "Add": {
-    "message": "Add"
+    "message": "Legg til"
   },
   "Remove": {
-    "message": "Remove"
+    "message": "Fjern"
   },
   "Includes_Excludes": {
-    "message": "Includes/Excludes"
+    "message": "Inkluderinger/Ekskluderinger
   },
   "Original_includes": {
-    "message": "Original includes"
+    "message": "Opprinnelige inkluderinger"
   },
   "Original_matches": {
-    "message": "Original matches"
+    "message": "Opprinnelige samsvar"
   },
   "Original_excludes": {
-    "message": "Original excludes"
+    "message": "Opprinnelige ekskluderinger"
   },
   "User_includes": {
-    "message": "User includes"
+    "message": "Brukerinkluderinger"
   },
   "User_matches": {
-    "message": "User matches"
+    "message": "Brukersamsvar"
   },
   "User_excludes": {
-    "message": "User excludes"
+    "message": "Brukerekskluderinger"
   },
   "Original_domain_whitelist": {
-      "message": "Original domain whitelist"
+      "message": "Opprinnelig domenegodkjenningsliste"
   },
   "User_domain_whitelist": {
-      "message": "User domain whitelist"
+      "message": "Bruker-domenegodkjenningsliste"
   },
   "Temporary_domain_whitelist": {
-      "message": "Temporary domain whitelist"
+      "message": "Midlertidig domenegodkjenningsliste"
   },
   "User_domain_blacklist": {
-      "message": "User domain blacklist"
+      "message": "Bruker-domenesvarteliste"
   },
   "XHR_Security": {
-      "message": "XHR Security"
+      "message": "XHR-sikkerhet"
   },
   "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
-    "message": "An internal error occurred. If this problem persists even after a restart of the browser, please press OK and report this issue at the forum.\n\nDo you want to visit the Tampermonkey forum?"
+    "message": "En intern feil oppstod. Dersom dette problemet fortsetter selv etter en omstart av nettleseren, vennligst klikk OK og meld fra om denne feilen i forumet.\n\nØnsker du å besøke Tampermonkey-forumet?"
   },
   "TESLA": {
     "message": "TESLA"
   },
   "Enable_TESLA": {
-    "message": "Enable TESLA"
+    "message": "Aktiver TESLA"
   },
   "Tampermonkey_External_Script_List_Access": {
-    "message": "Script synchronization (Tampermonkey External Script List Access)"
+    "message": "Skriptsynkronisering (Tampermonkey-tilgang til eksterne skriptlister)"
   },
   "Sync_Type": {
     "message": "Type"
   },
   "Sync_Version": {
-    "message": "Version"
+    "message": "Versjon"
   },
   "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
-    "message": "Unlike the 'Legacy' sync version this one synchronizes your scripts by reference to a unique ID that is created when a script is installed!\n\nThis means if you installed a script at multiple Tampermonkey instances by either another sync method or a normal script installation then this script will appear multiple times after the next sync iteration has finished.\n\nThe only way to recover is to manually remove each doubled script entry!\n\nDo you really want to continue?"
+    "message": "I motsetning til 'Kompatibilitet'-synkroniseringsversjonen, synkroniserer denne skriptene dine gjennom en referanse til en unik ID som blir opprettet når et skript blir installert!\n\nDette betyr at dersom du har installert et skript i flere Tampermonkey-instanser gjennom enten en annen synkroniseringsmetode, eller en vanlig skriptinstallasjon, vil dette skriptet dukke opp flere ganger etter at den neste synkroniseringen har blitt fullført.\n\nDen eneste måten å fikse dette på, er å manuelt fjerne alle dobbeltgjenger-skriptoppføringer!\n\nVil du virkelig fortsette?"
   },
   "Different_sync_versions_are_not_compatible_to_each_other_": {
-    "message": "Different sync versions are not compatible to each other!"
+    "message": "Forskjellige synkroniseringsversjoner er ikke kompatible med hverandre!"
   },
   "Sync_Id": {
-    "message": "Id"
+    "message": "ID"
   },
   "Imported": {
-    "message": "Imported"
+    "message": "Importert"
   },
   "Create_Exportable_Data": {
-    "message": "Create Exportable Data"
+    "message": "Opprett eksporterbare dataer"
   },
   "Copy_exportable_data_to_clipboard_Ok_": {
     "message": "Copy exportable TESLA data to clipboard. Ok?"
