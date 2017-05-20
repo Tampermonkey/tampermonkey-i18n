@@ -1057,10 +1057,10 @@
     "message": "確定要移除所有腳本且重設所有設定嗎？"
   },
   "Chrome_Sync_Reset": {
-    "message": "Chrome Sync 重設"
+    "message": "Sync 重設"
   },
   "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-    "message": "您真的要從 Google Sync 移除所有資料？"
+    "message": "您真的要從 Sync 移除所有資料？"
   },
   "Enable_autoSave": {
     "message": "失去滑鼠焦點時儲存內容"

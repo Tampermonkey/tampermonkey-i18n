@@ -1072,10 +1072,10 @@
         "message": "您是否真的想删除所有的脚本并重置所有的设置？"
     },
     "Chrome_Sync_Reset": {
-        "message": "Chrome 同步重置"
+        "message": "同步重置"
     },
     "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-        "message": "您真的想从 Google 同步中删除所有数据吗？"
+        "message": "您真的想从同步中删除所有数据吗？"
     },
     "Enable_autoSave": {
         "message": "当编辑器失去焦点时保存内容"
