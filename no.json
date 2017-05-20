@@ -1012,172 +1012,172 @@
     "message": "Opprett eksporterbare dataer"
   },
   "Copy_exportable_data_to_clipboard_Ok_": {
-    "message": "Copy exportable TESLA data to clipboard. Ok?"
+    "message": "Kopier eksporterbare TESLA-dataer til utklippstavlen. Greit?"
   },
   "Allow_headers_to_be_modified_by_scripts": {
-    "message": "Allow HTTP headers to be modified by scripts"
+    "message": "Tillat at HTTP-utvidelser blir modifisert av skripter"
   },
   "Allow_communication_with_cooperate_pages": {
-    "message": "Allow communication with cooperate pages"
+    "message": "Tillat kommunikasjon med samarbeidssider"
   },
   "Tampermonkey_and_script_version": {
-    "message": "Tampermonkey + script version"
+    "message": "Tampermonkey + skriptversjon"
   },
   "Tampermonkey_version": {
-    "message": "Tampermonkey version only"
+    "message": "Kun Tampermonkey-versjonen"
   },
   "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
-    "message": "This option allows the Tampermonkey homepage and some script hosting pages to determine the Tampermonkey version and some basic script information (installed, version, enabled)."
+    "message": "Denne innstillingen tillater Tampermonkey-hjemmesiden og noen skriptvertssider å bedømme Tampermonkey-versjon og litt enkel skriptinformasjon (Er den installert / skrudd på, og hvilken versjon er den?)."
   },
   "Subresource_Integrity": {
-    "message": "Subresource Integrity"
+    "message": "Underressurs-integritet"
   },
   "Validate_if_supported": {
-    "message": "Validate if possible"
+    "message": "Godkjenn hvis den er støttet"
   },
   "Validate_if_given": {
-    "message": "Validate if given"
+    "message": "Godkjenn hvis den blir gitt"
   },
   "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
-    "message": "Script authors can secure external resources by adding a SRI hash to the source URL."
+    "message": "Skriptskapere kan sikre eksterne ressurser ved å legge til en SRI-hash til kildenettadressen."
   },
   "Yes": {
-    "message": "Yes"
+    "message": "Ja"
   },
   "No": {
-    "message": "No"
+    "message": "Nei"
   },
   "Auto": {
-    "message": "Auto"
+    "message": "Automatisk"
   },
   "__Please_choose__": {
-    "message": "-- Please choose an option --"
+    "message": "— Vennligst velg et alternativ —"
   },
   "Enable": {
-    "message": "Enable"
+    "message": "Aktiver"
   },
   "Disable": {
-    "message": "Disable"
+    "message": "Deaktiver"
   },
   "Toggle_Enable": {
-    "message": "Toggle Enable"
+    "message": "Skru av/på aktivering"
   },
   "Trigger_Update": {
-    "message": "Trigger Update"
+    "message": "Fremprovoser oppdatering"
   },
   "Apply_this_action_to_the_selected_scripts": {
-    "message": "Apply this to all selected scripts"
+    "message": "Bruk dette for alle de valgte skriptene"
   },
   "Start": {
     "message": "Start"
   },
   "Really_delete_the_selected_items_": {
-    "message": "Do you really want to delete the selected items?"
+    "message": "Vil du virkelig slette de valgte gjenstandene?"
   },
   "Really_factory_reset_the_selected_items_": {
-    "message": "Do you really want to factory reset the selected items?"
+    "message": "Vil du virkelig fullstendig tilbakestille de valgte gjenstandene?"
   },
   "Filter_by": {
-    "message": "Filter by"
+    "message": "Sorter etter"
   },
   "Matching_URL": {
-    "message": "Matching URL"
+    "message": "Samsvarende nettadresse"
   },
   "Really_factory_reset_this_script_": {
-    "message": "Do you really want to factory reset this script?"
+    "message": "Vil du virkelig fullstendig tilbakestille dette skriptet?"
   },
   "Reset_Section": {
-    "message": "Reset"
+    "message": "Tilbakestill"
   },
   "Restart_Tampermonkey": {
-    "message": "Restart Tampermonkey"
+    "message": "Start Tampermonkey på nytt"
   },
   "This_will_restart_Tampermonkey_Ok_": {
-    "message": "Do you really want to restart Tampermonkey?"
+    "message": "Vil du virkelig starte Tampermonkey på nytt?"
   },
   "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
-    "message": "Tampermonkey needs to be restarted to make this change apply.\n\nDo you want to continue?"
+    "message": "Tampermonkey må startes på nytt for at denne endringen skal tas i bruk.\n\nVil du starte på nytt?"
   },
   "Factory_Reset": {
-    "message": "Factory Reset"
+    "message": "Fullstendig tilbakestilling"
   },
   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
-    "message": "Do you really want to remove all scripts and reset all settings?"
+    "message": "Vil du virkelig fjerne alle skripter og tilbakestille alle innstillinger?"
   },
   "Chrome_Sync_Reset": {
-    "message": "Chrome Sync Reset"
+    "message": "Chrome-synkroniseringstilbakestilling"
   },
   "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-    "message": "Do you really want to remove all data from Google Sync?"
+    "message": "Vil du virkelig fjerne alle dataene fra Google Sync?"
   },
   "Enable_autoSave": {
-    "message": "Save content when editor loses focus"
+    "message": "Lagre innholdet når redigereren mister fokus"
   },
   "Enable_easySave": {
-    "message": "Don't show confirmation dialog on save"
+    "message": "Ikke vis bekreftelsesdialog ved lagring"
   },
   "Add_TM_to_CSP": {
-    "message": "Add Tampermonkey to the site's content security policy (CSP) if there is one"
+    "message": "Legg til Tampermonkey i sidens innholdssikkerhetsretningslinjeliste (CSP) hvis den finnes"
   },
   "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
-    "message": "Tampermonkey might not be able to provide access to the unsafe context (unsafeWindow, page's functions and variables) when this is disabled."
+    "message": "Tampermonkey kan muligens ikke skaffe tilgang til den usikre sammenhengen ('unsafeWindow', en sides funksjoner, og variablene) dersom dette er deaktivert."
   },
   "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-    "message": "At least one part of this page is listed at the 'forbidden pages' setting!"
+    "message": "Minst én del av denne siden er listet oppi 'Forbudte sider'-innstillingene!"
   },
   "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
-    "message": "Some scripts might be blocked by the JavaScript settings for this page or a script blocker!"
+    "message": "Noen skripter kan være blokkert av JavaScript-innstillingene på denne siden eller av en skriptblokkerer!"
   },
   "Show_notification": {
-    "message": "Show a notification"
+    "message": "Vis en bemerkning"
   },
   "Open_changelog": {
-    "message": "Open the changelog"
+    "message": "Åpne loggboken over endringer"
   },
   "No_frames": {
-    "message": "Run only in top frame"
+    "message": "Kjør kun i topprammen"
   },
   "Native": {
-    "message": "Native"
+    "message": "Naturlig"
   },
   "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
-    "message": "Tampermonkey needs to know the absolute path to your browser profile folder to make the script import function work.\n\nClick here to visit the FAQ to learn where this can be found!"
+    "message": "Tampermonkey må vite den fullstendinge filbanen til din nettleserprofilmappe for at skriptimporteringsfunksjonen skal fungere.\n\nKlikk her for å besøke FAQ-siden og lære hvor denne mappen kan bli funnet!"
   },
   "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-    "message": "Tampermonkey needs access to file URIs to make the script import work.\n\nClick here to visit the FAQ to learn how you can grant that permission!"
+    "message": "Tampermonkey må ha tilgang til fil-URİene for at skriptimporteringen skal virke.\n\nKlikk her for å besøke FAQ-siden og lære hvordan du skal gi den den rette tilgangen!"
   },
   "Tampermonkey_has_no_file_access_permission_": {
-    "message": "Tampermonkey has no permission to access local files!"
+    "message": "Tampermonkey har ikke adgang til de lokale filene!"
   },
   "Everything_is_setup_correctly_": {
-    "message": "Everything is setup correctly."
+    "message": "Alt har blitt satt opp riktig!."
   },
   "TM_has_access_to_file_URIs": {
-    "message": "Tampermonkey has access to file URIs. :)"
+    "message": "Tampermonkey har tilgang til fil-URİene. :)"
   },
   "Browser_Profile_Path": {
-    "message": "Browser Profile Path"
+    "message": "Nettleserprofilens filbane"
   },
   "Native_Script_Import": {
-    "message": "Native Script Import"
+    "message": "Innebygd skriptimportering"
   },
   "Enable_Native_Script_Import": {
-    "message": "Enable Native Script Import"
+    "message": "Aktiver innebygds skriptimportering"
   },
   "Post_Import_Action": {
-    "message": "Post Import Action"
+    "message": "Handling etter importering"
   },
   "None": {
-    "message": "None"
+    "message": "Ingen"
   },
   "Disable_Extension": {
-    "message": "Disable Extension"
+    "message": "Deaktiver utvidelsen"
   },
   "Uninstall_Extension": {
-    "message": "Uninstall Extension"
+    "message": "Avinstaller utvidelsen"
   },
   "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
-    "message": "What action should be done after a native userscript was imported successfully?"
+    "message": "Hva skal gjøres etter at et naturlig brukerskript ble importert med suksess?"
   },
   "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
     "message": "When Tampermonkey is updated by your browser it is also re-started. Unfortunately this might break currently running scripts!\n\nSo are you sure that you don't want to be notified of updates?"
