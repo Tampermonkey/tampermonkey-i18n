@@ -1180,103 +1180,103 @@
     "message": "Hva skal gjøres etter at et naturlig brukerskript ble importert med suksess?"
   },
   "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
-    "message": "When Tampermonkey is updated by your browser it is also re-started. Unfortunately this might break currently running scripts!\n\nSo are you sure that you don't want to be notified of updates?"
+    "message": "Når Tampermonkey blir oppdatert av nettleseren din, blir den også startet på nytt. Dessverre kan det også knekke de skriptene som kjører på det tidspunktet!\n\nSå, er du sikker på at du ikke vil bli fortalt om oppdateringer?"
   },
   "Operation_completed_successfully": {
-    "message": "Operation completed successfully"
+    "message": "Handlingen ble utført med suksess!"
   },
   "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-    "message": "All modifications are only kept until this incognito session is closed!"
+    "message": "Alle endringer blir kun beholdt frem til denne inkognito-økten blir lukket!"
   },
   "_not_set_": {
-    "message": "<not set>"
+    "message": "<ikke valgt>"
   },
   "Layout": {
-    "message": "Layout"
+    "message": "Oppsett"
   },
   "User_CSS": {
-    "message": "User CSS"
+    "message": "Bruker-CSS"
   },
   "You_can_add_your_custom_CSS_rules_here_": {
-    "message": "You can add your own CSS rules for the Tampermonkey UI here. In case this breaks something you can get the default layout by appending ?layout=reset to the options page URL."
+    "message": "Du kan legge til dine egne CSS-regler for Tampermonkeys grensesnitt her. I tilfelle dette knekker noe, kan du hente standardoppsettet ved å føye ?layout=reset til innstillingssidens nettadresse."
   },
   "Store_data_in_incognito_mode": {
-    "message": "Store data in incognito mode"
+    "message": "Lagre data i inkognitomodus"
   },
   "Temporary": {
-    "message": "Temporary"
+    "message": "Midlertidig"
   },
   "Permanent": {
     "message": "Permanent"
   },
   "Warning": {
-    "message": "Warning"
+    "message": "Advarsel"
   },
   "Info": {
     "message": "Info"
   },
   "Error": {
-    "message": "Error"
+    "message": "Feil"
   },
   "Externals": {
-    "message": "Externals"
+    "message": "Eksterne ting"
   },
   "Requires": {
-    "message": "Requires"
+    "message": "Krever"
   },
   "Resources": {
-    "message": "Resources"
+    "message": "Ressurser"
   },
   "Storage": {
-    "message": "Storage"
+    "message": "Lagring"
   },
   "URL": {
-    "message": "URL"
+    "message": "Nettadresse"
   },
   "Size": {
-    "message": "Size"
+    "message": "Størrelse"
   },
   "No_entry_found": {
-    "message": "No entry found"
+    "message": "Ingen oppføring ble funnet"
   },
   "BlackCheck": {
-    "message": "BlackCheck"
+    "message": "Svartelistesjekk"
   },
   "Script_Blacklist_Source": {
-    "message": "Script Blacklist Source"
+    "message": "Skriptets svartelistekilder"
   },
   "Server_And_Manual": {
-    "message": "Remote + Manual"
+    "message": "Fjernstyring + Manuelt"
   },
   "Only_Manual": {
-    "message": "Manual Only"
+    "message": "Kun manuelt"
   },
   "Manual_Script_Blacklist": {
-    "message": "Manual Userscript and @require Blacklist"
+    "message": "Manuelt brukerskript og '@require'-svarteliste"
   },
   "This_script_is_blacklisted_": {
-    "message": "This script is blacklisted!"
+    "message": "Dette skriptet er svartelistet!"
   },
   "Report_an_issue_to_the_script_hoster_": {
-    "message": "Report an issue to the script hoster.\n(A user account may be required)"
+    "message": "Meld fra om en feil til skriptsverten\n(En brukerkonto kan kanskje være påkrevd)"
   },
   "Blacklist_Severity": {
-    "message": "Block From Severity Level"
+    "message": "Blokker utifra sikkerhetsnivå"
   },
   "Action_Menu": {
-    "message": "Action Menu"
+    "message": "Handlingsmeny"
   },
   "Hide_disabled_scripts": {
-    "message": "Hide disabled scripts"
+    "message": "Skjul deaktiverte skripter"
   },
   "Columns": {
-    "message": "Columns"
+    "message": "Kolonner"
   },
   "Script_order": {
-    "message": "Script order"
+    "message": "Skriptsortering"
   },
   "severity_1": {
-    "message": "1 (most secure)"
+    "message": "1 (mest sikkert)"
   },
   "severity_2": {
     "message": "2"
@@ -1303,13 +1303,13 @@
     "message": "9"
   },
   "severity_10": {
-    "message": "10 (least secure)"
+    "message": "10 (Minst sikkert)"
   },
   "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
-    "message": "Your language is not supported?\nClick here to get instructions how to translate Tampermonkey?"
+    "message": "Er ikke språket ditt støttet?\nKlikk her for å få instruksjoner om hvordan man oversetter Tampermonkey."
   },
   "Default": {
-    "message": "Default"
+    "message": "Standard"
   },
   "Ok": {
     "message": "Ok"
