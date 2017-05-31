@@ -738,6 +738,15 @@
   "Update_Notification": {
     "message": "Aktualisierungs-Benachrichtigung anzeigen"
   },
+  "Favicon_Service": {
+    "message": "Favicon-Dienst"
+  },
+  "Google": {
+    "message": "Google"
+  },
+  "Warning_unsafe_site_warnings_might_appear_": {
+    "message": "Achtung: es können Warnungen wegen unsicherem Inhalt angezeigt werden, wenn ein Script eine potentiell schädliche Seite in einer seiner @include-Direktiven auflistet."
+  },
   "Unable_to_load_script_from_url_0url0": {
     "message": "Script kann nicht geladen werden: \n $url$",
     "placeholders": {
