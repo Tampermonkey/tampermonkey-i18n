@@ -783,6 +783,15 @@
   "Update_Notification": {
     "message": "Show TM update notification"
   },
+  "Favicon_Service": {
+    "message": "Favicon Service"
+  },
+  "Google": {
+    "message": "Google"
+  },
+  "Warning_unsafe_site_warnings_might_appear_": {
+    "message": "Warning: unsafe site warnings might appear if a script includes potentially harmfull URLs."
+  },
   "Unable_to_load_script_from_url_0url0": {
     "message": "Unable to load script from url: \n $url$",
     "placeholders": {
@@ -1105,10 +1114,10 @@
     "message": "Do you really want to remove all scripts and reset all settings?"
   },
   "Chrome_Sync_Reset": {
-    "message": "Chrome Sync Reset"
+    "message": "Sync Reset"
   },
   "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-    "message": "Do you really want to remove all data from Google Sync?"
+    "message": "Do you really want to remove all data from Sync?"
   },
   "Enable_autoSave": {
     "message": "Save content when editor loses focus"
