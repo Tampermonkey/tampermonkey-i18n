@@ -783,6 +783,15 @@
   "Update_Notification": {
       "message": "Wyświetlaj powiadomienia o aktualizacjach Tampermonkey"
   },
+  "Favicon_Service": {
+      "message": "Serwis ikon ulubionych"
+  },
+  "Google": {
+      "message": "Google"
+  },
+  "Warning_unsafe_site_warnings_might_appear_": {
+      "message": "Uwaga: może się pojawić ostrzeżenie o niebezpiecznych stronach, jeśli skrypt zawiera potencjalnie szkodliwe adresy URL."
+  },
   "Unable_to_load_script_from_url_0url0": {
       "message": "Nie mozna załadować skryptu spod adresu URL: \n $url$",
       "placeholders": {
