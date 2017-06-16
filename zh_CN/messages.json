@@ -1002,18 +1002,6 @@
     "Sync_Type": {
         "message": "类型"
     },
-    "Sync_Version": {
-        "message": "版本"
-    },
-    "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
-        "message": "不同于“传统”同步版本，此版本引用一个脚本被安装时创建的唯一ID来同步您的脚本！\n\n这意味着如果您在多个 Tampermonkey 实例中通过其他同步方式或正常的脚本安装途径安装同一个脚本，则这个脚本在下个同步后将出现多份。\n\n遇到后的解决方法仅有手动移除重复的脚本！\n\n您是否要继续使用？"
-    },
-    "Different_sync_versions_are_not_compatible_to_each_other_": {
-        "message": "不同同步版本相互不兼容！"
-    },
-    "Sync_Id": {
-        "message": "ID"
-    },
     "Imported": {
         "message": "已导入"
     },

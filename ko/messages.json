@@ -987,18 +987,6 @@
   "Sync_Type": {
     "message": "유형"
   },
-  "Sync_Version": {
-    "message": "버전"
-  },
-  "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
-    "message": "'Legacy' 동기화 버전과는 다르게 이 버전은 스크립트가 설치될 때 생성되는 UUID를 통해 스크립트를 동기화합니다!\n\n이는 만약 여러 Tampermonkey 인스턴스에 하나의 스크립트를 다른 동기화 방법으로나 일반적인 스크립트 설치 방법으로 설치했을 경우 다음 동기화 동작이 끝난 후 그 스크립트가 여러 개 나타날 것임을 의미합니다.\n\n이를 복구할 유일한 방법은 여러 개가 된 스크립트를 직접 제거하는 것뿐입니다!\n\n계속하시겠습니까?"
-  },
-  "Different_sync_versions_are_not_compatible_to_each_other_": {
-    "message": "다른 버전간에는 서로 호환되지 않습니다!"
-  },
-  "Sync_Id": {
-    "message": "ID"
-  },
   "Imported": {
     "message": "가져와짐"
   },

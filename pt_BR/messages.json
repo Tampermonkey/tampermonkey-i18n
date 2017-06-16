@@ -736,9 +736,6 @@
   "Store_data_in_incognito_mode": {
     "message": "Salvar informações no modo incognito"
   },
-  "Sync_Id": {
-    "message": "Id"
-  },
   "Sync_Type": {
     "message": "Tipo"
   },
@@ -1202,15 +1199,6 @@
   },
   "XHR_Security": {
     "message": "Segurança de XHR"
-  },
-  "Sync_Version": {
-    "message": "Versão"
-  },
-  "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
-    "message": "Diferente da versão de sincronização 'legado' esta sincroniza seus scripts pela referencia de um ID único que é criado quando um script é instalado!\n\nIsto significa que se voce instalou um script em multiplas instancias de Tampermonkey por algum outro método de sincronização ou uma instalação normal de script entao este script irá aparecer varias vezes depois que a próxima iteração de sincronização estiver terminada.\n\nA unica forma de recuperar é remover manualmente cada script duplicado!\n\nVocê realmente quer continuar?"
-  },
-  "Different_sync_versions_are_not_compatible_to_each_other_": {
-    "message": "Versões Diferente de sincronização não são compativeis entre si!"
   },
   "Subresource_Integrity": {
     "message": "Integridade de subrecursos"

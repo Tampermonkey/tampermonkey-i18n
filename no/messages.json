@@ -993,18 +993,6 @@
   "Sync_Type": {
     "message": "Type"
   },
-  "Sync_Version": {
-    "message": "Versjon"
-  },
-  "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
-    "message": "I motsetning til 'Kompatibilitet'-synkroniseringsversjonen, synkroniserer denne skriptene dine gjennom en referanse til en unik ID som blir opprettet når et skript blir installert!\n\nDette betyr at dersom du har installert et skript i flere Tampermonkey-instanser gjennom enten en annen synkroniseringsmetode, eller en vanlig skriptinstallasjon, vil dette skriptet dukke opp flere ganger etter at den neste synkroniseringen har blitt fullført.\n\nDen eneste måten å fikse dette på, er å manuelt fjerne alle dobbeltgjenger-skriptoppføringer!\n\nVil du virkelig fortsette?"
-  },
-  "Different_sync_versions_are_not_compatible_to_each_other_": {
-    "message": "Forskjellige synkroniseringsversjoner er ikke kompatible med hverandre!"
-  },
-  "Sync_Id": {
-    "message": "ID"
-  },
   "Imported": {
     "message": "Importert"
   },

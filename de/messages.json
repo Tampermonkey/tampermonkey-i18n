@@ -954,18 +954,6 @@
   "Sync_Type": {
     "message": "Typ"
   },
-  "Sync_Version": {
-    "message": "Version"
-  },
-  "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
-    "message": "Im Gegensatz zur Legacy-Version synchonisiert diese Variante die Scripts anhand einer eindeutigen ID, die beim Installieren oder beim Synchronisieren mit einer anderen Version generiert wurde.\n\nDas bedeutet, dass die installierten Scripts nun unter Umständen mehrfach auftauchen können, nachdem die Synchronisation die nächsten Male ausgeführt wurde.\n\nDie einzige Möglichkeit das Problem zu beheben, wird die Deinstallation aller mehrfach auftauchenden Scripts sein!\n\nSoll wirklich diese Sync-Version genutzt werden?"
-  },
-  "Different_sync_versions_are_not_compatible_to_each_other_": {
-    "message": "Die unterschiedlichen Versionen sind untereinander inkompatibel!"
-  },
-  "Sync_Id": {
-    "message": "Id"
-  },
   "Imported": {
     "message": "Importiert"
   },

@@ -677,9 +677,6 @@
   "Sync_Type": {
     "message": "Тип"
   },
-  "Sync_Id": {
-    "message": "ID"
-  },
   "Imported": {
     "message": "Імпортований"
   },

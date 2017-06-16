@@ -960,18 +960,6 @@
   "Sync_Type": {
     "message": "Typ"
   },
-  "Sync_Version": {
-    "message": "Verze"
-  },
-  "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
-    "message": "Narozdíl od 'Legacy' synchronizace, tato verze synchronizuje skripty podle unikátního ID, které je vytvořeno při instalaci skriptu!\n\nPokud tedy nainstalujete tento skript do jiné instance Tampermonkey, buď jinou metodou synchronizace nebo normálním instalačním způsobem, objeví se tento skript vícekrát, dokud neproběhne další synchronizace.\n\nToto lze napravit pouze ručním odstraněním duplicitních skriptů!\n\nOpravdu chcete pokračovat?"
-  },
-  "Different_sync_versions_are_not_compatible_to_each_other_": {
-    "message": "Synchronizované verze nejsou navzájem kompatibilní!"
-  },
-  "Sync_Id": {
-    "message": "Id"
-  },
   "Imported": {
     "message": "Importováno"
   },

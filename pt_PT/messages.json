@@ -736,9 +736,6 @@
   "Store_data_in_incognito_mode": {
     "message": "Guardar informações no modo incógnito"
   },
-  "Sync_Id": {
-    "message": "Sync_Id"
-  },
   "Sync_Type": {
     "message": "Sync_Type"
   },
@@ -1202,15 +1199,6 @@
   },
   "XHR_Security": {
     "message": "Segurança de XHR"
-  },
-  "Sync_Version": {
-    "message": "Versão"
-  },
-  "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
-    "message": "Esta versão sincronizada poderá multiplicar cada script que esteja presente em mais do que uma instância do TM. Deseja continuar?"
-  },
-  "Different_sync_versions_are_not_compatible_to_each_other_": {
-    "message": "Versões de sincronização diferentes não são compativeis entre si!"
   },
   "Subresource_Integrity": {
     "message": "Integridade de subrecursos"

@@ -787,18 +787,6 @@
   "Sync_Type": {
     "message": "Szinkronizáció típusa"
   },
-  "Sync_Version": {
-    "message": "Verzió"
-  },
-  "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
-    "message": "A régi szinkronizáció típussal ellentétben ez egy a szkript telepítésekor keletkezett egyedi azonosító referenciája alapján szinkronizálja a szikreptet! \n\n Ez azt jelenti, hogy ha a szkriptet több Tampermonkey példány alatt telepítetted, vagy egy másik szinkronizációs metódust használtál akkor ez a szkript a következő automatikus szinkronizáció után duplikáltan fog megjelenni. \n\n Erre az egyetlen megoldás a duplikált szkriptek manuális eltávolítása!\n\n Biztosan folytatod?"
-  },
-  "Different_sync_versions_are_not_compatible_to_each_other_": {
-    "message": "Különböző szinkronizációs verziók nem kompatibilisek egymással!"
-  },
-  "Sync_Id": {
-    "message": "Azonosító"
-  },
   "Imported": {
     "message": "Importált"
   },

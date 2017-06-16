@@ -595,9 +595,6 @@
   "Store_data_in_incognito_mode": {
     "message": "Enregistrer les données dans le mode de navigation privée"
   },
-  "Sync_Id": {
-    "message": "Id"
-  },
   "Sync_Type": {
     "message": "Type"
   },

@@ -1002,18 +1002,6 @@
   "Sync_Type": {
       "message": "Typ"
   },
-  "Sync_Version": {
-      "message": "Wersja"
-  },
-  "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
-      "message": "W odróżnieniu od wersji 'Legacy' synchronizacji, ta synchronizuje twoje skrypty przez referencje do unikalnego ID, które jest tworzone kiedy skrypt zostanie zainstalowany!\n\nTo oznacza, że jeśli zainstalowałeś skrypt w wielu instancjach Tampermonkey korzystając z którejkolwiek innej metody synchronizacji lub normalnej instalacji skryptu, to ten skrypt pojawi się wiele razy po zakończeniu kolejnej iteracji synchronizacji.\n\nJedyną metodą by przywrócić stan rzeczy jest ręczne usunięcie zdublowanych wpisów skryptu!!\n\nCzy na pewno chcesz kontynuować?"
-  },
-  "Different_sync_versions_are_not_compatible_to_each_other_": {
-      "message": "Odmienne wersje synchronizacji nie są kompatybilne z każdą inną!"
-  },
-  "Sync_Id": {
-      "message": "Identyfikator"
-  },
   "Imported": {
       "message": "Zaimportowane"
   },
