@@ -963,12 +963,6 @@
   "Imported": {
     "message": "Importováno"
   },
-  "Create_Exportable_Data": {
-    "message": "Vytvořit exportovatelná data"
-  },
-  "Copy_exportable_data_to_clipboard_Ok_": {
-    "message": "Zkopírovat exportovatelná TESLA data do schránky. Ok?"
-  },
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "Povolit skriptům úpravy HTTP hlaviček"
   },
@@ -1035,11 +1029,11 @@
   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
     "message": "Opravdu chcete smazat všechny skripty a resetovat všechna nastavení?"
   },
-  "Chrome_Sync_Reset": {
-    "message": "Resetovat Chrome Sync"
+  "Sync_Reset": {
+    "message": "Resetovat Sync"
   },
-  "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-    "message": "Opravdu chcete smazat všechna data z Google Sync?"
+  "This_will_remove_all_remote_data_from_sync_Ok_": {
+    "message": "Opravdu chcete smazat všechna data z Sync?"
   },
   "Enable_autoSave": {
     "message": "Uložit obsah při opuštění editoru"

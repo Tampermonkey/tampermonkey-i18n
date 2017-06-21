@@ -131,6 +131,12 @@
       }
     }
   },
+  "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
+    "message": "At least one of the @include, @match or @exclude statements was changed."
+  },
+  "At_least_one_new_connect_statement_was_added_": {
+     "message": "At least one new @connect statement was added."
+  },
   "Attention_Can_not_display_all_includes_": {
     "message": "Attention: The include list was shortened.\nPlease check it manually!"
   },
@@ -880,6 +886,9 @@
   "Highlight_trailing_whitespace": {
     "message": "Highlight trailing whitespace"
   },
+  "Trim_trailing_whitespace_from_modified_lines": {
+    "message": "Trim trailing whitespace from modified lines"
+  },
   "Dashboard": {
     "message": "Dashboard"
   },
@@ -1005,12 +1014,6 @@
   "Imported": {
     "message": "Imported"
   },
-  "Create_Exportable_Data": {
-    "message": "Create Exportable Data"
-  },
-  "Copy_exportable_data_to_clipboard_Ok_": {
-    "message": "Copy exportable TESLA data to clipboard. Ok?"
-  },
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "Allow HTTP headers to be modified by scripts"
   },
@@ -1101,10 +1104,13 @@
   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
     "message": "Do you really want to remove all scripts and reset all settings?"
   },
-  "Chrome_Sync_Reset": {
+  "Browser_Sync": {
+    "message": "Browser Sync"
+  },
+  "Sync_Reset": {
     "message": "Sync Reset"
   },
-  "This_will_remove_all_stored_data_from_google_sync_Ok_": {
+  "This_will_remove_all_remote_data_from_sync_Ok_": {
     "message": "Do you really want to remove all data from Sync?"
   },
   "Enable_autoSave": {

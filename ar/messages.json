@@ -996,12 +996,6 @@
     "Imported": {
         "message": "Imported"
     },
-    "Create_Exportable_Data": {
-        "message": "Create Exportable Data"
-    },
-    "Copy_exportable_data_to_clipboard_Ok_": {
-        "message": "Copy exportable TESLA data to clipboard. Ok?"
-    },
     "Allow_headers_to_be_modified_by_scripts": {
         "message": "Allow HTTP headers to be modified by scripts"
     },
@@ -1092,11 +1086,11 @@
     "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
         "message": "Do you really want to remove all scripts and reset all settings?"
     },
-    "Chrome_Sync_Reset": {
-        "message": "Chrome Sync Reset"
+    "Sync_Reset": {
+        "message": "Sync Reset"
     },
-    "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-        "message": "Do you really want to remove all data from Google Sync?"
+    "This_will_remove_all_remote_data_from_sync_Ok_": {
+        "message": "Do you really want to remove all remote data from Sync?"
     },
     "Enable_autoSave": {
         "message": "Save content when editor loses focus"

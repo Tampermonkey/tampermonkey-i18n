@@ -206,8 +206,8 @@
   "Check_interval": {
     "message": "確認の間隔"
   },
-  "Chrome_Sync_Reset": {
-    "message": "Chrome 同期のリセット"
+  "Sync_Reset": {
+    "message": "同期のリセット"
   },
   "Classic": {
     "message": "クラシック"
@@ -238,12 +238,6 @@
   },
   "Convert_CDATA_sections_into_a_chrome_compatible_format": {
     "message": "CDATA セクションを Chrome 互換形式に変換する"
-  },
-  "Copy_exportable_data_to_clipboard_Ok_": {
-    "message": "エクスポート可能な TESLA データをクリップボードにコピーしますか?"
-  },
-  "Create_Exportable_Data": {
-    "message": "エクスポート可能なデータを作成"
   },
   "Dashboard": {
     "message": "ダッシュボード"
@@ -814,8 +808,8 @@
   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
     "message": "すべてのスクリプトの削除とすべての設定のリセットの両方を本当に実行しますか?"
   },
-  "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-    "message": "Google Sync からすべてのデータを本当に削除しますか?"
+  "This_will_remove_all_remote_data_from_sync_Ok_": {
+    "message": "Sync からすべてのデータを本当に削除しますか?"
   },
   "This_will_restart_Tampermonkey_Ok_": {
     "message": "Tampermonkey を本当に再起動しますか?"

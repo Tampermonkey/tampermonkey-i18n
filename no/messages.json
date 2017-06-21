@@ -996,12 +996,6 @@
   "Imported": {
     "message": "Importert"
   },
-  "Create_Exportable_Data": {
-    "message": "Opprett eksporterbare dataer"
-  },
-  "Copy_exportable_data_to_clipboard_Ok_": {
-    "message": "Kopier eksporterbare TESLA-dataer til utklippstavlen. Greit?"
-  },
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "Tillat at HTTP-utvidelser blir modifisert av skripter"
   },
@@ -1092,11 +1086,11 @@
   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
     "message": "Vil du virkelig fjerne alle skripter og tilbakestille alle innstillinger?"
   },
-  "Chrome_Sync_Reset": {
-    "message": "Chrome-synkroniseringstilbakestilling"
+  "Sync_Reset": {
+    "message": "Synkroniseringstilbakestilling"
   },
-  "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-    "message": "Vil du virkelig fjerne alle dataene fra Google Sync?"
+  "This_will_remove_all_remote_data_from_sync_Ok_": {
+    "message": "Vil du virkelig fjerne alle dataene fra Sync?"
   },
   "Enable_autoSave": {
     "message": "Lagre innholdet når redigereren mister fokus"

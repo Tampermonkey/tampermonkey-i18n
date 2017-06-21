@@ -98,6 +98,12 @@
       }
     }
   },
+  "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
+    "message": "Mindestens eine der @include-, @match- oder @exclude-Anweisungen wurde modifiziert."
+  },
+  "At_least_one_new_connect_statement_was_added_": {
+     "message": "Mindestens eine @connect-Anweisung wurde hinzugefügt."
+  },
   "Attention_Can_not_display_all_includes_": {
     "message": "Achtung: Es werden nicht alle Seiten angezeigt!\nBitte manuell prüfen."
   },
@@ -832,6 +838,9 @@
   "Highlight_trailing_whitespace": {
     "message": "Leerzeichen am Ende der Zeile markieren"
   },
+  "Trim_trailing_whitespace_from_modified_lines": {
+    "message": "Entferne unnötige Leerzeichen am Ende von bearbeiteten Zeilen"
+  },
   "Dashboard": {
     "message": "Übersicht"
   },
@@ -957,12 +966,6 @@
   "Imported": {
     "message": "Importiert"
   },
-  "Create_Exportable_Data": {
-    "message": "TESLA-Daten erstellen"
-  },
-  "Copy_exportable_data_to_clipboard_Ok_": {
-    "message": "TESLA-Daten werden in die Zwischenablage kopiert. Ok?"
-  },
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "Modifikation der HTTP-Header durch Scripte erlauben"
   },
@@ -1053,11 +1056,14 @@
   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
     "message": "Sollen wirklich alle Scripte und Einstellungen gelöscht werden?"
   },
-  "Chrome_Sync_Reset": {
-    "message": "Chrome Sync Reset"
+  "Browser_Sync": {
+    "message": "Browser Sync"
   },
-  "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-    "message": "Sollen wirklich alle Daten von Google Sync gelöscht werden?"
+  "Sync_Reset": {
+    "message": "Sync Reset"
+  },
+  "This_will_remove_all_remote_data_from_sync_Ok_": {
+    "message": "Sollen wirklich alle entfernten Sync-Daten gelöscht werden?"
   },
   "Enable_autoSave": {
     "message": "Automatisch speichern, wenn der Editor den Fokus verliert"

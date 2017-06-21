@@ -990,12 +990,6 @@
   "Imported": {
     "message": "가져와짐"
   },
-  "Create_Exportable_Data": {
-    "message": "내보내기 가능한 데이터 만들기"
-  },
-  "Copy_exportable_data_to_clipboard_Ok_": {
-    "message": "내보내기 가능한 TESLA 데이터를 클립보드에 복사합니다. 계속하시겠습니까?"
-  },
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "스크립트에 의해 HTTP 헤더가 변경될 수 있도록 허용"
   },
@@ -1086,11 +1080,11 @@
   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
     "message": "정말로 모든 스크립트를 제거하고 모든 설정을 재설정하시겠습니까?"
   },
-  "Chrome_Sync_Reset": {
-    "message": "Chrome 동기화 재설정"
+  "Sync_Reset": {
+    "message": "동기화 재설정"
   },
-  "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-    "message": "정말로 Google Sync에서 모든 데이터를 제거하시겠습니까?"
+  "This_will_remove_all_remote_data_from_sync_Ok_": {
+    "message": "정말로 Sync 에서 모든 데이터를 제거하시겠습니까?"
   },
   "Enable_autoSave": {
     "message": "에디터가 포커스를 잃었을 경우 자동 저장"

@@ -195,8 +195,8 @@
   "Check_interval": {
     "message": "Intervalo para checar"
   },
-  "Chrome_Sync_Reset": {
-    "message": "Resetar Chrome Sync"
+  "Sync_Reset": {
+    "message": "Resetar Sync"
   },
   "Classic": {
     "message": "Clássico"
@@ -227,12 +227,6 @@
   },
   "Convert_CDATA_sections_into_a_chrome_compatible_format": {
     "message": "Converter seções CDATA em formato compatível com Chrome"
-  },
-  "Copy_exportable_data_to_clipboard_Ok_": {
-    "message": "Copiar informação TESLA para o clipboard (ctrl+v). Ok?"
-  },
-  "Create_Exportable_Data": {
-    "message": "Criar informação exportável"
   },
   "Dashboard": {
     "message": "Dashboard"
@@ -839,8 +833,8 @@
   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
     "message": "Remover todos os scripts e resetar todas as opções?"
   },
-  "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-    "message": "Remover todas as informações do TM do Google Sync?"
+  "This_will_remove_all_remote_data_from_sync_Ok_": {
+    "message": "Remover todas as informações do TM do Sync?"
   },
   "This_will_restart_Tampermonkey_Ok_": {
     "message": "Reiniciar Tampermonkey?"

@@ -1005,12 +1005,6 @@
     "Imported": {
         "message": "已导入"
     },
-    "Create_Exportable_Data": {
-        "message": "创建可导出数据"
-    },
-    "Copy_exportable_data_to_clipboard_Ok_": {
-        "message": "复制可导出 TESLA 数据到剪贴板。好吗？"
-    },
     "Allow_headers_to_be_modified_by_scripts": {
         "message": "允许脚本修改 HTTP 报头"
     },
@@ -1101,10 +1095,10 @@
     "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
         "message": "您真的要删除所有脚本并重置所有设置吗？"
     },
-    "Chrome_Sync_Reset": {
+    "Sync_Reset": {
         "message": "重置同步"
     },
-    "This_will_remove_all_stored_data_from_google_sync_Ok_": {
+    "This_will_remove_all_remote_data_from_sync_Ok_": {
         "message": "您真的要删除位于“同步”的所有数据吗？"
     },
     "Enable_autoSave": {

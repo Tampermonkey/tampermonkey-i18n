@@ -270,8 +270,8 @@
     "Check_only_scripts_up_to_this_size_automatically_": {
         "message": "Automaticky kontrolovať iba skripty do tejto veľkosti."
     },
-    "Chrome_Sync_Reset": {
-        "message": "Resetovať Chrome Sync"
+    "Sync_Reset": {
+        "message": "Resetovať Sync"
     },
     "Classic": {
         "message": "Klasický"
@@ -305,12 +305,6 @@
     },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Previesť sekcie CDATA do formátu kompatibilného s Chromom"
-    },
-    "Copy_exportable_data_to_clipboard_Ok_": {
-        "message": "Skopírujem exportovateľné TESLA dáta do schránky. Ok?"
-    },
-    "Create_Exportable_Data": {
-        "message": "Vytvoriť exportovateľné dáta"
     },
     "Dashboard": {
         "message": "Ovládací panel"
@@ -1035,8 +1029,8 @@
     "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
         "message": "Chcete zmazať všetky skripty a obnoviť všetky nastavenia?"
     },
-    "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-        "message": "Chcete zmazať všetky dáta z Google Sync?"
+    "This_will_remove_all_remote_data_from_sync_Ok_": {
+        "message": "Chcete zmazať všetky dáta z Sync?"
     },
     "This_will_restart_Tampermonkey_Ok_": {
         "message": "Chcete reštartovať Tampermonkey?"
