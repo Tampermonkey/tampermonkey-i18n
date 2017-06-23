@@ -131,6 +131,12 @@
           }
       }
   },
+  "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
+      "message": "Co najmniej jedna z deklaracji @include, @match lub @exclude została zmieniona."
+  },
+  "At_least_one_new_connect_statement_was_added_": {
+      "message": "Co najmniej jedna nowa deklaracja @connect została dodana."
+  },
   "Attention_Can_not_display_all_includes_": {
       "message": "Uwaga: Lista @include została skrócona.\nProszę o ręczne sprawdzenie!"
   },
@@ -520,10 +526,10 @@
       }
   },
   "Enabled": {
-      "message": "Włączony/a/e"
+      "message": "Włączone"
   },
   "Disabled": {
-      "message": "Wyłączony/a/e"
+      "message": "Wyłączone"
   },
   "Unable_to_parse_this_": {
       "message": "Nie można przetworzyć! :("
@@ -880,6 +886,9 @@
   "Highlight_trailing_whitespace": {
       "message": "Podświetalaj początkowe spacje"
   },
+  "Trim_trailing_whitespace_from_modified_lines": {
+      "message": "Wytnij końcowe białe znaki ze zmodyfikowanych linii"
+  },
   "Dashboard": {
       "message": "Panel sterowania"
   },
@@ -1095,11 +1104,14 @@
   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
       "message": "Czy na pewno chcesz usunąć wszystkie skrypty i przywrócić wszystkie ustawienia?"
   },
+  "Browser_Sync": {
+      "message": "Synchronizacja przeglądarki"
+  },
   "Sync_Reset": {
       "message": "Zresetuj synchronizację"
   },
   "This_will_remove_all_remote_data_from_sync_Ok_": {
-      "message": "Czy na pewno chcesz usunąć wszystkie dane z Synchronizacji"
+      "message": "Czy na pewno chcesz usunąć wszystkie dane z synchronizacji?"
   },
   "Enable_autoSave": {
       "message": "Zapisuj zawartość, kiedy edytor przestaje być aktywny"
@@ -1171,7 +1183,7 @@
       "message": "Jaka akcja powinna zostać wykonana po tym jak natywny skrypt został zaimportowany?"
   },
   "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
-      "message": "Kiedy Tampermonkey jest aktualizowany przez twoją przeglądarkę, to jest również restartowany. Niestety to może zatrzymać aktualnie uruchomione skrypty!\n\nWięc czy jesteś pewny(a), że nie chcesz otrzymywać powiadomień o aktualizacjach?"
+      "message": "Gdy Tampermonkey jest aktualizowany przez twoją przeglądarkę, to jest również restartowany. Niestety to może zatrzymać aktualnie uruchomione skrypty!\n\nWięc czy jesteś pewny(a), że nie chcesz otrzymywać powiadomień o aktualizacjach?"
   },
   "Operation_completed_successfully": {
       "message": "Operacja ukończona pomyślnie"
