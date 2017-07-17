@@ -45,7 +45,7 @@
         "message": "ذكرني لاحقاَ"
     },
     "I_dont_want_to_contribute": {
-        "message": "لن اتبرع"
+        "message": "لن أتبرع"
     },
     "Thank_you_very_much_": {
         "message": "!شكرا جزيلاَ"
@@ -73,7 +73,7 @@
         }
     },
     "Please_double_check_the_native_script_import_settings__": {
-        "message": "!غير قادر علي تحميل الملف\n\n.من فضلك تأكد من إعدادات 'استيراد الملفات المحلية'"
+        "message": "!غير قادر على تحميل الملف\n\n.من فضلك تأكد من إعدادات «استيراد الملفات المحلية»"
     },
     "Name": {
         "message": "الاسم"
@@ -91,37 +91,37 @@
         "message": "استيراد الإعدادت العامة"
     },
     "This_will_overwrite_your_global_settings_": {
-        "message": "!سيتم استبدال اعداداتك العامة"
+        "message": "!سيتم استبدال إعداداتك العامة"
     },
     "You_are_about_to_reinstall_a_UserScript_": {
-        "message": "إعادة تثبيت ملف الكود"
+        "message": "إعادة تثبيت ملف الشفرة المصدرية"
     },
     "You_are_about_to_downgrade_a_UserScript": {
         "message": "!انتبه نسخة قديمة من الملف"
     },
     "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
-        "message": "النسخة القديمة قد تحتوي مشاكل عند قراءة معلوماتها المخزنة"
+        "message": "النسخة القديمة قد تحوي مشاكل عند قراءة معلوماتها المخزنة"
     },
     "Malicious_scripts_can_violate_your_privacy_": {
-        "message": "!الأكواد الخبيثة قد تخترق خصوصيتك وتتصرف نيابة عنك\n.يتوجب عليك تثبيث فقط الأكواد من المصادر الموثوقة"
+        "message": "!الشفرات الخبيثة قد تخترق خصوصيتك وتتصرف نيابة عنك\n.يجب عليك تثبيث الشفرات من المصادر الموثوقة فقط"
     },
     "You_are_about_to_modify_a_UserScript_": {
-        "message": "تعديل الكود"
+        "message": "تعديل الشفرة"
     },
     "You_are_about_to_update_a_UserScript_": {
-        "message": "تحديث الكود"
+        "message": "تحديث الشفرة"
     },
     "You_are_about_to_install_a_UserScript_": {
-        "message": "تثبيت الكود"
+        "message": "تثبيت الشفرة"
     },
     "This_script_does_not_provide_any__include_information_": {
-        "message": ".هذا الكود لا يوفر أي معلومات @include مضمنة"
+        "message": ".هذه الشفرة لا توفر أي معلومات @include مضمنة"
     },
     "All_script_settings_will_be_reset_": {
-        "message": ".ستم إعادة ضبط جميع إعدادات الكود"
+        "message": ".ستم إعادة ضبط جميع إعدادات الشفرة"
     },
     "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
-        "message": ":تغير رابط التحديث من\n    '$oldurl$'\n    إلي\n    '$newurl$'\n",
+        "message": ":تغير رابط التحديث من\n    '$oldurl$'\n    إلى\n    '$newurl$'\n",
         "placeholders": {
             "oldurl": {
                 "content": "$1"
@@ -132,10 +132,10 @@
         }
     },
     "Attention_Can_not_display_all_includes_": {
-        "message": ".انتباه: قائمة المضمنة تم قصها\n!من فضلك افحصها يدويا"
+        "message": ".تنبيه: القائمة المضمنة تم قصها\n!من فضلك افحصها يدويا"
     },
     "Attention_Can_not_display_all_excludes_": {
-        "message": ".انتباه: قائمة الاستبعاد تم قصها\n!من فضلك افحصها يدويا"
+        "message": ".تنبيه: قائمة الاستبعاد تم قصها\n!من فضلك افحصها يدويا"
     },
     "Include_s__": {
         "message": "(مضمن (مضمنات"
@@ -144,7 +144,7 @@
         "message": "(مستبعد (مستبعدات"
     },
     "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-        "message": "قدتحتاج لإعادة فحص خيارات تكامل/FF .GreaseMonkey ليعمل هذا الكود"
+        "message": "قد تحتاج لإعادة فحص خيارات تكامل/FF .GreaseMonkey لتعمل هذه الشفرة"
     },
     "Author": {
         "message": "المؤلف"
@@ -171,7 +171,7 @@
         "message": "تحديث"
     },
     "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
-        "message": " .$name$ $version$ متوافرة\n!من فضلك أعد تشغيل المتصفح لبدأالتحديث",
+        "message": " .$name$ $version$ متوافرة\n!من فضلك أعد تشغيل المتصفح لبدءالتحديث",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -182,19 +182,19 @@
         }
     },
     "Process_with_Chrome": {
-        "message": "معاجة مع المتصفح"
+        "message": "معالجة مع المتصفح"
     },
     "Enforce": {
         "message": "فرض"
     },
     "Strict": {
-        "message": "دقيق"
+        "message": "صارم"
     },
     "connect_mode": {
         "message": "@connect mode"
     },
     "Ask_if_unknown": {
-        "message": "اسأل اذا كان مجهولا"
+        "message": "اسأل إذا كان مجهولا"
     },
     "Always_ask": {
         "message": "السؤال دائما"
@@ -230,7 +230,7 @@
         "message": "لا تسأل مرة أخرى"
     },
     "Focus_tab": {
-        "message": "ركز علي تبويب المصدر"
+        "message": "ركز على تبويب المصدر"
     },
     "Skip_timeout__0seconds0_seconds_": {
         "message": "($seconds$ seconds) تخطي بعد: ",
@@ -241,10 +241,10 @@
         }
     },
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
-        "message": ".حاول كود الاتصال بنطاق آخر"
+        "message": ".حاول شفرة الاتصال بنطاق آخر"
     },
     "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
-        "message": ".الاتصال بنطاق آخر ليس بشئ غير شائع\n.فقط يتوجب عليك التأكد من وجود سببا وجيها لمحاولة الكود الاتصال بهذا النطاق\n.فمثلا هناك أسباب قليلة جدا ليحاول الكود الاتصال بموقع بنكك\n\n.انتبه من فضلك إلي أن مؤلفي الأكواد قد يتخطون هذا التنبيه عبر إضافة: [url=$connect$]@connect tags[/url] إلي أكوادهم\n\n.مهما كان قرارك يمكنك تغييره في [url=$settings$]settings tab[/url]",
+        "message": ".الاتصال بنطاق آخر ليس أمرا غير شائع\n.يتوجب عليك التأكد فقط  من وجود سب وجيه لمحاولة شفرة الاتصال بهذا النطاق\n.فمثلا هناك أسباب قليلة جدا ليحاول الكود الاتصال بموقع بنكك\n\n.انتبه من فضلك إلي أن مؤلفي الأكواد قد يتخطون هذا التنبيه عبر إضافة: [url=$connect$]@connect tags[/url] إلي أكوادهم\n\n.مهما كان قرارك يمكنك تغييره في [url=$settings$]settings tab[/url]",
         "placeholders": {
             "connect": {
                 "content": "$1"
@@ -264,7 +264,7 @@
         "message": "الرابط المستهدف"
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
-        "message": "!هذا يعطي الكود كامل الصلاحية لاستقبال وارسال البيانات من كل صفحات الويب. وقد يكون هذا غير ءامنا\n\n؟أمتأكد من الاستمرار"
+        "message": "!هذا يعطي الشفرة كامل الصلاحية لاستقبال وإرسال البيانات من كل صفحات الويب. وقد يكون هذا غير ءام\n\n؟أمتأكد من الاستمرار"
     },
     "No_update_found__sry_": {
         "message": "!لا يوجد تحديث"
@@ -278,31 +278,31 @@
         }
     },
     "No_script_is_running": {
-        "message": "لا كود يعمل"
+        "message": "الشفرة لا تعمل"
     },
     "Add_new_script___": {
-        "message": "...صنع كود جديد"
+        "message": "إضافة شفرة جديدة"
     },
     "Get_new_scripts___": {
-        "message": "...إيجاد أكواد جديدة"
+        "message": "الحصول على شفرات جديدة"
     },
     "Check_for_userscripts_updates": {
-        "message": "التحقق من تحديثات للأكواد"
+        "message": "التحقق من تحديثات لشفرات"
     },
     "Waiting_for_sync_to_finish": {
-        "message": "الانتظار حتي انتهاء المزامنة"
+        "message": "الانتظار حتى انتهاء المزامنة"
     },
     "Settings": {
         "message": "الإعدادات"
     },
     "Debug_scripts": {
-        "message": "تصحيح الأكواد"
+        "message": "تصحيح الشفرات"
     },
     "Show_fixed_source": {
         "message": "إظهار المصدر الثابت"
     },
     "LogLevel": {
-        "message": "مستوي سجل الأداء"
+        "message": "مستوى سجل الأداء"
     },
     "Trace": {
         "message": "تتبع"
@@ -314,16 +314,16 @@
         "message": "تصحيح"
     },
     "Installed_userscripts": {
-        "message": "الأكواد المثبتة"
+        "message": "الشفرات المثبتة"
     },
     "No_script_is_installed": {
-        "message": "لا أكواد مثبتة"
+        "message": "شفرات غير مثبتة"
     },
     "Get_some_scripts___": {
-        "message": "...احصل علي بعض الأكواد"
+        "message": "...احصل على بعض الشفرات"
     },
     "New_userscript": {
-        "message": "<كود جديد>"
+        "message": "<شفرة جديدة>"
     },
     "Help": {
         "message": "مساعدة"
@@ -350,13 +350,13 @@
         "message": "UUID"
     },
     "Apply_compatibility_options_to_required_script_too": {
-        "message": "تطبيق خيارات التوافق علي أكواد @require أيضا"
+        "message": "تطبيق خيارات التوافق على شفرات @require أيضا"
     },
     "Fix_wrappedJSObject_property_access": {
         "message": "Fix wrappedJSObject property access"
     },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
-        "message": "تحويل أقسام CDATA إلي صيغة متوافقة مع المتصفح"
+        "message": "تحويل أقسام CDATA إلى صيغة متوافقة مع المتصفح"
     },
     "Fix_for_var_in_statements": {
         "message": "Fix 'for (var j in x)' statements"
@@ -389,7 +389,7 @@
         "message": "استبدال"
     },
     "Jump_to_line": {
-        "message": "القفز إلي سطر"
+        "message": "القفز إلى سطر"
     },
     "Insert_constructor": {
         "message": "إدراج constructor"
@@ -451,7 +451,7 @@
         "message": "استيراد"
     },
     "Show_backups": {
-        "message": "اظهار النسخ الاحتياطية"
+        "message": "إظهار النسخ الإحتياطية"
     },
     "Delete": {
         "message": "حذف"
@@ -460,31 +460,31 @@
         "message": "المواصفات"
     },
     "This_script_stores_data": {
-        "message": "Tampermonkey هذا الكود يحفظ البيانات في"
+        "message": "Tampermonkey هذه الشفرة تحفظ البيانات في"
     },
     "This_script_has_access_to_https_pages": {
-        "message": "(HTTPS pages) هذا الكود لديه صلاحية الدخول علي صفحات الويب المشفرة"
+        "message": "(HTTPS pages) هذه الشفرة لديها صلاحية الدخول على صفحات الويب المشفرة"
     },
     "One_or_more_compatibility_options_are_set": {
-        "message": "تم ضبط خيار توافق أو أكثر. قد تريد / يتوجب  عليك مراجعتها"
+        "message": "تم ضبط خيار توافق أو أكثر. قد تريد/يتوجب عليك مراجعتها"
     },
     "This_script_has_full_web_access": {
-        "message": "هذا الكود لديه كامل صلاحية الدخول علي شبكة الانترنت"
+        "message": "هذه الشفرة لديها كامل صلاحية الدخول على شبكة الأنترنت"
     },
     "This_is_a_system_script": {
-        "message": ".هذا كود نظام"
+        "message": ".هذه شفرة نظام"
     },
     "This_is_a_chrome_extension": {
-        "message": "هذا إضافة متصفح"
+        "message": "هذه إضافة متصفح"
     },
     "This_script_runs_in_Chrome_mode": {
-        "message": "chrome هذا الكود يعمل في وضع"
+        "message": "chrome هذه الشفرة تعمل في وضع"
     },
     "This_is_a_userscript": {
-        "message": "Javascript هذا الكود مكتوب بلغة"
+        "message": "Javascript هذه الشفرة مكتوبة بلغة"
     },
     "Really_import_0name0__": {
-        "message": "؟'$name$' أترغب بالتأكيد من استيراد الكود المحلي",
+        "message": "؟'$name$' أترغب بالتأكيد من استيراد الشفرة المحلية",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -500,7 +500,7 @@
         }
     },
     "This_script_has_access_to_webpage_scripts": {
-        "message": ".هذا الكود لديه كامل الصلاحية للدخول عي هذه الصفحة"
+        "message": ".هذه الشفرة لديها كامل الصلاحية لدخول هذه الصفحة"
     },
     "Utilities": {
         "message": "الأدوات"
@@ -520,10 +520,10 @@
         }
     },
     "Enabled": {
-        "message": "Enabled"
+        "message": "مُمَكَّـن"
     },
     "Disabled": {
-        "message": "Disabled"
+        "message": "معطّـل"
     },
     "Unable_to_parse_this_": {
         "message": "Unable to parse this! :("
@@ -532,7 +532,7 @@
         "message": "No backups found"
     },
     "An_error_occured_during_import_": {
-        "message": "An error occurred during import."
+        "message": "حصل خطأ عند التحميل."
     },
     "Export": {
         "message": "تصدير"
@@ -572,13 +572,13 @@
         }
     },
     "Click_here_to_see_the_recent_changes": {
-        "message": "Click here to see the recent changes"
+        "message": "اضغط هنا لرؤية آخر التغييرات"
     },
     "General": {
         "message": "عام"
     },
     "Script_Update": {
-        "message": "تحديث الكود"
+        "message": "تحديث الشفرة"
     },
     "Check_interval": {
         "message": "Check Interval"
@@ -798,7 +798,7 @@
         "message": "Update disabled scripts"
     },
     "Homepage": {
-        "message": "الصفحة الرئيسية"
+        "message": "الصفحة الرئيسة"
     },
     "Last_updated": {
         "message": "Last updated"
@@ -819,7 +819,7 @@
         "message": "The update check of this script is disabled or not possible"
     },
     "Click_here_to_move_this_script": {
-        "message": "اضغط هنا لنقل الكود"
+        "message": "اضغط هنا لنقل الشفرة"
     },
     "overwritten_by_user": {
         "message": "overwritten by user setting"
@@ -831,7 +831,7 @@
         "message": "A reload is required: \nAll unsaved changes will be lost!"
     },
     "Save_to_disk": {
-        "message": "حفظ إلي القرص"
+        "message": "حفظ على القرص"
     },
     "Editor_reset": {
         "message": "Editor reset"
@@ -881,10 +881,10 @@
         "message": "Script URL detection"
     },
     "Install_this_script": {
-        "message": "تثبيت هذا الكود"
+        "message": "تثبيت هذه الشفرة"
     },
     "New_script_template_": {
-        "message": "قالب ملف كودي جديد"
+        "message": "قالب ملف شفرة جديد"
     },
     "Icon_badge_info": {
         "message": "Icon Badge Info"
@@ -905,7 +905,7 @@
         "message": "Unique running scripts"
     },
     "Disabled_scripts": {
-        "message": "الأكواد المعطلة"
+        "message": "الشفرات المعطلة"
     },
     "Config_Mode": {
         "message": "Config mode"
@@ -1036,7 +1036,7 @@
         "message": "-- Please choose an option --"
     },
     "Enable": {
-        "message": "تكين"
+        "message": "تمكين"
     },
     "Disable": {
         "message": "تعطيل"
@@ -1225,22 +1225,22 @@
         "message": "فحص القائمة السوداء"
     },
     "Script_Blacklist_Source": {
-        "message": "مصدر قائمة الأكواد السوداء"
+        "message": "مصدر قائمة الشفرات السوداء"
     },
     "Server_And_Manual": {
-        "message": "يدوي و عن بعد"
+        "message": "يدوي وعن بعد"
     },
     "Only_Manual": {
         "message": "يدوي فقط"
     },
     "Manual_Script_Blacklist": {
-        "message": "الأكواد اليدوية و قائمة @require السوداء"
+        "message": "الشفرات اليدوية وقائمة @require السوداء"
     },
     "This_script_is_blacklisted_": {
-        "message": "هذا الكود في القائمة السوداء"
+        "message": "هذه الشفرة في القائمة السوداء"
     },
     "Report_an_issue_to_the_script_hoster_": {
-        "message": ".إبلاغ صاحب الكود بمشكلة\n(قد تحتاج لإنشاء حساب)"
+        "message": ".إبلاغ صاحب الشفرة بمشكلة\n(قد تحتاج لإنشاء حساب)"
     },
     "Blacklist_Severity": {
         "message": "Block From Severity Level"
@@ -1249,13 +1249,13 @@
         "message": "Action Menu"
     },
     "Hide_disabled_scripts": {
-        "message": "إخفاء الأكواد المعطلة"
+        "message": "إخفاء الشفرات المعطلة"
     },
     "Columns": {
         "message": "الأعمدة"
     },
     "Script_order": {
-        "message": "ترتيب الكود"
+        "message": "ترتيب الشفرة"
     },
     "severity_1": {
         "message": "1 (الأكثر أمانا)"
@@ -1288,10 +1288,10 @@
         "message": "10 (الأقل أمانا)"
     },
     "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
-        "message": "؟ألغتك غير مدعمة\n؟اضغظ هنا لتحصل عي نعليمات لترجمة Tampermonkey"
+        "message": "؟ألغتك غير مدعمة\n؟اضغظ هنا لتحصل على نعليمات لترجمة Tampermonkey"
     },
     "Default": {
-        "message": "الافتراضي"
+        "message": "الإفتراضي"
     },
     "Ok": {
         "message": "حسنا"
