@@ -161,6 +161,18 @@
   "Source": {
     "message": "Source"
   },
+  "Source_Code": {
+    "message": "Source Code"
+  },
+  "Changes": {
+    "message": "Changes"
+  },
+  "Current_Version": {
+    "message": "Current Version"
+  },
+  "New_Version": {
+    "message": "New Version"
+  },
   "Install": {
     "message": "Install"
   },
@@ -782,6 +794,9 @@
   },
   "Normal": {
     "message": "Normal"
+  },
+  "Instant": {
+    "message": "Instant"
   },
   "This_page_is_blacklisted_at_the_security_settings": {
     "message": "Blacklisted by security settings"

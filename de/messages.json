@@ -128,6 +128,18 @@
   "Source": {
     "message": "Quelle"
   },
+  "Source_Code": {
+    "message": "Quellcode"
+  },
+  "Changes": {
+    "message": "Änderungen"
+  },
+  "Current_Version": {
+    "message": "Aktuelle Version"
+  },
+  "New_Version": {
+    "message": "Neue Version"
+  },
   "Install": {
     "message": "Installieren"
   },
