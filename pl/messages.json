@@ -161,6 +161,18 @@
   "Source": {
       "message": "Źródło"
   },
+  "Source_Code": {
+      "message": "Kod źródłowy"
+  },
+  "Changes": {
+      "message": "Zmiany"
+  },
+  "Current_Version": {
+      "message": "Bieżąca wersja"
+  },
+  "New_Version": {
+      "message": "Nowa wersja"
+  },
   "Install": {
       "message": "Zainstaluj"
   },
@@ -305,7 +317,7 @@
       "message": "Analizuj skrypty"
   },
   "Show_fixed_source": {
-      "message": "Pokaż poprawione źródła"
+      "message": "Pokazuj poprawione źródła"
   },
   "LogLevel": {
       "message": "Poziom logowania"
@@ -781,7 +793,10 @@
       "message": "Szybko"
   },
   "Normal": {
-      "message": "Normalnie"
+      "message": "Zwykły"
+  },
+  "Instant": {
+      "message": "Natychmiastowy"
   },
   "This_page_is_blacklisted_at_the_security_settings": {
       "message": "Zablokowano na podstawie ustawień bezpieczeństwa"
@@ -887,7 +902,7 @@
       "message": "Podświetalaj początkowe spacje"
   },
   "Trim_trailing_whitespace_from_modified_lines": {
-      "message": "Wytnij końcowe białe znaki ze zmodyfikowanych linii"
+      "message": "Wycinaj końcowe białe znaki ze zmodyfikowanych linii"
   },
   "Dashboard": {
       "message": "Panel sterowania"
@@ -1270,7 +1285,7 @@
       "message": "Menu akcji"
   },
   "Hide_disabled_scripts": {
-      "message": "Ukryj wyłączone skrypty"
+      "message": "Ukrywaj wyłączone skrypty"
   },
   "Columns": {
       "message": "Kolumny"
