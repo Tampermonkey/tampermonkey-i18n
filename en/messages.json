@@ -810,6 +810,9 @@
   "Google": {
     "message": "Google"
   },
+  "DuckDuckGo": {
+    "message": "DuckDuckGo"
+  },
   "Warning_unsafe_site_warnings_might_appear_": {
     "message": "Warning: unsafe site warnings might appear if a script includes potentially harmfull URLs."
   },
