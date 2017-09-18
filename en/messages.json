@@ -167,6 +167,9 @@
   "Changes": {
     "message": "Changes"
   },
+  "The_diff_for_this_script_is_too_large_to_render": {
+    "message": "The diff for this script is too large to render"
+  },
   "Current_Version": {
     "message": "Current Version"
   },
@@ -1331,6 +1334,9 @@
   },
   "Default": {
     "message": "Default"
+  },
+  "Default_Dark": {
+    "message": "Default - Dark"
   },
   "Ok": {
     "message": "Ok"

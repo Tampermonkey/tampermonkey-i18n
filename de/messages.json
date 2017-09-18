@@ -134,6 +134,9 @@
   "Changes": {
     "message": "Änderungen"
   },
+  "The_diff_for_this_script_is_too_large_to_render": {
+    "message": "Die Liste der Änderungen ist zu groß, um sie anzuzeigen"
+  },
   "Current_Version": {
     "message": "Aktuelle Version"
   },
@@ -1088,6 +1091,9 @@
   },
   "Default": {
     "message": "Standard"
+  },
+  "Default_Dark": {
+    "message": "Standard - Dunkel"
   },
   "Add_TM_to_CSP": {
     "message": "Tampermonkey zur Content Security Policy (CSP) der geladenen Seiten hinzufügen"
