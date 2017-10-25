@@ -265,7 +265,7 @@
     "message": "Bir kullanıcı betiği çapraz kaynak kaynağına erişmek istiyor."
   },
   "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
-    "message": "Çapraz bir kaynağa yönelik bir talep olağandışı bir şey değildir.\nBu betiğin bu etki alanına erişmek için iyi bir nedeninin olup olmadığını kontrol etmeniz yeterlidir.\nÖrneğin, bir kullanıcı betiğinin bankanızla iletişim kurmasının çok az nedeni vardır.\n\nKullanıcı betiği editörlerinin bu diyaloğu önlemek için betiğe [url=$connect$]@connect tags[/url] ekleyebileğini lütfen unutmayın.\n\Ne şekilde karar vereceğinizden bağımsız olarak, betiğinizin [url=$settings$]ayarlar sekmesinden[/url] istediğiniz zaman fikrinizi değiştirebilirsiniz.",
+    "message": "Çapraz bir kaynağa yönelik bir talep olağandışı bir şey değildir.\nBu betiğin bu etki alanına erişmek için iyi bir nedeninin olup olmadığını kontrol etmeniz yeterlidir.\nÖrneğin, bir kullanıcı betiğinin bankanızla iletişim kurmasının çok az nedeni vardır.\n\nKullanıcı betiği editörlerinin bu diyaloğu önlemek için betiğe [url=$connect$]@connect tags[/url] ekleyebileğini lütfen unutmayın.\n\nNe şekilde karar vereceğinizden bağımsız olarak, betiğinizin [url=$settings$]ayarlar sekmesinden[/url] istediğiniz zaman fikrinizi değiştirebilirsiniz.",
     "placeholders": {
       "connect": {
         "content": "$1"
