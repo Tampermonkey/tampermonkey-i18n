@@ -119,6 +119,9 @@
   "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
     "message": "Bitte überprüfen Sie die GreaseMonkey/FF Kompatibilitäts-Optionen, um Fehler im Script zu vermeiden."
   },
+  "Automatically_added_user_includes_for_compatibility_reasons_": {
+    "message": "Es wurden aus Kompatibilitätsgründen einige Benutzer-Includes eingefügt."
+  },
   "Author": {
     "message": "Autor"
   },

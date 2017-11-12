@@ -152,6 +152,9 @@
   "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
     "message": "A recheck of the GreaseMonkey/FF compatibility options may be required in order to run this script."
   },
+  "Automatically_added_user_includes_for_compatibility_reasons_": {
+    "message": "Some user includes were automatically added for compatibility reasons!"
+  },
   "Author": {
     "message": "Author"
   },
