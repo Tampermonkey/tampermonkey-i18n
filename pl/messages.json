@@ -36,7 +36,7 @@
       "message": "błąd krytyczny"
   },
   "Please_consider_a_contribution": {
-      "message": "Wyślij datek na dalszy rozwój programu"
+      "message": "Wyślij datek na dalszy rozwój rozszerzenia"
   },
   "I_contributed_already": {
       "message": "Już przekazałem datek"
@@ -131,6 +131,12 @@
           }
       }
   },
+  "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
+      "message": "Co najmniej jedna z deklaracji @include, @match lub @exclude została zmieniona."
+  },
+  "At_least_one_new_connect_statement_was_added_": {
+      "message": "Co najmniej jedna nowa deklaracja @connect została dodana."
+  },
   "Attention_Can_not_display_all_includes_": {
       "message": "Uwaga: Lista @include została skrócona.\nProszę o ręczne sprawdzenie!"
   },
@@ -154,6 +160,18 @@
   },
   "Source": {
       "message": "Źródło"
+  },
+  "Source_Code": {
+      "message": "Kod źródłowy"
+  },
+  "Changes": {
+      "message": "Zmiany"
+  },
+  "Current_Version": {
+      "message": "Bieżąca wersja"
+  },
+  "New_Version": {
+      "message": "Nowa wersja"
   },
   "Install": {
       "message": "Zainstaluj"
@@ -194,7 +212,7 @@
       "message": "Tryb @connect"
   },
   "Ask_if_unknown": {
-      "message": "Pytaj jeśli nieznany"
+      "message": "Pytaj, jeśli nieznany"
   },
   "Always_ask": {
       "message": "Zawsze pytaj"
@@ -267,7 +285,7 @@
       "message": "To daje skryptowi uprawnienia do odbierania i wysyłania danych z i do każdej strony internetowej. To jest potencjalnie niebezpieczne!\n\nCzy jesteś pewny(a), że chcesz kontynuować?"
   },
   "No_update_found__sry_": {
-      "message": "Brak aktualizacji. Przepraszam!"
+      "message": "Przepraszam, ale niestety nie ma żadnych aktualizacji!"
   },
   "Unknown_method_0name0": {
       "message": "Nieznana metoda $name$",
@@ -287,7 +305,7 @@
       "message": "Pobierz nowe skrypty..."
   },
   "Check_for_userscripts_updates": {
-      "message": "Sprawdzanie aktualizacji skryptów"
+      "message": "Sprawdź dostępność aktualizacji skryptów"
   },
   "Waiting_for_sync_to_finish": {
       "message": "Oczekiwanie na ukończenie synchronizacji"
@@ -299,7 +317,7 @@
       "message": "Analizuj skrypty"
   },
   "Show_fixed_source": {
-      "message": "Pokaż poprawione źródła"
+      "message": "Pokazuj poprawione źródła"
   },
   "LogLevel": {
       "message": "Poziom logowania"
@@ -368,7 +386,7 @@
       "message": "Zamień wyrażenie [blub, bla] = s.split(':')"
   },
   "Add_toSource_function_to_Object_Prototype": {
-      "message": "Dodaj opcje zgodności dla Object and Array"
+      "message": "Dodaj opcje zgodności dla obiektu i tablicy"
   },
   "Run_at": {
       "message": "Uruchom po"
@@ -427,7 +445,7 @@
       "message": "Proszę czekać..."
   },
   "Edit": {
-      "message": "Edycja"
+      "message": "Edytuj"
   },
   "Sites": {
       "message": "Strony"
@@ -658,7 +676,7 @@
       "message": "Rodzaj wcięcia"
   },
   "Classic": {
-      "message": "klasyczne"
+      "message": "Klasyczne"
   },
   "Indent": {
       "message": "Wcięcie"
@@ -676,7 +694,7 @@
       "message": "Automatycznie przeładowywuj strony"
   },
   "Auto_reload_on_script_enabled_desc": {
-      "message": "Przeładowywuj strony jeśli skrypt został włączony lub wyłączony"
+      "message": "Przeładowywuj strony, jeśli skrypt został włączony lub wyłączony"
   },
   "Anonymous_statistics": {
       "message": "Anonimowe statystyki"
@@ -718,7 +736,7 @@
       "message": "Bezpieczeństwo"
   },
   "Downloads": {
-      "message": "Pobrania"
+      "message": "Pobieranie"
   },
   "Download_Mode": {
       "message": "Tryb pobierania"
@@ -775,13 +793,25 @@
       "message": "Szybko"
   },
   "Normal": {
-      "message": "Normalnie"
+      "message": "Zwykły"
+  },
+  "Instant": {
+      "message": "Natychmiastowy"
   },
   "This_page_is_blacklisted_at_the_security_settings": {
       "message": "Zablokowano na podstawie ustawień bezpieczeństwa"
   },
   "Update_Notification": {
       "message": "Wyświetlaj powiadomienia o aktualizacjach Tampermonkey"
+  },
+  "Favicon_Service": {
+      "message": "Serwis ikon ulubionych"
+  },
+  "Google": {
+      "message": "Google"
+  },
+  "Warning_unsafe_site_warnings_might_appear_": {
+      "message": "Uwaga: może się pojawić ostrzeżenie o niebezpiecznych stronach, jeśli skrypt zawiera potencjalnie szkodliwe adresy URL."
   },
   "Unable_to_load_script_from_url_0url0": {
       "message": "Nie mozna załadować skryptu spod adresu URL: \n $url$",
@@ -813,7 +843,7 @@
       "message": "Aktualizacje"
   },
   "Check_for_Updates": {
-      "message": "Sprawdź dostępność aktualizacji"
+      "message": "Sprawdzaj dostępność aktualizacji"
   },
   "Update_check_is_disabled": {
       "message": "Sprawdzanie aktualizacji dla tego skryptu jest wyłączone lub niemożliwe"
@@ -837,7 +867,7 @@
       "message": "Anuluj zmiany"
   },
   "Full_reset": {
-      "message": "Ustawienia domyślne"
+      "message": "Przywróć ustawienia domyślne"
   },
   "Run_syntax_check": {
       "message": "Uruchom sprawdzanie składni"
@@ -870,6 +900,9 @@
   },
   "Highlight_trailing_whitespace": {
       "message": "Podświetalaj początkowe spacje"
+  },
+  "Trim_trailing_whitespace_from_modified_lines": {
+      "message": "Wycinaj końcowe białe znaki ze zmodyfikowanych linii"
   },
   "Dashboard": {
       "message": "Panel sterowania"
@@ -979,7 +1012,7 @@
       "message": "Bezpieczeństwo XHR"
   },
   "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
-      "message": "Wystąpił problem wewnętrzny. Jeśli problem nie ustąpi, nawet po restarcie przeglądarki, to proszę nacisnąć OK i zgłosić problem na forum.\n\nCzy chcesz przejść do forum Tampermonkey?"
+      "message": "Wystąpił problem wewnętrzny. Jeżeli problem nie ustąpi, nawet po restarcie przeglądarki, to proszę nacisnąć OK i zgłosić problem na forum.\n\nCzy chcesz przejść do forum Tampermonkey?"
   },
   "TESLA": {
       "message": "TESLA"
@@ -993,26 +1026,8 @@
   "Sync_Type": {
       "message": "Typ"
   },
-  "Sync_Version": {
-      "message": "Wersja"
-  },
-  "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
-      "message": "W odróżnieniu od wersji 'Legacy' synchronizacji, ta synchronizuje twoje skrypty przez referencje do unikalnego ID, które jest tworzone kiedy skrypt zostanie zainstalowany!\n\nTo oznacza, że jeśli zainstalowałeś skrypt w wielu instancjach Tampermonkey korzystając z którejkolwiek innej metody synchronizacji lub normalnej instalacji skryptu, to ten skrypt pojawi się wiele razy po zakończeniu kolejnej iteracji synchronizacji.\n\nJedyną metodą by przywrócić stan rzeczy jest ręczne usunięcie zdublowanych wpisów skryptu!!\n\nCzy na pewno chcesz kontynuować?"
-  },
-  "Different_sync_versions_are_not_compatible_to_each_other_": {
-      "message": "Odmienne wersje synchronizacji nie są kompatybilne z każdą inną!"
-  },
-  "Sync_Id": {
-      "message": "Identyfikator"
-  },
   "Imported": {
       "message": "Zaimportowane"
-  },
-  "Create_Exportable_Data": {
-      "message": "Stwórz eksportowalne dane"
-  },
-  "Copy_exportable_data_to_clipboard_Ok_": {
-      "message": "Czy skopiować eksportowalne dane TESLA do schowka?"
   },
   "Allow_headers_to_be_modified_by_scripts": {
       "message": "Pozwól skryptom na modyfikację nagłówków HTTP"
@@ -1048,7 +1063,7 @@
       "message": "Nie"
   },
   "Auto": {
-      "message": "Auto"
+      "message": "Automatycznie"
   },
   "__Please_choose__": {
       "message": "-- Wybierz opcję --"
@@ -1087,7 +1102,7 @@
       "message": "Czy na pewno chcesz zresetować ten skrypt do stanu fabrycznego?"
   },
   "Reset_Section": {
-      "message": "Przywróć"
+      "message": "Reset"
   },
   "Restart_Tampermonkey": {
       "message": "Zrestartuj Tampermonkey"
@@ -1099,19 +1114,22 @@
       "message": "Tampermonkey musi zostać zrestartowany, by ta zmiana została zatwierdzona.\n\nCzy chcesz kontynuować?"
   },
   "Factory_Reset": {
-      "message": "Ustawienia domyślne"
+      "message": "Przywróć ustawienia domyślne"
   },
   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
       "message": "Czy na pewno chcesz usunąć wszystkie skrypty i przywrócić wszystkie ustawienia?"
   },
-  "Chrome_Sync_Reset": {
-      "message": "Reset synchronizacji Chrome"
+  "Browser_Sync": {
+      "message": "Synchronizacja przeglądarki"
   },
-  "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-      "message": "Czy na pewno chcesz usunąć wszystkie dane z Synchronizacji Google"
+  "Sync_Reset": {
+      "message": "Zresetuj synchronizację"
+  },
+  "This_will_remove_all_remote_data_from_sync_Ok_": {
+      "message": "Czy na pewno chcesz usunąć wszystkie dane z synchronizacji?"
   },
   "Enable_autoSave": {
-      "message": "Zapisz zawartość kiedy edytor przestanie być aktywny"
+      "message": "Zapisuj zawartość, kiedy edytor przestaje być aktywny"
   },
   "Enable_easySave": {
       "message": "Nie pokazuj potwierdzenia przy zapisie"
@@ -1180,7 +1198,7 @@
       "message": "Jaka akcja powinna zostać wykonana po tym jak natywny skrypt został zaimportowany?"
   },
   "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
-      "message": "Kiedy Tampermonkey jest aktualizowany przez twoją przeglądarkę, to jest również restartowany. Niestety to może zatrzymać aktualnie uruchomione skrypty!\n\nWięc czy jesteś pewny(a), że nie chcesz otrzymywać powiadomień o aktualizacjach?"
+      "message": "Gdy Tampermonkey jest aktualizowany przez twoją przeglądarkę, to jest również restartowany. Niestety to może zatrzymać aktualnie uruchomione skrypty!\n\nWięc czy jesteś pewny(a), że nie chcesz otrzymywać powiadomień o aktualizacjach?"
   },
   "Operation_completed_successfully": {
       "message": "Operacja ukończona pomyślnie"
@@ -1198,7 +1216,7 @@
       "message": "CSS użytkownika"
   },
   "You_can_add_your_custom_CSS_rules_here_": {
-      "message": "Tutaj możesz dodać własne reguły CSS dla UI Tampermonkey. W razie gdyby coś się zepsuło, możesz przywrócić domyślny układ wpisując ?layout=reset do adresu URL strony opcji."
+      "message": "Tutaj możesz dodać własne reguły CSS dla interfejsu rozszerzenia Tampermonkey. W razie, gdyby coś się zepsuło, to możesz przywrócić domyślny układ, wpisując ?layout=reset do adresu URL strony opcji."
   },
   "Store_data_in_incognito_mode": {
       "message": "Przechowuj dane w trybie prywatnym"
@@ -1226,6 +1244,9 @@
   },
   "Resources": {
       "message": "Zasoby"
+  },
+  "Storage": {
+      "message": "Pamięć"
   },
   "URL": {
       "message": "Adres URL"
@@ -1264,7 +1285,7 @@
       "message": "Menu akcji"
   },
   "Hide_disabled_scripts": {
-      "message": "Ukryj wyłączone skrypty"
+      "message": "Ukrywaj wyłączone skrypty"
   },
   "Columns": {
       "message": "Kolumny"

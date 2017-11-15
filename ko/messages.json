@@ -987,26 +987,8 @@
   "Sync_Type": {
     "message": "유형"
   },
-  "Sync_Version": {
-    "message": "버전"
-  },
-  "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
-    "message": "'Legacy' 동기화 버전과는 다르게 이 버전은 스크립트가 설치될 때 생성되는 UUID를 통해 스크립트를 동기화합니다!\n\n이는 만약 여러 Tampermonkey 인스턴스에 하나의 스크립트를 다른 동기화 방법으로나 일반적인 스크립트 설치 방법으로 설치했을 경우 다음 동기화 동작이 끝난 후 그 스크립트가 여러 개 나타날 것임을 의미합니다.\n\n이를 복구할 유일한 방법은 여러 개가 된 스크립트를 직접 제거하는 것뿐입니다!\n\n계속하시겠습니까?"
-  },
-  "Different_sync_versions_are_not_compatible_to_each_other_": {
-    "message": "다른 버전간에는 서로 호환되지 않습니다!"
-  },
-  "Sync_Id": {
-    "message": "ID"
-  },
   "Imported": {
     "message": "가져와짐"
-  },
-  "Create_Exportable_Data": {
-    "message": "내보내기 가능한 데이터 만들기"
-  },
-  "Copy_exportable_data_to_clipboard_Ok_": {
-    "message": "내보내기 가능한 TESLA 데이터를 클립보드에 복사합니다. 계속하시겠습니까?"
   },
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "스크립트에 의해 HTTP 헤더가 변경될 수 있도록 허용"
@@ -1098,11 +1080,11 @@
   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
     "message": "정말로 모든 스크립트를 제거하고 모든 설정을 재설정하시겠습니까?"
   },
-  "Chrome_Sync_Reset": {
-    "message": "Chrome 동기화 재설정"
+  "Sync_Reset": {
+    "message": "동기화 재설정"
   },
-  "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-    "message": "정말로 Google Sync에서 모든 데이터를 제거하시겠습니까?"
+  "This_will_remove_all_remote_data_from_sync_Ok_": {
+    "message": "정말로 Sync 에서 모든 데이터를 제거하시겠습니까?"
   },
   "Enable_autoSave": {
     "message": "에디터가 포커스를 잃었을 경우 자동 저장"

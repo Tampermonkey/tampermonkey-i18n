@@ -165,8 +165,8 @@
   "Check_interval": {
     "message": "Intervalle de vérification"
   },
-  "Chrome_Sync_Reset": {
-    "message": "Chrome Sync Reset"
+  "Sync_Reset": {
+    "message": "Sync Reset"
   },
   "Classic": {
     "message": "Classic"
@@ -194,12 +194,6 @@
   },
   "Convert_CDATA_sections_into_a_chrome_compatible_format": {
     "message": "Convertir les sections CDATA dans un format compatible à Chrome"
-  },
-  "Copy_exportable_data_to_clipboard_Ok_": {
-    "message": "Copier les donnée exportables TESLA dans le bloc-note. Ok?"
-  },
-  "Create_Exportable_Data": {
-    "message": "Créer les données exportables"
   },
   "Dashboard": {
     "message": "Tableau de bord"
@@ -595,9 +589,6 @@
   "Store_data_in_incognito_mode": {
     "message": "Enregistrer les données dans le mode de navigation privée"
   },
-  "Sync_Id": {
-    "message": "Id"
-  },
   "Sync_Type": {
     "message": "Type"
   },
@@ -689,8 +680,8 @@
   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
     "message": "Voulez-vous vraiment enlever tous les scripts et réinitialiser les paramétrages?"
   },
-  "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-    "message": "Voulez-vous enlever les données de Google Sync?"
+  "This_will_remove_all_remote_data_from_sync_Ok_": {
+    "message": "Voulez-vous enlever les données de Sync?"
   },
   "This_will_restart_Tampermonkey_Ok_": {
     "message": "Voulez-vous vraiment redémarrer Tampermonkey?"

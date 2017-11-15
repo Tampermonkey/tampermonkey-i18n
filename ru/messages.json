@@ -726,17 +726,8 @@
   "Sync_Type": {
     "message": "Тип"
   },
-  "Sync_Id": {
-    "message": "ID"
-  },
   "Imported": {
     "message": "Импортирован"
-  },
-  "Create_Exportable_Data": {
-    "message": "Создать экспортируемые данные"
-  },
-  "Copy_exportable_data_to_clipboard_Ok_": {
-    "message": "Скопировать экспортируемые данные TESLA в буфер обмена?"
   },
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "Разрешить HTTP заголовкам изменять скрипты."
@@ -786,11 +777,11 @@
   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
     "message": "Вы хотите удалить все скрипты и сбросить все настройки?"
   },
-  "Chrome_Sync_Reset": {
-    "message": "Сброс синхронизации Chrome"
+  "Sync_Reset": {
+    "message": "Сброс синхронизации"
   },
-  "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-    "message": "Вы хотите удалить все данные из хранилища Google Sync?"
+  "This_will_remove_all_remote_data_from_sync_Ok_": {
+    "message": "Вы хотите удалить все данные из хранилища Sync?"
   },
   "Enable_autoSave": {
     "message": "Сохранить содержимое, если редактор теряет фокус"

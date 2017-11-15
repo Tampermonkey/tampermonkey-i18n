@@ -787,26 +787,8 @@
   "Sync_Type": {
     "message": "Szinkronizáció típusa"
   },
-  "Sync_Version": {
-    "message": "Verzió"
-  },
-  "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
-    "message": "A régi szinkronizáció típussal ellentétben ez egy a szkript telepítésekor keletkezett egyedi azonosító referenciája alapján szinkronizálja a szikreptet! \n\n Ez azt jelenti, hogy ha a szkriptet több Tampermonkey példány alatt telepítetted, vagy egy másik szinkronizációs metódust használtál akkor ez a szkript a következő automatikus szinkronizáció után duplikáltan fog megjelenni. \n\n Erre az egyetlen megoldás a duplikált szkriptek manuális eltávolítása!\n\n Biztosan folytatod?"
-  },
-  "Different_sync_versions_are_not_compatible_to_each_other_": {
-    "message": "Különböző szinkronizációs verziók nem kompatibilisek egymással!"
-  },
-  "Sync_Id": {
-    "message": "Azonosító"
-  },
   "Imported": {
     "message": "Importált"
-  },
-  "Create_Exportable_Data": {
-    "message": "Exportálható adat létrehozása"
-  },
-  "Copy_exportable_data_to_clipboard_Ok_": {
-    "message": "Másold az exportálható KSLH adatokat a vágólapra. Rendben?"
   },
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "HTTP fejlécek szkript általi módosításának engedélyezése"
@@ -859,11 +841,11 @@
   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
     "message": "Biztosan el akarod távolítani az összes szkriptet és vissza akarod állítani az összes beállítást?"
   },
-  "Chrome_Sync_Reset": {
-    "message": "Chrome szinkronizáció visszaállítása"
+  "Sync_Reset": {
+    "message": "Szinkronizáció visszaállítása"
   },
-  "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-    "message": "Biztosan el akarod távolítani az összes adatot a Google szinkronizációból?"
+  "This_will_remove_all_remote_data_from_sync_Ok_": {
+    "message": "Biztosan el akarod távolítani az összes adatot a Szinkronizációból?"
   },
   "Enable_autoSave": {
     "message": "Tartalom mentése, ha a szerkesztő ki kerül a fókuszból "

@@ -195,8 +195,8 @@
   "Check_interval": {
     "message": "Intervalo para checar"
   },
-  "Chrome_Sync_Reset": {
-    "message": "Resetar Chrome Sync"
+  "Sync_Reset": {
+    "message": "Resetar Sync"
   },
   "Classic": {
     "message": "Clássico"
@@ -227,12 +227,6 @@
   },
   "Convert_CDATA_sections_into_a_chrome_compatible_format": {
     "message": "Converter seções CDATA em formato compatível com Chrome"
-  },
-  "Copy_exportable_data_to_clipboard_Ok_": {
-    "message": "Copiar informação TESLA para o clipboard (ctrl+v). Ok?"
-  },
-  "Create_Exportable_Data": {
-    "message": "Criar informação exportável"
   },
   "Dashboard": {
     "message": "Dashboard"
@@ -736,9 +730,6 @@
   "Store_data_in_incognito_mode": {
     "message": "Salvar informações no modo incognito"
   },
-  "Sync_Id": {
-    "message": "Id"
-  },
   "Sync_Type": {
     "message": "Tipo"
   },
@@ -842,8 +833,8 @@
   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
     "message": "Remover todos os scripts e resetar todas as opções?"
   },
-  "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-    "message": "Remover todas as informações do TM do Google Sync?"
+  "This_will_remove_all_remote_data_from_sync_Ok_": {
+    "message": "Remover todas as informações do TM do Sync?"
   },
   "This_will_restart_Tampermonkey_Ok_": {
     "message": "Reiniciar Tampermonkey?"
@@ -1202,15 +1193,6 @@
   },
   "XHR_Security": {
     "message": "Segurança de XHR"
-  },
-  "Sync_Version": {
-    "message": "Versão"
-  },
-  "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
-    "message": "Diferente da versão de sincronização 'legado' esta sincroniza seus scripts pela referencia de um ID único que é criado quando um script é instalado!\n\nIsto significa que se voce instalou um script em multiplas instancias de Tampermonkey por algum outro método de sincronização ou uma instalação normal de script entao este script irá aparecer varias vezes depois que a próxima iteração de sincronização estiver terminada.\n\nA unica forma de recuperar é remover manualmente cada script duplicado!\n\nVocê realmente quer continuar?"
-  },
-  "Different_sync_versions_are_not_compatible_to_each_other_": {
-    "message": "Versões Diferente de sincronização não são compativeis entre si!"
   },
   "Subresource_Integrity": {
     "message": "Integridade de subrecursos"

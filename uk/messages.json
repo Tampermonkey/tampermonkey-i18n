@@ -677,17 +677,8 @@
   "Sync_Type": {
     "message": "Тип"
   },
-  "Sync_Id": {
-    "message": "ID"
-  },
   "Imported": {
     "message": "Імпортований"
-  },
-  "Create_Exportable_Data": {
-    "message": "Створити експортовані дані"
-  },
-  "Copy_exportable_data_to_clipboard_Ok_": {
-    "message": "Скопіювати експортовані дані TESLA в буфер обміну?"
   },
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "Дозволити HTTP заголовкам змінювати скрипти."
@@ -737,11 +728,11 @@
   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
     "message": "Ви хочете видалити всі скрипти і скинути всі налаштування?"
   },
-  "Chrome_Sync_Reset": {
-    "message": "Скидання синхронізації Chrome"
+  "Sync_Reset": {
+    "message": "Скидання синхронізації"
   },
-  "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-    "message": "Ви хочете видалити всі дані із сховища Google Sync?"
+  "This_will_remove_all_remote_data_from_sync_Ok_": {
+    "message": "Ви хочете видалити всі дані із сховища синхронізації?"
   },
   "Enable_autoSave": {
     "message": "Зберегти вміст, якщо редактор втрачає фокус"

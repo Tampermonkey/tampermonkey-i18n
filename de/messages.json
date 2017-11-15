@@ -98,6 +98,12 @@
       }
     }
   },
+  "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
+    "message": "Mindestens eine der @include-, @match- oder @exclude-Anweisungen wurde modifiziert."
+  },
+  "At_least_one_new_connect_statement_was_added_": {
+     "message": "Mindestens eine @connect-Anweisung wurde hinzugefügt."
+  },
   "Attention_Can_not_display_all_includes_": {
     "message": "Achtung: Es werden nicht alle Seiten angezeigt!\nBitte manuell prüfen."
   },
@@ -113,6 +119,9 @@
   "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
     "message": "Bitte überprüfen Sie die GreaseMonkey/FF Kompatibilitäts-Optionen, um Fehler im Script zu vermeiden."
   },
+  "Automatically_added_user_includes_for_compatibility_reasons_": {
+    "message": "Es wurden aus Kompatibilitätsgründen einige Benutzer-Includes eingefügt."
+  },
   "Author": {
     "message": "Autor"
   },
@@ -121,6 +130,21 @@
   },
   "Source": {
     "message": "Quelle"
+  },
+  "Source_Code": {
+    "message": "Quellcode"
+  },
+  "Changes": {
+    "message": "Änderungen"
+  },
+  "The_diff_for_this_script_is_too_large_to_render": {
+    "message": "Die Liste der Änderungen ist zu groß, um sie anzuzeigen"
+  },
+  "Current_Version": {
+    "message": "Aktuelle Version"
+  },
+  "New_Version": {
+    "message": "Neue Version"
   },
   "Install": {
     "message": "Installieren"
@@ -738,6 +762,18 @@
   "Update_Notification": {
     "message": "Aktualisierungs-Benachrichtigung anzeigen"
   },
+  "Favicon_Service": {
+    "message": "Favicon-Dienst"
+  },
+  "Google": {
+    "message": "Google"
+  },
+  "DuckDuckGo": {
+    "message": "DuckDuckGo"
+  },
+  "Warning_unsafe_site_warnings_might_appear_": {
+    "message": "Achtung: es können Warnungen wegen unsicherem Inhalt angezeigt werden, wenn ein Script eine potentiell schädliche Seite in einer seiner @include-Direktiven auflistet."
+  },
   "Unable_to_load_script_from_url_0url0": {
     "message": "Script kann nicht geladen werden: \n $url$",
     "placeholders": {
@@ -822,6 +858,9 @@
   },
   "Highlight_trailing_whitespace": {
     "message": "Leerzeichen am Ende der Zeile markieren"
+  },
+  "Trim_trailing_whitespace_from_modified_lines": {
+    "message": "Entferne unnötige Leerzeichen am Ende von bearbeiteten Zeilen"
   },
   "Dashboard": {
     "message": "Übersicht"
@@ -945,26 +984,8 @@
   "Sync_Type": {
     "message": "Typ"
   },
-  "Sync_Version": {
-    "message": "Version"
-  },
-  "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
-    "message": "Im Gegensatz zur Legacy-Version synchonisiert diese Variante die Scripts anhand einer eindeutigen ID, die beim Installieren oder beim Synchronisieren mit einer anderen Version generiert wurde.\n\nDas bedeutet, dass die installierten Scripts nun unter Umständen mehrfach auftauchen können, nachdem die Synchronisation die nächsten Male ausgeführt wurde.\n\nDie einzige Möglichkeit das Problem zu beheben, wird die Deinstallation aller mehrfach auftauchenden Scripts sein!\n\nSoll wirklich diese Sync-Version genutzt werden?"
-  },
-  "Different_sync_versions_are_not_compatible_to_each_other_": {
-    "message": "Die unterschiedlichen Versionen sind untereinander inkompatibel!"
-  },
-  "Sync_Id": {
-    "message": "Id"
-  },
   "Imported": {
     "message": "Importiert"
-  },
-  "Create_Exportable_Data": {
-    "message": "TESLA-Daten erstellen"
-  },
-  "Copy_exportable_data_to_clipboard_Ok_": {
-    "message": "TESLA-Daten werden in die Zwischenablage kopiert. Ok?"
   },
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "Modifikation der HTTP-Header durch Scripte erlauben"
@@ -1056,11 +1077,14 @@
   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
     "message": "Sollen wirklich alle Scripte und Einstellungen gelöscht werden?"
   },
-  "Chrome_Sync_Reset": {
-    "message": "Chrome Sync Reset"
+  "Browser_Sync": {
+    "message": "Browser Sync"
   },
-  "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-    "message": "Sollen wirklich alle Daten von Google Sync gelöscht werden?"
+  "Sync_Reset": {
+    "message": "Sync Reset"
+  },
+  "This_will_remove_all_remote_data_from_sync_Ok_": {
+    "message": "Sollen wirklich alle entfernten Sync-Daten gelöscht werden?"
   },
   "Enable_autoSave": {
     "message": "Automatisch speichern, wenn der Editor den Fokus verliert"
@@ -1070,6 +1094,9 @@
   },
   "Default": {
     "message": "Standard"
+  },
+  "Default_Dark": {
+    "message": "Standard - Dunkel"
   },
   "Add_TM_to_CSP": {
     "message": "Tampermonkey zur Content Security Policy (CSP) der geladenen Seiten hinzufügen"

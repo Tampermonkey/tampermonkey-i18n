@@ -206,8 +206,8 @@
   "Check_interval": {
     "message": "確認の間隔"
   },
-  "Chrome_Sync_Reset": {
-    "message": "Chrome 同期のリセット"
+  "Sync_Reset": {
+    "message": "同期のリセット"
   },
   "Classic": {
     "message": "クラシック"
@@ -239,12 +239,6 @@
   "Convert_CDATA_sections_into_a_chrome_compatible_format": {
     "message": "CDATA セクションを Chrome 互換形式に変換する"
   },
-  "Copy_exportable_data_to_clipboard_Ok_": {
-    "message": "エクスポート可能な TESLA データをクリップボードにコピーしますか?"
-  },
-  "Create_Exportable_Data": {
-    "message": "エクスポート可能なデータを作成"
-  },
   "Dashboard": {
     "message": "ダッシュボード"
   },
@@ -262,9 +256,6 @@
   },
   "Description": {
     "message": "説明"
-  },
-  "Different_sync_versions_are_not_compatible_to_each_other_": {
-    "message": "同期は、異なるバージョン間で互換性がありません!"
   },
   "Disable": {
     "message": "無効にする"
@@ -714,14 +705,8 @@
   "Store_data_in_incognito_mode": {
     "message": "シークレット モードでもデータを保管する"
   },
-  "Sync_Id": {
-    "message": "ID"
-  },
   "Sync_Type": {
     "message": "種類"
-  },
-  "Sync_Version": {
-    "message": "バージョン"
   },
   "TESLA": {
     "message": "TESLA"
@@ -820,14 +805,11 @@
   "This_script_uses_uW_gm_api_": {
     "message": "このスクリプトは Greasemonkey 10 API (unsafeWindow.gmonkey) の一部を使用します。\nTampermonkey や他の代わりのスクリプト ハンドラーはこれに未対応です。"
   },
-  "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
-    "message": "同期の「Legacy」バージョンとは異なり、このバージョンは、スクリプトのインストール時に作成されたユニークな ID を参照してスクリプトを同期します!\n\nこれは、スクリプトを複数の Tampermonkey インスタンスに異なる同期メソッドや通常のインストール方法でインストールした場合、次回の同期が完了した際にこのスクリプトが複数個現れます。\n\nこれを修復するには、重複してしまった各スクリプト項目を手動で削除するしかありません!\n\n本当に続行しますか?"
-  },
   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
     "message": "すべてのスクリプトの削除とすべての設定のリセットの両方を本当に実行しますか?"
   },
-  "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-    "message": "Google Sync からすべてのデータを本当に削除しますか?"
+  "This_will_remove_all_remote_data_from_sync_Ok_": {
+    "message": "Sync からすべてのデータを本当に削除しますか?"
   },
   "This_will_restart_Tampermonkey_Ok_": {
     "message": "Tampermonkey を本当に再起動しますか?"

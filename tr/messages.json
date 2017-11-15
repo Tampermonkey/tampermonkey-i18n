@@ -1,0 +1,1344 @@
+{
+  "1": {
+    "message": "1"
+  },
+  "2": {
+    "message": "2"
+  },
+  "3": {
+    "message": "3"
+  },
+  "4": {
+    "message": "4"
+  },
+  "5": {
+    "message": "5"
+  },
+  "6": {
+    "message": "6"
+  },
+  "7": {
+    "message": "7"
+  },
+  "8": {
+    "message": "8"
+  },
+  "9": {
+    "message": "9"
+  },
+  "10": {
+    "message": "10"
+  },
+  "11": {
+    "message": "11"
+  },
+  "fatal_error": {
+    "message": "ölümcül hata"
+  },
+  "Please_consider_a_contribution": {
+    "message": "Lütfen bağış gönder"
+  },
+  "I_contributed_already": {
+    "message": "Zaten bağış yaptım"
+  },
+  "Remind_me_later": {
+    "message": "Daha sonra hatırlat"
+  },
+  "I_dont_want_to_contribute": {
+    "message": "Bağış yapmak istemiyorum"
+  },
+  "Thank_you_very_much_": {
+    "message": "Çok teşekkür ederim!"
+  },
+  "Invalid_UserScript__Sry_": {
+    "message": "Geçersiz Kullanıcı Betiği. Üzgünüm!"
+  },
+  "Invalid_UserScript_name__Sry_": {
+    "message": "Geçersiz kullanıcı betiği adı. Üzgünüm!"
+  },
+  "Script_name_0name0": {
+    "message": "Betik adı: $name$",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      }
+    }
+  },
+  "Downloaded_from_0url0": {
+    "message": "$url$ adresinden indirildi",
+    "placeholders": {
+      "url": {
+        "content": "$1"
+      }
+    }
+  },
+  "Please_double_check_the_native_script_import_settings__": {
+    "message": "Kullanıcı Betiği yüklenemiyor!!\n\nLütfen 'Native Script İçe Aktarma' ayarlarını tekrar kontrol edin."
+  },
+  "Name": {
+    "message": "Adı"
+  },
+  "Note": {
+    "message": "Not"
+  },
+  "Installed_Version_": {
+    "message": "Yüklenmiş Sürüm"
+  },
+  "Global_Settings": {
+    "message": "Genel Ayarlar"
+  },
+  "Global_settings_import": {
+    "message": "Genel ayarları içe aktar"
+  },
+  "This_will_overwrite_your_global_settings_": {
+    "message": "Bu genel ayarlarınızın üzerine yazacaktır"
+  },
+  "You_are_about_to_reinstall_a_UserScript_": {
+    "message": "Kullanıcı betiğini tekrar yükle"
+  },
+  "You_are_about_to_downgrade_a_UserScript": {
+    "message": "Dikkat! Kullnıcı betiği sürüm düşürme"
+  },
+  "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
+    "message": "Düşürülen betik saklanan verileri okumakta zorluk çekebilir!"
+  },
+  "Malicious_scripts_can_violate_your_privacy_": {
+    "message": "Kötü amaçlı betikler gizliliğinizi ihlal edebilir ve sizin adınıza hareket edebilir!\nYalnızca güvendiğiniz kaynaklardan betikler yükleyin."
+  },
+  "You_are_about_to_modify_a_UserScript_": {
+    "message": "Kullnıcı betiği değişikliği"
+  },
+  "You_are_about_to_update_a_UserScript_": {
+    "message": "Kullanıcı betiği güncelle"
+  },
+  "You_are_about_to_install_a_UserScript_": {
+    "message": "Kullanıcı betiği kurulumu"
+  },
+  "This_script_does_not_provide_any__include_information_": {
+    "message": "Bu betik herhangi bir @include bilgisi sağlamaz."
+  },
+  "All_script_settings_will_be_reset_": {
+    "message": "Tüm betik ayarları sıfırlanır!"
+  },
+  "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
+    "message": "Güncelleme URL adresi değişti:\n    '$oldurl$'\n    to:\n    '$newurl$'\n",
+    "placeholders": {
+      "oldurl": {
+        "content": "$1"
+      },
+      "newurl": {
+        "content": "$2"
+      }
+    }
+  },
+  "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
+    "message": "@include, @match veya @exclude ifadelerinden en az biri değiştirildi."
+  },
+  "At_least_one_new_connect_statement_was_added_": {
+     "message": "En az bir yeni @connect ifadesi eklendi."
+  },
+  "Attention_Can_not_display_all_includes_": {
+    "message": "Dikkat: Dahil edilenler listesi kısaltıldı.\nLütfen elle kontrol edin!"
+  },
+  "Attention_Can_not_display_all_excludes_": {
+    "message": "Dikkat: Hariç tutulanlar listesi kısaltıldı.\nLütfen elle kontrol edin!"
+  },
+  "Include_s__": {
+    "message": "Dahil edilenler"
+  },
+  "Exclude_s__": {
+    "message": "Hariç tutulanlar"
+  },
+  "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
+    "message": "Bu betik dosyasını çalıştırmak için GreaseMonkey/FF uyumluluk seçeneklerinin tekrar kontrol edilmesi gerekebilir."
+  },
+  "Author": {
+    "message": "Editör"
+  },
+  "Description": {
+    "message": "Açklama"
+  },
+  "Source": {
+    "message": "Kaynak"
+  },
+  "Source_Code": {
+    "message": "Kaynak Kodu"
+  },
+  "Changes": {
+    "message": "Değişiklikler"
+  },
+  "The_diff_for_this_script_is_too_large_to_render": {
+    "message": "Bu betik için farklılık işlenemeyecek kadar büyük"
+  },
+  "Current_Version": {
+    "message": "Mevcut Sürüm"
+  },
+  "New_Version": {
+    "message": "Yeni Sürüm"
+  },
+  "Install": {
+    "message": "Yükle"
+  },
+  "Reinstall": {
+    "message": "Yeniden Yükle"
+  },
+  "Modify": {
+    "message": "Değiştir"
+  },
+  "Downgrade": {
+    "message": "Düşür"
+  },
+  "Update": {
+    "message": "Güncelle"
+  },
+  "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
+    "message": "$name$ için $version$ sürümü kullanılabilir.\nGüncellemeyi başlatmak için lütfen tarayıcınızı yeniden başlatın!",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      },
+      "version": {
+        "content": "$2"
+      }
+    }
+  },
+  "Process_with_Chrome": {
+    "message": "Tarayıcı ile işlem"
+  },
+  "Enforce": {
+    "message": "Zorla"
+  },
+  "Strict": {
+    "message": "Sıkı"
+  },
+  "connect_mode": {
+    "message": "@connect mode"
+  },
+  "Ask_if_unknown": {
+    "message": "Bilinmiyorsa sor"
+  },
+  "Always_ask": {
+    "message": "Her zaman sor"
+  },
+  "Casual": {
+    "message": "Sıradan"
+  },
+  "Allow_once": {
+    "message": "Bir kez izin ver"
+  },
+  "Temporarily_allow": {
+    "message": "Geçici olarak izin ver"
+  },
+  "Always_allow": {
+    "message": "Her zaman izin ver"
+  },
+  "Always_allow_domain": {
+    "message": "Adrese her zaman izin ver"
+  },
+  "Always_allow_all_domains": {
+    "message": "Tüm adreslere her zaman izin ver"
+  },
+  "Forbid_once": {
+      "message": "Bir kere yasakla"
+  },
+  "Always_forbid": {
+      "message": "Her zaman yasakla"
+  },
+  "Always_forbid_domain": {
+      "message": "Adresi her zaman yasakla"
+  },
+  "Dont_ask_again": {
+      "message": "Tekrar sorma"
+  },
+  "Focus_tab": {
+    "message": "Kaynak sekmesine odakla"
+  },
+  "Skip_timeout__0seconds0_seconds_": {
+    "message": "Zaman aşımı atlama ($seconds$ seconds)",
+    "placeholders": {
+      "seconds": {
+        "content": "$1"
+      }
+    }
+  },
+  "A_userscript_wants_to_access_a_cross_origin_resource_": {
+    "message": "Bir kullanıcı betiği çapraz kaynak kaynağına erişmek istiyor."
+  },
+  "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
+    "message": "Çapraz kaynağa yönelik bir talep olağandışı bir şey değildir.\nBu betiğin etki alanına erişmek için iyi bir nedeninin olup olmadığını kontrol etmeniz yeterlidir.\nÖrneğin, bir kullanıcı betiğinin bankanızla iletişim kurmasının çok az nedeni vardır.\n\nKullanıcı betiği editörlerinin bu diyaloğu önlemek için betiğe [url=$connect$]@connect tags[/url] ekleyebileğini lütfen unutmayın.\n\nNe şekilde karar vereceğinizden bağımsız olarak, betiğinizin [url=$settings$]ayarlar sekmesinden[/url] istediğiniz zaman fikrinizi değiştirebilirsiniz.",
+    "placeholders": {
+      "connect": {
+        "content": "$1"
+      },
+      "settings": {
+        "content": "$2"
+      }
+    }
+  },
+  "Tab_URL": {
+    "message": "Sekme URL"
+  },
+  "Destination_domain": {
+    "message": "Hedef alan adı"
+  },
+  "Destination_URL": {
+    "message": "Hedef URL"
+  },
+  "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
+    "message": "Bu, bu betiğe her web sayfasından veri almak ve göndermek için izin verir. Bu potansiyel olarak güvensizdir!\n\nDevam etmek istediğinize emin misiniz?"
+  },
+  "No_update_found__sry_": {
+    "message": "Hiç güncelleme bulunamadı, üzgünüm!"
+  },
+  "Unknown_method_0name0": {
+    "message": "$name$ geçersiz yöntem",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      }
+    }
+  },
+  "No_script_is_running": {
+    "message": "Hiçbir betik çalışmıyor"
+  },
+  "Add_new_script___": {
+    "message": "Yeni betik oluştur..."
+  },
+  "Get_new_scripts___": {
+    "message": "Yeni betikler bul..."
+  },
+  "Check_for_userscripts_updates": {
+    "message": "Seçili kullanıcı betikleri için güncellemeler"
+  },
+  "Waiting_for_sync_to_finish": {
+    "message": "Eşitlemenin bitmesi bekleniyor"
+  },
+  "Settings": {
+    "message": "Ayarlar"
+  },
+  "Debug_scripts": {
+    "message": "Betik hata ayıklama"
+  },
+  "Show_fixed_source": {
+    "message": "Sabit kaynağı göster"
+  },
+  "LogLevel": {
+    "message": "Günlük seviyesi"
+  },
+  "Trace": {
+    "message": "İzle"
+  },
+  "Verbose": {
+    "message": "Ayrıntılı"
+  },
+  "Debug": {
+    "message": "Hata Ayıklama"
+  },
+  "Installed_userscripts": {
+    "message": "Yüklenmiş kullanıcı betikleri"
+  },
+  "No_script_is_installed": {
+    "message": "Hiç betik yüklenmedi"
+  },
+  "Get_some_scripts___": {
+    "message": "Bazı betikler al..."
+  },
+  "New_userscript": {
+    "message": "<Yeni kullanıcı betiği>"
+  },
+  "Help": {
+    "message": "Yardım"
+  },
+  "Changelog": {
+    "message": "Değişiklik günlüğü"
+  },
+  "Position_": {
+    "message": "Konum"
+  },
+  "Close": {
+    "message": "Kapat"
+  },
+  "GM_compat_options_": {
+    "message": "GM/FF uyumluluk seçenekleri"
+  },
+  "Comment": {
+    "message": "Yorum"
+  },
+  "Details": {
+    "message": "Ayrıntılar"
+  },
+  "UUID": {
+    "message": "UUID"
+  },
+  "Apply_compatibility_options_to_required_script_too": {
+    "message": "@require betiklerine de uyumluluk seçenekleri uygulayın"
+  },
+  "Fix_wrappedJSObject_property_access": {
+    "message": "wrappedJSObject özellik erişmini düzelt"
+  },
+  "Convert_CDATA_sections_into_a_chrome_compatible_format": {
+    "message": "CDATA bölümlerini tarayıcıyla uyumlu bir biçimde dönüştürün"
+  },
+  "Fix_for_var_in_statements": {
+    "message": " 'for (var j in x)' ifadelerini düzelt"
+  },
+  "Replace_for_each_statements": {
+    "message": " 'for each' ifadelerini değiştir"
+  },
+  "Convert_Array_Assignements": {
+    "message": " [blub, bla] = s.split(':') ifadelerini çevir"
+  },
+  "Add_toSource_function_to_Object_Prototype": {
+    "message": "Nesne ve Dizi uyumluluk işlevleri ekleyin"
+  },
+  "Run_at": {
+    "message": "Çalıştır"
+  },
+  "Update_URL_": {
+    "message": "URL Güncelle"
+  },
+  "Save": {
+    "message": "Kaydet"
+  },
+  "Cancel": {
+    "message": "İptal"
+  },
+  "Search": {
+    "message": "Ara"
+  },
+  "Replace": {
+    "message": "Değiştir"
+  },
+  "Jump_to_line": {
+    "message": "Satıra atla"
+  },
+  "Insert_constructor": {
+    "message": "Constructor ekle"
+  },
+  "Auto_Indent_all": {
+    "message": "Tümünü Otomatik Girinti Yap"
+  },
+  "Search_for": {
+    "message": "Ara"
+  },
+  "Replace_all": {
+    "message": "Tümünü değiştir"
+  },
+  "Replace_with": {
+    "message": "ile değiştir"
+  },
+  "Replace_": {
+    "message": "Değiştir?"
+  },
+  "There_are_unsaved_changed_": {
+    "message": "Değişikler kaydedilmedi.\nDüzenleyiciyi gerçekten kapatmak istiyor musunuz?"
+  },
+  "Do_you_really_want_to_store_fixed_code_": {
+    "message": "Bu '$option$' seçeneği aktif!\n\nGerçekten sabit kaynağı saklamayı istiyor musunuz?",
+    "placeholders": {
+      "option": {
+        "content": "$1"
+      }
+    }
+  },
+  "Really_reset_all_changes_": {
+    "message": "Gerçekten tüm değişikler sıfırlansın mı?"
+  },
+  "Please_wait___": {
+    "message": "Lütfen bekleyin..."
+  },
+  "Edit": {
+    "message": "Düzenle"
+  },
+  "Sites": {
+    "message": "Siteler"
+  },
+  "Sort": {
+    "message": "Sınıf"
+  },
+  "Actions": {
+    "message": "Eylemler"
+  },
+  "Action": {
+    "message": "Eylem"
+  },
+  "Please_select_a_file": {
+    "message": "Lütfen dosya seçiniz"
+  },
+  "Cloud": {
+    "message": "Bulut"
+  },
+  "Import": {
+    "message": "İçe aktar"
+  },
+  "Show_backups": {
+    "message": "Yedekleri görüntüle"
+  },
+  "Delete": {
+    "message": "Sil"
+  },
+  "Features": {
+    "message": "Özellikler"
+  },
+  "This_script_stores_data": {
+    "message": "Bu betik Tampermonkey için veri depolar."
+  },
+  "This_script_has_access_to_https_pages": {
+    "message": "Bu öğenin https sayfalarına erişimi var."
+  },
+  "One_or_more_compatibility_options_are_set": {
+    "message": "Bir veya daha fazla uyumluluk seçeneği ayarlandı. Onları gözden geçirmek isteyebilirsiniz."
+  },
+  "This_script_has_full_web_access": {
+    "message": "Bu betik tam internet erişimine sahiptir."
+  },
+  "This_is_a_system_script": {
+    "message": "Bu bir sistem betiğidir."
+  },
+  "This_is_a_chrome_extension": {
+    "message": "Bu bir tarayıcı eklentisidir."
+  },
+  "This_script_runs_in_Chrome_mode": {
+    "message": "Bu betik Chrome modunda çalışır"
+  },
+  "This_is_a_userscript": {
+    "message": "Bu kullanıcı betiği Javascript ile yazılmıştır"
+  },
+  "Really_import_0name0__": {
+    "message": "Yerel '$name$' betiğini gerçekten içe aktarmak istiyor musunuz?",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      }
+    }
+  },
+  "Really_delete_0name0__": {
+    "message": "'$name$' betiğini gerçekten silmek istiyor musunuz?",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      }
+    }
+  },
+  "This_script_has_access_to_webpage_scripts": {
+    "message": "Bu öğenin web sayfasına tam erişimi var."
+  },
+  "Utilities": {
+    "message": "Araçlar"
+  },
+  "This_script_uses_uW_gm_api_": {
+    "message": "Bu betik, Tampermonkey tarafından desteklenmeyen Greasemonkey 10 API (unsafeWindow.gmonkey)\nthat bir kısmını ve başka alternatif betik işleyicisini kullanır."
+  },
+  "some_secs": {
+    "message": "bazı"
+  },
+  "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
+    "message": "ANLAŞMAZLIK:\nBu betik, $t$ saniye önce başka bir sekme tarafından değiştirildi!",
+    "placeholders": {
+      "t": {
+        "content": "$1"
+      }
+    }
+  },
+  "Enabled": {
+    "message": "Etkin"
+  },
+  "Disabled": {
+    "message": "Etkin değil"
+  },
+  "Unable_to_parse_this_": {
+    "message": "Bu ayrıştırılamadı! :("
+  },
+  "No_backups_found": {
+    "message": "Yedek bulunamadı"
+  },
+  "An_error_occured_during_import_": {
+    "message": "İçe aktarma işlemi sırasında bir hata oluştu."
+  },
+  "Export": {
+    "message": "Dışa aktar"
+  },
+  "TextArea": {
+    "message": "Metin Alanı"
+  },
+  "Zip": {
+    "message": "Zip"
+  },
+  "Include_script_storage": {
+    "message": "Komut dosyası deposunu ekle"
+  },
+  "Include_TM_settings": {
+    "message": "Tampermonkey ayarlarını dahil et"
+  },
+  "File": {
+    "message": "Dosya"
+  },
+  "There_is_an_update_for_0name0_avaiable_": {
+    "message": " '$name$' için kullanılabilir bir güncelleme mevcut. :)",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      }
+    }
+  },
+  "Just_another_service_provided_by_your_friendly_script_updater_": {
+    "message": "Dostça betik güncelleyicisi tarafından sağlanan başka bir hizmet"
+  },
+  "Updated_to__0version0": {
+    "message": "Güncellendi: $version$",
+    "placeholders": {
+      "version": {
+        "content": "$1"
+      }
+    }
+  },
+  "Click_here_to_see_the_recent_changes": {
+    "message": "Son değişiklikleri görmek için tıklayın"
+  },
+  "General": {
+    "message": "Genel"
+  },
+  "Script_Update": {
+    "message": "Betik Güncelle"
+  },
+  "Check_interval": {
+    "message": "Aralığı Kontrol Et"
+  },
+  "Always": {
+    "message": "Her zaman"
+  },
+  "Never": {
+    "message": "Asla"
+  },
+  "Every_Hour": {
+    "message": "Her Saat"
+  },
+  "Every_6_Hours": {
+    "message": "Her 6 Saat"
+  },
+  "Every_12_Hour": {
+    "message": "Her 12 Saat"
+  },
+  "Every_Day": {
+    "message": "Her Gün"
+  },
+  "Every_Week": {
+    "message": "Her Hafta"
+  },
+  "Every_Month": {
+    "message": "Her Ay"
+  },
+  "Update_interval": {
+    "message": "Güncelleme Aralığı"
+  },
+  "Editor": {
+    "message": "Düzenleyici"
+  },
+  "Font_Size": {
+    "message": "Font Büyüklüğü"
+  },
+  "Theme": {
+    "message": "Tema"
+  },
+  "Key_Mapping": {
+    "message": "Tuş Haritalama"
+  },
+  "Windows": {
+    "message": "Pencere"
+  },
+  "Sublime": {
+    "message": "Sublime"
+  },
+  "Emacs": {
+    "message": "Emacs"
+  },
+  "Vim": {
+    "message": "Vim"
+  },
+  "Please_check_the_0editor0_documentation_for_more_details_": {
+    "message": "Daha fazla bilgi için lütfen $editor$ dokümantasyonunu kontrol edin.",
+    "placeholders": {
+      "editor": {
+        "content": "$1"
+      }
+    }
+  },
+  "Indentation_Width": {
+    "message": "Girinti Genişliği"
+  },
+  "Indent_with": {
+    "message": "ile girinti"
+  },
+  "Tabs": {
+    "message": "Sekmeler"
+  },
+  "Spaces": {
+    "message": "Boşluklar"
+  },
+  "TabMode": {
+    "message": "Sekme Modu"
+  },
+  "Classic": {
+    "message": "Klasik"
+  },
+  "Indent": {
+    "message": "Grinti"
+  },
+  "Smart": {
+    "message": "Smart"
+  },
+  "Line_break": {
+    "message": "Satır arası"
+  },
+  "Reindent_on_typing": {
+    "message": "Yazarken yeniden girinti yap"
+  },
+  "Auto_reload_on_script_enabled": {
+    "message": "Sayfaları otomatik olarak yeniden yükle"
+  },
+  "Auto_reload_on_script_enabled_desc": {
+    "message": "Bir komut dosyası açık veya kapalıyken etkilenen sayfaları yeniden yükleyin"
+  },
+  "Anonymous_statistics": {
+    "message": "İsimsiz istatistikler"
+  },
+  "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
+    "message": "Tampermonkey'nin Google Analytics aracılığıyla anonim istatistikler toplamasına izin ver. Bu, Tampermonkey'i geliştirmeme ve geliştirmemde hangi kriterlere odaklanmam gerektiğini belirlememde yardımcı oluyor. Beğenmiyorsanız bunu devre dışı bırakmanız yeterlidir."
+  },
+  "Dont_ask_me_for_simple_script_updates": {
+    "message": "Basit betik güncellemeleri için bana sorma"
+  },
+  "Hide_notification_after": {
+    "message": "Sonraki bildirimleri gizle"
+  },
+  "Today": {
+    "message": "Bugün"
+  },
+  "15_Seconds": {
+    "message": "15 Saniye"
+  },
+  "30_Seconds": {
+    "message": "30 Saniye"
+  },
+  "1_Minute": {
+    "message": "1 Dakika"
+  },
+  "5_Minutes": {
+    "message": "5 Dakika"
+  },
+  "1_Hour": {
+    "message": "1 Saat"
+  },
+  "Enable_Editor": {
+    "message": "Gelişmiş düzenleyiciyi etkinleştir"
+  },
+  "Appearance": {
+    "message": "Appearance"
+  },
+  "Security": {
+    "message": "Güvenlik"
+  },
+  "Downloads": {
+    "message": "İndirmeler"
+  },
+  "Download_Mode": {
+    "message": "İndirme Modu"
+  },
+  "Browser_API": {
+    "message": "Tarayıcı API"
+  },
+  "The_Browser_API_mode_requires_a_special_permission_": {
+    "message": "Tarayıcı API modu özel bir izin gerektirir."
+  },
+  "Whitelisted_File_Extensions": {
+    "message": "Beyaz Listedeki Dosya Uzantıları"
+  },
+  "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
+    "message": "Yalnızca bu uzantılara sahip dosyalar sabit diskinize kaydedilebilir.\nİşletim sisteminizdeki çalıştırılabilir dosyaları temsil eden dosya uzantılarına izin vermemeye özen gösterin!"
+  },
+  "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
+    "message": "Beyaz listeniz çalıştırılabilir dosyaları içeriyor gibi görünüyor!\nBu, kullanıcı betiğinizin sabit diskinize kötü amaçlı yazılım veya casus yazılım indirebileceği anlamına gelir!!"
+  },
+  "Browser_API_Downloads": {
+    "message": "Tarayıcı API İndrmeleri"
+  },
+  "Click_here_to_allow_TM_to_start_downloads": {
+    "message": "Tampermonkey'in anında indirmeye başlamasını sağlamak için Tamam'a tıklayın."
+  },
+  "Page_Filter_Mode": {
+    "message": "Sayfa Filtre Modu"
+  },
+  "Whitelisted_Pages": {
+    "message": "Beyaz Listedeki Sayfalar"
+  },
+  "Blacklisted_Pages": {
+    "message": "Kara Listedeki Sayfalar"
+  },
+  "Blacklist": {
+    "message": "Kara Liste"
+  },
+  "Whitelist": {
+    "message": "Beyaz Liste"
+  },
+  "Both": {
+    "message": "Her ikisi"
+  },
+  "Experimental": {
+    "message": "Deneysel"
+  },
+  "strict_mode": {
+    "message": "katı mod"
+  },
+  "Inject_Mode": {
+    "message": "Enjeksiyon Modu"
+  },
+  "Fast": {
+    "message": "Hızlı"
+  },
+  "Normal": {
+    "message": "Normal"
+  },
+  "Instant": {
+    "message": "Anlık"
+  },
+  "This_page_is_blacklisted_at_the_security_settings": {
+    "message": "Güvenlik ayarları tarafından kara listeye alındı"
+  },
+  "Update_Notification": {
+    "message": "TM güncelleme bildirimini göster"
+  },
+  "Favicon_Service": {
+    "message": "Favicon Hizmeti"
+  },
+  "Google": {
+    "message": "Google"
+  },
+  "DuckDuckGo": {
+    "message": "DuckDuckGo"
+  },
+  "Warning_unsafe_site_warnings_might_appear_": {
+    "message": "Uyarı: Bir komut dosyası zararlı olabilecek URL'ler içeriyorsa güvensiz site uyarıları görüntülenebilir."
+  },
+  "Unable_to_load_script_from_url_0url0": {
+    "message": "Betik komutunu URL'den yükleyemiyor: \n $url$",
+    "placeholders": {
+      "url": {
+        "content": "$1"
+      }
+    }
+  },
+  "Click_here_to_install_it_": {
+    "message": "Yüklemek için buraya tıklayın."
+  },
+  "Check_disabled_scripts": {
+    "message": "Devre dışı bırakılmış komut dosyalarını güncelle"
+  },
+  "Homepage": {
+    "message": "Ana sayfa"
+  },
+  "Last_updated": {
+    "message": "Son güncelleme"
+  },
+  "Version": {
+    "message": "Sürüm"
+  },
+  "Type": {
+    "message": "Tür"
+  },
+  "Updates": {
+    "message": "Güncellemeler"
+  },
+  "Check_for_Updates": {
+    "message": "Güncellemeleri kontrol et"
+  },
+  "Update_check_is_disabled": {
+    "message": "Bu komut dosyasının güncelleme denetimi devre dışı veya mümkün değil"
+  },
+  "Click_here_to_move_this_script": {
+    "message": "Bu betiği taşımak için buraya tıklayın"
+  },
+  "overwritten_by_user": {
+    "message": "kullanıcı ayarı tarafından üzerine yazılır"
+  },
+  "Report_a_bug": {
+    "message": "Hata bildir"
+  },
+  "A_reload_is_required": {
+    "message": "Yeniden bir yükleme yapılması gerekiyor: \nTüm kaydedilmemiş değişiklikler kaybolacak!"
+  },
+  "Save_to_disk": {
+    "message": "Diske kaydet"
+  },
+  "Editor_reset": {
+    "message": "Düzenleyiciyi sıfırla"
+  },
+  "Full_reset": {
+    "message": "Fabrika ayarlarına dön"
+  },
+  "Run_syntax_check": {
+    "message": "Sözdizimi denetimini çalıştır"
+  },
+  "No_syntax_errors_were_found_": {
+    "message": "Söz dizimi hatası bulunamadı."
+  },
+  "One_error_or_hint_was_found_": {
+    "message": "Bir hata veya ipucu bulundu."
+  },
+  "0count0_errors_or_hints_were_found_": {
+    "message": "$count$ hata yada ipucu bulundu.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "Auto_syntax_check_on_typing": {
+    "message": "Yazarken otomatik sözdizimi denetimi"
+  },
+  "Enable_this_option_to_automatically_check_the_code_on_typing_": {
+    "message": "Yazarken kodu otomatik olarak kontrol etmek için bu seçeneği etkinleştirin."
+  },
+  "Auto_syntax_check_max_length": {
+    "message": "Otomatik sözdizimi denetimi için maksimum boyut"
+  },
+  "Check_only_scripts_up_to_this_size_automatically_": {
+    "message": "Yalnızca bu boyuta kadar olan komut dosyalarını otomatik olarak kontrol edin."
+  },
+  "Highlight_trailing_whitespace": {
+    "message": "Arka boşlukları vurgulayın"
+  },
+  "Trim_trailing_whitespace_from_modified_lines": {
+    "message": "Değiştirilen satırlardan gelen boşlukları silmek için"
+  },
+  "Dashboard": {
+    "message": "Kontrol paneli"
+  },
+  "Userscripts": {
+    "message": "Kullanıcı betikleri"
+  },
+  "Script_URL_detection": {
+    "message": "Betik URL algılama"
+  },
+  "Install_this_script": {
+    "message": "Bu betiği yükle"
+  },
+  "New_script_template_": {
+    "message": "Yeni betik şablonu"
+  },
+  "Icon_badge_info": {
+    "message": "Simge Rozet Bilgisi"
+  },
+  "Icon_badge_color": {
+    "message": "Simge Rozet Rengi"
+  },
+  "On": {
+    "message": "Açık"
+  },
+  "Off": {
+    "message": "Kapalı"
+  },
+  "Running_scripts": {
+    "message": "Betik örneklerini çalıştırma"
+  },
+  "Unique_running_scripts": {
+    "message": "Benzersiz çalışan betikler"
+  },
+  "Disabled_scripts": {
+    "message": "Etkin olmayan betikler"
+  },
+  "Config_Mode": {
+    "message": "Yapılandırma modu"
+  },
+  "Novice": {
+    "message": "Acemi"
+  },
+  "Beginner": {
+    "message": "Yeni Başlayan"
+  },
+  "Advanced": {
+    "message": "Gelişmiş"
+  },
+  "Changes_the_number_of_visible_config_options": {
+    "message": "Görünen yapılandırma seçeneklerinin sayısını değiştirir"
+  },
+  "Language": {
+    "message": "Dil"
+  },
+  "Enter_the_new_rule": {
+    "message": "Yeni kural gir"
+  },
+  "Add_as_0clude0": {
+    "message": "$clude$ ekle",
+    "placeholders": {
+      "clude": {
+        "content": "$1"
+      }
+    }
+  },
+  "Add": {
+    "message": "Ekle"
+  },
+  "Remove": {
+    "message": "Kaldır"
+  },
+  "Includes_Excludes": {
+    "message": "İçerenler/Hariç Tutmalar"
+  },
+  "Original_includes": {
+    "message": "Orijinal içermeler"
+  },
+  "Original_matches": {
+    "message": "Orijinal eşleşmeler"
+  },
+  "Original_excludes": {
+    "message": "Orijinal hariç tutmaları"
+  },
+  "User_includes": {
+    "message": "Kullanıcı içermeler"
+  },
+  "User_matches": {
+    "message": "Kullanıcı eşleşmeleri"
+  },
+  "User_excludes": {
+    "message": "Kullanıcı hariç tutmaları"
+  },
+  "Original_domain_whitelist": {
+      "message": "Orijinal alan adı beyaz listesi"
+  },
+  "User_domain_whitelist": {
+      "message": "Kullanıcı alan adı beyaz listesi"
+  },
+  "Temporary_domain_whitelist": {
+      "message": "Geçici alan adı beyaz listesi"
+  },
+  "User_domain_blacklist": {
+      "message": "Kullanıcı alan adı kara listesi"
+  },
+  "XHR_Security": {
+      "message": "XHR Güvenliği"
+  },
+  "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
+    "message": "Dahili bir hata oluştu. Tarayıcının yeniden başlatılmasından sonra bile bu sorun devam ediyorsa, lütfen Tamam düğmesine basın ve bu sorunu forumda bildirin.\n\nTampermonkey forumunu ziyaret etmek istiyor musunuz?"
+  },
+  "TESLA": {
+    "message": "TESLA"
+  },
+  "Enable_TESLA": {
+    "message": "TESLA Etkinleştir"
+  },
+  "Tampermonkey_External_Script_List_Access": {
+    "message": "Betik eşitleme (Tampermonkey External Script List Access)"
+  },
+  "Sync_Type": {
+    "message": "Tür"
+  },
+  "Imported": {
+    "message": "Aktarılan"
+  },
+  "Allow_headers_to_be_modified_by_scripts": {
+    "message": "HTTP üstbilgilerinin komut dosyaları tarafından değiştirilmesine izin ver"
+  },
+  "Allow_communication_with_cooperate_pages": {
+    "message": "İşbirliği sayfaları ile iletişim kurmaya izin ver"
+  },
+  "Tampermonkey_and_script_version": {
+    "message": "Tampermonkey + betik sürümü"
+  },
+  "Tampermonkey_version": {
+    "message": "Yalnızca Tampermonkey sürümü"
+  },
+  "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
+    "message": "Bu seçenek, Tampermonkey ana sayfasının ve bazı betik barındırma sayfalarının Tampermonkey sürümünü ve bazı temel betik bilgilerinin (kurulu, sürüm, etkin) erişmesine izin verir."
+  },
+  "Subresource_Integrity": {
+    "message": "Alt Kaynak Bütünlüğü"
+  },
+  "Validate_if_supported": {
+    "message": "Mümkünse onaylayın"
+  },
+  "Validate_if_given": {
+    "message": "Verilirse doğrula"
+  },
+  "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
+    "message": "Betik editörleri, kaynak URL'ye bir SRI karması ekleyerek dış kaynakları temin edebilirler."
+  },
+  "Yes": {
+    "message": "Evet"
+  },
+  "No": {
+    "message": "Hayır"
+  },
+  "Auto": {
+    "message": "Otomatik"
+  },
+  "__Please_choose__": {
+    "message": "-- Lütfen bir seçenek seçin --"
+  },
+  "Enable": {
+    "message": "Etkin"
+  },
+  "Disable": {
+    "message": "Etkin değil"
+  },
+  "Toggle_Enable": {
+    "message": "Geçiş Etkin"
+  },
+  "Trigger_Update": {
+    "message": "Tetikleyici Güncelleme"
+  },
+  "Apply_this_action_to_the_selected_scripts": {
+    "message": "Bunu seçilen tüm betiklere uygula"
+  },
+  "Start": {
+    "message": "Başla"
+  },
+  "Really_delete_the_selected_items_": {
+    "message": "Seçilen öğeleri gerçekten silmek istiyor musunuz?"
+  },
+  "Really_factory_reset_the_selected_items_": {
+    "message": "Seçili öğeleri fabrika ayarlarına sıfırlamak mı istiyorsun?"
+  },
+  "Filter_by": {
+    "message": "Filtre"
+  },
+  "Matching_URL": {
+    "message": "Eşleşen URL"
+  },
+  "Really_factory_reset_this_script_": {
+    "message": "Bu betiği fabrika ayarlarına sıfırlamak mı istiyorsun?"
+  },
+  "Reset_Section": {
+    "message": "Sıfırla"
+  },
+  "Restart_Tampermonkey": {
+    "message": "Tampermonkey'i Yeniden Başlat"
+  },
+  "This_will_restart_Tampermonkey_Ok_": {
+    "message": "Tampermonkey'i gerçekten yeniden başlatmak istiyor musun?"
+  },
+  "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
+    "message": "Bu değişikliğin uygulanması için Tampermonkey'in yeniden başlatılması gerekir.\n\nDevam etmek istiyor musunuz?"
+  },
+  "Factory_Reset": {
+    "message": "Fabrika Ayarlarına Sıfırla"
+  },
+  "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
+    "message": "Gerçekten tüm betikleri kaldırmak ve tüm ayarları sıfırlamak istiyor musunuz?"
+  },
+  "Browser_Sync": {
+    "message": "Tarayıcı Eşitleme"
+  },
+  "Sync_Reset": {
+    "message": "Eşitleme Sıfırla"
+  },
+  "This_will_remove_all_remote_data_from_sync_Ok_": {
+    "message": "Eşitlemeden tüm verileri gerçekten kaldırmak istiyor musunuz?"
+  },
+  "Enable_autoSave": {
+    "message": "Editör odağı kaybedildiğinde içeriği kaydet"
+  },
+  "Enable_easySave": {
+    "message": "Kaydetme hakkında onay iletisi gösterme"
+  },
+  "Add_TM_to_CSP": {
+    "message": "Sitenin içerik güvenlik politikasına (CSP) Tampermonkey ekle"
+  },
+  "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
+    "message": "Tampermonkey, devre dışı bırakıldığında güvenli olmayan içeriğe (güvensiz pencere, sayfanın işlevleri ve değişkenleri) erişemeyebilir."
+  },
+  "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
+    "message": "Bu sayfanın en az bir kısmı 'yasak sayfalar' ayarında listelenmiştir!"
+  },
+  "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
+    "message": "azı komut dosyaları, bu sayfanın JavaScript ayarları veya bir komut dosyası engelleyicisi tarafından engellenmiş olabilir!"
+  },
+  "Show_notification": {
+    "message": "Bir bildirim göster"
+  },
+  "Open_changelog": {
+    "message": "Değişiklik günlüğü aç"
+  },
+  "No_frames": {
+    "message": "Yalnızca üst çerçevede çalıştırın"
+  },
+  "Native": {
+    "message": "Yerel"
+  },
+  "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
+    "message": "Tampermonkey, komut dosyası alma işlevinin çalışması için tarayıcı profil klasörünün mutlak yolunu bilmelidir.\n\nBunun nerede olduğunu öğrenmek için SSS bölümünü ziyaret etmek için tıklayın!"
+  },
+  "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
+    "message": "Tampermonkey, komut dosyasının içe aktarılmasını sağlamak için dosya URI'lerine erişimi gerekiyor.\n\nBu izni nasıl verebileceğinizi öğrenmek için SSS bölümünü ziyaret etmek için tıklayın!"
+  },
+  "Tampermonkey_has_no_file_access_permission_": {
+    "message": "Tampermonkey'in yerel dosyalara erişmek için izni yok!"
+  },
+  "Everything_is_setup_correctly_": {
+    "message": "Her şey doğru bir şekilde kuruldu."
+  },
+  "TM_has_access_to_file_URIs": {
+    "message": "Tampermonkey dosya URI'lerine erişebilir. :)"
+  },
+  "Browser_Profile_Path": {
+    "message": "Tarayıcı Profili Yolu"
+  },
+  "Native_Script_Import": {
+    "message": "Yerel Komut Dosyası İçe Aktarma"
+  },
+  "Enable_Native_Script_Import": {
+    "message": "Yerel Komut Dosyası İçe Aktarma Etkinleştir"
+  },
+  "Post_Import_Action": {
+    "message": "İçe Aktarma İşlemi"
+  },
+  "None": {
+    "message": "Hiç"
+  },
+  "Disable_Extension": {
+    "message": "Uzantıyı devre dışı bırak"
+  },
+  "Uninstall_Extension": {
+    "message": "Eklentiyi Kaldır"
+  },
+  "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
+    "message": "Yerel kullanıcı betiği başarıyla içe aktarıldıktan sonra ne yapılması gerekir?"
+  },
+  "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
+    "message": "Tampermonkey tarayıcınız tarafından güncellendiğinde aynı zamanda yeniden başlatılır. Maalesef bu, şu anda çalışan komut dosyalarını bozabilir!\n\nDiğer güncellemelerden haberdar edilmek istemediğinizden emin misiniz?"
+  },
+  "Operation_completed_successfully": {
+    "message": "Operasyon başarıyla tamamlandı"
+  },
+  "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
+    "message": "Tüm değişiklikler yalnızca bu gizli oturum kapatılıncaya kadar saklanır!"
+  },
+  "_not_set_": {
+    "message": "<ayarlanmadı>"
+  },
+  "Layout": {
+    "message": "Düzen"
+  },
+  "User_CSS": {
+    "message": "Kullanıcı CSS"
+  },
+  "You_can_add_your_custom_CSS_rules_here_": {
+    "message": "Tampermonkey kullanıcı arayüzü için kendi CSS kurallarınızı buraya ekleyebilirsiniz. Bunun bir şey kırması durumunda varsayılan düzeni ?layout=reset seçenek sayfasının URL'sine ekleyerek alabilirsiniz."
+  },
+  "Store_data_in_incognito_mode": {
+    "message": "Veriyi gizli modda sakla"
+  },
+  "Temporary": {
+    "message": "Geçici"
+  },
+  "Permanent": {
+    "message": "Kalıcı"
+  },
+  "Warning": {
+    "message": "Uyarı"
+  },
+  "Info": {
+    "message": "Bilgi"
+  },
+  "Error": {
+    "message": "Hata"
+  },
+  "Externals": {
+    "message": "Dışarıdan"
+  },
+  "Requires": {
+    "message": "Gerekenler"
+  },
+  "Resources": {
+    "message": "Kaynaklar"
+  },
+  "Storage": {
+    "message": "Depolama"
+  },
+  "URL": {
+    "message": "URL"
+  },
+  "Size": {
+    "message": "Boyut"
+  },
+  "No_entry_found": {
+    "message": "Kayıt bulunamadı"
+  },
+  "BlackCheck": {
+    "message": "Kara Kontrol"
+  },
+  "Script_Blacklist_Source": {
+    "message": "Betik Kara Liste Kaynağı"
+  },
+  "Server_And_Manual": {
+    "message": "Uzaktan + Elle"
+  },
+  "Only_Manual": {
+    "message": "Yalnızca Elle"
+  },
+  "Manual_Script_Blacklist": {
+    "message": "Elle Kullanıcı Betiği ve @require Kara Listesi"
+  },
+  "This_script_is_blacklisted_": {
+    "message": "Bu betik kara listeye alındı!"
+  },
+  "Report_an_issue_to_the_script_hoster_": {
+    "message": "Betik barındırıcısına bir sorun bildirin.\n(Bir kullanıcı hesabı gerekli olabilir)"
+  },
+  "Blacklist_Severity": {
+    "message": "Önem Seviyesinden Engelleme"
+  },
+  "Action_Menu": {
+    "message": "Eylem Menüsü"
+  },
+  "Hide_disabled_scripts": {
+    "message": "Devre dışı bırakılmış betikleri gizle"
+  },
+  "Columns": {
+    "message": "Sütunlar"
+  },
+  "Script_order": {
+    "message": "Betik düzeni"
+  },
+  "severity_1": {
+    "message": "1 (en güvenli)"
+  },
+  "severity_2": {
+    "message": "2"
+  },
+  "severity_3": {
+    "message": "3"
+  },
+  "severity_4": {
+    "message": "4"
+  },
+  "severity_5": {
+    "message": "5"
+  },
+  "severity_6": {
+    "message": "6"
+  },
+  "severity_7": {
+    "message": "7"
+  },
+  "severity_8": {
+    "message": "8"
+  },
+  "severity_9": {
+    "message": "9"
+  },
+  "severity_10": {
+    "message": "10 (en az güvenlik)"
+  },
+  "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
+    "message": "Diliniz desteklenmiyor mu?\nTampermonkey'in tercüme edilmesine ilişkin talimatları almak için burayı tıklayın"
+  },
+  "Default": {
+    "message": "Varsayılan"
+  },
+  "Default_Dark": {
+    "message": "Varsayılan - Koyu"
+  },
+  "Ok": {
+    "message": "Tamam"
+  }
+}

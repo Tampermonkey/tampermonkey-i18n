@@ -270,8 +270,8 @@
     "Check_only_scripts_up_to_this_size_automatically_": {
         "message": "Automaticky kontrolovať iba skripty do tejto veľkosti."
     },
-    "Chrome_Sync_Reset": {
-        "message": "Resetovať Chrome Sync"
+    "Sync_Reset": {
+        "message": "Resetovať Sync"
     },
     "Classic": {
         "message": "Klasický"
@@ -306,12 +306,6 @@
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Previesť sekcie CDATA do formátu kompatibilného s Chromom"
     },
-    "Copy_exportable_data_to_clipboard_Ok_": {
-        "message": "Skopírujem exportovateľné TESLA dáta do schránky. Ok?"
-    },
-    "Create_Exportable_Data": {
-        "message": "Vytvoriť exportovateľné dáta"
-    },
     "Dashboard": {
         "message": "Ovládací panel"
     },
@@ -338,9 +332,6 @@
     },
     "Details": {
         "message": "Detaily"
-    },
-    "Different_sync_versions_are_not_compatible_to_each_other_": {
-        "message": "Rôzne sycnchronzované verzie niesú navzájom kompatibliné!"
     },
     "Disable": {
         "message": "Vypnúť"
@@ -911,14 +902,8 @@
     "Subresource_Integrity": {
         "message": "Integrita subzdroja"
     },
-    "Sync_Id": {
-        "message": "ID"
-    },
     "Sync_Type": {
         "message": "Typ"
-    },
-    "Sync_Version": {
-        "message": "Verzia"
     },
     "TESLA": {
         "message": "TESLA"
@@ -1038,17 +1023,14 @@
     "This_script_uses_uW_gm_api_": {
         "message": "Tento skript je súčasťou Greasemonkey 10 API (unsafeWindow.gmonkey),\nktoré Tampermonkey ani iný alternatívny správca skriptov nepodporuje."
     },
-    "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
-        "message": "Narozdiel od 'Legacy' verzie synchronizácie, táto synchronizuje vaše skripty podľa unikátneho ID, ktoré je vytvorené pri inštalácií skriptu!\n\nAk nainštalujete tento skript na iné inštalácie Tampermonkey inou metódou synchronizácie nebo normálním inštalačným spôsobom, objaví sa tento skript viackrát, kým neprebehne ďalšia synchronizácia.\n\nOdstránenie problému rieši iba ručné odstránenie duplicitných skriptov!\n\nNaozaj chcete pokračovať?"
-    },
     "This_will_overwrite_your_global_settings_": {
         "message": "Toto prepíše globálne nastavenia!"
     },
     "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
         "message": "Chcete zmazať všetky skripty a obnoviť všetky nastavenia?"
     },
-    "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-        "message": "Chcete zmazať všetky dáta z Google Sync?"
+    "This_will_remove_all_remote_data_from_sync_Ok_": {
+        "message": "Chcete zmazať všetky dáta z Sync?"
     },
     "This_will_restart_Tampermonkey_Ok_": {
         "message": "Chcete reštartovať Tampermonkey?"

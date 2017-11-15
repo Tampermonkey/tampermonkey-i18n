@@ -960,26 +960,8 @@
   "Sync_Type": {
     "message": "Typ"
   },
-  "Sync_Version": {
-    "message": "Verze"
-  },
-  "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
-    "message": "Narozdíl od 'Legacy' synchronizace, tato verze synchronizuje skripty podle unikátního ID, které je vytvořeno při instalaci skriptu!\n\nPokud tedy nainstalujete tento skript do jiné instance Tampermonkey, buď jinou metodou synchronizace nebo normálním instalačním způsobem, objeví se tento skript vícekrát, dokud neproběhne další synchronizace.\n\nToto lze napravit pouze ručním odstraněním duplicitních skriptů!\n\nOpravdu chcete pokračovat?"
-  },
-  "Different_sync_versions_are_not_compatible_to_each_other_": {
-    "message": "Synchronizované verze nejsou navzájem kompatibilní!"
-  },
-  "Sync_Id": {
-    "message": "Id"
-  },
   "Imported": {
     "message": "Importováno"
-  },
-  "Create_Exportable_Data": {
-    "message": "Vytvořit exportovatelná data"
-  },
-  "Copy_exportable_data_to_clipboard_Ok_": {
-    "message": "Zkopírovat exportovatelná TESLA data do schránky. Ok?"
   },
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "Povolit skriptům úpravy HTTP hlaviček"
@@ -1047,11 +1029,11 @@
   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
     "message": "Opravdu chcete smazat všechny skripty a resetovat všechna nastavení?"
   },
-  "Chrome_Sync_Reset": {
-    "message": "Resetovat Chrome Sync"
+  "Sync_Reset": {
+    "message": "Resetovat Sync"
   },
-  "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-    "message": "Opravdu chcete smazat všechna data z Google Sync?"
+  "This_will_remove_all_remote_data_from_sync_Ok_": {
+    "message": "Opravdu chcete smazat všechna data z Sync?"
   },
   "Enable_autoSave": {
     "message": "Uložit obsah při opuštění editoru"

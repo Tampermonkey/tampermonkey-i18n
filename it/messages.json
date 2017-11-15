@@ -766,26 +766,8 @@
   "Sync_Type": {
     "message": "Tipo"
   },
-  "Sync_Version": {
-    "message": "Versione"
-  },
-  "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
-    "message": "A differenza della versione di sincronizzazione 'Legacy', questa sincronizza i tuoi script come riferimento ad un unico ID creato quando una script viene installato!\n\nQuesto significa che se hai installato uno script in più istanze di  Tampermonkey sia tramite un altro metodo di sincronizzazione che tramite la normale installazione dello script, allora questo script apparirà più volte dopo che la successiva sessione di sincronizzazione verrà completata.\n\nIl solo modo per risolvere è rimuovere manualmente tutti gli script doppi!\n\nVuoi davvero continuare?"
-  },
-  "Different_sync_versions_are_not_compatible_to_each_other_": {
-    "message": "Versioni differenti di sincronizzazione non sono compatibili tra di loro!"
-  },
-  "Sync_Id": {
-    "message": "Id"
-  },
   "Imported": {
     "message": "Importato"
-  },
-  "Create_Exportable_Data": {
-    "message": "Crea dati esportabili"
-  },
-  "Copy_exportable_data_to_clipboard_Ok_": {
-    "message": "Copia dati esportabili TESLA nella clipboard. Ok?"
   },
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "Permette agli script di modificare gli header HTTP"
@@ -838,11 +820,11 @@
   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
     "message": "Vuoi davvero rimuovere tutti gli script e ripristinare tutte le impostazioni?"
   },
-  "Chrome_Sync_Reset": {
-    "message": "Ripristino Chrome Sync"
+  "Sync_Reset": {
+    "message": "Ripristino Sync"
   },
-  "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-    "message": "Vuoi davvero rimuovere tutti dati da Google Sync?"
+  "This_will_remove_all_remote_data_from_sync_Ok_": {
+    "message": "Vuoi davvero rimuovere tutti dati da Sync?"
   },
   "Enable_autoSave": {
     "message": "Salva i contenuti quando l'editor perde il focus"

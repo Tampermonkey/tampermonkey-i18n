@@ -195,8 +195,8 @@
   "Check_interval": {
     "message": "Intervalo de verificação"
   },
-  "Chrome_Sync_Reset": {
-    "message": "Reiniciar Chrome Sync"
+  "Sync_Reset": {
+    "message": "Reiniciar Sync"
   },
   "Classic": {
     "message": "Clássico"
@@ -227,12 +227,6 @@
   },
   "Convert_CDATA_sections_into_a_chrome_compatible_format": {
     "message": "Converter secções CDATA num formato compatível com o Chrome"
-  },
-  "Copy_exportable_data_to_clipboard_Ok_": {
-    "message": "Copiar informação TESLA para o clipboard (ctrl+v). Ok?"
-  },
-  "Create_Exportable_Data": {
-    "message": "Criar informação exportável"
   },
   "Dashboard": {
     "message": "Dashboard"
@@ -736,9 +730,6 @@
   "Store_data_in_incognito_mode": {
     "message": "Guardar informações no modo incógnito"
   },
-  "Sync_Id": {
-    "message": "Sync_Id"
-  },
   "Sync_Type": {
     "message": "Sync_Type"
   },
@@ -842,8 +833,8 @@
   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
     "message": "Esta acção irá remover todos os scripts e reiniciar todas as opções. Deseja continuar?"
   },
-  "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-    "message": "Esta acção irá remover todas as informações do Google Sync. Deseja continuar?"
+  "This_will_remove_all_remote_data_from_sync_Ok_": {
+    "message": "Esta acção irá remover todas as informações do Sync. Deseja continuar?"
   },
   "This_will_restart_Tampermonkey_Ok_": {
     "message": "Esta acção irá reiniciar o Tampermonkey. Deseja continuar?"
@@ -1202,15 +1193,6 @@
   },
   "XHR_Security": {
     "message": "Segurança de XHR"
-  },
-  "Sync_Version": {
-    "message": "Versão"
-  },
-  "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
-    "message": "Esta versão sincronizada poderá multiplicar cada script que esteja presente em mais do que uma instância do TM. Deseja continuar?"
-  },
-  "Different_sync_versions_are_not_compatible_to_each_other_": {
-    "message": "Versões de sincronização diferentes não são compativeis entre si!"
   },
   "Subresource_Integrity": {
     "message": "Integridade de subrecursos"

@@ -963,26 +963,8 @@
   "Sync_Type": {
     "message": "同步類型"
   },
-  "Sync_Version": {
-    "message": "同步版本"
-  },
-  "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
-    "message": "Unlike the 'Legacy' sync version this one synchronizes your scripts by reference to a unique ID that is created when a script is installed!\n\nThis means if you installed a script at multiple Tampermonkey instances by either another sync method or a normal script installation then this script will appear multiple times after the next sync iteration has finished.\n\nThe only way to recover is to manually remove each doubled script entry!\n\n您確定要繼續嗎？"
-  },
-  "Different_sync_versions_are_not_compatible_to_each_other_": {
-    "message": "不同的同步版本互相不相容"
-  },
-  "Sync_Id": {
-    "message": "Id"
-  },
   "Imported": {
     "message": "已匯入"
-  },
-  "Create_Exportable_Data": {
-    "message": "新建可匯出的資料"
-  },
-  "Copy_exportable_data_to_clipboard_Ok_": {
-    "message": "複製可匯出的 TESLA 資料到剪貼簿。 Ok？"
   },
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "允許腳本修改 HTTP 標頭"
@@ -1056,11 +1038,11 @@
   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
     "message": "確定要移除所有腳本且重設所有設定嗎？"
   },
-  "Chrome_Sync_Reset": {
-    "message": "Chrome Sync 重設"
+  "Sync_Reset": {
+    "message": "Sync 重設"
   },
-  "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-    "message": "您真的要從 Google Sync 移除所有資料？"
+  "This_will_remove_all_remote_data_from_sync_Ok_": {
+    "message": "您真的要從 Sync 移除所有資料？"
   },
   "Enable_autoSave": {
     "message": "失去滑鼠焦點時儲存內容"
