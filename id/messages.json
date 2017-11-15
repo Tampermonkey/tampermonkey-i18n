@@ -997,7 +997,7 @@
     "message": "Version"
   },
   "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
-    "message": Berbeda dengan versi sinkronisasi 'Legacy' yang satu ini menyinkronkan skrip Anda dengan mengacu pada ID unik yang dibuat saat skrip terinstal!\n\n Ini berarti jika Anda memasang skrip pada beberapa contoh Tampermonkey dengan metode sinkronisasi lain atau skrip normal instalasi maka skrip ini akan muncul beberapa kali setelah iterasi sinkronisasi berikutnya selesai.\n\n Satu-satunya cara untuk memulihkan adalah dengan manual menghapus setiap entri script berlipat ganda!\n\n Apakah Anda benar-benar ingin melanjutkan?"  },
+    "message": "Berbeda dengan versi sinkronisasi 'Legacy' yang satu ini menyinkronkan skrip Anda dengan mengacu pada ID unik yang dibuat saat skrip terinstal!\n\n Ini berarti jika Anda memasang skrip pada beberapa contoh Tampermonkey dengan metode sinkronisasi lain atau skrip normal instalasi maka skrip ini akan muncul beberapa kali setelah iterasi sinkronisasi berikutnya selesai.\n\n Satu-satunya cara untuk memulihkan adalah dengan manual menghapus setiap entri script berlipat ganda!\n\n Apakah Anda benar-benar ingin melanjutkan?"  },
 	"Different_sync_versions_are_not_compatible_to_each_other_": {
     "message": "Versi sinkronisasi yang berbeda tidak kompatibel satu sama lain!"
   },
