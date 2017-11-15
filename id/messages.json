@@ -781,7 +781,7 @@
     "message": "Blacklisted by security settings"
   },
   "Update_Notification": {
-    "message": "Tampilkan pembaruan TM pemberitahuan"
+    "message": "Tampilkan pembaruan pemberitahuan TM"
   },
   "Unable_to_load_script_from_url_0url0": {
     "message": "Unable to load script from url: \n $url$",
