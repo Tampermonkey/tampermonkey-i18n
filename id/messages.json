@@ -798,22 +798,22 @@
     "message": "Nonaktifkan Update skrip"
   },
   "Homepage": {
-    "message": "Homepage"
+    "message": "Laman utama"
   },
   "Last_updated": {
     "message": "Terakhir diperbarui"
   },
   "Version": {
-    "message": "Version"
+    "message": "Versi"
   },
   "Type": {
     "message": "Tipe"
   },
   "Updates": {
-    "message": "Updates"
+    "message": "Pembaruan"
   },
   "Check_for_Updates": {
-    "message": "Check for updates"
+    "message": "Memeriksa pembaruan"
   },
   "Update_check_is_disabled": {
     "message": "The update check of this script is disabled or not possible"
@@ -911,7 +911,7 @@
     "message": "Mode Config"
   },
   "Novice": {
-    "message": "Basic"
+    "message": "Simpel"
   },
   "Beginner": {
     "message": "Pemula"
@@ -937,10 +937,10 @@
     }
   },
   "Add": {
-    "message": "Add"
+    "message": "Tambah"
   },
   "Remove": {
-    "message": "Remove"
+    "message": "Hapus"
   },
   "Includes_Excludes": {
     "message": "Includes/Excludes"
@@ -1033,7 +1033,7 @@
     "message": "Otomatis"
   },
   "__Please_choose__": {
-    "message": "-- Please choose an option --"
+    "message": "-- Silahkan pilih --"
   },
   "Enable": {
     "message": "Enable"
@@ -1045,52 +1045,52 @@
     "message": "Toggle Enable"
   },
   "Trigger_Update": {
-    "message": "Trigger Update"
+    "message": "Picu pembaruan"
   },
   "Apply_this_action_to_the_selected_scripts": {
-    "message": "Apply this to all selected scripts"
+    "message": "Terapkan ini ke semua skrip yang dipilih"
   },
   "Start": {
-    "message": "Start"
+    "message": "Mulai"
   },
   "Really_delete_the_selected_items_": {
-    "message": "Do you really want to delete the selected items?"
+    "message": "Kamu yakin untuk hapus item terpilih?"
   },
   "Really_factory_reset_the_selected_items_": {
-    "message": "Do you really want to factory reset the selected items?"
+    "message": "Kamu yakin untuk reset pabrik item terpilih?"
   },
   "Filter_by": {
-    "message": "Filter by"
+    "message": "Filter dengan"
   },
   "Matching_URL": {
-    "message": "Matching URL"
+    "message": "Menemukan URL"
   },
   "Really_factory_reset_this_script_": {
-    "message": "Do you really want to factory reset this script?"
+    "message": "Kamu yakin untuk reset pabrikan skrip ini?"
   },
   "Reset_Section": {
     "message": "Reset"
   },
   "Restart_Tampermonkey": {
-    "message": "Restart Tampermonkey"
+    "message": "Jalankan ulang Tampermonkey"
   },
   "This_will_restart_Tampermonkey_Ok_": {
     "message": "Do you really want to restart Tampermonkey?"
   },
   "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
-    "message": "Tampermonkey needs to be restarted to make this change apply.\n\nDo you want to continue?"
+    "message": "Tampermonkey meminta mulai kembali untuk menyimpan perubahan.\n\nLanjutkan?"
   },
   "Factory_Reset": {
-    "message": "Factory Reset"
+    "message": "Reset Pabrikan"
   },
   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
-    "message": "Do you really want to remove all scripts and reset all settings?"
+    "message": "Kamu yakin hapus semua skrip dan reset semua pengaturan?"
   },
   "Sync_Reset": {
     "message": "Sync Reset"
   },
   "This_will_remove_all_remote_data_from_sync_Ok_": {
-    "message": "Do you really want to remove all remote data from Sync?"
+    "message": "Yakin hapus semua remote data from Sync?"
   },
   "Enable_autoSave": {
     "message": "Menyimpan konten ketika Editor kehilangan fokus"
@@ -1186,16 +1186,16 @@
     "message": "Store data in incognito mode"
   },
   "Temporary": {
-    "message": "Temporary"
+    "message": "Temporer"
   },
   "Permanent": {
-    "message": "Permanent"
+    "message": "Permanen"
   },
   "Warning": {
     "message": "Warning"
   },
   "Info": {
-    "message": "Info"
+    "message": "Informasi"
   },
   "Error": {
     "message": "Error"
@@ -1204,7 +1204,7 @@
     "message": "Eksternal"
   },
   "Requires": {
-    "message": "Requires"
+    "message": "Membutuhkan"
   },
   "Resources": {
     "message": "Resources"
@@ -1222,7 +1222,7 @@
     "message": "BlackCheck"
   },
   "Script_Blacklist_Source": {
-    "message": "Script Blacklist Source"
+    "message": "Sumber Daftar hitam skrip"
   },
   "Server_And_Manual": {
     "message": "Remote + Manual"
