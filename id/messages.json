@@ -171,7 +171,7 @@
     "message": "Pembaharui"
   },
   "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
-    "message": "$name$ $version$ tersedia.\nSilahkan re-start browser untuk memperbaharui!",
+    "message": "$name$ $version$ telah tersedia.\nSilahkan re-start browser untuk memperbaharui!",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -284,7 +284,7 @@
     "message": "Bikin sebuah script..."
   },
   "Get_new_scripts___": {
-    "message": "Temukan scripts baru..."
+    "message": "Temukan script baru..."
   },
   "Check_for_userscripts_updates": {
     "message": "Periksa pembaruan userscript"
@@ -1129,7 +1129,7 @@
     "message": "Tampermonkey needs access to file URIs to make the script import work.\n\nClick here to visit the FAQ to learn how you can grant that permission!"
   },
   "Tampermonkey_has_no_file_access_permission_": {
-    "message": "Tampermonkey has no permission to access local files!"
+    "message": "Tampermonkey tidak memiliki izin untuk mengakses berkas lokal!"
   },
   "Everything_is_setup_correctly_": {
     "message": "Everything is setup correctly."
@@ -1153,7 +1153,7 @@
     "message": "None"
   },
   "Disable_Extension": {
-    "message": "Disable Extension"
+    "message": "Matikan Ekstensi"
   },
   "Uninstall_Extension": {
     "message": "Copot Ekstensi"
@@ -1231,10 +1231,10 @@
     "message": "Hanya Manual"
   },
   "Manual_Script_Blacklist": {
-    "message": "Manual Userscript and @require Blacklist"
+    "message": "Manual Userscript dan @require Blacklist"
   },
   "This_script_is_blacklisted_": {
-    "message": "This script is blacklisted!"
+    "message": "Skrip telah ter-blacklist!"
   },
   "Report_an_issue_to_the_script_hoster_": {
     "message": "Melaporkan masalah ke hoster script. \n(Sebuah akun pengguna mungkin diperlukan)"
