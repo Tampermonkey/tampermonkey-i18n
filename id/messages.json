@@ -380,7 +380,7 @@
     "message": "Simpan"
   },
   "Cancel": {
-    "message": "Batall"
+    "message": "Batal"
   },
   "Search": {
     "message": "Cari"
@@ -427,19 +427,19 @@
     "message": "Silahkan tunggu..."
   },
   "Edit": {
-    "message": "Edit"
+    "message": "Sunting"
   },
   "Sites": {
-    "message": "Sites"
+    "message": "Laman"
   },
   "Sort": {
     "message": "Sort"
   },
   "Actions": {
-    "message": "Actions"
+    "message": "Aksi"
   },
   "Action": {
-    "message": "Action"
+    "message": "Aksi"
   },
   "Please_select_a_file": {
     "message": "Sila pilih berkas"
@@ -448,7 +448,7 @@
     "message": "Cloud"
   },
   "Import": {
-    "message": "Import"
+    "message": "Impor"
   },
   "Show_backups": {
     "message": "Buka backup"
@@ -509,7 +509,7 @@
     "message": "Script ini menggunakan bagian dari Greasemonkey 10 API (unsafeWindow.monkey) \nyang tidak didukung oleh Tampermonkey atau script handler alternatif lainnya."
   },
   "some_secs": {
-    "message": "some"
+    "message": "beberapa"
   },
   "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
     "message": "KONFLIK:\nScript ini dimodifikasi oleh tab lain $t$ detik yang lalu!",
@@ -798,22 +798,22 @@
     "message": "Nonaktifkan Update skrip"
   },
   "Homepage": {
-    "message": "Homepage"
+    "message": "Laman utama"
   },
   "Last_updated": {
     "message": "Terakhir diperbarui"
   },
   "Version": {
-    "message": "Version"
+    "message": "Versi"
   },
   "Type": {
     "message": "Tipe"
   },
   "Updates": {
-    "message": "Updates"
+    "message": "Pembaruan"
   },
   "Check_for_Updates": {
-    "message": "Check for updates"
+    "message": "Memeriksa pembaruan"
   },
   "Update_check_is_disabled": {
     "message": "The update check of this script is disabled or not possible"
@@ -825,7 +825,7 @@
     "message": "overwritten by user setting"
   },
   "Report_a_bug": {
-    "message": "Report a bug"
+    "message": "Laporkan bug"
   },
   "A_reload_is_required": {
     "message": "A reload is required: \nAll unsaved changes will be lost!"
@@ -911,7 +911,7 @@
     "message": "Mode Config"
   },
   "Novice": {
-    "message": "Basic"
+    "message": "Simpel"
   },
   "Beginner": {
     "message": "Pemula"
@@ -937,10 +937,10 @@
     }
   },
   "Add": {
-    "message": "Add"
+    "message": "Tambah"
   },
   "Remove": {
-    "message": "Remove"
+    "message": "Hapus"
   },
   "Includes_Excludes": {
     "message": "Includes/Excludes"
@@ -993,26 +993,8 @@
   "Sync_Type": {
     "message": "Tipe"
   },
-  "Sync_Version": {
-    "message": "Version"
-  },
-  "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
-    "message": "Unlike the 'Legacy' sync version this one synchronizes your scripts by reference to a unique ID that is created when a script is installed!\n\nThis means if you installed a script at multiple Tampermonkey instances by either another sync method or a normal script installation then this script will appear multiple times after the next sync iteration has finished.\n\nThe only way to recover is to manually remove each doubled script entry!\n\nDo you really want to continue?"
-  },
-  "Different_sync_versions_are_not_compatible_to_each_other_": {
-    "message": "Different sync versions are not compatible to each other!"
-  },
-  "Sync_Id": {
-    "message": "Id"
-  },
   "Imported": {
     "message": "Imported"
-  },
-  "Create_Exportable_Data": {
-    "message": "Create Exportable Data"
-  },
-  "Copy_exportable_data_to_clipboard_Ok_": {
-    "message": "Copy exportable TESLA data to clipboard. Ok?"
   },
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "Allow HTTP headers to be modified by scripts"
@@ -1051,7 +1033,7 @@
     "message": "Otomatis"
   },
   "__Please_choose__": {
-    "message": "-- Please choose an option --"
+    "message": "-- Silahkan pilih --"
   },
   "Enable": {
     "message": "Enable"
@@ -1063,52 +1045,52 @@
     "message": "Toggle Enable"
   },
   "Trigger_Update": {
-    "message": "Trigger Update"
+    "message": "Picu pembaruan"
   },
   "Apply_this_action_to_the_selected_scripts": {
-    "message": "Apply this to all selected scripts"
+    "message": "Terapkan ini ke semua skrip yang dipilih"
   },
   "Start": {
-    "message": "Start"
+    "message": "Mulai"
   },
   "Really_delete_the_selected_items_": {
-    "message": "Do you really want to delete the selected items?"
+    "message": "Kamu yakin untuk hapus item terpilih?"
   },
   "Really_factory_reset_the_selected_items_": {
-    "message": "Do you really want to factory reset the selected items?"
+    "message": "Kamu yakin untuk reset pabrik item terpilih?"
   },
   "Filter_by": {
-    "message": "Filter by"
+    "message": "Filter dengan"
   },
   "Matching_URL": {
-    "message": "Matching URL"
+    "message": "Menemukan URL"
   },
   "Really_factory_reset_this_script_": {
-    "message": "Do you really want to factory reset this script?"
+    "message": "Kamu yakin untuk reset pabrikan skrip ini?"
   },
   "Reset_Section": {
     "message": "Reset"
   },
   "Restart_Tampermonkey": {
-    "message": "Restart Tampermonkey"
+    "message": "Jalankan ulang Tampermonkey"
   },
   "This_will_restart_Tampermonkey_Ok_": {
     "message": "Do you really want to restart Tampermonkey?"
   },
   "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
-    "message": "Tampermonkey needs to be restarted to make this change apply.\n\nDo you want to continue?"
+    "message": "Tampermonkey meminta mulai kembali untuk menyimpan perubahan.\n\nLanjutkan?"
   },
   "Factory_Reset": {
-    "message": "Factory Reset"
+    "message": "Reset Pabrikan"
   },
   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
-    "message": "Do you really want to remove all scripts and reset all settings?"
+    "message": "Kamu yakin hapus semua skrip dan reset semua pengaturan?"
   },
-  "Chrome_Sync_Reset": {
-    "message": "Chrome Sync Reset"
+  "Sync_Reset": {
+    "message": "Sync Reset"
   },
-  "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-    "message": "Do you really want to remove all data from Google Sync?"
+  "This_will_remove_all_remote_data_from_sync_Ok_": {
+    "message": "Yakin hapus semua remote data from Sync?"
   },
   "Enable_autoSave": {
     "message": "Menyimpan konten ketika Editor kehilangan fokus"
@@ -1174,19 +1156,19 @@
     "message": "Disable Extension"
   },
   "Uninstall_Extension": {
-    "message": "Uninstall Extension"
+    "message": "Copot Ekstensi"
   },
   "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
-    "message": "What action should be done after a native userscript was imported successfully?"
+    "message": "Tindakan apa yang harus dilakukan setelah userscript asli berhasil diimpor?"
   },
   "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
-    "message": "When Tampermonkey is updated by your browser it is also re-started. Unfortunately this might break currently running scripts!\n\nSo are you sure that you don't want to be notified of updates?"
+    "message": "Ketika Tampermonkey diperbarui oleh browser Anda itu juga dimulai-ulang. Sayangnya ini mungkin dapat menganggu script! \n\nJadi, apakah Anda yakin bahwa Anda tidak ingin mendapat notifikasi pembaruan?"
   },
   "Operation_completed_successfully": {
-    "message": "Operation completed successfully"
+    "message": "Operasi berhasil diselesaikan"
   },
   "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-    "message": "All modifications are only kept until this incognito session is closed!"
+    "message": "Semua modifikasi hanya disimpan hingga sesi penyamaran ini telah ditutup!"
   },
   "_not_set_": {
     "message": "<not set>"
@@ -1195,25 +1177,25 @@
     "message": "Layout"
   },
   "User_CSS": {
-    "message": "User CSS"
+    "message": "CSS Pengguna"
   },
   "You_can_add_your_custom_CSS_rules_here_": {
-    "message": "You can add your own CSS rules for the Tampermonkey UI here. In case this breaks something you can get the default layout by appending ?layout=reset to the options page URL."
+    "message": "Anda dapat menambahkan aturan CSS Anda sendiri untuk Tampermonkey UI di sini. Dalam hal ini Anda dapat memecahkan sesuatu dengan menambahkan ?layout=reset ke halaman pilihan URL."
   },
   "Store_data_in_incognito_mode": {
     "message": "Store data in incognito mode"
   },
   "Temporary": {
-    "message": "Temporary"
+    "message": "Temporer"
   },
   "Permanent": {
-    "message": "Permanent"
+    "message": "Permanen"
   },
   "Warning": {
-    "message": "Warning"
+    "message": "Peringatan"
   },
   "Info": {
-    "message": "Info"
+    "message": "Informasi"
   },
   "Error": {
     "message": "Error"
@@ -1222,7 +1204,7 @@
     "message": "Eksternal"
   },
   "Requires": {
-    "message": "Requires"
+    "message": "Membutuhkan"
   },
   "Resources": {
     "message": "Resources"
@@ -1231,7 +1213,7 @@
     "message": "URL"
   },
   "Size": {
-    "message": "Size"
+    "message": "Ukuran"
   },
   "No_entry_found": {
     "message": "No entry found"
@@ -1240,13 +1222,13 @@
     "message": "BlackCheck"
   },
   "Script_Blacklist_Source": {
-    "message": "Script Blacklist Source"
+    "message": "Sumber Daftar hitam skrip"
   },
   "Server_And_Manual": {
     "message": "Remote + Manual"
   },
   "Only_Manual": {
-    "message": "Manual Only"
+    "message": "Hanya Manual"
   },
   "Manual_Script_Blacklist": {
     "message": "Manual Userscript and @require Blacklist"
@@ -1255,7 +1237,7 @@
     "message": "This script is blacklisted!"
   },
   "Report_an_issue_to_the_script_hoster_": {
-    "message": "Report an issue to the script hoster.\n(A user account may be required)"
+    "message": "Melaporkan masalah ke hoster script. \n(Sebuah akun pengguna mungkin diperlukan)"
   },
   "Blacklist_Severity": {
     "message": "Block From Severity Level"
@@ -1264,7 +1246,7 @@
     "message": "Menu Aksi"
   },
   "Hide_disabled_scripts": {
-    "message": "Hide disabled scripts"
+    "message": "Sembunyikan script nonaktif"
   },
   "Columns": {
     "message": "Kolom"
@@ -1273,7 +1255,7 @@
     "message": "Urutan Script"
   },
   "severity_1": {
-    "message": "1 (most secure)"
+    "message": "1 (lebih aman)"
   },
   "severity_2": {
     "message": "2"
@@ -1300,10 +1282,10 @@
     "message": "9"
   },
   "severity_10": {
-    "message": "10 (least secure)"
+    "message": "10 (paling tidak aman)"
   },
   "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
-    "message": "Your language is not supported?\nClick here to get instructions how to translate Tampermonkey?"
+    "message": "Bahasamu tidak didukung?\nCoba klik disini untuk mendapat instruksi cara menerjemahkan Tampermonkey?\n\nYour language is not supported?\nClick here to get instructions how to translate Tampermonkey?"
   },
   "Default": {
     "message": "Default"
