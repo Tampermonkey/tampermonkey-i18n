@@ -1,0 +1,462 @@
+{
+  "1": {
+    "message": "1"
+  },
+  "2": {
+    "message": "2"
+  },
+  "3": {
+    "message": "3"
+  },
+  "4": {
+    "message": "4"
+  },
+  "5": {
+    "message": "5"
+  },
+  "6": {
+    "message": "6"
+  },
+  "7": {
+    "message": "7"
+  },
+  "8": {
+    "message": "8"
+  },
+  "9": {
+    "message": "9"
+  },
+  "10": {
+    "message": "10"
+  },
+  "11": {
+    "message": "11"
+  },
+  "fatal_error": {
+    "message": "fatal error"
+  },
+  "Please_consider_a_contribution": {
+    "message": "Please send a donation"
+  },
+  "I_contributed_already": {
+    "message": "I donated already"
+  },
+  "Remind_me_later": {
+    "message": "Remind me later"
+  },
+  "I_dont_want_to_contribute": {
+    "message": "I don't want to donate"
+  },
+  "Thank_you_very_much_": {
+    "message": "Thank you very much!"
+  },
+  "Invalid_UserScript__Sry_": {
+    "message": "Invalid UserScript. Sry!"
+  },
+  "Invalid_UserScript_name__Sry_": {
+    "message": "Invalid UserScript name. Sry!"
+  },
+  "Script_name_0name0": {
+    "message": "Script name: $name$",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      }
+    }
+  },
+  "Downloaded_from_0url0": {
+    "message": "Downloaded from: $url$",
+    "placeholders": {
+      "url": {
+        "content": "$1"
+      }
+    }
+  },
+  "Please_double_check_the_native_script_import_settings__": {
+    "message": "Unable to load the UserScript!\n\nPlease double check the 'Native Script Import' settings."
+  },
+  "Name": {
+    "message": "Name"
+  },
+  "Note": {
+    "message": "Note"
+  },
+  "Installed_Version_": {
+    "message": "Installed Version"
+  },
+  "Global_Settings": {
+    "message": "Global Settings"
+  },
+  "Global_settings_import": {
+    "message": "Global settings import"
+  },
+  "This_will_overwrite_your_global_settings_": {
+    "message": "This will overwrite your global settings!"
+  },
+  "You_are_about_to_reinstall_a_UserScript_": {
+    "message": "UserScript re-installation"
+  },
+  "You_are_about_to_downgrade_a_UserScript": {
+    "message": "Attention! Userscript downgrade"
+  },
+  "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
+    "message": "The downgraded script might have problems to read its stored data!"
+  },
+  "Malicious_scripts_can_violate_your_privacy_": {
+    "message": "Malicious scripts can violate your privacy and act on your behalf!\nYou should only install scripts from sources that you trust."
+  },
+  "You_are_about_to_modify_a_UserScript_": {
+    "message": "UserScript modification"
+  },
+  "You_are_about_to_update_a_UserScript_": {
+    "message": "UserScript update"
+  },
+  "You_are_about_to_install_a_UserScript_": {
+    "message": "UserScript installation"
+  },
+  "This_script_does_not_provide_any__include_information_": {
+    "message": "This script does not provide any @include information."
+  },
+  "All_script_settings_will_be_reset_": {
+    "message": "All script settings will be reset!"
+  },
+  "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
+    "message": "The update url has changed from:\n    '$oldurl$'\n    to:\n    '$newurl$'\n",
+    "placeholders": {
+      "oldurl": {
+        "content": "$1"
+      },
+      "newurl": {
+        "content": "$2"
+      }
+    }
+  },
+  "Attention_Can_not_display_all_includes_": {
+    "message": "Attention: The include list was shortened.\nPlease check it manually!"
+  },
+  "Attention_Can_not_display_all_excludes_": {
+    "message": "Attention: The exclude list was shortened.\nPlease check it manually!"
+  },
+  "Include_s__": {
+    "message": "Include(s)"
+  },
+  "Exclude_s__": {
+    "message": "Exclude(s)"
+  },
+  "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
+    "message": "A recheck of the GreaseMonkey/FF compatibility options may be required in order to run this script."
+  },
+  "Author": {
+    "message": "Author"
+  },
+  "Description": {
+    "message": "Description"
+  },
+  "Source": {
+    "message": "Source"
+  },
+  "Install": {
+    "message": "Install"
+  },
+  "Reinstall": {
+    "message": "Reinstall"
+  },
+  "Modify": {
+    "message": "Modify"
+  },
+  "Downgrade": {
+    "message": "Downgrade"
+  },
+  "Update": {
+    "message": "Update"
+  },
+  "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
+    "message": "$name$ $version$ is available.\nPlease re-start your browser to start the update!",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      },
+      "version": {
+        "content": "$2"
+      }
+    }
+  },
+  "Process_with_Chrome": {
+    "message": "Process with the browser"
+  },
+  "Enforce": {
+    "message": "Enforce"
+  },
+  "Strict": {
+    "message": "Strict"
+  },
+  "connect_mode": {
+    "message": "@connect mode"
+  },
+  "Ask_if_unknown": {
+    "message": "Ask if unknown"
+  },
+  "Always_ask": {
+    "message": "Always ask"
+  },
+  "Casual": {
+    "message": "Casual"
+  },
+  "Allow_once": {
+    "message": "Allow once"
+  },
+  "Temporarily_allow": {
+    "message": "Temporarily allow"
+  },
+  "Always_allow": {
+    "message": "Always allow"
+  },
+  "Always_allow_domain": {
+    "message": "Always allow domain"
+  },
+  "Always_allow_all_domains": {
+    "message": "Always allow all domains"
+  },
+  "Forbid_once": {
+      "message": "Forbid once"
+  },
+  "Always_forbid": {
+      "message": "Always forbid"
+  },
+  "Always_forbid_domain": {
+      "message": "Always forbid domain"
+  },
+  "Dont_ask_again": {
+      "message": "Don't ask again"
+  },
+  "Focus_tab": {
+    "message": "Focus source tab"
+  },
+  "Skip_timeout__0seconds0_seconds_": {
+    "message": "Skip timeout ($seconds$ seconds)",
+    "placeholders": {
+      "seconds": {
+        "content": "$1"
+      }
+    }
+  },
+  "A_userscript_wants_to_access_a_cross_origin_resource_": {
+    "message": "A userscript wants to access a cross-origin resource."
+  },
+  "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
+    "message": "A request to a cross origin resource is nothing unusual.\nYou just have to check whether this script has a good reason to access this domain.\nFor example there are only a very few reasons for a userscript to contact your bank.\n\nPlease note that userscript authors can avoid this dialog by adding [url=$connect$]@connect tags[/url] to their scripts.\n\nNo matter how you'll decide, you can change your opinion at any time at the script's [url=$settings$]settings tab[/url].",
+    "placeholders": {
+      "connect": {
+        "content": "$1"
+      },
+      "settings": {
+        "content": "$2"
+      }
+    }
+  },
+  "Tab_URL": {
+    "message": "Tab URL"
+  },
+  "Destination_domain": {
+    "message": "Destination domain"
+  },
+  "Destination_URL": {
+    "message": "Destination URL"
+  },
+  "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
+    "message": "This gives this script the permission to retrieve and send data from and to every webpage. This is potentially unsafe!\n\nAre you sure you want to continue?"
+  },
+  "No_update_found__sry_": {
+    "message": "No update found, sry!"
+  },
+  "Unknown_method_0name0": {
+    "message": "Unknown method $name$",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      }
+    }
+  },
+  "No_script_is_running": {
+    "message": "No script is running"
+  },
+  "Add_new_script___": {
+    "message": "Create a new script..."
+  },
+  "Get_new_scripts___": {
+    "message": "Find new scripts..."
+  },
+  "Check_for_userscripts_updates": {
+    "message": "Check for userscript updates"
+  },
+  "Waiting_for_sync_to_finish": {
+    "message": "Waiting for sync to finish"
+  },
+  "Settings": {
+    "message": "Settings"
+  },
+  "Debug_scripts": {
+    "message": "Debug scripts"
+  },
+  "Show_fixed_source": {
+    "message": "Show fixed source"
+  },
+  "LogLevel": {
+    "message": "Logging Level"
+  },
+  "Trace": {
+    "message": "Trace"
+  },
+  "Verbose": {
+    "message": "Verbose"
+  },
+  "Debug": {
+    "message": "Debug"
+  },
+  "Installed_userscripts": {
+    "message": "Installed userscripts"
+  },
+  "No_script_is_installed": {
+    "message": "No script is installed"
+  },
+  "Get_some_scripts___": {
+    "message": "Get some scripts..."
+  },
+  "New_userscript": {
+    "message": "<New userscript>"
+  },
+  "Help": {
+    "message": "Help"
+  },
+  "Changelog": {
+    "message": "Changelog"
+  },
+  "Position_": {
+    "message": "Position"
+  },
+  "Close": {
+    "message": "Close"
+  },
+  "GM_compat_options_": {
+    "message": "GM/FF compatibility options"
+  },
+  "Comment": {
+    "message": "Comment"
+  },
+  "Details": {
+    "message": "Details"
+  },
+  "UUID": {
+    "message": "UUID"
+  },
+  "Apply_compatibility_options_to_required_script_too": {
+    "message": "Apply compatibility options to @require scripts too"
+  },
+  "Fix_wrappedJSObject_property_access": {
+    "message": "Fix wrappedJSObject property access"
+  },
+  "Convert_CDATA_sections_into_a_chrome_compatible_format": {
+    "message": "Convert CDATA sections into a browser compatible format"
+  },
+  "Fix_for_var_in_statements": {
+    "message": "Fix 'for (var j in x)' statements"
+  },
+  "Replace_for_each_statements": {
+    "message": "Replace 'for each' statements"
+  },
+  "Convert_Array_Assignements": {
+    "message": "Convert [blub, bla] = s.split(':') statements"
+  },
+  "Add_toSource_function_to_Object_Prototype": {
+    "message": "Add compatibility functions to Object and Array"
+  },
+  "Run_at": {
+    "message": "Run at"
+  },
+  "Update_URL_": {
+    "message": "Update URL"
+  },
+  "Save": {
+    "message": "Save"
+  },
+  "Cancel": {
+    "message": "Cancel"
+  },
+  "Search": {
+    "message": "Search"
+  },
+  "Replace": {
+    "message": "Replace"
+  },
+  "Jump_to_line": {
+    "message": "Jump to line"
+  },
+  "Insert_constructor": {
+    "message": "Insert constructor"
+  },
+  "Auto_Indent_all": {
+    "message": "Auto-Indent all"
+  },
+  "Search_for": {
+    "message": "Search for"
+  },
+  "Replace_all": {
+    "message": "Replace all"
+  },
+  "Replace_with": {
+    "message": "Replace with"
+  },
+  "Replace_": {
+    "message": "Replace?"
+  },
+  "There_are_unsaved_changed_": {
+    "message": "There are unsaved changes.\nDo you really want to close the editor?"
+  },
+  "Do_you_really_want_to_store_fixed_code_": {
+    "message": "The Option '$option$' is enabled!\n\nDo you really want to store the fixed source?",
+    "placeholders": {
+      "option": {
+        "content": "$1"
+      }
+    }
+  },
+  "Really_reset_all_changes_": {
+    "message": "Really reset all changes?"
+  },
+  "Please_wait___": {
+    "message": "Please wait..."
+  },
+  "Edit": {
+    "message": "Edit"
+  },
+  "Sites": {
+    "message": "Sites"
+  },
+  "Sort": {
+    "message": "Sort"
+  },
+  "Actions": {
+    "message": "Actions"
+  },
+  "Action": {
+    "message": "Action"
+  },
+  "Please_select_a_file": {
+    "message": "Please select a file"
+  },
+  "Cloud": {
+    "message": "Cloud"
+  },
+  "Import": {
+    "message": "Import"
+  },
+  "Show_backups": {
+    "message": "Show backups"
+  },
+  "Delete": {
+    "message": "Delete"
+  },
+  "Features": {
+    "message": "Features"
+  },
+  "This_
