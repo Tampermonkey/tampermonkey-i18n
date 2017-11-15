@@ -131,6 +131,12 @@
       }
     }
   },
+  "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
+    "message": "At least one of the @include, @match or @exclude statements was changed."
+  },
+  "At_least_one_new_connect_statement_was_added_": {
+     "message": "At least one new @connect statement was added."
+  },
   "Attention_Can_not_display_all_includes_": {
     "message": "Perhatian: Daftar include telah disingkat.\nSilahkan periksa secara manual!"
   },
@@ -146,6 +152,8 @@
   "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
     "message": "Sebuah recheck dari opsi kompatibilitas GreaseMonkey / FF mungkin diperlukan untuk menjalankan script ini."
   },
+   "Automatically_added_user_includes_for_compatibility_reasons_": {
+    "message": "Some user includes were automatically added for compatibility reasons!"
   "Author": {
     "message": "Pembuat / Author"
   },
@@ -783,6 +791,17 @@
   "Update_Notification": {
     "message": "Tampilkan pembaruan pemberitahuan TM"
   },
+	 "Favicon_Service": {
+    "message": "Favicon Service"
+  },
+  "Google": {
+    "message": "Google"
+  },
+  "DuckDuckGo": {
+    "message": "DuckDuckGo"
+  },
+  "Warning_unsafe_site_warnings_might_appear_": {
+    "message": "Warning: unsafe site warnings might appear if a script includes potentially harmfull URLs."
   "Unable_to_load_script_from_url_0url0": {
     "message": "Unable to load script from url: \n $url$",
     "placeholders": {
@@ -871,6 +890,9 @@
   "Highlight_trailing_whitespace": {
     "message": "Otomatis cek ukuran maksimal syntax"
   },
+  "Trim_trailing_whitespace_from_modified_lines": {
+    "message": "Trim trailing whitespace from modified lines"
+	},
   "Dashboard": {
     "message": "Dashboard"
   },
@@ -1080,6 +1102,9 @@
   "Filter_by": {
     "message": "Filter dengan"
   },
+  "Browser_Sync": {
+    "message": "Browser Sync"
+  },
   "Matching_URL": {
     "message": "Menemukan URL"
   },
@@ -1226,6 +1251,9 @@
   },
   "Resources": {
     "message": "Resources"
+  },
+  "Storage": {
+    "message": "Storage"
   },
   "URL": {
     "message": "URL"
