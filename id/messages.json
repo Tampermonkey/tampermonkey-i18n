@@ -154,7 +154,8 @@
   },
    "Automatically_added_user_includes_for_compatibility_reasons_": {
     "message": "Some user includes were automatically added for compatibility reasons!"
-  "Author": {
+  },
+	"Author": {
     "message": "Pembuat / Author"
   },
   "Description": {
