@@ -171,7 +171,7 @@
     "message": "Pembaharui"
   },
   "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
-    "message": "$name$ $version$ tersedia.\nSilahkan re-start browser untuk memperbaharui!",
+    "message": "$name$ $version$ telah tersedia.\nSilahkan re-start browser untuk memperbaharui!",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -284,7 +284,7 @@
     "message": "Bikin sebuah script..."
   },
   "Get_new_scripts___": {
-    "message": "Temukan scripts baru..."
+    "message": "Temukan script baru..."
   },
   "Check_for_userscripts_updates": {
     "message": "Periksa pembaruan userscript"
@@ -781,7 +781,7 @@
     "message": "Blacklisted by security settings"
   },
   "Update_Notification": {
-    "message": "Tampilkan pembaruan TM pemberitahuan"
+    "message": "Tampilkan pembaruan pemberitahuan TM"
   },
   "Unable_to_load_script_from_url_0url0": {
     "message": "Unable to load script from url: \n $url$",
@@ -993,8 +993,25 @@
   "Sync_Type": {
     "message": "Tipe"
   },
+   "Sync_Version": {
+    "message": "Version"
+  },
+  "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
+    "message": Berbeda dengan versi sinkronisasi 'Legacy' yang satu ini menyinkronkan skrip Anda dengan mengacu pada ID unik yang dibuat saat skrip terinstal!\n\n Ini berarti jika Anda memasang skrip pada beberapa contoh Tampermonkey dengan metode sinkronisasi lain atau skrip normal instalasi maka skrip ini akan muncul beberapa kali setelah iterasi sinkronisasi berikutnya selesai.\n\n Satu-satunya cara untuk memulihkan adalah dengan manual menghapus setiap entri script berlipat ganda!\n\n Apakah Anda benar-benar ingin melanjutkan?"  },
+	"Different_sync_versions_are_not_compatible_to_each_other_": {
+    "message": "Versi sinkronisasi yang berbeda tidak kompatibel satu sama lain!"
+  },
+  "Sync_Id": {
+    "message": "Id"
+  },
   "Imported": {
     "message": "Imported"
+  },
+ "Create_Exportable_Data": {
+    "message": "Create Exportable Data"
+  },
+  "Copy_exportable_data_to_clipboard_Ok_": {
+    "message": "Copy exportable TESLA data to clipboard. Ok?"
   },
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "Allow HTTP headers to be modified by scripts"
@@ -1129,7 +1146,7 @@
     "message": "Tampermonkey needs access to file URIs to make the script import work.\n\nClick here to visit the FAQ to learn how you can grant that permission!"
   },
   "Tampermonkey_has_no_file_access_permission_": {
-    "message": "Tampermonkey has no permission to access local files!"
+    "message": "Tampermonkey tidak memiliki izin untuk mengakses berkas lokal!"
   },
   "Everything_is_setup_correctly_": {
     "message": "Everything is setup correctly."
@@ -1153,7 +1170,7 @@
     "message": "None"
   },
   "Disable_Extension": {
-    "message": "Disable Extension"
+    "message": "Matikan Ekstensi"
   },
   "Uninstall_Extension": {
     "message": "Copot Ekstensi"
@@ -1192,7 +1209,7 @@
     "message": "Permanen"
   },
   "Warning": {
-    "message": "Warning"
+    "message": "Peringatan"
   },
   "Info": {
     "message": "Informasi"
@@ -1231,10 +1248,10 @@
     "message": "Hanya Manual"
   },
   "Manual_Script_Blacklist": {
-    "message": "Manual Userscript and @require Blacklist"
+    "message": "Manual Userscript dan @require Blacklist"
   },
   "This_script_is_blacklisted_": {
-    "message": "This script is blacklisted!"
+    "message": "Skrip telah ter-blacklist!"
   },
   "Report_an_issue_to_the_script_hoster_": {
     "message": "Melaporkan masalah ke hoster script. \n(Sebuah akun pengguna mungkin diperlukan)"
