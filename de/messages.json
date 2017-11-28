@@ -182,7 +182,7 @@
     "message": "Streng"
   },
   "connect_mode": {
-    "message": "@connect-Modus"
+    "message": "@connect-Überprüfung"
   },
   "Ask_if_unknown": {
     "message": "Nachfragen"
@@ -791,6 +791,15 @@
   "Last_updated": {
     "message": "Letzte Aktualisierung"
   },
+  "User_modified": {
+    "message": "Durch den Nutzer geändert"
+  },
+  "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
+    "message": "Dieses externe Ressource wurde durch den Nutzer verändert. Bitte löschen Sie sie, damit automatische Aktualisierungen stattfinden können."
+  },
+  "MIME_Type": {
+    "message": "MIME-Typ"
+  },
   "Version": {
     "message": "Version"
   },
@@ -989,6 +998,15 @@
   },
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "Modifikation der HTTP-Header durch Scripte erlauben"
+  },
+  "Script_local_files_access": {
+    "message": "Das Lesen von lokale Dateien durch Scripte erlauben"
+  },
+  "require_and_resource": {
+    "message": "Externals (@require und @resource)"
+  },
+  "All_local_files": {
+    "message": "Alle lokalen Dateien"
   },
   "Allow_communication_with_cooperate_pages": {
     "message": "Kommunikation mit kooperierenden Web-Seiten erlauben"

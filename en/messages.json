@@ -215,7 +215,7 @@
     "message": "Strict"
   },
   "connect_mode": {
-    "message": "@connect mode"
+    "message": "Check @connect"
   },
   "Ask_if_unknown": {
     "message": "Ask if unknown"
@@ -842,6 +842,15 @@
   "Last_updated": {
     "message": "Last updated"
   },
+  "User_modified": {
+    "message": "Modified"
+  },
+  "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
+    "message": "This external resource will not auto-update! Please delete it in order to enable updates again."
+  },
+  "MIME_Type": {
+    "message": "MIME Type"
+  },
   "Version": {
     "message": "Version"
   },
@@ -1040,6 +1049,15 @@
   },
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "Allow HTTP headers to be modified by scripts"
+  },
+  "Script_local_files_access": {
+    "message": "Allow scripts to access local files"
+  },
+  "require_and_resource": {
+    "message": "Externals (@require and @resource)"
+  },
+  "All_local_files": {
+    "message": "All local files"
   },
   "Allow_communication_with_cooperate_pages": {
     "message": "Allow communication with cooperate pages"
