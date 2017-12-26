@@ -165,13 +165,13 @@
     "message": "入手元"
   },
   "Source_Code": {
-    "message": "Source Code"
+    "message": "ソースコード"
   },
   "Changes": {
     "message": "変更"
   },
   "The_diff_for_this_script_is_too_large_to_render": {
-    "message": "The diff for this script is too large to render"
+    "message": "このスクリプトの差分(diff)は大きすぎてレンダリングできません"
   },
   "Current_Version": {
     "message": "現在のバージョン"
