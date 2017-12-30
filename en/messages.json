@@ -1303,7 +1303,7 @@
     "message": "This script is blacklisted!"
   },
   "Report_an_issue_to_the_script_hoster_": {
-    "message": "Report an issue to the script hoster.\n(A user account may be required)"
+    "message": "Report abuse.\n(A user account may be required)"
   },
   "Blacklist_Severity": {
     "message": "Block From Severity Level"

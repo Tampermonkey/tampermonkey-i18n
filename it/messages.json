@@ -846,7 +846,7 @@
     "message": "Modificato"
   },
   "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
-    "message": Questa risorsa esterna non verrà aggiornata automaticamente! Per abilitare nuovamente l'aggiornameto prima eliminala."
+    "message": "Questa risorsa esterna non verrà aggiornata automaticamente! Per abilitare nuovamente l'aggiornameto prima eliminala."
   },
   "MIME_Type": {
     "message": "Tipo MIME"
