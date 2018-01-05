@@ -1303,7 +1303,7 @@
     "message": "このスクリプトはブラックリストに入っています!"
   },
   "Report_an_issue_to_the_script_hoster_": {
-    "message": "これをスパムまたは有害として報告\n(userscripts.org のアカウントが必要)"
+    "message": "不正行為を報告。\n(userscripts.org のアカウントが必要)"
   },
   "Blacklist_Severity": {
     "message": "セキュリティ ブロックに基づくブロック"
