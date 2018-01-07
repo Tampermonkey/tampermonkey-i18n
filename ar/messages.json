@@ -45,16 +45,16 @@
         "message": "ذكرني لاحقاَ"
     },
     "I_dont_want_to_contribute": {
-        "message": "لن أتبرع"
+        "message": "لا أريد أن أتبرع"
     },
     "Thank_you_very_much_": {
         "message": "!شكرا جزيلاَ"
     },
     "Invalid_UserScript__Sry_": {
-        "message": "!ملف غير صالح"
+        "message": "ملف غير صالح! المعذرة"
     },
     "Invalid_UserScript_name__Sry_": {
-        "message": "!اسم الملف غير صالح"
+        "message": "اسم الملف غير صالح! المعذرة"
     },
     "Script_name_0name0": {
         "message": "$name$: اسم الملف",
