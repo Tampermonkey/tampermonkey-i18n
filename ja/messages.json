@@ -534,7 +534,7 @@
   },
   "some_secs": {
     "message": "数"
-  }
+  },
   "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
     "message": "競合:\nこのスクリプトは別のタブで$t$秒前に変更されました!",
     "placeholders": {
