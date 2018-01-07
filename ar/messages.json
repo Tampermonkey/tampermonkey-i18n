@@ -1,37 +1,4 @@
 {
-    "1": {
-        "message": "1"
-    },
-    "2": {
-        "message": "2"
-    },
-    "3": {
-        "message": "3"
-    },
-    "4": {
-        "message": "4"
-    },
-    "5": {
-        "message": "5"
-    },
-    "6": {
-        "message": "6"
-    },
-    "7": {
-        "message": "7"
-    },
-    "8": {
-        "message": "8"
-    },
-    "9": {
-        "message": "9"
-    },
-    "10": {
-        "message": "10"
-    },
-    "11": {
-        "message": "11"
-    },
     "fatal_error": {
         "message": "خطأ قاتل"
     },
@@ -199,9 +166,6 @@
     "Always_ask": {
         "message": "السؤال دائما"
     },
-    "Casual": {
-        "message": "Casual"
-    },
     "Allow_once": {
         "message": "اسمح مرة واحدة"
     },
@@ -346,29 +310,14 @@
     "Details": {
         "message": "تفاصيل"
     },
-    "UUID": {
-        "message": "UUID"
-    },
     "Apply_compatibility_options_to_required_script_too": {
         "message": "تطبيق خيارات التوافق على شفرات @require أيضا"
-    },
-    "Fix_wrappedJSObject_property_access": {
-        "message": "Fix wrappedJSObject property access"
     },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "تحويل أقسام CDATA إلى صيغة متوافقة مع المتصفح"
     },
-    "Fix_for_var_in_statements": {
-        "message": "Fix 'for (var j in x)' statements"
-    },
     "Replace_for_each_statements": {
         "message": "'for each' استبدال جمل"
-    },
-    "Convert_Array_Assignements": {
-        "message": "Convert [blub, bla] = s.split(':') statements"
-    },
-    "Add_toSource_function_to_Object_Prototype": {
-        "message": "Add compatibility functions to Object and Array"
     },
     "Run_at": {
         "message": "تشغيل عند"
@@ -394,9 +343,6 @@
     "Insert_constructor": {
         "message": "إدراج constructor"
     },
-    "Auto_Indent_all": {
-        "message": "Auto-Indent all"
-    },
     "Search_for": {
         "message": "البحث عن"
     },
@@ -412,14 +358,6 @@
     "There_are_unsaved_changed_": {
         "message": ".هناك تغييرات غير محفوظة\nأمتأكد من غلق المحرر؟"
     },
-    "Do_you_really_want_to_store_fixed_code_": {
-        "message": "The Option '$option$' is enabled!\n\nDo you really want to store the fixed source?",
-        "placeholders": {
-            "option": {
-                "content": "$1"
-            }
-        }
-    },
     "Really_reset_all_changes_": {
         "message": "أمتاكد من إعادة ضبط كل التغييرات؟"
     },
@@ -434,12 +372,6 @@
     },
     "Sort": {
         "message": "تصنيف"
-    },
-    "Actions": {
-        "message": "Actions"
-    },
-    "Action": {
-        "message": "Action"
     },
     "Please_select_a_file": {
         "message": "من فضلك اختر ملفا"
@@ -505,31 +437,11 @@
     "Utilities": {
         "message": "الأدوات"
     },
-    "This_script_uses_uW_gm_api_": {
-        "message": "This script uses a part of Greasemonkey 10 API (unsafeWindow.gmonkey)\nthat is not supported by Tampermonkey nor any other alternative script handler."
-    },
-    "some_secs": {
-        "message": "some"
-    },
-    "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
-        "message": "CONFLICT:\nThis script was modified by another tab $t$ second(s) ago!",
-        "placeholders": {
-            "t": {
-                "content": "$1"
-            }
-        }
-    },
     "Enabled": {
         "message": "مُمَكَّـن"
     },
     "Disabled": {
         "message": "معطّـل"
-    },
-    "Unable_to_parse_this_": {
-        "message": "Unable to parse this! :("
-    },
-    "No_backups_found": {
-        "message": "No backups found"
     },
     "An_error_occured_during_import_": {
         "message": "حصل خطأ عند التحميل."
@@ -540,37 +452,6 @@
     "TextArea": {
         "message": "منطقة الكتابة"
     },
-    "Zip": {
-        "message": "Zip"
-    },
-    "Include_script_storage": {
-        "message": "Include script storage"
-    },
-    "Include_TM_settings": {
-        "message": "Include Tampermonkey settings"
-    },
-    "File": {
-        "message": "File"
-    },
-    "There_is_an_update_for_0name0_avaiable_": {
-        "message": "There is an update for '$name$' available. :)",
-        "placeholders": {
-            "name": {
-                "content": "$1"
-            }
-        }
-    },
-    "Just_another_service_provided_by_your_friendly_script_updater_": {
-        "message": "Just another service provided by your friendly script updater"
-    },
-    "Updated_to__0version0": {
-        "message": "Updated to: $version$",
-        "placeholders": {
-            "version": {
-                "content": "$1"
-            }
-        }
-    },
     "Click_here_to_see_the_recent_changes": {
         "message": "اضغط هنا لرؤية آخر التغييرات"
     },
@@ -579,9 +460,6 @@
     },
     "Script_Update": {
         "message": "تحديث الشفرة"
-    },
-    "Check_interval": {
-        "message": "Check Interval"
     },
     "Always": {
         "message": "دائما"
@@ -607,9 +485,6 @@
     "Every_Month": {
         "message": "كل شهر"
     },
-    "Update_interval": {
-        "message": "Update Interval"
-    },
     "Editor": {
         "message": "المحرر"
     },
@@ -619,76 +494,8 @@
     "Theme": {
         "message": "المظاهر"
     },
-    "Key_Mapping": {
-        "message": "Key Mapping"
-    },
     "Windows": {
         "message": "النوافذ"
-    },
-    "Sublime": {
-        "message": "Sublime Text"
-    },
-    "Emacs": {
-        "message": "Emacs"
-    },
-    "Vim": {
-        "message": "Vim"
-    },
-    "Please_check_the_0editor0_documentation_for_more_details_": {
-        "message": "Please check the $editor$ documentation for more details.",
-        "placeholders": {
-            "editor": {
-                "content": "$1"
-            }
-        }
-    },
-    "Indentation_Width": {
-        "message": "Indentation Width"
-    },
-    "Indent_with": {
-        "message": "Indent with"
-    },
-    "Tabs": {
-        "message": "Tabs"
-    },
-    "Spaces": {
-        "message": "Spaces"
-    },
-    "TabMode": {
-        "message": "TabMode"
-    },
-    "Classic": {
-        "message": "Classic"
-    },
-    "Indent": {
-        "message": "Indent"
-    },
-    "Smart": {
-        "message": "Smart"
-    },
-    "Line_break": {
-        "message": "Line break"
-    },
-    "Reindent_on_typing": {
-        "message": "Re-indent on typing"
-    },
-    "Auto_reload_on_script_enabled": {
-        "message": "Auto reload pages"
-    },
-    "Auto_reload_on_script_enabled_desc": {
-        "message": "Reload affected pages if a script was turned on or off"
-    },
-    "Anonymous_statistics": {
-        "message": "Anonymous statistics"
-    },
-    "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-        "message": "Allow Tampermonkey to collect anonymous statistics via Google Analytics. This helps me to improve Tampermonkey and to determine on what criteria I should focus my development. Just disable this if you dislike it."
-    },
-    "Dont_ask_me_for_simple_script_updates": {
-        "message": "Don't ask me for simple script updates"
-    },
-    "Hide_notification_after": {
-        "message": "Hide notification after"
     },
     "Today": {
         "message": "اليوم"
@@ -723,36 +530,6 @@
     "Download_Mode": {
         "message": "وضع التحميل"
     },
-    "Browser_API": {
-        "message": "Browser API"
-    },
-    "The_Browser_API_mode_requires_a_special_permission_": {
-        "message": "The Browser API mode requires a special permission."
-    },
-    "Whitelisted_File_Extensions": {
-        "message": "Whitelisted File Extensions"
-    },
-    "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
-        "message": "Only files with these extensions can be saved to the harddisk.\nBe careful to not allow file extensions that represent executables at your operating system!"
-    },
-    "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
-        "message": "Your whitelist seems to include executable files!\nThis means your userscripts may download malware or spyware to your harddisk!!"
-    },
-    "Browser_API_Downloads": {
-        "message": "Browser API Downloads"
-    },
-    "Click_here_to_allow_TM_to_start_downloads": {
-        "message": "Click OK to allow Tampermonkey to start instant downloads."
-    },
-    "Page_Filter_Mode": {
-        "message": "Page Filter Mode"
-    },
-    "Whitelisted_Pages": {
-        "message": "Whitelisted Pages"
-    },
-    "Blacklisted_Pages": {
-        "message": "Blacklisted Pages"
-    },
     "Blacklist": {
         "message": "القائمة السوداء"
     },
@@ -765,49 +542,11 @@
     "Experimental": {
         "message": "تجريبي"
     },
-    "strict_mode": {
-        "message": "strict mode"
-    },
-    "Inject_Mode": {
-        "message": "Inject Mode"
-    },
     "Fast": {
         "message": "سريع"
     },
-    "Normal": {
-        "message": "Normal"
-    },
-    "This_page_is_blacklisted_at_the_security_settings": {
-        "message": "Blacklisted by security settings"
-    },
-    "Update_Notification": {
-        "message": "Show TM update notification"
-    },
-    "Unable_to_load_script_from_url_0url0": {
-        "message": "Unable to load script from url: \n $url$",
-        "placeholders": {
-            "url": {
-                "content": "$1"
-            }
-        }
-    },
-    "Click_here_to_install_it_": {
-        "message": "Click here to install it."
-    },
-    "Check_disabled_scripts": {
-        "message": "Update disabled scripts"
-    },
     "Homepage": {
         "message": "الصفحة الرئيسة"
-    },
-    "Last_updated": {
-        "message": "Last updated"
-    },
-    "Version": {
-        "message": "Version"
-    },
-    "Type": {
-        "message": "Type"
     },
     "Updates": {
         "message": "التحديثات"
@@ -815,70 +554,17 @@
     "Check_for_Updates": {
         "message": "البحث عن تحديثات"
     },
-    "Update_check_is_disabled": {
-        "message": "The update check of this script is disabled or not possible"
-    },
     "Click_here_to_move_this_script": {
         "message": "اضغط هنا لنقل الشفرة"
-    },
-    "overwritten_by_user": {
-        "message": "overwritten by user setting"
     },
     "Report_a_bug": {
         "message": "الإبلاغ عن مشكلة"
     },
-    "A_reload_is_required": {
-        "message": "A reload is required: \nAll unsaved changes will be lost!"
-    },
     "Save_to_disk": {
         "message": "حفظ على القرص"
     },
-    "Editor_reset": {
-        "message": "Editor reset"
-    },
     "Full_reset": {
         "message": "إعادة ضبط المصنع"
-    },
-    "Run_syntax_check": {
-        "message": "Run syntax check"
-    },
-    "No_syntax_errors_were_found_": {
-        "message": "No syntax errors were found."
-    },
-    "One_error_or_hint_was_found_": {
-        "message": "One error or hint was found."
-    },
-    "0count0_errors_or_hints_were_found_": {
-        "message": "$count$ errors or hints were found.",
-        "placeholders": {
-            "count": {
-                "content": "$1"
-            }
-        }
-    },
-    "Auto_syntax_check_on_typing": {
-        "message": "Automatic syntax check on typing"
-    },
-    "Enable_this_option_to_automatically_check_the_code_on_typing_": {
-        "message": "Enable this option to automatically check the code on typing."
-    },
-    "Auto_syntax_check_max_length": {
-        "message": "Automatic syntax check max size"
-    },
-    "Check_only_scripts_up_to_this_size_automatically_": {
-        "message": "Check only scripts up to this size automatically."
-    },
-    "Highlight_trailing_whitespace": {
-        "message": "Highlight trailing whitespace"
-    },
-    "Dashboard": {
-        "message": "Dashboard"
-    },
-    "Userscripts": {
-        "message": "Userscripts"
-    },
-    "Script_URL_detection": {
-        "message": "Script URL detection"
     },
     "Install_this_script": {
         "message": "تثبيت هذه الشفرة"
@@ -886,29 +572,8 @@
     "New_script_template_": {
         "message": "قالب ملف شفرة جديد"
     },
-    "Icon_badge_info": {
-        "message": "Icon Badge Info"
-    },
-    "Icon_badge_color": {
-        "message": "Icon Badge Color"
-    },
-    "On": {
-        "message": "On"
-    },
-    "Off": {
-        "message": "Off"
-    },
-    "Running_scripts": {
-        "message": "Running scripts instances"
-    },
-    "Unique_running_scripts": {
-        "message": "Unique running scripts"
-    },
     "Disabled_scripts": {
         "message": "الشفرات المعطلة"
-    },
-    "Config_Mode": {
-        "message": "Config mode"
     },
     "Novice": {
         "message": "أول مرة"
@@ -918,12 +583,6 @@
     },
     "Advanced": {
         "message": "متقدم"
-    },
-    "Changes_the_number_of_visible_config_options": {
-        "message": "Changes the number of visible config options"
-    },
-    "Language": {
-        "message": "Language"
     },
     "Enter_the_new_rule": {
         "message": "أدخل القاعدة الجديدة"
@@ -936,93 +595,6 @@
             }
         }
     },
-    "Add": {
-        "message": "Add"
-    },
-    "Remove": {
-        "message": "Remove"
-    },
-    "Includes_Excludes": {
-        "message": "Includes/Excludes"
-    },
-    "Original_includes": {
-        "message": "Original includes"
-    },
-    "Original_matches": {
-        "message": "Original matches"
-    },
-    "Original_excludes": {
-        "message": "Original excludes"
-    },
-    "User_includes": {
-        "message": "User includes"
-    },
-    "User_matches": {
-        "message": "User matches"
-    },
-    "User_excludes": {
-        "message": "User excludes"
-    },
-    "Original_domain_whitelist": {
-        "message": "Original domain whitelist"
-    },
-    "User_domain_whitelist": {
-        "message": "User domain whitelist"
-    },
-    "Temporary_domain_whitelist": {
-        "message": "Temporary domain whitelist"
-    },
-    "User_domain_blacklist": {
-        "message": "User domain blacklist"
-    },
-    "XHR_Security": {
-        "message": "XHR Security"
-    },
-    "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
-        "message": "An internal error occurred. If this problem persists even after a restart of the browser, please press OK and report this issue at the forum.\n\nDo you want to visit the Tampermonkey forum?"
-    },
-    "TESLA": {
-        "message": "TESLA"
-    },
-    "Enable_TESLA": {
-        "message": "Enable TESLA"
-    },
-    "Tampermonkey_External_Script_List_Access": {
-        "message": "Script synchronization (Tampermonkey External Script List Access)"
-    },
-    "Sync_Type": {
-        "message": "Type"
-    },
-    "Imported": {
-        "message": "Imported"
-    },
-    "Allow_headers_to_be_modified_by_scripts": {
-        "message": "Allow HTTP headers to be modified by scripts"
-    },
-    "Allow_communication_with_cooperate_pages": {
-        "message": "Allow communication with cooperate pages"
-    },
-    "Tampermonkey_and_script_version": {
-        "message": "Tampermonkey + script version"
-    },
-    "Tampermonkey_version": {
-        "message": "Tampermonkey version only"
-    },
-    "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
-        "message": "This option allows the Tampermonkey homepage and some script hosting pages to determine the Tampermonkey version and some basic script information (installed, version, enabled)."
-    },
-    "Subresource_Integrity": {
-        "message": "Subresource Integrity"
-    },
-    "Validate_if_supported": {
-        "message": "Validate if possible"
-    },
-    "Validate_if_given": {
-        "message": "Validate if given"
-    },
-    "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
-        "message": "Script authors can secure external resources by adding a SRI hash to the source URL."
-    },
     "Yes": {
         "message": "نعم"
     },
@@ -1032,41 +604,14 @@
     "Auto": {
         "message": "آلي"
     },
-    "__Please_choose__": {
-        "message": "-- Please choose an option --"
-    },
     "Enable": {
         "message": "تمكين"
     },
     "Disable": {
         "message": "تعطيل"
     },
-    "Toggle_Enable": {
-        "message": "Toggle Enable"
-    },
-    "Trigger_Update": {
-        "message": "Trigger Update"
-    },
-    "Apply_this_action_to_the_selected_scripts": {
-        "message": "Apply this to all selected scripts"
-    },
     "Start": {
         "message": "بدأ"
-    },
-    "Really_delete_the_selected_items_": {
-        "message": "Do you really want to delete the selected items?"
-    },
-    "Really_factory_reset_the_selected_items_": {
-        "message": "Do you really want to factory reset the selected items?"
-    },
-    "Filter_by": {
-        "message": "Filter by"
-    },
-    "Matching_URL": {
-        "message": "Matching URL"
-    },
-    "Really_factory_reset_this_script_": {
-        "message": "Do you really want to factory reset this script?"
     },
     "Reset_Section": {
         "message": "إعادة ضبط"
@@ -1077,149 +622,11 @@
     "This_will_restart_Tampermonkey_Ok_": {
         "message": "؟Tampermonkey أتريد بالتأكيد إعادة تشغيل"
     },
-    "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
-        "message": "Tampermonkey needs to be restarted to make this change apply.\n\nDo you want to continue?"
-    },
     "Factory_Reset": {
         "message": "إعادة ضبط المصنع"
     },
-    "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
-        "message": "Do you really want to remove all scripts and reset all settings?"
-    },
-    "Sync_Reset": {
-        "message": "Sync Reset"
-    },
     "This_will_remove_all_remote_data_from_sync_Ok_": {
         "message": "Do you really want to remove all remote data from Sync?"
-    },
-    "Enable_autoSave": {
-        "message": "Save content when editor loses focus"
-    },
-    "Enable_easySave": {
-        "message": "Don't show confirmation dialog on save"
-    },
-    "Add_TM_to_CSP": {
-        "message": "Add Tampermonkey to the site's content security policy (CSP) if there is one"
-    },
-    "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
-        "message": "Tampermonkey might not be able to provide access to the unsafe context (unsafeWindow, page's functions and variables) when this is disabled."
-    },
-    "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-        "message": "At least one part of this page is listed at the 'forbidden pages' setting!"
-    },
-    "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
-        "message": "Some scripts might be blocked by the JavaScript settings for this page or a script blocker!"
-    },
-    "Show_notification": {
-        "message": "Show a notification"
-    },
-    "Open_changelog": {
-        "message": "Open the changelog"
-    },
-    "No_frames": {
-        "message": "Run only in top frame"
-    },
-    "Native": {
-        "message": "Native"
-    },
-    "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
-        "message": "Tampermonkey needs to know the absolute path to your browser profile folder to make the script import function work.\n\nClick here to visit the FAQ to learn where this can be found!"
-    },
-    "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-        "message": "Tampermonkey needs access to file URIs to make the script import work.\n\nClick here to visit the FAQ to learn how you can grant that permission!"
-    },
-    "Tampermonkey_has_no_file_access_permission_": {
-        "message": "Tampermonkey has no permission to access local files!"
-    },
-    "Everything_is_setup_correctly_": {
-        "message": "Everything is setup correctly."
-    },
-    "TM_has_access_to_file_URIs": {
-        "message": "Tampermonkey has access to file URIs. :)"
-    },
-    "Browser_Profile_Path": {
-        "message": "Browser Profile Path"
-    },
-    "Native_Script_Import": {
-        "message": "Native Script Import"
-    },
-    "Enable_Native_Script_Import": {
-        "message": "Enable Native Script Import"
-    },
-    "Post_Import_Action": {
-        "message": "Post Import Action"
-    },
-    "None": {
-        "message": "None"
-    },
-    "Disable_Extension": {
-        "message": "Disable Extension"
-    },
-    "Uninstall_Extension": {
-        "message": "Uninstall Extension"
-    },
-    "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
-        "message": "What action should be done after a native userscript was imported successfully?"
-    },
-    "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
-        "message": "When Tampermonkey is updated by your browser it is also re-started. Unfortunately this might break currently running scripts!\n\nSo are you sure that you don't want to be notified of updates?"
-    },
-    "Operation_completed_successfully": {
-        "message": "Operation completed successfully"
-    },
-    "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-        "message": "All modifications are only kept until this incognito session is closed!"
-    },
-    "_not_set_": {
-        "message": "<not set>"
-    },
-    "Layout": {
-        "message": "Layout"
-    },
-    "User_CSS": {
-        "message": "User CSS"
-    },
-    "You_can_add_your_custom_CSS_rules_here_": {
-        "message": "You can add your own CSS rules for the Tampermonkey UI here. In case this breaks something you can get the default layout by appending ?layout=reset to the options page URL."
-    },
-    "Store_data_in_incognito_mode": {
-        "message": "Store data in incognito mode"
-    },
-    "Temporary": {
-        "message": "Temporary"
-    },
-    "Permanent": {
-        "message": "Permanent"
-    },
-    "Warning": {
-        "message": "Warning"
-    },
-    "Info": {
-        "message": "Info"
-    },
-    "Error": {
-        "message": "Error"
-    },
-    "Externals": {
-        "message": "Externals"
-    },
-    "Requires": {
-        "message": "Requires"
-    },
-    "Resources": {
-        "message": "Resources"
-    },
-    "Storage": {
-        "message": "Storage"
-    },
-    "URL": {
-        "message": "URL"
-    },
-    "Size": {
-        "message": "Size"
-    },
-    "No_entry_found": {
-        "message": "No entry found"
     },
     "BlackCheck": {
         "message": "فحص القائمة السوداء"
@@ -1242,12 +649,6 @@
     "Report_an_issue_to_the_script_hoster_": {
         "message": ".إبلاغ صاحب الشفرة بمشكلة\n(قد تحتاج لإنشاء حساب)"
     },
-    "Blacklist_Severity": {
-        "message": "Block From Severity Level"
-    },
-    "Action_Menu": {
-        "message": "Action Menu"
-    },
     "Hide_disabled_scripts": {
         "message": "إخفاء الشفرات المعطلة"
     },
@@ -1259,30 +660,6 @@
     },
     "severity_1": {
         "message": "1 (الأكثر أمانا)"
-    },
-    "severity_2": {
-        "message": "2"
-    },
-    "severity_3": {
-        "message": "3"
-    },
-    "severity_4": {
-        "message": "4"
-    },
-    "severity_5": {
-        "message": "5"
-    },
-    "severity_6": {
-        "message": "6"
-    },
-    "severity_7": {
-        "message": "7"
-    },
-    "severity_8": {
-        "message": "8"
-    },
-    "severity_9": {
-        "message": "9"
     },
     "severity_10": {
         "message": "10 (الأقل أمانا)"

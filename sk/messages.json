@@ -18,15 +18,6 @@
             }
         }
     },
-    "1": {
-        "message": "1"
-    },
-    "10": {
-        "message": "10"
-    },
-    "11": {
-        "message": "11"
-    },
     "15_Seconds": {
         "message": "15 sekundách"
     },
@@ -36,35 +27,11 @@
     "1_Minute": {
         "message": "1 minúte"
     },
-    "2": {
-        "message": "2"
-    },
-    "3": {
-        "message": "3"
-    },
     "30_Seconds": {
         "message": "30 sekundách"
     },
-    "4": {
-        "message": "4"
-    },
-    "5": {
-        "message": "5"
-    },
     "5_Minutes": {
         "message": "5 minútach"
-    },
-    "6": {
-        "message": "6"
-    },
-    "7": {
-        "message": "7"
-    },
-    "8": {
-        "message": "8"
-    },
-    "9": {
-        "message": "9"
     },
     "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
         "message": "Môže byť vyžadovaná kontrola nastavení GreaseMonkey/FF kompatibility, aby mohol byť skript spustený."
@@ -210,12 +177,6 @@
     },
     "Beginner": {
         "message": "Začiatočník"
-    },
-    "BlackCheck": {
-        "message": "BlackCheck"
-    },
-    "Blacklist": {
-        "message": "Blacklist"
     },
     "Blacklist_Severity": {
         "message": "Zakázať podľa bezpečnostnej úrovne"
@@ -379,14 +340,8 @@
     "Edit": {
         "message": "Upraviť"
     },
-    "Editor": {
-        "message": "Editor"
-    },
     "Editor_reset": {
         "message": "Zahodiť zmeny"
-    },
-    "Emacs": {
-        "message": "Emacs"
     },
     "Enable": {
         "message": "Zapnúť"
@@ -541,9 +496,6 @@
     "Include_script_storage": {
         "message": "Zahrnúť úložisko skriptov"
     },
-    "Includes_Excludes": {
-        "message": "Includes/Excludes"
-    },
     "Indent": {
         "message": "Odsadenie"
     },
@@ -623,7 +575,7 @@
         "message": "Nová šablóna skriptu"
     },
     "New_userscript": {
-        "message": "\u003CNový skript>"
+        "message": "<Nový skript>"
     },
     "No": {
         "message": "Nie"
@@ -657,9 +609,6 @@
     },
     "Off": {
         "message": "Vyp."
-    },
-    "Ok": {
-        "message": "Ok"
     },
     "On": {
         "message": "Zap."
@@ -905,9 +854,6 @@
     "Sync_Type": {
         "message": "Typ"
     },
-    "TESLA": {
-        "message": "TESLA"
-    },
     "TM_has_access_to_file_URIs": {
         "message": "Tampermonkey má prístup k URI adresám súborov. :)"
     },
@@ -1047,12 +993,6 @@
     "Type": {
         "message": "Typ"
     },
-    "URL": {
-        "message": "URL"
-    },
-    "UUID": {
-        "message": "UUID"
-    },
     "Unable_to_load_script_from_url_0url0": {
         "message": "Nie je možné načítať skript z URL: \n $url$",
         "placeholders": {
@@ -1131,9 +1071,6 @@
     "Version": {
         "message": "Verzia"
     },
-    "Vim": {
-        "message": "Vim"
-    },
     "Waiting_for_sync_to_finish": {
         "message": "Čakanie na dokončenie synchronizácie"
     },
@@ -1143,17 +1080,11 @@
     "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
         "message": "Aká akcia sa má vykonať po úspešnom importe natívneho skriptu?"
     },
-    "Whitelist": {
-        "message": "Whitelist"
-    },
     "Whitelisted_File_Extensions": {
         "message": "Povolené prípony súborov"
     },
     "Whitelisted_Pages": {
         "message": "Povolené stránky"
-    },
-    "Windows": {
-        "message": "Windows"
     },
     "XHR_Security": {
         "message": "Bezpečnosť XHR"
@@ -1189,7 +1120,7 @@
         "message": "-- Prosím, vyberte možnosť --"
     },
     "_not_set_": {
-        "message": "\u003Cnenastavené"
+        "message": "<nenastavené>"
     },
     "connect_mode": {
         "message": "@connect mód"
@@ -1205,30 +1136,6 @@
     },
     "severity_10": {
         "message": "10 (nejmenej bezpečné)"
-    },
-    "severity_2": {
-        "message": "2"
-    },
-    "severity_3": {
-        "message": "3"
-    },
-    "severity_4": {
-        "message": "4"
-    },
-    "severity_5": {
-        "message": "5"
-    },
-    "severity_6": {
-        "message": "6"
-    },
-    "severity_7": {
-        "message": "7"
-    },
-    "severity_8": {
-        "message": "8"
-    },
-    "severity_9": {
-        "message": "9"
     },
     "some_secs": {
         "message": "nejaké"
