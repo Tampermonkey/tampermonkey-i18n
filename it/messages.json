@@ -923,7 +923,7 @@
     "message": "Taglia spazi inziali finali dalle linee modificate"
   },
   "Dashboard": {
-    "message": "Bacheca"
+    "message": "Pannello di controllo"
   },
   "Userscripts": {
     "message": "Script"
@@ -1354,10 +1354,10 @@
     "message": "La tua lingua non è supportata?\nFai clic qui per sapere come tradurre Tampermonkey"
   },
   "Default": {
-    "message": "Predefinito"
+    "message": "Predefinita"
   },
   "Default_Dark": {
-    "message": "Predefinito - Scuro"
+    "message": "Predefinita - Scura"
   },
   "Ok": {
     "message": "OK"
