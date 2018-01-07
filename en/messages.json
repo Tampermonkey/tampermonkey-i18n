@@ -131,6 +131,12 @@
       }
     }
   },
+  "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
+    "message": "At least one of the @include, @match or @exclude statements was changed."
+  },
+  "At_least_one_new_connect_statement_was_added_": {
+     "message": "At least one new @connect statement was added."
+  },
   "Attention_Can_not_display_all_includes_": {
     "message": "Attention: The include list was shortened.\nPlease check it manually!"
   },
@@ -146,6 +152,9 @@
   "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
     "message": "A recheck of the GreaseMonkey/FF compatibility options may be required in order to run this script."
   },
+  "Automatically_added_user_includes_for_compatibility_reasons_": {
+    "message": "Some user includes were automatically added for compatibility reasons!"
+  },
   "Author": {
     "message": "Author"
   },
@@ -154,6 +163,21 @@
   },
   "Source": {
     "message": "Source"
+  },
+  "Source_Code": {
+    "message": "Source Code"
+  },
+  "Changes": {
+    "message": "Changes"
+  },
+  "The_diff_for_this_script_is_too_large_to_render": {
+    "message": "The diff for this script is too large to render"
+  },
+  "Current_Version": {
+    "message": "Current Version"
+  },
+  "New_Version": {
+    "message": "New Version"
   },
   "Install": {
     "message": "Install"
@@ -191,7 +215,7 @@
     "message": "Strict"
   },
   "connect_mode": {
-    "message": "@connect mode"
+    "message": "Check @connect"
   },
   "Ask_if_unknown": {
     "message": "Ask if unknown"
@@ -777,11 +801,26 @@
   "Normal": {
     "message": "Normal"
   },
+  "Instant": {
+    "message": "Instant"
+  },
   "This_page_is_blacklisted_at_the_security_settings": {
     "message": "Blacklisted by security settings"
   },
   "Update_Notification": {
     "message": "Show TM update notification"
+  },
+  "Favicon_Service": {
+    "message": "Favicon Service"
+  },
+  "Google": {
+    "message": "Google"
+  },
+  "DuckDuckGo": {
+    "message": "DuckDuckGo"
+  },
+  "Warning_unsafe_site_warnings_might_appear_": {
+    "message": "Warning: unsafe site warnings might appear if a script includes potentially harmfull URLs."
   },
   "Unable_to_load_script_from_url_0url0": {
     "message": "Unable to load script from url: \n $url$",
@@ -802,6 +841,15 @@
   },
   "Last_updated": {
     "message": "Last updated"
+  },
+  "User_modified": {
+    "message": "Modified"
+  },
+  "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
+    "message": "This external resource will not auto-update! Please delete it in order to enable updates again."
+  },
+  "MIME_Type": {
+    "message": "MIME Type"
   },
   "Version": {
     "message": "Version"
@@ -870,6 +918,9 @@
   },
   "Highlight_trailing_whitespace": {
     "message": "Highlight trailing whitespace"
+  },
+  "Trim_trailing_whitespace_from_modified_lines": {
+    "message": "Trim trailing whitespace from modified lines"
   },
   "Dashboard": {
     "message": "Dashboard"
@@ -993,29 +1044,20 @@
   "Sync_Type": {
     "message": "Type"
   },
-  "Sync_Version": {
-    "message": "Version"
-  },
-  "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
-    "message": "Unlike the 'Legacy' sync version this one synchronizes your scripts by reference to a unique ID that is created when a script is installed!\n\nThis means if you installed a script at multiple Tampermonkey instances by either another sync method or a normal script installation then this script will appear multiple times after the next sync iteration has finished.\n\nThe only way to recover is to manually remove each doubled script entry!\n\nDo you really want to continue?"
-  },
-  "Different_sync_versions_are_not_compatible_to_each_other_": {
-    "message": "Different sync versions are not compatible to each other!"
-  },
-  "Sync_Id": {
-    "message": "Id"
-  },
   "Imported": {
     "message": "Imported"
   },
-  "Create_Exportable_Data": {
-    "message": "Create Exportable Data"
-  },
-  "Copy_exportable_data_to_clipboard_Ok_": {
-    "message": "Copy exportable TESLA data to clipboard. Ok?"
-  },
   "Allow_headers_to_be_modified_by_scripts": {
     "message": "Allow HTTP headers to be modified by scripts"
+  },
+  "Script_local_files_access": {
+    "message": "Allow scripts to access local files"
+  },
+  "require_and_resource": {
+    "message": "Externals (@require and @resource)"
+  },
+  "All_local_files": {
+    "message": "All local files"
   },
   "Allow_communication_with_cooperate_pages": {
     "message": "Allow communication with cooperate pages"
@@ -1104,11 +1146,14 @@
   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
     "message": "Do you really want to remove all scripts and reset all settings?"
   },
-  "Chrome_Sync_Reset": {
-    "message": "Chrome Sync Reset"
+  "Browser_Sync": {
+    "message": "Browser Sync"
   },
-  "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-    "message": "Do you really want to remove all data from Google Sync?"
+  "Sync_Reset": {
+    "message": "Sync Reset"
+  },
+  "This_will_remove_all_remote_data_from_sync_Ok_": {
+    "message": "Do you really want to remove all data from Sync?"
   },
   "Enable_autoSave": {
     "message": "Save content when editor loses focus"
@@ -1258,7 +1303,7 @@
     "message": "This script is blacklisted!"
   },
   "Report_an_issue_to_the_script_hoster_": {
-    "message": "Report an issue to the script hoster.\n(A user account may be required)"
+    "message": "Report abuse.\n(A user account may be required)"
   },
   "Blacklist_Severity": {
     "message": "Block From Severity Level"
@@ -1310,6 +1355,9 @@
   },
   "Default": {
     "message": "Default"
+  },
+  "Default_Dark": {
+    "message": "Default - Dark"
   },
   "Ok": {
     "message": "Ok"
