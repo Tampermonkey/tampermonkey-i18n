@@ -1,0 +1,156 @@
+{
+  "fatal_error": {
+    "message": "lỗi nghiêm trọng"
+  },
+  "Please_consider_a_contribution": {
+    "message": "Vui lòng gửi một khoản đóng góp"
+  },
+  "I_contributed_already": {
+    "message": "Tôi đã đóng góp rồi"
+  },
+  "Remind_me_later": {
+    "message": "Nhắc tôi sau"
+  },
+  "I_dont_want_to_contribute": {
+    "message": "Tôi không muốn đóng góp"
+  },
+  "Thank_you_very_much_": {
+    "message": "Cảm ơn bạn rất nhiều!"
+  },
+  "Invalid_UserScript__Sry_": {
+    "message": "UserScript Không hợp lệ. Xin lỗi!"
+  },
+  "Invalid_UserScript_name__Sry_": {
+    "message": "Tên UserScript Không hợp lệ. Xin lỗi!"
+  },
+  "Script_name_0name0": {
+    "message": "Tên Script: $name$",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      }
+    }
+  },
+  "Downloaded_from_0url0": {
+    "message": "Tải từ: $url$",
+    "placeholders": {
+      "url": {
+        "content": "$1"
+      }
+    }
+  },
+  "Please_double_check_the_native_script_import_settings__": {
+    "message": "Không thể tải UserScript!\n\nVui lòng kiểm tra lại thiết lập 'Nhập Native Script'."
+  },
+  "Name": {
+    "message": "Tên"
+  },
+  "Note": {
+    "message": "Ghi chú"
+  },
+  "Installed_Version_": {
+    "message": "Phiên bản Cài đặt"
+  },
+  "Global_Settings": {
+    "message": "Thiết lập Toàn cầu"
+  },
+  "Global_settings_import": {
+    "message": "Nhập thiết lập toàn cầu"
+  },
+  "This_will_overwrite_your_global_settings_": {
+    "message": "Thao tác này sẽ ghi đè thiết lập toàn cầu của bạn!"
+  },
+  "You_are_about_to_reinstall_a_UserScript_": {
+    "message": "Cài đặt lại UserScript"
+  },
+  "You_are_about_to_downgrade_a_UserScript": {
+    "message": "Lưu ý! Hạ cấp Userscript"
+  },
+  "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
+    "message": "Script bị hạ cấp có thể gặp vấn đề khi đọc dữ liệu được lưu trữ!"
+  },
+  "Malicious_scripts_can_violate_your_privacy_": {
+    "message": "Các script độc hại có thể vi phạm quyền riêng tư của bạn và hành động thay mặt bạn!\nBạn chỉ nên cài đặt các script từ các nguồn mà bạn tin tưởng."
+  },
+  "Please_wait___": {
+    "message": "Vui lòng chờ..."
+  },
+  "Edit": {
+    "message": "Chỉnh sửa"
+  },
+  "Sites": {
+    "message": "Trang web"
+  },
+  "Sort": {
+    "message": "Phân loại"
+  },
+  "Actions": {
+    "message": "Hành động"
+  },
+  "Action": {
+    "message": "Hành động"
+  },
+  "Please_select_a_file": {
+    "message": "Vui lòng chọn một tập tin"
+  },
+  "This_script_stores_data": {
+    "message": "Tập lệnh này lưu dữ liệu vào Tampermonkey."
+  },
+  "This_script_has_access_to_https_pages": {
+    "message": "Mục này có quyền truy cập vào các trang https."
+  },
+  "One_or_more_compatibility_options_are_set": {
+    "message": "Một hoặc nhiều tùy chọn tương thích được thiết lập. Bạn có thể muốn/nên xem lại chúng."
+  },
+  "This_script_has_full_web_access": {
+    "message": "Tập lệnh này có quyền truy cập internet đầy đủ."
+  },
+  "Hide_disabled_scripts": {
+    "message": "Ẩn các tập lệnh bị tắt"
+  },
+  "Columns": {
+    "message": "Cột"
+  },
+  "Script_order": {
+    "message": "Thứ tự tập lệnh"
+  },
+  "severity_1": {
+    "message": "1 (an toàn nhất)"
+  },
+  "severity_2": {
+    "message": "2"
+  },
+  "severity_3": {
+    "message": "3"
+  },
+  "severity_4": {
+    "message": "4"
+  },
+  "severity_5": {
+    "message": "5"
+  },
+  "severity_6": {
+    "message": "6"
+  },
+  "severity_7": {
+    "message": "7"
+  },
+  "severity_8": {
+    "message": "8"
+  },
+  "severity_9": {
+    "message": "9"
+  },
+  "severity_10": {
+    "message": "10 (kém an toàn nhất)"
+  },
+  "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
+    "message": "Ngôn ngữ của bạn không được hỗ trợ?\nNhấp vào đây để nhận hướng dẫn về cách dịch Tampermonkey?"
+  },
+  "Default": {
+    "message": "Mặc định"
+  },
+  "Default_Dark": {
+    "message": "Mặc định - Tối"
+  },
+}
