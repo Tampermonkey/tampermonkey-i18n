@@ -991,7 +991,7 @@
         "message": "Tampermonkey + versione script"
     },
     "Tampermonkey_version": {
-        "message": "Slo versione Tampermonkey"
+        "message": "Solo versione Tampermonkey"
     },
     "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
         "message": "Questa opzione consente alla pagina home di Tampermonkey e ad alcune pagine di hosting di script di determinare la versione di Tampermonkey e alcune informazioni di base sullo script (installati, versione, abilitati)."
@@ -1216,7 +1216,7 @@
         "message": "Questo script è nell'elenco vietati!"
     },
     "Report_an_issue_to_the_script_hoster_": {
-        "message": "Segnala questo come spam o pericolo\n(potrebbe essere necessario un account utente)"
+        "message": "Segnala abuso\n(potrebbe essere necessario un account utente)"
     },
     "Blacklist_Severity": {
         "message": "Blocca da livello di severità"
