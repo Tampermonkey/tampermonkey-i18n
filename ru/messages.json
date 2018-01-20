@@ -66,8 +66,7 @@
     "You_are_about_to_downgrade_a_UserScript": {
         "message": "Внимание! Откат версии скрипта"
     },
-    
-"The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
+    "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
         "message": "После отката у скрипта могут возникать проблемы с чтением сохраненных раннее данных!"
     },
     "Malicious_scripts_can_violate_your_privacy_": {
@@ -99,8 +98,7 @@
             }
         }
     },
-    
-"At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
+    "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Как минимум одно из выражений @include, @match или @exclude было изменено."
     },
     "At_least_one_new_connect_statement_was_added_": {
@@ -112,15 +110,7 @@
     "Attention_Can_not_display_all_excludes_": {
         "message": "Внимание: список исключений был сокращен.\nПроверьте его вручную!"
     },
-    "Include_s__": {
-        "message": "Включённые"
-    },
-    "Exclude_s__": {
-        "message": "Исключённые"
-    },
-    
-"A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_":
- {
+    "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
         "message": "Проверьте настройки GreaseMonkey/Firefox, для запуска скрипта могут понадобиться параметры совместимости."
     },
     "Automatically_added_user_includes_for_compatibility_reasons_": {
@@ -165,9 +155,7 @@
     "Update": {
         "message": "Обновить"
     },
-    
-"0name0_0version0_is_available__Please_re_start_your_browser_to_update_":
- {
+    "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
         "message": "Доступна $version$ версия $name$.\nПожалуйста, перезапустите ваш браузер, чтобы произвести обновление!",
         "placeholders": {
             "name": {
@@ -240,9 +228,7 @@
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
         "message": "Пользовательский скрипт хочет получить доступ к стороннему ресурсу."
     },
-    
-"A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_":
- {
+    "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
         "message": "Запрос к стороннему ресурсу не является чем-то необычным.\nВы просто должны проверить, есть ли у этого скрипта достаточный повод для получения доступа к этому домену.\nНапример, у пользовательского скрипта есть очень мало причин для связи с вашим банком.\n\nОбратите внимание, что авторы могут избежать этого диалога путем добавления тега [url=$connect$]@connect[/url] к своим скриптам.\n\nНезависимо от того, что вы решите, вы в любое время можете изменить своё решение на [url=$settings$]вкладке настроек[/url] скрипта.",
         "placeholders": {
             "connect": {
@@ -262,9 +248,7 @@
     "Destination_URL": {
         "message": "URL назначения"
     },
-    
-"This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_":
- {
+    "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
         "message": "Данным действием вы разрешаете скрипту получать и отправлять данные на любой веб-сайт. Это потенциально небезопасно!\n\nВы уверены, что хотите продолжить?"
     },
     "No_update_found__sry_": {
@@ -285,7 +269,7 @@
         "message": "Добавить новый скрипт..."
     },
     "Get_new_scripts___": {
-        "message": "Получить новые скрипты..."
+        "message": "Добавить новые скрипты..."
     },
     "Check_for_userscripts_updates": {
         "message": "Проверить обновления скриптов"
@@ -347,9 +331,6 @@
     "Details": {
         "message": "Детали"
     },
-    "UUID": {
-        "message": ">>>UUID<<<"
-    },
     "Apply_compatibility_options_to_required_script_too": {
         "message": "Применять параметры совместимости и к @require скриптам"
     },
@@ -396,7 +377,7 @@
         "message": "Вставить конструктор"
     },
     "Auto_Indent_all": {
-        "message": "Авто-отступ везде"
+        "message": "Применить автоотступ"
     },
     "Search_for": {
         "message": "Искать"
@@ -458,7 +439,7 @@
         "message": "Удалить"
     },
     "Features": {
-        "message": "Возможности"
+        "message": "Разрешения"
     },
     "This_script_stores_data": {
         "message": "Этот скрипт сохраняет данные в Tampermonkey."
@@ -542,7 +523,7 @@
         "message": "Текстовое поле"
     },
     "Zip": {
-        "message": ">>>Zip<<<"
+        "message": "Zip"
     },
     "Include_script_storage": {
         "message": "Включить локальное хранилище скриптов"
@@ -579,7 +560,7 @@
         "message": "Общие"
     },
     "Script_Update": {
-        "message": "Обновление скрипта"
+        "message": "Обновление скриптов"
     },
     "Check_interval": {
         "message": "Интервал проверки"
@@ -623,18 +604,6 @@
     "Key_Mapping": {
         "message": "Переназначение клавиш"
     },
-    "Windows": {
-        "message": ">>>Windows<<<"
-    },
-    "Sublime": {
-        "message": ">>>Sublime Text<<<"
-    },
-    "Emacs": {
-        "message": ">>>Emacs<<<"
-    },
-    "Vim": {
-        "message": ">>>Vim<<<"
-    },
     "Please_check_the_0editor0_documentation_for_more_details_": {
         "message": "Пожалуйста, ознакомьтесь с документацией $editor$ для получения дополнительной информации.",
         "placeholders": {
@@ -671,7 +640,7 @@
         "message": "Разрыв строки"
     },
     "Reindent_on_typing": {
-        "message": "Выравнивание при наборе текста"
+        "message": "Выравнивание при наборе кода"
     },
     "Auto_reload_on_script_enabled": {
         "message": "Автоматическая перезагрузка страниц"
@@ -682,9 +651,7 @@
     "Anonymous_statistics": {
         "message": "Анонимная статистика"
     },
-    
-"Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics":
- {
+    "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
         "message": "Разрешить Tampermonkey собирать анонимную статистику с помощью Google Analytics. Это поможет улучшить Tampermonkey и определит его дальнейшее развитие. Отключите - если вам это не нравится!"
     },
     "Dont_ask_me_for_simple_script_updates": {
@@ -735,14 +702,10 @@
     "Whitelisted_File_Extensions": {
         "message": "Белый список расширений файлов"
     },
-    
-"Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_":
- {
+    "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
         "message": "Только файлы с этими расширениями могут быть сохранены на диск.\nБудьте осторожны и не разрешайте расширения исполняемых для вашей ОС файлов!"
     },
-    
-"Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_":
- {
+    "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
         "message": "Кажется, ваш белый список содержит расширения исполняемых файлов!\nЭто значит, что ваши пользовательские скрипты могут загружать вредоносное или шпионское ПО на ваш диск!!"
     },
     "Browser_API_Downloads": {
@@ -797,10 +760,10 @@
         "message": "Favicon-сервис"
     },
     "Google": {
-        "message": ">>>Google<<<"
+        "message": "Google"
     },
     "DuckDuckGo": {
-        "message": ">>>DuckDuckGo<<<"
+        "message": "DuckDuckGo"
     },
     "Warning_unsafe_site_warnings_might_appear_": {
         "message": "Внимание: могут появляться предупреждения о ненадежном сайте, если скрипт содержит потенциально опасные URL."
@@ -828,13 +791,11 @@
     "User_modified": {
         "message": "Изменён"
     },
-    
-"This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_":
- {
+    "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
         "message": "Этот внешний ресурс не будет обновляться автоматически! Пожалуйста, удалите его, чтобы снова включить обновления."
     },
     "MIME_Type": {
-        "message": ">>>MIME Type<<<"
+        "message": "MIME-тип"
     },
     "Version": {
         "message": "Версия"
@@ -879,10 +840,10 @@
         "message": "Синтаксических ошибок не найдено."
     },
     "One_error_or_hint_was_found_": {
-        "message": "Найдена ошибка или доступен совет."
+        "message": "Найдена одна ошибка или предупреждение."
     },
     "0count0_errors_or_hints_were_found_": {
-        "message": "$count$ ошибок или советов найдено.",
+        "message": "$count$ ошибок или предупреждений найдено.",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -978,9 +939,6 @@
     "Remove": {
         "message": "Удалить"
     },
-    "Includes_Excludes": {
-        "message": "Включения/исключения"
-    },
     "Original_includes": {
         "message": "Использовать @includes"
     },
@@ -1050,9 +1008,7 @@
     "Tampermonkey_version": {
         "message": "Только версия Tampermonkey"
     },
-    
-"This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_":
- {
+    "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
         "message": "Эта опция позволяет домашней странице Tampermonkey и некоторым скриптам определять версию Tampermonkey и базовую информацию о скриптах (какие установлены, их версии и включены ли они)."
     },
     "Subresource_Integrity": {
@@ -1064,9 +1020,7 @@
     "Validate_if_given": {
         "message": "Проверить, если указано"
     },
-    
-"Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_":
- {
+    "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
         "message": "Авторы скриптов могут защитить внешние ресурсы, добавив SRI хэш в исходные URL."
     },
     "Yes": {
@@ -1123,9 +1077,7 @@
     "This_will_restart_Tampermonkey_Ok_": {
         "message": "Вы хотите перезагрузить Tampermonkey?"
     },
-    
-"Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_":
- {
+    "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
         "message": "Необходимо перезапустить Tampermonkey, чтобы применить эти измения.\n\nВы хотите продолжить?"
     },
     "Factory_Reset": {
@@ -1152,19 +1104,13 @@
     "Add_TM_to_CSP": {
         "message": "Добавить Tampermonkey и его содержимое в политику безопасности контента сайта (CSP), если она включена"
     },
-    
-"Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled":
- {
+    "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Без этой опции Tampermonkey может запрещать доступ к небезопасному контенту (unsafeWindow, функции и переменные страницы)."
     },
-    
-"At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_":
- {
+    "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
         "message": "По крайней мере одна из частей этой страницы присутствует в настройке 'Запрещенные страницы'"
     },
-    
-"Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_":
- {
+    "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
         "message": "Некоторые скрипты могут быть заблокированы настройкой JavaScript для этой страницы или другим блокировщиком скриптов."
     },
     "Show_notification": {
@@ -1179,9 +1125,7 @@
     "Native": {
         "message": "Нативный"
     },
-    
-"Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_":
- {
+    "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
         "message": "Для работы функции импорта скриптов, Tampermonkey должен знать абсолютный путь к папке профиля браузера.\n\nНажмите здесь, чтобы посетить FAQ!"
     },
     "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
@@ -1217,9 +1161,7 @@
     "Uninstall_Extension": {
         "message": "Удалить расширение"
     },
-    
-"What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_":
- {
+    "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
         "message": "Какие действия нужно сделать после успешного импортирования нативного скрипта?"
     },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
@@ -1228,9 +1170,7 @@
     "Operation_completed_successfully": {
         "message": "Операция выполнена успешно"
     },
-    
-"All_modifications_are_only_kept_until_this_incognito_session_is_closed_":
- {
+    "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
         "message": "Все изменения сохраняются только до закрытия сессии Инкогнито!"
     },
     "_not_set_": {
@@ -1262,12 +1202,6 @@
     },
     "Error": {
         "message": "Ошибки"
-    },
-    "Externals": {
-        "message": "Внешние"
-    },
-    "Requires": {
-        "message": "Необходимая"
     },
     "Resources": {
         "message": "Ресурсы"
@@ -1323,9 +1257,7 @@
     "severity_10": {
         "message": "10 (Наименее безопасный)"
     },
-    
-"Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_":
- {
+    "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
         "message": "Ваш язык не поддерживается?\nНажмите здесь, чтобы получить инструкции о том, как перевести Tampermonkey."
     },
     "Default": {
@@ -1334,4 +1266,7 @@
     "Default_Dark": {
         "message": "По умолчанию - Тёмная"
     },
+    "Ok": {
+        "message": "Ок"
+    }
 }
