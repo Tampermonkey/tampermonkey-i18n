@@ -40,7 +40,7 @@
         }
     },
     "Please_double_check_the_native_script_import_settings__": {
-        "message": "Klarte ikke å laste inn brukerskriptet!\n\nVennligst dobbeltsjekk 'Innebygd skriptimportering'-innstillingene."
+        "message": "Klarte ikke å laste inn brukerskriptet!\n\nVennligst dobbeltsjekk 'Innebygd skriptimport'-innstillingene."
     },
     "Name": {
         "message": "Navn"
@@ -67,10 +67,10 @@
         "message": "Advarsel! Nedgradering av et brukerskript"
     },
     "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
-        "message": "Det nedgraderte skriptet kan ha problemer med å lese inn sine lagrede dataer!"
+        "message": "Det nedgraderte skriptet kan ha problemer med å lese inn sine lagrede data!"
     },
     "Malicious_scripts_can_violate_your_privacy_": {
-        "message": "Fiendtlige skripter kan tråkke over privatlivet ditt og utføre ting på vegne av deg!\nDu bør kun installere skripter fra kilder som du stoler på."
+        "message": "Fiendtlige skript kan invadere privatlivet ditt og utføre ting på vegne av deg!\nDu bør kun installere skript fra kilder som du stoler på."
     },
     "You_are_about_to_modify_a_UserScript_": {
         "message": "Brukerskriptredigering"
@@ -211,7 +211,7 @@
         "message": "Et brukerskript ønsker å få tilgang til en flerkildet ressurs."
     },
     "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
-        "message": "En forespørsel til en flerkildet ressurs er ikke noe uvanlig.\nDu må bare sjekke hvorvidt dette skriptet har en god grunn til å ha tilgang til dette domenet.\nFor eksempel er det veldig få grunner til at et brukerskript vil ønske å kontakte banken din.\n\nVennligst bemerk at brukerskriptskaperne kan unngå denne dialogen ved å legge til [url=$connect$]@connect-merkinger[/url] til skriptene sine.\n\nUansett hva du velger, kan du endre valget ditt til enhver tid i skriptets [url=$settings$]innstillingsfane[/url].",
+        "message": "En forespørsel til en flerkildet ressurs (CORS) er ikke noe uvanlig.\nDu må bare sjekke hvorvidt dette skriptet har en god grunn til å ha tilgang til dette domenet.\nFor eksempel er det veldig få grunner til at et brukerskript vil ønske å kontakte banken din.\n\nVennligst bemerk at brukerskriptskaperne kan unngå denne dialogen ved å legge til [url=$connect$]@connect-merkinger[/url] til skriptene sine.\n\nUansett hva du velger, kan du endre valget ditt til enhver tid i skriptets [url=$settings$]innstillingsfane[/url].",
         "placeholders": {
             "connect": {
                 "content": "$1"
@@ -245,13 +245,13 @@
         }
     },
     "No_script_is_running": {
-        "message": "Det er ingen skripter som kjører"
+        "message": "Det er ingen skript som kjører"
     },
     "Add_new_script___": {
         "message": "Opprett et nytt skript..."
     },
     "Get_new_scripts___": {
-        "message": "Let etter nye skripter..."
+        "message": "Let etter nye skript..."
     },
     "Check_for_userscripts_updates": {
         "message": "Søk etter brukerskriptoppdateringer"
@@ -263,7 +263,7 @@
         "message": "Innstillinger"
     },
     "Debug_scripts": {
-        "message": "Avlusingsskripter"
+        "message": "Avlusingsskript"
     },
     "Show_fixed_source": {
         "message": "Vis den fastsatte kilden"
@@ -281,13 +281,13 @@
         "message": "Avlusing"
     },
     "Installed_userscripts": {
-        "message": "Installerte brukerskripter"
+        "message": "Installerte brukerskript"
     },
     "No_script_is_installed": {
-        "message": "Ingen skripter har blitt installert"
+        "message": "Ingen skript har blitt installert"
     },
     "Get_some_scripts___": {
-        "message": "Let etter skripter..."
+        "message": "Let etter skript..."
     },
     "New_userscript": {
         "message": "<Nytt brukerskript>"
@@ -359,7 +359,7 @@
         "message": "Sett inn en konstruktør"
     },
     "Auto_Indent_all": {
-        "message": "Auto-indentér alle"
+        "message": "Auto-innrykk på alt"
     },
     "Search_for": {
         "message": "Søk etter"
@@ -430,22 +430,22 @@
         "message": "Denne gjenstanden har tilgang til HTTPS-nettsider."
     },
     "One_or_more_compatibility_options_are_set": {
-        "message": "Én eller flere kompatibilitetsinnstillinger har blitt valgt. Du kan ville ønske å gå gjennom dem."
+        "message": "Én eller flere kompatibilitetsinnstillinger har blitt valgt. Kanskje du vil se gjennom dem."
     },
     "This_script_has_full_web_access": {
-        "message": "Dette skriptet har full internetttilgang."
+        "message": "Dette skriptet har full Internett-tilgang."
     },
     "This_is_a_system_script": {
         "message": "Dette er et systemskript."
     },
     "This_is_a_chrome_extension": {
-        "message": "Dette er en nettleserutvidelse"
+        "message": "Dette er en nettleserutvidelse."
     },
     "This_script_runs_in_Chrome_mode": {
-        "message": "Dette skriptet kjører i Chrome-modus"
+        "message": "Dette skriptet kjører i Chrome-modus."
     },
     "This_is_a_userscript": {
-        "message": "Dette er et brukerskript som har blitt skrevet i Javascript"
+        "message": "Dette er et brukerskript som har blitt skrevet i Javascript."
     },
     "Really_import_0name0__": {
         "message": "Vil du virkelig importere '$name$'-skriptet?",
@@ -456,7 +456,7 @@
         }
     },
     "Really_delete_0name0__": {
-        "message": "Ønsker du virkelig å slette '$name$'?",
+        "message": "Vil du virkelig slette '$name$'?",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -464,7 +464,7 @@
         }
     },
     "This_script_has_access_to_webpage_scripts": {
-        "message": "Dette skriptet har tilgang til nettsideskripter."
+        "message": "Dette skriptet har tilgang til nettsideskript."
     },
     "Utilities": {
         "message": "Verktøy"
@@ -476,7 +476,7 @@
         "message": "noen"
     },
     "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
-        "message": "KONFLIKT:\nDette skriptet ble endret på av en annen fane for $t$ second(s) siden!",
+        "message": "KONFLIKT:\nDette skriptet ble endret i en annen fane for $t$ sekund(er) siden!",
         "placeholders": {
             "t": {
                 "content": "$1"
@@ -490,13 +490,13 @@
         "message": "Deaktivert"
     },
     "Unable_to_parse_this_": {
-        "message": "Klarte ikke å parse dette! :("
+        "message": "Klarte ikke å tolke dette! :("
     },
     "No_backups_found": {
         "message": "Ingen sikkerhetskopier ble funnet"
     },
     "An_error_occured_during_import_": {
-        "message": "En feil oppstod under importeringen.."
+        "message": "En feil oppstod under importen."
     },
     "Export": {
         "message": "Eksporter"
@@ -578,7 +578,7 @@
         "message": "Redigeringer"
     },
     "Font_Size": {
-        "message": "Skrifttypestørrelse"
+        "message": "Skriftstørrelse"
     },
     "Theme": {
         "message": "Tema"
@@ -598,10 +598,10 @@
         }
     },
     "Indentation_Width": {
-        "message": "Indenteringsbredden"
+        "message": "Innrykksbredden"
     },
     "Indent_with": {
-        "message": "Indentér med"
+        "message": "Innrykk med"
     },
     "Tabs": {
         "message": "Faner"
@@ -619,7 +619,7 @@
         "message": "Linjebryting"
     },
     "Reindent_on_typing": {
-        "message": "Gjenindentér når det skrives"
+        "message": "Innrykk når det skrives"
     },
     "Auto_reload_on_script_enabled": {
         "message": "Auto-ominnlast sider"
@@ -631,10 +631,10 @@
         "message": "Anonyme statistikker"
     },
     "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-        "message": "Tillat Tampermonkey å samle inn anonyme statistikker gjennom Google Analytics. Dette gjøre det mulig for meg å forbedre Tampermonkey og å avgjøre hvilke ting jeg burde fokusere utviklingen min på. Det er bare å deaktivere dette dersom du ikke liker det."
+        "message": "Tillat Tampermonkey å samle inn anonyme statistikker gjennom Google Analytics. Dette gjør det mulig for meg å forbedre Tampermonkey og å avgjøre hvilke ting jeg burde fokusere utviklingen min på. Det er bare å deaktivere dette dersom du ikke liker det."
     },
     "Dont_ask_me_for_simple_script_updates": {
-        "message": "Ikke spør meg angående enkle skriptoppdateringer"
+        "message": "Ikke spør meg om enkle skriptoppdateringer"
     },
     "Hide_notification_after": {
         "message": "Skjul bemerkninger etter"
@@ -682,10 +682,10 @@
         "message": "Godkjente filutvidelser"
     },
     "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
-        "message": "Kun filer med disse utvidelsene kan bli lagret til harddisken.\nVær forsiktig med å godkjenne filutivdelser som representer eksekverbare filer i systemet ditt!"
+        "message": "Kun filer med disse utvidelsene kan bli lagret til harddisken.\nVær forsiktig med å godkjenne filutvidelser som representer kjørbare filer i systemet ditt!"
     },
     "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
-        "message": "Din liste over godkjenninger ser til å inkludere eksekverbare filer!\nDette betyr at brukerskriptene kan laste ned søppelprogrammer eller spionprogrammer på harddisken din!!"
+        "message": "Din liste over godkjenninger ser til å inkludere kjørbare filer!\nDette betyr at brukerskriptene kan laste ned søppelprogrammer eller spionprogrammer på harddisken din!"
     },
     "Browser_API_Downloads": {
         "message": "Nettleser-API-nedlastninger"
@@ -697,7 +697,7 @@
         "message": "Sidefiltreringsmodus"
     },
     "Whitelisted_Pages": {
-        "message": "Godkjente sider"
+        "message": "Hvitelistede sider"
     },
     "Blacklisted_Pages": {
         "message": "Svartelistede sider"
@@ -706,7 +706,7 @@
         "message": "Svarteliste"
     },
     "Whitelist": {
-        "message": "Godkjenningsliste"
+        "message": "Hviteliste"
     },
     "Both": {
         "message": "Begge deler"
@@ -741,13 +741,13 @@
         "message": "Klikk her for å installere den."
     },
     "Check_disabled_scripts": {
-        "message": "Oppdater deaktiverte skripter"
+        "message": "Oppdater deaktiverte skript"
     },
     "Homepage": {
         "message": "Hjemmesiden"
     },
     "Last_updated": {
-        "message": "Senest oppdatert"
+        "message": "Sist oppdatert"
     },
     "Version": {
         "message": "Versjon"
@@ -759,7 +759,7 @@
         "message": "Søk etter oppdateringer"
     },
     "Update_check_is_disabled": {
-        "message": "Oppdateringssøkingen av dette skriptet har blitt deaktivert eller umuliggjort."
+        "message": "Oppdateringssøket for dette skriptet har blitt deaktivert eller umuliggjort."
     },
     "Click_here_to_move_this_script": {
         "message": "Klikk her for å flytte dette skriptet"
@@ -786,13 +786,13 @@
         "message": "Kjør syntakssjekker"
     },
     "No_syntax_errors_were_found_": {
-        "message": "Ingen syntaksfeil ble funnet."
+        "message": "Fant ingen syntaksfeil."
     },
     "One_error_or_hint_was_found_": {
-        "message": "Én feil eller hint ble funnet."
+        "message": "Fan én feil eller hint."
     },
     "0count0_errors_or_hints_were_found_": {
-        "message": "$count$ feil eller hint ble funnet.",
+        "message": "Fant $count$ feil eller hint.",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -809,16 +809,16 @@
         "message": "Den automatiske synstakssjekkens maksstørrelse"
     },
     "Check_only_scripts_up_to_this_size_automatically_": {
-        "message": "Sjekk kun skripter opptil denne størrelsen automatisk.."
+        "message": "Sjekk kun skript opptil denne størrelsen automatisk"
     },
     "Highlight_trailing_whitespace": {
-        "message": "Fremhev sporets tomrom"
+        "message": "Fremhev etterfølgende mellomrom"
     },
     "Dashboard": {
         "message": "Hovedmeny"
     },
     "Userscripts": {
-        "message": "Brukerskripter"
+        "message": "Brukerskript"
     },
     "Script_URL_detection": {
         "message": "Oppdaging av skriptnettadresse"
@@ -845,10 +845,10 @@
         "message": "Kjørende skriptinstanser"
     },
     "Unique_running_scripts": {
-        "message": "Unike kjørende skripter"
+        "message": "Unike kjørende skript"
     },
     "Disabled_scripts": {
-        "message": "Deaktiverte skripter"
+        "message": "Deaktiverte skript"
     },
     "Config_Mode": {
         "message": "Oppsettsmodus"
@@ -907,13 +907,13 @@
         "message": "Brukerekskluderinger"
     },
     "Original_domain_whitelist": {
-        "message": "Opprinnelig domenegodkjenningsliste"
+        "message": "Opprinnelig domenehviteliste"
     },
     "User_domain_whitelist": {
-        "message": "Bruker-domenegodkjenningsliste"
+        "message": "Bruker-domenehviteliste"
     },
     "Temporary_domain_whitelist": {
-        "message": "Midlertidig domenegodkjenningsliste"
+        "message": "Midlertidig domenehviteliste"
     },
     "User_domain_blacklist": {
         "message": "Bruker-domenesvarteliste"
@@ -934,7 +934,7 @@
         "message": "Importert"
     },
     "Allow_headers_to_be_modified_by_scripts": {
-        "message": "Tillat at HTTP-utvidelser blir modifisert av skripter"
+        "message": "Tillat at HTTP-utvidelser blir modifisert av skript"
     },
     "Allow_communication_with_cooperate_pages": {
         "message": "Tillat kommunikasjon med samarbeidssider"
@@ -1018,7 +1018,7 @@
         "message": "Fullstendig tilbakestilling"
     },
     "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
-        "message": "Vil du virkelig fjerne alle skripter og tilbakestille alle innstillinger?"
+        "message": "Vil du virkelig fjerne alle skript og tilbakestille alle innstillinger?"
     },
     "Sync_Reset": {
         "message": "Synkroniseringstilbakestilling"
@@ -1033,7 +1033,7 @@
         "message": "Ikke vis bekreftelsesdialog ved lagring"
     },
     "Add_TM_to_CSP": {
-        "message": "Legg til Tampermonkey i sidens innholdssikkerhetsretningslinjeliste (CSP) hvis den finnes"
+        "message": "Legg til Tampermonkey i sidens retningslinjeliste for innholdssikkerhet (CSP) hvis den finnes"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Tampermonkey kan muligens ikke skaffe tilgang til den usikre sammenhengen ('unsafeWindow', en sides funksjoner, og variablene) dersom dette er deaktivert."
@@ -1042,7 +1042,7 @@
         "message": "Minst én del av denne siden er listet oppi 'Forbudte sider'-innstillingene!"
     },
     "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
-        "message": "Noen skripter kan være blokkert av JavaScript-innstillingene på denne siden eller av en skriptblokkerer!"
+        "message": "Noen skript kan være blokkert av Javascript-innstillingene på denne siden eller av en skriptblokkerer!"
     },
     "Show_notification": {
         "message": "Vis en bemerkning"
@@ -1054,19 +1054,19 @@
         "message": "Kjør kun i topprammen"
     },
     "Native": {
-        "message": "Naturlig"
+        "message": "Innebygget"
     },
     "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
-        "message": "Tampermonkey må vite den fullstendinge filbanen til din nettleserprofilmappe for at skriptimporteringsfunksjonen skal fungere.\n\nKlikk her for å besøke FAQ-siden og lære hvor denne mappen kan bli funnet!"
+        "message": "Tampermonkey må vite den fullstendinge filbanen til nettleserprofilmappen din for at skriptimporten skal virke.\n\nKlikk her for å besøke FAQ-siden og lære hvor denne mappen kan bli funnet!"
     },
     "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-        "message": "Tampermonkey må ha tilgang til fil-URİene for at skriptimporteringen skal virke.\n\nKlikk her for å besøke FAQ-siden og lære hvordan du skal gi den den rette tilgangen!"
+        "message": "Tampermonkey må ha tilgang til fil-URİene for at skriptimporten skal virke.\n\nKlikk her for å besøke FAQ-siden og lære hvordan du gir den den rette tilgangen!"
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey har ikke adgang til de lokale filene!"
     },
     "Everything_is_setup_correctly_": {
-        "message": "Alt har blitt satt opp riktig!."
+        "message": "Alt har blitt satt opp riktig!"
     },
     "TM_has_access_to_file_URIs": {
         "message": "Tampermonkey har tilgang til fil-URİene. :)"
@@ -1075,13 +1075,13 @@
         "message": "Nettleserprofilens filbane"
     },
     "Native_Script_Import": {
-        "message": "Innebygd skriptimportering"
+        "message": "Innebygd skriptimport"
     },
     "Enable_Native_Script_Import": {
-        "message": "Aktiver innebygds skriptimportering"
+        "message": "Aktiver innebygds skriptimport"
     },
     "Post_Import_Action": {
-        "message": "Handling etter importering"
+        "message": "Handling etter import"
     },
     "None": {
         "message": "Ingen"
@@ -1093,7 +1093,7 @@
         "message": "Avinstaller utvidelsen"
     },
     "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
-        "message": "Hva skal gjøres etter at et naturlig brukerskript ble importert med suksess?"
+        "message": "Hva skal gjøres etter at et innebygget brukerskript ble importert med suksess?"
     },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Når Tampermonkey blir oppdatert av nettleseren din, blir den også startet på nytt. Dessverre kan det også knekke de skriptene som kjører på det tidspunktet!\n\nSå, er du sikker på at du ikke vil bli fortalt om oppdateringer?"
@@ -1114,7 +1114,7 @@
         "message": "Bruker-CSS"
     },
     "You_can_add_your_custom_CSS_rules_here_": {
-        "message": "Du kan legge til dine egne CSS-regler for Tampermonkeys grensesnitt her. I tilfelle dette knekker noe, kan du hente standardoppsettet ved å føye ?layout=reset til innstillingssidens nettadresse."
+        "message": "Du kan legge til dine egne CSS-regler for Tampermonkeys grensesnitt her. I tilfelle dette ødelegger noe, kan du hente standardoppsettet ved å føye ?layout=reset til innstillingssidens nettadresse."
     },
     "Store_data_in_incognito_mode": {
         "message": "Lagre data i inkognitomodus"
@@ -1129,7 +1129,7 @@
         "message": "Feil"
     },
     "Externals": {
-        "message": "Eksterne ting"
+        "message": "Eksternt"
     },
     "Requires": {
         "message": "Krever"
@@ -1168,16 +1168,16 @@
         "message": "Dette skriptet er svartelistet!"
     },
     "Report_an_issue_to_the_script_hoster_": {
-        "message": "Meld fra om en feil til skriptsverten\n(En brukerkonto kan kanskje være påkrevd)"
+        "message": "Meld fra om en feil til skript-verten\n(En brukerkonto kan kanskje være påkrevd)"
     },
     "Blacklist_Severity": {
-        "message": "Blokker utifra sikkerhetsnivå"
+        "message": "Blokker ut fra sikkerhetsnivå"
     },
     "Action_Menu": {
         "message": "Handlingsmeny"
     },
     "Hide_disabled_scripts": {
-        "message": "Skjul deaktiverte skripter"
+        "message": "Skjul deaktiverte skript"
     },
     "Columns": {
         "message": "Kolonner"
@@ -1189,10 +1189,10 @@
         "message": "1 (mest sikkert)"
     },
     "severity_10": {
-        "message": "10 (Minst sikkert)"
+        "message": "10 (minst sikkert)"
     },
     "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
-        "message": "Er ikke språket ditt støttet?\nKlikk her for å få instruksjoner om hvordan man oversetter Tampermonkey."
+        "message": "Er ikke språket ditt støttet?\nKlikk her for instruksjoner om hvordan oversette Tampermonkey."
     },
     "Default": {
         "message": "Standard"
