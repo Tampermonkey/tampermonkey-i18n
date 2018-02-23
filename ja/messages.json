@@ -353,7 +353,7 @@
     "Search_for": {
         "message": "検索文字列"
     },
-    "Replace_all": {
+    "Replace_all_with": {
         "message": "すべて置換"
     },
     "Replace_with": {

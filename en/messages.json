@@ -424,7 +424,7 @@
   "Search_for": {
     "message": "Search for"
   },
-  "Replace_all": {
+  "Replace_all_with": {
     "message": "Replace all"
   },
   "Replace_with": {
@@ -864,7 +864,7 @@
     "message": "Check for updates"
   },
   "Update_check_is_disabled": {
-    "message": "The update check of this script is disabled or not possible"
+    "message": "Script update check is disabled or not possible"
   },
   "Click_here_to_move_this_script": {
     "message": "Click here to move this script"
@@ -1361,5 +1361,218 @@
   },
   "Ok": {
     "message": "Ok"
+  },
+  "Developer": {
+    "message": "Developer"
+  },
+  "Templates": {
+     "message": "Templates"
+  },
+  "Undo": {
+    "message": "Undo"
+  },
+  "Redo": {
+    "message": "Redo"
+  },
+  "Cut": {
+    "message": "Cut"
+  },
+  "Copy": {
+    "message": "Copy"
+  },
+  "Paste": {
+    "message": "Paste"
+  },
+  "Select_All": {
+    "message": "Select All"
+  },
+  "Toggle_Comment": {
+    "message": "Toggle Comment"
+  },
+  "Toggle_Block_Comment": {
+    "message": "Toggle Block Comment"
+  },
+  "Replace_All": {
+    "message": "Replace All"
+  },
+  "Lines": {
+    "message": "Lines"
+  },
+  "Indent_Less": {
+    "message": "Indent Less"
+  },
+  "Indent_More": {
+    "message": "Indent More"
+  },
+  "Move_Line_Up": {
+    "message": "Move Line Up"
+  },
+  "Move_Line_Down": {
+    "message": "Move Line Down"
+  },
+  "Duplicate_Lines": {
+    "message": "Duplicate Lines"
+  },
+  "Delete_Line": {
+    "message": "Delete Line"
+  },
+  "Join_Lines": {
+    "message": "Join Lines"
+  },
+  "Insert_Line_Before": {
+    "message": "Insert Line Before"
+  },
+  "Insert_Line_After": {
+    "message": "Insert Line After"
+  },
+  "Text": {
+    "message": "Text"
+  },
+  "Upper_Case": {
+    "message": "Upper Case"
+  },
+  "Lower_Case": {
+    "message": "Lower Case"
+  },
+  "Delete_Line_Left": {
+    "message": "Delete Line Left"
+  },
+  "Delete_Line_Right": {
+    "message": "Delete Line Right"
+  },
+  "Delete_to_Previous_Word_Boundary": {
+    "message": "Delete to Previous Word Boundary"
+  },
+  "Delete_to_Next_Word_Boundary": {
+    "message": "Delete to Next Word Boundary"
+  },
+  "Transpose": {
+    "message": "Transpose"
+  },
+  "Line_Case_Insensitive": {
+    "message": "Line Case Insensitive"
+  },
+  "Folding": {
+    "message": "Folding"
+  },
+  "Fold": {
+    "message": "Fold"
+  },
+  "Unfold": {
+    "message": "Unfold"
+  },
+  "Fold_All": {
+    "message": "Fold All"
+  },
+  "Unfold_All": {
+    "message": "Unfold All"
+  },
+  "Sublime_Mark": {
+    "message": "Sublime Mark"
+  },
+  "Set_Sublime_Mark": {
+    "message": "Set Sublime Mark"
+  },
+  "Select_to_Sublime_Mark": {
+    "message": "Select to Sublime Mark"
+  },
+  "Swap_with_Sublime_Mark": {
+    "message": "Swap with Sublime Mark"
+  },
+  "Delete_to_Sublime_Mark": {
+    "message": "Delete to Sublime Mark"
+  },
+  "Yank_Sublime_Mark": {
+    "message": "Yank Sublime Mark"
+  },
+  "Selection": {
+    "message": "Selection"
+  },
+  "Incremental_Find": {
+    "message": "Incremental Find"
+  },
+  "Add_Selection_Above": {
+    "message": "Add Selection Above"
+  },
+  "Add_Selection_Below": {
+    "message": "Add Selection Below"
+  },
+  "Split_into_Lines": {
+    "message": "Split into Lines"
+  },
+  "Select_Line": {
+    "message": "Select Line"
+  },
+  "Select_Scope": {
+    "message": "Select Scope"
+  },
+  "Select_Bookmarks": {
+    "message": "Select Bookmarks"
+  },
+  "Select_between_Brackets": {
+    "message": "Select between Brackets"
+  },
+  "Select_Next_Occurrence": {
+    "message": "Select Next Occurrence"
+  },
+  "Find": {
+    "message": "Find"
+  },
+  "Find_Next": {
+    "message": "Find Next"
+  },
+  "Find_Previous": {
+    "message": "Find Previous"
+  },
+  "Find_Under": {
+    "message": "Find Under"
+  },
+  "Find_All_Under": {
+    "message": "Find All Under"
+  },
+  "Find_Under_Previous": {
+    "message": "Find Under Previous"
+  },
+  "GoTo": {
+    "message": "GoTo"
+  },
+  "Document_Start": {
+    "message": "Document Start"
+  },
+  "Document_End": {
+    "message": "Document End"
+  },
+  "Group_Left": {
+    "message": "Group Left"
+  },
+  "Group_Right": {
+    "message": "Group Right"
+  },
+  "Closing_Bracket": {
+    "message": "Closing Bracket"
+  },
+  "Line_Up": {
+    "message": "Line Up"
+  },
+  "Line_Down": {
+    "message": "Line Down"
+  },
+  "Center_Cursor": {
+    "message": "Center Cursor"
+  },
+  "Bookmarks": {
+    "message": "Bookmarks"
+  },
+  "Toggle": {
+    "message": "Toggle"
+  },
+  "Clear_All": {
+    "message": "Clear All"
+  },
+  "Next_Bookmark": {
+    "message": "Next Bookmark"
+  },
+  "Prev_Bookmark": {
+    "message": "Prev Bookmark"
   }
 }
