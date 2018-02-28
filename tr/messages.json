@@ -64,7 +64,7 @@
         "message": "Kullanıcı betiğini tekrar yükle"
     },
     "You_are_about_to_downgrade_a_UserScript": {
-        "message": "Dikkat! Kullnıcı betiği sürüm düşürme"
+        "message": "Dikkat! Kullnıcı betiği sürümü düşürülüyor"
     },
     "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
         "message": "Düşürülen betik saklanan verileri okumakta zorluk çekebilir!"
