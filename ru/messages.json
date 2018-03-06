@@ -67,7 +67,7 @@
         "message": "Внимание! Откат версии скрипта"
     },
     "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
-        "message": "После отката у скрипта могут возникать проблемы с чтением сохраненных раннее данных!"
+        "message": "После отката у скрипта могут возникать проблемы с чтением сохранённых раннее данных!"
     },
     "Malicious_scripts_can_violate_your_privacy_": {
         "message": "Вредоносные скрипты могут украсть ваши личные данные и даже действовать от вашего имени!\nУстанавливайте скрипты только из доверенных источников!"
@@ -105,10 +105,10 @@
         "message": "Добавлено как минимум одно выражение @connect."
     },
     "Attention_Can_not_display_all_includes_": {
-        "message": "Внимание: список включений был сокращен.\nПроверьте его вручную!"
+        "message": "Внимание: список включений был сокращён.\nПроверьте его вручную!"
     },
     "Attention_Can_not_display_all_excludes_": {
-        "message": "Внимание: список исключений был сокращен.\nПроверьте его вручную!"
+        "message": "Внимание: список исключений был сокращён.\nПроверьте его вручную!"
     },
     "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
         "message": "Проверьте настройки GreaseMonkey/Firefox, для запуска скрипта могут понадобиться параметры совместимости."
@@ -275,7 +275,7 @@
         "message": "Проверить обновления скриптов"
     },
     "Waiting_for_sync_to_finish": {
-        "message": "Ожидаем окончания синхронизации"
+        "message": "Ожидаем окончание синхронизации"
     },
     "Settings": {
         "message": "Настройки"
@@ -448,7 +448,7 @@
         "message": "Этот скрипт имеет доступ к HTTPS страницам."
     },
     "One_or_more_compatibility_options_are_set": {
-        "message": "Включены один или несколько параметров совместимости. Возможно, вы захотите/должны их просмотреть."
+        "message": "Включены один или несколько параметров совместимости. Вам сто́ит их просмотреть."
     },
     "This_script_has_full_web_access": {
         "message": "Этот скрипт имеет полный доступ в интернет"
@@ -646,13 +646,13 @@
         "message": "Автоматическая перезагрузка страниц"
     },
     "Auto_reload_on_script_enabled_desc": {
-        "message": "Обновить страницы для которых скрипт был включен/отключен"
+        "message": "Обновить страницы, для которых скрипт был включен/отключен"
     },
     "Anonymous_statistics": {
         "message": "Анонимная статистика"
     },
     "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-        "message": "Разрешить Tampermonkey собирать анонимную статистику с помощью Google Analytics. Это поможет улучшить Tampermonkey и определит его дальнейшее развитие. Отключите - если вам это не нравится!"
+        "message": "Разрешить Tampermonkey собирать анонимную статистику с помощью Google Analytics. Это поможет улучшить Tampermonkey и определит его дальнейшее развитие. Если вам это не нравится - отключите."
     },
     "Dont_ask_me_for_simple_script_updates": {
         "message": "Не спрашивать меня при небольших изменениях в скрипте"
@@ -703,7 +703,7 @@
         "message": "Белый список расширений файлов"
     },
     "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
-        "message": "Только файлы с этими расширениями могут быть сохранены на диск.\nБудьте осторожны и не разрешайте расширения исполняемых для вашей ОС файлов!"
+        "message": "Только файлы с этими расширениями могут быть сохранены на диск.\nБудьте осторожны и не разрешайте расширения исполняемых в вашей ОС файлов!"
     },
     "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
         "message": "Кажется, ваш белый список содержит расширения исполняемых файлов!\nЭто значит, что ваши пользовательские скрипты могут загружать вредоносное или шпионское ПО на ваш диск!!"
