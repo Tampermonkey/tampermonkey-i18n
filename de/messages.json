@@ -39,6 +39,14 @@
             }
         }
     },
+    "Script_0name0_is_slowing_down_some_page_loads_": {
+        "message": "Das Script '$name$' verzögert das Laden Ihrer Web-Seiten",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "Please_double_check_the_native_script_import_settings__": {
         "message": "Das Userscript konnte nicht geladen werden!\n\nBitte Überprüfen Sie die Einstellungen im Abschnitt 'Nativer Script Import'."
     },
@@ -259,11 +267,55 @@
     "Get_new_scripts___": {
         "message": "Neue Scripte suchen"
     },
+    "This_script_was_deleted": {
+        "message": "Dieses Skript wurde gelöscht"
+    },
+    "This_script_was_executed_0count0_times": {
+        "message": "Dieses Skript wurde $count$ mal ausgeführt",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "This_script_was_not_executed_yet": {
+        "message": "Dieses Skript wurde noch nicht ausgeführt"
+    },
+    "Exclude_0domain0": {
+        "message": "Excludiere $domain$",
+        "placeholders": {
+            "domain": {
+                "content": "$1"
+            }
+        }
+    },
     "Check_for_userscripts_updates": {
         "message": "Scripte auf Updates prüfen"
     },
     "Waiting_for_sync_to_finish": {
         "message": "Warte auf die Beendigung der Synchronisation"
+    },
+    "0count0_changes_imported": {
+        "message": "$count$ Änderung(en) importiert",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "0count0_changes_exported": {
+        "message": "$count$ Änderung(en) exportiert",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "Sync_is_running": {
+        "message": "Synchronisation läuft"
+    },
+    "Sync_finished": {
+        "message": "Synchronisation beendet"
     },
     "Settings": {
         "message": "Einstellungen"
@@ -369,6 +421,9 @@
     },
     "Replace_": {
         "message": "Wirklich ersetzen?"
+    },
+    "Stop": {
+        "message": "Stopp"
     },
     "There_are_unsaved_changed_": {
         "message": "Die Änderungen wurden nicht gespeichert.\nMöchten Sie den Dialog wirklich schließen?"

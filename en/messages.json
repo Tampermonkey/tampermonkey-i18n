@@ -72,6 +72,14 @@
       }
     }
   },
+  "Script_0name0_is_slowing_down_some_page_loads_": {
+    "message": "Script '$name$' is slowing down your page loads",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      }
+    }
+  },
   "Please_double_check_the_native_script_import_settings__": {
     "message": "Unable to load the UserScript!\n\nPlease double check the 'Native Script Import' settings."
   },
@@ -310,11 +318,55 @@
   "Get_new_scripts___": {
     "message": "Find new scripts..."
   },
+  "This_script_was_deleted": {
+    "message": "This script was deleted"
+  },
+  "This_script_was_executed_0count0_times": {
+    "message": "This script was executed $count$ time(s)",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "This_script_was_not_executed_yet": {
+    "message": "This script was not executed yet"
+  },
+  "Exclude_0domain0": {
+    "message": "Exclude $domain$",
+    "placeholders": {
+      "domain": {
+        "content": "$1"
+      }
+    }
+  },
   "Check_for_userscripts_updates": {
     "message": "Check for userscript updates"
   },
   "Waiting_for_sync_to_finish": {
     "message": "Waiting for sync to finish"
+  },
+  "0count0_changes_imported": {
+    "message": "$count$ change(s) imported",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "0count0_changes_exported": {
+    "message": "$count$ change(s) exported",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "Sync_is_running": {
+    "message": "Sync is running"
+  },
+  "Sync_finished": {
+    "message": "Sync finished"
   },
   "Settings": {
     "message": "Settings"
@@ -432,6 +484,9 @@
   },
   "Replace_": {
     "message": "Replace?"
+  },
+  "Stop": {
+    "message": "Stop"
   },
   "There_are_unsaved_changed_": {
     "message": "There are unsaved changes.\nDo you really want to close the editor?"
@@ -1388,6 +1443,9 @@
   },
   "Toggle_Comment": {
     "message": "Toggle Comment"
+  },
+  "Toggle_Comment_Indented": {
+    "message": "Toggle Comment Indented"
   },
   "Toggle_Block_Comment": {
     "message": "Toggle Block Comment"
