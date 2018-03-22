@@ -266,7 +266,7 @@
         "message": "Нет запущенных скриптов"
     },
     "Add_new_script___": {
-        "message": "Добавить новый скрипт..."
+        "message": "Создать новый скрипт..."
     },
     "Get_new_scripts___": {
         "message": "Добавить новые скрипты..."
@@ -284,10 +284,10 @@
         "message": "Отладка скриптов"
     },
     "Show_fixed_source": {
-        "message": "Показать изменения в коде"
+        "message": "Показывать изменения в коде"
     },
     "LogLevel": {
-        "message": "Уровень ведения журнала"
+        "message": "Уровень ведения лога"
     },
     "Trace": {
         "message": "Трассировка"
@@ -305,7 +305,7 @@
         "message": "Нет установленных скриптов"
     },
     "Get_some_scripts___": {
-        "message": "Получить больше скриптов..."
+        "message": "Добавить скрипты..."
     },
     "New_userscript": {
         "message": "<Новый скрипт>"
@@ -317,7 +317,7 @@
         "message": "Список изменений"
     },
     "Position_": {
-        "message": "Позиция"
+        "message": "Приоритет"
     },
     "Close": {
         "message": "Закрыть"
@@ -448,7 +448,7 @@
         "message": "Этот скрипт имеет доступ к HTTPS страницам."
     },
     "One_or_more_compatibility_options_are_set": {
-        "message": "Включены один или несколько параметров совместимости. Вам сто́ит их просмотреть."
+        "message": "Включены один или несколько параметров совместимости. Вам стоит их просмотреть."
     },
     "This_script_has_full_web_access": {
         "message": "Этот скрипт имеет полный доступ в интернет"
@@ -1117,7 +1117,7 @@
         "message": "Показать уведомление"
     },
     "Open_changelog": {
-        "message": "Открыть журнал изменений"
+        "message": "Открыть лог изменений"
     },
     "No_frames": {
         "message": "Запускать только в верхнем фрейме"
@@ -1268,5 +1268,218 @@
     },
     "Ok": {
         "message": "Ок"
+    }
+    "Developer": {
+        "message": "Разработчик"
+    },
+    "Templates": {
+        "message": "Шаблоны"
+    },
+    "Undo": {
+        "message": "Отменить"
+    },
+    "Redo": {
+        "message": "Повторить"
+    },
+    "Cut": {
+        "message": "Вырезать"
+    },
+    "Copy": {
+        "message": "Копировать"
+    },
+    "Paste": {
+        "message": "Вставить"
+    },
+    "Select_All": {
+        "message": "Выделить всё"
+    },
+    "Toggle_Comment": {
+        "message": "Вкл/выкл комментарий"
+    },
+    "Toggle_Block_Comment": {
+        "message": "Вкл/выкл многострочный комментарий"
+    },
+    "Replace_All": {
+        "message": "Заменить всё"
+    },
+    "Lines": {
+        "message": "Строки"
+    },
+    "Indent_Less": {
+        "message": "Уменьшить отступ"
+    },
+    "Indent_More": {
+        "message": "Увеличить отступ"
+    },
+    "Move_Line_Up": {
+        "message": "На строку выше"
+    },
+    "Move_Line_Down": {
+        "message": "На строку ниже"
+    },
+    "Duplicate_Lines": {
+        "message": "Дублировать выделенное"
+    },
+    "Delete_Line": {
+        "message": "Удалить строку"
+    },
+    "Join_Lines": {
+        "message": "Объединить строки"
+    },
+    "Insert_Line_Before": {
+        "message": "Вставить строку перед"
+    },
+    "Insert_Line_After": {
+        "message": "Вставить строку после"
+    },
+    "Text": {
+        "message": "Текст"
+    },
+    "Upper_Case": {
+        "message": "Верхний регистр"
+    },
+    "Lower_Case": {
+        "message": "Нижний регистр"
+    },
+    "Delete_Line_Left": {
+        "message": "Удалить часть строки слева"
+    },
+    "Delete_Line_Right": {
+        "message": "Удалить часть строки справа"
+    },
+    "Delete_to_Previous_Word_Boundary": {
+        "message": "Удалить до границы предыдущего слова"
+    },
+    "Delete_to_Next_Word_Boundary": {
+        "message": "Удалить до границы следующего слова"
+    },
+    "Transpose": {
+        "message": "Транспонировать"
+    },
+    "Line_Case_Insensitive": {
+        "message": "Строки без учёта регистра"
+    },
+    "Folding": {
+        "message": "Сворачивание"
+    },
+    "Fold": {
+        "message": "Свернуть"
+    },
+    "Unfold": {
+        "message": "Развернуть"
+    },
+    "Fold_All": {
+        "message": "Свернуть все"
+    },
+    "Unfold_All": {
+        "message": "Развернуть все"
+    },
+    "Sublime_Mark": {
+        "message": "Sublime Mark"
+    },
+    "Set_Sublime_Mark": {
+        "message": "Set Sublime Mark"
+    },
+    "Select_to_Sublime_Mark": {
+        "message": "Select to Sublime Mark"
+    },
+    "Swap_with_Sublime_Mark": {
+        "message": "Swap with Sublime Mark"
+    },
+    "Delete_to_Sublime_Mark": {
+        "message": "Delete to Sublime Mark"
+    },
+    "Yank_Sublime_Mark": {
+        "message": "Yank Sublime Mark"
+    },
+    "Selection": {
+        "message": "Выделение"
+    },
+    "Incremental_Find": {
+        "message": "Инкрементный поиск"
+    },
+    "Add_Selection_Above": {
+        "message": "Добавить выделение выше"
+    },
+    "Add_Selection_Below": {
+        "message": "Добавить выделение ниже"
+    },
+    "Split_into_Lines": {
+        "message": "Разделить на строки"
+    },
+    "Select_Line": {
+        "message": "Выделить строку"
+    },
+    "Select_Scope": {
+        "message": "Выделить скрипт"
+    },
+    "Select_Bookmarks": {
+        "message": "Выделить закладки"
+    },
+    "Select_between_Brackets": {
+        "message": "Выделить между скобками"
+    },
+    "Select_Next_Occurrence": {
+        "message": "Выделить следующее вхождение"
+    },
+    "Find": {
+        "message": "Найти"
+    },
+    "Find_Next": {
+        "message": "Найти далее"
+    },
+    "Find_Previous": {
+        "message": "Найти предыдущее"
+    },
+    "Find_Under": {
+        "message": "Найти до"
+    },
+    "Find_All_Under": {
+        "message": "Найти всё до"
+    },
+    "Find_Under_Previous": {
+        "message": "Найти до предыдущего"
+    },
+    "GoTo": {
+        "message": "Перейти"
+    },
+    "Document_Start": {
+        "message": "В начало скрипта"
+    },
+    "Document_End": {
+        "message": "В конец скрипта"
+    },
+    "Group_Left": {
+        "message": "Group Left"
+    },
+    "Group_Right": {
+        "message": "Group Right"
+    },
+    "Closing_Bracket": {
+        "message": "Закрывающаяся скобка"
+    },
+    "Line_Up": {
+        "message": "На строку выше"
+    },
+    "Line_Down": {
+        "message": "На строку ниже"
+    },
+    "Center_Cursor": {
+        "message": "Center Cursor"
+    },
+    "Bookmarks": {
+        "message": "Закладки"
+    },
+    "Toggle": {
+        "message": "Вкл/Выкл"
+    },
+    "Clear_All": {
+        "message": "Удалить все"
+    },
+    "Next_Bookmark": {
+        "message": "Следующая закладка"
+    },
+    "Prev_Bookmark": {
+        "message": "Предыдущая закладка"
     }
 }
