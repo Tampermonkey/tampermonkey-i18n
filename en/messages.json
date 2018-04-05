@@ -989,6 +989,9 @@
   "Install_this_script": {
     "message": "Install this script"
   },
+  "Try_to_install_as_script": {
+    "message": "Try to install as script"
+  },
   "New_script_template_": {
     "message": "New userscript template"
   },

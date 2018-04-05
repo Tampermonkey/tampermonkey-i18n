@@ -268,10 +268,10 @@
         "message": "Neue Scripte suchen"
     },
     "This_script_was_deleted": {
-        "message": "Dieses Skript wurde gelöscht"
+        "message": "Dieses Script wurde gelöscht"
     },
     "This_script_was_executed_0count0_times": {
-        "message": "Dieses Skript wurde $count$ mal ausgeführt",
+        "message": "Dieses Script wurde $count$ mal ausgeführt",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -279,7 +279,7 @@
         }
     },
     "This_script_was_not_executed_yet": {
-        "message": "Dieses Skript wurde noch nicht ausgeführt"
+        "message": "Dieses Script wurde noch nicht ausgeführt"
     },
     "Exclude_0domain0": {
         "message": "Excludiere $domain$",
@@ -848,6 +848,9 @@
     "Install_this_script": {
         "message": "Dieses Script installieren"
     },
+    "Try_to_install_as_script": {
+        "message": "Inhalt als Script installieren"
+    },
     "New_script_template_": {
         "message": "Maske für neue Userscripte"
     },
@@ -1124,7 +1127,7 @@
         "message": "Deinstallation der Browser-Erweiterung"
     },
     "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
-        "message": "Welche Aktion soll ausgeführt werden nachdem ein natives Skript importiert wurde?"
+        "message": "Welche Aktion soll ausgeführt werden nachdem ein natives Script importiert wurde?"
     },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Der Browser startet die Tampermonkey-Erweiterung neu, wenn sie aktualiert wurde. Das kann zu Problemen bei aktuell laufenden Userscripten führen.!\n\nSoll wirklich keine Meldung bei einem Update angezeigt werden?"
