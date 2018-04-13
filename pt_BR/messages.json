@@ -72,6 +72,14 @@
       }
     }
   },
+  "Script_0name0_is_slowing_down_some_page_loads_": {
+    "message": "O script '$name$' está deixando o carregamento da página lento",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      }
+    }
+  },
   "Please_double_check_the_native_script_import_settings__": {
     "message": "Não foi possível carregar o UserScript!\n\nPor favor, marque a opção de 'Importação de Script Nativo'."
   },
@@ -310,11 +318,55 @@
   "Get_new_scripts___": {
     "message": "Obter novos scripts..."
   },
+  "This_script_was_deleted": {
+    "message": "Este script foi excluído"
+  },
+  "This_script_was_executed_0count0_times": {
+    "message": "Este script foi executado $count$ vez(es)",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "This_script_was_not_executed_yet": {
+    "message": "Este script ainda não foi executado"
+  },
+  "Exclude_0domain0": {
+    "message": "Excluir $domain$",
+    "placeholders": {
+      "domain": {
+        "content": "$1"
+      }
+    }
+  },
   "Check_for_userscripts_updates": {
     "message": "Verificar atualização de scripts"
   },
   "Waiting_for_sync_to_finish": {
     "message": "Esperando a sincronização terminar"
+  },
+  "0count0_changes_imported": {
+    "message": "$count$ mudança(s) importada(s)",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "0count0_changes_exported": {
+    "message": "$count$ mudança(s) exportada(s)",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "Sync_is_running": {
+    "message": "Sincronização em andamento"
+  },
+  "Sync_finished": {
+    "message": "Sincronização concluída"
   },
   "Settings": {
     "message": "Configurações"
@@ -432,6 +484,9 @@
   },
   "Replace_": {
     "message": "Substituir?"
+  },
+  "Stop": {
+    "message": "Parar"
   },
   "There_are_unsaved_changed_": {
     "message": "Existem mudanças não salvas.\nVocê tem certeza que quer sair do editor?"
@@ -934,6 +989,9 @@
   "Install_this_script": {
     "message": "Instalar este script"
   },
+  "Try_to_install_as_script": {
+    "message": "Tentar instalar como script"
+  },
   "New_script_template_": {
     "message": "Novo modelo de Userscript"
   },
@@ -1388,6 +1446,9 @@
   },
   "Toggle_Comment": {
     "message": "Alternar comentários"
+  },
+  "Toggle_Comment_Indented": {
+    "message": "Alternar Comentário Recuado"
   },
   "Toggle_Block_Comment": {
     "message": "Alternar bloquear comentário"
