@@ -448,7 +448,8 @@
 	},
 	"Replace_": {
 		"message": "替换？"
-	}"Stop": {
+	},
+    "Stop": {
 		"message": "停止"
 	},
 	"There_are_unsaved_changed_": {
