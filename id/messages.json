@@ -676,7 +676,7 @@
     "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
         "message": "Semua modifikasi hanya disimpan hingga sesi penyamaran ini telah ditutup!"
     },
-    "User_CSS": {
+    "Custom_CSS": {
         "message": "CSS Pengguna"
     },
     "You_can_add_your_custom_CSS_rules_here_": {

@@ -541,6 +541,14 @@
     "Unable_to_parse_this_": {
         "message": "Falsche Syntax! :("
     },
+    "Unable_to_parse_0name0": {
+        "message": "Syntaxfehler in $name$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "No_backups_found": {
         "message": "Es wurden keine Backup-Dateien gefunden"
     },
@@ -627,6 +635,12 @@
                 "content": "$1"
             }
         }
+    },
+    "Custom_Linter_Config": {
+        "message": "Benutzerdefinierte Linter-Konfiguration"
+    },
+    "You_can_add_your_custom_linter_config_here_": {
+        "message": "Sie können hier Ihre eigene Linter-Konfiguration definieren, die im Editor verwendet werden soll."
     },
     "Indentation_Width": {
         "message": "Einrückungstiefe"
@@ -1141,8 +1155,8 @@
     "_not_set_": {
         "message": "<unbekannt>"
     },
-    "User_CSS": {
-        "message": "Nutzer-spezifische CSS-Answeisungen"
+    "Custom_CSS": {
+        "message": "Benutzerdefinierte CSS-Anweisungen"
     },
     "You_can_add_your_custom_CSS_rules_here_": {
         "message": "Sie können hier Ihre eigenen CSS-Answeisungen für die Tampermonkey-Benutzeroberfläche definieren. Falls daduch diese Seite dadurch unbenutzbar wird, hängen Sie bitte ?layout=reset an die URL dieser Seite an."

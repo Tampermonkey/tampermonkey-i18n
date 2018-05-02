@@ -607,6 +607,14 @@
   "Unable_to_parse_this_": {
     "message": "Unable to parse this! :("
   },
+  "Unable_to_parse_0name0": {
+    "message": "Unable to parse $name$",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      }
+    }
+  },
   "No_backups_found": {
     "message": "No backups found"
   },
@@ -720,6 +728,12 @@
         "content": "$1"
       }
     }
+  },
+  "Custom_Linter_Config": {
+    "message": "Custom Linter Config"
+  },
+  "You_can_add_your_custom_linter_config_here_": {
+    "message": "You can add your custom linter config here."
   },
   "Indentation_Width": {
     "message": "Indentation Width"
@@ -1297,8 +1311,8 @@
   "Layout": {
     "message": "Layout"
   },
-  "User_CSS": {
-    "message": "User CSS"
+  "Custom_CSS": {
+    "message": "Custom CSS"
   },
   "You_can_add_your_custom_CSS_rules_here_": {
     "message": "You can add your own CSS rules for the Tampermonkey UI here. In case this breaks something you can get the default layout by appending ?layout=reset to the options page URL."
