@@ -559,6 +559,14 @@
     "Unable_to_parse_this_": {
         "message": "Impossibile analizzare questo! :("
     },
+    "Unable_to_parse_0name0": {
+        "message": "Impossibile analizzare $name$",
+        "placeholders": {
+        "name": {
+        "content": "$1"
+        }
+      }
+    },
     "No_backups_found": {
         "message": "Nessun backup trovato"
     },
@@ -660,6 +668,12 @@
                 "content": "$1"
             }
         }
+    },
+    "Custom_Linter_Config": {
+        "message": "Configurazione Linter personalizzata"
+        },
+    "You_can_add_your_custom_linter_config_here_": {
+    "message": "Puoi aggiungere qui la configurazione linter personalizzata."
     },
     "Indentation_Width": {
         "message": "Larghezza rientri"
