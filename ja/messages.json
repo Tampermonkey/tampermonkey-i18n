@@ -245,6 +245,20 @@
     "Get_new_scripts___": {
         "message": "新規スクリプトを取得..."
     },
+    "This_script_was_deleted": {
+      "message": "このスクリプトは削除されました"
+    },
+    "This_script_was_executed_0count0_times": {
+      "message": "このスクリプトは$count$回実行されました",
+      "placeholders": {
+        "count": {
+          "content": "$1"
+        }
+      }
+    },
+    "This_script_was_not_executed_yet": {
+      "message": "このスクリプトはまだ実行されていません"
+    },
     "Check_for_userscripts_updates": {
         "message": "UserScript の更新を確認"
     },
@@ -1227,6 +1241,18 @@
     },
     "Select_All": {
         "message": "すべて選択"
+    },
+    "Replace_All": {
+        "message": "すべて置換"
+    },
+    "Indent_Less": {
+        "message": "インデントを減らす"
+    },
+    "Indent_More": {
+        "message": "インデントを増やす"
+    },
+    "Duplicate_Lines": {
+        "message": "行を複製"
     },
     "Delete_Line": {
         "message": "行を削除"
