@@ -561,6 +561,9 @@
     "Include_script_storage": {
         "message": "Die vom Script gespeicherten Daten exportieren"
     },
+    "Include_script_externals": {
+        "message": "Die vom Script genutzten externen Ressourcen exportieren"
+    },
     "Include_TM_settings": {
         "message": "Tampermonkey-Einstellungen exportieren"
     },
@@ -960,11 +963,11 @@
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "Ein interner Fehler ist aufgetreten. Bitte melden Sie dieses Problem im Tampermonkey-Forum, falls es auch nach einem Neustart des Browsers weiterhin besteht.\n\nWollen Sie das Forum jetzt besuchen?"
     },
-    "Enable_TESLA": {
-        "message": "TESLA aktivieren"
+    "Enable_Script_Sync": {
+        "message": "Script-Synchronisierung aktivieren"
     },
-    "Tampermonkey_External_Script_List_Access": {
-        "message": "Script-Synchronisierung (Tampermonkey External Script List Access)"
+    "Synchronize_your_scripts_across_browsers_and_operation_systems": {
+        "message": "Script-Synchronisierung über Browser- und Betriebssystemgrenzen hinweg"
     },
     "Sync_Type": {
         "message": "Typ"
@@ -1181,6 +1184,12 @@
     },
     "Size": {
         "message": "Größe"
+    },
+    "Login": {
+        "message": "Login"
+    },
+    "Password": {
+        "message": "Passwort"
     },
     "No_entry_found": {
         "message": "Kein Eintrag gefunden"

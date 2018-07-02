@@ -999,10 +999,10 @@
   "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
     "message": "एक आंतरिक त्रुटि मिली । अगर यह समस्या ब्राउज़र को पुन: प्रारंभ करने के बाद भी बनी रहती है, कृपया OK  दबाएं और फोरम पर इस मामले की रिपोर्ट करें।\n\nक्या आप Tampermonkey फोरम पर जाना चाहते हैं?"
   },
-  "Enable_TESLA": {
+  "Enable_Script_Sync": {
     "message": "TESLA सक्षम करें"
   },
-  "Tampermonkey_External_Script_List_Access": {
+  "Synchronize_your_scripts_across_browsers_and_operation_systems": {
     "message": "स्क्रिप्ट तुल्यकालन (Tampermonkey बाहरी स्क्रिप्ट सूची एक्सेस)"
   },
   "Sync_Type": {

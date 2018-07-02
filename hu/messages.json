@@ -730,13 +730,13 @@
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "Egy belső hiba lépett fel. Emennyiben ez a hiba a Chrome újraindítása után is fent áll, akkor nyomj OK-t és jelentsd be a hibát a fórumon. \n\n Meg akarod látogatni a Tampermonkey forumot? "
     },
-    "TESLA": {
+    "Script_Sync": {
         "message": "KSLH"
     },
-    "Enable_TESLA": {
+    "Enable_Script_Sync": {
         "message": " KSLH Bekapcsolása"
     },
-    "Tampermonkey_External_Script_List_Access": {
+    "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Szkript szinkronizáció (Tampermonkey Külső Szkript Lista Hozzáférés)"
     },
     "Sync_Type": {

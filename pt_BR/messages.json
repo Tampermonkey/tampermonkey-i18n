@@ -1104,13 +1104,13 @@
   "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
     "message": "Um erro interno ocorreu. Se este problema persistir mesmo após reiniciar o Chrome, pressione OK e reporte este problema no fórum.\n\nVocê deseja visitar o fórum do TamperMonkey?"
   },
-  "TESLA": {
+  "Script_Sync": {
     "message": "TESLA"
   },
-  "Enable_TESLA": {
+  "Enable_Script_Sync": {
     "message": "Habilitar TESLA"
   },
-  "Tampermonkey_External_Script_List_Access": {
+  "Synchronize_your_scripts_across_browsers_and_operation_systems": {
     "message": "Tampermonkey External Script List Access (Lista de Acesso de Scripts Externos do Tampermonkey)"
   },
   "Sync_Type": {

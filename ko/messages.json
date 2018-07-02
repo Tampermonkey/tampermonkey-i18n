@@ -912,10 +912,10 @@
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "내부 오류가 발생했습니다. 만약 Chrome을 재시작한 후에도 이 문제가 발생한다면, 확인을 누른 후 포럼에 이 상황을 제보해 주세요.\n\nTampermonkey 포럼에 방문하시겠습니까?"
     },
-    "Enable_TESLA": {
+    "Enable_Script_Sync": {
         "message": "TESLA 활성화"
     },
-    "Tampermonkey_External_Script_List_Access": {
+    "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "스크립트 동기화 (Tampermonkey External Script List Access)"
     },
     "Sync_Type": {

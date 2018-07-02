@@ -352,7 +352,7 @@
     "Enable_Native_Script_Import": {
         "message": "Zapnúť natívny import skriptov"
     },
-    "Enable_TESLA": {
+    "Enable_Script_Sync": {
         "message": "Zapnúť TESLA"
     },
     "Enable_autoSave": {
@@ -866,7 +866,7 @@
     "Tabs": {
         "message": "Tabulátora"
     },
-    "Tampermonkey_External_Script_List_Access": {
+    "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Synchronizácia skriptov (Tampermonkey External Script List Access)"
     },
     "Tampermonkey_has_no_file_access_permission_": {

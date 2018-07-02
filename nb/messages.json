@@ -924,10 +924,10 @@
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "En intern feil oppstod. Dersom dette problemet fortsetter selv etter en omstart av nettleseren, vennligst klikk OK og meld fra om denne feilen i forumet.\n\nØnsker du å besøke Tampermonkey-forumet?"
     },
-    "Enable_TESLA": {
+    "Enable_Script_Sync": {
         "message": "Aktiver TESLA"
     },
-    "Tampermonkey_External_Script_List_Access": {
+    "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Skriptsynkronisering (Tampermonkey-tilgang til eksterne skriptlister)"
     },
     "Imported": {

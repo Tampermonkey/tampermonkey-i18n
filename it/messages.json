@@ -1038,10 +1038,10 @@
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "Si è verificato un errore interno. Se il problema persiste anche dopo un riavvio dl browser, seleziona OK e segnala questo problema nel forum.\n\nVuoi visitare il forum di Tampermonkey?"
     },
-    "Enable_TESLA": {
+    "Enable_Script_Sync": {
         "message": "Abilita TESLA"
     },
-    "Tampermonkey_External_Script_List_Access": {
+    "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Elenco accessi script esterno Tampermonkey"
     },
     "Sync_Type": {

@@ -633,6 +633,9 @@
   "Include_script_storage": {
     "message": "Include script storage"
   },
+  "Include_script_externals": {
+    "message": "Include external script resources"
+  },
   "Include_TM_settings": {
     "message": "Include Tampermonkey settings"
   },
@@ -1104,14 +1107,14 @@
   "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
     "message": "An internal error occurred. If this problem persists even after a restart of the browser, please press OK and report this issue at the forum.\n\nDo you want to visit the Tampermonkey forum?"
   },
-  "TESLA": {
-    "message": "TESLA"
+  "Script_Sync": {
+    "message": "Script Sync"
   },
-  "Enable_TESLA": {
-    "message": "Enable TESLA"
+  "Enable_Script_Sync": {
+    "message": "Enable Script Sync"
   },
-  "Tampermonkey_External_Script_List_Access": {
-    "message": "Script synchronization (Tampermonkey External Script List Access)"
+  "Synchronize_your_scripts_across_browsers_and_operation_systems": {
+    "message": "Synchronize your scripts across browsers and operation systems"
   },
   "Sync_Type": {
     "message": "Type"
@@ -1352,6 +1355,12 @@
   },
   "Size": {
     "message": "Size"
+  },
+  "Login": {
+    "message": "Login"
+  },
+  "Password": {
+    "message": "Password"
   },
   "No_entry_found": {
     "message": "No entry found"

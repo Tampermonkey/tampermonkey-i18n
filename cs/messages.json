@@ -885,10 +885,10 @@
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "Nastala interní chyba. Pokud tato chyba přetrvává i po restartu Chromu, klikněte prosím na OK a nahlaste tuto chybu na fóru.\n\nChcete navštívit Tampermonkey fórum?"
     },
-    "Enable_TESLA": {
+    "Enable_Script_Sync": {
         "message": "Povolit TESLA"
     },
-    "Tampermonkey_External_Script_List_Access": {
+    "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Synchronizace skriptů (Tampermonkey External Script List Access)"
     },
     "Sync_Type": {

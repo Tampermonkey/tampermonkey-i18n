@@ -239,7 +239,7 @@
     "Enable_Native_Script_Import": {
         "message": "Habilitar Importação de Script Nativo"
     },
-    "Enable_TESLA": {
+    "Enable_Script_Sync": {
         "message": "Habilitar TESLA"
     },
     "Enable_autoSave": {
@@ -653,7 +653,7 @@
     "TM_has_access_to_file_URIs": {
         "message": "O Tampermonkey tem acesso aos URIs do ficheiro."
     },
-    "Tampermonkey_External_Script_List_Access": {
+    "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Tampermonkey External Script List Access (Lista de Acesso de Scripts Externos Tampermonkey)"
     },
     "Tampermonkey_has_no_file_access_permission_": {

@@ -933,10 +933,10 @@
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "内部エラーが発生しました。この問題点が継続する場合は、OK を押してこの問題点をフォーラムで報告してください。\n\nTampermonkey フォーラムに移動しますか？"
     },
-    "Enable_TESLA": {
+    "Enable_Script_Sync": {
         "message": "TESLA を有効にする"
     },
-    "Tampermonkey_External_Script_List_Access": {
+    "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "スクリプト同期 (TESLA = Tampermonkey 外部スクリプト リスト アクセス)"
     },
     "Sync_Type": {

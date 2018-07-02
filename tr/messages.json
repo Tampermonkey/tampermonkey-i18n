@@ -960,10 +960,10 @@
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "Dahili bir hata oluştu. Tarayıcının yeniden başlatılmasından sonra bile bu sorun devam ediyorsa, lütfen Tamam düğmesine basın ve bu sorunu forumda bildirin.\n\nTampermonkey forumunu ziyaret etmek istiyor musunuz?"
     },
-    "Enable_TESLA": {
+    "Enable_Script_Sync": {
         "message": "TESLA Etkinleştir"
     },
-    "Tampermonkey_External_Script_List_Access": {
+    "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Betik eşitleme (Tampermonkey External Script List Access)"
     },
     "Sync_Type": {

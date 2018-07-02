@@ -963,10 +963,10 @@
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "Wystąpił problem wewnętrzny. Jeżeli problem nie ustąpi, nawet po restarcie przeglądarki, to proszę nacisnąć OK i zgłosić problem na forum.\n\nCzy chcesz przejść do forum Tampermonkey?"
     },
-    "Enable_TESLA": {
+    "Enable_Script_Sync": {
         "message": "Włącz TESLA"
     },
-    "Tampermonkey_External_Script_List_Access": {
+    "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Synchronizacja skryptu (Zewnętrzny dostęp do listy skryptu Tampermonkey)"
     },
     "Sync_Type": {

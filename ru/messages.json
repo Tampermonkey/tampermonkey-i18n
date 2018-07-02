@@ -975,10 +975,10 @@
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "Произошла внутренняя ошибка. Если проблема не устраняется даже после перезапуска браузера, пожалуйста, нажмите ОК и сообщите об этой проблеме на форуме.\n\nВы хотите посетить форум Tampermonkey?"
     },
-    "Enable_TESLA": {
+    "Enable_Script_Sync": {
         "message": "Включить TESLA"
     },
-    "Tampermonkey_External_Script_List_Access": {
+    "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Синхронизация скриптов (доступ к внешнему списку скриптов Tampermonkey)"
     },
     "Sync_Type": {
