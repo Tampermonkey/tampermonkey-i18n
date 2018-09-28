@@ -18,7 +18,7 @@
         "message": "Nagyon szépen köszönjük!"
     },
     "Invalid_UserScript__Sry_": {
-        "message": " Érvénytelen UserScript! Bocsi."
+        "message": "Érvénytelen UserScript! Bocsi."
     },
     "Invalid_UserScript_name__Sry_": {
         "message": "Érvénytelen UserScript név. Bocsi!"
@@ -58,7 +58,7 @@
         "message": "Globális beállítások importálása"
     },
     "This_will_overwrite_your_global_settings_": {
-        "message": "Ez felül fogja írni a globális beállításaidat! "
+        "message": "Ez felül fogja írni a globális beállításaidat!"
     },
     "You_are_about_to_reinstall_a_UserScript_": {
         "message": "UserScript újratelepítése"
@@ -88,7 +88,7 @@
         "message": "Minden szkript beállítás visszaállításra fog kerülni!"
     },
     "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
-        "message": "A frissítési cím megváltozott :\n    '$oldurl$' -ról\n    :\n    '$newurl$' -ren",
+        "message": "A frissítési cím megváltozott:\n    '$oldurl$' -ról\n    :\n    '$newurl$' -ren",
         "placeholders": {
             "oldurl": {
                 "content": "$1"
@@ -399,7 +399,7 @@
         "message": "Szkript tár hozzárendelése"
     },
     "Include_TM_settings": {
-        "message": " Tampermonkey beállítások hozzáadása"
+        "message": "Tampermonkey beállítások hozzáadása"
     },
     "File": {
         "message": "Fájl"
@@ -481,7 +481,7 @@
         "message": "Szóközt"
     },
     "TabMode": {
-        "message": "TabulátórMód"
+        "message": "Tabulátor-mód"
     },
     "Classic": {
         "message": "Klasszikus"
@@ -734,7 +734,7 @@
         "message": "KSLH"
     },
     "Enable_Script_Sync": {
-        "message": " KSLH Bekapcsolása"
+        "message": "KSLH bekapcsolása"
     },
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Szkript szinkronizáció (Tampermonkey Külső Szkript Lista Hozzáférés)"
@@ -755,7 +755,7 @@
         "message": "Nem"
     },
     "Auto": {
-        "message": "Autómatikus"
+        "message": "Automatikus"
     },
     "__Please_choose__": {
         "message": "—Kérlek válassz --"
@@ -854,7 +854,7 @@
         "message": "Natív szkript importálása "
     },
     "Enable_Native_Script_Import": {
-        "message": " Natív szkript importálása engedélyezése"
+        "message": "Natív szkript importálása engedélyezése"
     },
     "Post_Import_Action": {
         "message": "Importálás utáni feladat"
