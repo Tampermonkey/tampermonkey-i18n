@@ -507,6 +507,14 @@
   "Unable_to_parse_this_": {
     "message": "構文解析できません! :("
   },
+  "Unable_to_parse_0name0": {
+    "message": "$name$ を構文解析できません",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      }
+    }
+  },
   "No_backups_found": {
     "message": "バックアップが見つかりません"
   },
@@ -518,6 +526,9 @@
   },
   "Include_script_storage": {
     "message": "スクリプトのストレージを含める"
+  },
+  "Include_script_externals": {
+    "message": "外部のスクリプト リソースを含める"
   },
   "Include_TM_settings": {
     "message": "Tampermonkey の設定を含める"
@@ -726,6 +737,15 @@
   "Experimental": {
     "message": "実験的"
   },
+  "Fast": {
+    "message": "高速"
+  },
+  "Normal": {
+    "message": "通常"
+  },
+  "Instant": {
+    "message": "即席"
+  },
   "This_page_is_blacklisted_at_the_security_settings": {
     "message": "セキュリティ設定でブラックリストに入っています"
   },
@@ -933,11 +953,14 @@
   "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
     "message": "内部エラーが発生しました。この問題点が継続する場合は、OK を押してこの問題点をフォーラムで報告してください。\n\nTampermonkey フォーラムに移動しますか？"
   },
+  "Script_Sync": {
+    "message": "スクリプト同期"
+  },
   "Enable_Script_Sync": {
-    "message": "TESLA を有効にする"
+    "message": "スクリプト同期を有効にする"
   },
   "Synchronize_your_scripts_across_browsers_and_operation_systems": {
-    "message": "スクリプト同期 (TESLA = Tampermonkey 外部スクリプト リスト アクセス)"
+    "message": "ブラウザーとオペレーティング システムの間でスクリプトを同期する"
   },
   "Sync_Type": {
     "message": "種類"
@@ -950,6 +973,9 @@
   },
   "Script_local_files_access": {
     "message": "スクリプトによるローカルファイルへのアクセスを許可する"
+  },
+  "require_and_resource": {
+    "message": "外部 (@require と @resource)"
   },
   "All_local_files": {
     "message": "すべてのローカルファイル"
@@ -1167,6 +1193,12 @@
   "Size": {
     "message": "サイズ"
   },
+  "Login": {
+    "message": "ログイン"
+  },
+  "Password": {
+    "message": "パスワード"
+  },
   "No_entry_found": {
     "message": "エントリがありません"
   },
@@ -1193,6 +1225,9 @@
   },
   "Blacklist_Severity": {
     "message": "セキュリティ ブロックに基づくブロック"
+  },
+  "Action_Menu": {
+    "message": "操作メニュー"
   },
   "Hide_disabled_scripts": {
     "message": "無効なスクリプトを非表示にする"
@@ -1242,14 +1277,32 @@
   "Select_All": {
     "message": "すべて選択"
   },
+  "Toggle_Comment": {
+    "message": "コメントを切り替え"
+  },
+  "Toggle_Comment_Indented": {
+    "message": "コメントを切り替え (インデントあり)"
+  },
+  "Toggle_Block_Comment": {
+    "message": "ブロック コメントを切り替え"
+  },
   "Replace_All": {
     "message": "すべて置換"
+  },
+  "Lines": {
+    "message": "行"
   },
   "Indent_Less": {
     "message": "インデントを減らす"
   },
   "Indent_More": {
     "message": "インデントを増やす"
+  },
+  "Move_Line_Up": {
+    "message": "行を上に移動"
+  },
+  "Move_Line_Down": {
+    "message": "行を下に移動"
   },
   "Duplicate_Lines": {
     "message": "行を複製"
@@ -1260,14 +1313,65 @@
   "Join_Lines": {
     "message": "行を連結"
   },
+  "Insert_Line_Before": {
+    "message": "上に行を挿入"
+  },
+  "Insert_Line_After": {
+    "message": "下に行を挿入"
+  },
+  "Text": {
+    "message": "テキスト"
+  },
   "Upper_Case": {
     "message": "大文字に変換"
   },
   "Lower_Case": {
     "message": "小文字に変換"
   },
+  "Delete_Line_Left": {
+    "message": "行頭まで削除"
+  },
+  "Delete_Line_Right": {
+    "message": "行末まで削除"
+  },
+  "Delete_to_Previous_Word_Boundary": {
+    "message": "前の単語境界まで削除"
+  },
+  "Delete_to_Next_Word_Boundary": {
+    "message": "次の単語境界まで削除"
+  },
+  "Line_Case_Insensitive": {
+    "message": "行 (大文字小文字区別なし)"
+  },
+  "Folding": {
+    "message": "折りたたみ"
+  },
+  "Fold": {
+    "message": "折りたたむ"
+  },
+  "Unfold": {
+    "message": "展開"
+  },
+  "Fold_All": {
+    "message": "すべて折りたたむ"
+  },
+  "Unfold_All": {
+    "message": "すべて展開"
+  },
+  "Selection": {
+    "message": "選択"
+  },
+  "Select_Line": {
+    "message": "行を選択"
+  },
+  "Select_Scope": {
+    "message": "スコープを選択"
+  },
   "Select_Bookmarks": {
     "message": "ブックマークを選択"
+  },
+  "Select_between_Brackets": {
+    "message": "中括弧内の内側を選択"
   },
   "Find": {
     "message": "検索"
@@ -1281,8 +1385,26 @@
   "GoTo": {
     "message": "移動"
   },
+  "Document_Start": {
+    "message": "文書の先頭"
+  },
+  "Document_End": {
+    "message": "文書の末尾"
+  },
+  "Closing_Bracket": {
+    "message": "閉じ中括弧"
+  },
+  "Line_Up": {
+    "message": "前の行"
+  },
+  "Line_Down": {
+    "message": "次の行"
+  },
   "Bookmarks": {
     "message": "ブックマーク"
+  },
+  "Toggle": {
+    "message": "切り替え"
   },
   "Clear_All": {
     "message": "すべて消去"
