@@ -3,7 +3,7 @@
     "message": "致命的なエラー"
   },
   "Please_consider_a_contribution": {
-    "message": "寄付を検討してください"
+    "message": "寄付をお願いいたします"
   },
   "I_contributed_already": {
     "message": "私は既に寄付しました"
@@ -15,7 +15,7 @@
     "message": "寄付したくありません"
   },
   "Thank_you_very_much_": {
-    "message": "ありがとうございました！"
+    "message": "ありがとうございました!"
   },
   "Invalid_UserScript__Sry_": {
     "message": "UserScript が無効です。すみません!"
@@ -39,6 +39,14 @@
       }
     }
   },
+  "Script_0name0_is_slowing_down_some_page_loads_": {
+    "message": "スクリプト '$name$' がページの読み込みを低速化させています",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      }
+    }
+  },
   "Please_double_check_the_native_script_import_settings__": {
     "message": "UserScript を読み込めません!\n\n「ネイティブ スクリプトのインポート」の設定を確認してください。"
   },
@@ -58,7 +66,7 @@
     "message": "グローバル設定をインポート"
   },
   "This_will_overwrite_your_global_settings_": {
-    "message": "この操作により、グローバル設定が上書きされます！"
+    "message": "この操作により、グローバル設定が上書きされます!"
   },
   "You_are_about_to_reinstall_a_UserScript_": {
     "message": "UserScript の再インストール:"
@@ -120,7 +128,7 @@
     "message": "GreaseMonkey/FF 互換性オプションを再確認してください。このスクリプトの実行に必要である可能性があります。"
   },
   "Automatically_added_user_includes_for_compatibility_reasons_": {
-    "message": "互換性の理由から、一部のユーザー include が自動的に追加されました！"
+    "message": "互換性の理由から、一部のユーザー include が自動的に追加されました!"
   },
   "Author": {
     "message": "作者"
@@ -173,7 +181,7 @@
     }
   },
   "Process_with_Chrome": {
-    "message": "Chrome で処理"
+    "message": "ブラウザーで処理"
   },
   "connect_mode": {
     "message": "@connect文を確認"
@@ -243,7 +251,7 @@
     "message": "新規スクリプトを追加..."
   },
   "Get_new_scripts___": {
-    "message": "新規スクリプトを取得..."
+    "message": "新規スクリプトを探索..."
   },
   "This_script_was_deleted": {
     "message": "このスクリプトは削除されました"
@@ -259,11 +267,35 @@
   "This_script_was_not_executed_yet": {
     "message": "このスクリプトはまだ実行されていません"
   },
+  "Exclude_0domain0": {
+    "message": "$domain$ を除外",
+    "placeholders": {
+      "domain": {
+        "content": "$1"
+      }
+    }
+  },
   "Check_for_userscripts_updates": {
     "message": "UserScript の更新を確認"
   },
   "Waiting_for_sync_to_finish": {
     "message": "同期の完了を待機中"
+  },
+  "0count0_changes_imported": {
+    "message": "$count$ 件の変更点をインポートしました",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "0count0_changes_exported": {
+    "message": "$count$ 件の変更点をエクスポートしました",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
   },
   "Sync_is_running": {
     "message": "同期が実行中です"
@@ -332,7 +364,7 @@
     "message": "wrappedJSObject プロパティのアクセスを修正する"
   },
   "Convert_CDATA_sections_into_a_chrome_compatible_format": {
-    "message": "CDATA セクションを Chrome 互換形式に変換する"
+    "message": "CDATA セクションをブラウザー互換形式に変換する"
   },
   "Fix_for_var_in_statements": {
     "message": "「for (var j in x)」文を修正する"
@@ -454,7 +486,7 @@
     "message": "これはシステム スクリプトです。"
   },
   "This_is_a_chrome_extension": {
-    "message": "これは Chrome 拡張機能です"
+    "message": "これはブラウザーの拡張機能です"
   },
   "This_script_runs_in_Chrome_mode": {
     "message": "このスクリプトは Chrome モードで動作します"
@@ -523,6 +555,9 @@
   },
   "Export": {
     "message": "エクスポート"
+  },
+  "TextArea": {
+    "message": "テキストエリア"
   },
   "Include_script_storage": {
     "message": "スクリプトのストレージを含める"
@@ -613,6 +648,12 @@
         "content": "$1"
       }
     }
+  },
+  "Custom_Linter_Config": {
+    "message": "カスタム構文解析 (linter) の設定"
+  },
+  "You_can_add_your_custom_linter_config_here_": {
+    "message": "ここに構文解析のカスタム設定を追加できます。"
   },
   "Indentation_Width": {
     "message": "インデント幅"
@@ -737,6 +778,12 @@
   "Experimental": {
     "message": "実験的"
   },
+  "strict_mode": {
+    "message": "厳格モード"
+  },
+  "Inject_Mode": {
+    "message": "注入モード"
+  },
   "Fast": {
     "message": "高速"
   },
@@ -779,7 +826,7 @@
     "message": "最終更新"
   },
   "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
-    "message": "この外部リソースは自動更新されません！再度更新を有効にするには削除してください。"
+    "message": "この外部リソースは自動更新されません! 再度更新を有効にするには削除してください。"
   },
   "MIME_Type": {
     "message": "MIMEタイプ"
@@ -847,7 +894,7 @@
     "message": "自動構文チェックの最大サイズ"
   },
   "Check_only_scripts_up_to_this_size_automatically_": {
-    "message": "このサイズまでのスクリプトだけを自動的にチェックします。"
+    "message": "このサイズ以下のスクリプトのみを自動的にチェックします。"
   },
   "Highlight_trailing_whitespace": {
     "message": "末尾の空白を強調表示する"
@@ -866,6 +913,9 @@
   },
   "Install_this_script": {
     "message": "このスクリプトをインストール"
+  },
+  "Try_to_install_as_script": {
+    "message": "スクリプトとしてのインストールを試行"
   },
   "New_script_template_": {
     "message": "新規 UserScript のテンプレート"
@@ -1040,6 +1090,12 @@
   "Really_factory_reset_the_selected_items_": {
     "message": "選択した項目を本当に初期化しますか？"
   },
+  "Filter_by": {
+    "message": "絞り込み"
+  },
+  "Matching_URL": {
+    "message": "一致する URL"
+  },
   "Really_factory_reset_this_script_": {
     "message": "このスクリプトを本当に初期化しますか？"
   },
@@ -1062,7 +1118,7 @@
     "message": "すべてのスクリプトの削除とすべての設定のリセットの両方を本当に実行しますか？"
   },
   "Browser_Sync": {
-    "message": "ブラウザの同期"
+    "message": "ブラウザーの同期"
   },
   "Sync_Reset": {
     "message": "同期のリセット"
@@ -1155,7 +1211,7 @@
     "message": "レイアウト"
   },
   "Custom_CSS": {
-    "message": "ユーザーCSS"
+    "message": "カスタム CSS"
   },
   "You_can_add_your_custom_CSS_rules_here_": {
     "message": "Tampermonkey UI用の独自CSSルールをここに追加できます。表示が崩れた場合には、オプションページのURLに \"?layout=reset\" を追加することで、デフォルトのレイアウトに戻すことができます。"
@@ -1221,7 +1277,7 @@
     "message": "このスクリプトはブラックリストに入っています!"
   },
   "Report_an_issue_to_the_script_hoster_": {
-    "message": "不正行為を報告。\n(userscripts.org のアカウントが必要)"
+    "message": "不正行為を報告。\n(ユーザー アカウントが必要な場合があります)"
   },
   "Blacklist_Severity": {
     "message": "セキュリティ ブロックに基づくブロック"
@@ -1249,6 +1305,9 @@
   },
   "Default": {
     "message": "既定"
+  },
+  "Default_Dark": {
+    "message": "既定 - 黒"
   },
   "Ok": {
     "message": "OK"
