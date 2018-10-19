@@ -585,6 +585,9 @@
     "Include_script_storage": {
         "message": "Includi script storage"
     },
+    "Include_script_externals": {
+    "message": "Includi risorse script esterno"
+   },
     "Include_TM_settings": {
         "message": "Includi impostazioni  Tampermonkey"
     },
@@ -1271,6 +1274,9 @@
     },
     "Size": {
         "message": "Dimensione"
+    },
+    "Login": {
+    "message": "Accedi"
     },
     "No_entry_found": {
         "message": "Nessun elemento trovato"
