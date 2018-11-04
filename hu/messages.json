@@ -58,13 +58,13 @@
         "message": "Globális beállítások importálása"
     },
     "This_will_overwrite_your_global_settings_": {
-        "message": "Ez felül fogja írni a globális beállításaidat!"
+        "message": "Ez felül fogja írni a globális beállításokat!"
     },
     "You_are_about_to_reinstall_a_UserScript_": {
         "message": "UserScript újratelepítése"
     },
     "You_are_about_to_downgrade_a_UserScript": {
-        "message": "Figyelem! Userscript verzió visszaléptetés"
+        "message": "Figyelem! UserScript verzió visszaléptetés"
     },
     "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
         "message": "A visszaléptetett verziós szkriptnek problémái lehetnek a tárolt adatok olvasásával!"
@@ -277,7 +277,7 @@
         "message": "Minden automatikus indentálása"
     },
     "There_are_unsaved_changed_": {
-        "message": "Mentetlen változtatások vannak. \nBiztosan be akarod zárni a szerkesztőt?"
+        "message": "Nem mentett változtatások vannak.\nBiztosan be akarod zárni a szerkesztőt?"
     },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "Az '$option$' opció be van kapcsolva!\n\nBiztosan tárolni akarod a javított forrást?",
@@ -321,7 +321,7 @@
         "message": "Ez a szkript adatokat tárol."
     },
     "This_script_has_access_to_https_pages": {
-        "message": "Ez az eleme https oldalakat ér el."
+        "message": "Ez a szkript https oldalakat ér el."
     },
     "One_or_more_compatibility_options_are_set": {
         "message": "Egy vagy több kompatibilitási opció be van kapcsolva. Talán érdemes lenne ezeket ellenőrizned. "
@@ -342,7 +342,7 @@
         "message": "Ez egy userscript amely Javascript nyelven íródott"
     },
     "Really_import_0name0__": {
-        "message": "Biztosan importálni akarod a '$name$' nevő natív szkriptet?",
+        "message": "Biztosan importálni akarod a '$name$' nevű natív szkriptet?",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -361,7 +361,7 @@
         "message": "Ez az elem korlátlanul eléri a weboldalt."
     },
     "Utilities": {
-        "message": "Segétprogramok"
+        "message": "Segédprogramok"
     },
     "This_script_uses_uW_gm_api_": {
         "message": "Ez a szkript a tízes Greasmonkey API egy részét használja (unsafeWindow.gmonkey)\nezt nem támogatja a Tampermonkey vagy bármilyen más szkript kezelő."
@@ -387,7 +387,7 @@
         "message": "Ezt nem tudtuk feldolgozni! :("
     },
     "An_error_occured_during_import_": {
-        "message": "Importálás során hiba lépet fel."
+        "message": "Importálás során hiba lépett fel."
     },
     "Export": {
         "message": "Exportálás"
