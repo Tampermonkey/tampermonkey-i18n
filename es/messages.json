@@ -15,7 +15,7 @@
         "message": "No quiero contribuir"
     },
     "Thank_you_very_much_": {
-        "message": "Muchas gracias!"
+        "message": "¡Muchas gracias!"
     },
     "Invalid_UserScript__Sry_": {
         "message": "UserScript inválido :("
@@ -40,7 +40,7 @@
         }
     },
     "Please_double_check_the_native_script_import_settings__": {
-        "message": "No se pudo descargar UserScript!\n\nPor favor revisar la configuración de 'Importación Nativa de Script'."
+        "message": "¡No se pudo descargar UserScript!\n\nPor favor revisar la configuración de 'Importación Nativa de Script'."
     },
     "Name": {
         "message": "Nombre"
@@ -55,7 +55,7 @@
         "message": "Reinstalar UserScript"
     },
     "You_are_about_to_downgrade_a_UserScript": {
-        "message": "Atención! Se instalará una versión anterior del Userscript"
+        "message": "¡Atención! Se instalará una versión anterior del Userscript"
     },
     "You_are_about_to_modify_a_UserScript_": {
         "message": "Modificar UserScript"
@@ -70,7 +70,7 @@
         "message": "Este script no contiene ningún @include."
     },
     "All_script_settings_will_be_reset_": {
-        "message": "Todas las configuraciones del script se perderán!"
+        "message": "¡Todas las configuraciones del script se perderán!"
     },
     "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
         "message": "La URL de actualización cambió de:\n    '$oldurl$'\n    a:\n    '$newurl$'\n",
@@ -84,10 +84,10 @@
         }
     },
     "Attention_Can_not_display_all_includes_": {
-        "message": "Atención: La lista de inclusiones fue acortada.\nPor favor revísala manualmente!"
+        "message": "¡Atención: La lista de inclusiones fue acortada.\nPor favor revísala manualmente!"
     },
     "Attention_Can_not_display_all_excludes_": {
-        "message": "Atención: La lista de exclusiones fue acortada.\nPor favor revísala manualmente!"
+        "message": "¡Atención: La lista de exclusiones fue acortada.\nPor favor revísala manualmente!"
     },
     "Include_s__": {
         "message": "Incluye"
@@ -137,10 +137,10 @@
         }
     },
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
-        "message": "Un userscript quiere acceder a un recurso de origen cruzado."
+        "message": "Un UserScript quiere acceder a un recurso de origen cruzado."
     },
     "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
-        "message": "Una solicitud para un recurso de origen cruzado no es nada extraño.\nSolo tienes que comprobar si este script tiene una buena razón para acceder a este dominio.\nPor ejemplo, solo hay unas pocas razones para que un userscript contacte con tu banco.\n\nPor favor, ten en cuenta que los autores del userscript pueden evitar este diálogo añadiendo etiquetas [url=$connect$]@connect[/url] a sus scripts.\n\nNo importa lo que decidas, puedes cambiar tu opinión en cualquier momento en la pestaña de [url=$settings$]ajustes del script[/url].",
+        "message": "Una solicitud para un recurso de origen cruzado no es nada extraño.\nSólo tienes que comprobar si este script tiene una buena razón para acceder a este dominio.\nPor ejemplo, solo hay unas pocas razones para que un userscript contacte con tu banco.\n\nPor favor, ten en cuenta que los autores del userscript pueden evitar este diálogo añadiendo etiquetas [url=$connect$]@connect[/url] a sus scripts.\n\nNo importa lo que decidas, puedes cambiar tu opinión en cualquier momento en la pestaña de [url=$settings$]ajustes del script[/url].",
         "placeholders": {
             "connect": {
                 "content": "$1"
@@ -192,7 +192,7 @@
         "message": "Obtener algunos scripts..."
     },
     "New_userscript": {
-        "message": "<Nuevo userscript>"
+        "message": "<Nuevo UserScript>"
     },
     "Position_": {
         "message": "Posición"
@@ -231,10 +231,10 @@
         "message": "Cancelar"
     },
     "There_are_unsaved_changed_": {
-        "message": "Hay cambios sin guardar.\nEstás seguro que quieres cerrar el editor?"
+        "message": "Hay cambios sin guardar.\n¿Estás seguro que quieres cerrar el editor?"
     },
     "Do_you_really_want_to_store_fixed_code_": {
-        "message": "La opción '$option$' está activada!\n\nEstás seguro que quieres guardar la fuente fija?",
+        "message": "¡La opción '$option$' está activada!\n\n¿Estás seguro que quieres guardar la fuente fija?",
         "placeholders": {
             "option": {
                 "content": "$1"
@@ -242,7 +242,7 @@
         }
     },
     "Really_reset_all_changes_": {
-        "message": "Seguro que quieres revertir todos los cambios?"
+        "message": "¿Seguro que quieres revertir todos los cambios?"
     },
     "Please_wait___": {
         "message": "Por favor espere..."
@@ -284,7 +284,7 @@
         "message": "Este script se ejecuta en modo Chrome"
     },
     "Really_delete_0name0__": {
-        "message": "Seguro que quieres eliminar '$name$'?",
+        "message": "¿Seguro que quieres eliminar '$name$'?",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -307,10 +307,10 @@
         "message": "Desactivado"
     },
     "Unable_to_parse_this_": {
-        "message": "No se pudo interpretar esto! :("
+        "message": "¡No se pudo interpretar esto! :("
     },
     "An_error_occured_during_import_": {
-        "message": "Ocurrió un error durante la importación. Revisa la consola para más información! (CTRL+SHIFT+J)"
+        "message": "Ocurrió un error durante la importación. ¡Revisa la consola para más información! (CTRL+SHIFT+J)"
     },
     "Import": {
         "message": "Importar"
@@ -357,7 +357,7 @@
         "message": "Cada Mes"
     },
     "Update_interval": {
-        "message": "Intervalo de Actualización"
+        "message": "Intervalo de actualización"
     },
     "Indentation_Width": {
         "message": "Ancho de Indentación"
@@ -458,7 +458,7 @@
         "message": "Instalar"
     },
     "A_reload_is_required": {
-        "message": "Se necesita reiniciar: \nSe perderán los cambios sin guardar!"
+        "message": "Se necesita reiniciar: \n¡Se perderán los cambios sin guardar!"
     },
     "Editor_reset": {
         "message": "Restablecer editor"
@@ -467,7 +467,7 @@
         "message": "Restablecer de fábrica"
     },
     "New_script_template_": {
-        "message": "Nueva plantilla de userscript"
+        "message": "Nueva plantilla de UserScript"
     },
     "Running_scripts": {
         "message": "Instancias de scripts en ejecución"
