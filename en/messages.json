@@ -1308,6 +1308,9 @@
   "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
     "message": "All modifications are only kept until this incognito session is closed!"
   },
+  "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
+    "message": "Limited runtime host permissions might break some Tampermonkey features like script update, GM_xmlhttpRequest and others!"
+  },
   "_not_set_": {
     "message": "<not set>"
   },
