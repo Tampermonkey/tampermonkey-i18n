@@ -997,6 +997,15 @@
     "User_excludes": {
         "message": "ユーザーによる exclude"
     },
+    "User_domain_whitelist": {
+        "message": "ユーザーによるドメイン ホワイトリスト"
+    },
+    "Temporary_domain_whitelist": {
+        "message": "一時的なドメイン ホワイトリスト"
+    },
+    "User_domain_blacklist": {
+        "message": "ユーザーによるドメイン ブラックリスト"
+    },
     "XHR_Security": {
         "message": "XHRセキュリティ"
     },
