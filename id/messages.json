@@ -126,7 +126,7 @@
         "message": "Modifikasi"
     },
     "Update": {
-        "message": "Pembaharui"
+        "message": "Perbarui"
     },
     "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
         "message": "$name$ $version$ tersedia.\nSilahkan re-start browser untuk memperbaharui!",
@@ -221,7 +221,7 @@
         "message": "Tak ada script yang berjalan"
     },
     "Add_new_script___": {
-        "message": "Bikin sebuah script..."
+        "message": "Buat sebuah script..."
     },
     "Get_new_scripts___": {
         "message": "Temukan scripts baru..."
@@ -325,7 +325,7 @@
         }
     },
     "Really_reset_all_changes_": {
-        "message": "Beneran ingin atur ulang semua perubahan?"
+        "message": "Serius ingin atur ulang semua perubahan?"
     },
     "Please_wait___": {
         "message": "Silahkan tunggu..."
@@ -343,7 +343,7 @@
         "message": "Aksi"
     },
     "Please_select_a_file": {
-        "message": "Sila pilih berkas"
+        "message": "Silakan pilih berkas"
     },
     "Import": {
         "message": "Impor"
@@ -459,7 +459,7 @@
         "message": "Umum"
     },
     "Script_Update": {
-        "message": "Pembaharuan skrip"
+        "message": "Pembaruan skrip"
     },
     "Check_interval": {
         "message": "Interval Periksa"
@@ -683,7 +683,7 @@
         "message": "Anda dapat menambahkan aturan CSS Anda sendiri untuk Tampermonkey UI di sini. Dalam hal ini Anda dapat memecahkan sesuatu dengan menambahkan ?layout=reset ke halaman pilihan URL."
     },
     "Temporary": {
-        "message": "Temporer"
+        "message": "Sementara"
     },
     "Permanent": {
         "message": "Permanen"
