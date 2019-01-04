@@ -1,4 +1,37 @@
 {
+    "1": {
+        "message": "1"
+    },
+    "2": {
+        "message": "2"
+    },
+    "3": {
+        "message": "3"
+    },
+    "4": {
+        "message": "4"
+    },
+    "5": {
+        "message": "5"
+    },
+    "6": {
+        "message": "6"
+    },
+    "7": {
+        "message": "7"
+    },
+    "8": {
+        "message": "8"
+    },
+    "9": {
+        "message": "9"
+    },
+    "10": {
+        "message": "10"
+    },
+    "11": {
+        "message": "11"
+    },
     "fatal_error": {
         "message": "Erreur fatale"
     },
@@ -35,6 +68,14 @@
         "message": "Télécharger de : $url$",
         "placeholders": {
             "url": {
+                "content": "$1"
+            }
+        }
+    },
+    "Script_0name0_is_slowing_down_some_page_loads_": {
+        "message": "Le script '$name$' ralentit le chargement de la page",
+        "placeholders": {
+            "name": {
                 "content": "$1"
             }
         }
@@ -277,11 +318,55 @@
     "Get_new_scripts___": {
         "message": "Obtenir de nouveaux scripts..."
     },
+    "This_script_was_deleted": {
+        "message": "Ce script a été supprimé"
+    },
+    "This_script_was_executed_0count0_times": {
+        "message": "Ce script a été éxécuté $count$ fois",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "This_script_was_not_executed_yet": {
+        "message": "Ce script n'a pas encore été éxécuté"
+    },
+    "Exclude_0domain0": {
+        "message": "Exclure $domain$",
+        "placeholders": {
+            "domain": {
+                "content": "$1"
+            }
+        }
+    },
     "Check_for_userscripts_updates": {
         "message": "Vérifier les mises à jour d'userscripts"
     },
     "Waiting_for_sync_to_finish": {
         "message": "En attente de la synchronisation pour terminer"
+    },
+    "0count0_changes_imported": {
+        "message": "$count$ modification(s) importée(s)",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "0count0_changes_exported": {
+        "message": "$count$ modifiation(s) exportée(s)",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "Sync_is_running": {
+        "message": "Synchro en cours"
+    },
+    "Sync_finished": {
+        "message": "Synchro terminée"
     },
     "Settings": {
         "message": "Paramètres"
@@ -399,6 +484,9 @@
     },
     "Replace_": {
         "message": "Remplacer ?"
+    },
+    "Stop": {
+        "message": "Stop"
     },
     "There_are_unsaved_changed_": {
         "message": "Il y a des changements non enregistrés.\nVoulez-vous vraiment fermer l'éditeur ?"
@@ -519,6 +607,14 @@
     "Unable_to_parse_this_": {
         "message": "Impossible d'analyser ceci ! :("
     },
+    "Unable_to_parse_0name0": {
+        "message": "Impossible d'analyser $name$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "No_backups_found": {
         "message": "Aucune sauvegarde trouvée"
     },
@@ -536,6 +632,9 @@
     },
     "Include_script_storage": {
         "message": "Inclure le stockage de script"
+    },
+    "Include_script_externals": {
+        "message": "Inclure des ressources de script externes"
     },
     "Include_TM_settings": {
         "message": "Inclure les paramètres Tampermonkey"
@@ -632,6 +731,12 @@
                 "content": "$1"
             }
         }
+    },
+    "Custom_Linter_Config": {
+        "message": "Configuration linter personnalisée"
+    },
+    "You_can_add_your_custom_linter_config_here_": {
+        "message": "Vous pouvez ajouter votre configuration personnalisée pour le linter ici."
     },
     "Indentation_Width": {
         "message": "Taille d'indentation"
@@ -900,6 +1005,9 @@
     },
     "Install_this_script": {
         "message": "Installez ce script"
+    },
+    "Try_to_install_as_script": {
+        "message": "Essayer d'installer en tant que script"
     },
     "New_script_template_": {
         "message": "Modèle de nouvel userscript"
@@ -1200,6 +1308,9 @@
     "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
         "message": "Toutes les modifications ne sont gardées que pendant cette session de navigation privée !"
     },
+    "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
+        "message": "Des autorisations d'hôte d'exécution limitées peuvent empêcher certaines fonctionnalités de Tampermonkey telles que la mise à jour de script, GM_xmlhttpRequest et autres.!"
+    },
     "_not_set_": {
         "message": "<non défini>"
     },
@@ -1248,6 +1359,12 @@
     "Size": {
         "message": "Taille"
     },
+    "Login": {
+        "message": "Nom d'utilisateur"
+    },
+    "Password": {
+        "message": "Mot de passe"
+    },
     "No_entry_found": {
         "message": "Aucune entrée trouvée"
     },
@@ -1290,6 +1407,30 @@
     "severity_1": {
         "message": "1 (le plus sécurisé)"
     },
+    "severity_2": {
+        "message": "2"
+    },
+    "severity_3": {
+        "message": "3"
+    },
+    "severity_4": {
+        "message": "4"
+    },
+    "severity_5": {
+        "message": "5"
+    },
+    "severity_6": {
+        "message": "6"
+    },
+    "severity_7": {
+        "message": "7"
+    },
+    "severity_8": {
+        "message": "8"
+    },
+    "severity_9": {
+        "message": "9"
+    },
     "severity_10": {
         "message": "10 (moins sécurisé)"
     },
@@ -1304,5 +1445,221 @@
     },
     "Ok": {
         "message": "Ok"
+    },
+    "Developer": {
+        "message": "Développeur"
+    },
+    "Templates": {
+        "message": "Modèles"
+    },
+    "Undo": {
+        "message": "Annuler"
+    },
+    "Redo": {
+        "message": "Répéter"
+    },
+    "Cut": {
+        "message": "Couper"
+    },
+    "Copy": {
+        "message": "Copier"
+    },
+    "Paste": {
+        "message": "Coller"
+    },
+    "Select_All": {
+        "message": "Tout sélectionner"
+    },
+    "Toggle_Comment": {
+        "message": "Toggle commentaire"
+    },
+    "Toggle_Comment_Indented": {
+        "message": "Toggle commentaire indenté"
+    },
+    "Toggle_Block_Comment": {
+        "message": "Toggle bloc de commentaire"
+    },
+    "Replace_All": {
+        "message": "Tout remplacer"
+    },
+    "Lines": {
+        "message": "Lignes"
+    },
+    "Indent_Less": {
+        "message": "Désindenter"
+    },
+    "Indent_More": {
+        "message": "Indenter"
+    },
+    "Move_Line_Up": {
+        "message": "Déplacer la ligne vers le haut"
+    },
+    "Move_Line_Down": {
+        "message": "Déplacer la ligne vers le bas"
+    },
+    "Duplicate_Lines": {
+        "message": "Dupliquer des lignes"
+    },
+    "Delete_Line": {
+        "message": "Supprimer la ligne"
+    },
+    "Join_Lines": {
+        "message": "Joindre des lignes"
+    },
+    "Insert_Line_Before": {
+        "message": "Insérer une ligne avant"
+    },
+    "Insert_Line_After": {
+        "message": "Insérer une ligne après"
+    },
+    "Text": {
+        "message": "Texte"
+    },
+    "Upper_Case": {
+        "message": "Majuscule"
+    },
+    "Lower_Case": {
+        "message": "Minuscule"
+    },
+    "Delete_Line_Left": {
+        "message": "Supprimer la ligne à gauche"
+    },
+    "Delete_Line_Right": {
+        "message": "Supprimer la ligne à droite"
+    },
+    "Delete_to_Previous_Word_Boundary": {
+        "message": "Supprimer à la limite de mot précédent"
+    },
+    "Delete_to_Next_Word_Boundary": {
+        "message": "Supprimer à la prochaine limite de mot"
+    },
+    "Transpose": {
+        "message": "Transposer"
+    },
+    "Line_Case_Insensitive": {
+        "message": "Ligne insensible à la casse"
+    },
+    "Folding": {
+        "message": "Repliable"
+    },
+    "Fold": {
+        "message": "Replier"
+    },
+    "Unfold": {
+        "message": "Déplier"
+    },
+    "Fold_All": {
+        "message": "Tout replier"
+    },
+    "Unfold_All": {
+        "message": "Tout déplier"
+    },
+    "Sublime_Mark": {
+        "message": "Sublime Mark"
+    },
+    "Set_Sublime_Mark": {
+        "message": "Mettre Sublime Mark"
+    },
+    "Select_to_Sublime_Mark": {
+        "message": "sélectionner jusqu'à Sublime Mark"
+    },
+    "Swap_with_Sublime_Mark": {
+        "message": "Échanger avec Sublime Mark"
+    },
+    "Delete_to_Sublime_Mark": {
+        "message": "Supprimer jusqu'à Sublime Mark"
+    },
+    "Yank_Sublime_Mark": {
+        "message": "Yank Sublime Mark"
+    },
+    "Selection": {
+        "message": "Sélection"
+    },
+    "Incremental_Find": {
+        "message": "Recherche incrémentielle"
+    },
+    "Add_Selection_Above": {
+        "message": "Ajouter la sélection ci-dessus"
+    },
+    "Add_Selection_Below": {
+        "message": "Ajouter la sélection ci-dessous"
+    },
+    "Split_into_Lines": {
+        "message": "Diviser en lignes"
+    },
+    "Select_Line": {
+        "message": "Sélectionner une ligne"
+    },
+    "Select_Scope": {
+        "message": "Sélectionner la portée"
+    },
+    "Select_Bookmarks": {
+        "message": "Sélectionner des favoris"
+    },
+    "Select_between_Brackets": {
+        "message": "Sélectionner entre brackets"
+    },
+    "Select_Next_Occurrence": {
+        "message": "Sélectionner la prochaine occurrence"
+    },
+    "Find": {
+        "message": "Chercher"
+    },
+    "Find_Next": {
+        "message": "Chercher suivant"
+    },
+    "Find_Previous": {
+        "message": "Chercher précédent"
+    },
+    "Find_Under": {
+        "message": "Chercher sous"
+    },
+    "Find_All_Under": {
+        "message": "Tout chercher sous"
+    },
+    "Find_Under_Previous": {
+        "message": "Chercher sous le précédent"
+    },
+    "GoTo": {
+        "message": "Aller à"
+    },
+    "Document_Start": {
+        "message": "Début du document"
+    },
+    "Document_End": {
+        "message": "Fin du document"
+    },
+    "Group_Left": {
+        "message": "Groupe gauche"
+    },
+    "Group_Right": {
+        "message": "Groupe droite"
+    },
+    "Closing_Bracket": {
+        "message": "Fermer les bracket"
+    },
+    "Line_Up": {
+        "message": "Ligne vers le haut"
+    },
+    "Line_Down": {
+        "message": "Ligne vers le bas"
+    },
+    "Center_Cursor": {
+        "message": "Curseur central"
+    },
+    "Bookmarks": {
+        "message": "Favoris"
+    },
+    "Toggle": {
+        "message": "Commuter"
+    },
+    "Clear_All": {
+        "message": "Tout effacer"
+    },
+    "Next_Bookmark": {
+        "message": "Favoris suivant"
+    },
+    "Prev_Bookmark": {
+        "message": "Favoris précédent"
     }
 }
