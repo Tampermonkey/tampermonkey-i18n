@@ -6,7 +6,7 @@
         "message": "歡迎贊助"
     },
     "I_contributed_already": {
-        "message": "我已贊助"
+        "message": "已經贊助"
     },
     "Remind_me_later": {
         "message": "稍後提醒"
@@ -70,7 +70,7 @@
         "message": "降級的腳本可能會在讀取已儲存資料時發生問題！"
     },
     "Malicious_scripts_can_violate_your_privacy_": {
-        "message": "惡意腳本會侵犯您的隱私並假裝您做您不知道的事！\n您應該只從您相信的來源安裝腳本。"
+        "message": "惡意腳本會侵犯您的隱私並假裝偽裝您的身份去做您意想不到的事！\n您應該只從您信任的來源安裝腳本。"
     },
     "You_are_about_to_modify_a_UserScript_": {
         "message": "使用者腳本修改"
@@ -85,7 +85,7 @@
         "message": "此腳本沒有提供任何 @include 資訊。"
     },
     "All_script_settings_will_be_reset_": {
-        "message": "全部的腳本設置將會重設！"
+        "message": "全部的腳本設定都會被重設！"
     },
     "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
         "message": "更新的 url 已經從：\n    '$oldurl$'\n    變更為：\n    '$newurl$'\n",
@@ -111,13 +111,13 @@
         "message": "排除URL(s)"
     },
     "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-        "message": "為了運行當前腳本需要開啟 GreaseMonkey/FF 相容性選項。"
+        "message": "為了執行目前腳本需要開啟 GreaseMonkey/FF 相容性選項。"
     },
     "Author": {
         "message": "作者"
     },
     "Description": {
-        "message": "敘述"
+        "message": "描述"
     },
     "Source": {
         "message": "來源"
@@ -138,7 +138,7 @@
         "message": "更新"
     },
     "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
-        "message": "$name$ $version$ 可供更新。\n\n請重開瀏覽器來進行更新！",
+        "message": "$name$ $version$ 可供更新。\n\n請重新啟動瀏覽器來進行更新！",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -208,10 +208,10 @@
         }
     },
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
-        "message": "使用者腳本需要獲取跨網域資源。"
+        "message": "使用者腳本需要取得跨網域資源。"
     },
     "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
-        "message": "跨網域資源請求並非異常。\n只需檢查此腳本是否具有訪問本網域的充分理由即可。\n例如，使用者腳本只有非常少的理由存取您的銀行帳號。\n\n請注意，使用者腳本作者可透過在腳本增加[url=$connect$]@connect標籤[/url]來避免此對話框。\n\n不論如何，您可以隨時在腳本[url=$settings$]設置欄[/url]更改您的設定。",
+        "message": "跨網域資源請求並不代表異常行為。\n您只需確認此腳本是否具有充分理由存取此網域即可。\n例如，使用者腳本很少有會需要存取您的銀行帳號。\n\n請注意，使用者腳本作者可透過在腳本增加[url=$connect$]@connect標籤[/url]來避免此對話框。\n\n無論如何，您可以隨時在腳本[url=$settings$]設定欄[/url]更改您的設定。",
         "placeholders": {
             "connect": {
                 "content": "$1"
@@ -242,13 +242,13 @@
         }
     },
     "No_script_is_running": {
-        "message": "沒有腳本在運行"
+        "message": "沒有腳本在執行"
     },
     "Add_new_script___": {
         "message": "新增腳本..."
     },
     "Get_new_scripts___": {
-        "message": "獲得新腳本..."
+        "message": "取得新腳本..."
     },
     "Check_for_userscripts_updates": {
         "message": "檢查使用者腳本更新"
@@ -257,7 +257,7 @@
         "message": "正在等待同步結束"
     },
     "Settings": {
-        "message": "設置"
+        "message": "設定"
     },
     "Debug_scripts": {
         "message": "為腳本除錯"
@@ -332,7 +332,7 @@
         "message": "為 Object 和 Array 增加相容性函式"
     },
     "Run_at": {
-        "message": "運行於："
+        "message": "執行於："
     },
     "Update_URL_": {
         "message": "更新 URL"
@@ -424,13 +424,13 @@
         "message": "此腳本可完全存取網際網路。"
     },
     "This_is_a_system_script": {
-        "message": "這是個系統腳本。"
+        "message": "這是一個系統腳本。"
     },
     "This_is_a_chrome_extension": {
-        "message": "這是個 Chrome 擴充功能"
+        "message": "這是一個 Chrome 擴充功能"
     },
     "This_script_runs_in_Chrome_mode": {
-        "message": "此腳本運行於 Chrome 模式"
+        "message": "此腳本執行於 Chrome 模式"
     },
     "This_is_a_userscript": {
         "message": "這個使用者腳本是用 Javascript 寫的"
@@ -458,7 +458,7 @@
         "message": "匯入匯出工具"
     },
     "This_script_uses_uW_gm_api_": {
-        "message": "此腳本使用了一些 Greasemonkey 10 API (unsafeWindow.gmonkey)。\n既不被 Tampermonkey 支持也不被其他任何腳本處理外掛支持。"
+        "message": "此腳本使用了一些 Greasemonkey 10 API (unsafeWindow.gmonkey)。\n既不被 Tampermonkey 支援也不被其他任何腳本處理外掛支援。"
     },
     "some_secs": {
         "message": "一些"
@@ -496,7 +496,7 @@
         "message": "包含腳本儲存空間"
     },
     "Include_TM_settings": {
-        "message": "包含 Tampermonkey 設置"
+        "message": "包含 Tampermonkey 設定"
     },
     "File": {
         "message": "檔案"
@@ -566,10 +566,10 @@
         "message": "主題"
     },
     "Key_Mapping": {
-        "message": "按鍵配置"
+        "message": "按鍵設定"
     },
     "Please_check_the_0editor0_documentation_for_more_details_": {
-        "message": "請檢查 $editor$ 文件以獲得更多訊息。",
+        "message": "請檢查 $editor$ 文件以取得更多資訊。",
         "placeholders": {
             "editor": {
                 "content": "$1"
@@ -607,16 +607,16 @@
         "message": "輸入時重新縮排"
     },
     "Auto_reload_on_script_enabled": {
-        "message": "自動重載頁面"
+        "message": "自動重新載入頁面"
     },
     "Auto_reload_on_script_enabled_desc": {
-        "message": "在腳本啟用/停用後重載相關頁面"
+        "message": "在腳本啟用/停用後重新載入相關頁面"
     },
     "Anonymous_statistics": {
         "message": "匿名統計資料"
     },
     "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-        "message": "允許 Tampermonkey 由 Google Analytics 蒐集匿名統計資料。這能讓我改進 Tampermonkey 並且決定該著重在哪個方面進行開發。如果您不喜歡可以關掉。"
+        "message": "允許 Tampermonkey 透過 Google Analytics 蒐集匿名統計資料。這能讓我改進 Tampermonkey 並且決定該著重在哪個方面進行開發。如果您不喜歡可以關掉。"
     },
     "Dont_ask_me_for_simple_script_updates": {
         "message": "簡單的腳本更新不需詢問"
@@ -664,7 +664,7 @@
         "message": "副檔名白名單"
     },
     "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
-        "message": "只有這些副檔名的檔案可以被存在磁碟上。\n小心！不要寫上您的作業系統中可執行檔案的副檔名！"
+        "message": "只有這些副檔名的檔案可以被存在磁碟上。\n小心！不要使用在您的作業系統上可執行檔案的副檔名！"
     },
     "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
         "message": "您的白名單看起來包含了可執行檔案的副檔名！\n這意味著您的使用者腳本或許會下載惡意軟體或間諜軟體到您的磁碟上！！"
@@ -673,7 +673,7 @@
         "message": "瀏覽器 API 下載"
     },
     "Click_here_to_allow_TM_to_start_downloads": {
-        "message": "點擊這裡允許 Tampermonkey 開始下載。"
+        "message": "點此允許 Tampermonkey 開始下載。"
     },
     "Page_Filter_Mode": {
         "message": "網頁過濾模式"
@@ -691,16 +691,16 @@
         "message": "白名單"
     },
     "Both": {
-        "message": "兩者都用"
+        "message": "同時使用兩者"
     },
     "Experimental": {
         "message": "實驗室"
     },
     "strict_mode": {
-        "message": "script mode"
+        "message": "嚴格模式"
     },
     "This_page_is_blacklisted_at_the_security_settings": {
-        "message": "此頁面由於安全設定被黑名單了"
+        "message": "此頁面由於安全性設定被加入黑名單了"
     },
     "Update_Notification": {
         "message": "顯示 TamperMonkey 更新提示"
@@ -735,19 +735,19 @@
         "message": "檢查更新"
     },
     "Click_here_to_move_this_script": {
-        "message": "按此移動這個腳本"
+        "message": "點此移動這個腳本"
     },
     "overwritten_by_user": {
-        "message": "被用戶設置覆蓋"
+        "message": "被使用者設定覆蓋"
     },
     "Report_a_bug": {
         "message": "回報 bug"
     },
     "A_reload_is_required": {
-        "message": "需要重載：\n所有未儲存更改會不見！"
+        "message": "需要重新載入：\n所有尚未儲存的變更都會遺失！"
     },
     "Save_to_disk": {
-        "message": "儲存到硬碟"
+        "message": "儲存到磁碟"
     },
     "Editor_reset": {
         "message": "編輯器重設"
@@ -785,7 +785,7 @@
         "message": "只檢查小於此長度的腳本。"
     },
     "Highlight_trailing_whitespace": {
-        "message": "反白結尾的空格"
+        "message": "標注行尾的空白"
     },
     "Dashboard": {
         "message": "控制台(Dashboard)"
@@ -800,10 +800,10 @@
         "message": "安裝此腳本"
     },
     "New_script_template_": {
-        "message": "新使用者腳本模板"
+        "message": "新使用者腳本樣板"
     },
     "Icon_badge_info": {
-        "message": "圖示徽章訊息"
+        "message": "圖示徽章資訊"
     },
     "Icon_badge_color": {
         "message": "圖示徽章顏色"
@@ -815,16 +815,16 @@
         "message": "關閉"
     },
     "Running_scripts": {
-        "message": "運行中的腳本"
+        "message": "執行中的腳本"
     },
     "Unique_running_scripts": {
-        "message": "單獨運行中的腳本"
+        "message": "單獨執行中的腳本"
     },
     "Disabled_scripts": {
         "message": "已停止的腳本"
     },
     "Config_Mode": {
-        "message": "設置模式"
+        "message": "設定模式"
     },
     "Novice": {
         "message": "菜鳥"
@@ -836,7 +836,7 @@
         "message": "專家"
     },
     "Changes_the_number_of_visible_config_options": {
-        "message": "改變可見選設置選項的數量"
+        "message": "改變可見選設定選項的數量"
     },
     "Enter_the_new_rule": {
         "message": "輸入新規則"
@@ -931,7 +931,7 @@
         "message": "更新"
     },
     "Apply_this_action_to_the_selected_scripts": {
-        "message": "應用此動作於所選腳本"
+        "message": "在鎖選擇的腳本上套用此動作"
     },
     "Start": {
         "message": "開始"
@@ -949,13 +949,13 @@
         "message": "重設"
     },
     "Restart_Tampermonkey": {
-        "message": "重起 Tampermonkey"
+        "message": "重啟 Tampermonkey"
     },
     "This_will_restart_Tampermonkey_Ok_": {
         "message": "確定要重起 Tampermonkey 嗎？"
     },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
-        "message": "Tampermonkey 需要重起才能套用變更。\n\n您確定要繼續嗎？"
+        "message": "Tampermonkey 需要重啟才能套用變更。\n\n您確定要繼續嗎？"
     },
     "Factory_Reset": {
         "message": "重設成出廠設定"
@@ -985,7 +985,7 @@
         "message": "此網頁至少有一部分被列在 '禁止的網頁' 設定清單上！"
     },
     "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
-        "message": "某些腳本可能被此網頁的 Javascript 設定或是腳本攔截器禁用！"
+        "message": "某些腳本可能被此網頁的 Javascript 設定或是腳本攔截器封鎖！"
     },
     "Show_notification": {
         "message": "顯示一個提示"
@@ -1000,10 +1000,10 @@
         "message": "原生的"
     },
     "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
-        "message": "Tampermonkey 需要知道您瀏覽器的 Profile 絕對路徑才能進行腳本匯入。\n\n點此閱讀 FAQ 來獲得說明！"
+        "message": "Tampermonkey 需要知道您瀏覽器的 Profile 絕對路徑才能進行腳本匯入。\n\n點此閱讀 FAQ 來取得說明！"
     },
     "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-        "message": "Tampermonkey 需要存取檔案 URIs 的權限才能進行腳本匯入。\n\n點此閱讀 FAQ 來獲得說明！"
+        "message": "Tampermonkey 需要存取檔案 URIs 的權限才能進行腳本匯入。\n\n點此閱讀 FAQ 來取得說明！"
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey 沒有存取本地檔案的權限！"
@@ -1039,7 +1039,7 @@
         "message": "在原生使用者腳本成功匯入後該執行什麼動作？"
     },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
-        "message": "在 Tampermonkey 被瀏覽器更新後同時也被重新啟動了。但這樣會阻斷正在運行的腳本！\n\n您確定不要被提示更新嗎？"
+        "message": "在 Tampermonkey 被瀏覽器更新後同時也被重新啟動了。但這樣會阻斷正在執行的腳本！\n\n您確定不要被提示更新嗎？"
     },
     "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
         "message": "所有修改將只在此無痕模式 session 關閉後才會留存！"
@@ -1051,7 +1051,7 @@
         "message": "<未設定>"
     },
     "Layout": {
-        "message": "介面配置"
+        "message": "介面設定"
     },
     "Store_data_in_incognito_mode": {
         "message": "在無痕模式儲存資料"
@@ -1099,7 +1099,7 @@
         "message": "手動設定使用者腳本還有 @require 黑名單"
     },
     "This_script_is_blacklisted_": {
-        "message": "此腳本已被黑名單！"
+        "message": "此腳本已被列入黑名單！"
     },
     "Report_an_issue_to_the_script_hoster_": {
         "message": "回報為垃圾或惡意腳本\n(可能需要登入)"
@@ -1123,7 +1123,7 @@
         "message": "10 (最不安全)"
     },
     "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
-        "message": "您的語言沒有被翻譯嗎？\n點這裡了解如何翻譯 Tampermonkey"
+        "message": "您的語言沒有被翻譯嗎？\n點選這裡了解如何翻譯 Tampermonkey"
     },
     "Default": {
         "message": "預設"
