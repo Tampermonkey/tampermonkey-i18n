@@ -697,7 +697,7 @@
         "message": "實驗室"
     },
     "strict_mode": {
-        "message": "script mode"
+        "message": "嚴格模式"
     },
     "This_page_is_blacklisted_at_the_security_settings": {
         "message": "此頁面由於安全設定被黑名單了"
