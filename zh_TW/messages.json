@@ -418,7 +418,7 @@
         "message": "此腳本可存取 https 頁面。"
     },
     "One_or_more_compatibility_options_are_set": {
-        "message": "此腳本開啟了一個或多個 Chrome 相容選項。 您可以(應當)詳細檢查。"
+        "message": "此腳本開啟了一個或多個 Chrome 相容選項。您可以（應當）詳細檢查。"
     },
     "This_script_has_full_web_access": {
         "message": "此腳本可完全存取網際網路。"
@@ -979,7 +979,7 @@
         "message": "將 Tampermonkey 加入到網站的 content security policy (CSP) 如果有的話"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
-        "message": "當這個選項被停用時，Tampermonkey 將無法提供存取 unsafe context (unsafeWindow, 網頁的函式和變數)。"
+        "message": "當這個選項被停用時，Tampermonkey 將無法提供存取 unsafe context（unsafeWindow，網頁的函式和變數）。"
     },
     "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
         "message": "此網頁至少有一部分被列在 '禁止的網頁' 設定清單上！"
@@ -1102,7 +1102,7 @@
         "message": "此腳本已被黑名單！"
     },
     "Report_an_issue_to_the_script_hoster_": {
-        "message": "回報為垃圾或惡意腳本\n(可能需要登入)"
+        "message": "回報為垃圾或惡意腳本\n（可能需要登入）"
     },
     "Blacklist_Severity": {
         "message": "照嚴重等級禁用"
@@ -1117,10 +1117,10 @@
         "message": "腳本排序"
     },
     "severity_1": {
-        "message": "1 (最安全)"
+        "message": "1（最安全）"
     },
     "severity_10": {
-        "message": "10 (最不安全)"
+        "message": "10（最不安全）"
     },
     "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
         "message": "您的語言沒有被翻譯嗎？\n點這裡了解如何翻譯 Tampermonkey"
