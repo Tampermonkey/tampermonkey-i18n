@@ -24,7 +24,7 @@
         "message": "無效的使用者腳本名稱。抱歉！"
     },
     "Script_name_0name0": {
-        "message": "腳本名稱： $name$",
+        "message": "腳本名稱：$name$",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -234,7 +234,7 @@
         "message": "沒有發現更新喔，抱歉！"
     },
     "Unknown_method_0name0": {
-        "message": "未知方法： $name$",
+        "message": "未知方法：$name$",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -510,7 +510,7 @@
         }
     },
     "Updated_to__0version0": {
-        "message": "已更新到： $version$ 版",
+        "message": "已更新到：$version$ 版",
         "placeholders": {
             "version": {
                 "content": "$1"
@@ -706,7 +706,7 @@
         "message": "顯示 TamperMonkey 更新提示"
     },
     "Unable_to_load_script_from_url_0url0": {
-        "message": "無法載入腳本從 url： \n $url$",
+        "message": "無法載入腳本從 url：\n $url$",
         "placeholders": {
             "url": {
                 "content": "$1"
