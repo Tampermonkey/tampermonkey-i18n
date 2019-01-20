@@ -99,16 +99,16 @@
         }
     },
     "Attention_Can_not_display_all_includes_": {
-        "message": "注意： 收錄URL(s)列表變化。\n請手動檢查！"
+        "message": "注意：收錄 URL(s) 列表變化。\n請手動檢查！"
     },
     "Attention_Can_not_display_all_excludes_": {
-        "message": "注意： 排除URL(s)列表變化。\n請手動檢查！"
+        "message": "注意：排除 URL(s) 列表變化。\n請手動檢查！"
     },
     "Include_s__": {
-        "message": "收錄URL(s)"
+        "message": "收錄 URL(s)"
     },
     "Exclude_s__": {
-        "message": "排除URL(s)"
+        "message": "排除 URL(s)"
     },
     "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
         "message": "為了運行當前腳本需要開啟 GreaseMonkey/FF 相容性選項。"
@@ -149,7 +149,7 @@
         }
     },
     "Process_with_Chrome": {
-        "message": "用Chrome執行"
+        "message": "用 Chrome 執行"
     },
     "Enforce": {
         "message": "強制"
@@ -200,7 +200,7 @@
         "message": "重點來源欄標"
     },
     "Skip_timeout__0seconds0_seconds_": {
-        "message": "跳過超時（$seconds$秒）",
+        "message": "跳過超時（$seconds$ 秒）",
         "placeholders": {
             "seconds": {
                 "content": "$1"
@@ -269,13 +269,13 @@
         "message": "紀錄等級"
     },
     "Trace": {
-        "message": "追蹤(Trace)"
+        "message": "追蹤 (Trace)"
     },
     "Verbose": {
-        "message": "詳細(Verbose)"
+        "message": "詳細 (Verbose)"
     },
     "Debug": {
-        "message": "除錯(Debug)"
+        "message": "除錯 (Debug)"
     },
     "Installed_userscripts": {
         "message": "已安裝的使用者腳本"
@@ -490,7 +490,7 @@
         "message": "文字區"
     },
     "Zip": {
-        "message": "Zip檔"
+        "message": "Zip 檔"
     },
     "Include_script_storage": {
         "message": "包含腳本儲存空間"
@@ -589,7 +589,7 @@
         "message": "空格"
     },
     "TabMode": {
-        "message": "Tab模式"
+        "message": "Tab 模式"
     },
     "Classic": {
         "message": "傳統型"
@@ -788,7 +788,7 @@
         "message": "反白結尾的空格"
     },
     "Dashboard": {
-        "message": "控制台(Dashboard)"
+        "message": "控制台 (Dashboard)"
     },
     "Userscripts": {
         "message": "使用者腳本"
