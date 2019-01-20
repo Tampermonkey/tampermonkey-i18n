@@ -889,7 +889,7 @@
         "message": "XHR 安全性"
     },
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
-        "message": "發生內部錯誤。若問題持續，請按 OK 並且向論壇回報這問題。n\n想去 Tampermonkey 論壇嗎？"
+        "message": "發生內部錯誤。若問題持續，請按 OK 並且向論壇回報這問題。\n\n想去 Tampermonkey 論壇嗎？"
     },
     "Enable_Script_Sync": {
         "message": "啟用 TESLA"
