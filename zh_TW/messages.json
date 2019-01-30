@@ -952,7 +952,7 @@
         "message": "重啟 Tampermonkey"
     },
     "This_will_restart_Tampermonkey_Ok_": {
-        "message": "確定要重起 Tampermonkey 嗎？"
+        "message": "確定要重啟 Tampermonkey 嗎？"
     },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
         "message": "Tampermonkey 需要重啟才能套用變更。\n\n您確定要繼續嗎？"
