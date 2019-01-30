@@ -219,6 +219,9 @@
     "Dont_ask_again": {
         "message": "二度と表示しない"
     },
+    "Focus_tab": {
+        "message": "ソース タブにフォーカスを移動"
+    },
     "Skip_timeout__0seconds0_seconds_": {
         "message": "タイムアウトをスキップ ($seconds$秒)",
         "placeholders": {
@@ -232,6 +235,9 @@
     },
     "Destination_URL": {
         "message": "宛先URL"
+    },
+    "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
+        "message": "この操作によりこのスクリプトにあらゆるウェブページにデータを送受信する権限を与えることになります。これは潜在的に危険です!\n\n本当に続行しますか?"
     },
     "No_update_found__sry_": {
         "message": "更新はありません。すみません!"
@@ -558,6 +564,9 @@
     },
     "TextArea": {
         "message": "テキストエリア"
+    },
+    "Zip": {
+        "message": "ZIP"
     },
     "Include_script_storage": {
         "message": "スクリプトのストレージを含める"
@@ -1440,6 +1449,9 @@
     },
     "Select_between_Brackets": {
         "message": "中括弧内の内側を選択"
+    },
+    "Select_Next_Occurrence": {
+        "message": "次の出現箇所を選択"
     },
     "Find": {
         "message": "検索"
