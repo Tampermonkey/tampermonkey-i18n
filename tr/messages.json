@@ -1,9 +1,42 @@
 {
+    "1": {
+        "message": "1"
+    },
+    "2": {
+        "message": "2"
+    },
+    "3": {
+        "message": "3"
+    },
+    "4": {
+        "message": "4"
+    },
+    "5": {
+        "message": "5"
+    },
+    "6": {
+        "message": "6"
+    },
+    "7": {
+        "message": "7"
+    },
+    "8": {
+        "message": "8"
+    },
+    "9": {
+        "message": "9"
+    },
+    "10": {
+        "message": "10"
+    },
+    "11": {
+        "message": "11"
+    },
     "fatal_error": {
-        "message": "ölümcül hata"
+        "message": "Kritik hata"
     },
     "Please_consider_a_contribution": {
-        "message": "Lütfen bağış gönder"
+        "message": "Lütfen bağış yapmayı düşünün"
     },
     "I_contributed_already": {
         "message": "Zaten bağış yaptım"
@@ -40,7 +73,7 @@
         }
     },
     "Please_double_check_the_native_script_import_settings__": {
-        "message": "Kullanıcı Betiği yüklenemiyor!!\n\nLütfen 'Native Script İçe Aktarma' ayarlarını tekrar kontrol edin."
+        "message": "Kullanıcı Betiği yüklenemiyor!!\n\nLütfen 'Yerel Betik İçe Aktarma' ayarlarını tekrar kontrol edin."
     },
     "Name": {
         "message": "Adı"
@@ -64,10 +97,10 @@
         "message": "Kullanıcı betiğini tekrar yükle"
     },
     "You_are_about_to_downgrade_a_UserScript": {
-        "message": "Dikkat! Kullnıcı betiği sürümü düşürülüyor"
+        "message": "Dikkat! Kullanıcı betiği sürümü düşürülüyor"
     },
     "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
-        "message": "Düşürülen betik saklanan verileri okumakta zorluk çekebilir!"
+        "message": "Sürümü düşürülen betik, kayıtlı verileri okumakta zorluk çekebilir!"
     },
     "Malicious_scripts_can_violate_your_privacy_": {
         "message": "Kötü amaçlı betikler gizliliğinizi ihlal edebilir ve sizin adınıza hareket edebilir!\nYalnızca güvendiğiniz kaynaklardan betikler yükleyin."
@@ -88,13 +121,13 @@
         "message": "Bu betiğin kaynağı belirlenemiyor.\nYa kişisel verilerinizi çalmak amacıyla üçüncü parti zararlı tarafından yüklendi ya da bazi basit tarayıcı ayarları, işletim sistemiziniz ya da donanım değişti!\nBu değişiklik onu etkinleştirecek!"
     },
     "This_script_does_not_provide_any__include_information_": {
-        "message": "Bu betik herhangi bir @include bilgisi sağlamaz."
+        "message": "Bu betik herhangi bir @include bilgisi sağlamıyor."
     },
     "All_script_settings_will_be_reset_": {
         "message": "Tüm betik ayarları sıfırlanır!"
     },
     "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
-        "message": "Güncelleme URL adresi değişti:\n    '$oldurl$'\n    to:\n    '$newurl$'\n",
+        "message": "Güncelleme adresi değişti:\n    '$oldurl$'\n    Yerine:\n    '$newurl$'\noldu.",
         "placeholders": {
             "oldurl": {
                 "content": "$1"
@@ -129,7 +162,7 @@
         "message": "Editör"
     },
     "Description": {
-        "message": "Açklama"
+        "message": "Açıklama"
     },
     "Source": {
         "message": "Kaynak"
@@ -141,7 +174,7 @@
         "message": "Değişiklikler"
     },
     "The_diff_for_this_script_is_too_large_to_render": {
-        "message": "Bu betik için farklılık işlenemeyecek kadar büyük"
+        "message": "Bu betiğin değişiklikleri gösterilemeyecek kadar büyük"
     },
     "Current_Version": {
         "message": "Mevcut Sürüm"
@@ -176,7 +209,7 @@
         }
     },
     "Process_with_Chrome": {
-        "message": "Tarayıcı ile işlem"
+        "message": "Tarayıcı ile işle"
     },
     "Enforce": {
         "message": "Zorla"
@@ -227,7 +260,7 @@
         "message": "Kaynak sekmesine odakla"
     },
     "Skip_timeout__0seconds0_seconds_": {
-        "message": "Zaman aşımı atlama ($seconds$ seconds)",
+        "message": "Yoksayma zaman aşımı ($seconds$ saniye)",
         "placeholders": {
             "seconds": {
                 "content": "$1"
@@ -235,10 +268,10 @@
         }
     },
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
-        "message": "Bir kullanıcı betiği çapraz kaynak kaynağına erişmek istiyor."
+        "message": "Bir kullanıcı betiği kökler arası bir kaynağa erişmek istiyor."
     },
     "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
-        "message": "Çapraz kaynağa yönelik bir talep olağandışı bir şey değildir.\nBu betiğin etki alanına erişmek için iyi bir nedeninin olup olmadığını kontrol etmeniz yeterlidir.\nÖrneğin, bir kullanıcı betiğinin bankanızla iletişim kurmasının çok az nedeni vardır.\n\nKullanıcı betiği editörlerinin bu diyaloğu önlemek için betiğe [url=$connect$]@connect tags[/url] ekleyebileğini lütfen unutmayın.\n\nNe şekilde karar vereceğinizden bağımsız olarak, betiğinizin [url=$settings$]ayarlar sekmesinden[/url] istediğiniz zaman fikrinizi değiştirebilirsiniz.",
+        "message": "Kökler arası kaynağa yönelik bir talep olağandışı bir şey değildir.\nBu betiğin etki alanına erişmek için iyi bir nedeninin olup olmadığını kontrol etmeniz yeterlidir.\nÖrneğin, bir kullanıcı betiğinin bankanızla iletişim kurmasının çok az nedeni vardır.\n\nKullanıcı betiği editörlerinin bu diyaloğu önlemek için betiğe [url=$connect$]@connect tags[/url] ekleyebileğini lütfen unutmayın.\n\nNe şekilde karar vereceğinizden bağımsız olarak, betiğinizin [url=$settings$]ayarlar[/url] sekmesindenistediğiniz zaman fikrinizi değiştirebilirsiniz.",
         "placeholders": {
             "connect": {
                 "content": "$1"
@@ -258,7 +291,7 @@
         "message": "Hedef URL"
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
-        "message": "Bu, bu betiğe her web sayfasından veri almak ve göndermek için izin verir. Bu potansiyel olarak güvensizdir!\n\nDevam etmek istediğinize emin misiniz?"
+        "message": "Bu, bu betiğe her web sayfasından veri almak ve göndermek için izin verir. Bu potansiyel olarak güvenilir değildir!\n\nDevam etmek istediğinize emin misiniz?"
     },
     "No_update_found__sry_": {
         "message": "Hiç güncelleme bulunamadı, üzgünüm!"
@@ -275,7 +308,7 @@
         "message": "Hiçbir betik çalışmıyor"
     },
     "Add_new_script___": {
-        "message": "Yeni betik oluştur..."
+        "message": "Yeni betik ekle..."
     },
     "Get_new_scripts___": {
         "message": "Yeni betikler bul..."
@@ -314,7 +347,7 @@
         "message": "Hiç betik yüklenmedi"
     },
     "Get_some_scripts___": {
-        "message": "Bazı betikler al..."
+        "message": "Biraz betik al..."
     },
     "New_userscript": {
         "message": "<Yeni kullanıcı betiği>"
@@ -323,7 +356,7 @@
         "message": "Yardım"
     },
     "Changelog": {
-        "message": "Değişiklik günlüğü"
+        "message": "Değişim kaydı"
     },
     "Position_": {
         "message": "Konum"
@@ -491,19 +524,19 @@
         }
     },
     "This_script_has_access_to_webpage_scripts": {
-        "message": "Bu öğenin web sayfasına tam erişimi var."
+        "message": "Bu öğenin webpage bilgisine tam erişimi var."
     },
     "Utilities": {
         "message": "Araçlar"
     },
     "This_script_uses_uW_gm_api_": {
-        "message": "Bu betik, Tampermonkey tarafından desteklenmeyen Greasemonkey 10 API (unsafeWindow.gmonkey)\nthat bir kısmını ve başka alternatif betik işleyicisini kullanır."
+        "message": "Bu betik, Tampermonkey ve diğer betik sağlayıcılar tarafından desteklenmeyen\nGreasemonkey 10 API (unsafeWindow.gmonkey) kullanıyor."
     },
     "some_secs": {
         "message": "bazı"
     },
     "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
-        "message": "ANLAŞMAZLIK:\nBu betik, $t$ saniye önce başka bir sekme tarafından değiştirildi!",
+        "message": "SORUN:\nBu betik, $t$ saniye önce başka bir sekme tarafından değiştirildi!",
         "placeholders": {
             "t": {
                 "content": "$1"
@@ -517,7 +550,15 @@
         "message": "Etkin değil"
     },
     "Unable_to_parse_this_": {
-        "message": "Bu ayrıştırılamadı! :("
+        "message": "Bu çözümlenemedi! :("
+    },
+	  "Unable_to_parse_0name0": {
+        "message": "$name$ çözümlenemedi",
+          "placeholders": {
+			"name": {
+			  "content": "$1"
+          }
+       }
     },
     "No_backups_found": {
         "message": "Yedek bulunamadı"
@@ -549,7 +590,7 @@
         }
     },
     "Just_another_service_provided_by_your_friendly_script_updater_": {
-        "message": "Dostça betik güncelleyicisi tarafından sağlanan başka bir hizmet"
+        "message": "Arkadaş canlısı betik güncelleyiciniz tarafından sağlanan başka bir hizmet"
     },
     "Updated_to__0version0": {
         "message": "Güncellendi: $version$",
@@ -569,7 +610,7 @@
         "message": "Betik Güncelle"
     },
     "Check_interval": {
-        "message": "Aralığı Kontrol Et"
+        "message": "Zaman aralığını kontrol et"
     },
     "Always": {
         "message": "Her zaman"
@@ -614,10 +655,10 @@
         "message": "Pencere"
     },
     "Sublime": {
-        "message": "Sublime"
+        "message": "Sublim"
     },
     "Please_check_the_0editor0_documentation_for_more_details_": {
-        "message": "Daha fazla bilgi için lütfen $editor$ dokümantasyonunu kontrol edin.",
+        "message": "Daha fazla bilgi için lütfen $editor$ belgesini kontrol edin.",
         "placeholders": {
             "editor": {
                 "content": "$1"
@@ -931,22 +972,22 @@
         "message": "İçerenler/Hariç Tutmalar"
     },
     "Original_includes": {
-        "message": "Orijinal içermeler"
+        "message": "Orijinal dahililer"
     },
     "Original_matches": {
         "message": "Orijinal eşleşmeler"
     },
     "Original_excludes": {
-        "message": "Orijinal hariç tutmaları"
+        "message": "Orijinal haricileri"
     },
     "User_includes": {
-        "message": "Kullanıcı içermeler"
+        "message": "Kullanıcı dahilileri"
     },
     "User_matches": {
         "message": "Kullanıcı eşleşmeleri"
     },
     "User_excludes": {
-        "message": "Kullanıcı hariç tutmaları"
+        "message": "Kullanıcı haricileri"
     },
     "Original_domain_whitelist": {
         "message": "Orijinal alan adı beyaz listesi"
@@ -967,10 +1008,10 @@
         "message": "Dahili bir hata oluştu. Tarayıcının yeniden başlatılmasından sonra bile bu sorun devam ediyorsa, lütfen Tamam düğmesine basın ve bu sorunu forumda bildirin.\n\nTampermonkey forumunu ziyaret etmek istiyor musunuz?"
     },
     "Enable_Script_Sync": {
-        "message": "TESLA Etkinleştir"
+        "message": "Betik Eşitlemeyi Etkinleştir"
     },
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
-        "message": "Betik eşitleme (Tampermonkey External Script List Access)"
+        "message": "Betik eşitleme (Tampermonkey Harici Betik Listesi Erişimi)"
     },
     "Sync_Type": {
         "message": "Tür"
@@ -1093,13 +1134,13 @@
         "message": "Bu sayfanın en az bir kısmı 'yasak sayfalar' ayarında listelenmiştir!"
     },
     "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
-        "message": "azı komut dosyaları, bu sayfanın JavaScript ayarları veya bir komut dosyası engelleyicisi tarafından engellenmiş olabilir!"
+        "message": "Bazı komut dosyaları, bu sayfanın JavaScript ayarları veya bir komut dosyası engelleyicisi tarafından engellenmiş olabilir!"
     },
     "Show_notification": {
         "message": "Bir bildirim göster"
     },
     "Open_changelog": {
-        "message": "Değişiklik günlüğü aç"
+        "message": "Değişim Günlüğünü aç"
     },
     "No_frames": {
         "message": "Yalnızca üst çerçevede çalıştırın"
@@ -1150,7 +1191,7 @@
         "message": "Tampermonkey tarayıcınız tarafından güncellendiğinde aynı zamanda yeniden başlatılır. Maalesef bu, şu anda çalışan komut dosyalarını bozabilir!\n\nDiğer güncellemelerden haberdar edilmek istemediğinizden emin misiniz?"
     },
     "Operation_completed_successfully": {
-        "message": "Operasyon başarıyla tamamlandı"
+        "message": "İşlem başarıyla tamamlandı"
     },
     "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
         "message": "Tüm değişiklikler yalnızca bu gizli oturum kapatılıncaya kadar saklanır!"
@@ -1248,6 +1289,29 @@
     "severity_1": {
         "message": "1 (en güvenli)"
     },
+	  "severity_2": {
+        "message": "2"
+    },
+    "severity_3": {
+        "message": "3"
+    },
+    "severity_4": {
+        "message": "4"
+    },
+    "severity_5": {
+        "message": "5"
+    },
+    "severity_6": {
+        "message": "6"
+    },
+    "severity_7": {
+        "message": "7"
+    },
+    "severity_8": {
+        "message": "8"
+    },
+    "severity_9": {
+        "message": "9"
     "severity_10": {
         "message": "10 (en az güvenlik)"
     },
@@ -1369,22 +1433,22 @@
     "message": "Tümünden katlamayı kaldır"
   },
   "Sublime_Mark": {
-    "message": "Sublime Mark"
+    "message": "Sublim İşaret"
   },
   "Set_Sublime_Mark": {
-    "message": "Sublime Mark ayarla"
+    "message": "Sublim İşaret ayarla"
   },
   "Select_to_Sublime_Mark": {
-    "message": "Sublime Mark seç"
+    "message": "Sublim İşaret seç"
   },
   "Swap_with_Sublime_Mark": {
-    "message": "Sublime Mark ile değiştir"
+    "message": "Sublim İşaret ile değiştir"
   },
   "Delete_to_Sublime_Mark": {
-    "message": "Sublime Mark sil"
+    "message": "Sublim İşaret sil"
   },
   "Yank_Sublime_Mark": {
-    "message": "Sublime Mark çek"
+    "message": "Sublim İşaret çek"
   },
   "Selection": {
     "message": "Seçim"
