@@ -85,7 +85,7 @@
         "message": "Dikkat: Bu betiğin kaynağı belirlenemiyor.\nYa kişisel verilerinizi çalmak amacıyla üçüncü parti zararlı tarafından yüklendi ya da bazi basit tarayıcı ayarları, işletim sistemiziniz ya da donanım değişti!\n\nEtkinleştirmek için, lütfen betiği açın, inceleyin ve kaydedin."
     },
     "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
-        "message": "The origin of this script can't be determined.\nEither it was installed by a third party to steal you private data or some basic browser settings, your operation system or hardware has changed.\nThis modification will enable it!"
+        "message": "Bu betiğin kaynağı belirlenemiyor.\nYa kişisel verilerinizi çalmak amacıyla üçüncü parti zararlı tarafından yüklendi ya da bazi basit tarayıcı ayarları, işletim sistemiziniz ya da donanım değişti!\nBu değişiklik onu etkinleştirecek!"
     },
     "This_script_does_not_provide_any__include_information_": {
         "message": "Bu betik herhangi bir @include bilgisi sağlamaz."
