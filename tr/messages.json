@@ -81,6 +81,12 @@
     "You_are_about_to_install_a_UserScript_": {
         "message": "Kullanıcı betiği kurulumu"
     },
+    "The_origin_of_this_script_cant_be_determined_": {
+        "message": "Dikkat: Bu betiğin kaynağı belirlenemiyor.\nYa kişisel verilerinizi çalmak amacıyla üçüncü parti zararlı tarafından yüklendi ya da bazi basit tarayıcı ayarları, işletim sistemiziniz ya da donanım değişti!\n\nEtkinleştirmek için, lütfen betiği açın, inceleyin ve kaydedin."
+    },
+    "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
+        "message": "The origin of this script can't be determined.\nEither it was installed by a third party to steal you private data or some basic browser settings, your operation system or hardware has changed.\nThis modification will enable it!"
+    },
     "This_script_does_not_provide_any__include_information_": {
         "message": "Bu betik herhangi bir @include bilgisi sağlamaz."
     },
@@ -1149,6 +1155,9 @@
     "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
         "message": "Tüm değişiklikler yalnızca bu gizli oturum kapatılıncaya kadar saklanır!"
     },
+    "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
+        "message": "Sınırlı çalışma zamanı sunucu izinleri, Tampermonkey özelliklerini bozabilir, örneğin betik güncellemesi, GM_xmlhttpRequest ve diğerleri!"
+    },
     "_not_set_": {
         "message": "<ayarlanmadı>"
     },
@@ -1156,7 +1165,7 @@
         "message": "Tasarım"
     },
     "Custom_CSS": {
-        "message": "Kullanıcı CSS"
+        "message": "Kişisel CSS"
     },
     "You_can_add_your_custom_CSS_rules_here_": {
         "message": "Tampermonkey kullanıcı arayüzü için kendi CSS kurallarınızı buraya ekleyebilirsiniz. Bunun bir şey kırması durumunda varsayılan düzeni ?layout=reset seçenek sayfasının URL'sine ekleyerek alabilirsiniz."
