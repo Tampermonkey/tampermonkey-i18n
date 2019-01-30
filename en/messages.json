@@ -122,6 +122,12 @@
   "You_are_about_to_install_a_UserScript_": {
     "message": "UserScript installation"
   },
+  "The_origin_of_this_script_cant_be_determined_": {
+    "message": "Warning: The origin of this script can't be determined.\nEither it was installed by a malicious third party to steal you private data or some basic browser settings, your operation system or hardware has changed!\n\nPlease open, review and save the script to enable it."
+  },
+  "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
+    "message": "The origin of this script can't be determined.\nEither it was installed by a third party to steal you private data or some basic browser settings, your operation system or hardware has changed.\nThis modification will enable it!"
+  },
   "This_script_does_not_provide_any__include_information_": {
     "message": "This script does not provide any @include information."
   },

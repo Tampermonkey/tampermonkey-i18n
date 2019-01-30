@@ -86,6 +86,12 @@
     "You_are_about_to_install_a_UserScript_": {
         "message": "Installation des Userscripts"
     },
+    "The_origin_of_this_script_cant_be_determined_": {
+        "message": "Achtung: Die Herkunft dieses Scripts konnte nicht bestimmt werden!\nEntweder es wurde durch eine fremde Software installiert um Ihre privaten Daten zu stehlen oder eine grundlegende Browser-Einstellung, Ihr Betriebssystem oder Ihre Hardware hat sich geändert.\n\nBitte öffnen, prüfen und speichern Sie das Script, um es zu aktivieren."
+    },
+    "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
+        "message": "Die Herkunft dieses Scripts konnte nicht bestimmt werden. Entweder es wurde durch eine fremde dritte Partei installiert um Ihre privaten Daten zu stehlen oder eine grundlegende Browser-Einstellung, Ihr Betriebssystem oder Ihre Hardware hat sich geändert.\nDiese Modifikation wird es nun aktivieren."
+    },
     "This_script_does_not_provide_any__include_information_": {
         "message": "Dieses Script beinhaltet keine @include-Informationen."
     },
