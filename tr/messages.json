@@ -72,6 +72,14 @@
             }
         }
     },
+    "Script_0name0_is_slowing_down_some_page_loads_": {
+    "message": "'$name$' betiği sayfa yüklenmelerini yavaşlatıyor",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+            }
+        }
+    },
     "Please_double_check_the_native_script_import_settings__": {
         "message": "Kullanıcı Betiği yüklenemiyor!!\n\nLütfen 'Yerel Betik İçe Aktarma' ayarlarını tekrar kontrol edin."
     },
@@ -157,6 +165,9 @@
     },
     "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
         "message": "Bu betik dosyasını çalıştırmak için GreaseMonkey/FF uyumluluk seçeneklerinin tekrar kontrol edilmesi gerekebilir."
+    },
+    "Automatically_added_user_includes_for_compatibility_reasons_": {
+        "message": "Uyumluluk gerekçeleriyle, bazı kullanıcı dahilileri otomatik olarak eklendi!"
     },
     "Author": {
         "message": "Editör"
@@ -313,11 +324,55 @@
     "Get_new_scripts___": {
         "message": "Yeni betikler bul..."
     },
+    "This_script_was_deleted": {
+        "message": "Bu betik silindi"
+    },
+    "This_script_was_executed_0count0_times": {
+        "message": "Bu betik $count$ süre(s) çalıştırıldı",
+            "placeholders": {
+              "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "This_script_was_not_executed_yet": {
+        "message": "Bu betik henüz çalıştırılmadı"
+    },
+    "Exclude_0domain0": {
+        "message": "$domain$",
+            "placeholders": {
+              "domain": {
+                "content": "$1"
+            }
+        }
+    },
     "Check_for_userscripts_updates": {
         "message": "Kullanıcı betikleri için güncellemeleri denetle"
     },
     "Waiting_for_sync_to_finish": {
         "message": "Eşitlemenin bitmesi bekleniyor"
+    },
+    "0count0_changes_imported": {
+        "message": "$count$ değişiklik(ler) içe alındı",
+            "placeholders": {
+              "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "0count0_changes_exported": {
+        "message": "$count$ değişiklik(ler) dışarı çıkarıldı",
+            "placeholders": {
+                "count": {
+                    "content": "$1"
+            }
+        }
+    },
+    "Sync_is_running": {
+        "message": "Eşleştirme sürüyor"
+    },
+    "Sync_finished": {
+        "message": "Eşleştirme tamamlandı"
     },
     "Settings": {
         "message": "Ayarlar"
@@ -341,7 +396,7 @@
         "message": "Hata Ayıklama"
     },
     "Installed_userscripts": {
-        "message": "Yüklenmiş kullanıcı betikleri"
+    "message": "Yüklenmiş kullanıcı betikleri"
     },
     "No_script_is_installed": {
         "message": "Hiç betik yüklenmedi"
@@ -372,6 +427,9 @@
     },
     "Details": {
         "message": "Ayrıntılar"
+    },
+    "UUID": {
+        "message": "UUID"			 
     },
     "Apply_compatibility_options_to_required_script_too": {
         "message": "@require betiklerine de uyumluluk seçenekleri uygulayın"
@@ -432,6 +490,9 @@
     },
     "Replace_": {
         "message": "Değiştir?"
+    },
+    "Stop": {
+        "message": "Dur"
     },
     "There_are_unsaved_changed_": {
         "message": "Değişikler kaydedilemedi.\nDüzenleyiciyi gerçekten kapatmak istiyor musunuz?"
@@ -572,8 +633,14 @@
     "TextArea": {
         "message": "Metin Alanı"
     },
+    "Zip": {
+        "message": "Zip"
+    },
     "Include_script_storage": {
         "message": "Komut dosyası deposunu ekle"
+    },
+    "Include_script_externals": {
+        "message": "Harici betik kaynaklarını da dahil et"
     },
     "Include_TM_settings": {
         "message": "Tampermonkey ayarlarını dahil et"
@@ -657,6 +724,12 @@
     "Sublime": {
         "message": "Sublim"
     },
+    "Emacs": {
+        "message": "Emacs"
+    },
+    "Vim": {
+        "message": "Vim"
+    },
     "Please_check_the_0editor0_documentation_for_more_details_": {
         "message": "Daha fazla bilgi için lütfen $editor$ belgesini kontrol edin.",
         "placeholders": {
@@ -664,6 +737,12 @@
                 "content": "$1"
             }
         }
+    },
+    "Custom_Linter_Config": {
+        "message": "Kişisel Linter Ayarı"
+    },
+    "You_can_add_your_custom_linter_config_here_": {
+        "message": "Buraya kişisel linter ayarınızı ekleyebilirsiniz."
     },
     "Indentation_Width": {
         "message": "Girinti genişliği"
@@ -685,6 +764,9 @@
     },
     "Indent": {
         "message": "Girinti"
+    },
+    "Smart": {
+        "message": "Akıllı"	  
     },
     "Line_break": {
         "message": "Satır arası"
@@ -730,6 +812,9 @@
     },
     "Enable_Editor": {
         "message": "Gelişmiş düzenleyiciyi etkinleştir"
+    },
+    "Appearance": {
+        "message": "Görünüm"	   
     },
     "Security": {
         "message": "Güvenlik"
@@ -791,6 +876,9 @@
     "Fast": {
         "message": "Hızlı"
     },
+    "Normal": {
+        "message": "Normal"
+    },
     "Instant": {
         "message": "Anlık"
     },
@@ -802,6 +890,12 @@
     },
     "Favicon_Service": {
         "message": "Favicon Hizmeti"
+    },
+    "Google": {
+        "message": "Google"
+    },
+    "DuckDuckGo": {
+        "message": "DuckDuckGo"
     },
     "Warning_unsafe_site_warnings_might_appear_": {
         "message": "Uyarı: Bir komut dosyası zararlı olabilecek URL'ler içeriyorsa güvensiz site uyarıları görüntülenebilir."
@@ -825,6 +919,15 @@
     },
     "Last_updated": {
         "message": "Son güncelleme"
+    },
+    "User_modified": {
+        "message": "Değiştirildi"
+    },
+    "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
+        "message": "Bu harici kaynak otomatik güncellenmeyecek! Lütfen güncellemeleri tekrar etkinleştirmek için bunu silin"
+    },
+    "MIME_Type": {
+        "message": "MIME Türü"
     },
     "Version": {
         "message": "Sürüm"
@@ -908,6 +1011,9 @@
     },
     "Install_this_script": {
         "message": "Bu betiği yükle"
+    },
+    "Try_to_install_as_script": {
+        "message": "Betik olarak yüklemeyi dene"					 
     },
     "New_script_template_": {
         "message": "Yeni betik şablonu"
@@ -1007,6 +1113,9 @@
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "Dahili bir hata oluştu. Tarayıcının yeniden başlatılmasından sonra bile bu sorun devam ediyorsa, lütfen Tamam düğmesine basın ve bu sorunu forumda bildirin.\n\nTampermonkey forumunu ziyaret etmek istiyor musunuz?"
     },
+    "Script_Sync": {
+        "message": "Betik Eşleştirme"
+    },
     "Enable_Script_Sync": {
         "message": "Betik Eşitlemeyi Etkinleştir"
     },
@@ -1021,6 +1130,15 @@
     },
     "Allow_headers_to_be_modified_by_scripts": {
         "message": "HTTP üstbilgilerinin komut dosyaları tarafından değiştirilmesine izin ver"
+    },
+    "Script_local_files_access": {
+        "message": "Betiklerin yerel dosyalara erişmesine izin ver"
+    },
+    "require_and_resource": {
+        "message": "Hariciler (@require ve @resource)"
+    },
+    "All_local_files": {
+        "message": "Tüm yerel dosyalar"
     },
     "Allow_communication_with_cooperate_pages": {
         "message": "İşbirliği sayfaları ile iletişim kurmaya izin ver"
@@ -1217,9 +1335,6 @@
     "Temporary": {
         "message": "Geçici"
     },
-    "Appearance": {
-        "message": "Görünüm"
-    },
     "Permanent": {
         "message": "Kalıcı"
     },
@@ -1244,8 +1359,17 @@
     "Storage": {
         "message": "Depolama"
     },
+    "URL": {
+        "message": "URL"
+    },
     "Size": {
         "message": "Boyut"
+    },
+    "Login": {
+        "message": "Kullanıcı Adı"
+    },
+    "Password": {
+        "message": "Şifre"
     },
     "No_entry_found": {
         "message": "Kayıt bulunamadı"
@@ -1329,215 +1453,218 @@
     },     
     "Developer": {
         "message": "Geliştirici"
-  },
-  "Templates": {
-     "message": "Şablonlar"
-  },
-  "Undo": {
-    "message": "Geri al"
-  },
-  "Redo": {
-    "message": "İleri al"
-  },
-  "Cut": {
-    "message": "Kes"
-  },
-  "Copy": {
-    "message": "Kopyala"
-  },
-  "Paste": {
-    "message": "Yapıştır"
-  },
-  "Select_All": {
-    "message": "Tümünü seç"
-  },
-  "Toggle_Comment": {
-    "message": "Yorumu aç/kapat"
-  },
-  "Toggle_Block_Comment": {
-    "message": "Blok yorumunu aç/kapat"
-  },
-  "Replace_All": {
-    "message": "Tümünü değiştir"
-  },
-  "Lines": {
-    "message": "Satırlar"
-  },
-  "Indent_Less": {
-    "message": "Daha az girinti"
-  },
-  "Indent_More": {
-    "message": "Daha fazla girinti"
-  },
-  "Move_Line_Up": {
-    "message": "Satırı yukarı taşı"
-  },
-  "Move_Line_Down": {
-    "message": "Satırı aşağı taşı"
-  },
-  "Duplicate_Lines": {
-    "message": "Satırları çoğalt"
-  },
-  "Delete_Line": {
-    "message": "Satırı sil"
-  },
-  "Join_Lines": {
-    "message": "Satırı birleştir"
-  },
-  "Insert_Line_Before": {
-    "message": "Önüne satır ekle"
-  },
-  "Insert_Line_After": {
-    "message": "Sonuna satır ekle"
-  },
-  "Text": {
-    "message": "Metin"
-  },
-  "Upper_Case": {
-    "message": "Büyük harf"
-  },
-  "Lower_Case": {
-    "message": "Küçük harf"
-  },
-  "Delete_Line_Left": {
-    "message": "Sol satırı sil"
-  },
-  "Delete_Line_Right": {
-    "message": "Sağ satırı sil"
-  },
-  "Delete_to_Previous_Word_Boundary": {
-    "message": "Önceki kelime sınırında sil"
-  },
-  "Delete_to_Next_Word_Boundary": {
-    "message": "Sonraki kelime sınırında sil"
-  },
-  "Transpose": {
-    "message": "Yerini değiştir"
-  },
-  "Line_Case_Insensitive": {
-    "message": "Harfe duyarsız satır"
-  },
-  "Folding": {
-    "message": "Katlama"
-  },
-  "Fold": {
-    "message": "Katla"
-  },
-  "Unfold": {
-    "message": "Katlamayı kaldır"
-  },
-  "Fold_All": {
-    "message": "Tümünü katla"
-  },
-  "Unfold_All": {
-    "message": "Tümünden katlamayı kaldır"
-  },
-  "Sublime_Mark": {
-    "message": "Sublim İşaret"
-  },
-  "Set_Sublime_Mark": {
-    "message": "Sublim İşaret ayarla"
-  },
-  "Select_to_Sublime_Mark": {
-    "message": "Sublim İşaret seç"
-  },
-  "Swap_with_Sublime_Mark": {
-    "message": "Sublim İşaret ile değiştir"
-  },
-  "Delete_to_Sublime_Mark": {
-    "message": "Sublim İşaret sil"
-  },
-  "Yank_Sublime_Mark": {
-    "message": "Sublim İşaret çek"
-  },
-  "Selection": {
-    "message": "Seçim"
-  },
-  "Incremental_Find": {
-    "message": "Ek bul"
-  },
-  "Add_Selection_Above": {
-    "message": "Yukarıya seçim ekle"
-  },
-  "Add_Selection_Below": {
-    "message": "Aşağıya seçim ekle"
-  },
-  "Split_into_Lines": {
-    "message": "Satırları böl"
-  },
-  "Select_Line": {
-    "message": "Satırı seç"
-  },
-  "Select_Scope": {
-    "message": "Tümünü seç"
-  },
-  "Select_Bookmarks": {
-    "message": "Yer imlerini seç"
-  },
-  "Select_between_Brackets": {
-    "message": "Parantez arasını seç"
-  },
-  "Select_Next_Occurrence": {
-    "message": "Sonraki oluşumu seç"
-  },
-  "Find": {
-    "message": "Bul"
-  },
-  "Find_Next": {
-    "message": "Sonrakini bul"
-  },
-  "Find_Previous": {
-    "message": "Öncekini bul"
-  },
-  "Find_Under": {
-    "message": "Altta bul"
-  },
-  "Find_All_Under": {
-    "message": "Tüm altta bul"
-  },
-  "Find_Under_Previous": {
-    "message": "Öncekinin altında bul"
-  },
-  "GoTo": {
-    "message": "Git"
-  },
-  "Document_Start": {
-    "message": "Belge başlangıcı"
-  },
-  "Document_End": {
-    "message": "Belge sonu"
-  },
-  "Group_Left": {
-    "message": "Grup solu"
-  },
-  "Group_Right": {
-    "message": "Grup sağı"
-  },
-  "Closing_Bracket": {
-    "message": "Kapanış parantezi"
-  },
-  "Line_Up": {
-    "message": "Yukarı satır"
-  },
-  "Line_Down": {
-    "message": "Aşağı satır"
-  },
-  "Center_Cursor": {
-    "message": "İmleç merkezi"
-  },
-  "Bookmarks": {
-    "message": "Yer imleri"
-  },
-  "Toggle": {
-    "message": "Geçiş"
-  },
-  "Clear_All": {
-    "message": "Tümünü temizle"
-  },
-  "Next_Bookmark": {
-    "message": "Sonraki yer imi"
-  },
-  "Prev_Bookmark": {
-    "message": "Önceki yer imi"
+    },
+    "Templates": {
+        "message": "Şablonlar"
+    },
+    "Undo": {
+        "message": "Geri al"
+    },
+    "Redo": {
+        "message": "İleri al"
+    },
+    "Cut": {
+        "message": "Kes"
+    },
+    "Copy": {
+        "message": "Kopyala"
+    },
+    "Paste": {
+        "message": "Yapıştır"
+    },
+    "Select_All": {
+        "message": "Tümünü seç"
+    },
+    "Toggle_Comment": {
+        "message": "Yorumu aç/kapat"
+    },
+    "Toggle_Comment_Indented": {
+        "message": "Girintili Yorumu Aç/Kapat"
+    },
+    "Toggle_Block_Comment": {
+        "message": "Blok yorumunu aç/kapat"
+    },
+    "Replace_All": {
+        "message": "Tümünü değiştir"
+    },
+    "Lines": {
+        "message": "Satırlar"
+    },
+    "Indent_Less": {
+        "message": "Daha az girinti"
+    },
+    "Indent_More": {
+        "message": "Daha fazla girinti"
+    },
+    "Move_Line_Up": {
+        "message": "Satırı yukarı taşı"
+    },
+    "Move_Line_Down": {
+        "message": "Satırı aşağı taşı"
+    },
+    "Duplicate_Lines": {
+        "message": "Satırları çoğalt"
+    },
+    "Delete_Line": {
+        "message": "Satırı sil"
+    },
+    "Join_Lines": {
+        "message": "Satırı birleştir"
+    },
+    "Insert_Line_Before": {
+        "message": "Önüne satır ekle"
+    },
+    "Insert_Line_After": {
+        "message": "Sonuna satır ekle"
+    },
+    "Text": {
+        "message": "Metin"
+    },
+    "Upper_Case": {
+        "message": "Büyük harf"
+    },
+    "Lower_Case": {
+        "message": "Küçük harf"
+    },
+    "Delete_Line_Left": {
+        "message": "Sol satırı sil"
+    },
+    "Delete_Line_Right": {
+        "message": "Sağ satırı sil"
+    },
+    "Delete_to_Previous_Word_Boundary": {
+        "message": "Önceki kelime sınırında sil"
+    },
+    "Delete_to_Next_Word_Boundary": {
+        "message": "Sonraki kelime sınırında sil"
+    },
+    "Transpose": {
+        "message": "Yerini değiştir"
+    },
+    "Line_Case_Insensitive": {
+        "message": "Harfe duyarsız satır"
+    },
+    "Folding": {
+        "message": "Katlama"
+    },
+    "Fold": {
+        "message": "Katla"
+    },
+    "Unfold": {
+        "message": "Katlamayı kaldır"
+    },
+    "Fold_All": {
+        "message": "Tümünü katla"
+    },
+    "Unfold_All": {
+        "message": "Tümünden katlamayı kaldır"
+    },
+    "Sublime_Mark": {
+        "message": "Sublim İşaret"
+    },
+    "Set_Sublime_Mark": {
+        "message": "Sublim İşaret ayarla"
+    },
+    "Select_to_Sublime_Mark": {
+        "message": "Sublim İşaret seç"
+    },
+    "Swap_with_Sublime_Mark": {
+        "message": "Sublim İşaret ile değiştir"
+    },
+    "Delete_to_Sublime_Mark": {
+        "message": "Sublim İşaret sil"
+    },
+    "Yank_Sublime_Mark": {
+        "message": "Sublim İşaret çek"
+    },
+    "Selection": {
+        "message": "Seçim"
+    },
+    "Incremental_Find": {
+        "message": "Ek bul"
+    },
+    "Add_Selection_Above": {
+        "message": "Yukarıya seçim ekle"
+    },
+    "Add_Selection_Below": {
+        "message": "Aşağıya seçim ekle"
+    },
+    "Split_into_Lines": {
+        "message": "Satırları böl"
+    },
+    "Select_Line": {
+        "message": "Satırı seç"
+    },
+    "Select_Scope": {
+        "message": "Tümünü seç"
+    },
+    "Select_Bookmarks": {
+        "message": "Yer imlerini seç"
+    },
+    "Select_between_Brackets": {
+        "message": "Parantez arasını seç"
+    },
+    "Select_Next_Occurrence": {
+        "message": "Sonraki oluşumu seç"
+    },
+    "Find": {
+        "message": "Bul"
+    },
+    "Find_Next": {
+        "message": "Sonrakini bul"
+    },
+    "Find_Previous": {
+        "message": "Öncekini bul"
+    },
+    "Find_Under": {
+        "message": "Altta bul"
+    },
+    "Find_All_Under": {
+        "message": "Tüm altta bul"
+    },
+    "Find_Under_Previous": {
+        "message": "Öncekinin altında bul"
+    },
+    "GoTo": {
+        "message": "Git"
+    },
+    "Document_Start": {
+        "message": "Belge başlangıcı"
+    },
+    "Document_End": {
+        "message": "Belge sonu"
+    },
+    "Group_Left": {
+        "message": "Grup solu"
+    },
+    "Group_Right": {
+        "message": "Grup sağı"
+    },
+    "Closing_Bracket": {
+        "message": "Kapanış parantezi"
+    },
+    "Line_Up": {
+        "message": "Yukarı satır"
+    },
+    "Line_Down": {
+        "message": "Aşağı satır"
+    },
+    "Center_Cursor": {
+        "message": "İmleç merkezi"
+    },
+    "Bookmarks": {
+        "message": "Yer imleri"
+    },
+    "Toggle": {
+        "message": "Geçiş"
+    },
+    "Clear_All": {
+        "message": "Tümünü temizle"
+    },
+    "Next_Bookmark": {
+        "message": "Sonraki yer imi"
+    },
+    "Prev_Bookmark": {
+        "message": "Önceki yer imi"
     }
 }
