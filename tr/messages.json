@@ -328,7 +328,7 @@
         "message": "Bu betik silindi"
     },
     "This_script_was_executed_0count0_times": {
-        "message": "Bu betik $count$ süre(s) çalıştırıldı",
+        "message": "Bu betik $count$ defa çalıştırıldı",
             "placeholders": {
               "count": {
                 "content": "$1"
