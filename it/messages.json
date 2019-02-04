@@ -88,7 +88,13 @@
     },
     "You_are_about_to_install_a_UserScript_": {
         "message": "Installazione script"
+     },
+    "The_origin_of_this_script_cant_be_determined_": {
+        "message": "Attenzione: l'origine di questo script non può essere determinata.\nPotrebbe essere stato installato da un plugin malevolo di terze parti per catturare i tuoi dati privati o alcune impostazioni base del browser.\nIl sistema operativo o l'hardware sono stati modificati.!\n\nApri, verifica e salva lo script per abilitarlo."
     },
+    "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
+        "message": "L'origine di questo script non può essere determinata.\nPotrebbe essere stato installato da una terza parte per catturare i tuoi dati privati o alcune impostazioni base del browser.\nIl sistema operativo o l'hardware sono stati modificati.\nQuesta modifica lo abiliterà!"
+     },
     "This_script_does_not_provide_any__include_information_": {
         "message": "Questo script non contiene nessuna informazione @include."
     },
