@@ -149,7 +149,7 @@
     "message": "Let op: de include-lijst is ingekort.\nControleer hem alstublieft handmatig!"
   },
   "Attention_Can_not_display_all_excludes_": {
-    "message": "Attention: The exclude list was shortened.\nPlease check it manually!"
+    "message": "Let op: De exclude-lijst is ingekort.\nControleer hem alstub,ieft handmatig!"
   },
   "Include_s__": {
     "message": "Include(s)"
@@ -158,52 +158,52 @@
     "message": "Exclude(s)"
   },
   "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-    "message": "A recheck of the GreaseMonkey/FF compatibility options may be required in order to run this script."
+    "message": "Een hercontrole van de GreaseMonkey/FF-compitabiliteitsopties kunnen nodig zijn om dit script uit te voeren."
   },
   "Automatically_added_user_includes_for_compatibility_reasons_": {
-    "message": "Some user includes were automatically added for compatibility reasons!"
+    "message": "Een aantal gebruikersincludes zijn automatisch toegevoegd om compitabiliteitsredenen."
   },
   "Author": {
-    "message": "Author"
+    "message": "Auteur"
   },
   "Description": {
-    "message": "Description"
+    "message": "Beschrijving"
   },
   "Source": {
-    "message": "Source"
+    "message": "Bron"
   },
   "Source_Code": {
-    "message": "Source Code"
+    "message": "Broncode"
   },
   "Changes": {
-    "message": "Changes"
+    "message": "Wijzigingen"
   },
   "The_diff_for_this_script_is_too_large_to_render": {
-    "message": "The diff for this script is too large to render"
+    "message": "Het verschil voor dit script is te groot om het te renderen"
   },
   "Current_Version": {
-    "message": "Current Version"
+    "message": "Huidige versie"
   },
   "New_Version": {
-    "message": "New Version"
+    "message": "Nieuwe versie"
   },
   "Install": {
-    "message": "Install"
+    "message": "Installeren"
   },
   "Reinstall": {
-    "message": "Reinstall"
+    "message": "Herinstalleren"
   },
   "Modify": {
-    "message": "Modify"
+    "message": "Wijzigen"
   },
   "Downgrade": {
-    "message": "Downgrade"
+    "message": "Downgraden"
   },
   "Update": {
-    "message": "Update"
+    "message": "Bijwerken"
   },
   "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
-    "message": "$name$ $version$ is available.\nPlease re-start your browser to start the update!",
+    "message": "$name$ $version$ is beschikbaar.\Herstart de browser om het bijwerken te starten!",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -214,58 +214,58 @@
     }
   },
   "Process_with_Chrome": {
-    "message": "Process with the browser"
+    "message": "Uitvoeren met de browser"
   },
   "Enforce": {
-    "message": "Enforce"
+    "message": "Forceren"
   },
   "Strict": {
-    "message": "Strict"
+    "message": "Streng"
   },
   "connect_mode": {
-    "message": "Check @connect"
+    "message": "Controleer @connect"
   },
   "Ask_if_unknown": {
-    "message": "Ask if unknown"
+    "message": "Vragen indien onbekend"
   },
   "Always_ask": {
-    "message": "Always ask"
+    "message": "Altijd vragen"
   },
   "Casual": {
-    "message": "Casual"
+    "message": "Informeel"
   },
   "Allow_once": {
-    "message": "Allow once"
+    "message": "Een keer toestaan"
   },
   "Temporarily_allow": {
-    "message": "Temporarily allow"
+    "message": "Tijdelijk toestaan"
   },
   "Always_allow": {
-    "message": "Always allow"
+    "message": "Altijd toestaan"
   },
   "Always_allow_domain": {
-    "message": "Always allow domain"
+    "message": "Altijd toestaan op dit domein"
   },
   "Always_allow_all_domains": {
-    "message": "Always allow all domains"
+    "message": "Altijd op alle domeinen toestaan"
   },
   "Forbid_once": {
-      "message": "Forbid once"
+      "message": "Een keer weigeren"
   },
   "Always_forbid": {
-      "message": "Always forbid"
+      "message": "Altijd weigeren"
   },
   "Always_forbid_domain": {
-      "message": "Always forbid domain"
+      "message": "Altijd weigeren op dit domein"
   },
   "Dont_ask_again": {
-      "message": "Don't ask again"
+      "message": "Niet weer vragen"
   },
   "Focus_tab": {
-    "message": "Focus source tab"
+    "message": "Focus op het bron-tabblad"
   },
   "Skip_timeout__0seconds0_seconds_": {
-    "message": "Skip timeout ($seconds$ seconds)",
+    "message": "Timeout overslaan ($seconds$ seconden)",
     "placeholders": {
       "seconds": {
         "content": "$1"
@@ -273,7 +273,7 @@
     }
   },
   "A_userscript_wants_to_access_a_cross_origin_resource_": {
-    "message": "A userscript wants to access a cross-origin resource."
+    "message": "Een UserScript wil toegang tot een bron van kruislingse herkomst."
   },
   "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
     "message": "A request to a cross origin resource is nothing unusual.\nYou just have to check whether this script has a good reason to access this domain.\nFor example there are only a very few reasons for a userscript to contact your bank.\n\nPlease note that userscript authors can avoid this dialog by adding [url=$connect$]@connect tags[/url] to their scripts.\n\nNo matter how you'll decide, you can change your opinion at any time at the script's [url=$settings$]settings tab[/url].",
