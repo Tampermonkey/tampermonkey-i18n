@@ -275,8 +275,7 @@
   "A_userscript_wants_to_access_a_cross_origin_resource_": {
     "message": "Een UserScript wil toegang tot een bron van kruislingse herkomst."
   },
-  "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
-    "message": "A request to a cross origin resource is nothing unusual.\nYou just have to check whether this script has a good reason to access this domain.\nFor example there are only a very few reasons for a userscript to contact your bank.\n\nPlease note that userscript authors can avoid this dialog by adding [url=$connect$]@connect tags[/url] to their scripts.\n\nNo matter how you'll decide, you can change your opinion at any time at the script's [url=$settings$]settings tab[/url].",
+  "message": "Een verzoek om toegang tot een bron van kruislingse herkomst is niets vreemds.\nU hoeft alleen maar te controleren of dit script een goede reden heeft om toegang te krijgen  tot dit domein.\nZo zijn er erg weinig redenen voor een script om toegang te krijgen tot uw bank.\n\nMerkop dat auteurs deze melding kunnen ontwijken door [url=$connect$]@connect tags[/url] toe te voegen aan hun scripts.\n\nHet maakt niet uit wat u kiest, u kunt uw mening altijd veranderen bij het [url=$settings$]instellingentabblad[/url].",
     "placeholders": {
       "connect": {
         "content": "$1"
@@ -287,22 +286,22 @@
     }
   },
   "Tab_URL": {
-    "message": "Tab URL"
+    "message": "Tabblad URL"
   },
   "Destination_domain": {
-    "message": "Destination domain"
+    "message": "Domein van de bestemming"
   },
   "Destination_URL": {
-    "message": "Destination URL"
+    "message": "Bestemming URL"
   },
   "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
-    "message": "This gives this script the permission to retrieve and send data from and to every webpage. This is potentially unsafe!\n\nAre you sure you want to continue?"
+    "message": "Dit geeft het script de mogelijkheid om data op te halen van en te verzenden naar elke webpagina. Dit kan onveilig zijn!\n\nWeet u zeker dat u door wilt gaan?"
   },
   "No_update_found__sry_": {
-    "message": "No update found, sry!"
+    "message": "Geen updates gevonden, sorry!"
   },
   "Unknown_method_0name0": {
-    "message": "Unknown method $name$",
+    "message": "Onbekende methode $name$",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -310,19 +309,19 @@
     }
   },
   "No_script_is_running": {
-    "message": "No script is running"
+    "message": "Er worden geen scripts uitgevoerd!"
   },
   "Add_new_script___": {
-    "message": "Create a new script..."
+    "message": "Een nieuw script maken..."
   },
   "Get_new_scripts___": {
-    "message": "Find new scripts..."
+    "message": "Nieuwe scripts zoeken..."
   },
   "This_script_was_deleted": {
-    "message": "This script was deleted"
+    "message": "Dit script is verwijderd"
   },
   "This_script_was_executed_0count0_times": {
-    "message": "This script was executed $count$ time(s)",
+    "message": "Dit script is $count$ keer uitgevoerd",
     "placeholders": {
       "count": {
         "content": "$1"
@@ -330,10 +329,10 @@
     }
   },
   "This_script_was_not_executed_yet": {
-    "message": "This script was not executed yet"
+    "message": "Dit script is nog niet uitgevoerd"
   },
   "Exclude_0domain0": {
-    "message": "Exclude $domain$",
+    "message": "$domain$ uitsluiten",
     "placeholders": {
       "domain": {
         "content": "$1"
@@ -341,13 +340,13 @@
     }
   },
   "Check_for_userscripts_updates": {
-    "message": "Check for userscript updates"
+    "message": "Op up updates voor UserScripts controleren"
   },
   "Waiting_for_sync_to_finish": {
-    "message": "Waiting for sync to finish"
+    "message": "Aan het wachten tot de synchronisatie klaar is"
   },
   "0count0_changes_imported": {
-    "message": "$count$ change(s) imported",
+    "message": "$count$ wijzigingen geïmporteerd",
     "placeholders": {
       "count": {
         "content": "$1"
@@ -355,7 +354,7 @@
     }
   },
   "0count0_changes_exported": {
-    "message": "$count$ change(s) exported",
+    "message": "$count$ wijzigingen geëxporteerd",
     "placeholders": {
       "count": {
         "content": "$1"
@@ -363,37 +362,37 @@
     }
   },
   "Sync_is_running": {
-    "message": "Sync is running"
+    "message": "Synchronisatie wordt uitgevoerd"
   },
   "Sync_finished": {
-    "message": "Sync finished"
+    "message": "Synchronisatie afgerond"
   },
   "Settings": {
-    "message": "Settings"
+    "message": "Instellingen"
   },
   "Debug_scripts": {
-    "message": "Debug scripts"
+    "message": "Scripts debuggen"
   },
   "Show_fixed_source": {
-    "message": "Show fixed source"
+    "message": "Gefixeerde bron weergeven"
   },
   "LogLevel": {
-    "message": "Logging Level"
+    "message": "Loglevel"
   },
   "Trace": {
-    "message": "Trace"
+    "message": "Volgen"
   },
   "Verbose": {
-    "message": "Verbose"
+    "message": "Uitgebreid"
   },
   "Debug": {
-    "message": "Debug"
+    "message": "Debuggen"
   },
   "Installed_userscripts": {
-    "message": "Installed userscripts"
+    "message": "Geïnstalleerde UserScripts"
   },
   "No_script_is_installed": {
-    "message": "No script is installed"
+    "message": "Er zijn geen scripts geïnstalleerd"
   },
   "Get_some_scripts___": {
     "message": "Get some scripts..."
