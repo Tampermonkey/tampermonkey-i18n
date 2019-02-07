@@ -395,10 +395,10 @@
     "message": "Er zijn geen scripts geïnstalleerd"
   },
   "Get_some_scripts___": {
-    "message": "Get some scripts..."
+    "message": "Krijg wat scripts..."
   },
   "New_userscript": {
-    "message": "<New userscript>"
+    "message": "<Nieuw UserScript>"
   },
   "Help": {
     "message": "Help"
@@ -407,13 +407,13 @@
     "message": "Changelog"
   },
   "Position_": {
-    "message": "Position"
+    "message": "Positie"
   },
   "Close": {
-    "message": "Close"
+    "message": "Sluiten"
   },
   "GM_compat_options_": {
-    "message": "GM/FF compatibility options"
+    "message": "GreaseMonkey/FF-compitabiliteitsopties"
   },
   "Comment": {
     "message": "Comment"
@@ -425,7 +425,7 @@
     "message": "UUID"
   },
   "Apply_compatibility_options_to_required_script_too": {
-    "message": "Apply compatibility options to @require scripts too"
+    "message": "Pas compitabiliteitsopties toe om ook gebruik te maken van @require"
   },
   "Fix_wrappedJSObject_property_access": {
     "message": "Fix wrappedJSObject property access"
