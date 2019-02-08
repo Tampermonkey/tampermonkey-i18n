@@ -73,7 +73,7 @@
     }
   },
   "Script_0name0_is_slowing_down_some_page_loads_": {
-    "message": "Het Script '$name$' vertraagt het laden van pagina's",
+    "message": "Het script '$name$' vertraagt het laden van pagina's",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -667,7 +667,7 @@
     "message": "Algemeen"
   },
   "Script_Update": {
-    "message": "SCcript-update"
+    "message": "Script-update"
   },
   "Check_interval": {
     "message": "Controle-interval"
@@ -724,7 +724,7 @@
     "message": "Vim"
   },
   "Please_check_the_0editor0_documentation_for_more_details_": {
-    "message": "Please check the $editor$ documentation for more details.",
+    "message": "Bekijk de $editor$-documentatie voor meer details.",
     "placeholders": {
       "editor": {
         "content": "$1"
@@ -732,76 +732,76 @@
     }
   },
   "Custom_Linter_Config": {
-    "message": "Custom Linter Config"
+    "message": "Aangepaste Linter-configuratie"
   },
   "You_can_add_your_custom_linter_config_here_": {
-    "message": "You can add your custom linter config here."
+    "message": "U kunt uw aangepaste linter-configuratie hier toevoegen."
   },
   "Indentation_Width": {
-    "message": "Indentation Width"
+    "message": "Inspringbreedte"
   },
   "Indent_with": {
-    "message": "Indent with"
+    "message": "Inspringbreedthe"
   },
   "Tabs": {
     "message": "Tabs"
   },
   "Spaces": {
-    "message": "Spaces"
+    "message": "Spaties"
   },
   "TabMode": {
     "message": "TabMode"
   },
   "Classic": {
-    "message": "Classic"
+    "message": "Klassiek"
   },
   "Indent": {
-    "message": "Indent"
+    "message": "Inspringen"
   },
   "Smart": {
-    "message": "Smart"
+    "message": "Slim"
   },
   "Line_break": {
-    "message": "Line break"
+    "message": "Regelbreuk"
   },
   "Reindent_on_typing": {
-    "message": "Re-indent on typing"
+    "message": "Herinspringen tijdens typen"
   },
   "Auto_reload_on_script_enabled": {
-    "message": "Auto reload pages"
+    "message": "Pagina's automatisch herladen"
   },
   "Auto_reload_on_script_enabled_desc": {
-    "message": "Reload affected pages if a script was turned on or off"
+    "message": "Herlaad pagina's als een script aan of uit is gezet"
   },
   "Anonymous_statistics": {
-    "message": "Anonymous statistics"
+    "message": "Anonieme statistieken"
   },
   "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-    "message": "Allow Tampermonkey to collect anonymous statistics via Google Analytics. This helps me to improve Tampermonkey and to determine on what criteria I should focus my development. Just disable this if you dislike it."
+    "message": "Sta Tampermonkey toe om met Google Analytics anonieme statistieken te verzamelen. Dit helpt me bij het verbeteren van Tampermonkey en om te bepalen op welke voorwaarden ik het ontwikkelen moet concentreren. U kunt het rustig uitschakelen als u dit niet wilt."
   },
   "Dont_ask_me_for_simple_script_updates": {
-    "message": "Don't ask me for simple script updates"
+    "message": "Vraag me niet voor simpele script-updates"
   },
   "Hide_notification_after": {
-    "message": "Hide notification after"
+    "message": "Melding verbergen na"
   },
   "Today": {
-    "message": "Today"
+    "message": "Vandaag"
   },
   "15_Seconds": {
-    "message": "15 Seconds"
+    "message": "15 seconden"
   },
   "30_Seconds": {
-    "message": "30 Seconds"
+    "message": "30 seconden"
   },
   "1_Minute": {
-    "message": "1 Minute"
+    "message": "1 minuut"
   },
   "5_Minutes": {
-    "message": "5 Minutes"
+    "message": "5 minuten"
   },
   "1_Hour": {
-    "message": "1 Hour"
+    "message": "1 uur"
   },
   "Enable_Editor": {
     "message": "Enable enhanced editor"
