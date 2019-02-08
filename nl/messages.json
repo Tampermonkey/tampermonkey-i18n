@@ -428,70 +428,70 @@
     "message": "Pas compitabiliteitsopties toe om ook gebruik te maken van @require"
   },
   "Fix_wrappedJSObject_property_access": {
-    "message": "Fix wrappedJSObject property access"
+    "message": "Toegang tot wrappedJSObject-eigenschappen oplossen"
   },
   "Convert_CDATA_sections_into_a_chrome_compatible_format": {
-    "message": "Convert CDATA sections into a browser compatible format"
+    "message": "CDATA-secties naar een browsergeschikt formaat omzetten"
   },
   "Fix_for_var_in_statements": {
-    "message": "Fix 'for (var j in x)' statements"
+    "message": "'for (var j in x)'-opdrachten oplossen"
   },
   "Replace_for_each_statements": {
-    "message": "Replace 'for each' statements"
+    "message": "'for each'-opdrachten vervanfen"
   },
   "Convert_Array_Assignements": {
-    "message": "Convert [blub, bla] = s.split(':') statements"
+    "message": "'[blub, bla] = s.split(':')'-opdrachten vervangen"
   },
   "Add_toSource_function_to_Object_Prototype": {
-    "message": "Add compatibility functions to Object and Array"
+    "message": "Compitabiliteitsfuncties toevoegen aan Object en Array"
   },
   "Run_at": {
-    "message": "Run at"
+    "message": "Uitvoeren op"
   },
   "Update_URL_": {
-    "message": "Update URL"
+    "message": "Update-URL"
   },
   "Save": {
-    "message": "Save"
+    "message": "Opslaan"
   },
   "Cancel": {
-    "message": "Cancel"
+    "message": "Annuleren"
   },
   "Search": {
-    "message": "Search"
+    "message": "Zoeken"
   },
   "Replace": {
-    "message": "Replace"
+    "message": "Vervangen"
   },
   "Jump_to_line": {
-    "message": "Jump to line"
+    "message": "Naar regel springen"
   },
   "Insert_constructor": {
-    "message": "Insert constructor"
+    "message": "Constructor invoegen"
   },
   "Auto_Indent_all": {
-    "message": "Auto-Indent all"
+    "message": "Alles automatisch inspringen"
   },
   "Search_for": {
-    "message": "Search for"
+    "message": "Zoeken naar"
   },
   "Replace_all_with": {
-    "message": "Replace all"
+    "message": "Alle vervangen"
   },
   "Replace_with": {
-    "message": "Replace with"
+    "message": "Vervangen door"
   },
   "Replace_": {
-    "message": "Replace?"
+    "message": "Vervangen?"
   },
   "Stop": {
-    "message": "Stop"
+    "message": "Stoppen"
   },
   "There_are_unsaved_changed_": {
-    "message": "There are unsaved changes.\nDo you really want to close the editor?"
+    "message": "Er zijn wijzigingen nog niet opgeslagen.\nWilt u de editor echt sluiten?"
   },
   "Do_you_really_want_to_store_fixed_code_": {
-    "message": "The Option '$option$' is enabled!\n\nDo you really want to store the fixed source?",
+    "message": "De optie '$option$' is ingeschakeld!\n\nWilt u echt de opgeloste broncode opslaan?",
     "placeholders": {
       "option": {
         "content": "$1"
@@ -499,70 +499,70 @@
     }
   },
   "Really_reset_all_changes_": {
-    "message": "Really reset all changes?"
+    "message": "Echt alle wijzigingen resetten?"
   },
   "Please_wait___": {
-    "message": "Please wait..."
+    "message": "Even geduld, alstublieft..."
   },
   "Edit": {
-    "message": "Edit"
+    "message": "Bewerken"
   },
   "Sites": {
     "message": "Sites"
   },
   "Sort": {
-    "message": "Sort"
+    "message": "Sorteren"
   },
   "Actions": {
-    "message": "Actions"
+    "message": "Acties"
   },
   "Action": {
-    "message": "Action"
+    "message": "Actie"
   },
   "Please_select_a_file": {
-    "message": "Please select a file"
+    "message": "Selecteer een bestand"
   },
   "Cloud": {
     "message": "Cloud"
   },
   "Import": {
-    "message": "Import"
+    "message": "Importeren"
   },
   "Show_backups": {
-    "message": "Show backups"
+    "message": "Backups laten zien"
   },
   "Delete": {
-    "message": "Delete"
+    "message": "Verwijderen"
   },
   "Features": {
-    "message": "Features"
+    "message": "Functionaliteiten"
   },
   "This_script_stores_data": {
-    "message": "This script stores data to Tampermonkey."
+    "message": "Dit script slaat data op bij Tampermonkey."
   },
   "This_script_has_access_to_https_pages": {
-    "message": "This item has access to https pages."
+    "message": "Dit voorwerp heeft toegang tot https-pagina's."
   },
   "One_or_more_compatibility_options_are_set": {
-    "message": "One or more compatibility options are set. You might want/should review them."
+    "message": "Eén of meer compitabiliteitsinstellingen zijn ingesteld. Het is verstandig om ze te bekijken."
   },
   "This_script_has_full_web_access": {
-    "message": "This script has full internet access."
+    "message": "Dit script heeft volledige toegang tot het internet."
   },
   "This_is_a_system_script": {
-    "message": "This is a system script."
+    "message": "Dit is een systeemscript."
   },
   "This_is_a_chrome_extension": {
-    "message": "This is a browser extension"
+    "message": "Dit is een browserextensie."
   },
   "This_script_runs_in_Chrome_mode": {
-    "message": "This script runs in Chrome mode"
+    "message": "Dit script wordt uitgevoerd in Chrome-modus."
   },
   "This_is_a_userscript": {
-    "message": "This is a userscript written in Javascript"
+    "message": "Dit is een UserScript geschreven in JavaScript."
   },
   "Really_import_0name0__": {
-    "message": "Do you really want to import the native script '$name$'?",
+    "message": "Wilt u het script '$name$' echt importeren?",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -570,7 +570,7 @@
     }
   },
   "Really_delete_0name0__": {
-    "message": "Do you really want to delete '$name$'?",
+    "message": "Wilt u '$name$' echt verwijderen?",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -578,19 +578,19 @@
     }
   },
   "This_script_has_access_to_webpage_scripts": {
-    "message": "This item has full access to the webpage."
+    "message": "Dit script heeft volledige toegang tot de webpagina."
   },
   "Utilities": {
-    "message": "Utilities"
+    "message": "Voorzieningen"
   },
   "This_script_uses_uW_gm_api_": {
-    "message": "This script uses a part of Greasemonkey 10 API (unsafeWindow.gmonkey)\nthat is not supported by Tampermonkey nor any other alternative script handler."
+    "message": "Dit script gebruikt een deel van de Greasemonkey 10 API (unsafeWindow.gmonkey)\ndie niet ondersteund wordt door Tampermonkey of andere script handlers."
   },
   "some_secs": {
-    "message": "some"
+    "message": "enige"
   },
   "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
-    "message": "CONFLICT:\nThis script was modified by another tab $t$ second(s) ago!",
+    "message": "CONFLICT:\Dit script is $t$ seconde(n) geleden door een ander tabblad bewerkt!",
     "placeholders": {
       "t": {
         "content": "$1"
@@ -598,16 +598,16 @@
     }
   },
   "Enabled": {
-    "message": "Enabled"
+    "message": "Ingeschakeld"
   },
   "Disabled": {
-    "message": "Disabled"
+    "message": "Uitgeschakeld"
   },
   "Unable_to_parse_this_": {
-    "message": "Unable to parse this! :("
+    "message": "Kan dit niet lezen! :("
   },
   "Unable_to_parse_0name0": {
-    "message": "Unable to parse $name$",
+    "message": "Kan $name$ niet lezen",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -615,13 +615,13 @@
     }
   },
   "No_backups_found": {
-    "message": "No backups found"
+    "message": "Geen back-ups gevonden"
   },
   "An_error_occured_during_import_": {
-    "message": "An error occurred during import."
+    "message": "Er is een fout opgetreden tijdens het importeren."
   },
   "Export": {
-    "message": "Export"
+    "message": "Exporteren"
   },
   "TextArea": {
     "message": "TextArea"
@@ -630,19 +630,19 @@
     "message": "Zip"
   },
   "Include_script_storage": {
-    "message": "Include script storage"
+    "message": "Script-opslag bijvoegen"
   },
   "Include_script_externals": {
-    "message": "Include external script resources"
+    "message": "Externe scriptbronnen bijvoegen"
   },
   "Include_TM_settings": {
-    "message": "Include Tampermonkey settings"
+    "message": "Tampermonkey-instellingen bijvoegen"
   },
   "File": {
-    "message": "File"
+    "message": "Bestand"
   },
   "There_is_an_update_for_0name0_avaiable_": {
-    "message": "There is an update for '$name$' available. :)",
+    "message": "Er is een update voor '$name$' beschikbaar. :)",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -650,10 +650,10 @@
     }
   },
   "Just_another_service_provided_by_your_friendly_script_updater_": {
-    "message": "Just another service provided by your friendly script updater"
+    "message": "Gewoon een andere dienst geleverd door uw vriendelijke script-updater"
   },
   "Updated_to__0version0": {
-    "message": "Updated to: $version$",
+    "message": "Bijgewerkt naar: $version$",
     "placeholders": {
       "version": {
         "content": "$1"
@@ -661,52 +661,52 @@
     }
   },
   "Click_here_to_see_the_recent_changes": {
-    "message": "Click here to see the recent changes"
+    "message": "Klik hier om de recente wijzigingen te bekijken"
   },
   "General": {
-    "message": "General"
+    "message": "Algemeen"
   },
   "Script_Update": {
-    "message": "Script Update"
+    "message": "SCcript-update"
   },
   "Check_interval": {
-    "message": "Check Interval"
+    "message": "Controle-interval"
   },
   "Always": {
-    "message": "Always"
+    "message": "Altijd"
   },
   "Never": {
-    "message": "Never"
+    "message": "Nooit"
   },
   "Every_Hour": {
-    "message": "Every Hour"
+    "message": "Ieder uur"
   },
   "Every_6_Hours": {
-    "message": "Every 6 Hours"
+    "message": "Iedere 6 uur"
   },
   "Every_12_Hour": {
-    "message": "Every 12 Hours"
+    "message": "Iedere 12 uur"
   },
   "Every_Day": {
-    "message": "Every Day"
+    "message": "Dagelijks"
   },
   "Every_Week": {
-    "message": "Every Week"
+    "message": "Wekelijks"
   },
   "Every_Month": {
-    "message": "Every Month"
+    "message": "Maandelijks"
   },
   "Update_interval": {
-    "message": "Update Interval"
+    "message": "Update-interval"
   },
   "Editor": {
     "message": "Editor"
   },
   "Font_Size": {
-    "message": "Font Size"
+    "message": "Lettergrootte"
   },
   "Theme": {
-    "message": "Theme"
+    "message": "Thema"
   },
   "Key_Mapping": {
     "message": "Key Mapping"
