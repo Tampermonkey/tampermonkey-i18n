@@ -750,7 +750,7 @@
     "message": "Spaties"
   },
   "TabMode": {
-    "message": "TabMode"
+    "message": "TabModus"
   },
   "Classic": {
     "message": "Klassiek"
@@ -891,10 +891,10 @@
     "message": "DuckDuckGo"
   },
   "Warning_unsafe_site_warnings_might_appear_": {
-    "message": "Warning: unsafe site warnings might appear if a script includes potentially harmfull URLs."
+    "message": "Waarschuwing: onveilige site-waarschuwingen kunnen verschijnen als een script potentieel schadelijke URL's bevat."
   },
   "Unable_to_load_script_from_url_0url0": {
-    "message": "Unable to load script from url: \n $url$",
+    "message": "Kan script niet laden van URL: \n $url$",
     "placeholders": {
       "url": {
         "content": "$1"
@@ -902,28 +902,28 @@
     }
   },
   "Click_here_to_install_it_": {
-    "message": "Click here to install it."
+    "message": "Klik hier om het te installeren."
   },
   "Check_disabled_scripts": {
-    "message": "Update disabled scripts"
+    "message": "Uitgeschakelde scripts bijwerken"
   },
   "Homepage": {
-    "message": "Homepage"
+    "message": "Homepagina"
   },
   "Last_updated": {
-    "message": "Last updated"
+    "message": "Laatst bijgewerkt"
   },
   "User_modified": {
-    "message": "Modified"
+    "message": "Gewijzigd"
   },
   "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
-    "message": "This external resource will not auto-update! Please delete it in order to enable updates again."
+    "message": "Deze externe bron zal niet automatisch bijwerken! Verwijder het om updates weer in te schakelen."
   },
   "MIME_Type": {
-    "message": "MIME Type"
+    "message": "MIME-type"
   },
   "Version": {
-    "message": "Version"
+    "message": "Versie"
   },
   "Type": {
     "message": "Type"
@@ -932,43 +932,43 @@
     "message": "Updates"
   },
   "Check_for_Updates": {
-    "message": "Check for updates"
+    "message": "Controleer op updates"
   },
   "Update_check_is_disabled": {
-    "message": "Script update check is disabled or not possible"
+    "message": "Script-updatecontrole is uitgeschakeld of niet mogelijk"
   },
   "Click_here_to_move_this_script": {
-    "message": "Click here to move this script"
+    "message": "Klik hier om dit script te verplaatsen"
   },
   "overwritten_by_user": {
-    "message": "overwritten by user setting"
+    "message": "overschreven door gebruikersinstelling"
   },
   "Report_a_bug": {
-    "message": "Report a bug"
+    "message": "Een bug rapporteren"
   },
   "A_reload_is_required": {
-    "message": "A reload is required: \nAll unsaved changes will be lost!"
+    "message": "Een herlading is nodig: \nAlle niet-opgeslagen wijzigingen zullen verloren gaan!"
   },
   "Save_to_disk": {
-    "message": "Save to disk"
+    "message": "Naar schijf opslaan"
   },
   "Editor_reset": {
-    "message": "Editor reset"
+    "message": "Editor-reset"
   },
   "Full_reset": {
-    "message": "Factory reset"
+    "message": "Fabrieksreset"
   },
   "Run_syntax_check": {
-    "message": "Run syntax check"
+    "message": "Syntaxiscontrole uitvoeren"
   },
   "No_syntax_errors_were_found_": {
-    "message": "No syntax errors were found."
+    "message": "Er zijn geen syntaxisfouten gevonden.."
   },
   "One_error_or_hint_was_found_": {
-    "message": "One error or hint was found."
+    "message": "Er is één fout of hint gevonden."
   },
   "0count0_errors_or_hints_were_found_": {
-    "message": "$count$ errors or hints were found.",
+    "message": "$count$ fouten of hints zijn gevonden.",
     "placeholders": {
       "count": {
         "content": "$1"
@@ -976,85 +976,85 @@
     }
   },
   "Auto_syntax_check_on_typing": {
-    "message": "Automatic syntax check on typing"
+    "message": "Automatische syntaxiscontrole tijdens het typen"
   },
   "Enable_this_option_to_automatically_check_the_code_on_typing_": {
-    "message": "Enable this option to automatically check the code on typing."
+    "message": "Schakel deze optie in om de code automatisch te controleren tijdens het typen."
   },
   "Auto_syntax_check_max_length": {
-    "message": "Automatic syntax check max size"
+    "message": "Maximale lengte voor de automatische syntaxiscontrole"
   },
   "Check_only_scripts_up_to_this_size_automatically_": {
-    "message": "Check only scripts up to this size automatically."
+    "message": "Controleer alleen scripts tot deze grootte automatisch."
   },
   "Highlight_trailing_whitespace": {
-    "message": "Highlight trailing whitespace"
+    "message": "Achterlopende witruimte markeren"
   },
   "Trim_trailing_whitespace_from_modified_lines": {
-    "message": "Trim trailing whitespace from modified lines"
+    "message": "Achterlopende witruimte van gewijzigde regels weghalen"
   },
   "Dashboard": {
     "message": "Dashboard"
   },
   "Userscripts": {
-    "message": "Userscripts"
+    "message": "UserScripts"
   },
   "Script_URL_detection": {
-    "message": "Script URL detection"
+    "message": "Script-URL-detectie"
   },
   "Install_this_script": {
-    "message": "Install this script"
+    "message": "Dit script installeren"
   },
   "Try_to_install_as_script": {
-    "message": "Try to install as script"
+    "message": "Dit script proberen te installeren"
   },
   "New_script_template_": {
-    "message": "New userscript template"
+    "message": "Nieuwe UserScript-template"
   },
   "Icon_badge_info": {
-    "message": "Icon Badge Info"
+    "message": "Icoon-Badge-informatie"
   },
   "Icon_badge_color": {
-    "message": "Icon Badge Color"
+    "message": "Icoon-Badgekleur"
   },
   "On": {
-    "message": "On"
+    "message": "Aan"
   },
   "Off": {
-    "message": "Off"
+    "message": "Uit"
   },
   "Running_scripts": {
-    "message": "Running scripts instances"
+    "message": "Uitgevoerde instanties van scripts"
   },
   "Unique_running_scripts": {
-    "message": "Unique running scripts"
+    "message": "Unieke uitgevoerde scripts"
   },
   "Disabled_scripts": {
-    "message": "Disabled scripts"
+    "message": "Uitgeschakelde scripts"
   },
   "Config_Mode": {
-    "message": "Config mode"
+    "message": "Configuratiemodus"
   },
   "Novice": {
-    "message": "Novice"
+    "message": "Onervaren"
   },
   "Beginner": {
     "message": "Beginner"
   },
   "Advanced": {
-    "message": "Advanced"
+    "message": "Geavanceerd"
   },
   "Changes_the_number_of_visible_config_options": {
-    "message": "Changes the number of visible config options"
+    "message": "Verandert het aantal zichtbare configuratieopties"
   },
   "Language": {
-    "message": "Language"
+    "message": "Taal"
   },
   "Enter_the_new_rule": {
-    "message": "Enter the new rule"
+    "message": "Voer de nieuwe regel in"
   },
   "Add_as_0clude0": {
-    "message": "Add as $clude$",
+    "message": "Toevoegen als $clude$",
     "placeholders": {
       "clude": {
         "content": "$1"
@@ -1062,127 +1062,127 @@
     }
   },
   "Add": {
-    "message": "Add"
+    "message": "Toevoegen"
   },
   "Remove": {
-    "message": "Remove"
+    "message": "Verwijderen"
   },
   "Includes_Excludes": {
     "message": "Includes/Excludes"
   },
   "Original_includes": {
-    "message": "Original includes"
+    "message": "Originele includes"
   },
   "Original_matches": {
-    "message": "Original matches"
+    "message": "Originele matches"
   },
   "Original_excludes": {
-    "message": "Original excludes"
+    "message": "Originele excludes"
   },
   "User_includes": {
-    "message": "User includes"
+    "message": "Gebruikersincludes"
   },
   "User_matches": {
-    "message": "User matches"
+    "message": "Gebruikersmatches"
   },
   "User_excludes": {
-    "message": "User excludes"
+    "message": "Gebruikersexcludes"
   },
   "Original_domain_whitelist": {
-      "message": "Original domain whitelist"
+      "message": "Originele domein-whitelist"
   },
   "User_domain_whitelist": {
-      "message": "User domain whitelist"
+      "message": "Gebruikersdomein-whitelist"
   },
   "Temporary_domain_whitelist": {
-      "message": "Temporary domain whitelist"
+      "message": "Tijdelijke domein-whitelist"
   },
   "User_domain_blacklist": {
-      "message": "User domain blacklist"
+      "message": "Gebruikersdomein-blacklist"
   },
   "XHR_Security": {
-      "message": "XHR Security"
+      "message": "XHR-beveiliging"
   },
   "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
-    "message": "An internal error occurred. If this problem persists even after a restart of the browser, please press OK and report this issue at the forum.\n\nDo you want to visit the Tampermonkey forum?"
+    "message": "Er is een interne fout opgetreden. Als dit probleem er nog steeds is na het herstarten van de browser, klik dan op OK en rapporteer dit probleem op het forum.\n\nWIlt u het Tampermonkey-forum bezoeken?"
   },
   "Script_Sync": {
-    "message": "Script Sync"
+    "message": "Scriptsynchronisatie"
   },
   "Enable_Script_Sync": {
-    "message": "Enable Script Sync"
+    "message": "Scriptsynchronisatie inschakelen"
   },
   "Synchronize_your_scripts_across_browsers_and_operation_systems": {
-    "message": "Synchronize your scripts across browsers and operation systems"
+    "message": "Synchroniseer uw scripts over browsers en besturingssystemen"
   },
   "Sync_Type": {
     "message": "Type"
   },
   "Imported": {
-    "message": "Imported"
+    "message": "Geïmporteerd"
   },
   "Allow_headers_to_be_modified_by_scripts": {
-    "message": "Allow HTTP headers to be modified by scripts"
+    "message": "HTTP-headers toestaan om gewijzigd te worden door scripts"
   },
   "Script_local_files_access": {
-    "message": "Allow scripts to access local files"
+    "message": "Scripts toegang geven tot lokale bestanden"
   },
   "require_and_resource": {
-    "message": "Externals (@require and @resource)"
+    "message": "Externen (@require en @resource)"
   },
   "All_local_files": {
-    "message": "All local files"
+    "message": "Alle lokale bestanden"
   },
   "Allow_communication_with_cooperate_pages": {
-    "message": "Allow communication with cooperate pages"
+    "message": "Communicatie met samenwerkende pagina's toestaan"
   },
   "Tampermonkey_and_script_version": {
-    "message": "Tampermonkey + script version"
+    "message": "Tampermonkey- en scriptversie"
   },
   "Tampermonkey_version": {
-    "message": "Tampermonkey version only"
+    "message": "Alleen Tampermonkey-versie"
   },
   "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
-    "message": "This option allows the Tampermonkey homepage and some script hosting pages to determine the Tampermonkey version and some basic script information (installed, version, enabled)."
+    "message": "Deze optie staat de Tampermonkey-homepagina en een aantal script-hostingpagina's toe om de Tampermonkey-versie en beperkte scriptinformatie (geïnstalleerd, versie, ingeschakeld) te determineren."
   },
   "Subresource_Integrity": {
-    "message": "Subresource Integrity"
+    "message": "Subbron-integriteit"
   },
   "Validate_if_supported": {
-    "message": "Validate if possible"
+    "message": "Valideren indien mogelijk"
   },
   "Validate_if_given": {
-    "message": "Validate if given"
+    "message": "Valideren indien gegeven"
   },
   "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
-    "message": "Script authors can secure external resources by adding a SRI hash to the source URL."
+    "message": "Script-auteurs kunnen externe bronnen beveiligen door een SRI-hash toe te voegen aan de URL van de bron."
   },
   "Yes": {
-    "message": "Yes"
+    "message": "Ja"
   },
   "No": {
-    "message": "No"
+    "message": "Nee"
   },
   "Auto": {
-    "message": "Auto"
+    "message": "Automatisch"
   },
   "__Please_choose__": {
-    "message": "-- Please choose an option --"
+    "message": "-- Kies een optie --"
   },
   "Enable": {
-    "message": "Enable"
+    "message": "Inschakelen"
   },
   "Disable": {
-    "message": "Disable"
+    "message": "Uitschakelen"
   },
   "Toggle_Enable": {
-    "message": "Toggle Enable"
+    "message": "Inschakelen schakelen"
   },
   "Trigger_Update": {
-    "message": "Trigger Update"
+    "message": "Update activeren"
   },
   "Apply_this_action_to_the_selected_scripts": {
-    "message": "Apply this to all selected scripts"
+    "message": "Dit toepassen op alle geselecteerde scripts"
   },
   "Start": {
     "message": "Start"
