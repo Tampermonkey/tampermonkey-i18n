@@ -57,7 +57,7 @@
     "message": "Ongeldige UserScriptnaam. Sorry!"
   },
   "Script_name_0name0": {
-    "message": "UserScriptnaam: $name$",
+    "message": "UserScript-naam: $name$",
     "placeholders": {
       "name": {
         "content": "$1"
