@@ -804,49 +804,49 @@
     "message": "1 uur"
   },
   "Enable_Editor": {
-    "message": "Enable enhanced editor"
+    "message": "Geavanceerde editor inschakelen"
   },
   "Appearance": {
-    "message": "Appearance"
+    "message": "Uiterlijk"
   },
   "Security": {
-    "message": "Security"
+    "message": "Beveiliging"
   },
   "Downloads": {
     "message": "Downloads"
   },
   "Download_Mode": {
-    "message": "Download Mode"
+    "message": "Downloadmodus"
   },
   "Browser_API": {
-    "message": "Browser API"
+    "message": "Browser-API"
   },
   "The_Browser_API_mode_requires_a_special_permission_": {
-    "message": "The Browser API mode requires a special permission."
+    "message": "De Browser-API-modus heeft een speciaal recht nodig."
   },
   "Whitelisted_File_Extensions": {
-    "message": "Whitelisted File Extensions"
+    "message": "Gewhiteliste bestandsextensies"
   },
   "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
-    "message": "Only files with these extensions can be saved to the harddisk.\nBe careful to not allow file extensions that represent executables at your operating system!"
+    "message": "Alleen bestanden met deze extensies kunnen opgeslagen worden op de harde schijf.\nPas op dat u geen extensies toestaat die uitvoerbare bestanden voorstellen op uw besturingssysteem!"
   },
   "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
-    "message": "Your whitelist seems to include executable files!\nThis means your userscripts may download malware or spyware to your harddisk!!"
+    "message": "Uw whitelist bevat uitvoerbare bestanden!\nDit betekent dat UserScripts mal- of spyware kunnen opslaan op uw harde schijf!!"
   },
   "Browser_API_Downloads": {
-    "message": "Browser API Downloads"
+    "message": "Browser-API Downloads"
   },
   "Click_here_to_allow_TM_to_start_downloads": {
-    "message": "Click OK to allow Tampermonkey to start instant downloads."
+    "message": "Klik op OK om Tampermonkey toe te staan om downloads meteen te starten."
   },
   "Page_Filter_Mode": {
-    "message": "Page Filter Mode"
+    "message": "Paginafiltermodus"
   },
   "Whitelisted_Pages": {
-    "message": "Whitelisted Pages"
+    "message": "Gewhiteliste pagina's"
   },
   "Blacklisted_Pages": {
-    "message": "Blacklisted Pages"
+    "message": "Geblackliste pagina's"
   },
   "Blacklist": {
     "message": "Blacklist"
@@ -855,34 +855,34 @@
     "message": "Whitelist"
   },
   "Both": {
-    "message": "Both"
+    "message": "Beide"
   },
   "Experimental": {
-    "message": "Experimental"
+    "message": "Experimenteel"
   },
   "strict_mode": {
-    "message": "strict mode"
+    "message": "strenge modus"
   },
   "Inject_Mode": {
-    "message": "Inject Mode"
+    "message": "Injectiemodus"
   },
   "Fast": {
-    "message": "Fast"
+    "message": "Snel"
   },
   "Normal": {
-    "message": "Normal"
+    "message": "Normaal"
   },
   "Instant": {
-    "message": "Instant"
+    "message": "Meteen"
   },
   "This_page_is_blacklisted_at_the_security_settings": {
-    "message": "Blacklisted by security settings"
+    "message": "Geblacklist door beveiligingsinstellingen"
   },
   "Update_Notification": {
-    "message": "Show TM update notification"
+    "message": "Tampermonkey-updatemeldingen weergeven"
   },
   "Favicon_Service": {
-    "message": "Favicon Service"
+    "message": "Favicon-dienst"
   },
   "Google": {
     "message": "Google"
