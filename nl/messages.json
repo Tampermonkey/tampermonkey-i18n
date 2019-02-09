@@ -286,13 +286,13 @@
     }
   },
   "Tab_URL": {
-    "message": "Tabblad URL"
+    "message": "Tabblad-URL"
   },
   "Destination_domain": {
     "message": "Domein van de bestemming"
   },
   "Destination_URL": {
-    "message": "Bestemming URL"
+    "message": "Bestemmings-URL"
   },
   "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
     "message": "Dit geeft het script de mogelijkheid om data op te halen van en te verzenden naar elke webpagina. Dit kan onveilig zijn!\n\nWeet u zeker dat u door wilt gaan?"
@@ -416,7 +416,7 @@
     "message": "GreaseMonkey/FF-compitabiliteitsopties"
   },
   "Comment": {
-    "message": "Comment"
+    "message": "Opmerking"
   },
   "Details": {
     "message": "Details"
@@ -529,7 +529,7 @@
     "message": "Importeren"
   },
   "Show_backups": {
-    "message": "Backups laten zien"
+    "message": "Back-ups laten zien"
   },
   "Delete": {
     "message": "Verwijderen"
@@ -679,7 +679,7 @@
     "message": "Nooit"
   },
   "Every_Hour": {
-    "message": "Ieder uur"
+    "message": "Uurlijks"
   },
   "Every_6_Hours": {
     "message": "Iedere 6 uur"
@@ -709,7 +709,7 @@
     "message": "Thema"
   },
   "Key_Mapping": {
-    "message": "Key Mapping"
+    "message": "Toetsverwijzing"
   },
   "Windows": {
     "message": "Windows"
