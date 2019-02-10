@@ -203,7 +203,7 @@
     "message": "Bijwerken"
   },
   "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
-    "message": "$name$ $version$ is beschikbaar.\Herstart de browser om het bijwerken te starten!",
+    "message": "$name$ $version$ is beschikbaar.\nHerstart de browser om het bijwerken te starten!",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -590,7 +590,7 @@
     "message": "enige"
   },
   "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
-    "message": "CONFLICT:\Dit script is $t$ seconde(n) geleden door een ander tabblad bewerkt!",
+    "message": "CONFLICT:\nDit script is $t$ seconde(n) geleden door een ander tabblad bewerkt!",
     "placeholders": {
       "t": {
         "content": "$1"
