@@ -275,7 +275,8 @@
   "A_userscript_wants_to_access_a_cross_origin_resource_": {
     "message": "Een UserScript wil toegang tot een bron van kruislingse herkomst."
   },
-  "message": "Een verzoek om toegang tot een bron van kruislingse herkomst is niets vreemds.\nU hoeft alleen maar te controleren of dit script een goede reden heeft om toegang te krijgen  tot dit domein.\nZo zijn er erg weinig redenen voor een script om toegang te krijgen tot uw bank.\n\nMerkop dat auteurs deze melding kunnen ontwijken door [url=$connect$]@connect tags[/url] toe te voegen aan hun scripts.\n\nHet maakt niet uit wat u kiest, u kunt uw mening altijd veranderen bij het [url=$settings$]instellingentabblad[/url].",
+  "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
+    "message": "Een verzoek om toegang tot een bron van kruislingse herkomst is niets vreemds.\nU hoeft alleen maar te controleren of dit script een goede reden heeft om toegang te krijgen tot dit domein.\nZo zijn er erg weinig redenen voor een script om toegang te krijgen tot uw bank.\n\nMerkop dat auteurs deze melding kunnen ontwijken door [url=$connect$]@connect tags[/url] toe te voegen aan hun scripts.\n\nHet maakt niet uit wat u kiest, u kunt uw mening altijd veranderen bij het [url=$settings$]instellingentabblad[/url].",
     "placeholders": {
       "connect": {
         "content": "$1"
