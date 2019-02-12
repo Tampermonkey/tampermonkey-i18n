@@ -146,7 +146,7 @@
     }
   },
   "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
-    "message": "At least one of the @include, @match or @exclude statements was changed."
+    "message": "At least one @include, @match or @exclude statement was changed."
   },
   "At_least_one_new_connect_statement_was_added_": {
      "message": "At least one new @connect statement was added."
@@ -302,7 +302,7 @@
     "message": "Destination URL"
   },
   "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
-    "message": "This gives this script the permission to retrieve and send data from and to every webpage. This is potentially unsafe!\n\nAre you sure you want to continue?"
+    "message": "This gives this script permission to retrieve and send data from and to every webpage. This is potentially unsafe!\n\nAre you sure you want to continue?"
   },
   "No_update_found__sry_": {
     "message": "No update found, sry!"
@@ -835,7 +835,7 @@
     "message": "Whitelisted File Extensions"
   },
   "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
-    "message": "Only files with these extensions can be saved to the harddisk.\nBe careful to not allow file extensions that represent executables at your operating system!"
+    "message": "Only files with these extensions can be saved to harddisk.\nBe careful to not allow file extensions that represent executables at your operating system!"
   },
   "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
     "message": "Your whitelist seems to include executable files!\nThis means your userscripts may download malware or spyware to your harddisk!!"
@@ -1058,7 +1058,7 @@
     "message": "Language"
   },
   "Enter_the_new_rule": {
-    "message": "Enter the new rule"
+    "message": "Enter new rule"
   },
   "Add_as_0clude0": {
     "message": "Add as $clude$",
@@ -1195,10 +1195,10 @@
     "message": "Start"
   },
   "Really_delete_the_selected_items_": {
-    "message": "Do you really want to delete the selected items?"
+    "message": "Do you really want to delete all selected items?"
   },
   "Really_factory_reset_the_selected_items_": {
-    "message": "Do you really want to factory reset the selected items?"
+    "message": "Do you really want to factory reset all selected items?"
   },
   "Filter_by": {
     "message": "Filter by"
@@ -1255,10 +1255,10 @@
     "message": "Some scripts might be blocked by the JavaScript settings for this page or a script blocker!"
   },
   "Show_notification": {
-    "message": "Show a notification"
+    "message": "Show notification"
   },
   "Open_changelog": {
-    "message": "Open the changelog"
+    "message": "Open changelog"
   },
   "No_frames": {
     "message": "Run only in top frame"
