@@ -772,16 +772,16 @@
     "message": "Разрыв строки"
   },
   "Reindent_on_typing": {
-    "message": "Re-indent on typing"
+    "message": "Повторный отступ при наборе текста"
   },
   "Auto_reload_on_script_enabled": {
-    "message": "Auto reload pages"
+    "message": "Автоматическая перезагрузка страниц"
   },
   "Auto_reload_on_script_enabled_desc": {
-    "message": "Reload affected pages if a script was turned on or off"
+    "message": "Перезагрузите затронутые страницы, если скрипт был включен или выключен"
   },
   "Anonymous_statistics": {
-    "message": "Anonymous statistics"
+    "message": "Анонимная статистика"
   },
   "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
     "message": "Allow Tampermonkey to collect anonymous statistics via Google Analytics. This helps me to improve Tampermonkey and to determine on what criteria I should focus my development. Just disable this if you dislike it."
