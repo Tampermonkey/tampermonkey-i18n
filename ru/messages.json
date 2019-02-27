@@ -591,13 +591,13 @@
     "message": "Утилиты"
   },
   "This_script_uses_uW_gm_api_": {
-    "message": "This script uses a part of Greasemonkey 10 API (unsafeWindow.gmonkey)\nthat is not supported by Tampermonkey nor any other alternative script handler."
+    "message": "Этот скрипт использует часть API Greasemonkey 10 (unsafeWindow.gmonkey)\nкоторая не поддерживается ни Tampermonkey, ни любым другим альтернативным обработчиком скриптов."
   },
   "some_secs": {
-    "message": "some"
+    "message": "некоторые"
   },
   "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
-    "message": "CONFLICT:\nThis script was modified by another tab $t$ second(s) ago!",
+    "message": "КОНФЛИКТ: Этот скрипт был изменен на другой вкладке '$t$' секунд(ы) назад!",
     "placeholders": {
       "t": {
         "content": "$1"
@@ -605,16 +605,16 @@
     }
   },
   "Enabled": {
-    "message": "Enabled"
+    "message": "Включено"
   },
   "Disabled": {
-    "message": "Disabled"
+    "message": "Отключено"
   },
   "Unable_to_parse_this_": {
-    "message": "Unable to parse this! :("
+    "message": "Не удается проанализировать это! :("
   },
   "Unable_to_parse_0name0": {
-    "message": "Unable to parse $name$",
+    "message": "Не удалось разобрать $name$",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -622,34 +622,34 @@
     }
   },
   "No_backups_found": {
-    "message": "No backups found"
+    "message": "Резервных копий не найдено"
   },
   "An_error_occured_during_import_": {
-    "message": "An error occurred during import."
+    "message": "Произошла ошибка во время импорта."
   },
   "Export": {
-    "message": "Export"
+    "message": "Экспорт"
   },
   "TextArea": {
-    "message": "TextArea"
+    "message": "Текстовое поле"
   },
   "Zip": {
     "message": "Zip"
   },
   "Include_script_storage": {
-    "message": "Include script storage"
+    "message": "Включить хранилище скриптов"
   },
   "Include_script_externals": {
-    "message": "Include external script resources"
+    "message": "Включить внешние ресурсы скрипта"
   },
   "Include_TM_settings": {
-    "message": "Include Tampermonkey settings"
+    "message": "Включить настройки Tampermonkey"
   },
   "File": {
-    "message": "File"
+    "message": "Файл"
   },
   "There_is_an_update_for_0name0_avaiable_": {
-    "message": "There is an update for '$name$' available. :)",
+    "message": "Доступны обновления для '$name$'. :)",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -657,10 +657,10 @@
     }
   },
   "Just_another_service_provided_by_your_friendly_script_updater_": {
-    "message": "Just another service provided by your friendly script updater"
+    "message": "Просто еще один сервис, предоставляемый вашим дружественным обновлением скриптов"
   },
   "Updated_to__0version0": {
-    "message": "Updated to: $version$",
+    "message": "Обновлен до: $version$",
     "placeholders": {
       "version": {
         "content": "$1"
@@ -668,55 +668,55 @@
     }
   },
   "Click_here_to_see_the_recent_changes": {
-    "message": "Click here to see the recent changes"
+    "message": "Нажмите здесь, чтобы увидеть последние изменения"
   },
   "General": {
-    "message": "General"
+    "message": "Общие"
   },
   "Script_Update": {
-    "message": "Script Update"
+    "message": "Обновление скрипта"
   },
   "Check_interval": {
-    "message": "Check Interval"
+    "message": "Интервал проверки"
   },
   "Always": {
-    "message": "Always"
+    "message": "Всегда"
   },
   "Never": {
-    "message": "Never"
+    "message": "Никогда"
   },
   "Every_Hour": {
-    "message": "Every Hour"
+    "message": "Каждый час"
   },
   "Every_6_Hours": {
-    "message": "Every 6 Hours"
+    "message": "Каждые 6 часов"
   },
   "Every_12_Hour": {
-    "message": "Every 12 Hours"
+    "message": "Каждые 12 часов"
   },
   "Every_Day": {
-    "message": "Every Day"
+    "message": "Каждый день"
   },
   "Every_Week": {
-    "message": "Every Week"
+    "message": "Каждую неделю"
   },
   "Every_Month": {
-    "message": "Every Month"
+    "message": "Каждый месяц"
   },
   "Update_interval": {
-    "message": "Update Interval"
+    "message": "Период обновления"
   },
   "Editor": {
-    "message": "Editor"
+    "message": "Редактор"
   },
   "Font_Size": {
-    "message": "Font Size"
+    "message": "Размер шрифта"
   },
   "Theme": {
-    "message": "Theme"
+    "message": "Тема"
   },
   "Key_Mapping": {
-    "message": "Key Mapping"
+    "message": "Сопоставление клавиш"
   },
   "Windows": {
     "message": "Windows"
@@ -731,7 +731,7 @@
     "message": "Vim"
   },
   "Please_check_the_0editor0_documentation_for_more_details_": {
-    "message": "Please check the $editor$ documentation for more details.",
+    "message": "Пожалуйста, ознакомьтесь с документацией $editor$ для получения дополнительной информации.",
     "placeholders": {
       "editor": {
         "content": "$1"
@@ -739,37 +739,37 @@
     }
   },
   "Custom_Linter_Config": {
-    "message": "Custom Linter Config"
+    "message": "Пользовательская конфигурация Linter"
   },
   "You_can_add_your_custom_linter_config_here_": {
-    "message": "You can add your custom linter config here."
+    "message": "Вы можете добавить свою собственную конфигурацию Linter здесь."
   },
   "Indentation_Width": {
-    "message": "Indentation Width"
+    "message": "Ширина отступа"
   },
   "Indent_with": {
-    "message": "Indent with"
+    "message": "Отступ с"
   },
   "Tabs": {
-    "message": "Tabs"
+    "message": "Табуляции"
   },
   "Spaces": {
-    "message": "Spaces"
+    "message": "Пробелы"
   },
   "TabMode": {
-    "message": "TabMode"
+    "message": "Режим табуляции"
   },
   "Classic": {
-    "message": "Classic"
+    "message": "Классический"
   },
   "Indent": {
-    "message": "Indent"
+    "message": "Отступ"
   },
   "Smart": {
-    "message": "Smart"
+    "message": "Умный"
   },
   "Line_break": {
-    "message": "Line break"
+    "message": "Разрыв строки"
   },
   "Reindent_on_typing": {
     "message": "Re-indent on typing"
