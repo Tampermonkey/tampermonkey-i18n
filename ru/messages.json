@@ -146,16 +146,16 @@
     }
   },
   "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
-    "message": "At least one @include, @match or @exclude statement was changed."
+    "message": "Как минимум одно из выражений @include, @match или @exclude было изменено."
   },
   "At_least_one_new_connect_statement_was_added_": {
-     "message": "At least one new @connect statement was added."
+     "message": "Был добавлен, как минимум один новый оператор @connect."
   },
   "Attention_Can_not_display_all_includes_": {
-    "message": "Attention: The include list was shortened.\nPlease check it manually!"
+    "message": "Внимание: список включений был сокращён.\nПроверьте его вручную!"
   },
   "Attention_Can_not_display_all_excludes_": {
-    "message": "Attention: The exclude list was shortened.\nPlease check it manually!"
+    "message": "Внимание: список исключений был сокращён.\nПроверьте его вручную!"
   },
   "Include_s__": {
     "message": "Include(s)"
@@ -164,52 +164,52 @@
     "message": "Exclude(s)"
   },
   "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-    "message": "A recheck of the GreaseMonkey/FF compatibility options may be required in order to run this script."
+    "message": "Для запуска этого сценария может потребоваться повторная проверка параметров совместимости GreaseMonkey/Firefox."
   },
   "Automatically_added_user_includes_for_compatibility_reasons_": {
-    "message": "Some user includes were automatically added for compatibility reasons!"
-  },
-  "Author": {
-    "message": "Author"
-  },
-  "Description": {
-    "message": "Description"
-  },
-  "Source": {
-    "message": "Source"
-  },
-  "Source_Code": {
-    "message": "Source Code"
-  },
-  "Changes": {
-    "message": "Changes"
-  },
+    "message": "Некоторые пользовательские includes будут применены автоматически для обеспечения совместимости!"
+    },
+    "Author": {
+        "message": "Автор"
+    },
+    "Description": {
+        "message": "Описание"
+    },
+    "Source": {
+        "message": "Источник"
+    },
+    "Source_Code": {
+        "message": "Исходный код"
+    },
+    "Changes": {
+        "message": "Изменения"
+    },
   "The_diff_for_this_script_is_too_large_to_render": {
-    "message": "The diff for this script is too large to render"
-  },
-  "Current_Version": {
-    "message": "Current Version"
-  },
-  "New_Version": {
-    "message": "New Version"
-  },
-  "Install": {
-    "message": "Install"
-  },
-  "Reinstall": {
-    "message": "Reinstall"
-  },
-  "Modify": {
-    "message": "Modify"
-  },
-  "Downgrade": {
-    "message": "Downgrade"
-  },
-  "Update": {
-    "message": "Update"
-  },
+    "message": "Различия для этого скрипта слишком велики для визуализации"
+    },
+    "Current_Version": {
+        "message": "Текущая версия"
+    },
+    "New_Version": {
+        "message": "Новая версия"
+    },
+    "Install": {
+        "message": "Установить"
+    },
+    "Reinstall": {
+        "message": "Переустановить"
+    },
+    "Modify": {
+        "message": "Изменить"
+    },
+    "Downgrade": {
+        "message": "Откатить"
+    },
+    "Update": {
+        "message": "Обновить"
+    },
   "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
-    "message": "$name$ $version$ is available.\nPlease re-start your browser to start the update!",
+    "message": "$name$ $version$ доступна.\nПожалуйста, перезапустите браузер, чтобы начать обновление!",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -220,58 +220,58 @@
     }
   },
   "Process_with_Chrome": {
-    "message": "Process with the browser"
+    "message": "Процесс с помощью браузера"
   },
   "Enforce": {
-    "message": "Enforce"
+    "message": "Переопределить"
   },
   "Strict": {
-    "message": "Strict"
+    "message": "Строгий"
   },
   "connect_mode": {
-    "message": "Check @connect"
+    "message": "Проверка @connect"
   },
   "Ask_if_unknown": {
-    "message": "Ask if unknown"
+    "message": "Спросить, если неизвестно"
   },
   "Always_ask": {
-    "message": "Always ask"
+    "message": "Всегда спрашивать"
   },
   "Casual": {
-    "message": "Casual"
+    "message": "Случайно"
   },
   "Allow_once": {
-    "message": "Allow once"
+    "message": "Разрешить один раз"
   },
   "Temporarily_allow": {
-    "message": "Temporarily allow"
+    "message": "Временно разрешить"
   },
   "Always_allow": {
-    "message": "Always allow"
+    "message": "Всегда разрешать"
   },
   "Always_allow_domain": {
-    "message": "Always allow domain"
+    "message": "Всегда разрешать домену"
   },
   "Always_allow_all_domains": {
-    "message": "Always allow all domains"
+    "message": "Всегда разрешать для всех доменов"
   },
   "Forbid_once": {
-      "message": "Forbid once"
+      "message": "Запретить один раз"
   },
   "Always_forbid": {
-      "message": "Always forbid"
+      "message": "Всегда запрещать"
   },
   "Always_forbid_domain": {
-      "message": "Always forbid domain"
+      "message": "Всегда запрещать домену"
   },
   "Dont_ask_again": {
-      "message": "Don't ask again"
+      "message": "Больше не спрашивать"
   },
   "Focus_tab": {
-    "message": "Focus source tab"
+    "message": "Сфокусироваться на вкладке источника"
   },
   "Skip_timeout__0seconds0_seconds_": {
-    "message": "Skip timeout ($seconds$ seconds)",
+    "message": "Пропустить тайм-аут ($seconds$ секунд)",
     "placeholders": {
       "seconds": {
         "content": "$1"
@@ -279,10 +279,10 @@
     }
   },
   "A_userscript_wants_to_access_a_cross_origin_resource_": {
-    "message": "A userscript wants to access a cross-origin resource."
+    "message": "Пользовательский скрипт хочет получить доступ к стороннему ресурсу."
   },
   "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
-    "message": "A request to a cross origin resource is nothing unusual.\nYou just have to check whether this script has a good reason to access this domain.\nFor example there are only a very few reasons for a userscript to contact your bank.\n\nPlease note that userscript authors can avoid this dialog by adding [url=$connect$]@connect tags[/url] to their scripts.\n\nNo matter how you'll decide, you can change your opinion at any time at the script's [url=$settings$]settings tab[/url].",
+    "message": "Запрос к стороннему ресурсу не является чем-то необычным.\nВам просто нужно проверить, есть ли у этого сценария веская причина для доступа к этому домену.\nНапример, у пользовательского скрипта есть очень мало причин для связи с вашим банком.\n\nПожалуйста, обратите внимание, что авторы могут избежать этого диалога путем добавления тега [url=$connect$]@connect[/url] к своим скриптам.\n\nНезависимо от того, что вы решите, вы в любое время можете изменить своё решение на [url=$settings$]вкладке настроек[/url] скрипта.",
     "placeholders": {
       "connect": {
         "content": "$1"
@@ -293,22 +293,22 @@
     }
   },
   "Tab_URL": {
-    "message": "Tab URL"
+    "message": "URL вкладки"
   },
   "Destination_domain": {
-    "message": "Destination domain"
+    "message": "Домен назначения"
   },
   "Destination_URL": {
-    "message": "Destination URL"
+    "message": "URL назначения"
   },
   "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
-    "message": "This gives this script permission to retrieve and send data from and to every webpage. This is potentially unsafe!\n\nAre you sure you want to continue?"
+    "message": "Это дает этому сценарию разрешение на извлечение и отправку данных с и на каждую веб-страницу. Это потенциально небезопасно!\n\nВы уверены, что хотите продолжить?"
   },
   "No_update_found__sry_": {
-    "message": "No update found, sry!"
+    "message": "Обновлений не найдено, извините!"
   },
   "Unknown_method_0name0": {
-    "message": "Unknown method $name$",
+    "message": "Неизвестный метод $name$",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -316,19 +316,19 @@
     }
   },
   "No_script_is_running": {
-    "message": "No script is running"
+    "message": "Скрипт не запущен"
   },
   "Add_new_script___": {
-    "message": "Create a new script..."
+    "message": "Создать новый скрипт..."
   },
   "Get_new_scripts___": {
-    "message": "Find new scripts..."
+    "message": "Найти новые скрипты..."
   },
   "This_script_was_deleted": {
-    "message": "This script was deleted"
+    "message": "Этот скрипт был удален"
   },
   "This_script_was_executed_0count0_times": {
-    "message": "This script was executed $count$ time(s)",
+    "message": "Этот скрипт был выполнен $count$ один раз",
     "placeholders": {
       "count": {
         "content": "$1"
