@@ -336,10 +336,10 @@
     }
   },
   "This_script_was_not_executed_yet": {
-    "message": "This script was not executed yet"
+    "message": "Этот скрипт еще не был выполнен"
   },
   "Exclude_0domain0": {
-    "message": "Exclude $domain$",
+    "message": "Добавить в исключения $domain$",
     "placeholders": {
       "domain": {
         "content": "$1"
@@ -347,13 +347,13 @@
     }
   },
   "Check_for_userscripts_updates": {
-    "message": "Check for userscript updates"
+    "message": "Проверить обновления скриптов"
   },
   "Waiting_for_sync_to_finish": {
-    "message": "Waiting for sync to finish"
+    "message": "Ожидаем окончание синхронизации"
   },
   "0count0_changes_imported": {
-    "message": "$count$ change(s) imported",
+    "message": "$count$ изменения импортированы",
     "placeholders": {
       "count": {
         "content": "$1"
@@ -361,7 +361,7 @@
     }
   },
   "0count0_changes_exported": {
-    "message": "$count$ change(s) exported",
+    "message": "$count$ изменения экпортированы",
     "placeholders": {
       "count": {
         "content": "$1"
@@ -369,88 +369,88 @@
     }
   },
   "Sync_is_running": {
-    "message": "Sync is running"
+    "message": "Синхронизация запущена"
   },
   "Sync_finished": {
-    "message": "Sync finished"
+    "message": "Синхронизация завершена"
   },
   "Settings": {
-    "message": "Settings"
+    "message": "Настройки"
   },
   "Debug_scripts": {
-    "message": "Debug scripts"
+    "message": "Отладка скриптов"
   },
   "Show_fixed_source": {
-    "message": "Show fixed source"
+    "message": "Показывать изменения в коде"
   },
   "LogLevel": {
-    "message": "Logging Level"
+    "message": "Уровень ведения лога"
   },
   "Trace": {
-    "message": "Trace"
+    "message": "Отслеживать"
   },
   "Verbose": {
-    "message": "Verbose"
+    "message": "Многословный"
   },
   "Debug": {
-    "message": "Debug"
+    "message": "Отладка"
   },
   "Installed_userscripts": {
-    "message": "Installed userscripts"
+    "message": "Установленные скрипты"
   },
   "No_script_is_installed": {
-    "message": "No script is installed"
+    "message": "Скрипт не установлен"
   },
   "Get_some_scripts___": {
-    "message": "Get some scripts..."
+    "message": "Добавить скрипты..."
   },
   "New_userscript": {
-    "message": "<New userscript>"
+    "message": "<Новый скрипт>"
   },
   "Help": {
-    "message": "Help"
+    "message": "Помощь"
   },
   "Changelog": {
-    "message": "Changelog"
+    "message": "Список изменений"
   },
   "Position_": {
-    "message": "Position"
+    "message": "Позиция"
   },
   "Close": {
-    "message": "Close"
+    "message": "Закрыть"
   },
   "GM_compat_options_": {
-    "message": "GM/FF compatibility options"
+    "message": "Параметры совместимости GreaseMonkey/Firefox"
   },
   "Comment": {
-    "message": "Comment"
+    "message": "Комментарий"
   },
   "Details": {
-    "message": "Details"
+    "message": "Подробности"
   },
   "UUID": {
     "message": "UUID"
   },
   "Apply_compatibility_options_to_required_script_too": {
-    "message": "Apply compatibility options to @require scripts too"
+    "message": "Применять параметры совместимости и к @require скриптам"
   },
   "Fix_wrappedJSObject_property_access": {
-    "message": "Fix wrappedJSObject property access"
+    "message": "Исправить доступ к свойству wrappedJSObject"
   },
   "Convert_CDATA_sections_into_a_chrome_compatible_format": {
-    "message": "Convert CDATA sections into a browser compatible format"
+    "message": "Конвертировать разделы CDATA в формат, совместимый с браузером"
   },
   "Fix_for_var_in_statements": {
-    "message": "Fix 'for (var j in x)' statements"
+    "message": "Исправлять выражения 'for (var j in x)'"
   },
   "Replace_for_each_statements": {
-    "message": "Replace 'for each' statements"
+    "message": "Заменять выражения 'for each'"
   },
   "Convert_Array_Assignements": {
-    "message": "Convert [blub, bla] = s.split(':') statements"
+    "message": "Конвертировать [blub, bla] = s.split(':') выражения"
   },
   "Add_toSource_function_to_Object_Prototype": {
-    "message": "Add compatibility functions to Object and Array"
+    "message": "Добавить функции совместимости для Object и Array"
   },
   "Run_at": {
     "message": "Run at"
