@@ -784,79 +784,79 @@
     "message": "Анонимная статистика"
   },
   "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-    "message": "Allow Tampermonkey to collect anonymous statistics via Google Analytics. This helps me to improve Tampermonkey and to determine on what criteria I should focus my development. Just disable this if you dislike it."
+    "message": "Разрешить Tampermonkey собирать анонимную статистику с помощью Google Analytics. Это помогает мне улучшить Tampermonkey и определить, на каких критериях я должен сосредоточить свое развитие. Просто отключите это, если вам не нравится."
   },
   "Dont_ask_me_for_simple_script_updates": {
-    "message": "Don't ask me for simple script updates"
+    "message": "Не спрашивать меня при небольших изменениях в скрипте"
   },
   "Hide_notification_after": {
-    "message": "Hide notification after"
+    "message": "Скрывать уведомления спустя"
   },
   "Today": {
-    "message": "Today"
+    "message": "Сегодня"
   },
-  "15_Seconds": {
-    "message": "15 Seconds"
-  },
-  "30_Seconds": {
-    "message": "30 Seconds"
-  },
-  "1_Minute": {
-    "message": "1 Minute"
-  },
-  "5_Minutes": {
-    "message": "5 Minutes"
-  },
-  "1_Hour": {
-    "message": "1 Hour"
-  },
+    "15_Seconds": {
+        "message": "15 секунд"
+    },
+    "30_Seconds": {
+        "message": "30 секунд"
+    },
+    "1_Minute": {
+        "message": "1 минуту"
+    },
+    "5_Minutes": {
+        "message": "5 минут"
+    },
+    "1_Hour": {
+        "message": "1 час"
+    },
   "Enable_Editor": {
-    "message": "Enable enhanced editor"
+    "message": "Включить расширенный редактор"
   },
   "Appearance": {
-    "message": "Appearance"
+    "message": "Внешний вид"
   },
   "Security": {
-    "message": "Security"
+    "message": "Безопасность"
   },
   "Downloads": {
-    "message": "Downloads"
+    "message": "Загрузки"
   },
   "Download_Mode": {
-    "message": "Download Mode"
+    "message": "Режим загрузки"
   },
   "Browser_API": {
-    "message": "Browser API"
+    "message": "API браузера"
   },
   "The_Browser_API_mode_requires_a_special_permission_": {
-    "message": "The Browser API mode requires a special permission."
+    "message": "Для доступа к API браузера требуется специальное разрешение."
   },
   "Whitelisted_File_Extensions": {
-    "message": "Whitelisted File Extensions"
+    "message": "Белый список расширений файлов"
   },
   "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
-    "message": "Only files with these extensions can be saved to harddisk.\nBe careful to not allow file extensions that represent executables at your operating system!"
+    "message": "Только файлы с этими расширениями могут быть сохранены на жесткий диск.\nБудьте осторожны и не разрешайте расширения исполняемых в вашей ОС файлов!"
   },
   "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
-    "message": "Your whitelist seems to include executable files!\nThis means your userscripts may download malware or spyware to your harddisk!!"
+    "message": "Ваш белый список содержит исполняемые файлы!\nЭто означает, что ваши пользовательские скрипты могут загружать вредоносные или шпионские программы на ваш жесткий диск!"
   },
   "Browser_API_Downloads": {
-    "message": "Browser API Downloads"
+    "message": "API загрузок браузера"
   },
   "Click_here_to_allow_TM_to_start_downloads": {
-    "message": "Click OK to allow Tampermonkey to start instant downloads."
+    "message": "Нажмите ОК, чтобы разрешить Tampermonkey загружать файлы без запроса."
   },
   "Page_Filter_Mode": {
-    "message": "Page Filter Mode"
+    "message": "Режим фильтра страницы"
   },
   "Whitelisted_Pages": {
-    "message": "Whitelisted Pages"
+    "message": "Белый список страниц"
   },
   "Blacklisted_Pages": {
-    "message": "Blacklisted Pages"
+    "message": "Чёрный список страниц"
   },
   "Blacklist": {
-    "message": "Blacklist"
+    "message": "Чёрный список"
   },
   "Whitelist": {
     "message": "Whitelist"
