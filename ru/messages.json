@@ -1456,89 +1456,89 @@
     "message": "Разработчик"
   },
   "Templates": {
-     "message": "Templates"
+     "message": "Шаблоны"
   },
   "Undo": {
-    "message": "Undo"
+    "message": "Отменить"
   },
   "Redo": {
-    "message": "Redo"
+    "message": "Повторить"
   },
   "Cut": {
-    "message": "Cut"
+    "message": "Вырезать"
   },
   "Copy": {
-    "message": "Copy"
-  },
-  "Paste": {
-    "message": "Paste"
-  },
-  "Select_All": {
-    "message": "Select All"
-  },
+    "message": "Копировать"
+      },
+    "Paste": {
+        "message": "Вставить"
+    },
+    "Select_All": {
+        "message": "Выделить всё"
+    },
   "Toggle_Comment": {
-    "message": "Toggle Comment"
+    "message": "Вкл/выкл комментарий"
   },
   "Toggle_Comment_Indented": {
-    "message": "Toggle Comment Indented"
+    "message": "Вкл/выкл комментарий с отступом"
   },
   "Toggle_Block_Comment": {
-    "message": "Toggle Block Comment"
+    "message": "Вкл/выкл многострочный комментарий"
   },
   "Replace_All": {
-    "message": "Replace All"
+    "message": "Заменить всё"
   },
   "Lines": {
-    "message": "Lines"
+    "message": "Строки"
   },
   "Indent_Less": {
-    "message": "Indent Less"
+    "message": "Уменьшить отступ"
   },
   "Indent_More": {
-    "message": "Indent More"
-  },
-  "Move_Line_Up": {
-    "message": "Move Line Up"
-  },
-  "Move_Line_Down": {
-    "message": "Move Line Down"
-  },
-  "Duplicate_Lines": {
-    "message": "Duplicate Lines"
-  },
-  "Delete_Line": {
-    "message": "Delete Line"
-  },
-  "Join_Lines": {
-    "message": "Join Lines"
-  },
-  "Insert_Line_Before": {
-    "message": "Insert Line Before"
-  },
-  "Insert_Line_After": {
-    "message": "Insert Line After"
-  },
+    "message": "Увеличить отступ"
+    },
+    "Move_Line_Up": {
+        "message": "На строку выше"
+    },
+    "Move_Line_Down": {
+        "message": "На строку ниже"
+    },
+    "Duplicate_Lines": {
+        "message": "Дублировать выделенное"
+    },
+    "Delete_Line": {
+        "message": "Удалить строку"
+    },
+    "Join_Lines": {
+        "message": "Объединить строки"
+    },
+    "Insert_Line_Before": {
+        "message": "Вставить строку перед"
+    },
+    "Insert_Line_After": {
+        "message": "Вставить строку после"
+    },
   "Text": {
-    "message": "Text"
-  },
-  "Upper_Case": {
-    "message": "Upper Case"
-  },
-  "Lower_Case": {
-    "message": "Lower Case"
-  },
-  "Delete_Line_Left": {
-    "message": "Delete Line Left"
-  },
-  "Delete_Line_Right": {
-    "message": "Delete Line Right"
-  },
-  "Delete_to_Previous_Word_Boundary": {
-    "message": "Delete to Previous Word Boundary"
-  },
-  "Delete_to_Next_Word_Boundary": {
-    "message": "Delete to Next Word Boundary"
-  },
+    "message": "Текст"
+    },
+    "Upper_Case": {
+        "message": "Верхний регистр"
+    },
+    "Lower_Case": {
+        "message": "Нижний регистр"
+       },
+    "Delete_Line_Left": {
+        "message": "Удалить часть строки слева"
+    },
+    "Delete_Line_Right": {
+        "message": "Удалить часть строки справа"
+     },
+    "Delete_to_Previous_Word_Boundary": {
+        "message": "Удалить до границы предыдущего слова"
+    },
+    "Delete_to_Next_Word_Boundary": {
+        "message": "Удалить до границы следующего слова"
+    },
   "Transpose": {
     "message": "Transpose"
   },
