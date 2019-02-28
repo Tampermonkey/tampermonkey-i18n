@@ -1305,113 +1305,113 @@
   "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
     "message": "Какие действия следует выполнить после успешного импорта нативного пользовательского скрипта?"
   },
-  "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
-    "message": "When Tampermonkey is updated by your browser it is also re-started. Unfortunately this might break currently running scripts!\n\nSo are you sure that you don't want to be notified of updates?"
-  },
+     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
+        "message": "Когда Tampermonkey обновится, он будет перезапущен. Во время перезапуска скрипты временно не будут работать!\n\nВы уверены, что не хотите получать уведомления об обновлениях?"
+    },
   "Operation_completed_successfully": {
-    "message": "Operation completed successfully"
+    "message": "Операция успешно завершена"
   },
   "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-    "message": "All modifications are only kept until this incognito session is closed!"
+    "message": "Все изменения сохраняются только до закрытия этого сеанса инкогнито!"
   },
   "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
-    "message": "Limited runtime host permissions might break some Tampermonkey features like script update, GM_xmlhttpRequest and others!"
+    "message": "Ограниченные разрешения хоста во время выполнения могут нарушить некоторые функции Tampermonkey, такие как обновление скрипта, GM_xmlhttpRequest и другие!"
   },
   "_not_set_": {
-    "message": "<not set>"
+    "message": "<не установлен>"
   },
   "Layout": {
-    "message": "Layout"
+    "message": "Дизайн"
   },
   "Custom_CSS": {
-    "message": "Custom CSS"
+    "message": "Пользовательский CSS"
   },
   "You_can_add_your_custom_CSS_rules_here_": {
-    "message": "You can add your own CSS rules for the Tampermonkey UI here. In case this breaks something you can get the default layout by appending ?layout=reset to the options page URL."
+    "message": "Вы можете добавить свои собственные правила CSS для пользовательского интерфейса Tampermonkey здесь. В случае, если это что-то сломает, перейдите к стандартному оформлению, добавив ?layout=reset к URL."
   },
   "Store_data_in_incognito_mode": {
-    "message": "Store data in incognito mode"
+    "message": "Хранить данные в режиме инкогнито"
   },
   "Temporary": {
-    "message": "Temporary"
+    "message": "Временно"
   },
   "Permanent": {
-    "message": "Permanent"
+    "message": "Постоянно"
   },
   "Warning": {
-    "message": "Warning"
+    "message": "Предупреждения"
   },
   "Info": {
-    "message": "Info"
+    "message": "Предупреждения"
   },
   "Error": {
-    "message": "Error"
+    "message": "Ошибки"
   },
   "Externals": {
-    "message": "Externals"
+    "message": "Внешние"
   },
   "Requires": {
-    "message": "Requires"
+    "message": "Требования"
   },
   "Resources": {
-    "message": "Resources"
+    "message": "Ресурсы"
   },
   "Storage": {
-    "message": "Storage"
+    "message": "Хранилище"
   },
   "URL": {
     "message": "URL"
   },
   "Size": {
-    "message": "Size"
+    "message": "Размер"
   },
   "Login": {
-    "message": "Login"
+    "message": "Авторизоваться"
   },
   "Password": {
-    "message": "Password"
+    "message": "Пароль"
   },
   "No_entry_found": {
-    "message": "No entry found"
+    "message": "Запись не найдена"
   },
   "BlackCheck": {
-    "message": "BlackCheck"
+    "message": "Проверка на присутствие в чёрном списке"
   },
   "Script_Blacklist_Source": {
-    "message": "Script Blacklist Source"
+    "message": "Список запрещённых источников"
   },
   "Server_And_Manual": {
-    "message": "Remote + Manual"
+    "message": "Удалённый + Ручной"
   },
   "Only_Manual": {
-    "message": "Manual Only"
+    "message": "Только ручной"
   },
   "Manual_Script_Blacklist": {
-    "message": "Manual Userscript and @require Blacklist"
+    "message": "Ручной чёрный список пользовательских скриптов и @require"
   },
   "This_script_is_blacklisted_": {
-    "message": "This script is blacklisted!"
+    "message": "Этот скрипт в чёрном списке!"
   },
   "Report_an_issue_to_the_script_hoster_": {
-    "message": "Report abuse.\n(A user account may be required)"
+    "message": "Сообщить о нарушении.\n(Может понадобиться пользовательский аккаунт)"
   },
   "Blacklist_Severity": {
-    "message": "Block From Severity Level"
+    "message": "Блокировать от уровня серьезности"
   },
   "Action_Menu": {
-    "message": "Action Menu"
+    "message": "Меню действий"
   },
   "Hide_disabled_scripts": {
-    "message": "Hide disabled scripts"
+    "message": "Скрыть отключенные скрипты"
   },
   "Columns": {
-    "message": "Columns"
+    "message": "Колонки"
   },
   "Script_order": {
-    "message": "Script order"
+    "message": "Порядок скриптов"
   },
   "severity_1": {
-    "message": "1 (most secure)"
+    "message": "1 (наиболее безопасный)"
   },
   "severity_2": {
     "message": "2"
@@ -1438,22 +1438,22 @@
     "message": "9"
   },
   "severity_10": {
-    "message": "10 (least secure)"
+    "message": "10 (наименее безопасный)"
   },
   "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
-    "message": "Your language is not supported?\nClick here to get instructions how to translate Tampermonkey?"
+    "message": "Ваш язык не поддерживается?\nНажмите здесь, чтобы получить инструкции, как перевести Tampermonkey?"
   },
   "Default": {
-    "message": "Default"
+    "message": "По умолчанию"
   },
   "Default_Dark": {
-    "message": "Default - Dark"
+    "message": "По умолчанию - Тёмная"
   },
   "Ok": {
-    "message": "Ok"
+    "message": "Ок"
   },
   "Developer": {
-    "message": "Developer"
+    "message": "Разработчик"
   },
   "Templates": {
      "message": "Templates"
