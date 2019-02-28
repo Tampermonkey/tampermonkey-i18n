@@ -1540,101 +1540,101 @@
         "message": "Удалить до границы следующего слова"
     },
   "Transpose": {
-    "message": "Transpose"
+    "message": "Транспонировать"
   },
   "Line_Case_Insensitive": {
-    "message": "Line Case Insensitive"
-  },
-  "Folding": {
-    "message": "Folding"
-  },
-  "Fold": {
-    "message": "Fold"
-  },
-  "Unfold": {
-    "message": "Unfold"
-  },
-  "Fold_All": {
-    "message": "Fold All"
-  },
-  "Unfold_All": {
-    "message": "Unfold All"
-  },
+    "message": "Строки без учёта регистра"
+     },
+    "Folding": {
+        "message": "Сворачивание"
+    },
+    "Fold": {
+        "message": "Свернуть"
+    },
+    "Unfold": {
+        "message": "Развернуть"
+    },
+    "Fold_All": {
+        "message": "Свернуть все"
+    },
+    "Unfold_All": {
+        "message": "Развернуть все"
+    },
   "Sublime_Mark": {
     "message": "Sublime Mark"
   },
   "Set_Sublime_Mark": {
-    "message": "Set Sublime Mark"
+    "message": "Установить возвышенный знак"
   },
   "Select_to_Sublime_Mark": {
-    "message": "Select to Sublime Mark"
+    "message": "Выбрать для возвышенного знака"
   },
   "Swap_with_Sublime_Mark": {
-    "message": "Swap with Sublime Mark"
+    "message": "Обмен с возвышенным знаком"
   },
   "Delete_to_Sublime_Mark": {
-    "message": "Delete to Sublime Mark"
+    "message": "Удалить на возвышенный знак"
   },
   "Yank_Sublime_Mark": {
-    "message": "Yank Sublime Mark"
+    "message": "Маркер выделения Yank"
   },
   "Selection": {
-    "message": "Selection"
+    "message": "Выделение"
   },
   "Incremental_Find": {
-    "message": "Incremental Find"
-  },
-  "Add_Selection_Above": {
-    "message": "Add Selection Above"
-  },
-  "Add_Selection_Below": {
-    "message": "Add Selection Below"
-  },
+    "message": "Инкрементный поиск"
+   },
+    "Add_Selection_Above": {
+        "message": "Добавить выделение выше"
+    },
+    "Add_Selection_Below": {
+        "message": "Добавить выделение ниже"
+    },
   "Split_into_Lines": {
-    "message": "Split into Lines"
+    "message": "Разделить на строки"
   },
   "Select_Line": {
-    "message": "Select Line"
+    "message": "Выделить строку"
   },
   "Select_Scope": {
-    "message": "Select Scope"
+    "message": "Выделить область"
   },
   "Select_Bookmarks": {
-    "message": "Select Bookmarks"
+    "message": "Выделить закладки"
   },
   "Select_between_Brackets": {
-    "message": "Select between Brackets"
+    "message": "Выделить между скобками"
   },
   "Select_Next_Occurrence": {
-    "message": "Select Next Occurrence"
-  },
-  "Find": {
-    "message": "Find"
-  },
-  "Find_Next": {
-    "message": "Find Next"
-  },
-  "Find_Previous": {
-    "message": "Find Previous"
-  },
-  "Find_Under": {
-    "message": "Find Under"
-  },
-  "Find_All_Under": {
-    "message": "Find All Under"
-  },
-  "Find_Under_Previous": {
-    "message": "Find Under Previous"
-  },
-  "GoTo": {
-    "message": "GoTo"
-  },
-  "Document_Start": {
-    "message": "Document Start"
-  },
-  "Document_End": {
-    "message": "Document End"
-  },
+    "message": "Выделить следующее вхождение"
+   },
+    "Find": {
+        "message": "Найти"
+    },
+    "Find_Next": {
+        "message": "Найти далее"
+    },
+    "Find_Previous": {
+        "message": "Найти предыдущее"
+     },
+    "Find_Under": {
+        "message": "Найти до"
+    },
+    "Find_All_Under": {
+        "message": "Найти всё до"
+    },
+    "Find_Under_Previous": {
+        "message": "Найти до предыдущего"
+    },
+    "GoTo": {
+        "message": "Перейти"
+    },
+    "Document_Start": {
+        "message": "В начало скрипта"
+    },
+    "Document_End": {
+        "message": "В конец скрипта"
+    },
   "Group_Left": {
     "message": "Group Left"
   },
