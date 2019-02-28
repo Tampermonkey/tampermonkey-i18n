@@ -859,37 +859,37 @@
     "message": "Чёрный список"
   },
   "Whitelist": {
-    "message": "Whitelist"
+    "message": "Белый список"
   },
   "Both": {
-    "message": "Both"
+    "message": "Оба"
   },
   "Experimental": {
-    "message": "Experimental"
+    "message": "Экспериментально"
   },
   "strict_mode": {
-    "message": "strict mode"
+    "message": "Строгий режим"
   },
   "Inject_Mode": {
-    "message": "Inject Mode"
+    "message": "Режим встраивания"
   },
   "Fast": {
-    "message": "Fast"
+    "message": "Быстрый"
   },
   "Normal": {
-    "message": "Normal"
+    "message": "Нормальный"
   },
   "Instant": {
-    "message": "Instant"
+    "message": "Мгновенный"
   },
   "This_page_is_blacklisted_at_the_security_settings": {
-    "message": "Blacklisted by security settings"
+    "message": "В черном списке настроек безопасности"
   },
   "Update_Notification": {
-    "message": "Show TM update notification"
+    "message": "Показать уведомление об обновлении Tampermonkey"
   },
   "Favicon_Service": {
-    "message": "Favicon Service"
+    "message": "Favicon-сервис"
   },
   "Google": {
     "message": "Google"
@@ -898,10 +898,10 @@
     "message": "DuckDuckGo"
   },
   "Warning_unsafe_site_warnings_might_appear_": {
-    "message": "Warning: unsafe site warnings might appear if a script includes potentially harmfull URLs."
+    "message": "Внимание: могут появляться предупреждения о ненадежном сайте, если скрипт содержит потенциально опасные URL."
   },
   "Unable_to_load_script_from_url_0url0": {
-    "message": "Unable to load script from url: \n $url$",
+    "message": "Невозможно загрузить скрипт из URL: \n $url$",
     "placeholders": {
       "url": {
         "content": "$1"
@@ -909,73 +909,73 @@
     }
   },
   "Click_here_to_install_it_": {
-    "message": "Click here to install it."
+    "message": "Нажмите здесь, чтобы установить его."
   },
   "Check_disabled_scripts": {
-    "message": "Update disabled scripts"
+    "message": "Обновлять отключённые скрипты"
   },
   "Homepage": {
-    "message": "Homepage"
+    "message": "Домашняя страница"
   },
   "Last_updated": {
-    "message": "Last updated"
+    "message": "Последнее обновление"
   },
   "User_modified": {
-    "message": "Modified"
+    "message": "Изменён"
   },
   "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
-    "message": "This external resource will not auto-update! Please delete it in order to enable updates again."
+    "message": "Этот внешний ресурс не будет автоматически обновляться! Пожалуйста, удалите его, чтобы снова включить обновления."
   },
   "MIME_Type": {
-    "message": "MIME Type"
+    "message": "MIME-тип"
   },
   "Version": {
-    "message": "Version"
+    "message": "Версия"
   },
   "Type": {
-    "message": "Type"
+    "message": "Тип"
   },
   "Updates": {
-    "message": "Updates"
+    "message": "Обновления"
   },
   "Check_for_Updates": {
-    "message": "Check for updates"
+    "message": "Проверять наличие обновления"
   },
   "Update_check_is_disabled": {
-    "message": "Script update check is disabled or not possible"
+    "message": "Проверка обновления скрипта отключена или невозможна"
   },
   "Click_here_to_move_this_script": {
-    "message": "Click here to move this script"
+    "message": "Нажмите здесь, чтобы переместить этот скрипт"
   },
   "overwritten_by_user": {
-    "message": "overwritten by user setting"
+    "message": "перезаписывается настройками пользователя"
   },
   "Report_a_bug": {
-    "message": "Report a bug"
+    "message": "Сообщить об ошибке"
   },
   "A_reload_is_required": {
-    "message": "A reload is required: \nAll unsaved changes will be lost!"
+    "message": "Требуется перезагрузка: \nВсе несохраненные изменения будут потеряны!"
   },
   "Save_to_disk": {
-    "message": "Save to disk"
+    "message": "Сохранить на диск"
   },
   "Editor_reset": {
-    "message": "Editor reset"
+    "message": "Сбросить изменения"
   },
   "Full_reset": {
-    "message": "Factory reset"
+    "message": "Полный сброс"
   },
   "Run_syntax_check": {
-    "message": "Run syntax check"
+    "message": "Запустить проверку синтаксиса"
   },
   "No_syntax_errors_were_found_": {
-    "message": "No syntax errors were found."
+    "message": "Синтаксических ошибок не обнаружено."
   },
   "One_error_or_hint_was_found_": {
-    "message": "One error or hint was found."
+    "message": "Найдена одна ошибка или предупреждение.."
   },
   "0count0_errors_or_hints_were_found_": {
-    "message": "$count$ errors or hints were found.",
+    "message": "$count$ ошибок или предупреждений найдено.",
     "placeholders": {
       "count": {
         "content": "$1"
@@ -983,28 +983,28 @@
     }
   },
   "Auto_syntax_check_on_typing": {
-    "message": "Automatic syntax check on typing"
+    "message": "Автоматическая проверка синтаксиса при наборе текста"
   },
   "Enable_this_option_to_automatically_check_the_code_on_typing_": {
-    "message": "Enable this option to automatically check the code on typing."
+    "message": "Включите эту опцию, чтобы автоматически проверять код при наборе."
   },
   "Auto_syntax_check_max_length": {
-    "message": "Automatic syntax check max size"
+    "message": "Максимальный размер скрипта для автоматической проверки синтаксиса"
   },
   "Check_only_scripts_up_to_this_size_automatically_": {
-    "message": "Check only scripts up to this size automatically."
+    "message": "Проверять скрипты автоматически только до этого размера."
   },
   "Highlight_trailing_whitespace": {
-    "message": "Highlight trailing whitespace"
+    "message": "Подсвечивать пробелы в конце строки"
   },
   "Trim_trailing_whitespace_from_modified_lines": {
-    "message": "Trim trailing whitespace from modified lines"
+    "message": "Обрезать пробелы с концов модифицированных строк"
   },
   "Dashboard": {
-    "message": "Dashboard"
+    "message": "Панель управления"
   },
   "Userscripts": {
-    "message": "Userscripts"
+    "message": "Пользовательские скрипты"
   },
   "Script_URL_detection": {
     "message": "Script URL detection"
