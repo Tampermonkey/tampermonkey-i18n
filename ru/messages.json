@@ -1243,67 +1243,67 @@
     "message": "Не показывать диалог подтверждения при сохранении"
   },
   "Add_TM_to_CSP": {
-    "message": "Add Tampermonkey to the site's content security policy (CSP) if there is one"
+    "message": "Добавить Tampermonkey в политику безопасности сайта (CSP), если она есть"
   },
   "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
-    "message": "Tampermonkey might not be able to provide access to the unsafe context (unsafeWindow, page's functions and variables) when this is disabled."
+    "message": "Без этой опции Tampermonkey может запрещать доступ к небезопасному контенту (unsafeWindow, функции и переменные страницы)."
   },
   "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-    "message": "At least one part of this page is listed at the 'forbidden pages' setting!"
+    "message": "По крайней мере одна часть этой страницы указана в настройке 'запрещенные страницы'!"
   },
   "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
-    "message": "Some scripts might be blocked by the JavaScript settings for this page or a script blocker!"
+    "message": "Некоторые сценарии могут быть заблокированы настройками JavaScript для этой страницы или блокировщиком сценариев!"
   },
   "Show_notification": {
-    "message": "Show notification"
+    "message": "Показать уведомление"
   },
   "Open_changelog": {
-    "message": "Open changelog"
+    "message": "Открыть список изменений"
   },
   "No_frames": {
-    "message": "Run only in top frame"
+    "message": "Запустить только в верхнем фрейме"
   },
   "Native": {
-    "message": "Native"
+    "message": "Нативный"
   },
   "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
-    "message": "Tampermonkey needs to know the absolute path to your browser profile folder to make the script import function work.\n\nClick here to visit the FAQ to learn where this can be found!"
-  },
-  "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-    "message": "Tampermonkey needs access to file URIs to make the script import work.\n\nClick here to visit the FAQ to learn how you can grant that permission!"
-  },
+        "message": "Для работы функции импорта скриптов, Tampermonkey должен знать абсолютный путь к папке профиля браузера.\n\nНажмите здесь, чтобы посетить FAQ!"
+    },
+   "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
+        "message": "Для работы функции импорта скриптов, Tampermonkey необходим доступ к файлу URI\n\n\n\nНажмите здесь, чтобы посетить FAQ!"
+    },
   "Tampermonkey_has_no_file_access_permission_": {
-    "message": "Tampermonkey has no permission to access local files!"
+    "message": "У Tampermonkey нет прав доступа к локальным файлам!"
   },
   "Everything_is_setup_correctly_": {
-    "message": "Everything is setup correctly."
+    "message": "Все настроено правильно."
   },
   "TM_has_access_to_file_URIs": {
-    "message": "Tampermonkey has access to file URIs. :)"
+    "message": "Tampermonkey имеет доступ к файлам URI. :)"
   },
   "Browser_Profile_Path": {
-    "message": "Browser Profile Path"
+    "message": "Путь к профилю браузера"
   },
   "Native_Script_Import": {
-    "message": "Native Script Import"
+    "message": "Импорт собственного скрипта"
   },
   "Enable_Native_Script_Import": {
-    "message": "Enable Native Script Import"
+    "message": "Включить импорт собственного скрипта"
   },
   "Post_Import_Action": {
-    "message": "Post Import Action"
+    "message": "Действие после импорта"
   },
   "None": {
-    "message": "None"
+    "message": "Нет действия"
   },
   "Disable_Extension": {
-    "message": "Disable Extension"
+    "message": "Отключить расширение"
   },
   "Uninstall_Extension": {
-    "message": "Uninstall Extension"
+    "message": "Удалить расширение"
   },
   "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
-    "message": "What action should be done after a native userscript was imported successfully?"
+    "message": "Какие действия следует выполнить после успешного импорта нативного пользовательского скрипта?"
   },
   "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
     "message": "When Tampermonkey is updated by your browser it is also re-started. Unfortunately this might break currently running scripts!\n\nSo are you sure that you don't want to be notified of updates?"
