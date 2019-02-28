@@ -1108,139 +1108,139 @@
       "message": "Пользовательский чёрный список доменов"
   },
   "XHR_Security": {
-      "message": "XHR Security"
+      "message": "Безопасность XHR"
   },
   "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
-    "message": "An internal error occurred. If this problem persists even after a restart of the browser, please press OK and report this issue at the forum.\n\nDo you want to visit the Tampermonkey forum?"
+    "message": "Возникла внутренняя ошибка. Если проблема не устраняется даже после перезапуска браузера, нажмите ОК и сообщите об этой проблеме на форуме.\n\nВы хотите посетить форум Tampermonkey??"
   },
   "Script_Sync": {
-    "message": "Script Sync"
+    "message": "Синхронизация скриптов"
   },
   "Enable_Script_Sync": {
-    "message": "Enable Script Sync"
+    "message": "Включить синхронизацию скриптов"
   },
   "Synchronize_your_scripts_across_browsers_and_operation_systems": {
-    "message": "Synchronize your scripts across browsers and operation systems"
+    "message": "Синхронизация скриптов между браузерами и операционными системами"
   },
   "Sync_Type": {
-    "message": "Type"
+    "message": "Тип"
   },
   "Imported": {
-    "message": "Imported"
+    "message": "Импортирован"
   },
   "Allow_headers_to_be_modified_by_scripts": {
-    "message": "Allow HTTP headers to be modified by scripts"
+    "message": "Разрешить изменение заголовков HTTP скриптами"
   },
   "Script_local_files_access": {
-    "message": "Allow scripts to access local files"
+    "message": "Разрешить скриптам доступ к локальным файлам"
   },
   "require_and_resource": {
-    "message": "Externals (@require and @resource)"
+    "message": "Внешние (@require и @resource)"
   },
   "All_local_files": {
-    "message": "All local files"
+    "message": "Все локальные файлы"
   },
   "Allow_communication_with_cooperate_pages": {
-    "message": "Allow communication with cooperate pages"
+    "message": "Разрешить взаимодействие со связанными страницами"
   },
   "Tampermonkey_and_script_version": {
-    "message": "Tampermonkey + script version"
+    "message": "Tampermonkey + версия скрипта"
   },
   "Tampermonkey_version": {
-    "message": "Tampermonkey version only"
+    "message": "Только версия Tampermonkey"
   },
   "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
-    "message": "This option allows the Tampermonkey homepage and some script hosting pages to determine the Tampermonkey version and some basic script information (installed, version, enabled)."
+        "message": "Эта опция позволяет домашней странице Tampermonkey и некоторым скриптам определять версию Tampermonkey и базовую информацию о скриптах (какие установлены, их версии и включены ли они)."
   },
   "Subresource_Integrity": {
-    "message": "Subresource Integrity"
+    "message": "Подресурсная целостность"
   },
   "Validate_if_supported": {
-    "message": "Validate if possible"
+    "message": "Проверить, если возможно"
   },
   "Validate_if_given": {
-    "message": "Validate if given"
+    "message": "Проверить, если указано"
   },
   "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
-    "message": "Script authors can secure external resources by adding a SRI hash to the source URL."
+    "message": "Авторы сценариев могут защитить внешние ресурсы, добавив хэш SRI к исходному URL."
   },
   "Yes": {
-    "message": "Yes"
+    "message": "Да"
   },
   "No": {
-    "message": "No"
+    "message": "Нет"
   },
   "Auto": {
-    "message": "Auto"
+    "message": "Автоматически"
   },
   "__Please_choose__": {
-    "message": "-- Please choose an option --"
+    "message": "-- Пожалуйста, выберите опцию --"
   },
   "Enable": {
-    "message": "Enable"
+    "message": "Включить"
   },
   "Disable": {
-    "message": "Disable"
+    "message": "Отключить"
   },
   "Toggle_Enable": {
-    "message": "Toggle Enable"
+    "message": "Переключить"
   },
   "Trigger_Update": {
-    "message": "Trigger Update"
+    "message": "Обновление триггера"
   },
   "Apply_this_action_to_the_selected_scripts": {
-    "message": "Apply this to all selected scripts"
+    "message": "Примените это ко всем выбранным скриптам"
   },
   "Start": {
-    "message": "Start"
+    "message": "Запустить"
   },
   "Really_delete_the_selected_items_": {
-    "message": "Do you really want to delete all selected items?"
+    "message": "Вы действительно хотите удалить все выбранные элементы?"
   },
   "Really_factory_reset_the_selected_items_": {
-    "message": "Do you really want to factory reset all selected items?"
+    "message": "Вы действительно хотите сбросить все выбранные элементы?"
   },
   "Filter_by": {
-    "message": "Filter by"
+    "message": "Фильтровать по"
   },
   "Matching_URL": {
-    "message": "Matching URL"
+    "message": "Соответствующий URL"
   },
   "Really_factory_reset_this_script_": {
-    "message": "Do you really want to factory reset this script?"
+    "message": "Вы действительно хотите сбросить настройки скрипта?"
   },
   "Reset_Section": {
-    "message": "Reset"
+    "message": "Сброс"
   },
   "Restart_Tampermonkey": {
-    "message": "Restart Tampermonkey"
+    "message": "Перезапустите Tampermonkey"
   },
   "This_will_restart_Tampermonkey_Ok_": {
-    "message": "Do you really want to restart Tampermonkey?"
+    "message": "Вы действительно хотите перезапустить Tampermonkey?"
   },
   "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
-    "message": "Tampermonkey needs to be restarted to make this change apply.\n\nDo you want to continue?"
+    "message": "Tampermonkey необходимо перезапустить, чтобы изменения вступили в силу.\n\nВы хотите продолжить?"
   },
   "Factory_Reset": {
-    "message": "Factory Reset"
+    "message": "Сброс к заводским настройкам"
   },
   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
-    "message": "Do you really want to remove all scripts and reset all settings?"
+    "message": "Вы действительно хотите удалить все скрипты и сбросить все настройки?"
   },
   "Browser_Sync": {
-    "message": "Browser Sync"
+    "message": "Синхронизация браузера"
   },
   "Sync_Reset": {
-    "message": "Sync Reset"
+    "message": "Сброс синхронизации"
   },
   "This_will_remove_all_remote_data_from_sync_Ok_": {
-    "message": "Do you really want to remove all data from Sync?"
+    "message": "Вы действительно хотите удалить все данные из синхронизации?"
   },
   "Enable_autoSave": {
-    "message": "Save content when editor loses focus"
+    "message": "Автоматически сохранять содержимое, когда редактор теряет фокус"
   },
   "Enable_easySave": {
-    "message": "Don't show confirmation dialog on save"
+    "message": "Не показывать диалог подтверждения при сохранении"
   },
   "Add_TM_to_CSP": {
     "message": "Add Tampermonkey to the site's content security policy (CSP) if there is one"
