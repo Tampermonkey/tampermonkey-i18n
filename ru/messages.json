@@ -149,7 +149,7 @@
     "message": "Как минимум одно из выражений @include, @match или @exclude было изменено."
   },
   "At_least_one_new_connect_statement_was_added_": {
-     "message": "Был добавлен, как минимум один новый оператор @connect."
+    "message": "Был добавлен, как минимум один новый оператор @connect."
   },
   "Attention_Can_not_display_all_includes_": {
     "message": "Внимание: список включений был сокращён.\nПроверьте его вручную!"
@@ -168,46 +168,46 @@
   },
   "Automatically_added_user_includes_for_compatibility_reasons_": {
     "message": "Некоторые пользовательские includes будут применены автоматически для обеспечения совместимости!"
-    },
-    "Author": {
-        "message": "Автор"
-    },
-    "Description": {
-        "message": "Описание"
-    },
-    "Source": {
-        "message": "Источник"
-    },
-    "Source_Code": {
-        "message": "Исходный код"
-    },
-    "Changes": {
-        "message": "Изменения"
-    },
+  },
+  "Author": {
+    "message": "Автор"
+  },
+  "Description": {
+    "message": "Описание"
+  },
+  "Source": {
+    "message": "Источник"
+  },
+  "Source_Code": {
+    "message": "Исходный код"
+  },
+  "Changes": {
+    "message": "Изменения"
+  },
   "The_diff_for_this_script_is_too_large_to_render": {
     "message": "Различия для этого скрипта слишком велики для визуализации"
-    },
-    "Current_Version": {
-        "message": "Текущая версия"
-    },
-    "New_Version": {
-        "message": "Новая версия"
-    },
-    "Install": {
-        "message": "Установить"
-    },
-    "Reinstall": {
-        "message": "Переустановить"
-    },
-    "Modify": {
-        "message": "Изменить"
-    },
-    "Downgrade": {
-        "message": "Откатить"
-    },
-    "Update": {
-        "message": "Обновить"
-    },
+  },
+  "Current_Version": {
+    "message": "Текущая версия"
+  },
+  "New_Version": {
+    "message": "Новая версия"
+  },
+  "Install": {
+    "message": "Установить"
+  },
+  "Reinstall": {
+    "message": "Переустановить"
+  },
+  "Modify": {
+    "message": "Изменить"
+  },
+  "Downgrade": {
+    "message": "Откатить"
+  },
+  "Update": {
+    "message": "Обновить"
+  },
   "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
     "message": "$name$ $version$ доступна.\nПожалуйста, перезапустите браузер, чтобы начать обновление!",
     "placeholders": {
@@ -256,16 +256,16 @@
     "message": "Всегда разрешать для всех доменов"
   },
   "Forbid_once": {
-      "message": "Запретить один раз"
+    "message": "Запретить один раз"
   },
   "Always_forbid": {
-      "message": "Всегда запрещать"
+    "message": "Всегда запрещать"
   },
   "Always_forbid_domain": {
-      "message": "Всегда запрещать домену"
+    "message": "Всегда запрещать домену"
   },
   "Dont_ask_again": {
-      "message": "Больше не спрашивать"
+    "message": "Больше не спрашивать"
   },
   "Focus_tab": {
     "message": "Сфокусироваться на вкладке источника"
@@ -795,21 +795,21 @@
   "Today": {
     "message": "Сегодня"
   },
-    "15_Seconds": {
-        "message": "15 секунд"
-    },
-    "30_Seconds": {
-        "message": "30 секунд"
-    },
-    "1_Minute": {
-        "message": "1 минуту"
-    },
-    "5_Minutes": {
-        "message": "5 минут"
-    },
-    "1_Hour": {
-        "message": "1 час"
-    },
+  "15_Seconds": {
+    "message": "15 секунд"
+  },
+  "30_Seconds": {
+    "message": "30 секунд"
+  },
+  "1_Minute": {
+    "message": "1 минуту"
+  },
+  "5_Minutes": {
+    "message": "5 минут"
+  },
+  "1_Hour": {
+    "message": "1 час"
+  },
   "Enable_Editor": {
     "message": "Включить расширенный редактор"
   },
@@ -1020,16 +1020,16 @@
   },
   "Icon_badge_info": {
     "message": "Значок на панели инструментов"
-    },
-    "Icon_badge_color": {
-        "message": "Цвет значка"
-    },
-    "On": {
-        "message": "Включено"
-    },
-    "Off": {
-        "message": "Отключено"
-    },
+  },
+  "Icon_badge_color": {
+    "message": "Цвет значка"
+  },
+  "On": {
+    "message": "Включено"
+  },
+  "Off": {
+    "message": "Отключено"
+  },
   "Running_scripts": {
     "message": "Количество запущенных скриптов"
   },
@@ -1096,19 +1096,19 @@
     "message": "Пользовательские @excludes"
   },
   "Original_domain_whitelist": {
-      "message": "Оригинальный белый список доменов"
+    "message": "Оригинальный белый список доменов"
   },
   "User_domain_whitelist": {
-      "message": "Пользовательский белый список доменов"
+    "message": "Пользовательский белый список доменов"
   },
   "Temporary_domain_whitelist": {
-      "message": "Временный белый список доменов"
+    "message": "Временный белый список доменов"
   },
   "User_domain_blacklist": {
-      "message": "Пользовательский чёрный список доменов"
+    "message": "Пользовательский чёрный список доменов"
   },
   "XHR_Security": {
-      "message": "Безопасность XHR"
+    "message": "Безопасность XHR"
   },
   "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
     "message": "Возникла внутренняя ошибка. Если проблема не устраняется даже после перезапуска браузера, нажмите ОК и сообщите об этой проблеме на форуме.\n\nВы хотите посетить форум Tampermonkey??"
@@ -1150,7 +1150,7 @@
     "message": "Только версия Tampermonkey"
   },
   "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
-        "message": "Эта опция позволяет домашней странице Tampermonkey и некоторым скриптам определять версию Tampermonkey и базовую информацию о скриптах (какие установлены, их версии и включены ли они)."
+    "message": "Эта опция позволяет домашней странице Tampermonkey и некоторым скриптам определять версию Tampermonkey и базовую информацию о скриптах (какие установлены, их версии и включены ли они)."
   },
   "Subresource_Integrity": {
     "message": "Подресурсная целостность"
@@ -1267,11 +1267,11 @@
     "message": "Нативный"
   },
   "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
-        "message": "Для работы функции импорта скриптов, Tampermonkey должен знать абсолютный путь к папке профиля браузера.\n\nНажмите здесь, чтобы посетить FAQ!"
-    },
-   "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-        "message": "Для работы функции импорта скриптов, Tampermonkey необходим доступ к файлу URI\n\n\n\nНажмите здесь, чтобы посетить FAQ!"
-    },
+    "message": "Для работы функции импорта скриптов, Tampermonkey должен знать абсолютный путь к папке профиля браузера.\n\nНажмите здесь, чтобы посетить FAQ!"
+  },
+  "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
+    "message": "Для работы функции импорта скриптов, Tampermonkey необходим доступ к файлу URI\n\n\n\nНажмите здесь, чтобы посетить FAQ!"
+  },
   "Tampermonkey_has_no_file_access_permission_": {
     "message": "У Tampermonkey нет прав доступа к локальным файлам!"
   },
@@ -1305,9 +1305,9 @@
   "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
     "message": "Какие действия следует выполнить после успешного импорта нативного пользовательского скрипта?"
   },
-     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
-        "message": "Когда Tampermonkey обновится, он будет перезапущен. Во время перезапуска скрипты временно не будут работать!\n\nВы уверены, что не хотите получать уведомления об обновлениях?"
-    },
+  "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
+    "message": "Когда Tampermonkey обновится, он будет перезапущен. Во время перезапуска скрипты временно не будут работать!\n\nВы уверены, что не хотите получать уведомления об обновлениях?"
+  },
   "Operation_completed_successfully": {
     "message": "Операция успешно завершена"
   },
@@ -1456,7 +1456,7 @@
     "message": "Разработчик"
   },
   "Templates": {
-     "message": "Шаблоны"
+    "message": "Шаблоны"
   },
   "Undo": {
     "message": "Отменить"
@@ -1469,13 +1469,13 @@
   },
   "Copy": {
     "message": "Копировать"
-      },
-    "Paste": {
-        "message": "Вставить"
-    },
-    "Select_All": {
-        "message": "Выделить всё"
-    },
+  },
+  "Paste": {
+    "message": "Вставить"
+  },
+  "Select_All": {
+    "message": "Выделить всё"
+  },
   "Toggle_Comment": {
     "message": "Вкл/выкл комментарий"
   },
@@ -1496,70 +1496,70 @@
   },
   "Indent_More": {
     "message": "Увеличить отступ"
-    },
-    "Move_Line_Up": {
-        "message": "На строку выше"
-    },
-    "Move_Line_Down": {
-        "message": "На строку ниже"
-    },
-    "Duplicate_Lines": {
-        "message": "Дублировать выделенное"
-    },
-    "Delete_Line": {
-        "message": "Удалить строку"
-    },
-    "Join_Lines": {
-        "message": "Объединить строки"
-    },
-    "Insert_Line_Before": {
-        "message": "Вставить строку перед"
-    },
-    "Insert_Line_After": {
-        "message": "Вставить строку после"
-    },
+  },
+  "Move_Line_Up": {
+    "message": "На строку выше"
+  },
+  "Move_Line_Down": {
+    "message": "На строку ниже"
+  },
+  "Duplicate_Lines": {
+    "message": "Дублировать выделенное"
+  },
+  "Delete_Line": {
+    "message": "Удалить строку"
+  },
+  "Join_Lines": {
+    "message": "Объединить строки"
+  },
+  "Insert_Line_Before": {
+    "message": "Вставить строку перед"
+  },
+  "Insert_Line_After": {
+    "message": "Вставить строку после"
+  },
   "Text": {
     "message": "Текст"
-    },
-    "Upper_Case": {
-        "message": "Верхний регистр"
-    },
-    "Lower_Case": {
-        "message": "Нижний регистр"
-       },
-    "Delete_Line_Left": {
-        "message": "Удалить часть строки слева"
-    },
-    "Delete_Line_Right": {
-        "message": "Удалить часть строки справа"
-     },
-    "Delete_to_Previous_Word_Boundary": {
-        "message": "Удалить до границы предыдущего слова"
-    },
-    "Delete_to_Next_Word_Boundary": {
-        "message": "Удалить до границы следующего слова"
-    },
+  },
+  "Upper_Case": {
+    "message": "Верхний регистр"
+  },
+  "Lower_Case": {
+    "message": "Нижний регистр"
+  },
+  "Delete_Line_Left": {
+    "message": "Удалить часть строки слева"
+  },
+  "Delete_Line_Right": {
+    "message": "Удалить часть строки справа"
+  },
+  "Delete_to_Previous_Word_Boundary": {
+    "message": "Удалить до границы предыдущего слова"
+  },
+  "Delete_to_Next_Word_Boundary": {
+    "message": "Удалить до границы следующего слова"
+  },
   "Transpose": {
     "message": "Транспонировать"
   },
   "Line_Case_Insensitive": {
     "message": "Строки без учёта регистра"
-     },
-    "Folding": {
-        "message": "Сворачивание"
-    },
-    "Fold": {
-        "message": "Свернуть"
-    },
-    "Unfold": {
-        "message": "Развернуть"
-    },
-    "Fold_All": {
-        "message": "Свернуть все"
-    },
-    "Unfold_All": {
-        "message": "Развернуть все"
-    },
+  },
+  "Folding": {
+    "message": "Сворачивание"
+  },
+  "Fold": {
+    "message": "Свернуть"
+  },
+  "Unfold": {
+    "message": "Развернуть"
+  },
+  "Fold_All": {
+    "message": "Свернуть все"
+  },
+  "Unfold_All": {
+    "message": "Развернуть все"
+  },
   "Sublime_Mark": {
     "message": "Sublime Mark"
   },
@@ -1583,13 +1583,13 @@
   },
   "Incremental_Find": {
     "message": "Инкрементный поиск"
-   },
-    "Add_Selection_Above": {
-        "message": "Добавить выделение выше"
-    },
-    "Add_Selection_Below": {
-        "message": "Добавить выделение ниже"
-    },
+  },
+  "Add_Selection_Above": {
+    "message": "Добавить выделение выше"
+  },
+  "Add_Selection_Below": {
+    "message": "Добавить выделение ниже"
+  },
   "Split_into_Lines": {
     "message": "Разделить на строки"
   },
@@ -1607,65 +1607,65 @@
   },
   "Select_Next_Occurrence": {
     "message": "Выделить следующее вхождение"
-   },
-    "Find": {
-        "message": "Найти"
-    },
-    "Find_Next": {
-        "message": "Найти далее"
-    },
-    "Find_Previous": {
-        "message": "Найти предыдущее"
-     },
-    "Find_Under": {
-        "message": "Найти до"
-    },
-    "Find_All_Under": {
-        "message": "Найти всё до"
-    },
-    "Find_Under_Previous": {
-        "message": "Найти до предыдущего"
-    },
-    "GoTo": {
-        "message": "Перейти"
-    },
-    "Document_Start": {
-        "message": "В начало скрипта"
-    },
-    "Document_End": {
-        "message": "В конец скрипта"
-    },
+  },
+  "Find": {
+    "message": "Найти"
+  },
+  "Find_Next": {
+    "message": "Найти далее"
+  },
+  "Find_Previous": {
+    "message": "Найти предыдущее"
+  },
+  "Find_Under": {
+    "message": "Найти до"
+  },
+  "Find_All_Under": {
+    "message": "Найти всё до"
+  },
+  "Find_Under_Previous": {
+    "message": "Найти до предыдущего"
+  },
+  "GoTo": {
+    "message": "Перейти"
+  },
+  "Document_Start": {
+    "message": "В начало скрипта"
+  },
+  "Document_End": {
+    "message": "В конец скрипта"
+  },
   "Group_Left": {
     "message": "Группа слева"
   },
   "Group_Right": {
     "message": "Группа справа"
   },
-    "Closing_Bracket": {
-        "message": "Закрывающаяся скобка"
-    },
-    "Line_Up": {
-        "message": "На строку выше"
-    },
-    "Line_Down": {
-        "message": "На строку ниже"
-    },
-    "Center_Cursor": {
-        "message": "Center Cursor"
-    },
-    "Bookmarks": {
-        "message": "Закладки"
-    },
-    "Toggle": {
-        "message": "Вкл/Выкл"
-    },
-    "Clear_All": {
-        "message": "Удалить все"
-    },
-    "Next_Bookmark": {
-        "message": "Следующая закладка"
-    },
-    "Prev_Bookmark": {
-        "message": "Предыдущая закладка"
-    }
+  "Closing_Bracket": {
+    "message": "Закрывающаяся скобка"
+  },
+  "Line_Up": {
+    "message": "На строку выше"
+  },
+  "Line_Down": {
+    "message": "На строку ниже"
+  },
+  "Center_Cursor": {
+    "message": "Center Cursor"
+  },
+  "Bookmarks": {
+    "message": "Закладки"
+  },
+  "Toggle": {
+    "message": "Вкл/Выкл"
+  },
+  "Clear_All": {
+    "message": "Удалить все"
+  },
+  "Next_Bookmark": {
+    "message": "Следующая закладка"
+  },
+  "Prev_Bookmark": {
+    "message": "Предыдущая закладка"
+  }
 }
