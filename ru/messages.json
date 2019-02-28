@@ -1636,36 +1636,36 @@
         "message": "В конец скрипта"
     },
   "Group_Left": {
-    "message": "Group Left"
+    "message": "Группа слева"
   },
   "Group_Right": {
-    "message": "Group Right"
+    "message": "Группа справа"
   },
-  "Closing_Bracket": {
-    "message": "Closing Bracket"
-  },
-  "Line_Up": {
-    "message": "Line Up"
-  },
-  "Line_Down": {
-    "message": "Line Down"
-  },
-  "Center_Cursor": {
-    "message": "Center Cursor"
-  },
-  "Bookmarks": {
-    "message": "Bookmarks"
-  },
-  "Toggle": {
-    "message": "Toggle"
-  },
-  "Clear_All": {
-    "message": "Clear All"
-  },
-  "Next_Bookmark": {
-    "message": "Next Bookmark"
-  },
-  "Prev_Bookmark": {
-    "message": "Prev Bookmark"
-  }
+    "Closing_Bracket": {
+        "message": "Закрывающаяся скобка"
+    },
+    "Line_Up": {
+        "message": "На строку выше"
+    },
+    "Line_Down": {
+        "message": "На строку ниже"
+    },
+    "Center_Cursor": {
+        "message": "Center Cursor"
+    },
+    "Bookmarks": {
+        "message": "Закладки"
+    },
+    "Toggle": {
+        "message": "Вкл/Выкл"
+    },
+    "Clear_All": {
+        "message": "Удалить все"
+    },
+    "Next_Bookmark": {
+        "message": "Следующая закладка"
+    },
+    "Prev_Bookmark": {
+        "message": "Предыдущая закладка"
+    }
 }
