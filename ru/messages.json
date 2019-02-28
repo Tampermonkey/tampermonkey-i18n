@@ -1007,61 +1007,61 @@
     "message": "Пользовательские скрипты"
   },
   "Script_URL_detection": {
-    "message": "Script URL detection"
+    "message": "Определение URL скрипта"
   },
   "Install_this_script": {
-    "message": "Install this script"
+    "message": "Установить этот скрипт"
   },
   "Try_to_install_as_script": {
-    "message": "Try to install as script"
+    "message": "Попробуйте установить как скрипт"
   },
   "New_script_template_": {
-    "message": "New userscript template"
+    "message": "Новый шаблон пользовательского скрипта"
   },
   "Icon_badge_info": {
-    "message": "Icon Badge Info"
-  },
-  "Icon_badge_color": {
-    "message": "Icon Badge Color"
-  },
-  "On": {
-    "message": "On"
-  },
-  "Off": {
-    "message": "Off"
-  },
+    "message": "Значок на панели инструментов"
+    },
+    "Icon_badge_color": {
+        "message": "Цвет значка"
+    },
+    "On": {
+        "message": "Включено"
+    },
+    "Off": {
+        "message": "Отключено"
+    },
   "Running_scripts": {
-    "message": "Running scripts instances"
+    "message": "Количество запущенных скриптов"
   },
   "Unique_running_scripts": {
-    "message": "Unique running scripts"
+    "message": "Уникальные запущенные скрипты"
   },
   "Disabled_scripts": {
-    "message": "Disabled scripts"
+    "message": "Отключённые скрипты"
   },
   "Config_Mode": {
-    "message": "Config mode"
+    "message": "Режим конфигурации"
   },
   "Novice": {
-    "message": "Novice"
+    "message": "Новичок"
   },
   "Beginner": {
-    "message": "Beginner"
+    "message": "Продвинутый"
   },
   "Advanced": {
-    "message": "Advanced"
+    "message": "Продвинутый"
   },
   "Changes_the_number_of_visible_config_options": {
-    "message": "Changes the number of visible config options"
+    "message": "Изменяет количество видимых параметров конфигурации"
   },
   "Language": {
-    "message": "Language"
+    "message": "Язык"
   },
   "Enter_the_new_rule": {
-    "message": "Enter new rule"
+    "message": "Введите новое правило"
   },
   "Add_as_0clude0": {
-    "message": "Add as $clude$",
+    "message": "Добавить как $clude$",
     "placeholders": {
       "clude": {
         "content": "$1"
@@ -1069,43 +1069,43 @@
     }
   },
   "Add": {
-    "message": "Add"
+    "message": "Добавить"
   },
   "Remove": {
-    "message": "Remove"
+    "message": "Удалить"
   },
   "Includes_Excludes": {
     "message": "Includes/Excludes"
   },
   "Original_includes": {
-    "message": "Original includes"
+    "message": "Использовать @includes"
   },
   "Original_matches": {
-    "message": "Original matches"
+    "message": "Использовать @matches"
   },
   "Original_excludes": {
-    "message": "Original excludes"
+    "message": "Использовать @excludes"
   },
   "User_includes": {
-    "message": "User includes"
+    "message": "Пользовательские @includes"
   },
   "User_matches": {
-    "message": "User matches"
+    "message": "Пользовательские @matches"
   },
   "User_excludes": {
-    "message": "User excludes"
+    "message": "Пользовательские @excludes"
   },
   "Original_domain_whitelist": {
-      "message": "Original domain whitelist"
+      "message": "Оригинальный белый список доменов"
   },
   "User_domain_whitelist": {
-      "message": "User domain whitelist"
+      "message": "Пользовательский белый список доменов"
   },
   "Temporary_domain_whitelist": {
-      "message": "Temporary domain whitelist"
+      "message": "Временный белый список доменов"
   },
   "User_domain_blacklist": {
-      "message": "User domain blacklist"
+      "message": "Пользовательский чёрный список доменов"
   },
   "XHR_Security": {
       "message": "XHR Security"
