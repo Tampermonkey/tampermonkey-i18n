@@ -524,7 +524,7 @@
         "message": "Incluir recursos externos del script"
     },
     "Include_TM_settings": {
-        "message": Incluir ajustes de Tampermonkey"
+        "message": "Incluir ajustes de Tampermonkey"
     },
     "File": {
         "message": "Archivo"
@@ -1110,5 +1110,5 @@
     },
     "Clear_All": {
         "message": "Limpiar todo"
-    },
+    }
 }
