@@ -146,7 +146,7 @@
         }
     },
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
-        "message": "@include, @match veya @exclude ifadelerinden en az biri değiştirildi."
+        "message": "En az bir @include, @match veya @exclude ifadesi değiştirildi."
     },
     "At_least_one_new_connect_statement_was_added_": {
         "message": "En az bir yeni @connect ifadesi eklendi."
@@ -1195,10 +1195,10 @@
         "message": "Başla"
     },
     "Really_delete_the_selected_items_": {
-        "message": "Seçilen öğeleri gerçekten silmek istiyor musunuz?"
+        "message": "Seçili öğelerin tamamını gerçekten silmek istiyor musunuz?"
     },
     "Really_factory_reset_the_selected_items_": {
-        "message": "Seçili öğeleri fabrika ayarlarına sıfırlamak mı istiyorsun?"
+        "message": "Seçili öğelerin tamamını fabrika ayarlarına sıfırlamak istiyor musunuz?"
     },
     "Filter_by": {
         "message": "Filtre"
@@ -1255,7 +1255,7 @@
         "message": "Bazı komut dosyaları, bu sayfanın JavaScript ayarları veya bir komut dosyası engelleyicisi tarafından engellenmiş olabilir!"
     },
     "Show_notification": {
-        "message": "Bir bildirim göster"
+        "message": "Bildirim göster"
     },
     "Open_changelog": {
         "message": "Değişim Günlüğünü aç"
