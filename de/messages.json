@@ -1164,6 +1164,17 @@
     "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
         "message": "Das Reduzieren von Laufzeit-Rechten kann Probleme beim Script-Update, GM_xmlhttpRequest und weiteren Funktionen verursachen!"
     },
+    "Cross_Origin_Request_Permission": {
+        "message": "Berechtigung für domänenübergreifenden Zugriff"
+    },
+    "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
+        "message": "Klicken Sie bitte OK um Tampermonkey Zugriff auf folgende Seiten zu gewähren:\n\n$host_list$",
+        "placeholders": {
+            "host_list": {
+                "content": "$1"
+            }
+        }
+    },
     "_not_set_": {
         "message": "<unbekannt>"
     },

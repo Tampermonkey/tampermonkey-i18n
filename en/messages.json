@@ -1317,6 +1317,17 @@
   "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
     "message": "Limited runtime host permissions might break some Tampermonkey features like script update, GM_xmlhttpRequest and others!"
   },
+  "Cross_Origin_Request_Permission": {
+    "message": "Cross Origin Request Permission"
+  },
+  "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
+    "message": "Please click OK in order to allow Tampermonkey to access the following hosts:\n\n$host_list$",
+    "placeholders": {
+      "host_list": {
+        "content": "$1"
+      }
+    }
+  },
   "_not_set_": {
     "message": "<not set>"
   },
