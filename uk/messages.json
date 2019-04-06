@@ -120,22 +120,22 @@
     "message": "Оновлення скрипта"
   },
   "You_are_about_to_install_a_UserScript_": {
-    "message": "Установка сценарію"
+    "message": "Установка скрипта"
   },
   "The_origin_of_this_script_cant_be_determined_": {
     "message": "Увагу: походження цього скрипту визначити неможливо.\nАбо він був встановлений зловмисним третьою особою для крадіжки ваших особистих даних, або для якихось базових налаштувань браузера, ваша операційна система або обладнання змінилися.\n\nБудь ласка, відкрийте, перегляньте і збережіть скрипт, щоб включити його."
   },
   "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
-    "message": "Происхождение этого скрипта определить невозможно.\nЛибо он был установлен злонамеренным третьим лицом для кражи ваших личных данных, либо для каких-то базовых настроек браузера, ваша операционная система или оборудование изменились.\nЭта модификация разрешит это!"
+    "message": "Походження цього скрипта визначити неможливо.\nАбо він був встановлений зловмисних третьою особою для крадіжки ваших особистих даних, або для якихось базових налаштувань браузера, ваша операційна система або обладнання змінилися.\nЦя модифікація дозволить це!"
   },
   "This_script_does_not_provide_any__include_information_": {
-    "message": "Этот скрипт не содержит @include выражений."
+    "message": "Цей скрипт не містить @include виразів."
   },
   "All_script_settings_will_be_reset_": {
-    "message": "Все настройки скрипта будут сброшены!"
+    "message": "Всі налаштування скрипта будуть скинуті!"
   },
   "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
-    "message": "URL-адрес обновления изменился с:\n    '$oldurl$'\n    на:\n    '$newurl$'\n",
+    "message": "URL-адреса оновлення змінився з:\n    '$oldurl$'\n    на:\n    '$newurl$'\n",
     "placeholders": {
       "oldurl": {
         "content": "$1"
@@ -146,16 +146,16 @@
     }
   },
   "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
-    "message": "Как минимум одно из выражений @include, @match или @exclude было изменено."
+    "message": "Принаймні один з виразів @include, @match або @exclude було змінено."
   },
   "At_least_one_new_connect_statement_was_added_": {
-    "message": "Был добавлен, как минимум один новый оператор @connect."
+    "message": "Був доданий, як мінімум один новий оператор @connect."
   },
   "Attention_Can_not_display_all_includes_": {
-    "message": "Внимание: список включений был сокращён.\nПроверьте его вручную!"
+    "message": "Увага: список включень був скорочений.\nПеревірте його вручну!"
   },
   "Attention_Can_not_display_all_excludes_": {
-    "message": "Внимание: список исключений был сокращён.\nПроверьте его вручную!"
+    "message": "Увага: список винятків був скорочений.\nПеревірте його вручну!"
   },
   "Include_s__": {
     "message": "Include(s)"
@@ -164,10 +164,10 @@
     "message": "Exclude(s)"
   },
   "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-    "message": "Для запуска этого сценария может потребоваться повторная проверка параметров совместимости GreaseMonkey/Firefox."
+    "message": "Для запуску цього сценарію може знадобитися повторна перевірка параметрів сумісності GreaseMonkey/Firefox."
   },
   "Automatically_added_user_includes_for_compatibility_reasons_": {
-    "message": "Некоторые пользовательские includes будут применены автоматически для обеспечения совместимости!"
+    "message": "Некоторые пользовательские @include's будут применены автоматически для обеспечения совместимости!"
   },
   "Author": {
     "message": "Автор"
