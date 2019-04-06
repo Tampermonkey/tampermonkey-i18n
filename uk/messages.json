@@ -742,40 +742,40 @@
     "message": "Настроювана конфігурація Linter"
   },
   "You_can_add_your_custom_linter_config_here_": {
-    "message": "Вы можете добавить свою собственную конфигурацию Linter здесь."
+    "message": "Ви можете додати власну конфігурацію Linter тут."
   },
   "Indentation_Width": {
-    "message": "Ширина отступа"
+    "message": "Ширина відступу"
   },
   "Indent_with": {
-    "message": "Отступ с"
+    "message": "Відступ з"
   },
   "Tabs": {
-    "message": "Табуляции"
+    "message": "Табуляція"
   },
   "Spaces": {
-    "message": "Пробелы"
+    "message": "Прогалини"
   },
   "TabMode": {
-    "message": "Режим табуляции"
+    "message": "Режим табуляції"
   },
   "Classic": {
-    "message": "Классический"
+    "message": "Класичний"
   },
   "Indent": {
-    "message": "Отступ"
+    "message": "Відступ"
   },
   "Smart": {
-    "message": "Умный"
+    "message": "Розумний"
   },
   "Line_break": {
-    "message": "Разрыв строки"
+    "message": "Розрив рядка"
   },
   "Reindent_on_typing": {
-    "message": "Повторный отступ при наборе текста"
+    "message": "Повторний відступ при наборі тексту"
   },
   "Auto_reload_on_script_enabled": {
-    "message": "Автоматическая перезагрузка страниц"
+    "message": "Автоматичне перезарядки сторінок"
   },
   "Auto_reload_on_script_enabled_desc": {
     "message": "Перезагрузите затронутые страницы, если скрипт был включен или выключен"
