@@ -1270,40 +1270,40 @@
     "message": "Для роботи з функцією імпорту скрипт, Tampermonkey повинен знати aбсолютний шлях до папки профілю браузера.\n\nНатисніть тут, щоб відвідати FAQ!"
   },
   "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-    "message": "Для работы функции импорта скриптов, Tampermonkey необходим доступ к файлу URI.\n\n\n\nНажмите здесь, чтобы посетить FAQ!"
+    "message": "Tampermonkey необхідний доступ до файлових URI для роботи імпорту скрипта.\n\n\n\nНатисніть тут, щоб відвідати FAQ!"
   },
   "Tampermonkey_has_no_file_access_permission_": {
-    "message": "У Tampermonkey нет прав доступа к локальным файлам!"
+    "message": "Tampermonkey не має прав доступу до локальних файлів!"
   },
   "Everything_is_setup_correctly_": {
-    "message": "Все настроено правильно."
+    "message": "Все налаштовано правильно."
   },
   "TM_has_access_to_file_URIs": {
-    "message": "Tampermonkey имеет доступ к файлам URI. :)"
+    "message": "Tampermonkey має доступ до файлів URI. :)"
   },
   "Browser_Profile_Path": {
-    "message": "Путь к профилю браузера"
+    "message": "Шлях до профілю браузера"
   },
   "Native_Script_Import": {
-    "message": "Импорт собственного скрипта"
+    "message": "Імпорт власного скрипта"
   },
   "Enable_Native_Script_Import": {
-    "message": "Включить импорт собственного скрипта"
+    "message": "Включити імпорт власного скрипта"
   },
   "Post_Import_Action": {
-    "message": "Действие после импорта"
+    "message": "Дія після імпорту"
   },
   "None": {
-    "message": "Нет действия"
+    "message": "Немає дії"
   },
   "Disable_Extension": {
-    "message": "Отключить расширение"
+    "message": "Відключити розширення"
   },
   "Uninstall_Extension": {
-    "message": "Удалить расширение"
+    "message": "Видалити розширення"
   },
   "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
-    "message": "Какие действия следует выполнить после успешного импорта нативного пользовательского скрипта?"
+    "message": "Які дії слід виконати після успішного імпорту користувацького скрипта?"
   },
   "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
     "message": "Когда Tampermonkey обновится, он будет перезапущен. Во время перезапуска скрипты временно не будут работать!\n\nВы уверены, что не хотите получать уведомления об обновлениях?"
