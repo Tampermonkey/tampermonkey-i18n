@@ -122,6 +122,12 @@
   "You_are_about_to_install_a_UserScript_": {
     "message": "Instalação de Userscript:"
   },
+  "The_origin_of_this_script_cant_be_determined_": {
+    "message": "Aviso: A origem deste script não pôde ser determinada.\nOu ele foi instalado maliciosamente por terceiros para roubar seus dados privados ou algumas configurações básicas do navegador, seu sistema operacional ou hardware foi alterado!\n\nPor favor, abra, revise e salve o script para habilitá-lo."
+  },
+  "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
+    "message": "A origem deste script não pôde ser determinada.\nOu ele foi instalado maliciosamente por terceiros para roubar seus dados privados ou algumas configurações básicas do navegador, seu sistema operacional ou hardware foi alterado.\nEsta modificação irá habilitá-lo!"
+  },
   "This_script_does_not_provide_any__include_information_": {
     "message": "Este script não possui nenhuma informação @include."
   },
@@ -632,6 +638,9 @@
   },
   "Include_script_storage": {
     "message": "Incluir armazenamento de script"
+  },
+  "Include_script_externals": {
+    "message": "Incluir recursos externos do script"
   },
   "Include_TM_settings": {
     "message": "incluir configurações do Tampermonkey"
@@ -1305,8 +1314,22 @@
   "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
     "message": "Todas as modificações são armazenadas apenas até o final desta sessão em modo incógnito!"
   },
+  "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
+    "message": "Permissões de host de tempo de execução limitado podem quebrar alguns recursos do Tampermonkey, como a atualização de script, GM_xmlhttpRequest e outros!"
+  },
+  "Cross_Origin_Request_Permission": {
+    "message": "Permissão de Solicitação de Origem Cruzada"
+  },
+  "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
+    "message": "Por favor, clique em OK para permitir que o Tampermonkey acesse os seguintes hosts:\n\n$host_list$",
+    "placeholders": {
+      "host_list": {
+        "content": "$1"
+      }
+    }
+  },
   "_not_set_": {
-    "message": "<não escolhido>"
+    "message": "<não definido>"
   },
   "Layout": {
     "message": "Layout"
@@ -1352,6 +1375,12 @@
   },
   "Size": {
     "message": "Tamanho"
+  },
+  "Login": {
+    "message": "Login"
+  },
+  "Password": {
+    "message": "Senha"
   },
   "No_entry_found": {
     "message": "Nenhum entrada encontrada"
