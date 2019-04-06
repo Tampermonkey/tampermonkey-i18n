@@ -660,7 +660,7 @@
     "message": "Інший сервис для оновлення ваших скриптів"
   },
   "Updated_to__0version0": {
-    "message": "Обновлен до: $version$",
+    "message": "Оновлено до: $version$",
     "placeholders": {
       "version": {
         "content": "$1"
@@ -668,16 +668,16 @@
     }
   },
   "Click_here_to_see_the_recent_changes": {
-    "message": "Нажмите здесь, чтобы увидеть последние изменения"
+    "message": "Натисніть тут, щоб побачити останні зміни"
   },
   "General": {
-    "message": "Общие"
+    "message": "Загальні"
   },
   "Script_Update": {
-    "message": "Обновление скрипта"
+    "message": "Оновлення скрипта"
   },
   "Check_interval": {
-    "message": "Интервал проверки"
+    "message": "Інтервал перевірки"
   },
   "Always": {
     "message": "Всегда"
