@@ -194,22 +194,22 @@
     "message": "Нова версія"
   },
   "Install": {
-    "message": "Установить"
+    "message": "Встановити"
   },
   "Reinstall": {
-    "message": "Переустановить"
+    "message": "Перевстановити"
   },
   "Modify": {
-    "message": "Изменить"
+    "message": "Змінити"
   },
   "Downgrade": {
-    "message": "Откатить"
+    "message": "Відкотити"
   },
   "Update": {
-    "message": "Обновить"
+    "message": "Оновлення"
   },
   "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
-    "message": "$name$ $version$ доступна.\nПожалуйста, перезапустите браузер, чтобы начать обновление!",
+    "message": "$name$ $version$ доступна.\nБудь ласка, перезапустіть браузер, щоб почати оновлення!",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -220,28 +220,28 @@
     }
   },
   "Process_with_Chrome": {
-    "message": "Процесс с помощью браузера"
+    "message": "Процес за допомогою браузера"
   },
   "Enforce": {
-    "message": "Переопределить"
+    "message": "Перевизначити"
   },
   "Strict": {
-    "message": "Строгий"
+    "message": "Суворий"
   },
   "connect_mode": {
-    "message": "Проверка @connect"
+    "message": "Перевірка @connect"
   },
   "Ask_if_unknown": {
-    "message": "Спросить, если неизвестно"
+    "message": "Запитати, якщо невідомо"
   },
   "Always_ask": {
-    "message": "Всегда спрашивать"
+    "message": "Завжди питати"
   },
   "Casual": {
-    "message": "Случайно"
+    "message": "Випадково"
   },
   "Allow_once": {
-    "message": "Разрешить один раз"
+    "message": "Дозволити один раз"
   },
   "Temporarily_allow": {
     "message": "Временно разрешить"
