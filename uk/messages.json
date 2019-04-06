@@ -605,16 +605,16 @@
     }
   },
   "Enabled": {
-    "message": "Включено"
+    "message": "Включені"
   },
   "Disabled": {
-    "message": "Отключено"
+    "message": "Вимкнуто"
   },
   "Unable_to_parse_this_": {
-    "message": "Не удается проанализировать это! :("
+    "message": "Не вдалося проаналізувати це! :("
   },
   "Unable_to_parse_0name0": {
-    "message": "Не удалось разобрать $name$",
+    "message": "Не вдалося розібрати $name$",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -622,34 +622,34 @@
     }
   },
   "No_backups_found": {
-    "message": "Резервных копий не найдено"
+    "message": "Резервну копію не знайдено"
   },
   "An_error_occured_during_import_": {
-    "message": "Произошла ошибка во время импорта."
+    "message": "Під час імпортування сталася помилка."
   },
   "Export": {
-    "message": "Экспорт"
+    "message": "Експорт"
   },
   "TextArea": {
-    "message": "Текстовое поле"
+    "message": "Текстове поле"
   },
   "Zip": {
     "message": "Zip"
   },
   "Include_script_storage": {
-    "message": "Включить хранилище скриптов"
+    "message": "Включити сховище скриптів"
   },
   "Include_script_externals": {
-    "message": "Включить внешние ресурсы скрипта"
+    "message": "Включити зовнішні ресурси скрипта"
   },
   "Include_TM_settings": {
-    "message": "Включить настройки Tampermonkey"
+    "message": "Включити налаштування Tampermonkey"
   },
   "File": {
     "message": "Файл"
   },
   "There_is_an_update_for_0name0_avaiable_": {
-    "message": "Доступны обновления для '$name$'. :)",
+    "message": "Оновлення доступні для '$name$'. :)",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -657,7 +657,7 @@
     }
   },
   "Just_another_service_provided_by_your_friendly_script_updater_": {
-    "message": "Просто еще один сервис, предоставляемый вашим дружественным обновлением скриптов"
+    "message": "Інший сервис для оновлення ваших скриптів"
   },
   "Updated_to__0version0": {
     "message": "Обновлен до: $version$",
