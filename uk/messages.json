@@ -361,7 +361,7 @@
     }
   },
   "0count0_changes_exported": {
-    "message": "$count$ изменения экпортированы",
+    "message": "$count$ зміни експортовані",
     "placeholders": {
       "count": {
         "content": "$1"
@@ -369,43 +369,43 @@
     }
   },
   "Sync_is_running": {
-    "message": "Синхронизация запущена"
+    "message": "Синхронізація запущена"
   },
   "Sync_finished": {
-    "message": "Синхронизация завершена"
+    "message": "Синхронізація завершена"
   },
   "Settings": {
-    "message": "Настройки"
+    "message": "Налаштування"
   },
   "Debug_scripts": {
-    "message": "Отладка скриптов"
+    "message": "Налагодження скриптів"
   },
   "Show_fixed_source": {
-    "message": "Показывать изменения в коде"
+    "message": "Показати зміни в коді"
   },
   "LogLevel": {
-    "message": "Уровень ведения лога"
+    "message": "Рівень ведення журналу"
   },
   "Trace": {
-    "message": "Отслеживать"
+    "message": "Відстеження"
   },
   "Verbose": {
-    "message": "Многословный"
+    "message": "Багатослівний"
   },
   "Debug": {
-    "message": "Отладка"
+    "message": "Налагодження"
   },
   "Installed_userscripts": {
-    "message": "Установленные скрипты"
+    "message": "Установлені скрипти"
   },
   "No_script_is_installed": {
-    "message": "Скрипт не установлен"
+    "message": "Жодного сценарію не встановлено"
   },
   "Get_some_scripts___": {
-    "message": "Добавить скрипты..."
+    "message": "Додати скрипти..."
   },
   "New_userscript": {
-    "message": "<Новый скрипт>"
+    "message": "<Новий скрипт>"
   },
   "Help": {
     "message": "Помощь"
