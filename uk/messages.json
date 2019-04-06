@@ -1507,88 +1507,88 @@
     "message": "Дублювати виділене"
   },
   "Delete_Line": {
-    "message": "Удалить строку"
+    "message": "Видалити рядок"
   },
   "Join_Lines": {
-    "message": "Объединить строки"
+    "message": "Об'єднати рядки"
   },
   "Insert_Line_Before": {
-    "message": "Вставить строку перед"
+    "message": "Вставити рядок перед"
   },
   "Insert_Line_After": {
-    "message": "Вставить строку после"
+    "message": "Вставити рядок після"
   },
   "Text": {
     "message": "Текст"
   },
   "Upper_Case": {
-    "message": "Верхний регистр"
+    "message": "Верхній регістр"
   },
   "Lower_Case": {
-    "message": "Нижний регистр"
+    "message": "Нижній регістр"
   },
   "Delete_Line_Left": {
-    "message": "Удалить часть строки слева"
+    "message": "Видалити частину рядка зліва"
   },
   "Delete_Line_Right": {
-    "message": "Удалить часть строки справа"
+    "message": "Видалити частину рядка праворуч"
   },
   "Delete_to_Previous_Word_Boundary": {
-    "message": "Удалить до границы предыдущего слова"
+    "message": "Видалити до кордону попереднього слова"
   },
   "Delete_to_Next_Word_Boundary": {
-    "message": "Удалить до границы следующего слова"
+    "message": "Видалити до кордону наступного слова"
   },
   "Transpose": {
-    "message": "Транспонировать"
+    "message": "Транспонувати"
   },
   "Line_Case_Insensitive": {
-    "message": "Строки без учёта регистра"
+    "message": "Лінії без урахування регістру"
   },
   "Folding": {
-    "message": "Сворачивание"
+    "message": "Згортання"
   },
   "Fold": {
-    "message": "Свернуть"
+    "message": "Згорнути"
   },
   "Unfold": {
-    "message": "Развернуть"
+    "message": "Розгорнути"
   },
   "Fold_All": {
-    "message": "Свернуть все"
+    "message": "Згорнути всі"
   },
   "Unfold_All": {
-    "message": "Развернуть все"
+    "message": "Розгорнути всі"
   },
   "Sublime_Mark": {
     "message": "Sublime Mark"
   },
   "Set_Sublime_Mark": {
-    "message": "Установить возвышенный знак"
+    "message": "Встановити підвищений знак"
   },
   "Select_to_Sublime_Mark": {
-    "message": "Выбрать для возвышенного знака"
+    "message": "Вибрати для піднесеного знака"
   },
   "Swap_with_Sublime_Mark": {
-    "message": "Обмен с возвышенным знаком"
+    "message": "Обмін з піднесеним знаком"
   },
   "Delete_to_Sublime_Mark": {
-    "message": "Удалить на возвышенный знак"
+    "message": "Вилучити з піднятим знаком"
   },
   "Yank_Sublime_Mark": {
-    "message": "Маркер выделения Yank"
+    "message": "Маркер вибору Yank"
   },
   "Selection": {
-    "message": "Выделение"
+    "message": "Виділення"
   },
   "Incremental_Find": {
-    "message": "Инкрементный поиск"
+    "message": "Інкрементний пошук"
   },
   "Add_Selection_Above": {
-    "message": "Добавить выделение выше"
+    "message": "Додати виділення вище"
   },
   "Add_Selection_Below": {
-    "message": "Добавить выделение ниже"
+    "message": "Додати виділення нижче"
   },
   "Split_into_Lines": {
     "message": "Разделить на строки"
