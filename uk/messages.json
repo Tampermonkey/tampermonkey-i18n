@@ -296,13 +296,13 @@
     "message": "URL вкладки"
   },
   "Destination_domain": {
-    "message": "Домен назначения"
+    "message": "Домен призначення"
   },
   "Destination_URL": {
-    "message": "URL назначения"
+    "message": "URL призначення"
   },
   "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
-    "message": "Это дает этому сценарию разрешение на извлечение и отправку данных с и на каждую веб-страницу. Это потенциально небезопасно!\n\nВы уверены, что хотите продолжить?"
+    "message": "Це дає цим сценарієм дозвіл на отримання та відправку даних з кожної веб-сторінки. Це потенційно небезпечне!\n\nВи дійсно бажаєте продовжити?"
   },
   "No_update_found__sry_": {
     "message": "Обновлений не найдено, извините!"
