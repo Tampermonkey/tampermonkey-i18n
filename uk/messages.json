@@ -518,58 +518,58 @@
     "message": "Сайти"
   },
   "Sort": {
-    "message": "Сортировка"
+    "message": "Сортування"
   },
   "Actions": {
-    "message": "Действия"
+    "message": "Дії"
   },
   "Action": {
-    "message": "Действие"
+    "message": "Дія"
   },
   "Please_select_a_file": {
-    "message": "Пожалуйста, выберите файл"
+    "message": "Будь ласка, виберіть файл"
   },
   "Cloud": {
-    "message": "Облако"
+    "message": "Хмара"
   },
   "Import": {
-    "message": "Импорт"
+    "message": "Імпорт"
   },
   "Show_backups": {
-    "message": "Показать резервные копии"
+    "message": "Показати резервні копії"
   },
   "Delete": {
-    "message": "Удалить"
+    "message": "Видалити"
   },
   "Features": {
-    "message": "Разрешения"
+    "message": "Дозволи"
   },
   "This_script_stores_data": {
-    "message": "Этот скрипт сохраняет данные в Tampermonkey."
+    "message": "Цей скрипт зберігає дані в Tampermonkey."
   },
   "This_script_has_access_to_https_pages": {
-    "message": "Этот скрипт имеет доступ к страницам HTTPS."
+    "message": "Цей скрипт має доступ до сторінок HTTPS."
   },
   "One_or_more_compatibility_options_are_set": {
-    "message": "Один или несколько параметров совместимости установлены. Вам стоит их просмотреть."
+    "message": "Інстальовано одну або кілька настройок сумісності. Ви повинні розглянути їх."
   },
   "This_script_has_full_web_access": {
-    "message": "Этот скрипт имеет полный доступ в интернет."
+    "message": "Цей скрипт має повний доступ в інтернет."
   },
   "This_is_a_system_script": {
-    "message": "Это системный скрипт."
+    "message": "Це системний скрипт."
   },
   "This_is_a_chrome_extension": {
-    "message": "Это расширение для браузера"
+    "message": "Це розширення браузера"
   },
   "This_script_runs_in_Chrome_mode": {
-    "message": "Этот скрипт работает в режиме Chrome"
+    "message": "Цей скрипт працює в режимі Chrome"
   },
   "This_is_a_userscript": {
-    "message": "Это пользовательский скрипт, написанный на Javascript"
+    "message": "Це користувальницький скрипт, написаний на Javascript"
   },
   "Really_import_0name0__": {
-    "message": "Вы действительно хотите импортировать нативный скрипт '$name$'?",
+    "message": "Ви дійсно бажаєте імпортувати власний сценарій '$name$'?",
     "placeholders": {
       "name": {
         "content": "$1"
