@@ -1243,7 +1243,7 @@
     "message": "Не показывать диалог подтверждения при сохранении"
   },
   "Add_TM_to_CSP": {
-    "message": "Добавить Tampermonkey в политику безопасности сайта (CSP), если она есть"
+    "message": "Добавить Tampermonkey в политику безопасности сайта (CSP), если требуется"
   },
   "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
     "message": "Без этой опции Tampermonkey может запрещать доступ к небезопасному контенту (unsafeWindow, функции и переменные страницы)."
