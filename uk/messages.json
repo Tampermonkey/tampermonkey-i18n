@@ -1306,76 +1306,76 @@
     "message": "Які дії слід виконати після успішного імпорту користувацького скрипта?"
   },
   "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
-    "message": "Когда Tampermonkey обновится, он будет перезапущен. Во время перезапуска скрипты временно не будут работать!\n\nВы уверены, что не хотите получать уведомления об обновлениях?"
+    "message": "Коли Tampermonkey оновиться, він буде перезапущений. Під час перезапуску скрипти тимчасово не працюватимуть!\n\nВи впевнені, що не хочете отримувати повідомлення про оновлення?"
   },
   "Operation_completed_successfully": {
-    "message": "Операция успешно завершена"
+    "message": "Операція успішно завершена"
   },
   "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-    "message": "Все изменения сохраняются только до закрытия этого сеанса инкогнито!"
+    "message": "Всі зміни зберігаються тільки до закриття цього сеансу інкогніто!"
   },
   "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
-    "message": "Ограниченные разрешения хоста во время выполнения могут нарушить некоторые функции Tampermonkey, такие как обновление скрипта, GM_xmlhttpRequest и другие!"
+    "message": "Обмежені дозволи на хост під час виконання можуть порушити деякі функції Tampermonkey, такі як оновлення сценарію, GM_xmlhttpRequest та інші!"
   },
   "_not_set_": {
-    "message": "<не установлен>"
+    "message": "<не встановлено>"
   },
   "Layout": {
     "message": "Дизайн"
   },
   "Custom_CSS": {
-    "message": "Пользовательский CSS"
+    "message": "Користувальницький CSS"
   },
   "You_can_add_your_custom_CSS_rules_here_": {
-    "message": "Вы можете добавить свои собственные правила CSS для пользовательского интерфейса Tampermonkey здесь. В случае, если это что-то сломает, перейдите к стандартному оформлению, добавив ?layout=reset к URL."
+    "message": "Ви можете додати свої власні правила CSS для користувача інтерфейсу Tampermonkey тут. У разі, якщо це щось зламає, перейдіть до стандартного оформлення, додавши ?layout=reset до URL."
   },
   "Store_data_in_incognito_mode": {
-    "message": "Хранить данные в режиме инкогнито"
+    "message": "Зберігати дані в режимі анонімного перегляду"
   },
   "Temporary": {
-    "message": "Временно"
+    "message": "Тимчасово"
   },
   "Permanent": {
-    "message": "Постоянно"
+    "message": "Постійно"
   },
   "Warning": {
-    "message": "Предупреждения"
+    "message": "Попередження"
   },
   "Info": {
-    "message": "Предупреждения"
+    "message": "Інформація"
   },
   "Error": {
-    "message": "Ошибки"
+    "message": "Помилки"
   },
   "Externals": {
-    "message": "Внешние"
+    "message": "Зовнішніх"
   },
   "Requires": {
-    "message": "Требования"
+    "message": "Вимоги"
   },
   "Resources": {
-    "message": "Ресурсы"
+    "message": "Ресурси"
   },
   "Storage": {
-    "message": "Хранилище"
+    "message": "Сховище"
   },
   "URL": {
     "message": "URL"
   },
   "Size": {
-    "message": "Размер"
+    "message": "Розмір"
   },
   "Login": {
-    "message": "Авторизоваться"
+    "message": "Авторизуватись"
   },
   "Password": {
     "message": "Пароль"
   },
   "No_entry_found": {
-    "message": "Запись не найдена"
+    "message": "Запис не знайдено"
   },
   "BlackCheck": {
-    "message": "Проверка на присутствие в чёрном списке"
+    "message": "Перевірка наявності в чорному списку"
   },
   "Script_Blacklist_Source": {
     "message": "Список запрещённых источников"
