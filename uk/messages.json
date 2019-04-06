@@ -1058,10 +1058,10 @@
     "message": "Мова"
   },
   "Enter_the_new_rule": {
-    "message": "Введите новое правило"
+    "message": "Введіть нове правило"
   },
   "Add_as_0clude0": {
-    "message": "Добавить как $clude$",
+    "message": "Додати, як $clude$",
     "placeholders": {
       "clude": {
         "content": "$1"
@@ -1069,106 +1069,106 @@
     }
   },
   "Add": {
-    "message": "Добавить"
+    "message": "Додати"
   },
   "Remove": {
-    "message": "Удалить"
+    "message": "Видалити"
   },
   "Includes_Excludes": {
     "message": "Includes/Excludes"
   },
   "Original_includes": {
-    "message": "Использовать @includes"
+    "message": "Використовувати @includes"
   },
   "Original_matches": {
-    "message": "Использовать @matches"
+    "message": "Використовувати @matches"
   },
   "Original_excludes": {
-    "message": "Использовать @excludes"
+    "message": "Використовувати @excludes"
   },
   "User_includes": {
-    "message": "Пользовательские @includes"
+    "message": "Користувача @includes"
   },
   "User_matches": {
-    "message": "Пользовательские @matches"
+    "message": "Користувача @matches"
   },
   "User_excludes": {
-    "message": "Пользовательские @excludes"
+    "message": "Користувача @excludes"
   },
   "Original_domain_whitelist": {
-    "message": "Оригинальный белый список доменов"
+    "message": "Оригінальний білий список доменів"
   },
   "User_domain_whitelist": {
-    "message": "Пользовательский белый список доменов"
+    "message": "Користувальницький білий список доменів"
   },
   "Temporary_domain_whitelist": {
-    "message": "Временный белый список доменов"
+    "message": "Тимчасовий білий список доменів"
   },
   "User_domain_blacklist": {
-    "message": "Пользовательский чёрный список доменов"
+    "message": "Користувальницький чорний список доменів"
   },
   "XHR_Security": {
-    "message": "Безопасность XHR"
+    "message": "Безпека XHR"
   },
   "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
-    "message": "Возникла внутренняя ошибка. Если проблема не устраняется даже после перезапуска браузера, нажмите ОК и сообщите об этой проблеме на форуме.\n\nВы хотите посетить форум Tampermonkey??"
+    "message": "Виникла внутрішня помилка. Якщо проблема не усувається навіть після перезапуску браузера, натисніть ОК і повідомте про цю проблему на форумі.\n\nВи хочете відвідати форум Tampermonkey??"
   },
   "Script_Sync": {
-    "message": "Синхронизация скриптов"
+    "message": "Синхронізація скриптів"
   },
   "Enable_Script_Sync": {
-    "message": "Включить синхронизацию скриптов"
+    "message": "Увімкнути синхронізацію скриптів"
   },
   "Synchronize_your_scripts_across_browsers_and_operation_systems": {
-    "message": "Синхронизация скриптов между браузерами и операционными системами"
+    "message": "Синхронізація скриптів між браузерами та операційними системами"
   },
   "Sync_Type": {
     "message": "Тип"
   },
   "Imported": {
-    "message": "Импортирован"
+    "message": "Імпортовані"
   },
   "Allow_headers_to_be_modified_by_scripts": {
-    "message": "Разрешить изменение заголовков HTTP скриптами"
+    "message": "Дозволити скриптам змінювати заголовки HTTP"
   },
   "Script_local_files_access": {
-    "message": "Разрешить скриптам доступ к локальным файлам"
+    "message": "Дозволити сценарії доступу до локальних файлів"
   },
   "require_and_resource": {
-    "message": "Внешние (@require и @resource)"
+    "message": "Зовнішні (@require та @resource)"
   },
   "All_local_files": {
-    "message": "Все локальные файлы"
+    "message": "Всі локальні файли"
   },
   "Allow_communication_with_cooperate_pages": {
-    "message": "Разрешить взаимодействие со связанными страницами"
+    "message": "Дозволити взаємодію з пов'язаними сторінками"
   },
   "Tampermonkey_and_script_version": {
-    "message": "Tampermonkey + версия скрипта"
+    "message": "Tampermonkey + версія скрипта"
   },
   "Tampermonkey_version": {
-    "message": "Только версия Tampermonkey"
+    "message": "Тільки версія Tampermonkey"
   },
   "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
-    "message": "Эта опция позволяет домашней странице Tampermonkey и некоторым скриптам определять версию Tampermonkey и базовую информацию о скриптах (какие установлены, их версии и включены ли они)."
+    "message": "Цей параметр дозволяє головну сторінку Tampermonkey і деякі скрипти для визначення версії Tampermonkey і основна інформація про скрипти (які встановлені, їх версії, і чи є вони включені)."
   },
   "Subresource_Integrity": {
-    "message": "Подресурсная целостность"
+    "message": "Подресурсная цілісність"
   },
   "Validate_if_supported": {
-    "message": "Проверить, если возможно"
+    "message": "Перевірити, якщо можливо"
   },
   "Validate_if_given": {
-    "message": "Проверить, если указано"
+    "message": "Перевірити, якщо вказано"
   },
   "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
-    "message": "Авторы сценариев могут защитить внешние ресурсы, добавив хэш SRI к исходному URL."
+    "message": "Автори сценаріїв можуть захистити зовнішні ресурси, додавши SРІ хеш до вихідної URL."
   },
   "Yes": {
-    "message": "Да"
+    "message": "Так"
   },
   "No": {
-    "message": "Нет"
+    "message": "Ні"
   },
   "Auto": {
     "message": "Автоматически"
