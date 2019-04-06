@@ -1171,76 +1171,76 @@
     "message": "Ні"
   },
   "Auto": {
-    "message": "Автоматически"
+    "message": "Автоматично"
   },
   "__Please_choose__": {
-    "message": "-- Пожалуйста, выберите опцию --"
+    "message": "-- Будь ласка, виберіть опцію --"
   },
   "Enable": {
-    "message": "Включить"
+    "message": "Увімкнути"
   },
   "Disable": {
-    "message": "Отключить"
+    "message": "Вимикати"
   },
   "Toggle_Enable": {
-    "message": "Переключить"
+    "message": "Перемикач"
   },
   "Trigger_Update": {
-    "message": "Обновление триггера"
+    "message": "Оновлення тригера"
   },
   "Apply_this_action_to_the_selected_scripts": {
-    "message": "Примените это ко всем выбранным скриптам"
+    "message": "Застосувати це до всіх вибраних сценаріїв"
   },
   "Start": {
-    "message": "Запустить"
+    "message": "Запустити"
   },
   "Really_delete_the_selected_items_": {
-    "message": "Вы действительно хотите удалить все выбранные элементы?"
+    "message": "Ви дійсно бажаєте видалити всі виділені елементи?"
   },
   "Really_factory_reset_the_selected_items_": {
-    "message": "Вы действительно хотите сбросить все выбранные элементы?"
+    "message": "Ви дійсно бажаєте скинути всі виділені елементи?"
   },
   "Filter_by": {
-    "message": "Фильтровать по"
+    "message": "Фільтрувати за"
   },
   "Matching_URL": {
-    "message": "Соответствующий URL"
+    "message": "Відповідний URL"
   },
   "Really_factory_reset_this_script_": {
-    "message": "Вы действительно хотите сбросить настройки скрипта?"
+    "message": "Ви дійсно бажаєте скинути параметри сценарію?"
   },
   "Reset_Section": {
-    "message": "Сброс"
+    "message": "Скинути"
   },
   "Restart_Tampermonkey": {
-    "message": "Перезапустите Tampermonkey"
+    "message": "Перезапустіть Tampermonkey"
   },
   "This_will_restart_Tampermonkey_Ok_": {
-    "message": "Вы действительно хотите перезапустить Tampermonkey?"
+    "message": "Ви дійсно хочете перезапустити Tampermonkey?"
   },
   "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
-    "message": "Tampermonkey необходимо перезапустить, чтобы изменения вступили в силу.\n\nВы хотите продолжить?"
+    "message": "Tampermonkey має бути перезапущено для зміни вступили в силу.\n\nВи хочете продовжити?"
   },
   "Factory_Reset": {
-    "message": "Сброс к заводским настройкам"
+    "message": "Скидання до заводських налаштувань"
   },
   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
-    "message": "Вы действительно хотите удалить все скрипты и сбросить все настройки?"
+    "message": "Ви дійсно хочете видалити всі скрипти і скинути всі налаштування?"
   },
   "Browser_Sync": {
-    "message": "Синхронизация браузера"
+    "message": "Синхронізація браузера"
   },
   "Sync_Reset": {
-    "message": "Сброс синхронизации"
+    "message": "Скидання синхронізації"
   },
   "This_will_remove_all_remote_data_from_sync_Ok_": {
-    "message": "Вы действительно хотите удалить все данные из синхронизации?"
+    "message": "Ви дійсно хочете видалити всі дані з синхронізації?"
   },
   "Enable_autoSave": {
-    "message": "Автоматически сохранять содержимое, когда редактор теряет фокус"
+    "message": "Автоматично зберігати вміст, коли редактор втрачає фокус"
   },
   "Enable_easySave": {
-    "message": "Не показывать диалог подтверждения при сохранении"
+    "message": "Не показувати діалог підтвердження при збереженні"
   },
   "Add_TM_to_CSP": {
     "message": "Добавить Tampermonkey в политику безопасности сайта (CSP), если она есть"
