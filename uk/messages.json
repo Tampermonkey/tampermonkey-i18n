@@ -1246,31 +1246,31 @@
     "message": "Додати Tampermonkey в політику безпеки сайту (CSP), якщо потребується"
   },
   "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
-    "message": "Без этой опции Tampermonkey может запрещать доступ к небезопасному контенту (unsafeWindow, функции и переменные страницы)."
+    "message": "Без цього варіанту, Tampermonkey може відмовити у доступі до небезпечного вмісту (unsafeWindow, функції і змінні сторінки)."
   },
   "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-    "message": "По крайней мере одна часть этой страницы указана в настройке 'запрещенные страницы'!"
+    "message": "Принаймні одна частина цієї сторінки вказана в налаштуванні 'заборонені сторінки'!"
   },
   "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
-    "message": "Некоторые сценарии могут быть заблокированы настройками JavaScript для этой страницы или блокировщиком сценариев!"
+    "message": "Деякі сценарії можуть бути заблоковані налаштуваннями JavaScript для цієї сторінки або блокувальником сценаріїв!"
   },
   "Show_notification": {
-    "message": "Показать уведомление"
+    "message": "Показати повідомлення"
   },
   "Open_changelog": {
-    "message": "Открыть список изменений"
+    "message": "Відкрити список змін"
   },
   "No_frames": {
-    "message": "Запустить только в верхнем фрейме"
+    "message": "Запустити тільки у верхньому фреймі"
   },
   "Native": {
-    "message": "Нативный"
+    "message": "Нативний"
   },
   "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
-    "message": "Для работы функции импорта скриптов, Tampermonkey должен знать абсолютный путь к папке профиля браузера.\n\nНажмите здесь, чтобы посетить FAQ!"
+    "message": "Для роботи з функцією імпорту скрипт, Tampermonkey повинен знати aбсолютний шлях до папки профілю браузера.\n\nНатисніть тут, щоб відвідати FAQ!"
   },
   "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-    "message": "Для работы функции импорта скриптов, Tampermonkey необходим доступ к файлу URI\n\n\n\nНажмите здесь, чтобы посетить FAQ!"
+    "message": "Для работы функции импорта скриптов, Tampermonkey необходим доступ к файлу URI.\n\n\n\nНажмите здесь, чтобы посетить FAQ!"
   },
   "Tampermonkey_has_no_file_access_permission_": {
     "message": "У Tampermonkey нет прав доступа к локальным файлам!"
