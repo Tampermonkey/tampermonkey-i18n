@@ -1007,55 +1007,55 @@
     "message": "Користувацьких сценаріїв"
   },
   "Script_URL_detection": {
-    "message": "Определение URL скрипта"
+    "message": "Визначення URL скрипту"
   },
   "Install_this_script": {
-    "message": "Установить этот скрипт"
+    "message": "Встановити цей скрипт"
   },
   "Try_to_install_as_script": {
-    "message": "Попробуйте установить как скрипт"
+    "message": "Спробуйте встановити, як скрипт"
   },
   "New_script_template_": {
-    "message": "Новый шаблон пользовательского скрипта"
+    "message": "Новий шаблон користувальницького скрипта"
   },
   "Icon_badge_info": {
-    "message": "Значок на панели инструментов"
+    "message": "Значок на панелі інструментів"
   },
   "Icon_badge_color": {
-    "message": "Цвет значка"
+    "message": "Колір значка"
   },
   "On": {
-    "message": "Включено"
+    "message": "Включений"
   },
   "Off": {
-    "message": "Отключено"
+    "message": "Відключений"
   },
   "Running_scripts": {
-    "message": "Количество запущенных скриптов"
+    "message": "Кількість запущених скриптів"
   },
   "Unique_running_scripts": {
-    "message": "Уникальные запущенные скрипты"
+    "message": "Унікальні запущені скрипти"
   },
   "Disabled_scripts": {
-    "message": "Отключённые скрипты"
+    "message": "Відключені скрипти"
   },
   "Config_Mode": {
-    "message": "Режим конфигурации"
+    "message": "Режим налаштування"
   },
   "Novice": {
-    "message": "Новичок"
+    "message": "Новий"
   },
   "Beginner": {
-    "message": "Продвинутый"
+    "message": "Початківців"
   },
   "Advanced": {
-    "message": "Продвинутый"
+    "message": "Передові"
   },
   "Changes_the_number_of_visible_config_options": {
-    "message": "Изменяет количество видимых параметров конфигурации"
+    "message": "Змінює кількість видимих параметрів конфігурації"
   },
   "Language": {
-    "message": "Язык"
+    "message": "Мова"
   },
   "Enter_the_new_rule": {
     "message": "Введите новое правило"
