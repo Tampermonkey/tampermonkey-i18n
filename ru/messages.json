@@ -1270,7 +1270,7 @@
     "message": "Для работы функции импорта скриптов, Tampermonkey должен знать абсолютный путь к папке профиля браузера.\n\nНажмите здесь, чтобы посетить FAQ!"
   },
   "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-    "message": "Для работы функции импорта скриптов, Tampermonkey необходим доступ к файлу URI.\n\n\n\nНажмите здесь, чтобы посетить FAQ!"
+    "message": "Tampermonkey необходим доступ к файловым URI для работы импорта скрипта.\n\n\n\nНажмите здесь, чтобы посетить FAQ!"
   },
   "Tampermonkey_has_no_file_access_permission_": {
     "message": "У Tampermonkey нет прав доступа к локальным файлам!"
@@ -1303,7 +1303,7 @@
     "message": "Удалить расширение"
   },
   "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
-    "message": "Какие действия следует выполнить после успешного импорта нативного пользовательского скрипта?"
+    "message": "Какие действия следует выполнить после успешного импорта пользовательского скрипта?"
   },
   "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
     "message": "Когда Tampermonkey обновится, он будет перезапущен. Во время перезапуска скрипты временно не будут работать!\n\nВы уверены, что не хотите получать уведомления об обновлениях?"
