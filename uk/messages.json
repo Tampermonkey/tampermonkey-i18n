@@ -1591,49 +1591,49 @@
     "message": "Додати виділення нижче"
   },
   "Split_into_Lines": {
-    "message": "Разделить на строки"
+    "message": "Розділити на рядки"
   },
   "Select_Line": {
-    "message": "Выделить строку"
+    "message": "Виділити рядок"
   },
   "Select_Scope": {
-    "message": "Выделить область"
+    "message": "Виділити область"
   },
   "Select_Bookmarks": {
-    "message": "Выделить закладки"
+    "message": "Виділити закладки"
   },
   "Select_between_Brackets": {
-    "message": "Выделить между скобками"
+    "message": "Виділити між дужками"
   },
   "Select_Next_Occurrence": {
-    "message": "Выделить следующее вхождение"
+    "message": "Вибрати наступне входження"
   },
   "Find": {
-    "message": "Найти"
+    "message": "Знайти"
   },
   "Find_Next": {
-    "message": "Найти далее"
+    "message": "Знайти більш"
   },
   "Find_Previous": {
-    "message": "Найти предыдущее"
+    "message": "Знайти попереднє"
   },
   "Find_Under": {
-    "message": "Найти до"
+    "message": "Знайти до"
   },
   "Find_All_Under": {
-    "message": "Найти всё до"
+    "message": "Знайти все до"
   },
   "Find_Under_Previous": {
-    "message": "Найти до предыдущего"
+    "message": "Знайти до попереднього"
   },
   "GoTo": {
     "message": "Перейти"
   },
   "Document_Start": {
-    "message": "В начало скрипта"
+    "message": "На початок скрипта"
   },
   "Document_End": {
-    "message": "В конец скрипта"
+    "message": "В кінець скрипта"
   },
   "Group_Left": {
     "message": "Группа слева"
