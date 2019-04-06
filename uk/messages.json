@@ -305,10 +305,10 @@
     "message": "Це дає цим сценарієм дозвіл на отримання та відправку даних з кожної веб-сторінки. Це потенційно небезпечне!\n\nВи дійсно бажаєте продовжити?"
   },
   "No_update_found__sry_": {
-    "message": "Обновлений не найдено, извините!"
+    "message": "Оновлень не знайдено, вибачте!"
   },
   "Unknown_method_0name0": {
-    "message": "Неизвестный метод $name$",
+    "message": "Невідомий метод $name$",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -316,19 +316,19 @@
     }
   },
   "No_script_is_running": {
-    "message": "Скрипт не запущен"
+    "message": "Сценарій не запущений"
   },
   "Add_new_script___": {
-    "message": "Создать новый скрипт..."
+    "message": "Створити новий скрипт..."
   },
   "Get_new_scripts___": {
-    "message": "Найти новые скрипты..."
+    "message": "Знайти нові скрипти..."
   },
   "This_script_was_deleted": {
-    "message": "Этот скрипт был удален"
+    "message": "Цей сценарій видалено"
   },
   "This_script_was_executed_0count0_times": {
-    "message": "Этот скрипт был выполнен $count$ один раз",
+    "message": "Цей скрипт був виконаний $count$ один раз",
     "placeholders": {
       "count": {
         "content": "$1"
@@ -336,10 +336,10 @@
     }
   },
   "This_script_was_not_executed_yet": {
-    "message": "Этот скрипт еще не был выполнен"
+    "message": "Цей скрипт ще не виконаний"
   },
   "Exclude_0domain0": {
-    "message": "Добавить в исключения $domain$",
+    "message": "Додати в виключення $domain$",
     "placeholders": {
       "domain": {
         "content": "$1"
@@ -347,13 +347,13 @@
     }
   },
   "Check_for_userscripts_updates": {
-    "message": "Проверить обновления скриптов"
+    "message": "Перевіряйте наявність оновлень сценарію"
   },
   "Waiting_for_sync_to_finish": {
-    "message": "Ожидаем окончание синхронизации"
+    "message": "Очікування синхронізації завершено"
   },
   "0count0_changes_imported": {
-    "message": "$count$ изменения импортированы",
+    "message": "$count$ зміни імпортовані",
     "placeholders": {
       "count": {
         "content": "$1"
