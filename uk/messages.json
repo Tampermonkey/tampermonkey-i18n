@@ -1378,40 +1378,40 @@
     "message": "Перевірка наявності в чорному списку"
   },
   "Script_Blacklist_Source": {
-    "message": "Список запрещённых источников"
+    "message": "Список заборонених джерел"
   },
   "Server_And_Manual": {
-    "message": "Удалённый + Ручной"
+    "message": "Дистанційне + Ручний"
   },
   "Only_Manual": {
-    "message": "Только ручной"
+    "message": "Тільки ручний"
   },
   "Manual_Script_Blacklist": {
-    "message": "Ручной чёрный список пользовательских скриптов и @require"
+    "message": "Ручний чорний список користувальницьких скриптів і @require"
   },
   "This_script_is_blacklisted_": {
-    "message": "Этот скрипт в чёрном списке!"
+    "message": "Цей скрипт в чорному списку!"
   },
   "Report_an_issue_to_the_script_hoster_": {
-    "message": "Сообщить о нарушении.\n(Может понадобиться пользовательский аккаунт)"
+    "message": "Повідомити про порушення.\n(Може знадобитися користувальницький аккаунт)"
   },
   "Blacklist_Severity": {
-    "message": "Блокировать от уровня серьезности"
+    "message": "Блокувати від рівня серйозності"
   },
   "Action_Menu": {
-    "message": "Меню действий"
+    "message": "Меню дій"
   },
   "Hide_disabled_scripts": {
-    "message": "Скрыть отключенные скрипты"
+    "message": "Приховання вимкнутих сценаріїв"
   },
   "Columns": {
     "message": "Колонки"
   },
   "Script_order": {
-    "message": "Порядок скриптов"
+    "message": "Порядок скриптів"
   },
   "severity_1": {
-    "message": "1 (наиболее безопасный)"
+    "message": "1 (найбільш безпечний)"
   },
   "severity_2": {
     "message": "2"
@@ -1438,73 +1438,73 @@
     "message": "9"
   },
   "severity_10": {
-    "message": "10 (наименее безопасный)"
+    "message": "10 (найменш безпечний)"
   },
   "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
-    "message": "Ваш язык не поддерживается?\nНажмите здесь, чтобы получить инструкции, как перевести Tampermonkey?"
+    "message": "Ваша мова не підтримується?\nНатисніть тут, щоб отримати інструкції, як перевести Tampermonkey?"
   },
   "Default": {
-    "message": "По умолчанию"
+    "message": "За замовчуванням"
   },
   "Default_Dark": {
-    "message": "По умолчанию - Тёмная"
+    "message": "За замовчуванням - Темна"
   },
   "Ok": {
     "message": "Ок"
   },
   "Developer": {
-    "message": "Разработчик"
+    "message": "Розробник"
   },
   "Templates": {
-    "message": "Шаблоны"
+    "message": "Шаблони"
   },
   "Undo": {
-    "message": "Отменить"
+    "message": "Скасувати"
   },
   "Redo": {
-    "message": "Повторить"
+    "message": "Повторити"
   },
   "Cut": {
-    "message": "Вырезать"
+    "message": "Вирізати"
   },
   "Copy": {
-    "message": "Копировать"
+    "message": "Копіювати"
   },
   "Paste": {
-    "message": "Вставить"
+    "message": "Вставити"
   },
   "Select_All": {
-    "message": "Выделить всё"
+    "message": "Виділити всі"
   },
   "Toggle_Comment": {
-    "message": "Вкл/выкл комментарий"
+    "message": "Вкл/викл коментар"
   },
   "Toggle_Comment_Indented": {
-    "message": "Вкл/выкл комментарий с отступом"
+    "message": "Вкл/викл коментар з відступом"
   },
   "Toggle_Block_Comment": {
-    "message": "Вкл/выкл многострочный комментарий"
+    "message": "Вкл/викл багатостроковий коментар"
   },
   "Replace_All": {
-    "message": "Заменить всё"
+    "message": "Замінити всі"
   },
   "Lines": {
-    "message": "Строки"
+    "message": "Лінії"
   },
   "Indent_Less": {
-    "message": "Уменьшить отступ"
+    "message": "Зменшити відступ"
   },
   "Indent_More": {
-    "message": "Увеличить отступ"
+    "message": "Збільшити відступ"
   },
   "Move_Line_Up": {
-    "message": "На строку выше"
+    "message": "На лінії вище"
   },
   "Move_Line_Down": {
-    "message": "На строку ниже"
+    "message": "На лінії нижче"
   },
   "Duplicate_Lines": {
-    "message": "Дублировать выделенное"
+    "message": "Дублювати виділене"
   },
   "Delete_Line": {
     "message": "Удалить строку"
