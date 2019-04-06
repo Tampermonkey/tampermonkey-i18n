@@ -657,7 +657,7 @@
     }
   },
   "Just_another_service_provided_by_your_friendly_script_updater_": {
-    "message": "Просто еще один сервис, предоставляемый вашим дружественным обновлением скриптов"
+    "message": "Другой сервис для обновления ваших скриптов"
   },
   "Updated_to__0version0": {
     "message": "Обновлен до: $version$",
