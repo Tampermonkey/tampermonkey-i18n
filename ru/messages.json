@@ -1645,13 +1645,13 @@
     "message": "Закрывающаяся скобка"
   },
   "Line_Up": {
-    "message": "На строку выше"
+    "message": "На линию выше"
   },
   "Line_Down": {
-    "message": "На строку ниже"
+    "message": "На линию ниже"
   },
   "Center_Cursor": {
-    "message": "Center Cursor"
+    "message": "Центральный курсор"
   },
   "Bookmarks": {
     "message": "Закладки"
