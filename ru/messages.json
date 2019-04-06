@@ -1264,13 +1264,13 @@
     "message": "Запустить только в верхнем фрейме"
   },
   "Native": {
-    "message": "Нативный"
+    "message": "Родной"
   },
   "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
     "message": "Для работы функции импорта скриптов, Tampermonkey должен знать абсолютный путь к папке профиля браузера.\n\nНажмите здесь, чтобы посетить FAQ!"
   },
   "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-    "message": "Для работы функции импорта скриптов, Tampermonkey необходим доступ к файлу URI\n\n\n\nНажмите здесь, чтобы посетить FAQ!"
+    "message": "Для работы функции импорта скриптов, Tampermonkey необходим доступ к файлу URI.\n\n\n\nНажмите здесь, чтобы посетить FAQ!"
   },
   "Tampermonkey_has_no_file_access_permission_": {
     "message": "У Tampermonkey нет прав доступа к локальным файлам!"
