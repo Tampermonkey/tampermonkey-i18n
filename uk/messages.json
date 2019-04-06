@@ -814,82 +814,82 @@
     "message": "Включити розширений редактор"
   },
   "Appearance": {
-    "message": "Внешний вид"
+    "message": "Зовнішній вигляд"
   },
   "Security": {
-    "message": "Безопасность"
+    "message": "Безпеки"
   },
   "Downloads": {
-    "message": "Загрузки"
+    "message": "Завантажити"
   },
   "Download_Mode": {
-    "message": "Режим загрузки"
+    "message": "Режим завантаження"
   },
   "Browser_API": {
     "message": "API браузера"
   },
   "The_Browser_API_mode_requires_a_special_permission_": {
-    "message": "Для доступа к API браузера требуется специальное разрешение."
+    "message": "Для доступу до API браузера потрібен спеціальний дозвіл."
   },
   "Whitelisted_File_Extensions": {
-    "message": "Белый список расширений файлов"
+    "message": "Білий список розширень файлів"
   },
   "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
-    "message": "Только файлы с этими расширениями могут быть сохранены на жесткий диск.\nБудьте осторожны и не разрешайте расширения исполняемых в вашей ОС файлов!"
+    "message": "Тільки файли з цими розширеннями можуть бути збережені на жорсткий диск.\nБудьте обережні і не дозволяйте розширення виконуваних у вашій ОС файлів!"
   },
   "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
-    "message": "Ваш белый список содержит исполняемые файлы!\nЭто означает, что ваши пользовательские скрипты могут загружать вредоносные или шпионские программы на ваш жесткий диск!"
+    "message": "Ваш білий список містить виконувані файли!\nЦе означає, що ваші користувальницькі скрипти можуть завантажувати шкідливі або шпигунські програми на ваш жорсткий диск!"
   },
   "Browser_API_Downloads": {
-    "message": "API загрузок браузера"
+    "message": "API завантажень браузера"
   },
   "Click_here_to_allow_TM_to_start_downloads": {
-    "message": "Нажмите ОК, чтобы разрешить Tampermonkey загружать файлы без запроса."
+    "message": "Натисніть ОК, щоб підтвердити свою згоду Tampermonkey завантажувати файли без запиту."
   },
   "Page_Filter_Mode": {
-    "message": "Режим фильтра страницы"
+    "message": "Режим фільтра сторінки"
   },
   "Whitelisted_Pages": {
-    "message": "Белый список страниц"
+    "message": "Білий список сторінок"
   },
   "Blacklisted_Pages": {
-    "message": "Чёрный список страниц"
+    "message": "Чорний список сторінок"
   },
   "Blacklist": {
-    "message": "Чёрный список"
+    "message": "Чорний список"
   },
   "Whitelist": {
-    "message": "Белый список"
+    "message": "Білий список"
   },
   "Both": {
-    "message": "Оба"
+    "message": "Обидва"
   },
   "Experimental": {
-    "message": "Экспериментально"
+    "message": "Експериментально"
   },
   "strict_mode": {
     "message": "Строгий режим"
   },
   "Inject_Mode": {
-    "message": "Режим встраивания"
+    "message": "Режим вбудовування"
   },
   "Fast": {
-    "message": "Быстрый"
+    "message": "Швидкий"
   },
   "Normal": {
-    "message": "Нормальный"
+    "message": "Нормальний"
   },
   "Instant": {
-    "message": "Мгновенный"
+    "message": "Миттєвий"
   },
   "This_page_is_blacklisted_at_the_security_settings": {
-    "message": "В черном списке настроек безопасности"
+    "message": "У чорному списку настройок безпеки"
   },
   "Update_Notification": {
-    "message": "Показать уведомление об обновлении Tampermonkey"
+    "message": "Показати сповіщення про оновлення Tampermonkey"
   },
   "Favicon_Service": {
-    "message": "Favicon-сервис"
+    "message": "Favicon-сервіс"
   },
   "Google": {
     "message": "Google"
@@ -898,10 +898,10 @@
     "message": "DuckDuckGo"
   },
   "Warning_unsafe_site_warnings_might_appear_": {
-    "message": "Внимание: могут появляться предупреждения о ненадежном сайте, если скрипт содержит потенциально опасные URL."
+    "message": "Увага: можуть з'являтися попередження про ненадійного сайті, якщо скрипт містить потенційно небезпечні URL."
   },
   "Unable_to_load_script_from_url_0url0": {
-    "message": "Невозможно загрузить скрипт из URL: \n $url$",
+    "message": "Не вдалося завантажити сценарій з URL-адреси: \n $url$",
     "placeholders": {
       "url": {
         "content": "$1"
@@ -909,16 +909,16 @@
     }
   },
   "Click_here_to_install_it_": {
-    "message": "Нажмите здесь, чтобы установить его."
+    "message": "Натисніть тут, щоб встановити його."
   },
   "Check_disabled_scripts": {
-    "message": "Обновлять отключённые скрипты"
+    "message": "Оновлення вимкнутих сценаріїв"
   },
   "Homepage": {
-    "message": "Домашняя страница"
+    "message": "Домашня сторінка"
   },
   "Last_updated": {
-    "message": "Последнее обновление"
+    "message": "Останнє оновлення"
   },
   "User_modified": {
     "message": "Изменён"
