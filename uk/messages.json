@@ -408,94 +408,94 @@
     "message": "<Новий скрипт>"
   },
   "Help": {
-    "message": "Помощь"
+    "message": "Допомога"
   },
   "Changelog": {
-    "message": "Список изменений"
+    "message": "Змінити список"
   },
   "Position_": {
-    "message": "Позиция"
+    "message": "Позиція"
   },
   "Close": {
-    "message": "Закрыть"
+    "message": "Заплющити"
   },
   "GM_compat_options_": {
-    "message": "Параметры совместимости GreaseMonkey/Firefox"
+    "message": "Параметри сумісності GreaseMonkey/Firefox"
   },
   "Comment": {
-    "message": "Комментарий"
+    "message": "Коментар"
   },
   "Details": {
-    "message": "Подробности"
+    "message": "Подробиці"
   },
   "UUID": {
     "message": "UUID"
   },
   "Apply_compatibility_options_to_required_script_too": {
-    "message": "Применять параметры совместимости и к @require скриптам"
+    "message": "Застосовувати параметри сумісності і до @require скриптів"
   },
   "Fix_wrappedJSObject_property_access": {
-    "message": "Исправить доступ к свойству wrappedJSObject"
+    "message": "Виправити доступ до властивості wrappedJSObject"
   },
   "Convert_CDATA_sections_into_a_chrome_compatible_format": {
-    "message": "Конвертировать разделы CDATA в формат, совместимый с браузером"
+    "message": "Конвертувати розділи CDATA в формат, сумісний з браузером"
   },
   "Fix_for_var_in_statements": {
-    "message": "Исправлять выражения 'for (var j in x)'"
+    "message": "Виправляти вирази 'for (var j in x)'"
   },
   "Replace_for_each_statements": {
-    "message": "Заменять выражения 'for each'"
+    "message": "Замінювати вирази 'for each'"
   },
   "Convert_Array_Assignements": {
-    "message": "Конвертировать [blub, bla] = s.split(':') выражения"
+    "message": "Конвертувати [blub, bla] = s.split(':') вирази"
   },
   "Add_toSource_function_to_Object_Prototype": {
-    "message": "Добавить функции совместимости для Object и Array"
+    "message": "Додати функції сумісності для Object і Array"
   },
   "Run_at": {
-    "message": "Запускать в"
+    "message": "Запускати в"
   },
   "Update_URL_": {
-    "message": "URL обновления"
+    "message": "URL поновлення"
   },
   "Save": {
-    "message": "Сохранить"
+    "message": "Зберегти"
   },
   "Cancel": {
-    "message": "Отмена"
+    "message": "Скасування"
   },
   "Search": {
-    "message": "Найти"
+    "message": "Знайти"
   },
   "Replace": {
-    "message": "Заменить"
+    "message": "Замінити"
   },
   "Jump_to_line": {
-    "message": "Перейти к строке"
+    "message": "Перейти до рядка"
   },
   "Insert_constructor": {
-    "message": "Вставить конструктор"
+    "message": "Конструктор вставляємо"
   },
   "Auto_Indent_all": {
-    "message": "Применить автоотступ"
+    "message": "Автовідступ для всіх"
   },
   "Search_for": {
-    "message": "Искать"
+    "message": "Шукати"
   },
   "Replace_all_with": {
-    "message": "Заменить всё"
+    "message": "Замінити всі"
   },
   "Replace_with": {
-    "message": "Заменить на"
+    "message": "Замінити на"
   },
   "Replace_": {
-    "message": "Заменить?"
+    "message": "Замінивши?"
   },
   "Stop": {
     "message": "Стоп"
   },
   "There_are_unsaved_changed_": {
-    "message": "Имеются несохраненные изменения.\nВы действительно хотите закрыть редактор?"
+    "message": "Є незбережені зміни.\nВи дійсно бажаєте закрити редактор?"
   },
   "Do_you_really_want_to_store_fixed_code_": {
     "message": "Опция '$option$' включена!\n\nВы действительно хотите сохранить изменения в коде?",
