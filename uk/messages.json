@@ -244,34 +244,34 @@
     "message": "Дозволити один раз"
   },
   "Temporarily_allow": {
-    "message": "Временно разрешить"
+    "message": "Тимчасово дозволити"
   },
   "Always_allow": {
-    "message": "Всегда разрешать"
+    "message": "Завжди дозволяти"
   },
   "Always_allow_domain": {
-    "message": "Всегда разрешать домену"
+    "message": "Завжди дозволяти домен"
   },
   "Always_allow_all_domains": {
-    "message": "Всегда разрешать для всех доменов"
+    "message": "Завжди дозволяти всім доменам"
   },
   "Forbid_once": {
-    "message": "Запретить один раз"
+    "message": "Заперечувати один раз"
   },
   "Always_forbid": {
-    "message": "Всегда запрещать"
+    "message": "Завжди забороняє"
   },
   "Always_forbid_domain": {
-    "message": "Всегда запрещать домену"
+    "message": "Завжди забороняти домен"
   },
   "Dont_ask_again": {
-    "message": "Больше не спрашивать"
+    "message": "Не запитувати"
   },
   "Focus_tab": {
-    "message": "Сфокусироваться на вкладке источника"
+    "message": "Сфокусуватися на вкладці джерела"
   },
   "Skip_timeout__0seconds0_seconds_": {
-    "message": "Пропустить тайм-аут ($seconds$ секунд)",
+    "message": "Пропустити час очікування ($seconds$ секунд)",
     "placeholders": {
       "seconds": {
         "content": "$1"
@@ -279,10 +279,10 @@
     }
   },
   "A_userscript_wants_to_access_a_cross_origin_resource_": {
-    "message": "Пользовательский скрипт хочет получить доступ к стороннему ресурсу."
+    "message": "Користувацький скрипт хоче отримати доступ до ресурсів третьої сторони."
   },
   "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
-    "message": "Запрос к стороннему ресурсу не является чем-то необычным.\nВам просто нужно проверить, есть ли у этого сценария веская причина для доступа к этому домену.\nНапример, у пользовательского скрипта есть очень мало причин для связи с вашим банком.\n\nПожалуйста, обратите внимание, что авторы могут избежать этого диалога путем добавления тега [url=$connect$]@connect[/url] к своим скриптам.\n\nНезависимо от того, что вы решите, вы в любое время можете изменить своё решение на [url=$settings$]вкладке настроек[/url] скрипта.",
+    "message": "Запит до стороннього ресурсу не є чимось незвичайним.\nВам просто потрібно перевірити, чи є у цього сценарію вагома причина для доступу до цього домену.\Наприклад, у користувача скрипта є дуже мало причин для зв'язку з вашим банком.\n\nБудь ласка, зверніть увагу, що автори можуть уникнути цього діалогу шляхом додавання тега [url=$connect$]@connect[/url] до своїх скриптам.\n\nНезалежно від того, що ви вирішите, ви в будь-який час можете змінити своє рішення на [url=$settings$]вкладці налаштувань[/url] скрипта.",
     "placeholders": {
       "connect": {
         "content": "$1"
