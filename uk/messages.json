@@ -1636,36 +1636,36 @@
     "message": "В кінець скрипта"
   },
   "Group_Left": {
-    "message": "Группа слева"
+    "message": "Група зліва"
   },
   "Group_Right": {
-    "message": "Группа справа"
+    "message": "Група праворуч"
   },
   "Closing_Bracket": {
-    "message": "Закрывающаяся скобка"
+    "message": "Завершальні дужки"
   },
   "Line_Up": {
-    "message": "На строку выше"
+    "message": "На лінії вище"
   },
   "Line_Down": {
-    "message": "На строку ниже"
+    "message": "На лінії нижче"
   },
   "Center_Cursor": {
-    "message": "Center Cursor"
+    "message": "Центр курсору"
   },
   "Bookmarks": {
     "message": "Закладки"
   },
   "Toggle": {
-    "message": "Вкл/Выкл"
+    "message": "Вкл/Викл"
   },
   "Clear_All": {
-    "message": "Удалить все"
+    "message": "Видалити всі"
   },
   "Next_Bookmark": {
-    "message": "Следующая закладка"
+    "message": "Наступна закладка"
   },
   "Prev_Bookmark": {
-    "message": "Предыдущая закладка"
+    "message": "Попередня закладка"
   }
 }
