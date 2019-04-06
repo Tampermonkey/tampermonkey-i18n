@@ -361,7 +361,7 @@
     }
   },
   "0count0_changes_exported": {
-    "message": "$count$ изменения экпортированы",
+    "message": "$count$ изменения экспортированы",
     "placeholders": {
       "count": {
         "content": "$1"
@@ -399,7 +399,7 @@
     "message": "Установленные скрипты"
   },
   "No_script_is_installed": {
-    "message": "Скрипт не установлен"
+    "message": "Скрипты не установлен"
   },
   "Get_some_scripts___": {
     "message": "Добавить скрипты..."
