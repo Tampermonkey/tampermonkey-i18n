@@ -680,43 +680,43 @@
     "message": "Інтервал перевірки"
   },
   "Always": {
-    "message": "Всегда"
+    "message": "Завжди"
   },
   "Never": {
-    "message": "Никогда"
+    "message": "Ніколи"
   },
   "Every_Hour": {
-    "message": "Каждый час"
+    "message": "Кожну годину"
   },
   "Every_6_Hours": {
-    "message": "Каждые 6 часов"
+    "message": "Кожні 6 годин"
   },
   "Every_12_Hour": {
-    "message": "Каждые 12 часов"
+    "message": "Кожні 12 годин"
   },
   "Every_Day": {
-    "message": "Каждый день"
+    "message": "Щодня"
   },
   "Every_Week": {
-    "message": "Каждую неделю"
+    "message": "Щотижня"
   },
   "Every_Month": {
-    "message": "Каждый месяц"
+    "message": "Щомісяця"
   },
   "Update_interval": {
-    "message": "Период обновления"
+    "message": "Період оновлення"
   },
   "Editor": {
     "message": "Редактор"
   },
   "Font_Size": {
-    "message": "Размер шрифта"
+    "message": "Розмір шрифту"
   },
   "Theme": {
     "message": "Тема"
   },
   "Key_Mapping": {
-    "message": "Сопоставление клавиш"
+    "message": "Зіставлення клавіш"
   },
   "Windows": {
     "message": "Windows"
@@ -731,7 +731,7 @@
     "message": "Vim"
   },
   "Please_check_the_0editor0_documentation_for_more_details_": {
-    "message": "Пожалуйста, ознакомьтесь с документацией $editor$ для получения дополнительной информации.",
+    "message": "Будь ласка, ознайомтеся з документацією $editor$ для отримання додаткової інформації.",
     "placeholders": {
       "editor": {
         "content": "$1"
@@ -739,7 +739,7 @@
     }
   },
   "Custom_Linter_Config": {
-    "message": "Пользовательская конфигурация Linter"
+    "message": "Настроювана конфігурація Linter"
   },
   "You_can_add_your_custom_linter_config_here_": {
     "message": "Вы можете добавить свою собственную конфигурацию Linter здесь."
