@@ -1013,7 +1013,7 @@
     "message": "Установить этот скрипт"
   },
   "Try_to_install_as_script": {
-    "message": "Попробуйте установить как скрипт"
+    "message": "Попробуйте установить, как скрипт"
   },
   "New_script_template_": {
     "message": "Новый шаблон пользовательского скрипта"
@@ -1046,7 +1046,7 @@
     "message": "Новичок"
   },
   "Beginner": {
-    "message": "Продвинутый"
+    "message": "Начинающий"
   },
   "Advanced": {
     "message": "Продвинутый"
@@ -1061,7 +1061,7 @@
     "message": "Введите новое правило"
   },
   "Add_as_0clude0": {
-    "message": "Добавить как $clude$",
+    "message": "Добавить, как $clude$",
     "placeholders": {
       "clude": {
         "content": "$1"
