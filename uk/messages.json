@@ -577,7 +577,7 @@
     }
   },
   "Really_delete_0name0__": {
-    "message": "Вы действительно хотите удалить '$name$'?",
+    "message": "Ви дійсно хочете видалити '$name$'?",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -585,19 +585,19 @@
     }
   },
   "This_script_has_access_to_webpage_scripts": {
-    "message": "Этот скрипт имеет полный доступ к странице."
+    "message": "Цей скрипт має повний доступ до сторінки."
   },
   "Utilities": {
-    "message": "Утилиты"
+    "message": "Утиліти"
   },
   "This_script_uses_uW_gm_api_": {
-    "message": "Этот скрипт использует часть API Greasemonkey 10 (unsafeWindow.gmonkey)\nкоторая не поддерживается ни Tampermonkey, ни любым другим альтернативным обработчиком скриптов."
+    "message": "Цей скрипт використовує частину API Greasemonkey 10 (unsafeWindow.gmonkey)\nяка не підтримується не Tampermonkey, не будь-яким іншим альтернативним обробником скриптів."
   },
   "some_secs": {
-    "message": "некоторые"
+    "message": "деякий"
   },
   "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
-    "message": "КОНФЛИКТ: Этот скрипт был изменен на другой вкладке '$t$' секунд(ы) назад!",
+    "message": "КОНФЛІКТ: Цей скрипт був змінений на інший вкладці '$t$' секунд(и) тому!",
     "placeholders": {
       "t": {
         "content": "$1"
