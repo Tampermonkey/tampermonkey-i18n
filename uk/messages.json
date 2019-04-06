@@ -167,31 +167,31 @@
     "message": "Для запуску цього сценарію може знадобитися повторна перевірка параметрів сумісності GreaseMonkey/Firefox."
   },
   "Automatically_added_user_includes_for_compatibility_reasons_": {
-    "message": "Некоторые пользовательские @include's будут применены автоматически для обеспечения совместимости!"
+    "message": "Деякі користувацькі @include's будуть застосовані автоматично для забезпечення сумісності!"
   },
   "Author": {
     "message": "Автор"
   },
   "Description": {
-    "message": "Описание"
+    "message": "Опис"
   },
   "Source": {
-    "message": "Источник"
+    "message": "Джерело"
   },
   "Source_Code": {
-    "message": "Исходный код"
+    "message": "Вихідний код"
   },
   "Changes": {
-    "message": "Изменения"
+    "message": "Зміна"
   },
   "The_diff_for_this_script_is_too_large_to_render": {
-    "message": "Различия для этого скрипта слишком велики для визуализации"
+    "message": "Відмінності для цього сценарію занадто великі для візуалізації"
   },
   "Current_Version": {
-    "message": "Текущая версия"
+    "message": "Поточна версія"
   },
   "New_Version": {
-    "message": "Новая версия"
+    "message": "Нова версія"
   },
   "Install": {
     "message": "Установить"
