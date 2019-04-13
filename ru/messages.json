@@ -167,7 +167,7 @@
     "message": "Для запуска этого сценария может потребоваться повторная проверка параметров совместимости GreaseMonkey/Firefox."
   },
   "Automatically_added_user_includes_for_compatibility_reasons_": {
-    "message": "Некоторые пользовательские includes будут применены автоматически для обеспечения совместимости!"
+    "message": "Некоторые пользовательские @include's будут применены автоматически для обеспечения совместимости!"
   },
   "Author": {
     "message": "Автор"
@@ -302,7 +302,7 @@
     "message": "URL назначения"
   },
   "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
-    "message": "Это дает этому сценарию разрешение на извлечение и отправку данных с и на каждую веб-страницу. Это потенциально небезопасно!\n\nВы уверены, что хотите продолжить?"
+    "message": "Это дает этому сценарию разрешение на получение и отправку данных с каждой веб-страницы. Это потенциально небезопасно!\n\nВы уверены, что хотите продолжить?"
   },
   "No_update_found__sry_": {
     "message": "Обновлений не найдено, извините!"
@@ -361,7 +361,7 @@
     }
   },
   "0count0_changes_exported": {
-    "message": "$count$ изменения экпортированы",
+    "message": "$count$ изменения экспортированы",
     "placeholders": {
       "count": {
         "content": "$1"
@@ -399,7 +399,7 @@
     "message": "Установленные скрипты"
   },
   "No_script_is_installed": {
-    "message": "Скрипт не установлен"
+    "message": "Скрипты не установлены"
   },
   "Get_some_scripts___": {
     "message": "Добавить скрипты..."
@@ -566,10 +566,10 @@
     "message": "Этот скрипт работает в режиме Chrome"
   },
   "This_is_a_userscript": {
-    "message": "Это пользовательский скрипт, написанный на Javascript"
+    "message": "Это пользовательский скрипт, написан на Javascript"
   },
   "Really_import_0name0__": {
-    "message": "Вы действительно хотите импортировать нативный скрипт '$name$'?",
+    "message": "Вы действительно хотите импортировать свой собственный скрипт '$name$'?",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -657,7 +657,7 @@
     }
   },
   "Just_another_service_provided_by_your_friendly_script_updater_": {
-    "message": "Просто еще один сервис, предоставляемый вашим дружественным обновлением скриптов"
+    "message": "Другой сервис для обновления ваших скриптов"
   },
   "Updated_to__0version0": {
     "message": "Обновлен до: $version$",
@@ -972,7 +972,7 @@
     "message": "Синтаксических ошибок не обнаружено."
   },
   "One_error_or_hint_was_found_": {
-    "message": "Найдена одна ошибка или предупреждение.."
+    "message": "Найдена одна ошибка или предупреждение."
   },
   "0count0_errors_or_hints_were_found_": {
     "message": "$count$ ошибок или предупреждений найдено.",
@@ -1013,7 +1013,7 @@
     "message": "Установить этот скрипт"
   },
   "Try_to_install_as_script": {
-    "message": "Попробуйте установить как скрипт"
+    "message": "Попробуйте установить, как скрипт"
   },
   "New_script_template_": {
     "message": "Новый шаблон пользовательского скрипта"
@@ -1046,7 +1046,7 @@
     "message": "Новичок"
   },
   "Beginner": {
-    "message": "Продвинутый"
+    "message": "Начинающий"
   },
   "Advanced": {
     "message": "Продвинутый"
@@ -1061,7 +1061,7 @@
     "message": "Введите новое правило"
   },
   "Add_as_0clude0": {
-    "message": "Добавить как $clude$",
+    "message": "Добавить, как $clude$",
     "placeholders": {
       "clude": {
         "content": "$1"
@@ -1243,7 +1243,7 @@
     "message": "Не показывать диалог подтверждения при сохранении"
   },
   "Add_TM_to_CSP": {
-    "message": "Добавить Tampermonkey в политику безопасности сайта (CSP), если она есть"
+    "message": "Добавить Tampermonkey в политику безопасности сайта (CSP), если требуется"
   },
   "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
     "message": "Без этой опции Tampermonkey может запрещать доступ к небезопасному контенту (unsafeWindow, функции и переменные страницы)."
@@ -1264,13 +1264,13 @@
     "message": "Запустить только в верхнем фрейме"
   },
   "Native": {
-    "message": "Нативный"
+    "message": "Родной"
   },
   "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
     "message": "Для работы функции импорта скриптов, Tampermonkey должен знать абсолютный путь к папке профиля браузера.\n\nНажмите здесь, чтобы посетить FAQ!"
   },
   "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-    "message": "Для работы функции импорта скриптов, Tampermonkey необходим доступ к файлу URI\n\n\n\nНажмите здесь, чтобы посетить FAQ!"
+    "message": "Tampermonkey необходим доступ к файловым URI для работы импорта скрипта.\n\n\n\nНажмите здесь, чтобы посетить FAQ!"
   },
   "Tampermonkey_has_no_file_access_permission_": {
     "message": "У Tampermonkey нет прав доступа к локальным файлам!"
@@ -1303,7 +1303,7 @@
     "message": "Удалить расширение"
   },
   "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
-    "message": "Какие действия следует выполнить после успешного импорта нативного пользовательского скрипта?"
+    "message": "Какие действия следует выполнить после успешного импорта пользовательского скрипта?"
   },
   "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
     "message": "Когда Tampermonkey обновится, он будет перезапущен. Во время перезапуска скрипты временно не будут работать!\n\nВы уверены, что не хотите получать уведомления об обновлениях?"
@@ -1342,7 +1342,7 @@
     "message": "Предупреждения"
   },
   "Info": {
-    "message": "Предупреждения"
+    "message": "Информация"
   },
   "Error": {
     "message": "Ошибки"
@@ -1489,7 +1489,7 @@
     "message": "Заменить всё"
   },
   "Lines": {
-    "message": "Строки"
+    "message": "Линии"
   },
   "Indent_Less": {
     "message": "Уменьшить отступ"
@@ -1543,7 +1543,7 @@
     "message": "Транспонировать"
   },
   "Line_Case_Insensitive": {
-    "message": "Строки без учёта регистра"
+    "message": "Линии без учёта регистра"
   },
   "Folding": {
     "message": "Сворачивание"
@@ -1645,13 +1645,13 @@
     "message": "Закрывающаяся скобка"
   },
   "Line_Up": {
-    "message": "На строку выше"
+    "message": "На линию выше"
   },
   "Line_Down": {
-    "message": "На строку ниже"
+    "message": "На линию ниже"
   },
   "Center_Cursor": {
-    "message": "Center Cursor"
+    "message": "Центр курсора"
   },
   "Bookmarks": {
     "message": "Закладки"
