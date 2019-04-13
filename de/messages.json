@@ -284,6 +284,14 @@
             }
         }
     },
+    "This_script_was_executed_0count0_times_but_is_not_active_anymore": {
+        "message": "Dieses Script wurde $count$ mal ausgeführt und ist nicht mehr aktiv",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+           }
+        }
+    },
     "This_script_was_not_executed_yet": {
         "message": "Dieses Script wurde noch nicht ausgeführt"
     },

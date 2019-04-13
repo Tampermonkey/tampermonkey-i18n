@@ -282,7 +282,7 @@
     "message": "Користувацький скрипт хоче отримати доступ до ресурсів третьої сторони."
   },
   "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
-    "message": "Запит до стороннього ресурсу не є чимось незвичайним.\nВам просто потрібно перевірити, чи є у цього сценарію вагома причина для доступу до цього домену.\Наприклад, у користувача скрипта є дуже мало причин для зв'язку з вашим банком.\n\nБудь ласка, зверніть увагу, що автори можуть уникнути цього діалогу шляхом додавання тега [url=$connect$]@connect[/url] до своїх скриптам.\n\nНезалежно від того, що ви вирішите, ви в будь-який час можете змінити своє рішення на [url=$settings$]вкладці налаштувань[/url] скрипта.",
+    "message": "Запит до стороннього ресурсу не є чимось незвичайним.\nВам просто потрібно перевірити, чи є у цього сценарію вагома причина для доступу до цього домену.\nНаприклад, у користувача скрипта є дуже мало причин для зв'язку з вашим банком.\n\nБудь ласка, зверніть увагу, що автори можуть уникнути цього діалогу шляхом додавання тега [url=$connect$]@connect[/url] до своїх скриптам.\n\nНезалежно від того, що ви вирішите, ви в будь-який час можете змінити своє рішення на [url=$settings$]вкладці налаштувань[/url] скрипта.",
     "placeholders": {
       "connect": {
         "content": "$1"
