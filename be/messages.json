@@ -682,49 +682,49 @@
     "message": "Агульны"
   },
   "Script_Update": {
-    "message": "Script Update"
+    "message": "Абнаўленне скрыпту"
   },
   "Check_interval": {
-    "message": "Check Interval"
+    "message": "Інтэрвал праверкі"
   },
   "Always": {
-    "message": "Always"
+    "message": "Заўсёды"
   },
   "Never": {
-    "message": "Never"
+    "message": "Ніколі"
   },
   "Every_Hour": {
-    "message": "Every Hour"
+    "message": "Кожную гадзіну"
   },
   "Every_6_Hours": {
-    "message": "Every 6 Hours"
+    "message": "Кожныя 6 гадзін"
   },
   "Every_12_Hour": {
-    "message": "Every 12 Hours"
+    "message": "Кожныя 12 гадзін"
   },
   "Every_Day": {
-    "message": "Every Day"
+    "message": "Кожны дзень"
   },
   "Every_Week": {
-    "message": "Every Week"
+    "message": "Кожны тыдзень"
   },
   "Every_Month": {
-    "message": "Every Month"
+    "message": "Кожны месяц"
   },
   "Update_interval": {
-    "message": "Update Interval"
+    "message": "Перыяд абнаўлення"
   },
   "Editor": {
-    "message": "Editor"
+    "message": "Рэдактар"
   },
   "Font_Size": {
-    "message": "Font Size"
+    "message": "Памер шрыфта"
   },
   "Theme": {
-    "message": "Theme"
+    "message": "Тэма"
   },
   "Key_Mapping": {
-    "message": "Key Mapping"
+    "message": "Супастаўленне клавіш"
   },
   "Windows": {
     "message": "Windows"
@@ -739,7 +739,7 @@
     "message": "Vim"
   },
   "Please_check_the_0editor0_documentation_for_more_details_": {
-    "message": "Please check the $editor$ documentation for more details.",
+    "message": "Калі ласка, азнаёмцеся з дакументацыяй $editor$ для атрымання дадатковай інфармацыі.",
     "placeholders": {
       "editor": {
         "content": "$1"
