@@ -194,22 +194,22 @@
     "message": "Новая версія"
   },
   "Install": {
-    "message": "Install"
+    "message": "Усталяваць"
   },
   "Reinstall": {
-    "message": "Reinstall"
+    "message": "Пераўсталяваць"
   },
   "Modify": {
-    "message": "Modify"
+    "message": "Змяніць"
   },
   "Downgrade": {
-    "message": "Downgrade"
+    "message": "Адкаціць"
   },
   "Update": {
-    "message": "Update"
+    "message": "Абнавіць"
   },
   "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
-    "message": "$name$ $version$ is available.\nPlease re-start your browser to start the update!",
+    "message": "$name$ $version$ даступная.\nКалі ласка, перазапусціце браўзэр, каб пачаць абнаўленне!",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -220,19 +220,19 @@
     }
   },
   "Process_with_Chrome": {
-    "message": "Process with the browser"
+    "message": "Працэс з дапамогай браўзэра"
   },
   "Enforce": {
-    "message": "Enforce"
+    "message": "Перавызначыць"
   },
   "Strict": {
-    "message": "Strict"
+    "message": "Строгі"
   },
   "connect_mode": {
-    "message": "Check @connect"
+    "message": "Праверка @connect"
   },
   "Ask_if_unknown": {
-    "message": "Ask if unknown"
+    "message": "Спытаць, калі невядома"
   },
   "Always_ask": {
     "message": "Always ask"
