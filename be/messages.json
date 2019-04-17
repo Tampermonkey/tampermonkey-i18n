@@ -765,76 +765,76 @@
     "message": "Прабелы"
   },
   "TabMode": {
-    "message": "Режим табуляції"
+    "message": "Рэжым табуляцыі"
   },
   "Classic": {
-    "message": "Класичний"
+    "message": "Класічны"
   },
   "Indent": {
-    "message": "Відступ"
+    "message": "Водступ"
   },
   "Smart": {
-    "message": "Розумний"
+    "message": "Разумны"
   },
   "Line_break": {
-    "message": "Розрив рядка"
+    "message": "Разрыў радка"
   },
   "Reindent_on_typing": {
-    "message": "Повторний відступ при наборі тексту"
+    "message": "Паўторны водступ пры наборы тэксту"
   },
   "Auto_reload_on_script_enabled": {
-    "message": "Автоматичне перезавантаження сторінок"
+    "message": "Аўтаматычная перазагрузка старонак"
   },
   "Auto_reload_on_script_enabled_desc": {
-    "message": "Перезавантажте порушені сторінки, якщо скрипт був включений або вимкнений"
+    "message": "Перазагрузіце закранутыя старонкі, калі скрыпт быў уключаны або выключаны"
   },
   "Anonymous_statistics": {
-    "message": "Анонімна статистика"
+    "message": "Ананімная статыстыка"
   },
   "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
     "message": "Дозволити Tampermonkey збирати анонімну статистику за допомогою Google Analytics. Це допомагає мені поліпшити Tampermonkey і визначити, на яких критеріях я повинен зосередити свій розвиток. Просто вимкніть це, якщо вам не подобається."
   },
   "Dont_ask_me_for_simple_script_updates": {
-    "message": "Don't ask me for simple script updates"
+    "message": "Не питати мене при невеликих змінах в скрипті"
   },
   "Hide_notification_after": {
-    "message": "Hide notification after"
+    "message": "Приховувати повідомлення через"
   },
   "Today": {
-    "message": "Today"
+    "message": "Сьогодні"
   },
   "15_Seconds": {
-    "message": "15 Seconds"
+    "message": "15 секунд"
   },
   "30_Seconds": {
-    "message": "30 Seconds"
+    "message": "30 секунд"
   },
   "1_Minute": {
-    "message": "1 Minute"
+    "message": "1 хвилину"
   },
   "5_Minutes": {
-    "message": "5 Minutes"
+    "message": "5 хвилин"
   },
   "1_Hour": {
-    "message": "1 Hour"
+    "message": "1 година"
   },
   "Enable_Editor": {
-    "message": "Enable enhanced editor"
+    "message": "Включити розширений редактор"
   },
   "Appearance": {
-    "message": "Appearance"
+    "message": "Зовнішній вигляд"
   },
   "Security": {
-    "message": "Security"
+    "message": "Безпека"
   },
   "Downloads": {
-    "message": "Downloads"
+    "message": "Завантаження"
   },
   "Download_Mode": {
-    "message": "Download Mode"
+    "message": "Режим завантаження"
   },
   "Browser_API": {
-    "message": "Browser API"
+    "message": "API браўзэра"
   },
   "The_Browser_API_mode_requires_a_special_permission_": {
     "message": "The Browser API mode requires a special permission."
