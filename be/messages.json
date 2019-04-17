@@ -271,7 +271,7 @@
     "message": "Сфакусавацца на ўкладцы крыніцы"
   },
   "Skip_timeout__0seconds0_seconds_": {
-    "message": "Skip timeout ($seconds$ seconds)",
+    "message": "Прапусціць тайм-аўт ($seconds$ seconds)",
     "placeholders": {
       "seconds": {
         "content": "$1"
@@ -279,10 +279,10 @@
     }
   },
   "A_userscript_wants_to_access_a_cross_origin_resource_": {
-    "message": "A userscript wants to access a cross-origin resource."
+    "message": "Карыстацкі скрыпт хоча атрымаць доступ да іншаму рэсурсу."
   },
   "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
-    "message": "A request to a cross origin resource is nothing unusual.\nYou just have to check whether this script has a good reason to access this domain.\nFor example there are only a very few reasons for a userscript to contact your bank.\n\nPlease note that userscript authors can avoid this dialog by adding [url=$connect$]@connect tags[/url] to their scripts.\n\nNo matter how you'll decide, you can change your opinion at any time at the script's [url=$settings$]settings tab[/url].",
+    "message": "Запыт да іншаму рэсурсу не з'яўляецца чымсьці незвычайным.\nВам проста трэба праверыць, ці ёсць у гэтага сцэнара важкі чыннік для доступу да гэтага дамену.\nНапрыклад, у карыстацкага скрыпту ёсць вельмі мала прычын для сувязі з вашым банкам.\n\nКалі ласка, звярніце ўвагу, што аўтары могуць пазбегнуць гэтага дыялогу шляхам дадання тэга [url=$connect$]@connect[/url] да сваіх скрыптам.\n\nНезалежна ад таго, што вы вырашыце, вы ў любы час можаце змяніць сваё рашэнне на [url=$settings$]ўкладцы налад[/url] скрыпту",
     "placeholders": {
       "connect": {
         "content": "$1"
@@ -293,19 +293,19 @@
     }
   },
   "Tab_URL": {
-    "message": "Tab URL"
+    "message": "URL ўкладкі"
   },
   "Destination_domain": {
-    "message": "Destination domain"
+    "message": "Дамен прызначэння"
   },
   "Destination_URL": {
-    "message": "Destination URL"
+    "message": "URL прызначэння"
   },
   "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
-    "message": "This gives this script permission to retrieve and send data from and to every webpage. This is potentially unsafe!\n\nAre you sure you want to continue?"
+    "message": "Гэта дае гэтаму сцэнару дазвол на атрыманне і адпраўку дадзеных з кожнай вэб-старонкі. Гэта патэнцыйна небяспечна!\n\nВы ўпэўненыя, што жадаеце працягнуць?"
   },
   "No_update_found__sry_": {
-    "message": "No update found, sry!"
+    "message": "Абнаўленняў не знойдзена, прабачце!"
   },
   "Unknown_method_0name0": {
     "message": "Unknown method $name$",
