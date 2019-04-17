@@ -639,25 +639,25 @@
     "message": "Экспарт"
   },
   "TextArea": {
-    "message": "TextArea"
+    "message": "Тэкставае поле"
   },
   "Zip": {
     "message": "Zip"
   },
   "Include_script_storage": {
-    "message": "Include script storage"
+    "message": "Уключыць сховішча скрыптоў"
   },
   "Include_script_externals": {
-    "message": "Include external script resources"
+    "message": "Ўключыць знешнія рэсурсы скрыпту"
   },
   "Include_TM_settings": {
-    "message": "Include Tampermonkey settings"
+    "message": "Ўключыць налады Tampermonkey"
   },
   "File": {
-    "message": "File"
+    "message": "Файл"
   },
   "There_is_an_update_for_0name0_avaiable_": {
-    "message": "There is an update for '$name$' available. :)",
+    "message": "Даступныя абнаўлення для '$name$'. :)",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -665,10 +665,10 @@
     }
   },
   "Just_another_service_provided_by_your_friendly_script_updater_": {
-    "message": "Just another service provided by your friendly script updater"
+    "message": "Іншы сэрвіс для абнаўлення вашых скрыптоў"
   },
   "Updated_to__0version0": {
-    "message": "Updated to: $version$",
+    "message": "Абноўлены да: $version$",
     "placeholders": {
       "version": {
         "content": "$1"
@@ -676,10 +676,10 @@
     }
   },
   "Click_here_to_see_the_recent_changes": {
-    "message": "Click here to see the recent changes"
+    "message": "Націсніце тут, каб убачыць апошнія змены"
   },
   "General": {
-    "message": "General"
+    "message": "Агульны"
   },
   "Script_Update": {
     "message": "Script Update"
