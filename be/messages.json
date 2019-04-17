@@ -467,37 +467,37 @@
     "message": "URL абнаўленне"
   },
   "Save": {
-    "message": "Save"
+    "message": "Захаваць"
   },
   "Cancel": {
-    "message": "Cancel"
+    "message": "Адмена"
   },
   "Search": {
-    "message": "Search"
+    "message": "Знайсці"
   },
   "Replace": {
-    "message": "Replace"
+    "message": "Замяніць"
   },
   "Jump_to_line": {
-    "message": "Jump to line"
+    "message": "Перайсці да радка"
   },
   "Insert_constructor": {
-    "message": "Insert constructor"
+    "message": "Уставіць канструктар"
   },
   "Auto_Indent_all": {
-    "message": "Auto-Indent all"
+    "message": "Прымяніць аўтоводступ"
   },
   "Search_for": {
-    "message": "Search for"
+    "message": "Шукаць"
   },
   "Replace_all_with": {
-    "message": "Replace all"
+    "message": "Замяніць усе"
   },
   "Replace_with": {
-    "message": "Replace with"
+    "message": "Замяніць на"
   },
   "Replace_": {
-    "message": "Replace?"
+    "message": "Замяніць?"
   },
   "Stop": {
     "message": "Stop"
