@@ -73,7 +73,7 @@
     }
   },
   "Script_0name0_is_slowing_down_some_page_loads_": {
-    "message": "Script '$name$' is slowing down your page loads",
+    "message": "Скрыпт '$name$' запавольвае загрузку вашай старонкі",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -81,19 +81,19 @@
     }
   },
   "Please_double_check_the_native_script_import_settings__": {
-    "message": "Unable to load the UserScript!\n\nPlease double check the 'Native Script Import' settings."
+    "message": "Немагчыма загрузіць скрыпт!\n\nКалі ласка, перепроверьте опцыю 'Імпарт скрыпту'."
   },
   "Name": {
-    "message": "Name"
+    "message": "Імя"
   },
   "Note": {
-    "message": "Note"
+    "message": "Заўвага"
   },
   "Installed_Version_": {
-    "message": "Installed Version"
+    "message": "Устаноўленая версія"
   },
   "Global_Settings": {
-    "message": "Global Settings"
+    "message": "Глабальныя налады"
   },
   "Global_settings_import": {
     "message": "Global settings import"
