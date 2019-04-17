@@ -547,19 +547,19 @@
     "message": "Паказаць рэзервовыя копіі"
   },
   "Delete": {
-    "message": "Delete"
+    "message": "Выдаліць"
   },
   "Features": {
-    "message": "Features"
+    "message": "Дазвол"
   },
   "This_script_stores_data": {
-    "message": "This script stores data to Tampermonkey."
+    "message": "Гэты скрыпт захоўвае дадзеныя ў Tampermonkey."
   },
   "This_script_has_access_to_https_pages": {
-    "message": "This item has access to https pages."
+    "message": "Гэты скрыпт мае доступ да старонак HTTPS"
   },
   "One_or_more_compatibility_options_are_set": {
-    "message": "One or more compatibility options are set. You might want/should review them."
+    "message": "Адзін або некалькі параметраў сумяшчальнасці ўстаноўлены. Вам варта іх паглядзець."
   },
   "This_script_has_full_web_access": {
     "message": "This script has full internet access."
