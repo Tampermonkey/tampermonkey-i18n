@@ -33,31 +33,31 @@
     "message": "11"
   },
   "fatal_error": {
-    "message": "fatal error"
+    "message": "Крытычная памылка"
   },
   "Please_consider_a_contribution": {
-    "message": "Please send a donation"
+    "message": "Калі ласка, адпраўце ахвяраванне"
   },
   "I_contributed_already": {
-    "message": "I donated already"
+    "message": "Я ўжо ахвяраваў"
   },
   "Remind_me_later": {
-    "message": "Remind me later"
+    "message": "Нагадаць мне пазней"
   },
   "I_dont_want_to_contribute": {
-    "message": "I don't want to donate"
+    "message": "Я не хачу ўносіць ахвяраванні"
   },
   "Thank_you_very_much_": {
-    "message": "Thank you very much!"
+    "message": "Дзякуй вялікі!"
   },
   "Invalid_UserScript__Sry_": {
-    "message": "Invalid UserScript. Sry!"
+    "message": "Няправільны скрыпт. Выбачайце!"
   },
   "Invalid_UserScript_name__Sry_": {
-    "message": "Invalid UserScript name. Sry!"
+    "message": "Некарэктнае імя скрыпту. Выбачайце!"
   },
   "Script_name_0name0": {
-    "message": "Script name: $name$",
+    "message": "Імя скрыпту: $name$",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -65,7 +65,7 @@
     }
   },
   "Downloaded_from_0url0": {
-    "message": "Downloaded from: $url$",
+    "message": "Загружаны з: $url$",
     "placeholders": {
       "url": {
         "content": "$1"
