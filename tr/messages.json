@@ -437,7 +437,7 @@
         "message": "Ayrıntılar"
     },
     "UUID": {
-        "message": "UUID"			 
+        "message": "UUID"
     },
     "Apply_compatibility_options_to_required_script_too": {
         "message": "@require betiklerine de uyumluluk seçenekleri uygulayın"
@@ -774,7 +774,7 @@
         "message": "Girinti"
     },
     "Smart": {
-        "message": "Akıllı"	  
+        "message": "Akıllı"
     },
     "Line_break": {
         "message": "Satır arası"
@@ -822,7 +822,7 @@
         "message": "Gelişmiş düzenleyiciyi etkinleştir"
     },
     "Appearance": {
-        "message": "Görünüm"	   
+        "message": "Görünüm"
     },
     "Security": {
         "message": "Güvenlik"
@@ -1470,7 +1470,7 @@
     },
     "Ok": {
         "message": "Tamam"
-    },     
+    },
     "Developer": {
         "message": "Geliştirici"
     },
