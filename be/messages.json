@@ -765,34 +765,34 @@
     "message": "Прабелы"
   },
   "TabMode": {
-    "message": "TabMode"
+    "message": "Режим табуляції"
   },
   "Classic": {
-    "message": "Classic"
+    "message": "Класичний"
   },
   "Indent": {
-    "message": "Indent"
+    "message": "Відступ"
   },
   "Smart": {
-    "message": "Smart"
+    "message": "Розумний"
   },
   "Line_break": {
-    "message": "Line break"
+    "message": "Розрив рядка"
   },
   "Reindent_on_typing": {
-    "message": "Re-indent on typing"
+    "message": "Повторний відступ при наборі тексту"
   },
   "Auto_reload_on_script_enabled": {
-    "message": "Auto reload pages"
+    "message": "Автоматичне перезавантаження сторінок"
   },
   "Auto_reload_on_script_enabled_desc": {
-    "message": "Reload affected pages if a script was turned on or off"
+    "message": "Перезавантажте порушені сторінки, якщо скрипт був включений або вимкнений"
   },
   "Anonymous_statistics": {
-    "message": "Anonymous statistics"
+    "message": "Анонімна статистика"
   },
   "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-    "message": "Allow Tampermonkey to collect anonymous statistics via Google Analytics. This helps me to improve Tampermonkey and to determine on what criteria I should focus my development. Just disable this if you dislike it."
+    "message": "Дозволити Tampermonkey збирати анонімну статистику за допомогою Google Analytics. Це допомагає мені поліпшити Tampermonkey і визначити, на яких критеріях я повинен зосередити свій розвиток. Просто вимкніть це, якщо вам не подобається."
   },
   "Dont_ask_me_for_simple_script_updates": {
     "message": "Don't ask me for simple script updates"
