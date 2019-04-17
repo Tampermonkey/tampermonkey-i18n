@@ -546,6 +546,9 @@
     "Show_backups": {
         "message": "Yedekleri görüntüle"
     },
+    "Install_from_URL": {
+        "message": "URL'den Yükle"
+    },
     "Delete": {
         "message": "Sil"
     },
