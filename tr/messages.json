@@ -146,7 +146,7 @@
         }
     },
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
-        "message": "En az bir @include, @match veya @exclude ifadesi değiştirildi."
+        "message": "@include, @match veya @exclude ifadelerinden en az biri değiştirildi."
     },
     "At_least_one_new_connect_statement_was_added_": {
         "message": "En az bir yeni @connect ifadesi eklendi."
@@ -329,6 +329,14 @@
     },
     "This_script_was_executed_0count0_times": {
         "message": "Bu betik $count$ defa çalıştırıldı",
+            "placeholders": {
+              "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "This_script_was_executed_0count0_times_but_is_not_active_anymore": {
+        "message": "Bu betik daha önce $count$ defa çalıştırıldı, fakat artık aktif değil",
             "placeholders": {
               "count": {
                 "content": "$1"
@@ -1013,7 +1021,7 @@
         "message": "Bu betiği yükle"
     },
     "Try_to_install_as_script": {
-        "message": "Betik olarak yüklemeyi dene"
+        "message": "Betik olarak yüklemeyi dene"					 
     },
     "New_script_template_": {
         "message": "Yeni betik şablonu"
@@ -1195,10 +1203,10 @@
         "message": "Başla"
     },
     "Really_delete_the_selected_items_": {
-        "message": "Seçili öğelerin tamamını gerçekten silmek istiyor musunuz?"
+        "message": "Seçilen öğeleri gerçekten silmek istiyor musunuz?"
     },
     "Really_factory_reset_the_selected_items_": {
-        "message": "Seçili öğelerin tamamını fabrika ayarlarına sıfırlamak istiyor musunuz?"
+        "message": "Seçili öğeleri fabrika ayarlarına sıfırlamak mı istiyorsun?"
     },
     "Filter_by": {
         "message": "Filtre"
@@ -1255,7 +1263,7 @@
         "message": "Bazı komut dosyaları, bu sayfanın JavaScript ayarları veya bir komut dosyası engelleyicisi tarafından engellenmiş olabilir!"
     },
     "Show_notification": {
-        "message": "Bildirim göster"
+        "message": "Bir bildirim göster"
     },
     "Open_changelog": {
         "message": "Değişim Günlüğünü aç"
@@ -1316,6 +1324,17 @@
     },
     "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
         "message": "Sınırlı çalışma zamanı sunucu izinleri, Tampermonkey özelliklerini bozabilir, örneğin betik güncellemesi, GM_xmlhttpRequest ve diğerleri!"
+    },
+    "Cross_Origin_Request_Permission": {
+        "message": "Kökler Arası İzin Talebi"
+    },
+    "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
+        "message": "Lütfen Tamam'a tıklayarak Tampermonkey'nin şu sunuculara erişmesine izin verin:\n\n$host_list$",
+            "placeholders": {
+              "host_list": {
+                "content": "$1"
+        }
+      }
     },
     "_not_set_": {
         "message": "<ayarlanmadı>"
@@ -1436,7 +1455,7 @@
     },
     "severity_9": {
         "message": "9"
-    },
+	},
     "severity_10": {
         "message": "10 (en az güvenlik)"
     },
