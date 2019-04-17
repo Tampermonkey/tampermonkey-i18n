@@ -335,6 +335,14 @@
       }
     }
   },
+    "This_script_was_executed_0count0_times_but_is_not_active_anymore": {
+    "message": "Цей скрипт був виконаний $count$ разів, але зараз він не активний",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
   "This_script_was_not_executed_yet": {
     "message": "Цей скрипт ще не виконаний"
   },
