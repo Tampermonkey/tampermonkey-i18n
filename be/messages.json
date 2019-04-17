@@ -747,22 +747,22 @@
     }
   },
   "Custom_Linter_Config": {
-    "message": "Custom Linter Config"
+    "message": "Карыстацкая канфігурацыя Linter"
   },
   "You_can_add_your_custom_linter_config_here_": {
-    "message": "You can add your custom linter config here."
+    "message": "Вы можаце дадаць сваю ўласную канфігурацыю Linter тут."
   },
   "Indentation_Width": {
-    "message": "Indentation Width"
+    "message": "Шырыня водступу"
   },
   "Indent_with": {
-    "message": "Indent with"
+    "message": "Водступ з"
   },
   "Tabs": {
-    "message": "Tabs"
+    "message": "Табуляцыі"
   },
   "Spaces": {
-    "message": "Spaces"
+    "message": "Прабелы"
   },
   "TabMode": {
     "message": "TabMode"
