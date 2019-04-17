@@ -480,6 +480,9 @@
     "Show_backups": {
         "message": "Backups anzeigen"
     },
+    "Install_from_URL": {
+        "message": "Installation via URL"
+    },
     "Delete": {
         "message": "Löschen"
     },

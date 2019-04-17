@@ -546,6 +546,9 @@
   "Show_backups": {
     "message": "Show backups"
   },
+  "Install_from_URL": {
+    "message": "Install from URL"
+  },
   "Delete": {
     "message": "Delete"
   },
