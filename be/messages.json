@@ -235,40 +235,40 @@
     "message": "Спытаць, калі невядома"
   },
   "Always_ask": {
-    "message": "Always ask"
+    "message": "Заўсёды пытацца"
   },
   "Casual": {
-    "message": "Casual"
+    "message": "Выпадкова"
   },
   "Allow_once": {
-    "message": "Allow once"
+    "message": "Дазволіць адзін раз"
   },
   "Temporarily_allow": {
-    "message": "Temporarily allow"
+    "message": "Часова дазволіць"
   },
   "Always_allow": {
-    "message": "Always allow"
+    "message": "Заўсёды дазваляць"
   },
   "Always_allow_domain": {
-    "message": "Always allow domain"
+    "message": "Заўсёды дазваляць дамену"
   },
   "Always_allow_all_domains": {
-    "message": "Always allow all domains"
+    "message": "Заўсёды дазваляць для ўсіх даменаў"
   },
   "Forbid_once": {
-      "message": "Forbid once"
+      "message": "Забараніць адзін раз"
   },
   "Always_forbid": {
-      "message": "Always forbid"
+      "message": "Заўсёды забараняць"
   },
   "Always_forbid_domain": {
-      "message": "Always forbid domain"
+      "message": "Заўсёды забараняць дамену"
   },
   "Dont_ask_again": {
-      "message": "Don't ask again"
+      "message": "Больш не пытацца"
   },
   "Focus_tab": {
-    "message": "Focus source tab"
+    "message": "Сфакусавацца на ўкладцы крыніцы"
   },
   "Skip_timeout__0seconds0_seconds_": {
     "message": "Skip timeout ($seconds$ seconds)",
