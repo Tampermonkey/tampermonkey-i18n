@@ -562,22 +562,22 @@
     "message": "Адзін або некалькі параметраў сумяшчальнасці ўстаноўлены. Вам варта іх паглядзець."
   },
   "This_script_has_full_web_access": {
-    "message": "This script has full internet access."
+    "message": "Гэты скрыпт мае поўны доступ у інтэрнэт."
   },
   "This_is_a_system_script": {
-    "message": "This is a system script."
+    "message": "Гэта сістэмны скрыпт."
   },
   "This_is_a_chrome_extension": {
-    "message": "This is a browser extension"
+    "message": "Гэта пашырэнне для браўзэра"
   },
   "This_script_runs_in_Chrome_mode": {
-    "message": "This script runs in Chrome mode"
+    "message": "Гэты скрыпт працуе ў рэжыме Chrome"
   },
   "This_is_a_userscript": {
-    "message": "This is a userscript written in Javascript"
+    "message": "Гэта карыстацкі скрыпт, напісаны на Javascript"
   },
   "Really_import_0name0__": {
-    "message": "Do you really want to import the native script '$name$'?",
+    "message": "Вы сапраўды хочаце імпартаваць свой уласны скрыпт '$name$'?",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -585,7 +585,7 @@
     }
   },
   "Really_delete_0name0__": {
-    "message": "Do you really want to delete '$name$'?",
+    "message": "Вы сапраўды жадаеце выдаліць '$name$'?",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -593,19 +593,19 @@
     }
   },
   "This_script_has_access_to_webpage_scripts": {
-    "message": "This item has full access to the webpage."
+    "message": "Гэты скрыпт мае поўны доступ да старонкі."
   },
   "Utilities": {
-    "message": "Utilities"
+    "message": "Утыліты"
   },
   "This_script_uses_uW_gm_api_": {
-    "message": "This script uses a part of Greasemonkey 10 API (unsafeWindow.gmonkey)\nthat is not supported by Tampermonkey nor any other alternative script handler."
+    "message": "Гэты скрыпт выкарыстоўвае частка Greasemonkey 10 API (unsafeWindow.gmonkey)\nякая не падтрымліваецца ні Tampermonkey, ні любым іншым альтэрнатыўным апрацоўшчыкам скрыптоў."
   },
   "some_secs": {
-    "message": "some"
+    "message": "некаторы"
   },
   "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
-    "message": "CONFLICT:\nThis script was modified by another tab $t$ second(s) ago!",
+    "message": "КАНФЛІКТ: Гэты сцэнар быў зменены на іншы ўкладцы '$t$' секунд(ы) таму!",
     "placeholders": {
       "t": {
         "content": "$1"
@@ -613,16 +613,16 @@
     }
   },
   "Enabled": {
-    "message": "Enabled"
+    "message": "Уключаны"
   },
   "Disabled": {
-    "message": "Disabled"
+    "message": "Адключаны"
   },
   "Unable_to_parse_this_": {
-    "message": "Unable to parse this! :("
+    "message": "Не ўдаецца прааналізаваць гэта! :("
   },
   "Unable_to_parse_0name0": {
-    "message": "Unable to parse $name$",
+    "message": "Немагчыма разабраць $name$",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -630,13 +630,13 @@
     }
   },
   "No_backups_found": {
-    "message": "No backups found"
+    "message": "Рэзервовых копій не знойдзена"
   },
   "An_error_occured_during_import_": {
-    "message": "An error occurred during import."
+    "message": "Адбылася памылка падчас імпарту."
   },
   "Export": {
-    "message": "Export"
+    "message": "Экспарт"
   },
   "TextArea": {
     "message": "TextArea"
