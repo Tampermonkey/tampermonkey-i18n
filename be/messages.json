@@ -344,10 +344,10 @@
     }
   },
   "This_script_was_not_executed_yet": {
-    "message": "This script was not executed yet"
+    "message": "Гэты скрыпт яшчэ не быў выкананы"
   },
   "Exclude_0domain0": {
-    "message": "Exclude $domain$",
+    "message": "Дадаць у выключэння $domain$",
     "placeholders": {
       "domain": {
         "content": "$1"
@@ -355,13 +355,13 @@
     }
   },
   "Check_for_userscripts_updates": {
-    "message": "Check for userscript updates"
+    "message": "Праверыць абнаўлення скрыптоў"
   },
   "Waiting_for_sync_to_finish": {
-    "message": "Waiting for sync to finish"
+    "message": "Чакаем канчатак сінхранізацыі"
   },
   "0count0_changes_imported": {
-    "message": "$count$ change(s) imported",
+    "message": "$count$ змены імпартаваныя",
     "placeholders": {
       "count": {
         "content": "$1"
@@ -369,7 +369,7 @@
     }
   },
   "0count0_changes_exported": {
-    "message": "$count$ change(s) exported",
+    "message": "$count$ змены экспартаваныя",
     "placeholders": {
       "count": {
         "content": "$1"
