@@ -407,64 +407,64 @@
     "message": "Устаноўленыя скрыпты"
   },
   "No_script_is_installed": {
-    "message": "No script is installed"
+    "message": "Скрыпты не ўстаноўлены"
   },
   "Get_some_scripts___": {
-    "message": "Get some scripts..."
+    "message": "Дадаць скрыпты..."
   },
   "New_userscript": {
-    "message": "<New userscript>"
+    "message": "<Новы скрыпт>"
   },
   "Help": {
-    "message": "Help"
+    "message": "Дапамога"
   },
   "Changelog": {
-    "message": "Changelog"
+    "message": "Спіс змен"
   },
   "Position_": {
-    "message": "Position"
+    "message": "Пазіцыя"
   },
   "Close": {
-    "message": "Close"
+    "message": "Зачыніць"
   },
   "GM_compat_options_": {
-    "message": "GM/FF compatibility options"
+    "message": "Параметры сумяшчальнасці GreaseMonkey/Firefox"
   },
   "Comment": {
-    "message": "Comment"
+    "message": "Каментар"
   },
   "Details": {
-    "message": "Details"
+    "message": "Падрабязнасць"
   },
   "UUID": {
     "message": "UUID"
   },
   "Apply_compatibility_options_to_required_script_too": {
-    "message": "Apply compatibility options to @require scripts too"
+    "message": "Ўжываць параметры сумяшчальнасці і да @require скрыптам"
   },
   "Fix_wrappedJSObject_property_access": {
-    "message": "Fix wrappedJSObject property access"
+    "message": "Выправіць доступ да ўласцівасці wrappedJSObject"
   },
   "Convert_CDATA_sections_into_a_chrome_compatible_format": {
-    "message": "Convert CDATA sections into a browser compatible format"
+    "message": "Канвертаваць раздзелы CDATA ў фармат, сумяшчальны з браўзэрам"
   },
   "Fix_for_var_in_statements": {
-    "message": "Fix 'for (var j in x)' statements"
+    "message": "Выпраўляць выразы 'for (var j in x)'"
   },
   "Replace_for_each_statements": {
-    "message": "Replace 'for each' statements"
+    "message": "Замяняць выразы 'for each'"
   },
   "Convert_Array_Assignements": {
-    "message": "Convert [blub, bla] = s.split(':') statements"
+    "message": "Канвертаваць [blub, bla] = s.split(':') выразы"
   },
   "Add_toSource_function_to_Object_Prototype": {
-    "message": "Add compatibility functions to Object and Array"
+    "message": "Дадаць функцыі сумяшчальнасці для Object і Array"
   },
   "Run_at": {
-    "message": "Run at"
+    "message": "Запускаць у"
   },
   "Update_URL_": {
-    "message": "Update URL"
+    "message": "URL абнаўленне"
   },
   "Save": {
     "message": "Save"
