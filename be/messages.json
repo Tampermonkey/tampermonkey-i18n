@@ -792,16 +792,16 @@
     "message": "Ананімная статыстыка"
   },
   "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-    "message": "Дозволити Tampermonkey збирати анонімну статистику за допомогою Google Analytics. Це допомагає мені поліпшити Tampermonkey і визначити, на яких критеріях я повинен зосередити свій розвиток. Просто вимкніть це, якщо вам не подобається."
+    "message": "Дазволіць Tampermonkey збіраць ананімную статыстыку з дапамогай Google Analytics. Гэта дапамагае мне палепшыць Tampermonkey і вызначыць, на якіх крытэрах я павінен засяродзіць сваё развіццё. Проста адключыце гэта, калі вам не падабаецца."
   },
   "Dont_ask_me_for_simple_script_updates": {
-    "message": "Не питати мене при невеликих змінах в скрипті"
+    "message": "Не пытацца мяне пры невялікіх зменах у скрыпце"
   },
   "Hide_notification_after": {
-    "message": "Приховувати повідомлення через"
+    "message": "Хаваць апавяшчэння праз"
   },
   "Today": {
-    "message": "Сьогодні"
+    "message": "Сёння"
   },
   "15_Seconds": {
     "message": "15 секунд"
@@ -810,28 +810,28 @@
     "message": "30 секунд"
   },
   "1_Minute": {
-    "message": "1 хвилину"
+    "message": "1 хвіліну"
   },
   "5_Minutes": {
-    "message": "5 хвилин"
+    "message": "5 хвілін"
   },
   "1_Hour": {
-    "message": "1 година"
+    "message": "1 гадзіну"
   },
   "Enable_Editor": {
-    "message": "Включити розширений редактор"
+    "message": "Уключыць пашыраны рэдактар"
   },
   "Appearance": {
-    "message": "Зовнішній вигляд"
+    "message": "Знешні выгляд"
   },
   "Security": {
-    "message": "Безпека"
+    "message": "Бяспека"
   },
   "Downloads": {
-    "message": "Завантаження"
+    "message": "Загрузкі"
   },
   "Download_Mode": {
-    "message": "Режим завантаження"
+    "message": "Рэжым загрузкі"
   },
   "Browser_API": {
     "message": "API браўзэра"
