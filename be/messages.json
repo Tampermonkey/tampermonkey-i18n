@@ -500,13 +500,13 @@
     "message": "Замяніць?"
   },
   "Stop": {
-    "message": "Stop"
+    "message": "Стоп"
   },
   "There_are_unsaved_changed_": {
-    "message": "There are unsaved changes.\nDo you really want to close the editor?"
+    "message": "Засталіся незахаваныя змены.\nВы сапраўды жадаеце зачыніць рэдактар?"
   },
   "Do_you_really_want_to_store_fixed_code_": {
-    "message": "The Option '$option$' is enabled!\n\nDo you really want to store the fixed source?",
+    "message": "Опцыя '$option$' ўключана!\n\nВы сапраўды жадаеце захаваць змены ў кодзе?",
     "placeholders": {
       "option": {
         "content": "$1"
@@ -514,37 +514,37 @@
     }
   },
   "Really_reset_all_changes_": {
-    "message": "Really reset all changes?"
+    "message": "Вы сапраўды жадаеце адмяніць усе змены?"
   },
   "Please_wait___": {
-    "message": "Please wait..."
+    "message": "Калі ласка, пачакайце..."
   },
   "Edit": {
-    "message": "Edit"
+    "message": "Рэдагаваць"
   },
   "Sites": {
-    "message": "Sites"
+    "message": "Сайты"
   },
   "Sort": {
-    "message": "Sort"
+    "message": "Сартаванне"
   },
   "Actions": {
-    "message": "Actions"
+    "message": "Дзеянні"
   },
   "Action": {
-    "message": "Action"
+    "message": "Дзеянне"
   },
   "Please_select_a_file": {
-    "message": "Please select a file"
+    "message": "Калі ласка, абярыце файл"
   },
   "Cloud": {
-    "message": "Cloud"
+    "message": "Воблака"
   },
   "Import": {
-    "message": "Import"
+    "message": "Імпарт"
   },
   "Show_backups": {
-    "message": "Show backups"
+    "message": "Паказаць рэзервовыя копіі"
   },
   "Delete": {
     "message": "Delete"
