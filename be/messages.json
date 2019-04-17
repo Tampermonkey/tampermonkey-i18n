@@ -308,7 +308,7 @@
     "message": "Абнаўленняў не знойдзена, прабачце!"
   },
   "Unknown_method_0name0": {
-    "message": "Unknown method $name$",
+    "message": "Невядомы метад $name$",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -316,19 +316,19 @@
     }
   },
   "No_script_is_running": {
-    "message": "No script is running"
+    "message": "Скрыпт не запушчаны"
   },
   "Add_new_script___": {
-    "message": "Create a new script..."
+    "message": "Стварыць новы скрыпт..."
   },
   "Get_new_scripts___": {
-    "message": "Find new scripts..."
+    "message": "Знайсці новыя скрыпты..."
   },
   "This_script_was_deleted": {
-    "message": "This script was deleted"
+    "message": "Гэты скрыпт быў выдалены"
   },
   "This_script_was_executed_0count0_times": {
-    "message": "This script was executed $count$ time(s)",
+    "message": "Гэты скрыпт быў выкананы $count$ адзін раз",
     "placeholders": {
       "count": {
         "content": "$1"
@@ -336,7 +336,7 @@
     }
   },
   "This_script_was_executed_0count0_times_but_is_not_active_anymore": {
-    "message": "This script was executed $count$ time(s) but is not active anymore",
+    "message": "Гэты скрыпт быў выкананы $ count $ разоў(ы), але цяпер ён не актыўны",
     "placeholders": {
       "count": {
         "content": "$1"
