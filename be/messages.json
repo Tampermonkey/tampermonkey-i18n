@@ -377,34 +377,34 @@
     }
   },
   "Sync_is_running": {
-    "message": "Sync is running"
+    "message": "Сінхранізацыя запушчана"
   },
   "Sync_finished": {
-    "message": "Sync finished"
+    "message": "Сінхранізацыя завершана"
   },
   "Settings": {
-    "message": "Settings"
+    "message": "Наладжваньне"
   },
   "Debug_scripts": {
-    "message": "Debug scripts"
+    "message": "Адладка скрыптоў"
   },
   "Show_fixed_source": {
-    "message": "Show fixed source"
+    "message": "Паказваць змены ў кодзе"
   },
   "LogLevel": {
-    "message": "Logging Level"
+    "message": "Ўзровень вядзення часопіса"
   },
   "Trace": {
-    "message": "Trace"
+    "message": "Адсочваць"
   },
   "Verbose": {
-    "message": "Verbose"
+    "message": "Шматслоўны"
   },
   "Debug": {
-    "message": "Debug"
+    "message": "Наладка"
   },
   "Installed_userscripts": {
-    "message": "Installed userscripts"
+    "message": "Устаноўленыя скрыпты"
   },
   "No_script_is_installed": {
     "message": "No script is installed"
