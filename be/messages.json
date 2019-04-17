@@ -129,13 +129,13 @@
     "message": "Паходжанне гэтага скрыпту вызначыць немагчыма.\nАльбо ён быў устаноўлены зламысным трэцяй асобай для крадзяжу вашых асабістых дадзеных, альбо для нейкіх базавых налад браўзэра, ваша аперацыйная сістэма або абсталяванне змяніліся.\nГэтая мадыфікацыя дазволіць гэта!"
   },
   "This_script_does_not_provide_any__include_information_": {
-    "message": "This script does not provide any @include information."
+    "message": "Гэты скрыпт не ўтрымлівае @include выразаў."
   },
   "All_script_settings_will_be_reset_": {
-    "message": "All script settings will be reset!"
+    "message": "Усе налады скрыпту будуць скінутыя!"
   },
   "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
-    "message": "The update url has changed from:\n    '$oldurl$'\n    to:\n    '$newurl$'\n",
+    "message": "URL-адрас абнаўлення змяніўся з:\n    '$oldurl$'\n    на:\n    '$newurl$'\n",
     "placeholders": {
       "oldurl": {
         "content": "$1"
@@ -146,16 +146,16 @@
     }
   },
   "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
-    "message": "At least one @include, @match or @exclude statement was changed."
+    "message": "Як мінімум адно з выразаў @include, @match або @exclude было зменена."
   },
   "At_least_one_new_connect_statement_was_added_": {
-     "message": "At least one new @connect statement was added."
+     "message": "Быў дададзены, як мінімум адзін новы аператар @connect."
   },
   "Attention_Can_not_display_all_includes_": {
-    "message": "Attention: The include list was shortened.\nPlease check it manually!"
+    "message": "Увага: спіс уключэнняў быў скарочаны.\nПраверце яго ўручную!"
   },
   "Attention_Can_not_display_all_excludes_": {
-    "message": "Attention: The exclude list was shortened.\nPlease check it manually!"
+    "message": "Увага: спіс выключэнняў быў скарочаны.\nПраверце яго ўручную!"
   },
   "Include_s__": {
     "message": "Include(s)"
@@ -164,7 +164,7 @@
     "message": "Exclude(s)"
   },
   "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-    "message": "A recheck of the GreaseMonkey/FF compatibility options may be required in order to run this script."
+    "message": "Для запуску гэтага сцэнарыя можа спатрэбіцца паўторная праверка параметраў сумяшчальнасці GreaseMonkey/Firefox."
   },
   "Automatically_added_user_includes_for_compatibility_reasons_": {
     "message": "Some user includes were automatically added for compatibility reasons!"
