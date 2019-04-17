@@ -167,31 +167,31 @@
     "message": "Для запуску гэтага сцэнарыя можа спатрэбіцца паўторная праверка параметраў сумяшчальнасці GreaseMonkey/Firefox."
   },
   "Automatically_added_user_includes_for_compatibility_reasons_": {
-    "message": "Some user includes were automatically added for compatibility reasons!"
+    "message": "Некаторыя карыстацкія @include'я будуць ужытыя аўтаматычна для забеспячэння сумяшчальнасці!"
   },
   "Author": {
-    "message": "Author"
+    "message": "Аўтар"
   },
   "Description": {
-    "message": "Description"
+    "message": "Апісанне"
   },
   "Source": {
-    "message": "Source"
+    "message": "Крыніца"
   },
   "Source_Code": {
-    "message": "Source Code"
+    "message": "Зыходны код"
   },
   "Changes": {
-    "message": "Changes"
+    "message": "Змена"
   },
   "The_diff_for_this_script_is_too_large_to_render": {
-    "message": "The diff for this script is too large to render"
+    "message": "Адрозненні для гэтага скрыпту занадта вялікія для візуалізацыі"
   },
   "Current_Version": {
-    "message": "Current Version"
+    "message": "Бягучая версія"
   },
   "New_Version": {
-    "message": "New Version"
+    "message": "Новая версія"
   },
   "Install": {
     "message": "Install"
