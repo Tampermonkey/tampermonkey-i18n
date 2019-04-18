@@ -891,13 +891,13 @@
     "message": "Імгненны"
   },
   "This_page_is_blacklisted_at_the_security_settings": {
-    "message": "Blacklisted by security settings"
+    "message": "Чорны спіс па параметрах бяспекі"
   },
   "Update_Notification": {
-    "message": "Show TM update notification"
+    "message": "Паказаць апавяшчэнне аб абнаўленні Tampermonkey"
   },
   "Favicon_Service": {
-    "message": "Favicon Service"
+    "message": "Favicon-сэрвіс"
   },
   "Google": {
     "message": "Google"
@@ -906,10 +906,10 @@
     "message": "DuckDuckGo"
   },
   "Warning_unsafe_site_warnings_might_appear_": {
-    "message": "Warning: unsafe site warnings might appear if a script includes potentially harmfull URLs."
+    "message": "Увага: могуць з'яўляцца папярэджання аб ненадзейным сайце, калі скрыпт змяшчае патэнцыйна небяспечныя URL"
   },
   "Unable_to_load_script_from_url_0url0": {
-    "message": "Unable to load script from url: \n $url$",
+    "message": "Немагчыма загрузіць скрыпт з URL: \n $url$",
     "placeholders": {
       "url": {
         "content": "$1"
@@ -917,52 +917,52 @@
     }
   },
   "Click_here_to_install_it_": {
-    "message": "Click here to install it."
+    "message": "Націсніце тут, каб усталяваць яго."
   },
   "Check_disabled_scripts": {
-    "message": "Update disabled scripts"
+    "message": "Абнаўляць адключаныя скрыпты"
   },
   "Homepage": {
-    "message": "Homepage"
+    "message": "Хатняя старонка"
   },
   "Last_updated": {
-    "message": "Last updated"
+    "message": "Апошняе абнаўленне"
   },
   "User_modified": {
-    "message": "Modified"
+    "message": "Змяняць"
   },
   "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
-    "message": "This external resource will not auto-update! Please delete it in order to enable updates again."
+    "message": "Гэты знешні рэсурс не будзе аўтаматычна абнаўляцца! Калі ласка, выдаліце яго, каб зноў ўключыць абнаўлення."
   },
   "MIME_Type": {
-    "message": "MIME Type"
+    "message": "MIME-тып"
   },
   "Version": {
-    "message": "Version"
+    "message": "Версія"
   },
   "Type": {
-    "message": "Type"
+    "message": "Тып"
   },
   "Updates": {
-    "message": "Updates"
+    "message": "Абнаўленне"
   },
   "Check_for_Updates": {
-    "message": "Check for updates"
+    "message": "Правяраць наяўнасць абнаўлення"
   },
   "Update_check_is_disabled": {
-    "message": "Script update check is disabled or not possible"
+    "message": "Праверка абнаўлення скрыпту адключаная або немагчымая"
   },
   "Click_here_to_move_this_script": {
-    "message": "Click here to move this script"
+    "message": "Націсніце тут, каб перамясціць гэты скрыпт"
   },
   "overwritten_by_user": {
-    "message": "overwritten by user setting"
+    "message": "перазапісвальны наладамі карыстальніка"
   },
   "Report_a_bug": {
-    "message": "Report a bug"
+    "message": "Паведаміць пра памылку"
   },
   "A_reload_is_required": {
-    "message": "A reload is required: \nAll unsaved changes will be lost!"
+    "message": "Патрабуецца перазагрузка: \nУсе незахаваных змены будуць страчаныя!"
   },
   "Save_to_disk": {
     "message": "Save to disk"
