@@ -1278,7 +1278,7 @@
     "message": "Для работы функции импорта скриптов, Tampermonkey должен знать абсолютный путь к папке профиля браузера.\n\nНажмите здесь, чтобы посетить FAQ!"
   },
   "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-    "message": "Tampermonkey необходим доступ к файловым URI для работы импорта скрипта.\n\n\n\nНажмите здесь, чтобы посетить FAQ!"
+    "message": "Tampermonkey необходим доступ к файловым URI для работы импорта скрипта.\n\nНажмите здесь, чтобы посетить FAQ, чтобы узнать, как вы можете предоставить это разрешение!"
   },
   "Tampermonkey_has_no_file_access_permission_": {
     "message": "У Tampermonkey нет прав доступа к локальным файлам!"
