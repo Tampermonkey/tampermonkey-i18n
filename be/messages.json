@@ -1532,58 +1532,58 @@
     "message": "Аб'яднаць радкі"
   },
   "Insert_Line_Before": {
-    "message": "Insert Line Before"
+    "message": "Уставіць радок перад"
   },
   "Insert_Line_After": {
-    "message": "Insert Line After"
+    "message": "Уставіць радок пасля"
   },
   "Text": {
-    "message": "Text"
+    "message": "Тэкст"
   },
   "Upper_Case": {
-    "message": "Upper Case"
+    "message": "Верхні рэгістр"
   },
   "Lower_Case": {
-    "message": "Lower Case"
+    "message": "Ніжні рэгістр"
   },
   "Delete_Line_Left": {
-    "message": "Delete Line Left"
+    "message": "Выдаліць частка радка злева"
   },
   "Delete_Line_Right": {
-    "message": "Delete Line Right"
+    "message": "Выдаліць частка радка справа"
   },
   "Delete_to_Previous_Word_Boundary": {
-    "message": "Delete to Previous Word Boundary"
+    "message": "Выдаліць да мяжы папярэдняга слова"
   },
   "Delete_to_Next_Word_Boundary": {
-    "message": "Delete to Next Word Boundary"
+    "message": "Выдаліць да мяжы наступнага слова"
   },
   "Transpose": {
-    "message": "Transpose"
+    "message": "Транспонировать"
   },
   "Line_Case_Insensitive": {
-    "message": "Line Case Insensitive"
+    "message": "Лініі без уліку рэгістра"
   },
   "Folding": {
-    "message": "Folding"
+    "message": "Згортванне"
   },
   "Fold": {
-    "message": "Fold"
+    "message": "Згарнуць"
   },
   "Unfold": {
-    "message": "Unfold"
+    "message": "Разгарнуць"
   },
   "Fold_All": {
-    "message": "Fold All"
+    "message": "Згарнуць усё"
   },
   "Unfold_All": {
-    "message": "Unfold All"
+    "message": "Разгарнуць усё"
   },
   "Sublime_Mark": {
-    "message": "Sublime Mark"
+    "message": "Узнёслы знак"
   },
   "Set_Sublime_Mark": {
-    "message": "Set Sublime Mark"
+    "message": "Ўсталяваць ўзнёслы знак"
   },
   "Select_to_Sublime_Mark": {
     "message": "Select to Sublime Mark"
