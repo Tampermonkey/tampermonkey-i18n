@@ -1409,28 +1409,28 @@
     "message": "Ручной чорны спіс карыстацкіх скрыптоў і @require"
   },
   "This_script_is_blacklisted_": {
-    "message": "This script is blacklisted!"
+    "message": "Гэты скрыпт у чорным спісе!"
   },
   "Report_an_issue_to_the_script_hoster_": {
-    "message": "Report abuse.\n(A user account may be required)"
+    "message": "Паведаміць аб парушэнні.\n(Можа спатрэбіцца карыстацкі рахунак)"
   },
   "Blacklist_Severity": {
-    "message": "Block From Severity Level"
+    "message": "Блакаваць ад ўзроўню сур'ёзнасці"
   },
   "Action_Menu": {
-    "message": "Action Menu"
+    "message": "Меню дзеянняў"
   },
   "Hide_disabled_scripts": {
-    "message": "Hide disabled scripts"
+    "message": "Схаваць адключаныя скрыпты"
   },
   "Columns": {
-    "message": "Columns"
+    "message": "Калонкі"
   },
   "Script_order": {
-    "message": "Script order"
+    "message": "Парадак скрыптоў"
   },
   "severity_1": {
-    "message": "1 (most secure)"
+    "message": "1 (найбольш бяспечны)"
   },
   "severity_2": {
     "message": "2"
@@ -1457,37 +1457,37 @@
     "message": "9"
   },
   "severity_10": {
-    "message": "10 (least secure)"
+    "message": "10 (найменш бяспечны)"
   },
   "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
-    "message": "Your language is not supported?\nClick here to get instructions how to translate Tampermonkey?"
+    "message": "Ваша мова не падтрымліваецца?\nНацісніце тут, каб атрымаць інструкцыі, як перавесці Tampermonkey?"
   },
   "Default": {
-    "message": "Default"
+    "message": "Па змаўчанні"
   },
   "Default_Dark": {
-    "message": "Default - Dark"
+    "message": "Па змаўчанні - Цёмная"
   },
   "Ok": {
-    "message": "Ok"
+    "message": "Ок"
   },
   "Developer": {
-    "message": "Developer"
+    "message": "Распрацоўшчык"
   },
   "Templates": {
-     "message": "Templates"
+     "message": "Шаблоны"
   },
   "Undo": {
-    "message": "Undo"
+    "message": "Адмяніць"
   },
   "Redo": {
-    "message": "Redo"
+    "message": "Паўтарыць"
   },
   "Cut": {
-    "message": "Cut"
+    "message": "Выразаць"
   },
   "Copy": {
-    "message": "Copy"
+    "message": "Капіяваць"
   },
   "Paste": {
     "message": "Paste"
