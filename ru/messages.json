@@ -1287,7 +1287,7 @@
     "message": "Все настроено правильно."
   },
   "TM_has_access_to_file_URIs": {
-    "message": "Tampermonkey имеет доступ к файлам URI. :)"
+    "message": "Tampermonkey имеет доступ к файлам URIs. :)"
   },
   "Browser_Profile_Path": {
     "message": "Путь к профилю браузера"
