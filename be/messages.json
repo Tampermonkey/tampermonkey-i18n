@@ -546,6 +546,9 @@
   "Show_backups": {
     "message": "Паказаць рэзервовыя копіі"
   },
+"Install_from_URL": {
+	"message": "Ўстаноўка праз URL"
+    },
   "Delete": {
     "message": "Выдаліць"
   },

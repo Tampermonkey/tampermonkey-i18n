@@ -546,6 +546,9 @@
   "Show_backups": {
     "message": "Показати резервні копії"
   },
+"Install_from_URL": {
+	"message": "Установка через URL"
+    },
   "Delete": {
     "message": "Видалити"
   },
