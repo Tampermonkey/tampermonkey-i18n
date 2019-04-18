@@ -837,22 +837,22 @@
     "message": "API браўзэра"
   },
   "The_Browser_API_mode_requires_a_special_permission_": {
-    "message": "The Browser API mode requires a special permission."
+    "message": "Для доступу да API браўзэра патрабуецца спецыяльны дазвол."
   },
   "Whitelisted_File_Extensions": {
-    "message": "Whitelisted File Extensions"
+    "message": "Белы спіс пашырэньні файлаў"
   },
   "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
-    "message": "Only files with these extensions can be saved to harddisk.\nBe careful to not allow file extensions that represent executables at your operating system!"
+    "message": "Толькі файлы з гэтымі пашырэннямі могуць быць захаваны на жорсткі дыск.\nБудзьце асцярожныя і не дазваляйце пашырэння выкананых ў вашай АС файлаў!"
   },
   "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
-    "message": "Your whitelist seems to include executable files!\nThis means your userscripts may download malware or spyware to your harddisk!!"
+    "message": "Ваш белы спіс змяшчае выкананыя файлы!\nГэта азначае, што вашыя прыстасаваныя скрыпты могуць загружаць шкоднасныя або шпіёнскія праграмы на ваш жорсткі дыск!"
   },
   "Browser_API_Downloads": {
-    "message": "Browser API Downloads"
+    "message": "API загрузак браўзэра"
   },
   "Click_here_to_allow_TM_to_start_downloads": {
-    "message": "Click OK to allow Tampermonkey to start instant downloads."
+    "message": "Націсніце ОК, каб дазволіць Tampermonkey загружаць файлы без запыту."
   },
   "Page_Filter_Mode": {
     "message": "Page Filter Mode"
