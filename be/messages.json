@@ -1104,64 +1104,64 @@
     "message": "Прыстасаваныя @excludes"
   },
   "Original_domain_whitelist": {
-      "message": "Original domain whitelist"
+      "message": "Арыгінальны белы спіс даменаў"
   },
   "User_domain_whitelist": {
-      "message": "User domain whitelist"
+      "message": "Карыстацкі белы спіс даменаў"
   },
   "Temporary_domain_whitelist": {
-      "message": "Temporary domain whitelist"
+      "message": "Часовы белы спіс даменаў"
   },
   "User_domain_blacklist": {
-      "message": "User domain blacklist"
+      "message": "Карыстацкі чорны спіс даменаў"
   },
   "XHR_Security": {
-      "message": "XHR Security"
+      "message": "Бяспека XHR"
   },
   "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
-    "message": "An internal error occurred. If this problem persists even after a restart of the browser, please press OK and report this issue at the forum.\n\nDo you want to visit the Tampermonkey forum?"
+    "message": "Узнікла ўнутраная памылка. Калі праблема не ўстараняецца нават пасля перазапуску браўзэра, націсніце ОК і паведаміце аб гэтай праблеме на форуме.\n\nВы хочаце наведаць форум Tampermonkey?"
   },
   "Script_Sync": {
-    "message": "Script Sync"
+    "message": "Сінхранізацыя скрыптоў"
   },
   "Enable_Script_Sync": {
-    "message": "Enable Script Sync"
+    "message": "Уключыць сінхранізацыю скрыптоў"
   },
   "Synchronize_your_scripts_across_browsers_and_operation_systems": {
-    "message": "Synchronize your scripts across browsers and operation systems"
+    "message": "Сінхранізацыя скрыптоў паміж браўзэрамі і аперацыйнымі сістэмамі"
   },
   "Sync_Type": {
-    "message": "Type"
+    "message": "Тып"
   },
   "Imported": {
-    "message": "Imported"
+    "message": "Імпартаваны"
   },
   "Allow_headers_to_be_modified_by_scripts": {
-    "message": "Allow HTTP headers to be modified by scripts"
+    "message": "Дазволіць змена загалоўкаў HTTP скрыптамі"
   },
   "Script_local_files_access": {
-    "message": "Allow scripts to access local files"
+    "message": "Дазволіць скрыптам доступ да лакальных файлаў"
   },
   "require_and_resource": {
-    "message": "Externals (@require and @resource)"
+    "message": "Знешні (@require i @resource)"
   },
   "All_local_files": {
-    "message": "All local files"
+    "message": "Усе лакальныя файлы"
   },
   "Allow_communication_with_cooperate_pages": {
-    "message": "Allow communication with cooperate pages"
+    "message": "Дазволіць ўзаемадзеянне са звязанымі старонкамі"
   },
   "Tampermonkey_and_script_version": {
-    "message": "Tampermonkey + script version"
+    "message": "Tampermonkey + версія скрыпту"
   },
   "Tampermonkey_version": {
-    "message": "Tampermonkey version only"
+    "message": "Толькі версія Tampermonkey"
   },
   "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
-    "message": "This option allows the Tampermonkey homepage and some script hosting pages to determine the Tampermonkey version and some basic script information (installed, version, enabled)."
+    "message": "Гэтая опцыя дазваляе хатняй старонцы Tampermonkey і некаторым скрыптам вызначаць версію Tampermonkey і базавую інфармацыю аб скрыптах (якія ўстаноўлены, іх версіі і ці ўключаны яны)."
   },
   "Subresource_Integrity": {
-    "message": "Subresource Integrity"
+    "message": "Пад рэсурсная цэласнасць"
   },
   "Validate_if_supported": {
     "message": "Validate if possible"
