@@ -1063,13 +1063,13 @@
     "message": "Змяняе колькасць бачных параметраў канфігурацыі"
   },
   "Language": {
-    "message": "Language"
+    "message": "Мова"
   },
   "Enter_the_new_rule": {
-    "message": "Enter new rule"
+    "message": "Увядзіце новае правіла"
   },
   "Add_as_0clude0": {
-    "message": "Add as $clude$",
+    "message": "Добавить, как $clude$",
     "placeholders": {
       "clude": {
         "content": "$1"
@@ -1077,31 +1077,31 @@
     }
   },
   "Add": {
-    "message": "Add"
+    "message": "Дадаць"
   },
   "Remove": {
-    "message": "Remove"
+    "message": "Выдаліць"
   },
   "Includes_Excludes": {
     "message": "Includes/Excludes"
   },
   "Original_includes": {
-    "message": "Original includes"
+    "message": "Выкарыстоўваць @includes"
   },
   "Original_matches": {
-    "message": "Original matches"
+    "message": "Выкарыстоўваць @matches"
   },
   "Original_excludes": {
-    "message": "Original excludes"
+    "message": "Выкарыстоўваць @excludes"
   },
   "User_includes": {
-    "message": "User includes"
+    "message": "Прыстасаваныя @includes"
   },
   "User_matches": {
-    "message": "User matches"
+    "message": "Прыстасаваныя @matches"
   },
   "User_excludes": {
-    "message": "User excludes"
+    "message": "Прыстасаваныя @excludes"
   },
   "Original_domain_whitelist": {
       "message": "Original domain whitelist"
