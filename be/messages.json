@@ -1586,28 +1586,28 @@
     "message": "Ўсталяваць ўзнёслы знак"
   },
   "Select_to_Sublime_Mark": {
-    "message": "Select to Sublime Mark"
+    "message": "Выбраць для ўзнёслага знака"
   },
   "Swap_with_Sublime_Mark": {
-    "message": "Swap with Sublime Mark"
+    "message": "Абмен з узнёслым знакам"
   },
   "Delete_to_Sublime_Mark": {
-    "message": "Delete to Sublime Mark"
+    "message": "Выдаліць на узнёслы знак"
   },
   "Yank_Sublime_Mark": {
-    "message": "Yank Sublime Mark"
+    "message": "Маркер выдзялення Yank"
   },
   "Selection": {
-    "message": "Selection"
+    "message": "Выдзяленьне"
   },
   "Incremental_Find": {
-    "message": "Incremental Find"
+    "message": "Інкрыментны пошук"
   },
   "Add_Selection_Above": {
-    "message": "Add Selection Above"
+    "message": "Дадаць вылучэнне вышэй"
   },
   "Add_Selection_Below": {
-    "message": "Add Selection Below"
+    "message": "Дадаць вылучэнне ніжэй"
   },
   "Split_into_Lines": {
     "message": "Split into Lines"
