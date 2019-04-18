@@ -1311,25 +1311,25 @@
     "message": "Выдаліць пашырэнне"
   },
   "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
-    "message": "What action should be done after a native userscript was imported successfully?"
+    "message": "Якія дзеянні варта выканаць пасля паспяховага імпарту карыстацкага скрыпту?"
   },
   "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
-    "message": "When Tampermonkey is updated by your browser it is also re-started. Unfortunately this might break currently running scripts!\n\nSo are you sure that you don't want to be notified of updates?"
+    "message": "Калі Tampermonkey абновіцца, ён будзе адноўленая. Падчас перазапуску скрыпты часова не будуць працаваць!\n\nВы ўпэўненыя, што не хочаце атрымліваць паведамлення аб абнаўленнях?"
   },
   "Operation_completed_successfully": {
-    "message": "Operation completed successfully"
+    "message": "Аперацыя паспяхова завершана"
   },
   "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-    "message": "All modifications are only kept until this incognito session is closed!"
+    "message": "Усе змены захоўваюцца толькі да закрыцця гэтага сеансу інкогніта!"
   },
   "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
-    "message": "Limited runtime host permissions might break some Tampermonkey features like script update, GM_xmlhttpRequest and others!"
+    "message": "Абмежаваныя дазволу хаста падчас выканання могуць парушыць некаторыя функцыі Tampermonkey, такія як абнаўленне скрыпту, GM_xmlhttpRequest і іншыя!"
   },
   "Cross_Origin_Request_Permission": {
-    "message": "Cross Origin Request Permission"
+    "message": "Запыт каранёвага дазволу"
   },
   "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
-    "message": "Please click OK in order to allow Tampermonkey to access the following hosts:\n\n$host_list$",
+    "message": "Калі ласка, націсніце OK, каб Tampermonkey мог атрымаць доступ да наступных хастам:\n\n$host_list$",
     "placeholders": {
       "host_list": {
         "content": "$1"
