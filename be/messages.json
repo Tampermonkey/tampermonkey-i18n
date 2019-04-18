@@ -855,34 +855,34 @@
     "message": "Націсніце ОК, каб дазволіць Tampermonkey загружаць файлы без запыту."
   },
   "Page_Filter_Mode": {
-    "message": "Page Filter Mode"
+    "message": "Рэжым фільтра старонкі"
   },
   "Whitelisted_Pages": {
-    "message": "Whitelisted Pages"
+    "message": "Белы спіс старонак"
   },
   "Blacklisted_Pages": {
-    "message": "Blacklisted Pages"
+    "message": "Чорны спіс старонак"
   },
   "Blacklist": {
-    "message": "Blacklist"
+    "message": "Чорны спіс"
   },
   "Whitelist": {
-    "message": "Whitelist"
+    "message": "Белы спіс"
   },
   "Both": {
-    "message": "Both"
+    "message": "Абодва"
   },
   "Experimental": {
-    "message": "Experimental"
+    "message": "Эксперыментальна"
   },
   "strict_mode": {
-    "message": "strict mode"
+    "message": "Строгі рэжым"
   },
   "Inject_Mode": {
-    "message": "Inject Mode"
+    "message": "Рэжым ўбудавання"
   },
   "Fast": {
-    "message": "Fast"
+    "message": "Хуткі"
   },
   "Normal": {
     "message": "Normal"
