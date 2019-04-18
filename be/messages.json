@@ -1015,52 +1015,52 @@
     "message": "Прыстасаваныя скрыпты"
   },
   "Script_URL_detection": {
-    "message": "Script URL detection"
+    "message": "Вызначэнне URL скрыпту"
   },
   "Install_this_script": {
-    "message": "Install this script"
+    "message": "Ўсталяваць гэты скрыпт"
   },
   "Try_to_install_as_script": {
-    "message": "Try to install as script"
+    "message": "Паспрабуйце ўсталяваць, як скрыпт"
   },
   "New_script_template_": {
-    "message": "New userscript template"
+    "message": "Новы шаблон карыстацкага скрыпту"
   },
   "Icon_badge_info": {
-    "message": "Icon Badge Info"
+    "message": "Значок на панэлі інструментаў"
   },
   "Icon_badge_color": {
-    "message": "Icon Badge Color"
+    "message": "Колер значка"
   },
   "On": {
-    "message": "On"
+    "message": "Уключаны"
   },
   "Off": {
-    "message": "Off"
+    "message": "Адключаны"
   },
   "Running_scripts": {
-    "message": "Running scripts instances"
+    "message": "Колькасць запушчаных скрыптоў"
   },
   "Unique_running_scripts": {
-    "message": "Unique running scripts"
+    "message": "Унікальныя запушчаныя скрыпты"
   },
   "Disabled_scripts": {
-    "message": "Disabled scripts"
+    "message": "Адключаныя скрыпты"
   },
   "Config_Mode": {
-    "message": "Config mode"
+    "message": "Рэжым канфігурацыі"
   },
   "Novice": {
-    "message": "Novice"
+    "message": "Неспрактыкаваны"
   },
   "Beginner": {
-    "message": "Beginner"
+    "message": "Пачатковец"
   },
   "Advanced": {
-    "message": "Advanced"
+    "message": "Прасунуты"
   },
   "Changes_the_number_of_visible_config_options": {
-    "message": "Changes the number of visible config options"
+    "message": "Змяняе колькасць бачных параметраў канфігурацыі"
   },
   "Language": {
     "message": "Language"
