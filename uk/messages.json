@@ -891,7 +891,7 @@
     "message": "Миттєвий"
   },
   "This_page_is_blacklisted_at_the_security_settings": {
-    "message": "У чорному списку настройок безпеки"
+    "message": "Чорний список за параметрами безпеки"
   },
   "Update_Notification": {
     "message": "Показати сповіщення про оновлення Tampermonkey"
