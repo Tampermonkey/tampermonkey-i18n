@@ -1655,36 +1655,36 @@
     "message": "У канец скрыпту"
   },
   "Group_Left": {
-    "message": "Группа слева"
+    "message": "Група слева"
   },
   "Group_Right": {
-    "message": "Group Right"
+    "message": "Група справа"
   },
   "Closing_Bracket": {
-    "message": "Closing Bracket"
+    "message": "Якая зачыняецца дужка"
   },
   "Line_Up": {
-    "message": "Line Up"
+    "message": "На лінію вышэй"
   },
   "Line_Down": {
-    "message": "Line Down"
+    "message": "На лінію ніжэй"
   },
   "Center_Cursor": {
-    "message": "Center Cursor"
+    "message": "Цэнтр курсора"
   },
   "Bookmarks": {
-    "message": "Bookmarks"
+    "message": "Закладкі"
   },
   "Toggle": {
-    "message": "Toggle"
+    "message": "Уключыць/Выключыць"
   },
   "Clear_All": {
-    "message": "Clear All"
+    "message": "Выдаліць усе"
   },
   "Next_Bookmark": {
-    "message": "Next Bookmark"
+    "message": "Наступная закладка"
   },
   "Prev_Bookmark": {
-    "message": "Prev Bookmark"
+    "message": "Папярэдняя закладка"
   }
 }
