@@ -1275,10 +1275,10 @@
     "message": "Нативний"
   },
   "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
-    "message": "Для роботи з функцією імпорту скрипт, Tampermonkey повинен знати aбсолютний шлях до папки профілю браузера.\n\n\nНатисніть тут, щоб відвідати FAQ!"
+    "message": "Для роботи з функцією імпорту скрипт, Tampermonkey повинен знати aбсолютний шлях до папки профілю браузера.\n\nНатисніть тут, щоб відвідати FAQ!"
   },
   "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-    "message": "Tampermonkey необхідний доступ до файлових URI для роботи імпорту скрипта.\n\n\Натисніть тут, щоб відвідати FAQ, щоб дізнатися, як ви можете надати цей дозвіл!"
+    "message": "Tampermonkey необхідний доступ до файлових URI для роботи імпорту скрипта.\n\nНатисніть тут, щоб відвідати FAQ, щоб дізнатися, як ви можете надати цей дозвіл!"
   },
   "Tampermonkey_has_no_file_access_permission_": {
     "message": "Tampermonkey не має прав доступу до локальних файлів!"
