@@ -1337,37 +1337,37 @@
     }
   },
   "_not_set_": {
-    "message": "<not set>"
+    "message": "<не ўсталяваны>"
   },
   "Layout": {
-    "message": "Layout"
+    "message": "Дызайн"
   },
   "Custom_CSS": {
-    "message": "Custom CSS"
+    "message": "Карыстацкі CSS"
   },
   "You_can_add_your_custom_CSS_rules_here_": {
-    "message": "You can add your own CSS rules for the Tampermonkey UI here. In case this breaks something you can get the default layout by appending ?layout=reset to the options page URL."
+    "message": "Вы можаце дадаць свае ўласныя правілы CSS для карыстацкага інтэрфейсу Tampermonkey тут. У выпадку, калі гэта нешта зломіць, перайдзіце да стандартнага афармленню, дадаўшы ?layout=reset да URL."
   },
   "Store_data_in_incognito_mode": {
-    "message": "Store data in incognito mode"
+    "message": "Захоўваць дадзеныя ў рэжыме інкогніта"
   },
   "Temporary": {
-    "message": "Temporary"
+    "message": "Часова"
   },
   "Permanent": {
-    "message": "Permanent"
+    "message": "Пастаянна"
   },
   "Warning": {
-    "message": "Warning"
+    "message": "Папярэджанне"
   },
   "Info": {
-    "message": "Info"
+    "message": "Інфармацыя"
   },
   "Error": {
-    "message": "Error"
+    "message": "Памылка"
   },
   "Externals": {
-    "message": "Externals"
+    "message": "Знешні"
   },
   "Requires": {
     "message": "Requires"
