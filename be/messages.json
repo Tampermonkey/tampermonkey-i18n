@@ -965,25 +965,25 @@
     "message": "Патрабуецца перазагрузка: \nУсе незахаваных змены будуць страчаныя!"
   },
   "Save_to_disk": {
-    "message": "Save to disk"
+    "message": "Захаваць на дыск"
   },
   "Editor_reset": {
-    "message": "Editor reset"
+    "message": "Скінуць змены"
   },
   "Full_reset": {
-    "message": "Factory reset"
+    "message": "Поўны скід"
   },
   "Run_syntax_check": {
-    "message": "Run syntax check"
+    "message": "Запусціць праверку сінтаксісу"
   },
   "No_syntax_errors_were_found_": {
-    "message": "No syntax errors were found."
+    "message": "Сінтаксічных памылак не выяўлена."
   },
   "One_error_or_hint_was_found_": {
-    "message": "One error or hint was found."
+    "message": "Знойдзена адна памылка або папярэджанне."
   },
   "0count0_errors_or_hints_were_found_": {
-    "message": "$count$ errors or hints were found.",
+    "message": "$count$ памылак або папярэджанняў знойдзена.",
     "placeholders": {
       "count": {
         "content": "$1"
