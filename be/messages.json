@@ -1224,61 +1224,61 @@
     "message": "Перазапуск Tampermonkey"
   },
   "This_will_restart_Tampermonkey_Ok_": {
-    "message": "Do you really want to restart Tampermonkey?"
+    "message": "Вы сапраўды хочаце перазапусціць Tampermonkey?"
   },
   "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
-    "message": "Tampermonkey needs to be restarted to make this change apply.\n\nDo you want to continue?"
+    "message": "Tampermonkey неабходна перазапусціць, каб змены ўступілі ў сілу.\n\nВы хочаце працягнуць?"
   },
   "Factory_Reset": {
-    "message": "Factory Reset"
+    "message": "Скід да завадскіх налад"
   },
   "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
-    "message": "Do you really want to remove all scripts and reset all settings?"
+    "message": "Вы сапраўды хочаце выдаліць усе скрыпты і скінуць ўсе налады?"
   },
   "Browser_Sync": {
-    "message": "Browser Sync"
+    "message": "Сінхранізацыя браўзэра"
   },
   "Sync_Reset": {
-    "message": "Sync Reset"
+    "message": "Скід сінхранізацыі"
   },
   "This_will_remove_all_remote_data_from_sync_Ok_": {
-    "message": "Do you really want to remove all data from Sync?"
+    "message": "Вы сапраўды хочаце выдаліць усе дадзеныя з сінхранізацыі?"
   },
   "Enable_autoSave": {
-    "message": "Save content when editor loses focus"
+    "message": "Аўтаматычна захоўваць змесціва, калі рэдактар губляе фокус"
   },
   "Enable_easySave": {
-    "message": "Don't show confirmation dialog on save"
+    "message": "Не паказваць дыялог пацверджання пры захаванні"
   },
   "Add_TM_to_CSP": {
-    "message": "Add Tampermonkey to the site's content security policy (CSP) if there is one"
+    "message": "Дадаць Tampermonkey ў палітыку бяспекі сайта (CSP), калі патрабуецца"
   },
   "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
-    "message": "Tampermonkey might not be able to provide access to the unsafe context (unsafeWindow, page's functions and variables) when this is disabled."
+    "message": "Без гэтай опцыі Tampermonkey можа забараняць доступ да небяспечнага кантэнту (unsafeWindow, функцыі і зменныя старонкі)"
   },
   "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-    "message": "At least one part of this page is listed at the 'forbidden pages' setting!"
+    "message": "Па меншай меры адна частка гэтай старонкі ўказаны ў наладзе 'забароненыя старонкі'!"
   },
   "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
-    "message": "Some scripts might be blocked by the JavaScript settings for this page or a script blocker!"
+    "message": "Некаторыя сцэнары могуць быць заблакаваныя наладамі JavaScript для гэтай старонкі або блакавальнікі сцэнарыяў!"
   },
   "Show_notification": {
-    "message": "Show notification"
+    "message": "Паказаць апавяшчэнне"
   },
   "Open_changelog": {
-    "message": "Open changelog"
+    "message": "Адкрыць спіс змен"
   },
   "No_frames": {
-    "message": "Run only in top frame"
+    "message": "Запусціць толькі ў верхнім фрэйме"
   },
   "Native": {
-    "message": "Native"
+    "message": "Родны"
   },
   "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
-    "message": "Tampermonkey needs to know the absolute path to your browser profile folder to make the script import function work.\n\nClick here to visit the FAQ to learn where this can be found!"
+    "message": "Для працы функцыі імпарту скрыптоў, Tampermonkey павінен ведаць абсалютны шлях да тэчцы профілю браўзэра.\n\nНацісніце тут, каб наведаць FAQ!"
   },
   "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-    "message": "Tampermonkey needs access to file URIs to make the script import work.\n\nClick here to visit the FAQ to learn how you can grant that permission!"
+    "message": "Tampermonkey неабходны доступ да файлавых URI для працы імпарту скрыпту.\n\nНацісніце тут, каб наведаць FAQ, каб даведацца, як вы можаце даць гэты дазвол!"
   },
   "Tampermonkey_has_no_file_access_permission_": {
     "message": "Tampermonkey has no permission to access local files!"
