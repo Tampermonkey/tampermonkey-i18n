@@ -891,7 +891,7 @@
     "message": "Мгновенный"
   },
   "This_page_is_blacklisted_at_the_security_settings": {
-    "message": "В черном списке настроек безопасности"
+    "message": "Черный список по параметрам безопасности"
   },
   "Update_Notification": {
     "message": "Показать уведомление об обновлении Tampermonkey"
