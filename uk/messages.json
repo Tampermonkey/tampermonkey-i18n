@@ -1325,6 +1325,17 @@
   "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
     "message": "Обмежені дозволи на хост під час виконання можуть порушити деякі функції Tampermonkey, такі як оновлення сценарію, GM_xmlhttpRequest та інші!"
   },
+  "Cross_Origin_Request_Permission": {
+    "message": "Запрос корневого разрешения"
+  },
+  "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
+    "message": "Пожалуйста, нажмите OK, чтобы Tampermonkey мог получить доступ к следующим хостам:\n\n$host_list$",
+    "placeholders": {
+      "host_list": {
+        "content": "$1"
+      }
+    }
+  },
   "_not_set_": {
     "message": "<не встановлено>"
   },
