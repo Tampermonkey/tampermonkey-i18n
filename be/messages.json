@@ -1490,19 +1490,19 @@
     "message": "Капіяваць"
   },
   "Paste": {
-    "message": "Paste"
+    "message": "Уставіць"
   },
   "Select_All": {
-    "message": "Select All"
+    "message": "Вылучыць усё"
   },
   "Toggle_Comment": {
-    "message": "Toggle Comment"
+    "message": "Уключыць/Выключыць каментар"
   },
   "Toggle_Comment_Indented": {
-    "message": "Toggle Comment Indented"
+    "message": "Уключыць/Выключыць каментар з водступам"
   },
   "Toggle_Block_Comment": {
-    "message": "Toggle Block Comment"
+    "message": "Уключыць/Выключыць шматрадковы каментар"
   },
   "Replace_All": {
     "message": "Replace All"
