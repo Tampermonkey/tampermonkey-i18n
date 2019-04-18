@@ -1505,31 +1505,31 @@
     "message": "Уключыць/Выключыць шматрадковы каментар"
   },
   "Replace_All": {
-    "message": "Replace All"
+    "message": "Замяніць усе"
   },
   "Lines": {
-    "message": "Lines"
+    "message": "Лініі"
   },
   "Indent_Less": {
-    "message": "Indent Less"
+    "message": "Паменшыць водступ"
   },
   "Indent_More": {
-    "message": "Indent More"
+    "message": "Павялічыць водступ"
   },
   "Move_Line_Up": {
-    "message": "Move Line Up"
+    "message": "На радок вышэй"
   },
   "Move_Line_Down": {
-    "message": "Move Line Down"
+    "message": "На радок ніжэй"
   },
   "Duplicate_Lines": {
-    "message": "Duplicate Lines"
+    "message": "Дубляваць вылучанае"
   },
   "Delete_Line": {
-    "message": "Delete Line"
+    "message": "Выдаліць радок"
   },
   "Join_Lines": {
-    "message": "Join Lines"
+    "message": "Аб'яднаць радкі"
   },
   "Insert_Line_Before": {
     "message": "Insert Line Before"
