@@ -1296,19 +1296,19 @@
     "message": "Імпарт уласнага скрыпту"
   },
   "Enable_Native_Script_Import": {
-    "message": "Enable Native Script Import"
+    "message": "Ўключыць імпарт ўласнага скрыпту"
   },
   "Post_Import_Action": {
-    "message": "Post Import Action"
+    "message": "Дзеянне пасля імпарту"
   },
   "None": {
-    "message": "None"
+    "message": "Няма дзеяння"
   },
   "Disable_Extension": {
-    "message": "Disable Extension"
+    "message": "Адключыць пашырэнне"
   },
   "Uninstall_Extension": {
-    "message": "Uninstall Extension"
+    "message": "Выдаліць пашырэнне"
   },
   "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
     "message": "What action should be done after a native userscript was imported successfully?"
