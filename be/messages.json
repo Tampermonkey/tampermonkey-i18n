@@ -1164,64 +1164,64 @@
     "message": "Пад рэсурсная цэласнасць"
   },
   "Validate_if_supported": {
-    "message": "Validate if possible"
+    "message": "Праверыць, калі магчыма"
   },
   "Validate_if_given": {
-    "message": "Validate if given"
+    "message": "Праверыць, калі паказана"
   },
   "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
-    "message": "Script authors can secure external resources by adding a SRI hash to the source URL."
+    "message": "Аўтары сцэнарыяў могуць абараніць знешнія рэсурсы, дадаўшы хэш SRI да зыходнага URL."
   },
   "Yes": {
-    "message": "Yes"
+    "message": "Так"
   },
   "No": {
-    "message": "No"
+    "message": "Не"
   },
   "Auto": {
-    "message": "Auto"
+    "message": "Аўтаматычна"
   },
   "__Please_choose__": {
-    "message": "-- Please choose an option --"
+    "message": "-- Калі ласка, выберыце опцыю --"
   },
   "Enable": {
-    "message": "Enable"
+    "message": "Уключыць"
   },
   "Disable": {
-    "message": "Disable"
+    "message": "Адключыць"
   },
   "Toggle_Enable": {
-    "message": "Toggle Enable"
+    "message": "Пераключыць"
   },
   "Trigger_Update": {
-    "message": "Trigger Update"
+    "message": "Абнаўленне трыгера"
   },
   "Apply_this_action_to_the_selected_scripts": {
-    "message": "Apply this to all selected scripts"
+    "message": "Ўжыеце гэта да ўсіх абраным скрыптам"
   },
   "Start": {
-    "message": "Start"
+    "message": "Запусціць"
   },
   "Really_delete_the_selected_items_": {
-    "message": "Do you really want to delete all selected items?"
+    "message": "Вы сапраўды хочаце выдаліць усе выбраныя элементы?"
   },
   "Really_factory_reset_the_selected_items_": {
-    "message": "Do you really want to factory reset all selected items?"
+    "message": "Вы сапраўды хочаце скінуць ўсе выбраныя элементы?"
   },
   "Filter_by": {
-    "message": "Filter by"
+    "message": "Фільтраваць па"
   },
   "Matching_URL": {
-    "message": "Matching URL"
+    "message": "Адпаведны URL"
   },
   "Really_factory_reset_this_script_": {
-    "message": "Do you really want to factory reset this script?"
+    "message": "Вы сапраўды хочаце скінуць налады скрыпту?"
   },
   "Reset_Section": {
-    "message": "Reset"
+    "message": "Скід"
   },
   "Restart_Tampermonkey": {
-    "message": "Restart Tampermonkey"
+    "message": "Перазапуск Tampermonkey"
   },
   "This_will_restart_Tampermonkey_Ok_": {
     "message": "Do you really want to restart Tampermonkey?"
