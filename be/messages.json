@@ -1610,52 +1610,52 @@
     "message": "Дадаць вылучэнне ніжэй"
   },
   "Split_into_Lines": {
-    "message": "Split into Lines"
+    "message": "Падзяліць на радкі"
   },
   "Select_Line": {
-    "message": "Select Line"
+    "message": "Вылучыць радок"
   },
   "Select_Scope": {
-    "message": "Select Scope"
+    "message": "Вылучыць вобласць"
   },
   "Select_Bookmarks": {
-    "message": "Select Bookmarks"
+    "message": "Вылучыць закладкі"
   },
   "Select_between_Brackets": {
-    "message": "Select between Brackets"
+    "message": "Вылучыць паміж дужкамі"
   },
   "Select_Next_Occurrence": {
-    "message": "Select Next Occurrence"
+    "message": "Вылучыць наступнае ўваходжанне"
   },
   "Find": {
-    "message": "Find"
+    "message": "Знайсці"
   },
   "Find_Next": {
-    "message": "Find Next"
+    "message": "Знайсці далей"
   },
   "Find_Previous": {
-    "message": "Find Previous"
+    "message": "Знайсці папярэдняе"
   },
   "Find_Under": {
-    "message": "Find Under"
+    "message": "Знайсці да"
   },
   "Find_All_Under": {
-    "message": "Find All Under"
+    "message": "Знайсці ўсе да"
   },
   "Find_Under_Previous": {
-    "message": "Find Under Previous"
+    "message": "Знайсці да папярэдняга"
   },
   "GoTo": {
-    "message": "GoTo"
+    "message": "Перайсці"
   },
   "Document_Start": {
-    "message": "Document Start"
+    "message": "У пачатак скрыпту"
   },
   "Document_End": {
-    "message": "Document End"
+    "message": "У канец скрыпту"
   },
   "Group_Left": {
-    "message": "Group Left"
+    "message": "Группа слева"
   },
   "Group_Right": {
     "message": "Group Right"
