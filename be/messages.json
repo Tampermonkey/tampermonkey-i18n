@@ -991,28 +991,28 @@
     }
   },
   "Auto_syntax_check_on_typing": {
-    "message": "Automatic syntax check on typing"
+    "message": "Аўтаматычная праверка сінтаксісу пры наборы тэксту"
   },
   "Enable_this_option_to_automatically_check_the_code_on_typing_": {
-    "message": "Enable this option to automatically check the code on typing."
+    "message": "Уключыце гэтую опцыю, каб аўтаматычна правяраць код пры наборы."
   },
   "Auto_syntax_check_max_length": {
-    "message": "Automatic syntax check max size"
+    "message": "Максімальны памер скрыпту для аўтаматычнай праверкі сінтаксісу"
   },
   "Check_only_scripts_up_to_this_size_automatically_": {
-    "message": "Check only scripts up to this size automatically."
+    "message": "Правяраць скрыпты аўтаматычна толькі да гэтага памеру."
   },
   "Highlight_trailing_whitespace": {
-    "message": "Highlight trailing whitespace"
+    "message": "Падсвятляць прабелы ў канцы радка"
   },
   "Trim_trailing_whitespace_from_modified_lines": {
-    "message": "Trim trailing whitespace from modified lines"
+    "message": "Абрэзаць прабелы з рэшт мадыфікаваных радкоў"
   },
   "Dashboard": {
-    "message": "Dashboard"
+    "message": "Панэль кіравання"
   },
   "Userscripts": {
-    "message": "Userscripts"
+    "message": "Прыстасаваныя скрыпты"
   },
   "Script_URL_detection": {
     "message": "Script URL detection"
