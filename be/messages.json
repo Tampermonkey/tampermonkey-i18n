@@ -1281,19 +1281,19 @@
     "message": "Tampermonkey неабходны доступ да файлавых URI для працы імпарту скрыпту.\n\nНацісніце тут, каб наведаць FAQ, каб даведацца, як вы можаце даць гэты дазвол!"
   },
   "Tampermonkey_has_no_file_access_permission_": {
-    "message": "Tampermonkey has no permission to access local files!"
+    "message": "У Tampermonkey няма правоў доступу да лакальных файлаў!"
   },
   "Everything_is_setup_correctly_": {
-    "message": "Everything is setup correctly."
+    "message": "Усё наладжана правільна."
   },
   "TM_has_access_to_file_URIs": {
-    "message": "Tampermonkey has access to file URIs. :)"
+    "message": "Tampermonkey мае доступ да файлаў URIs. :)"
   },
   "Browser_Profile_Path": {
-    "message": "Browser Profile Path"
+    "message": "Шлях да профілі браўзэра"
   },
   "Native_Script_Import": {
-    "message": "Native Script Import"
+    "message": "Імпарт уласнага скрыпту"
   },
   "Enable_Native_Script_Import": {
     "message": "Enable Native Script Import"
