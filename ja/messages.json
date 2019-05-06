@@ -270,6 +270,14 @@
             }
         }
     },
+    "This_script_was_executed_0count0_times_but_is_not_active_anymore": {
+        "message": "このスクリプトは$count$回実行されましたが、もうアクティブではありません",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
     "This_script_was_not_executed_yet": {
         "message": "このスクリプトはまだ実行されていません"
     },
@@ -469,6 +477,9 @@
     },
     "Show_backups": {
         "message": "バックアップを表示"
+    },
+    "Install_from_URL": {
+        "message": "URL からインストール"
     },
     "Delete": {
         "message": "削除"
@@ -834,11 +845,14 @@
     "Last_updated": {
         "message": "最終更新"
     },
+    "User_modified": {
+        "message": "変更あり"
+    },
     "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
         "message": "この外部リソースは自動更新されません! 再度更新を有効にするには削除してください。"
     },
     "MIME_Type": {
-        "message": "MIMEタイプ"
+        "message": "MIME タイプ"
     },
     "Version": {
         "message": "バージョン"
@@ -1221,6 +1235,14 @@
     },
     "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
         "message": "すべての変更点は、このシークレット モードが閉じられた際に失われます!"
+    },
+    "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
+        "message": "Tampermonkey による以下のホストへのアクセスを許可するため OK をクリックしてください:\n\n$host_list$",
+        "placeholders": {
+            "host_list": {
+                "content": "$1"
+            }
+        }
     },
     "_not_set_": {
         "message": "<未設定>"
