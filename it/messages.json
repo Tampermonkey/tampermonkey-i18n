@@ -335,6 +335,14 @@
       }
     }
   },
+  "This_script_was_executed_0count0_times_but_is_not_active_anymore": {
+    "message": "Questo script è stato eseguito $count$ volta/e ma non è più attivo",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
   "This_script_was_not_executed_yet": {
     "message": "Questo script non è ancora stato eseguito"
   },
@@ -537,6 +545,9 @@
   },
   "Show_backups": {
     "message": "Visualizza backup"
+  },
+  "Install_from_URL": {
+    "message": "Installa da URL"
   },
   "Delete": {
     "message": "Elimina"
