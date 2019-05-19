@@ -81,7 +81,7 @@
     }
   },
   "Please_double_check_the_native_script_import_settings__": {
-    "message": "Невозможно загрузить скрипт!\n\nПожалуйста, перепроверьте опцию 'Импорт нативного скрипта'."
+    "message": "Невозможно загрузить скрипт!\n\nПожалуйста, перепроверьте опцию 'Импорт скрипта'."
   },
   "Name": {
     "message": "Имя"
@@ -167,7 +167,7 @@
     "message": "Для запуска этого сценария может потребоваться повторная проверка параметров совместимости GreaseMonkey/Firefox."
   },
   "Automatically_added_user_includes_for_compatibility_reasons_": {
-    "message": "Некоторые пользовательские @include's будут применены автоматически для обеспечения совместимости!"
+    "message": "Некоторые пользовательские @include'я будут применены автоматически для обеспечения совместимости!"
   },
   "Author": {
     "message": "Автор"
@@ -392,7 +392,7 @@
     "message": "Показывать изменения в коде"
   },
   "LogLevel": {
-    "message": "Уровень ведения лога"
+    "message": "Уровень ведения журнала"
   },
   "Trace": {
     "message": "Отслеживать"
@@ -546,6 +546,9 @@
   "Show_backups": {
     "message": "Показать резервные копии"
   },
+	"Install_from_URL": {
+	"message": "Установка через URL"
+    },
   "Delete": {
     "message": "Удалить"
   },
@@ -559,7 +562,7 @@
     "message": "Этот скрипт имеет доступ к страницам HTTPS."
   },
   "One_or_more_compatibility_options_are_set": {
-    "message": "Один или несколько параметров совместимости установлены. Вам стоит их просмотреть."
+    "message": "Один или несколько параметров совместимости установлены. Вам стоит их посмотреть."
   },
   "This_script_has_full_web_access": {
     "message": "Этот скрипт имеет полный доступ в интернет."
@@ -891,7 +894,7 @@
     "message": "Мгновенный"
   },
   "This_page_is_blacklisted_at_the_security_settings": {
-    "message": "В черном списке настроек безопасности"
+    "message": "Черный список по параметрам безопасности"
   },
   "Update_Notification": {
     "message": "Показать уведомление об обновлении Tampermonkey"
@@ -1119,7 +1122,7 @@
     "message": "Безопасность XHR"
   },
   "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
-    "message": "Возникла внутренняя ошибка. Если проблема не устраняется даже после перезапуска браузера, нажмите ОК и сообщите об этой проблеме на форуме.\n\nВы хотите посетить форум Tampermonkey??"
+    "message": "Возникла внутренняя ошибка. Если проблема не устраняется даже после перезапуска браузера, нажмите ОК и сообщите об этой проблеме на форуме.\n\nВы хотите посетить форум Tampermonkey?"
   },
   "Script_Sync": {
     "message": "Синхронизация скриптов"
@@ -1161,7 +1164,7 @@
     "message": "Эта опция позволяет домашней странице Tampermonkey и некоторым скриптам определять версию Tampermonkey и базовую информацию о скриптах (какие установлены, их версии и включены ли они)."
   },
   "Subresource_Integrity": {
-    "message": "Подресурсная целостность"
+    "message": "Под ресурсная целостность"
   },
   "Validate_if_supported": {
     "message": "Проверить, если возможно"
@@ -1221,7 +1224,7 @@
     "message": "Сброс"
   },
   "Restart_Tampermonkey": {
-    "message": "Перезапустите Tampermonkey"
+    "message": "Перезапуск Tampermonkey"
   },
   "This_will_restart_Tampermonkey_Ok_": {
     "message": "Вы действительно хотите перезапустить Tampermonkey?"
@@ -1278,7 +1281,7 @@
     "message": "Для работы функции импорта скриптов, Tampermonkey должен знать абсолютный путь к папке профиля браузера.\n\nНажмите здесь, чтобы посетить FAQ!"
   },
   "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-    "message": "Tampermonkey необходим доступ к файловым URI для работы импорта скрипта.\n\n\n\nНажмите здесь, чтобы посетить FAQ!"
+    "message": "Tampermonkey необходим доступ к файловым URI для работы импорта скрипта.\n\nНажмите здесь, чтобы посетить FAQ, чтобы узнать, как вы можете предоставить это разрешение!"
   },
   "Tampermonkey_has_no_file_access_permission_": {
     "message": "У Tampermonkey нет прав доступа к локальным файлам!"
@@ -1287,7 +1290,7 @@
     "message": "Все настроено правильно."
   },
   "TM_has_access_to_file_URIs": {
-    "message": "Tampermonkey имеет доступ к файлам URI. :)"
+    "message": "Tampermonkey имеет доступ к файлам URIs. :)"
   },
   "Browser_Profile_Path": {
     "message": "Путь к профилю браузера"
@@ -1324,6 +1327,17 @@
   },
   "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
     "message": "Ограниченные разрешения хоста во время выполнения могут нарушить некоторые функции Tampermonkey, такие как обновление скрипта, GM_xmlhttpRequest и другие!"
+  },
+  "Cross_Origin_Request_Permission": {
+    "message": "Запрос корневого разрешения"
+  },
+  "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
+    "message": "Пожалуйста, нажмите OK, чтобы Tampermonkey мог получить доступ к следующим хостам:\n\n$host_list$",
+    "placeholders": {
+      "host_list": {
+        "content": "$1"
+      }
+    }
   },
   "_not_set_": {
     "message": "<не установлен>"
@@ -1569,7 +1583,7 @@
     "message": "Развернуть все"
   },
   "Sublime_Mark": {
-    "message": "Sublime Mark"
+    "message": "Возвышенный знак"
   },
   "Set_Sublime_Mark": {
     "message": "Установить возвышенный знак"

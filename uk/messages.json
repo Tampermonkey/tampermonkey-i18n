@@ -81,7 +81,7 @@
     }
   },
   "Please_double_check_the_native_script_import_settings__": {
-    "message": "Неможливо завантажити скрипт!\n\nБудь ласка, перевірте опцію 'Імпорт нативного скрипта'."
+    "message": "Неможливо завантажити скрипт!\n\nБудь ласка, перевірте опцію 'Імпорт скрипта'."
   },
   "Name": {
     "message": "Ім'я"
@@ -167,7 +167,7 @@
     "message": "Для запуску цього сценарію може знадобитися повторна перевірка параметрів сумісності GreaseMonkey/Firefox."
   },
   "Automatically_added_user_includes_for_compatibility_reasons_": {
-    "message": "Деякі користувацькі @include's будуть застосовані автоматично для забезпечення сумісності!"
+    "message": "Деякі користувацькі @include'я будуть застосовані автоматично для забезпечення сумісності!"
   },
   "Author": {
     "message": "Автор"
@@ -546,6 +546,9 @@
   "Show_backups": {
     "message": "Показати резервні копії"
   },
+"Install_from_URL": {
+	"message": "Установка через URL"
+    },
   "Delete": {
     "message": "Видалити"
   },
@@ -891,7 +894,7 @@
     "message": "Миттєвий"
   },
   "This_page_is_blacklisted_at_the_security_settings": {
-    "message": "У чорному списку настройок безпеки"
+    "message": "Чорний список за параметрами безпеки"
   },
   "Update_Notification": {
     "message": "Показати сповіщення про оновлення Tampermonkey"
@@ -1119,7 +1122,7 @@
     "message": "Безпека XHR"
   },
   "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
-    "message": "Виникла внутрішня помилка. Якщо проблема не усувається навіть після перезапуску браузера, натисніть ОК і повідомте про цю проблему на форумі.\n\nВи хочете відвідати форум Tampermonkey??"
+    "message": "Виникла внутрішня помилка. Якщо проблема не усувається навіть після перезапуску браузера, натисніть ОК і повідомте про цю проблему на форумі.\n\nВи хочете відвідати форум Tampermonkey?"
   },
   "Script_Sync": {
     "message": "Синхронізація скриптів"
@@ -1161,7 +1164,7 @@
     "message": "Цей параметр дозволяє головну сторінку Tampermonkey і деякі скрипти для визначення версії Tampermonkey і основна інформація про скрипти (які встановлені, їх версії, і чи є вони включені)."
   },
   "Subresource_Integrity": {
-    "message": "Подресурсная цілісність"
+    "message": "Під ресурсна цілісність"
   },
   "Validate_if_supported": {
     "message": "Перевірити, якщо можливо"
@@ -1221,7 +1224,7 @@
     "message": "Скинути"
   },
   "Restart_Tampermonkey": {
-    "message": "Перезапустіть Tampermonkey"
+    "message": "Перезапуск Tampermonkey"
   },
   "This_will_restart_Tampermonkey_Ok_": {
     "message": "Ви дійсно хочете перезапустити Tampermonkey?"
@@ -1278,7 +1281,7 @@
     "message": "Для роботи з функцією імпорту скрипт, Tampermonkey повинен знати aбсолютний шлях до папки профілю браузера.\n\nНатисніть тут, щоб відвідати FAQ!"
   },
   "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-    "message": "Tampermonkey необхідний доступ до файлових URI для роботи імпорту скрипта.\n\n\n\nНатисніть тут, щоб відвідати FAQ!"
+    "message": "Tampermonkey необхідний доступ до файлових URI для роботи імпорту скрипта.\n\nНатисніть тут, щоб відвідати FAQ, щоб дізнатися, як ви можете надати цей дозвіл!"
   },
   "Tampermonkey_has_no_file_access_permission_": {
     "message": "Tampermonkey не має прав доступу до локальних файлів!"
@@ -1287,7 +1290,7 @@
     "message": "Все налаштовано правильно."
   },
   "TM_has_access_to_file_URIs": {
-    "message": "Tampermonkey має доступ до файлів URI. :)"
+    "message": "Tampermonkey має доступ до файлів URIs. :)"
   },
   "Browser_Profile_Path": {
     "message": "Шлях до профілю браузера"
@@ -1324,6 +1327,17 @@
   },
   "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
     "message": "Обмежені дозволи на хост під час виконання можуть порушити деякі функції Tampermonkey, такі як оновлення сценарію, GM_xmlhttpRequest та інші!"
+  },
+  "Cross_Origin_Request_Permission": {
+    "message": "Запит кореневого дозволу"
+  },
+  "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
+    "message": "Будь ласка, натисніть OK, щоб Tampermonkey міг отримати доступ до наступних хостам:\n\n$host_list$",
+    "placeholders": {
+      "host_list": {
+        "content": "$1"
+      }
+    }
   },
   "_not_set_": {
     "message": "<не встановлено>"
@@ -1569,7 +1583,7 @@
     "message": "Розгорнути всі"
   },
   "Sublime_Mark": {
-    "message": "Sublime Mark"
+    "message": "Піднесений знак"
   },
   "Set_Sublime_Mark": {
     "message": "Встановити підвищений знак"
