@@ -1103,6 +1103,9 @@
     "Add_TM_to_CSP": {
         "message": "Tampermonkey zur Content Security Policy (CSP) der geladenen Seiten hinzufügen"
     },
+    "Add_Tampermonkey_to_the_site_s_content_csp": {
+        "message": "Tampermonkey zur Content Security Policy (CSP) in der Seite hinzufügen"
+    },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Tampermonkey kann ohne diese Option möglicherweise keinen Zugriff auf den unsicheren Kontext (unsafeWindow, globale Funktionen und Variablen) bereitstellen"
     },
