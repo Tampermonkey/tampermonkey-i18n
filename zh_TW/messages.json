@@ -70,7 +70,7 @@
         "message": "降級的腳本可能會在讀取已儲存資料時發生問題！"
     },
     "Malicious_scripts_can_violate_your_privacy_": {
-        "message": "惡意腳本會侵犯您的隱私並假裝偽裝您的身份去做您意想不到的事！\n您應該只從您信任的來源安裝腳本。"
+        "message": "惡意腳本會侵犯您的隱私並偽裝您的身份去做您意想不到的事！\n您應該只從您信任的來源安裝腳本。"
     },
     "You_are_about_to_modify_a_UserScript_": {
         "message": "使用者腳本修改"
@@ -518,7 +518,7 @@
         }
     },
     "Click_here_to_see_the_recent_changes": {
-        "message": "按此看最近更改"
+        "message": "按此查看最近的更改"
     },
     "General": {
         "message": "一般"
@@ -874,16 +874,16 @@
         "message": "自訂 excludes"
     },
     "Original_domain_whitelist": {
-        "message": "原始 domain 白名單"
+        "message": "原始網域白名單"
     },
     "User_domain_whitelist": {
-        "message": "自訂 domain 白名單"
+        "message": "自訂網域白名單"
     },
     "Temporary_domain_whitelist": {
-        "message": "暫時 domain 白名單"
+        "message": "暫定網域白名單"
     },
     "User_domain_blacklist": {
-        "message": "自訂 domain 黑名單"
+        "message": "自訂網域黑名單"
     },
     "XHR_Security": {
         "message": "XHR 安全性"
@@ -976,7 +976,7 @@
         "message": "儲存時不顯示確認對話框"
     },
     "Add_TM_to_CSP": {
-        "message": "將 Tampermonkey 加入到網站的 content security policy (CSP) 如果有的話"
+        "message": "將 Tampermonkey 加入到網站的 content security policy (CSP) (如果有的話)"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "當這個選項被停用時，Tampermonkey 將無法提供存取 unsafe context（unsafeWindow，網頁的函式和變數）。"
