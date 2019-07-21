@@ -1167,6 +1167,9 @@
     "Add_TM_to_CSP": {
         "message": "サイトのコンテンツ セキュリティ ポリシー (CSP) がある場合は、その CSP に Tampermonkey を追加する"
     },
+    "Add_Tampermonkey_to_the_site_s_content_csp": {
+        "message": "Tampermonkey をサイトのコンテンツ CSP に追加"
+    },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "これを無効にすると、安全ではないコンテキスト (unsafeWindow、ページの関数や変数) へのアクセスを Tampermonkey が提供できなくなります。"
     },
