@@ -222,9 +222,6 @@
     "Browser_API_Downloads": {
         "message": "ブラウザー API ダウンロード"
     },
-    "Browser_Profile_Path": {
-        "message": "ブラウザーのプロファイルのパス"
-    },
     "Browser_Sync": {
         "message": "ブラウザーの同期"
     },
@@ -379,9 +376,6 @@
     "Disable": {
         "message": "無効にする"
     },
-    "Disable_Extension": {
-        "message": "拡張機能を無効にする"
-    },
     "Disabled": {
         "message": "無効"
     },
@@ -443,9 +437,6 @@
     "Enable_Editor": {
         "message": "高度なエディターを有効にする"
     },
-    "Enable_Native_Script_Import": {
-        "message": "ネイティブ スクリプトのインポートを有効にする"
-    },
     "Enable_Script_Sync": {
         "message": "スクリプト同期を有効にする"
     },
@@ -484,9 +475,6 @@
     },
     "Every_Week": {
         "message": "毎週"
-    },
-    "Everything_is_setup_correctly_": {
-        "message": "すべて正しく設定されています。"
     },
     "Exclude_0domain0": {
         "message": "$domain$ を除外",
@@ -757,9 +745,6 @@
     "Native": {
         "message": "ネイティブ"
     },
-    "Native_Script_Import": {
-        "message": "ネイティブ スクリプトのインポート"
-    },
     "Never": {
         "message": "しない"
     },
@@ -798,9 +783,6 @@
     },
     "No_update_found__sry_": {
         "message": "更新はありません。すみません!"
-    },
-    "None": {
-        "message": "なし"
     },
     "Normal": {
         "message": "通常"
@@ -870,9 +852,6 @@
     "Please_consider_a_contribution": {
         "message": "寄付をお願いいたします"
     },
-    "Please_double_check_the_native_script_import_settings__": {
-        "message": "UserScript を読み込めません!\n\n「ネイティブ スクリプトのインポート」の設定を確認してください。"
-    },
     "Please_select_a_file": {
         "message": "ファイルを選択してください"
     },
@@ -881,9 +860,6 @@
     },
     "Position_": {
         "message": "実行順"
-    },
-    "Post_Import_Action": {
-        "message": "インポート後の動作"
     },
     "Prev_Bookmark": {
         "message": "前のブックマーク"
@@ -907,14 +883,6 @@
     },
     "Really_factory_reset_this_script_": {
         "message": "このスクリプトを本当に初期化しますか？"
-    },
-    "Really_import_0name0__": {
-        "message": "ネイティブ スクリプト「$name$」を本当にインポートしますか？",
-        "placeholders": {
-            "name": {
-                "content": "$1"
-            }
-        }
     },
     "Really_reset_all_changes_": {
         "message": "すべての変更を本当にリセットしますか？"
@@ -1129,9 +1097,6 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "ブラウザーとオペレーティング システムの間でスクリプトを同期する"
     },
-    "TM_has_access_to_file_URIs": {
-        "message": "Tampermonkey はファイルの URL にアクセスできます。:)"
-    },
     "TabMode": {
         "message": "タブのモード"
     },
@@ -1147,14 +1112,8 @@
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "これを無効にすると、安全ではないコンテキスト (unsafeWindow、ページの関数や変数) へのアクセスを Tampermonkey が提供できなくなります。"
     },
-    "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-        "message": "スクリプトのインポートを動作させるには、Tampermonkey がファイルの URL にアクセスできるようにする必要があります。\n\n許可する方法の詳細については、ここをクリックして、よくある質問をご覧ください!"
-    },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
         "message": "この変更を適用するには、Tampermonkeyを再起動する必要があります。\n\n続行しますか？"
-    },
-    "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
-        "message": "スクリプトのインポート機能を動作させるには、Tampermonkey にブラウザーのプロファイル フォルダーの絶対パスを Tampermonkey に教える必要があります。\n\n場所が分からない場合は、ここをクリックして、よくある質問をご覧ください!"
     },
     "Tampermonkey_version": {
         "message": "Tampermonkeyのバージョンのみ"
@@ -1219,9 +1178,6 @@
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
         "message": "この操作によりこのスクリプトにあらゆるウェブページにデータを送受信する権限を与えることになります。これは潜在的に危険です!\n\n本当に続行しますか?"
-    },
-    "This_is_a_chrome_extension": {
-        "message": "これはブラウザーの拡張機能です"
     },
     "This_is_a_system_script": {
         "message": "これはシステム スクリプトです。"
@@ -1354,9 +1310,6 @@
     "Unfold_All": {
         "message": "すべて展開"
     },
-    "Uninstall_Extension": {
-        "message": "拡張機能をアンインストール"
-    },
     "Unique_running_scripts": {
         "message": "実行中のユニーク スクリプト数"
     },
@@ -1441,9 +1394,6 @@
     },
     "Warning_unsafe_site_warnings_might_appear_": {
         "message": "警告: スクリプトに潜在的に危険なURLが含まれていると、安全でないサイトの警告が表示されることがあります。"
-    },
-    "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
-        "message": "ネイティブ スクリプトのインポートが完了した際、どの操作を実行しますか？"
     },
     "Whitelist": {
         "message": "ホワイトリスト"

@@ -272,9 +272,6 @@
     "Browser_API_Downloads": {
         "message": "Downlaod API browser"
     },
-    "Browser_Profile_Path": {
-        "message": "Percorso profilo browser"
-    },
     "Browser_Sync": {
         "message": "Sincronizzazione browser"
     },
@@ -441,9 +438,6 @@
     "Disable": {
         "message": "Disabilita"
     },
-    "Disable_Extension": {
-        "message": "Disabilita estensione"
-    },
     "Disabled": {
         "message": "Disabilitato"
     },
@@ -511,9 +505,6 @@
     "Enable_Editor": {
         "message": "Abilita editor avanzato"
     },
-    "Enable_Native_Script_Import": {
-        "message": "Abilita importazione script nativo"
-    },
     "Enable_Script_Sync": {
         "message": "Abilita sincronizzazione script"
     },
@@ -555,9 +546,6 @@
     },
     "Every_Week": {
         "message": "Ogni settimana"
-    },
-    "Everything_is_setup_correctly_": {
-        "message": "Tutto è impostato correttamente."
     },
     "Exclude_0domain0": {
         "message": "Escludi $domain$",
@@ -852,9 +840,6 @@
     "Native": {
         "message": "Nativo"
     },
-    "Native_Script_Import": {
-        "message": "Importazione script nativo"
-    },
     "Never": {
         "message": "Mai"
     },
@@ -893,9 +878,6 @@
     },
     "No_update_found__sry_": {
         "message": "La versione installata è aggiornata."
-    },
-    "None": {
-        "message": "Nessuna"
     },
     "Normal": {
         "message": "Normale"
@@ -968,9 +950,6 @@
     "Please_consider_a_contribution": {
         "message": "Fai una donazione"
     },
-    "Please_double_check_the_native_script_import_settings__": {
-        "message": "Impossibile caricare lo script!\n\nControlla le impostazioni 'Importa script nativo'."
-    },
     "Please_select_a_file": {
         "message": "Seleziona un file"
     },
@@ -979,9 +958,6 @@
     },
     "Position_": {
         "message": "Posizione"
-    },
-    "Post_Import_Action": {
-        "message": "Azione successiva all'importazione"
     },
     "Prev_Bookmark": {
         "message": "Segnalibro precedente"
@@ -1005,14 +981,6 @@
     },
     "Really_factory_reset_this_script_": {
         "message": "Vuoi veramente applicare il ripristino di fabbrica a questo script?"
-    },
-    "Really_import_0name0__": {
-        "message": "Vuoi davvero importare lo script nativo '$name$'?",
-        "placeholders": {
-            "name": {
-                "content": "$1"
-            }
-        }
     },
     "Really_reset_all_changes_": {
         "message": "Sei sicuro di voler annullare tutte le modifiche?"
@@ -1248,9 +1216,6 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Elenco accessi script esterno Tampermonkey"
     },
-    "TM_has_access_to_file_URIs": {
-        "message": "Tampermonkey ha accesso alle URI dei file. :)"
-    },
     "TabMode": {
         "message": "Modalità tabulazione"
     },
@@ -1269,14 +1234,8 @@
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Tampermonkey potrebbe non essere in grado di fornire accesso al contesto non sicuro (unsafeWindow, funzioni e variabli della pagina) quando questa è disabilitata."
     },
-    "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-        "message": "Perché l'importazioni di script funzioni Tampermonkey deve accedere alle URI dei file .\n\nfai clic qui per visitare la pagina delle domande frequenti (FAQ) e sapere come fare per abilitare questo permesso!"
-    },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
         "message": "Per applicare le modifiche Tampermonkey deve essere riavviato.\n\nVuoi continuare?"
-    },
-    "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
-        "message": "Perché l'importazione di script funzioni Tampermonkey deve conoscere il percorso assoluto alla cartella del profilo del browser.\n\nFai clic qui per visitare la pagina delle domande frequenti (FAQ) e sapere dove trovare queste informazioni!"
     },
     "Tampermonkey_version": {
         "message": "Solo versione Tampermonkey"
@@ -1344,9 +1303,6 @@
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
         "message": "Questo darà allo script il permssso di recuperare e inviare dati da e ad ogni pagina web. Questo è potenzialmente rischioso!\n\nSei sicuro di voler continuare?"
-    },
-    "This_is_a_chrome_extension": {
-        "message": "Questa è un'estensione del browser"
     },
     "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
         "message": "L'origine di questo script non può essere determinata.\nPotrebbe essere stato installato da una terza parte per catturare i tuoi dati privati o alcune impostazioni base del browser.\nIl sistema operativo o l'hardware sono stati modificati.\nQuesta modifica lo abiliterà!"
@@ -1491,9 +1447,6 @@
     "Unfold_All": {
         "message": "Espandi tutto"
     },
-    "Uninstall_Extension": {
-        "message": "Disinstalla estensione"
-    },
     "Unique_running_scripts": {
         "message": "Script unici in esecuzione"
     },
@@ -1581,9 +1534,6 @@
     },
     "Warning_unsafe_site_warnings_might_appear_": {
         "message": "Attenzione: se uno script contiene URL potenzialmente pericolose potrebbe apparire un avviso di sito non sicuro."
-    },
-    "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
-        "message": "Quale azione dovrebbe essere eseguita dopo che uno script nativo è stato correttamente importato?"
     },
     "Whitelist": {
         "message": "Elenco autorizzati"

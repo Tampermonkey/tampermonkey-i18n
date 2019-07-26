@@ -223,9 +223,6 @@
     "Browser_API_Downloads": {
         "message": "ब्राउज़र API डाउनलोड करता है"
     },
-    "Browser_Profile_Path": {
-        "message": "ब्राउज़र प्रोफ़ाइल पथ"
-    },
     "Browser_Sync": {
         "message": "ब्राउज़र सिंक"
     },
@@ -378,9 +375,6 @@
     "Disable": {
         "message": "अक्षम करें"
     },
-    "Disable_Extension": {
-        "message": "एक्सटेंशन अक्षम"
-    },
     "Disabled": {
         "message": "असक्रिय किया गया"
     },
@@ -448,9 +442,6 @@
     "Enable_Editor": {
         "message": "वर्धित संपादक सक्षम करें"
     },
-    "Enable_Native_Script_Import": {
-        "message": "नेटिव स्क्रिप्ट इम्पोर्ट सक्षम करें"
-    },
     "Enable_Script_Sync": {
         "message": "TESLA सक्षम करें"
     },
@@ -492,9 +483,6 @@
     },
     "Every_Week": {
         "message": "प्रति सप्ताह"
-    },
-    "Everything_is_setup_correctly_": {
-        "message": "सब कुछ सही ढंग से सेटअप है।"
     },
     "Exclude_s__": {
         "message": "वर्जन"
@@ -769,9 +757,6 @@
     "Native": {
         "message": "नेटिव"
     },
-    "Native_Script_Import": {
-        "message": "नेटिव स्क्रिप्ट इम्पोर्ट"
-    },
     "Never": {
         "message": "कभी नहीँ"
     },
@@ -810,9 +795,6 @@
     },
     "No_update_found__sry_": {
         "message": "कोई अद्यतन नहीं मिला, खेद है!"
-    },
-    "None": {
-        "message": "कोई नहीं"
     },
     "Normal": {
         "message": "सामान्य"
@@ -882,9 +864,6 @@
     "Please_consider_a_contribution": {
         "message": "कृपया दान भेजें"
     },
-    "Please_double_check_the_native_script_import_settings__": {
-        "message": "यूजरस्क्रिप्ट लोड करने में असमर्थ!\n\nकृपया 'Native Script Import' सेटिंग को दोबारा जांचें।"
-    },
     "Please_select_a_file": {
         "message": "कृपया फ़ाइल चुनें"
     },
@@ -893,9 +872,6 @@
     },
     "Position_": {
         "message": "पद"
-    },
-    "Post_Import_Action": {
-        "message": "पोस्ट इम्पोर्ट कार्रवाई"
     },
     "Prev_Bookmark": {
         "message": "पिछला बुकमार्क"
@@ -919,14 +895,6 @@
     },
     "Really_factory_reset_this_script_": {
         "message": "क्या आप वाकई इस स्क्रिप्ट को फैक्ट्री रिसेट करना चाहते हैं?"
-    },
-    "Really_import_0name0__": {
-        "message": "क्या आप वाकई नेटिव स्क्रिप्ट आयात करना चाहते हैं '$name$'?",
-        "placeholders": {
-            "name": {
-                "content": "$1"
-            }
-        }
     },
     "Really_reset_all_changes_": {
         "message": "वास्तव में सभी परिवर्तनों को रीसेट करें?"
@@ -1142,9 +1110,6 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "स्क्रिप्ट तुल्यकालन (Tampermonkey बाहरी स्क्रिप्ट सूची एक्सेस)"
     },
-    "TM_has_access_to_file_URIs": {
-        "message": "Tampermonkey को यूआरआई फाइल की पहुँच है। :)"
-    },
     "TabMode": {
         "message": "टैबमोड"
     },
@@ -1163,14 +1128,8 @@
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Tampermonkey अक्षम किए जाने पर असुरक्षित संदर्भ (unsafeWindow, पेज के कार्यों और वैरिएबल) को प्रदान करने में अक्षम हो सकता है।"
     },
-    "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-        "message": "स्क्रिप्ट इम्पोर्ट को  काम करने के लिए Tampermonkey को URl फाइल एक्सेस करने की जरूरत है।\n\nआप इस अनुमति को कैसे दे सकते हैं इसे जानने के लिए अक्सर पूछे जाने वाले प्रश्न पर क्लिक करें!"
-    },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
         "message": "इस परिवर्तन को लागू करने के लिए Tampermonkey फिर से शुरू करना होगा।\n\nक्या आप जारी रखना चाहते हैं?"
-    },
-    "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
-        "message": "Tampermonkey को स्क्रिप्ट इम्पोर्ट फंक्शन काम करने के लिए आपके ब्राउज़र प्रोफ़ाइल फ़ोल्डर में निरपेक्ष पथ पता करने के लिए की जरूरत है।\n\nयह कहाँ पाया जा सकता है इसे जानने के लिए अक्सर पूछे जाने वाले प्रश्न पर क्लिक करें!"
     },
     "Tampermonkey_version": {
         "message": "Tampermonkey संस्करण केवल"
@@ -1235,9 +1194,6 @@
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
         "message": "यह इस स्क्रिप्ट को पुनः प्राप्त करने और प्रत्येक पृष्ठ पर डेटा भेजने की अनुमति देता है। यह संभावित रूप से असुरक्षित है!\n\nक्या आप वाकई जारी रखना चाहते हैं?"
-    },
-    "This_is_a_chrome_extension": {
-        "message": "यह एक ब्राउज़र एक्सटेंशन है"
     },
     "This_is_a_system_script": {
         "message": "यह एक सिस्टम स्क्रिप्ट है।"
@@ -1343,9 +1299,6 @@
     "Unfold_All": {
         "message": "सब अनफोल्ड करें"
     },
-    "Uninstall_Extension": {
-        "message": "एक्सटेंशन अनइनस्टॉल करें"
-    },
     "Unique_running_scripts": {
         "message": "अनूठी चलती स्क्रिप्ट"
     },
@@ -1433,9 +1386,6 @@
     },
     "Warning_unsafe_site_warnings_might_appear_": {
         "message": "चेतावनी: अगर किसी स्क्रिप्ट में संभावित क्षतिग्रस्त यूआरएल शामिल हैं तो असुरक्षित साइट चेतावनी दिखाई दे सकती है।"
-    },
-    "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
-        "message": "एक नेटिव यूजरस्क्रिप्ट के सफलतापूर्वक इम्पोर्ट किए जाने पर क्या कार्रवाई की जानी चाहिए?"
     },
     "Whitelist": {
         "message": "व्हाइट लिस्ट"

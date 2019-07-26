@@ -196,9 +196,6 @@
     "Browser_API_Downloads": {
         "message": "브라우저 API 다운로드"
     },
-    "Browser_Profile_Path": {
-        "message": "브라우저 프로파일 경로"
-    },
     "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
         "message": "충돌:\n이 스크립트는 다른 탭에서 $t$초 전에 변경되었습니다!",
         "placeholders": {
@@ -297,9 +294,6 @@
     "Disable": {
         "message": "비활성화"
     },
-    "Disable_Extension": {
-        "message": "확장 프로그램 비활성화"
-    },
     "Disabled": {
         "message": "비활성화됨"
     },
@@ -352,9 +346,6 @@
     "Enable_Editor": {
         "message": "향상된 에디터 사용"
     },
-    "Enable_Native_Script_Import": {
-        "message": "네이티브 스크립트 가져오기 활성화"
-    },
     "Enable_Script_Sync": {
         "message": "TESLA 활성화"
     },
@@ -393,9 +384,6 @@
     },
     "Every_Week": {
         "message": "매주"
-    },
-    "Everything_is_setup_correctly_": {
-        "message": "모든 것이 정상적으로 설치되었습니다."
     },
     "Exclude_s__": {
         "message": "제외"
@@ -580,9 +568,6 @@
     "Native": {
         "message": "네이티브"
     },
-    "Native_Script_Import": {
-        "message": "네이티브 스크립트 가져오기"
-    },
     "Never": {
         "message": "안 함"
     },
@@ -615,9 +600,6 @@
     },
     "No_update_found__sry_": {
         "message": "업데이트가 발견되지 않았습니다. 죄송합니다!"
-    },
-    "None": {
-        "message": "없음"
     },
     "Normal": {
         "message": "보통"
@@ -684,9 +666,6 @@
     "Please_consider_a_contribution": {
         "message": "기부를 고려해 주세요"
     },
-    "Please_double_check_the_native_script_import_settings__": {
-        "message": "유저 스크립트를 불러올 수 없습니다!\n\n'네이티브 스크립트 가져오기' 설정을 다시 확인해 주세요."
-    },
     "Please_select_a_file": {
         "message": "파일을 선택해 주세요"
     },
@@ -695,9 +674,6 @@
     },
     "Position_": {
         "message": "위치"
-    },
-    "Post_Import_Action": {
-        "message": "가져온 이후 동작"
     },
     "Process_with_Chrome": {
         "message": "Chrome과 함께 실행"
@@ -718,14 +694,6 @@
     },
     "Really_factory_reset_this_script_": {
         "message": "정말로 이 스크립트를 전체 초기화하시겠습니까?"
-    },
-    "Really_import_0name0__": {
-        "message": "네이티브 스크립트 '$name$'을 정말로 가져오시겠습니까?",
-        "placeholders": {
-            "name": {
-                "content": "$1"
-            }
-        }
     },
     "Really_reset_all_changes_": {
         "message": "정말로 모든 변경 사항을 초기화하시겠습니까?"
@@ -887,9 +855,6 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "스크립트 동기화 (Tampermonkey External Script List Access)"
     },
-    "TM_has_access_to_file_URIs": {
-        "message": "Tampermonkey가 파일 URI에 접근할 수 있습니다. :)"
-    },
     "TabMode": {
         "message": "탭 모드"
     },
@@ -908,14 +873,8 @@
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "이것이 비활성화되어 있다면 Tampermonkey가 안전하지 않은 것(unsafeWindow, 페이지의 함수와 변수)에 접근하지 못할 수 있습니다."
     },
-    "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-        "message": "Tampermonkey는 스크립트 가져오기 기능의 동작을 위해 파일 URI 접근이 필요합니다.\n\n여기를 클릭하여 이 권한을 허가하는 방법을 알 수 있는 FAQ에 방문하세요!"
-    },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
         "message": "이 변경 사항을 적용하기 위해서는 Tampermonkey를 재시작해야 합니다.\n\n계속하시겠습니까?"
-    },
-    "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
-        "message": "Tampermonkey는 스크립트 가져오기 기능의 동작을 위해 브라우저 프로파일 폴더의 절대 경로를 알아야 합니다.\n\n여기를 클릭하여 이를 어떻게 찾는지를 알 수 있는 FAQ에 방문하세요!"
     },
     "Tampermonkey_version": {
         "message": "Tampermonkey 버전만"
@@ -968,9 +927,6 @@
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
         "message": "이는 이 스크립트에게 모든 웹페이지에서 데이터를 받고 전송할 수 있도록 합니다. 이는 잠재적으로 위험합니다!\n\n계속하시겠습니까?"
-    },
-    "This_is_a_chrome_extension": {
-        "message": "이것은 Chrome 확장 프로그램입니다."
     },
     "This_is_a_system_script": {
         "message": "이것은 시스템 스크립트입니다."
@@ -1043,9 +999,6 @@
     "Unable_to_parse_this_": {
         "message": "다음 부분을 파싱할 수 없음! :("
     },
-    "Uninstall_Extension": {
-        "message": "확장 프로그램 제거"
-    },
     "Unique_running_scripts": {
         "message": "실행 중인 단일 스크립트"
     },
@@ -1109,9 +1062,6 @@
     },
     "Waiting_for_sync_to_finish": {
         "message": "동기화가 끝나기를 기다리는 중"
-    },
-    "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
-        "message": "네이티브 유저 스크립트가 성공적으로 가져와진 후 어떤 동작을 실행해야 합니까?"
     },
     "Whitelist": {
         "message": "화이트리스트"

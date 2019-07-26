@@ -275,9 +275,6 @@
     "Browser_API_Downloads": {
         "message": "API завантажень браузера"
     },
-    "Browser_Profile_Path": {
-        "message": "Шлях до профілю браузера"
-    },
     "Browser_Sync": {
         "message": "Синхронізація браузера"
     },
@@ -444,9 +441,6 @@
     "Disable": {
         "message": "Вимикати"
     },
-    "Disable_Extension": {
-        "message": "Відключити розширення"
-    },
     "Disabled": {
         "message": "Вимкнуто"
     },
@@ -514,9 +508,6 @@
     "Enable_Editor": {
         "message": "Включити розширений редактор"
     },
-    "Enable_Native_Script_Import": {
-        "message": "Включити імпорт власного скрипта"
-    },
     "Enable_Script_Sync": {
         "message": "Увімкнути синхронізацію скриптів"
     },
@@ -558,9 +549,6 @@
     },
     "Every_Week": {
         "message": "Щотижня"
-    },
-    "Everything_is_setup_correctly_": {
-        "message": "Все налаштовано правильно."
     },
     "Exclude_0domain0": {
         "message": "Додати в виключення $domain$",
@@ -855,9 +843,6 @@
     "Native": {
         "message": "Нативний"
     },
-    "Native_Script_Import": {
-        "message": "Імпорт власного скрипта"
-    },
     "Never": {
         "message": "Ніколи"
     },
@@ -896,9 +881,6 @@
     },
     "No_update_found__sry_": {
         "message": "Оновлень не знайдено, вибачте!"
-    },
-    "None": {
-        "message": "Немає дії"
     },
     "Normal": {
         "message": "Нормальний"
@@ -971,9 +953,6 @@
     "Please_consider_a_contribution": {
         "message": "Будь ласка, надішліть пожертвування"
     },
-    "Please_double_check_the_native_script_import_settings__": {
-        "message": "Неможливо завантажити скрипт!\n\nБудь ласка, перевірте опцію 'Імпорт скрипта'."
-    },
     "Please_select_a_file": {
         "message": "Будь ласка, виберіть файл"
     },
@@ -982,9 +961,6 @@
     },
     "Position_": {
         "message": "Позиція"
-    },
-    "Post_Import_Action": {
-        "message": "Дія після імпорту"
     },
     "Prev_Bookmark": {
         "message": "Попередня закладка"
@@ -1008,14 +984,6 @@
     },
     "Really_factory_reset_this_script_": {
         "message": "Ви дійсно бажаєте скинути параметри сценарію?"
-    },
-    "Really_import_0name0__": {
-        "message": "Ви дійсно бажаєте імпортувати власний сценарій '$name$'?",
-        "placeholders": {
-            "name": {
-                "content": "$1"
-            }
-        }
     },
     "Really_reset_all_changes_": {
         "message": "Ви дійсно хочете скасувати всі зміни?"
@@ -1251,9 +1219,6 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Синхронізація скриптів між браузерами та операційними системами"
     },
-    "TM_has_access_to_file_URIs": {
-        "message": "Tampermonkey має доступ до файлів URIs. :)"
-    },
     "TabMode": {
         "message": "Режим табуляції"
     },
@@ -1272,14 +1237,8 @@
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Без цього варіанту, Tampermonkey може відмовити у доступі до небезпечного вмісту (unsafeWindow, функції і змінні сторінки)."
     },
-    "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-        "message": "Tampermonkey необхідний доступ до файлових URI для роботи імпорту скрипта.\n\nНатисніть тут, щоб відвідати FAQ, щоб дізнатися, як ви можете надати цей дозвіл!"
-    },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
         "message": "Tampermonkey має бути перезапущено для зміни вступили в силу.\n\nВи хочете продовжити?"
-    },
-    "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
-        "message": "Для роботи з функцією імпорту скрипт, Tampermonkey повинен знати aбсолютний шлях до папки профілю браузера.\n\nНатисніть тут, щоб відвідати FAQ!"
     },
     "Tampermonkey_version": {
         "message": "Тільки версія Tampermonkey"
@@ -1347,9 +1306,6 @@
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
         "message": "Це дає цим сценарієм дозвіл на отримання та відправку даних з кожної веб-сторінки. Це потенційно небезпечне!\n\nВи дійсно бажаєте продовжити?"
-    },
-    "This_is_a_chrome_extension": {
-        "message": "Це розширення браузера"
     },
     "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
         "message": "Походження цього скрипта визначити неможливо.\nАбо він був встановлений зловмисних третьою особою для крадіжки ваших особистих даних, або для якихось базових налаштувань браузера, ваша операційна система або обладнання змінилися.\nЦя модифікація дозволить це!"
@@ -1494,9 +1450,6 @@
     "Unfold_All": {
         "message": "Розгорнути всі"
     },
-    "Uninstall_Extension": {
-        "message": "Видалити розширення"
-    },
     "Unique_running_scripts": {
         "message": "Унікальні запущені скрипти"
     },
@@ -1584,9 +1537,6 @@
     },
     "Warning_unsafe_site_warnings_might_appear_": {
         "message": "Увага: можуть з'являтися попередження про ненадійного сайті, якщо скрипт містить потенційно небезпечні URL."
-    },
-    "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
-        "message": "Які дії слід виконати після успішного імпорту користувацького скрипта?"
     },
     "Whitelist": {
         "message": "Білий список"

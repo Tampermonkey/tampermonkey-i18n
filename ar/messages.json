@@ -391,9 +391,6 @@
     "Please_consider_a_contribution": {
         "message": "تبرع لنا من فضلك"
     },
-    "Please_double_check_the_native_script_import_settings__": {
-        "message": "!غير قادر على تحميل الملف\n\n.من فضلك تأكد من إعدادات «استيراد الملفات المحلية»"
-    },
     "Please_select_a_file": {
         "message": "من فضلك اختر ملفا"
     },
@@ -408,14 +405,6 @@
     },
     "Really_delete_0name0__": {
         "message": "؟'$name$' أترغب بالتأكيد بحذف",
-        "placeholders": {
-            "name": {
-                "content": "$1"
-            }
-        }
-    },
-    "Really_import_0name0__": {
-        "message": "؟'$name$' أترغب بالتأكيد من استيراد الشفرة المحلية",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -562,9 +551,6 @@
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
         "message": "!هذا يعطي الشفرة كامل الصلاحية لاستقبال وإرسال البيانات من كل صفحات الويب. وقد يكون هذا غير ءام\n\n؟أمتأكد من الاستمرار"
-    },
-    "This_is_a_chrome_extension": {
-        "message": "هذه إضافة متصفح"
     },
     "This_is_a_system_script": {
         "message": ".هذه شفرة نظام"

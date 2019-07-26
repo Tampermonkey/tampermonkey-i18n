@@ -196,9 +196,6 @@
     "Browser_API_Downloads": {
         "message": "瀏覽器 API 下載"
     },
-    "Browser_Profile_Path": {
-        "message": "瀏覽器 Profile 路徑"
-    },
     "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
         "message": "衝突：\n在 $t$ 秒前這個腳本曾被另外的分頁修改過！",
         "placeholders": {
@@ -297,9 +294,6 @@
     "Disable": {
         "message": "停用"
     },
-    "Disable_Extension": {
-        "message": "停用 Extension"
-    },
     "Disabled": {
         "message": "已停用"
     },
@@ -352,9 +346,6 @@
     "Enable_Editor": {
         "message": "啟用加強版編輯器"
     },
-    "Enable_Native_Script_Import": {
-        "message": "啟用原生腳本匯入"
-    },
     "Enable_Script_Sync": {
         "message": "啟用 TESLA"
     },
@@ -396,9 +387,6 @@
     },
     "Every_Week": {
         "message": "每週"
-    },
-    "Everything_is_setup_correctly_": {
-        "message": "設定正確。"
     },
     "Exclude_s__": {
         "message": "排除 URL(s)"
@@ -565,9 +553,6 @@
     "Native": {
         "message": "原生的"
     },
-    "Native_Script_Import": {
-        "message": "原生腳本匯入"
-    },
     "Never": {
         "message": "從不"
     },
@@ -597,9 +582,6 @@
     },
     "No_update_found__sry_": {
         "message": "沒有發現更新喔，抱歉！"
-    },
-    "None": {
-        "message": "無"
     },
     "Note": {
         "message": "說明"
@@ -660,17 +642,11 @@
     "Please_consider_a_contribution": {
         "message": "歡迎贊助"
     },
-    "Please_double_check_the_native_script_import_settings__": {
-        "message": "無法載入使用者腳本！\n\n請再次檢查「原生腳本匯入」的設定。"
-    },
     "Please_wait___": {
         "message": "請稍候..."
     },
     "Position_": {
         "message": "順位"
-    },
-    "Post_Import_Action": {
-        "message": "匯入後的動作"
     },
     "Process_with_Chrome": {
         "message": "用 Chrome 執行"
@@ -691,14 +667,6 @@
     },
     "Really_factory_reset_this_script_": {
         "message": "您確定要將此腳本重設回出廠設定嗎？"
-    },
-    "Really_import_0name0__": {
-        "message": "您確定要匯入原生腳本 '$name$'？",
-        "placeholders": {
-            "name": {
-                "content": "$1"
-            }
-        }
     },
     "Really_reset_all_changes_": {
         "message": "確定要重置所有更改嗎？"
@@ -848,9 +816,6 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "腳本同步 (Tampermonkey External Script List Access)"
     },
-    "TM_has_access_to_file_URIs": {
-        "message": "Tampermonkey 能夠存取檔案的 URIs。 :)"
-    },
     "TabMode": {
         "message": "Tab 模式"
     },
@@ -863,14 +828,8 @@
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "當這個選項被停用時，Tampermonkey 將無法提供存取 unsafe context（unsafeWindow，網頁的函式和變數）。"
     },
-    "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-        "message": "Tampermonkey 需要存取檔案 URIs 的權限才能進行腳本匯入。\n\n點此閱讀 FAQ 來取得說明！"
-    },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
         "message": "Tampermonkey 需要重啟才能套用變更。\n\n您確定要繼續嗎？"
-    },
-    "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
-        "message": "Tampermonkey 需要知道您瀏覽器的 Profile 絕對路徑才能進行腳本匯入。\n\n點此閱讀 FAQ 來取得說明！"
     },
     "Temporarily_allow": {
         "message": "暫時允許"
@@ -920,9 +879,6 @@
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
         "message": "這給予此腳本在所有網頁接收和傳送資料的權限。這可能不安全！\n\n您確定要繼續嗎？"
-    },
-    "This_is_a_chrome_extension": {
-        "message": "這是一個 Chrome 擴充功能"
     },
     "This_is_a_system_script": {
         "message": "這是一個系統腳本。"
@@ -992,9 +948,6 @@
     "Unable_to_parse_this_": {
         "message": "無法對此解析！ :("
     },
-    "Uninstall_Extension": {
-        "message": "解除安裝 Extension"
-    },
     "Unique_running_scripts": {
         "message": "單獨執行中的腳本"
     },
@@ -1058,9 +1011,6 @@
     },
     "Warning": {
         "message": "警告"
-    },
-    "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
-        "message": "在原生使用者腳本成功匯入後該執行什麼動作？"
     },
     "Whitelist": {
         "message": "白名單"

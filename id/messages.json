@@ -422,9 +422,6 @@
     "Please_consider_a_contribution": {
         "message": "Pertimbangkan memberi sumbangan."
     },
-    "Please_double_check_the_native_script_import_settings__": {
-        "message": "Tak dapat memuat Skrip Pengguna!\n\nSilakan cek kembali pengaturan tentang 'Native Script Import'."
-    },
     "Please_select_a_file": {
         "message": "Silakan pilih berkas"
     },
@@ -450,14 +447,6 @@
     },
     "Really_factory_reset_this_script_": {
         "message": "Anda yakin untuk reset pabrikan skrip ini?"
-    },
-    "Really_import_0name0__": {
-        "message": "Apakah Anda benar-benar ingin mengimpor skrip asli '$name$'?",
-        "placeholders": {
-            "name": {
-                "content": "$1"
-            }
-        }
     },
     "Really_reset_all_changes_": {
         "message": "Benar-benar atur ulang semua perubahan?"
@@ -594,9 +583,6 @@
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
         "message": "Hal ini memberikan skrip ini izin untuk mengambil dan mengirim data dari dan ke setiap halaman web. Hal ini berpotensi tidak aman!\n\nApakah Anda yakin ingin melanjutkan?"
     },
-    "This_is_a_chrome_extension": {
-        "message": "Ini adalah pengaya peramban"
-    },
     "This_is_a_system_script": {
         "message": "Ini adalah skrip sistem."
     },
@@ -642,9 +628,6 @@
     "Unable_to_parse_this_": {
         "message": "Tidak dapat mengurai ini! :("
     },
-    "Uninstall_Extension": {
-        "message": "Copot Ekstensi"
-    },
     "Unknown_method_0name0": {
         "message": "Metode yang tidak diketahui $name$",
         "placeholders": {
@@ -681,9 +664,6 @@
     },
     "Waiting_for_sync_to_finish": {
         "message": "Menunggu sinkron untuk menyelesaikan"
-    },
-    "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
-        "message": "Tindakan apa yang harus dilakukan setelah userscript asli berhasil diimpor?"
     },
     "Yes": {
         "message": "Ya"

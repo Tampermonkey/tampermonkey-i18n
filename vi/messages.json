@@ -64,9 +64,6 @@
     "Please_consider_a_contribution": {
         "message": "Vui lòng gửi một khoản đóng góp"
     },
-    "Please_double_check_the_native_script_import_settings__": {
-        "message": "Không thể tải UserScript!\n\nVui lòng kiểm tra lại thiết lập 'Nhập Native Script'."
-    },
     "Please_select_a_file": {
         "message": "Vui lòng chọn một tập tin"
     },

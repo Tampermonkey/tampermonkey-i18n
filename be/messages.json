@@ -275,9 +275,6 @@
     "Browser_API_Downloads": {
         "message": "API загрузак браўзэра"
     },
-    "Browser_Profile_Path": {
-        "message": "Шлях да профілі браўзэра"
-    },
     "Browser_Sync": {
         "message": "Сінхранізацыя браўзэра"
     },
@@ -444,9 +441,6 @@
     "Disable": {
         "message": "Адключыць"
     },
-    "Disable_Extension": {
-        "message": "Адключыць пашырэнне"
-    },
     "Disabled": {
         "message": "Адключаны"
     },
@@ -514,9 +508,6 @@
     "Enable_Editor": {
         "message": "Уключыць пашыраны рэдактар"
     },
-    "Enable_Native_Script_Import": {
-        "message": "Ўключыць імпарт ўласнага скрыпту"
-    },
     "Enable_Script_Sync": {
         "message": "Уключыць сінхранізацыю скрыптоў"
     },
@@ -558,9 +549,6 @@
     },
     "Every_Week": {
         "message": "Кожны тыдзень"
-    },
-    "Everything_is_setup_correctly_": {
-        "message": "Усё наладжана правільна."
     },
     "Exclude_0domain0": {
         "message": "Дадаць у выключэння $domain$",
@@ -855,9 +843,6 @@
     "Native": {
         "message": "Родны"
     },
-    "Native_Script_Import": {
-        "message": "Імпарт уласнага скрыпту"
-    },
     "Never": {
         "message": "Ніколі"
     },
@@ -896,9 +881,6 @@
     },
     "No_update_found__sry_": {
         "message": "Абнаўленняў не знойдзена, прабачце!"
-    },
-    "None": {
-        "message": "Няма дзеяння"
     },
     "Normal": {
         "message": "Нармальны"
@@ -971,9 +953,6 @@
     "Please_consider_a_contribution": {
         "message": "Калі ласка, адпраўце ахвяраванне"
     },
-    "Please_double_check_the_native_script_import_settings__": {
-        "message": "Немагчыма загрузіць скрыпт!\n\nКалі ласка, перепроверьте опцыю 'Імпарт скрыпту'."
-    },
     "Please_select_a_file": {
         "message": "Калі ласка, абярыце файл"
     },
@@ -982,9 +961,6 @@
     },
     "Position_": {
         "message": "Пазіцыя"
-    },
-    "Post_Import_Action": {
-        "message": "Дзеянне пасля імпарту"
     },
     "Prev_Bookmark": {
         "message": "Папярэдняя закладка"
@@ -1008,14 +984,6 @@
     },
     "Really_factory_reset_this_script_": {
         "message": "Вы сапраўды хочаце скінуць налады скрыпту?"
-    },
-    "Really_import_0name0__": {
-        "message": "Вы сапраўды хочаце імпартаваць свой уласны скрыпт '$name$'?",
-        "placeholders": {
-            "name": {
-                "content": "$1"
-            }
-        }
     },
     "Really_reset_all_changes_": {
         "message": "Вы сапраўды жадаеце адмяніць усе змены?"
@@ -1251,9 +1219,6 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Сінхранізацыя скрыптоў паміж браўзэрамі і аперацыйнымі сістэмамі"
     },
-    "TM_has_access_to_file_URIs": {
-        "message": "Tampermonkey мае доступ да файлаў URIs. :)"
-    },
     "TabMode": {
         "message": "Рэжым табуляцыі"
     },
@@ -1272,14 +1237,8 @@
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Без гэтай опцыі Tampermonkey можа забараняць доступ да небяспечнага кантэнту (unsafeWindow, функцыі і зменныя старонкі)"
     },
-    "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-        "message": "Tampermonkey неабходны доступ да файлавых URI для працы імпарту скрыпту.\n\nНацісніце тут, каб наведаць FAQ, каб даведацца, як вы можаце даць гэты дазвол!"
-    },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
         "message": "Tampermonkey неабходна перазапусціць, каб змены ўступілі ў сілу.\n\nВы хочаце працягнуць?"
-    },
-    "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
-        "message": "Для працы функцыі імпарту скрыптоў, Tampermonkey павінен ведаць абсалютны шлях да тэчцы профілю браўзэра.\n\nНацісніце тут, каб наведаць FAQ!"
     },
     "Tampermonkey_version": {
         "message": "Толькі версія Tampermonkey"
@@ -1347,9 +1306,6 @@
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
         "message": "Гэта дае гэтаму сцэнару дазвол на атрыманне і адпраўку дадзеных з кожнай вэб-старонкі. Гэта патэнцыйна небяспечна!\n\nВы ўпэўненыя, што жадаеце працягнуць?"
-    },
-    "This_is_a_chrome_extension": {
-        "message": "Гэта пашырэнне для браўзэра"
     },
     "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
         "message": "Паходжанне гэтага скрыпту вызначыць немагчыма.\nАльбо ён быў устаноўлены зламысным трэцяй асобай для крадзяжу вашых асабістых дадзеных, альбо для нейкіх базавых налад браўзэра, ваша аперацыйная сістэма або абсталяванне змяніліся.\nГэтая мадыфікацыя дазволіць гэта!"
@@ -1494,9 +1450,6 @@
     "Unfold_All": {
         "message": "Разгарнуць усё"
     },
-    "Uninstall_Extension": {
-        "message": "Выдаліць пашырэнне"
-    },
     "Unique_running_scripts": {
         "message": "Унікальныя запушчаныя скрыпты"
     },
@@ -1584,9 +1537,6 @@
     },
     "Warning_unsafe_site_warnings_might_appear_": {
         "message": "Увага: могуць з'яўляцца папярэджання аб ненадзейным сайце, калі скрыпт змяшчае патэнцыйна небяспечныя URL"
-    },
-    "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
-        "message": "Якія дзеянні варта выканаць пасля паспяховага імпарту карыстацкага скрыпту?"
     },
     "Whitelist": {
         "message": "Белы спіс"

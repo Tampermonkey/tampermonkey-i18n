@@ -275,9 +275,6 @@
     "Browser_API_Downloads": {
         "message": "Tarayıcı API İndrmeleri"
     },
-    "Browser_Profile_Path": {
-        "message": "Tarayıcı Profili Yolu"
-    },
     "Browser_Sync": {
         "message": "Tarayıcıyı Eşitle"
     },
@@ -444,9 +441,6 @@
     "Disable": {
         "message": "Etkin değil"
     },
-    "Disable_Extension": {
-        "message": "Uzantıyı devre dışı bırak"
-    },
     "Disabled": {
         "message": "Etkin değil"
     },
@@ -514,9 +508,6 @@
     "Enable_Editor": {
         "message": "Gelişmiş düzenleyiciyi etkinleştir"
     },
-    "Enable_Native_Script_Import": {
-        "message": "Yerel Komut Dosyası İçe Aktarma Etkinleştir"
-    },
     "Enable_Script_Sync": {
         "message": "Betik Eşitlemeyi Etkinleştir"
     },
@@ -558,9 +549,6 @@
     },
     "Every_Week": {
         "message": "Her Hafta"
-    },
-    "Everything_is_setup_correctly_": {
-        "message": "Her şey doğru bir şekilde kuruldu."
     },
     "Exclude_0domain0": {
         "message": "$domain$",
@@ -855,9 +843,6 @@
     "Native": {
         "message": "Yerel"
     },
-    "Native_Script_Import": {
-        "message": "Yerel Komut Dosyası İçe Aktarma"
-    },
     "Never": {
         "message": "Asla"
     },
@@ -896,9 +881,6 @@
     },
     "No_update_found__sry_": {
         "message": "Hiç güncelleme bulunamadı, üzgünüm!"
-    },
-    "None": {
-        "message": "Hiç"
     },
     "Normal": {
         "message": "Normal"
@@ -971,9 +953,6 @@
     "Please_consider_a_contribution": {
         "message": "Lütfen bağış yapmayı düşünün"
     },
-    "Please_double_check_the_native_script_import_settings__": {
-        "message": "Kullanıcı Betiği yüklenemiyor!!\n\nLütfen 'Yerel Betik İçe Aktarma' ayarlarını tekrar kontrol edin."
-    },
     "Please_select_a_file": {
         "message": "Lütfen dosya seçiniz"
     },
@@ -982,9 +961,6 @@
     },
     "Position_": {
         "message": "Konum"
-    },
-    "Post_Import_Action": {
-        "message": "İçe Aktarma İşlemi"
     },
     "Prev_Bookmark": {
         "message": "Önceki yer imi"
@@ -1008,14 +984,6 @@
     },
     "Really_factory_reset_this_script_": {
         "message": "Bu betiği fabrika ayarlarına sıfırlamak mı istiyorsun?"
-    },
-    "Really_import_0name0__": {
-        "message": "Yerel '$name$' betiğini gerçekten içe aktarmak istiyor musunuz?",
-        "placeholders": {
-            "name": {
-                "content": "$1"
-            }
-        }
     },
     "Really_reset_all_changes_": {
         "message": "Gerçekten tüm değişikler sıfırlansın mı?"
@@ -1251,9 +1219,6 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Betik eşitleme (Tampermonkey Harici Betik Listesi Erişimi)"
     },
-    "TM_has_access_to_file_URIs": {
-        "message": "Tampermonkey dosya URI'lerine erişebilir. :)"
-    },
     "TabMode": {
         "message": "Sekme Modu"
     },
@@ -1272,14 +1237,8 @@
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Tampermonkey, devre dışı bırakıldığında güvenli olmayan içeriğe (güvensiz pencere, sayfanın işlevleri ve değişkenleri) erişemeyebilir."
     },
-    "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-        "message": "Tampermonkey, komut dosyasının içe aktarılmasını sağlamak için dosya URI'lerine erişimi gerekiyor.\n\nBu izni nasıl verebileceğinizi öğrenmek için SSS bölümünü ziyaret etmek için tıklayın!"
-    },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
         "message": "Bu değişikliğin uygulanması için Tampermonkey'in yeniden başlatılması gerekir.\n\nDevam etmek istiyor musunuz?"
-    },
-    "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
-        "message": "Tampermonkey, komut dosyası alma işlevinin çalışması için tarayıcı profil klasörünün mutlak yolunu bilmelidir.\n\nBunun nerede olduğunu öğrenmek için SSS bölümünü ziyaret etmek için tıklayın!"
     },
     "Tampermonkey_version": {
         "message": "Yalnızca Tampermonkey sürümü"
@@ -1347,9 +1306,6 @@
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
         "message": "Bu, bu betiğe her web sayfasından veri almak ve göndermek için izin verir. Bu potansiyel olarak güvenilir değildir!\n\nDevam etmek istediğinize emin misiniz?"
-    },
-    "This_is_a_chrome_extension": {
-        "message": "Bu bir tarayıcı eklentisidir"
     },
     "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
         "message": "Bu betiğin kaynağı belirlenemiyor.\nYa kişisel verilerinizi çalmak amacıyla üçüncü parti zararlı tarafından yüklendi ya da bazi basit tarayıcı ayarları, işletim sistemiziniz ya da donanım değişti!\nBu değişiklik onu etkinleştirecek!"
@@ -1494,9 +1450,6 @@
     "Unfold_All": {
         "message": "Tümünden katlamayı kaldır"
     },
-    "Uninstall_Extension": {
-        "message": "Eklentiyi Kaldır"
-    },
     "Unique_running_scripts": {
         "message": "Benzersiz çalışan betikler"
     },
@@ -1584,9 +1537,6 @@
     },
     "Warning_unsafe_site_warnings_might_appear_": {
         "message": "Uyarı: Bir komut dosyası zararlı olabilecek URL'ler içeriyorsa güvensiz site uyarıları görüntülenebilir."
-    },
-    "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
-        "message": "Yerel kullanıcı betiği başarıyla içe aktarıldıktan sonra ne yapılması gerekir?"
     },
     "Whitelist": {
         "message": "Beyaz Liste"

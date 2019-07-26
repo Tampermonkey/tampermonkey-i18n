@@ -202,9 +202,6 @@
     "Browser_API_Downloads": {
         "message": "Nettleser-API-nedlastninger"
     },
-    "Browser_Profile_Path": {
-        "message": "Nettleserprofilens filbane"
-    },
     "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
         "message": "KONFLIKT:\nDette skriptet ble endret i en annen fane for $t$ sekund(er) siden!",
         "placeholders": {
@@ -309,9 +306,6 @@
     "Disable": {
         "message": "Deaktiver"
     },
-    "Disable_Extension": {
-        "message": "Deaktiver utvidelsen"
-    },
     "Disabled": {
         "message": "Deaktivert"
     },
@@ -364,9 +358,6 @@
     "Enable_Editor": {
         "message": "Aktiver den forbedrede redigereren"
     },
-    "Enable_Native_Script_Import": {
-        "message": "Aktiver innebygds skriptimport"
-    },
     "Enable_Script_Sync": {
         "message": "Aktiver TESLA"
     },
@@ -408,9 +399,6 @@
     },
     "Every_Week": {
         "message": "Hver uke"
-    },
-    "Everything_is_setup_correctly_": {
-        "message": "Alt har blitt satt opp riktig!"
     },
     "Exclude_s__": {
         "message": "Ekskluder(inger)"
@@ -592,9 +580,6 @@
     "Native": {
         "message": "Innebygget"
     },
-    "Native_Script_Import": {
-        "message": "Innebygd skriptimport"
-    },
     "Never": {
         "message": "Aldri"
     },
@@ -627,9 +612,6 @@
     },
     "No_update_found__sry_": {
         "message": "Ingen oppdatering ble funnet. Beklager!"
-    },
-    "None": {
-        "message": "Ingen"
     },
     "Note": {
         "message": "Bemerkning"
@@ -687,9 +669,6 @@
     "Please_consider_a_contribution": {
         "message": "Tenk gjerne over om du vil donere"
     },
-    "Please_double_check_the_native_script_import_settings__": {
-        "message": "Klarte ikke å laste inn brukerskriptet!\n\nVennligst dobbeltsjekk 'Innebygd skriptimport'-innstillingene."
-    },
     "Please_select_a_file": {
         "message": "Vennligst velg en fil"
     },
@@ -698,9 +677,6 @@
     },
     "Position_": {
         "message": "Plassering"
-    },
-    "Post_Import_Action": {
-        "message": "Handling etter import"
     },
     "Process_with_Chrome": {
         "message": "Behandle med nettleseren"
@@ -721,14 +697,6 @@
     },
     "Really_factory_reset_this_script_": {
         "message": "Vil du virkelig fullstendig tilbakestille dette skriptet?"
-    },
-    "Really_import_0name0__": {
-        "message": "Vil du virkelig importere '$name$'-skriptet?",
-        "placeholders": {
-            "name": {
-                "content": "$1"
-            }
-        }
     },
     "Really_reset_all_changes_": {
         "message": "Vil du virkelig tilbakestille alle endringer?"
@@ -884,9 +852,6 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Skriptsynkronisering (Tampermonkey-tilgang til eksterne skriptlister)"
     },
-    "TM_has_access_to_file_URIs": {
-        "message": "Tampermonkey har tilgang til fil-URİene. :)"
-    },
     "TabMode": {
         "message": "Fanemodus"
     },
@@ -905,14 +870,8 @@
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Tampermonkey kan muligens ikke skaffe tilgang til den usikre sammenhengen ('unsafeWindow', en sides funksjoner, og variablene) dersom dette er deaktivert."
     },
-    "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-        "message": "Tampermonkey må ha tilgang til fil-URİene for at skriptimporten skal virke.\n\nKlikk her for å besøke FAQ-siden og lære hvordan du gir den den rette tilgangen!"
-    },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
         "message": "Tampermonkey må startes på nytt for at denne endringen skal tas i bruk.\n\nVil du starte på nytt?"
-    },
-    "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
-        "message": "Tampermonkey må vite den fullstendinge filbanen til nettleserprofilmappen din for at skriptimporten skal virke.\n\nKlikk her for å besøke FAQ-siden og lære hvor denne mappen kan bli funnet!"
     },
     "Tampermonkey_version": {
         "message": "Kun Tampermonkey-versjonen"
@@ -965,9 +924,6 @@
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
         "message": "Dette gir skriptet tillatelse til å hente og sende data til og fra alle nettsider. Dette kan potensielt være utrygt.\n\nEr du sikker på at du vil fortsette?"
-    },
-    "This_is_a_chrome_extension": {
-        "message": "Dette er en nettleserutvidelse."
     },
     "This_is_a_system_script": {
         "message": "Dette er et systemskript."
@@ -1042,9 +998,6 @@
     },
     "Unable_to_parse_this_": {
         "message": "Klarte ikke å tolke dette! :("
-    },
-    "Uninstall_Extension": {
-        "message": "Avinstaller utvidelsen"
     },
     "Unique_running_scripts": {
         "message": "Unike kjørende skript"
@@ -1121,9 +1074,6 @@
     },
     "Warning": {
         "message": "Advarsel"
-    },
-    "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
-        "message": "Hva skal gjøres etter at et innebygget brukerskript ble importert med suksess?"
     },
     "Whitelist": {
         "message": "Hviteliste"

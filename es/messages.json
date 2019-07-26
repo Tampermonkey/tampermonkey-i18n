@@ -307,9 +307,6 @@
     "Disable": {
         "message": "Deshabilitar"
     },
-    "Disable_Extension": {
-        "message": "Deshabilitar extensión"
-    },
     "Disabled": {
         "message": "Desactivado"
     },
@@ -646,9 +643,6 @@
     "Please_consider_a_contribution": {
         "message": "Por favor considera una donación"
     },
-    "Please_double_check_the_native_script_import_settings__": {
-        "message": "¡No se pudo cargar el UserScript!\n\nPor favor revisa la configuración de 'Importación Nativa de Script'."
-    },
     "Please_select_a_file": {
         "message": "Por favor selecciona un archivo"
     },
@@ -898,9 +892,6 @@
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
         "message": "Esto da al script el permiso de recuperar y enviar datos desde y para cada sitio web. ¡Esto es potencialmente inseguro!\n\n¿Estás seguro de que deseas continuar?"
     },
-    "This_is_a_chrome_extension": {
-        "message": "Esta es una extensión de Chrome"
-    },
     "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
         "message": "No se pudo determinar el origen de este script.\nYa sea que fue instalado por un tercero para robar tus datos privados o algunos ajustes básicos del navegador, o que tu sistema operativo o hardware cambiaron.\n¡Esta modificación lo habilitará!"
     },
@@ -977,9 +968,6 @@
     },
     "Undo": {
         "message": "Deshacer"
-    },
-    "Uninstall_Extension": {
-        "message": "Desinstalar extensión"
     },
     "Unique_running_scripts": {
         "message": "Scripts únicos en ejecución"

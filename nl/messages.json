@@ -272,9 +272,6 @@
     "Browser_API_Downloads": {
         "message": "Browser-API Downloads"
     },
-    "Browser_Profile_Path": {
-        "message": "Browser-profielpad"
-    },
     "Browser_Sync": {
         "message": "Browsersynchronisatie"
     },
@@ -430,9 +427,6 @@
     "Disable": {
         "message": "Uitschakelen"
     },
-    "Disable_Extension": {
-        "message": "Extensie uitschakelen"
-    },
     "Disabled": {
         "message": "Uitgeschakeld"
     },
@@ -500,9 +494,6 @@
     "Enable_Editor": {
         "message": "Geavanceerde editor inschakelen"
     },
-    "Enable_Native_Script_Import": {
-        "message": "Inheemse script-import inschakelen"
-    },
     "Enable_Script_Sync": {
         "message": "Scriptsynchronisatie inschakelen"
     },
@@ -544,9 +535,6 @@
     },
     "Every_Week": {
         "message": "Wekelijks"
-    },
-    "Everything_is_setup_correctly_": {
-        "message": "Alles is correct ingesteld."
     },
     "Exclude_0domain0": {
         "message": "$domain$ uitsluiten",
@@ -838,9 +826,6 @@
     "Native": {
         "message": "Inheems"
     },
-    "Native_Script_Import": {
-        "message": "Inheemse script-import"
-    },
     "Never": {
         "message": "Nooit"
     },
@@ -879,9 +864,6 @@
     },
     "No_update_found__sry_": {
         "message": "Geen updates gevonden, sorry!"
-    },
-    "None": {
-        "message": "Geen"
     },
     "Normal": {
         "message": "Normaal"
@@ -954,9 +936,6 @@
     "Please_consider_a_contribution": {
         "message": "Geef alstublieft een donatie"
     },
-    "Please_double_check_the_native_script_import_settings__": {
-        "message": "Kan het UserScript niet laden!\n\nControleer alstublieft de Inheemse script-importinstellingen."
-    },
     "Please_select_a_file": {
         "message": "Selecteer een bestand"
     },
@@ -965,9 +944,6 @@
     },
     "Position_": {
         "message": "Positie"
-    },
-    "Post_Import_Action": {
-        "message": "Actie na importeren"
     },
     "Prev_Bookmark": {
         "message": "Vorige bladwijzer"
@@ -991,14 +967,6 @@
     },
     "Really_factory_reset_this_script_": {
         "message": "Wilt u echt dit script fabrieksresetten?"
-    },
-    "Really_import_0name0__": {
-        "message": "Wilt u het script '$name$' echt importeren?",
-        "placeholders": {
-            "name": {
-                "content": "$1"
-            }
-        }
     },
     "Really_reset_all_changes_": {
         "message": "Echt alle wijzigingen resetten?"
@@ -1234,9 +1202,6 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Synchroniseer uw scripts over browsers en besturingssystemen"
     },
-    "TM_has_access_to_file_URIs": {
-        "message": "Tampermonkey heeft toegang tot bestands-URI's. :)"
-    },
     "TabMode": {
         "message": "TabModus"
     },
@@ -1255,14 +1220,8 @@
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Het zou kunnen dat Tampermonkey geen toegang kan geven tot de onveilige context (unsafeWindow, functies en variabeles van pagina's) als dit uitgeschakeld is."
     },
-    "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-        "message": "Tampermonkey heeft toegang tot bestands-URI's nodig om script-import te laten werken.\n\nKlik hier om de FAQ te bezoeken om te leren hoe u dat recht kunt geven!"
-    },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
         "message": "Tampermonkey moet herstart worden om deze wijziging toe te passen.\n\nWilt u doorgaan?"
-    },
-    "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
-        "message": "Tampermonkey moet het absolute pad tot uw browserprofielmap weten om de scriptimportfunctie te laten werken.\n\nKlik hier om de FAQ te bezoeken om te leren waar u dit kunt vinden!"
     },
     "Tampermonkey_version": {
         "message": "Alleen Tampermonkey-versie"
@@ -1327,9 +1286,6 @@
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
         "message": "Dit geeft het script de mogelijkheid om data op te halen van en te verzenden naar elke webpagina. Dit kan onveilig zijn!\n\nWeet u zeker dat u door wilt gaan?"
-    },
-    "This_is_a_chrome_extension": {
-        "message": "Dit is een browserextensie."
     },
     "This_is_a_system_script": {
         "message": "Dit is een systeemscript."
@@ -1463,9 +1419,6 @@
     "Unfold_All": {
         "message": "Alles uitklappen"
     },
-    "Uninstall_Extension": {
-        "message": "Extensie deïnstalleren"
-    },
     "Unique_running_scripts": {
         "message": "Unieke uitgevoerde scripts"
     },
@@ -1553,9 +1506,6 @@
     },
     "Warning_unsafe_site_warnings_might_appear_": {
         "message": "Waarschuwing: onveilige site-waarschuwingen kunnen verschijnen als een script potentieel schadelijke URL's bevat."
-    },
-    "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
-        "message": "Welke actie moet ondernomen worden nadat er een inheems UserScript met succes is geïmporteerd?"
     },
     "Whitelist": {
         "message": "Whitelist"

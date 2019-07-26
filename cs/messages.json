@@ -196,9 +196,6 @@
     "Browser_API_Downloads": {
         "message": "API prohlížeče na stahování"
     },
-    "Browser_Profile_Path": {
-        "message": "Cesta k profilu prohlížeče"
-    },
     "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
         "message": "KONFLIKT:\nTento skript byl před $t$ sekundami upraven jinou záložkou!",
         "placeholders": {
@@ -297,9 +294,6 @@
     "Disable": {
         "message": "Zakázat"
     },
-    "Disable_Extension": {
-        "message": "Zakázat rozšíření"
-    },
     "Disabled": {
         "message": "Vypnuto"
     },
@@ -349,9 +343,6 @@
     "Enable_Editor": {
         "message": "Povolit rozšířený editor"
     },
-    "Enable_Native_Script_Import": {
-        "message": "Povolit nativní import skriptů"
-    },
     "Enable_Script_Sync": {
         "message": "Povolit TESLA"
     },
@@ -393,9 +384,6 @@
     },
     "Every_Week": {
         "message": "Každý týden"
-    },
-    "Everything_is_setup_correctly_": {
-        "message": "Vše je nastaveno správně"
     },
     "Exclude_s__": {
         "message": "Vynechat"
@@ -565,9 +553,6 @@
     "Native": {
         "message": "Nativní"
     },
-    "Native_Script_Import": {
-        "message": "Nativní import skriptů"
-    },
     "Never": {
         "message": "Nikdy"
     },
@@ -597,9 +582,6 @@
     },
     "No_update_found__sry_": {
         "message": "Nebyly nalezeny žádné aktualizace."
-    },
-    "None": {
-        "message": "Žádná"
     },
     "Note": {
         "message": "Poznámka"
@@ -660,17 +642,11 @@
     "Please_consider_a_contribution": {
         "message": "Zvažte prosím příspěvek vývojářům!"
     },
-    "Please_double_check_the_native_script_import_settings__": {
-        "message": "Skript nelze načíst!\n\nProsím zkontrolujte nastavení 'Nativní import skriptů'."
-    },
     "Please_wait___": {
         "message": "Prosím čekejte..."
     },
     "Position_": {
         "message": "Pozice"
-    },
-    "Post_Import_Action": {
-        "message": "Akce po importu"
     },
     "Process_with_Chrome": {
         "message": "Zpracovat Chromem"
@@ -685,14 +661,6 @@
     },
     "Really_delete_the_selected_items_": {
         "message": "Opravdu chcete smazat vybrané položky?"
-    },
-    "Really_import_0name0__": {
-        "message": "Opravdu chcete importovat nativní skript '$name$'?",
-        "placeholders": {
-            "name": {
-                "content": "$1"
-            }
-        }
     },
     "Really_reset_all_changes_": {
         "message": "Opravdu chcete resetovat všechny změny?"
@@ -848,9 +816,6 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Synchronizace skriptů (Tampermonkey External Script List Access)"
     },
-    "TM_has_access_to_file_URIs": {
-        "message": "Tampermonkey má přístup k URI adresám souborů."
-    },
     "TabMode": {
         "message": "Režim tabulátorů"
     },
@@ -866,14 +831,8 @@
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Tampermonkey možná nebude moci přistupovat k nezabezpečenému obsahu (unsafeWindow, funkce a proměnné stránky), pokud je toto zakázáno."
     },
-    "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-        "message": "Pro správnou funkci importu skriptů potřebuje Tampermonkey přístup k URI adresám souborů.\n\nKlikněte sem pro zobrazení FAQ, kde se dozvíte, jak toto oprávnění získat!"
-    },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
         "message": "Pro aplikování těchto změn je třeba Tampermonkey restartovat.\n\nChcete pokračovat?"
-    },
-    "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
-        "message": "Pro správnou funkci importu skriptů potřebuje Tampermonkey znát absolutní cestu k profilu vašeho prohlížeče.\n\nKlikněte sem pro zobrazení FAQ, kde se dozvíte, jak tuto cestu najít!"
     },
     "Temporarily_allow": {
         "message": "Povolit dočasně"
@@ -923,9 +882,6 @@
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
         "message": "Povoluje skriptu číst a odesílat data veškerých webových stránek, což je potencionálně nebezpečné! Opravdu chcete pokračovat?"
-    },
-    "This_is_a_chrome_extension": {
-        "message": "Toto je Chrome rozšíření"
     },
     "This_is_a_system_script": {
         "message": "Toto je systémový skript."
@@ -994,9 +950,6 @@
     },
     "Unable_to_parse_this_": {
         "message": "Toto nelze parsovat! :("
-    },
-    "Uninstall_Extension": {
-        "message": "Odinstalovat rozšíření"
     },
     "Unique_running_scripts": {
         "message": "Unikátní běžící skripty"
@@ -1067,9 +1020,6 @@
     },
     "Warning": {
         "message": "Varování"
-    },
-    "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
-        "message": "Jaká akce má být provedena po úspěšném nativním importu skriptu?"
     },
     "Whitelisted_File_Extensions": {
         "message": "Povolené přípony souborů"

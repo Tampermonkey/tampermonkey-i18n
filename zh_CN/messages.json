@@ -272,9 +272,6 @@
     "Browser_API_Downloads": {
         "message": "浏览器 API 下载"
     },
-    "Browser_Profile_Path": {
-        "message": "浏览器配置文件路径"
-    },
     "Browser_Sync": {
         "message": "浏览器同步"
     },
@@ -430,9 +427,6 @@
     "Disable": {
         "message": "禁用"
     },
-    "Disable_Extension": {
-        "message": "禁用扩展"
-    },
     "Disabled": {
         "message": "已禁用"
     },
@@ -500,9 +494,6 @@
     "Enable_Editor": {
         "message": "启用加强版编辑器"
     },
-    "Enable_Native_Script_Import": {
-        "message": "启用原生导入脚本"
-    },
     "Enable_Script_Sync": {
         "message": "启用 TESLA"
     },
@@ -544,9 +535,6 @@
     },
     "Every_Week": {
         "message": "每周"
-    },
-    "Everything_is_setup_correctly_": {
-        "message": "祝贺您，所有设置顺利完成。"
     },
     "Exclude_0domain0": {
         "message": "排除 $domain$",
@@ -838,9 +826,6 @@
     "Native": {
         "message": "原生"
     },
-    "Native_Script_Import": {
-        "message": "原生导入脚本"
-    },
     "Never": {
         "message": "从不"
     },
@@ -879,9 +864,6 @@
     },
     "No_update_found__sry_": {
         "message": "暂时没有更新，等会儿再来吧~"
-    },
-    "None": {
-        "message": "无"
     },
     "Normal": {
         "message": "标准"
@@ -954,9 +936,6 @@
     "Please_consider_a_contribution": {
         "message": "欢迎捐助"
     },
-    "Please_double_check_the_native_script_import_settings__": {
-        "message": "无法读取此用户脚本！\n\n请复查“原生导入脚本”的设置。"
-    },
     "Please_select_a_file": {
         "message": "请选择一个文件"
     },
@@ -965,9 +944,6 @@
     },
     "Position_": {
         "message": "位置"
-    },
-    "Post_Import_Action": {
-        "message": "导入后的操作"
     },
     "Prev_Bookmark": {
         "message": "上一个书签"
@@ -991,14 +967,6 @@
     },
     "Really_factory_reset_this_script_": {
         "message": "您真的要重置此脚本到出厂状态吗？"
-    },
-    "Really_import_0name0__": {
-        "message": "确定导入原生脚本“$name$”？",
-        "placeholders": {
-            "name": {
-                "content": "$1"
-            }
-        }
     },
     "Really_reset_all_changes_": {
         "message": "确定重置所有更改吗？"
@@ -1234,9 +1202,6 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "脚本同步 (Tampermonkey 外部脚本列表访问)"
     },
-    "TM_has_access_to_file_URIs": {
-        "message": "Tampermonkey 已有访问文件 URL 的权限。:)"
-    },
     "TabMode": {
         "message": "Tab类型"
     },
@@ -1255,14 +1220,8 @@
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "在这个选项被禁用时，Tampermonkey 可能无法提供对不安全上下文的访问（unsafeWindow、页面的函数和变量）。"
     },
-    "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-        "message": "Tampermonkey 需要访问文件 URL 的权限来确保脚本导入正常工作。\n\n点此访问“常见问题”了解如何获取该权限！"
-    },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
         "message": "Tampermonkey 需要重启才能应用此更改。\n\n您要继续吗？"
-    },
-    "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
-        "message": "Tampermonkey 需要知道浏览器配置文件夹的绝对路径来确保脚本导入正常工作。\n\n点此访问“常见问题”了解如何找到该路径！"
     },
     "Tampermonkey_version": {
         "message": "仅 Tampermonkey 版本"
@@ -1330,9 +1289,6 @@
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
         "message": "这将给予此脚本在所有页面接收和发送数据的权限。这可能不安全！\n\n您确定要继续吗？"
-    },
-    "This_is_a_chrome_extension": {
-        "message": "这是一个浏览器扩展。"
     },
     "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
         "message": "警告：此脚本的源无法确定。\n可能是被恶意的第三方安装以盗取您的私有数据或者基础的浏览器数据，您的操作系统或者硬件可能已被改变！\n当前修改会启功此脚本！"
@@ -1469,9 +1425,6 @@
     "Unfold_All": {
         "message": "展开全部"
     },
-    "Uninstall_Extension": {
-        "message": "卸载扩展"
-    },
     "Unique_running_scripts": {
         "message": "运行的脚本数量"
     },
@@ -1559,9 +1512,6 @@
     },
     "Warning_unsafe_site_warnings_might_appear_": {
         "message": "警告：如果脚本包含潜在有害的 URL，可能会出现不安全网站的警告。"
-    },
-    "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
-        "message": "成功导入一个原生脚本后进行什么操作？"
     },
     "Whitelist": {
         "message": "白名单"
