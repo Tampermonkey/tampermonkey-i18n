@@ -231,9 +231,6 @@
     "Check_only_scripts_up_to_this_size_automatically_": {
         "message": "Automaticky kontrolovať iba skripty do tejto veľkosti."
     },
-    "Sync_Reset": {
-        "message": "Resetovať Sync"
-    },
     "Classic": {
         "message": "Klasický"
     },
@@ -851,8 +848,14 @@
     "Subresource_Integrity": {
         "message": "Integrita subzdroja"
     },
+    "Sync_Reset": {
+        "message": "Resetovať Sync"
+    },
     "Sync_Type": {
         "message": "Typ"
+    },
+    "Synchronize_your_scripts_across_browsers_and_operation_systems": {
+        "message": "Synchronizácia skriptov (Tampermonkey External Script List Access)"
     },
     "TM_has_access_to_file_URIs": {
         "message": "Tampermonkey má prístup k URI adresám súborov. :)"
@@ -865,9 +868,6 @@
     },
     "Tabs": {
         "message": "Tabulátora"
-    },
-    "Synchronize_your_scripts_across_browsers_and_operation_systems": {
-        "message": "Synchronizácia skriptov (Tampermonkey External Script List Access)"
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey nemá oprávnenie pristupovať k lokálnym súborom!"
@@ -972,11 +972,11 @@
     "This_will_overwrite_your_global_settings_": {
         "message": "Toto prepíše globálne nastavenia!"
     },
-    "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
-        "message": "Chcete zmazať všetky skripty a obnoviť všetky nastavenia?"
-    },
     "This_will_remove_all_remote_data_from_sync_Ok_": {
         "message": "Chcete zmazať všetky dáta z Sync?"
+    },
+    "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
+        "message": "Chcete zmazať všetky skripty a obnoviť všetky nastavenia?"
     },
     "This_will_restart_Tampermonkey_Ok_": {
         "message": "Chcete reštartovať Tampermonkey?"

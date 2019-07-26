@@ -1,35 +1,257 @@
 {
-    "fatal_error": {
-        "message": "végzetes hiba"
-    },
-    "Please_consider_a_contribution": {
-        "message": "Kérlek, fontold meg a támogatást"
-    },
-    "I_contributed_already": {
-        "message": "Már támogattam"
-    },
-    "Remind_me_later": {
-        "message": "Emlékezz rám"
-    },
-    "I_dont_want_to_contribute": {
-        "message": "Nem akarok támogatást nyújtani"
-    },
-    "Thank_you_very_much_": {
-        "message": "Nagyon szépen köszönjük!"
-    },
-    "Invalid_UserScript__Sry_": {
-        "message": "Érvénytelen UserScript! Bocsi."
-    },
-    "Invalid_UserScript_name__Sry_": {
-        "message": "Érvénytelen UserScript név. Bocsi!"
-    },
-    "Script_name_0name0": {
-        "message": "Szkript neve: $name$",
+    "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
+        "message": "$name$ $version$ elérhetővé vált.\nKérlek, indítsd újra a böngésződet a frissítés megkezdéséhez!",
         "placeholders": {
             "name": {
                 "content": "$1"
+            },
+            "version": {
+                "content": "$2"
             }
         }
+    },
+    "15_Seconds": {
+        "message": "15 másodperc"
+    },
+    "1_Hour": {
+        "message": "1 óra"
+    },
+    "1_Minute": {
+        "message": "1 perc"
+    },
+    "30_Seconds": {
+        "message": "30 másodperc"
+    },
+    "5_Minutes": {
+        "message": "5 perc"
+    },
+    "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
+        "message": "A GreaseMonkey/FF kompatibilitási opcióinak újraellenőrzése szükséges lehet ennek a szkriptnek a futtatásához. "
+    },
+    "A_reload_is_required": {
+        "message": "Újratöltése szükséges: \nMinden mentetlen változtatás el fog veszni!"
+    },
+    "Action": {
+        "message": "Akció"
+    },
+    "Actions": {
+        "message": "Akciók"
+    },
+    "Add": {
+        "message": "Hozzáad"
+    },
+    "Add_TM_to_CSP": {
+        "message": "Add hozzá a Tampermonkey-t az oldal tartalmi biztonság irányelvéhez (TBI), ha van ilyen"
+    },
+    "Add_as_0clude0": {
+        "message": "Adj meg egy $clude$",
+        "placeholders": {
+            "clude": {
+                "content": "$1"
+            }
+        }
+    },
+    "Add_new_script___": {
+        "message": "Új szkript hozzáadása…"
+    },
+    "Add_toSource_function_to_Object_Prototype": {
+        "message": "Kompatibilitási függvények hozzáadása az objektumokhoz és tömbökhöz "
+    },
+    "Advanced": {
+        "message": "Haladó"
+    },
+    "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
+        "message": "Minden módosítás csak addig van tárolva, amíg ez az inkognitó mód be nem zárul!"
+    },
+    "All_script_settings_will_be_reset_": {
+        "message": "Minden szkript beállítás visszaállításra fog kerülni!"
+    },
+    "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
+        "message": "Engedélyezem, hogy a Tampermonkey névtelen statisztikai adatokat gyűjtsön a Google Analytics-en keresztül. Ez segíti a Tampermonkey javítását és a döntésemet abban, hogy a Tampermonkey-t milyen kritériák alapján fejlesszem. Kapcsold ki, ha ez nem tetszik."
+    },
+    "Allow_headers_to_be_modified_by_scripts": {
+        "message": "HTTP fejlécek szkript általi módosításának engedélyezése"
+    },
+    "Always": {
+        "message": "Mindig"
+    },
+    "An_error_occured_during_import_": {
+        "message": "Importálás során hiba lépett fel."
+    },
+    "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
+        "message": "Egy belső hiba lépett fel. Emennyiben ez a hiba a Chrome újraindítása után is fent áll, akkor nyomj OK-t és jelentsd be a hibát a fórumon. \n\n Meg akarod látogatni a Tampermonkey forumot? "
+    },
+    "Anonymous_statistics": {
+        "message": "Névtelen statisztika"
+    },
+    "Appearance": {
+        "message": "Megjelenés"
+    },
+    "Apply_compatibility_options_to_required_script_too": {
+        "message": "Kompatibilitási opciók alkalmazása a @require szkirptekhez is"
+    },
+    "Apply_this_action_to_the_selected_scripts": {
+        "message": "Hajtsd végre ezt a kijelölt szkripteken "
+    },
+    "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
+        "message": "Amikor a böngésződ a Tampermonkey-t frissíti akkor újra az újra is indítja. Sajnos, ez lehet, hogy elrontja az éppen futó szkripteket! \n\n Tehát biztos, hogy nem akarsz értesülni a frissítésekről?"
+    },
+    "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
+        "message": "Az oldal legalább egy része a 'tiltott oldalak' beállítások alatt szerepel!"
+    },
+    "Attention_Can_not_display_all_excludes_": {
+        "message": "Figyelem: A kizáró lista megrövidült.\nKérlek, ellenőrizd manuálisan!"
+    },
+    "Attention_Can_not_display_all_includes_": {
+        "message": "Figyelem: Az hozzárendelő lista megrövidült. \nKérlek, ellenőrizd manuálisan!"
+    },
+    "Author": {
+        "message": "Szerző"
+    },
+    "Auto": {
+        "message": "Automatikus"
+    },
+    "Auto_Indent_all": {
+        "message": "Minden automatikus indentálása"
+    },
+    "Auto_reload_on_script_enabled": {
+        "message": "Oldalak automatikus újratöltése"
+    },
+    "Auto_reload_on_script_enabled_desc": {
+        "message": "Az érintett oldalak újratöltése amennyibe a szkript ki vagy be lett kapcsolva "
+    },
+    "Beginner": {
+        "message": "Kezdő"
+    },
+    "BlackCheck": {
+        "message": "Feketelista ellenőrzés"
+    },
+    "Blacklist": {
+        "message": "Feketelista"
+    },
+    "Blacklist_Severity": {
+        "message": "A súlyossági szintből való blokkolás "
+    },
+    "Blacklisted_Pages": {
+        "message": "Feketelistás oldalak"
+    },
+    "Both": {
+        "message": "Mindkettő"
+    },
+    "Browser_API": {
+        "message": "API Böngészése"
+    },
+    "Browser_API_Downloads": {
+        "message": "Böngésző API letöltései"
+    },
+    "Browser_Profile_Path": {
+        "message": "Böngésző profil elérési útja "
+    },
+    "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
+        "message": "KONFLIKTUS:\nEzt a szkriptet egy másik fül $t$ módosította néhány másodperccel ezelőtt!",
+        "placeholders": {
+            "t": {
+                "content": "$1"
+            }
+        }
+    },
+    "Cancel": {
+        "message": "Mégsem"
+    },
+    "Changelog": {
+        "message": "Változási napló"
+    },
+    "Changes_the_number_of_visible_config_options": {
+        "message": "Látható konfigurációs opciók számának módosítása "
+    },
+    "Check_disabled_scripts": {
+        "message": "Kikapcsolt szkriptek frissítése "
+    },
+    "Check_for_Updates": {
+        "message": "Frissítések keresése"
+    },
+    "Check_for_userscripts_updates": {
+        "message": "Userscript frissítések keresése"
+    },
+    "Check_interval": {
+        "message": "Ellenőrzési gyakoriság"
+    },
+    "Classic": {
+        "message": "Klasszikus"
+    },
+    "Click_here_to_allow_TM_to_start_downloads": {
+        "message": "Az OK-ra kattintás engedélyezi a Tampermonkey instant letöltés funkcióját."
+    },
+    "Click_here_to_install_it_": {
+        "message": "Kattints ide a telepítéshez."
+    },
+    "Click_here_to_move_this_script": {
+        "message": "Kattints ide a szkript mozgatásához "
+    },
+    "Click_here_to_see_the_recent_changes": {
+        "message": "Kattints ide a legutóbbi módosítások megtekintéséhez "
+    },
+    "Close": {
+        "message": "Bezár"
+    },
+    "Comment": {
+        "message": "Megjegyzés"
+    },
+    "Config_Mode": {
+        "message": "Konfigurálási mód"
+    },
+    "Convert_Array_Assignements": {
+        "message": "[blub, bla] = s.split(':') utasítás konvertálása"
+    },
+    "Convert_CDATA_sections_into_a_chrome_compatible_format": {
+        "message": "CDATA szekció konvertálása Chrome kompatibilis formátumba "
+    },
+    "Dashboard": {
+        "message": "Kezelő fal"
+    },
+    "Debug": {
+        "message": "Hibaelhárítás"
+    },
+    "Debug_scripts": {
+        "message": "Szkriptben való hibakeresés"
+    },
+    "Default": {
+        "message": "Alapértelmezett"
+    },
+    "Delete": {
+        "message": "Törlés"
+    },
+    "Description": {
+        "message": "Leírás"
+    },
+    "Disable": {
+        "message": "Kikapcsolva"
+    },
+    "Disable_Extension": {
+        "message": "Kiegészítő kikapcsolása"
+    },
+    "Disabled": {
+        "message": "Kikapcsolva "
+    },
+    "Disabled_scripts": {
+        "message": "Kikapcsolt szkriptek "
+    },
+    "Do_you_really_want_to_store_fixed_code_": {
+        "message": "Az '$option$' opció be van kapcsolva!\n\nBiztosan tárolni akarod a javított forrást?",
+        "placeholders": {
+            "option": {
+                "content": "$1"
+            }
+        }
+    },
+    "Dont_ask_me_for_simple_script_updates": {
+        "message": "Egyszerű szkript frissítésekről ne kérdezz "
+    },
+    "Downgrade": {
+        "message": "Verzió visszaléptetése"
+    },
+    "Download_Mode": {
+        "message": "Letöltései Mód"
     },
     "Downloaded_from_0url0": {
         "message": "Letöltés forrása: $url$",
@@ -39,17 +261,104 @@
             }
         }
     },
-    "Please_double_check_the_native_script_import_settings__": {
-        "message": "Nem sikerült betölteni a UserScriptet!\n\nKérlek, ellenőrizd a ’Natív szkript importálás’ beállításait"
+    "Downloads": {
+        "message": "Letöltése"
     },
-    "Name": {
-        "message": "Név"
+    "Edit": {
+        "message": "Szerkesztés"
     },
-    "Note": {
-        "message": "Megjegyzés"
+    "Editor": {
+        "message": "Szerkesztő"
     },
-    "Installed_Version_": {
-        "message": "Telepített verzió"
+    "Editor_reset": {
+        "message": "Szerkesztő visszaállítása"
+    },
+    "Enable": {
+        "message": "Bekapcsolva"
+    },
+    "Enable_Editor": {
+        "message": "Fokozott szerkesztő bekapcsolás"
+    },
+    "Enable_Native_Script_Import": {
+        "message": "Natív szkript importálása engedélyezése"
+    },
+    "Enable_Script_Sync": {
+        "message": "KSLH bekapcsolása"
+    },
+    "Enable_autoSave": {
+        "message": "Tartalom mentése, ha a szerkesztő ki kerül a fókuszból "
+    },
+    "Enable_easySave": {
+        "message": "Ne mutass megerősítő ablakot mentéskor "
+    },
+    "Enabled": {
+        "message": "Bekapcsolva "
+    },
+    "Enter_the_new_rule": {
+        "message": "Add meg az új szabályt"
+    },
+    "Error": {
+        "message": "Hiba"
+    },
+    "Every_12_Hour": {
+        "message": "12 óránként"
+    },
+    "Every_6_Hours": {
+        "message": "6 óránként"
+    },
+    "Every_Day": {
+        "message": "Naponta"
+    },
+    "Every_Hour": {
+        "message": "Óránként"
+    },
+    "Every_Month": {
+        "message": "Havonta"
+    },
+    "Every_Week": {
+        "message": "Hetente"
+    },
+    "Everything_is_setup_correctly_": {
+        "message": "Minden helyesen van beállítva."
+    },
+    "Exclude_s__": {
+        "message": "Kizárás(ok)"
+    },
+    "Export": {
+        "message": "Exportálás"
+    },
+    "Externals": {
+        "message": "Külsők"
+    },
+    "Factory_Reset": {
+        "message": "Teljes visszaállítás"
+    },
+    "Features": {
+        "message": "Funkciók"
+    },
+    "File": {
+        "message": "Fájl"
+    },
+    "Fix_for_var_in_statements": {
+        "message": "Javítás a 'for (var j in x)' utasításra"
+    },
+    "Fix_wrappedJSObject_property_access": {
+        "message": "Javítsd ki a wrappedJSObject tulajdonságainak elérését"
+    },
+    "Full_reset": {
+        "message": "Teljes visszaállítás"
+    },
+    "GM_compat_options_": {
+        "message": "GM/FF kompatibilitási opciók"
+    },
+    "General": {
+        "message": "Általános"
+    },
+    "Get_new_scripts___": {
+        "message": "Új szkriptek beszerzése.."
+    },
+    "Get_some_scripts___": {
+        "message": "További szkriptek beszerzése…"
     },
     "Global_Settings": {
         "message": "Globális beállítások"
@@ -57,35 +366,386 @@
     "Global_settings_import": {
         "message": "Globális beállítások importálása"
     },
-    "This_will_overwrite_your_global_settings_": {
-        "message": "Ez felül fogja írni a globális beállításokat!"
+    "Help": {
+        "message": "Segítség"
     },
-    "You_are_about_to_reinstall_a_UserScript_": {
-        "message": "UserScript újratelepítése"
+    "Hide_notification_after": {
+        "message": "Értesítések elrejtésig eltelt idő "
     },
-    "You_are_about_to_downgrade_a_UserScript": {
-        "message": "Figyelem! UserScript verzió visszaléptetés"
+    "Homepage": {
+        "message": "Honlap"
     },
-    "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
-        "message": "A visszaléptetett verziós szkriptnek problémái lehetnek a tárolt adatok olvasásával!"
+    "I_contributed_already": {
+        "message": "Már támogattam"
+    },
+    "I_dont_want_to_contribute": {
+        "message": "Nem akarok támogatást nyújtani"
+    },
+    "Icon_badge_color": {
+        "message": "Icon szín"
+    },
+    "Icon_badge_info": {
+        "message": "Icon információ"
+    },
+    "Import": {
+        "message": "Importálás"
+    },
+    "Imported": {
+        "message": "Importált"
+    },
+    "Include_TM_settings": {
+        "message": "Tampermonkey beállítások hozzáadása"
+    },
+    "Include_s__": {
+        "message": "Hozzárendelés(ek)"
+    },
+    "Include_script_storage": {
+        "message": "Szkript tár hozzárendelése"
+    },
+    "Includes_Excludes": {
+        "message": "Hozzárendelések/Kizárások"
+    },
+    "Indent": {
+        "message": "Behúzás"
+    },
+    "Indent_with": {
+        "message": "Behúzáshoz használj"
+    },
+    "Indentation_Width": {
+        "message": "Behúzás szélessége"
+    },
+    "Info": {
+        "message": "Információ"
+    },
+    "Insert_constructor": {
+        "message": "Konstruktor beszúrása"
+    },
+    "Install": {
+        "message": "Telepítés"
+    },
+    "Install_this_script": {
+        "message": "Szkript telepítése"
+    },
+    "Installed_Version_": {
+        "message": "Telepített verzió"
+    },
+    "Installed_userscripts": {
+        "message": "Telepített userscriptek"
+    },
+    "Invalid_UserScript__Sry_": {
+        "message": "Érvénytelen UserScript! Bocsi."
+    },
+    "Invalid_UserScript_name__Sry_": {
+        "message": "Érvénytelen UserScript név. Bocsi!"
+    },
+    "Jump_to_line": {
+        "message": "Sorra ugrik"
+    },
+    "Just_another_service_provided_by_your_friendly_script_updater_": {
+        "message": "Ez csak egy másik szolgáltatás a barátságos szkript frissítődtől. "
+    },
+    "Key_Mapping": {
+        "message": "Billentyű hozzárendelés"
+    },
+    "Last_updated": {
+        "message": "Utolsó frissítés"
+    },
+    "Layout": {
+        "message": "Elrendezés"
+    },
+    "LogLevel": {
+        "message": "Naplózási szint"
     },
     "Malicious_scripts_can_violate_your_privacy_": {
         "message": "Rosszindulatú szkriptek megsértheti a személyiségi jogaidat, valamint cselekedhet a nevedben!\nCsak megbízható forrásból származó szkriptet telepíts! "
     },
-    "You_are_about_to_modify_a_UserScript_": {
-        "message": "UserScript módosítása"
+    "Manual_Script_Blacklist": {
+        "message": "Manuális Userscript és @require feketelista"
     },
-    "You_are_about_to_update_a_UserScript_": {
-        "message": "UserScript frissítése"
+    "Modify": {
+        "message": "Módosítás"
     },
-    "You_are_about_to_install_a_UserScript_": {
-        "message": "UserScript telepítése"
+    "Name": {
+        "message": "Név"
     },
-    "This_script_does_not_provide_any__include_information_": {
-        "message": "Ez a szkript nem tartalmaz @include információt."
+    "Native": {
+        "message": "Natív"
     },
-    "All_script_settings_will_be_reset_": {
-        "message": "Minden szkript beállítás visszaállításra fog kerülni!"
+    "Native_Script_Import": {
+        "message": "Natív szkript importálása "
+    },
+    "Never": {
+        "message": "Soha"
+    },
+    "New_script_template_": {
+        "message": "Új userscript sablon"
+    },
+    "New_userscript": {
+        "message": "<Új userscript>"
+    },
+    "No": {
+        "message": "Nem"
+    },
+    "No_entry_found": {
+        "message": "Nincs ilyen bejegyzés"
+    },
+    "No_frames": {
+        "message": "Csak a legfelső keretben fusson"
+    },
+    "No_script_is_installed": {
+        "message": "Nincs szkript telepítve"
+    },
+    "No_script_is_running": {
+        "message": "Nem fut egyetlen szkript sem"
+    },
+    "No_update_found__sry_": {
+        "message": "Nem találtunk frissítést, bocs!"
+    },
+    "None": {
+        "message": "Semmi"
+    },
+    "Note": {
+        "message": "Megjegyzés"
+    },
+    "Novice": {
+        "message": "Képzetlen"
+    },
+    "Off": {
+        "message": "Ki"
+    },
+    "Ok": {
+        "message": "Rendben"
+    },
+    "One_or_more_compatibility_options_are_set": {
+        "message": "Egy vagy több kompatibilitási opció be van kapcsolva. Talán érdemes lenne ezeket ellenőrizned. "
+    },
+    "Only_Manual": {
+        "message": "Csak manuális "
+    },
+    "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
+        "message": "Csak ilyen kiterjesztésű fájlok menthető a merevlemezre..\nFigyelj oda, hogy ne engedélyezz olyan fájl kiterjesztéseket amelyek futtatható állományokhoz tartoznak az operációs rendszereden!"
+    },
+    "Open_changelog": {
+        "message": "Változások naplójának megnyitása"
+    },
+    "Operation_completed_successfully": {
+        "message": "A feladat sikeresen végre lett hajtva "
+    },
+    "Original_excludes": {
+        "message": "Eredeti kizárások"
+    },
+    "Original_includes": {
+        "message": "Eredeti hozzárendelések "
+    },
+    "Original_matches": {
+        "message": "Eredeti illeszkedések"
+    },
+    "Page_Filter_Mode": {
+        "message": "Oldal szűrő mód"
+    },
+    "Permanent": {
+        "message": "Véglegesen"
+    },
+    "Please_consider_a_contribution": {
+        "message": "Kérlek, fontold meg a támogatást"
+    },
+    "Please_double_check_the_native_script_import_settings__": {
+        "message": "Nem sikerült betölteni a UserScriptet!\n\nKérlek, ellenőrizd a ’Natív szkript importálás’ beállításait"
+    },
+    "Please_wait___": {
+        "message": "Kérlek várj..."
+    },
+    "Position_": {
+        "message": "Pozíció"
+    },
+    "Post_Import_Action": {
+        "message": "Importálás utáni feladat"
+    },
+    "Process_with_Chrome": {
+        "message": "Chrome-al való feldolgozás"
+    },
+    "Really_delete_0name0__": {
+        "message": "Biztosan törölni akarod a '$name$' -t?",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "Really_delete_the_selected_items_": {
+        "message": "Biztosan törölni akarod a kijelölt elemeket?"
+    },
+    "Really_import_0name0__": {
+        "message": "Biztosan importálni akarod a '$name$' nevű natív szkriptet?",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "Really_reset_all_changes_": {
+        "message": "Biztosan visszaállítsuk az összes változtatást?"
+    },
+    "Reindent_on_typing": {
+        "message": "Gépelés közben behúzás"
+    },
+    "Reinstall": {
+        "message": "Újratelepítés"
+    },
+    "Remind_me_later": {
+        "message": "Emlékezz rám"
+    },
+    "Remove": {
+        "message": "Töröl"
+    },
+    "Replace": {
+        "message": "Lecserél"
+    },
+    "Replace_for_each_statements": {
+        "message": "'for each' utasítás lecserélése"
+    },
+    "Report_a_bug": {
+        "message": "Hiba jelentése "
+    },
+    "Report_an_issue_to_the_script_hoster_": {
+        "message": "Hiba jelentése a szkript kiszolgálójának.\n(Lehetséges hogy kell ehhez egy felhasználói fiók)"
+    },
+    "Requires": {
+        "message": "Meghívások"
+    },
+    "Reset_Section": {
+        "message": "Visszaállítás"
+    },
+    "Resources": {
+        "message": "Források"
+    },
+    "Restart_Tampermonkey": {
+        "message": "Tampermonkey újraindítása"
+    },
+    "Run_at": {
+        "message": "Futtasd ekkor"
+    },
+    "Run_syntax_check": {
+        "message": "Szintakszis ellenőrzés"
+    },
+    "Running_scripts": {
+        "message": "Szkript példány futtatása"
+    },
+    "Save": {
+        "message": "Mentés"
+    },
+    "Save_to_disk": {
+        "message": "Lemezre ment"
+    },
+    "Script_Blacklist_Source": {
+        "message": "Szkript feketelista forrás"
+    },
+    "Script_Sync": {
+        "message": "KSLH"
+    },
+    "Script_URL_detection": {
+        "message": "Szkript URL felismerés"
+    },
+    "Script_Update": {
+        "message": "Szkript frissítés"
+    },
+    "Script_name_0name0": {
+        "message": "Szkript neve: $name$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "Search": {
+        "message": "Keresés"
+    },
+    "Security": {
+        "message": "Biztonság"
+    },
+    "Server_And_Manual": {
+        "message": "Távoli + manuális"
+    },
+    "Settings": {
+        "message": "Beállítások"
+    },
+    "Show_fixed_source": {
+        "message": "Mutasd a kijavított forrást"
+    },
+    "Show_notification": {
+        "message": "Értesítések mutatása"
+    },
+    "Sites": {
+        "message": "Oldalak"
+    },
+    "Size": {
+        "message": "Méret"
+    },
+    "Smart": {
+        "message": "Okos"
+    },
+    "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
+        "message": "Néhány szkript lehet hogy blokkolva van az oldal Javascript beállítási vagy egy szkript blokkoló által!"
+    },
+    "Sort": {
+        "message": "Rendez"
+    },
+    "Source": {
+        "message": "Forrás"
+    },
+    "Spaces": {
+        "message": "Szóközt"
+    },
+    "Start": {
+        "message": "Indítás"
+    },
+    "Store_data_in_incognito_mode": {
+        "message": "Adatok tárolása inkognitó módban"
+    },
+    "Sync_Reset": {
+        "message": "Szinkronizáció visszaállítása"
+    },
+    "Sync_Type": {
+        "message": "Szinkronizáció típusa"
+    },
+    "Synchronize_your_scripts_across_browsers_and_operation_systems": {
+        "message": "Szkript szinkronizáció (Tampermonkey Külső Szkript Lista Hozzáférés)"
+    },
+    "TM_has_access_to_file_URIs": {
+        "message": "A Tampermonkey –nak van jogosultsága a fájl URI -ekhez. :)"
+    },
+    "TabMode": {
+        "message": "Tabulátor-mód"
+    },
+    "Tabs": {
+        "message": "Tabulátort"
+    },
+    "Tampermonkey_has_no_file_access_permission_": {
+        "message": "A Tampermonkey –nak nincs jogosultsága a helyi fájlokhoz!"
+    },
+    "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
+        "message": "A Tampermonkey lehet hogy nem tud hozzáférést nyújtani nem biztonságos kontextushoz (unsafeWindow, oldal funkciók és változók) ha ez ki van kapcsolva."
+    },
+    "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
+        "message": "Azért, hogy a szkript importáló funkció működjön a Tampermonkey-nak hozzá kell férnie a fájl URL-ekhez.\n\n nKattints ide a GYIK megtekíntéséhez ahonnan megtudhatod, hogy hogyan tudod ezt a jogosultságot megadni!"
+    },
+    "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
+        "message": "Azért, hogy a szkript importáló funkció működjön a Tampermonkey-nak ismerni kell a böngésző profilod abszolút elérési útját.\n\nKattints ide a GYIK megtekíntéséhez ahonnan megtudhatod, hogy ez hol van!"
+    },
+    "Temporary": {
+        "message": "Idéglenesen"
+    },
+    "TextArea": {
+        "message": "SzövegMező"
+    },
+    "Thank_you_very_much_": {
+        "message": "Nagyon szépen köszönjük!"
+    },
+    "The_Browser_API_mode_requires_a_special_permission_": {
+        "message": "Az API böngésző mód egy különleges jogosultságot igényel."
+    },
+    "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
+        "message": "A visszaléptetett verziós szkriptnek problémái lehetnek a tárolt adatok olvasásával!"
     },
     "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
         "message": "A frissítési cím megváltozott:\n    '$oldurl$' -ról\n    :\n    '$newurl$' -ren",
@@ -98,311 +758,8 @@
             }
         }
     },
-    "Attention_Can_not_display_all_includes_": {
-        "message": "Figyelem: Az hozzárendelő lista megrövidült. \nKérlek, ellenőrizd manuálisan!"
-    },
-    "Attention_Can_not_display_all_excludes_": {
-        "message": "Figyelem: A kizáró lista megrövidült.\nKérlek, ellenőrizd manuálisan!"
-    },
-    "Include_s__": {
-        "message": "Hozzárendelés(ek)"
-    },
-    "Exclude_s__": {
-        "message": "Kizárás(ok)"
-    },
-    "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-        "message": "A GreaseMonkey/FF kompatibilitási opcióinak újraellenőrzése szükséges lehet ennek a szkriptnek a futtatásához. "
-    },
-    "Author": {
-        "message": "Szerző"
-    },
-    "Description": {
-        "message": "Leírás"
-    },
-    "Source": {
-        "message": "Forrás"
-    },
-    "Install": {
-        "message": "Telepítés"
-    },
-    "Reinstall": {
-        "message": "Újratelepítés"
-    },
-    "Modify": {
-        "message": "Módosítás"
-    },
-    "Downgrade": {
-        "message": "Verzió visszaléptetése"
-    },
-    "Update": {
-        "message": "Frissítés"
-    },
-    "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
-        "message": "$name$ $version$ elérhetővé vált.\nKérlek, indítsd újra a böngésződet a frissítés megkezdéséhez!",
-        "placeholders": {
-            "name": {
-                "content": "$1"
-            },
-            "version": {
-                "content": "$2"
-            }
-        }
-    },
-    "Process_with_Chrome": {
-        "message": "Chrome-al való feldolgozás"
-    },
-    "No_update_found__sry_": {
-        "message": "Nem találtunk frissítést, bocs!"
-    },
-    "Unknown_method_0name0": {
-        "message": "Ismeretlen metódus $name$",
-        "placeholders": {
-            "name": {
-                "content": "$1"
-            }
-        }
-    },
-    "No_script_is_running": {
-        "message": "Nem fut egyetlen szkript sem"
-    },
-    "Add_new_script___": {
-        "message": "Új szkript hozzáadása…"
-    },
-    "Get_new_scripts___": {
-        "message": "Új szkriptek beszerzése.."
-    },
-    "Check_for_userscripts_updates": {
-        "message": "Userscript frissítések keresése"
-    },
-    "Waiting_for_sync_to_finish": {
-        "message": "Várakozása a szinkronizáció befejezésére "
-    },
-    "Settings": {
-        "message": "Beállítások"
-    },
-    "Debug_scripts": {
-        "message": "Szkriptben való hibakeresés"
-    },
-    "Show_fixed_source": {
-        "message": "Mutasd a kijavított forrást"
-    },
-    "LogLevel": {
-        "message": "Naplózási szint"
-    },
-    "Trace": {
-        "message": "Útvonal"
-    },
-    "Verbose": {
-        "message": "Beszédes"
-    },
-    "Debug": {
-        "message": "Hibaelhárítás"
-    },
-    "Installed_userscripts": {
-        "message": "Telepített userscriptek"
-    },
-    "No_script_is_installed": {
-        "message": "Nincs szkript telepítve"
-    },
-    "Get_some_scripts___": {
-        "message": "További szkriptek beszerzése…"
-    },
-    "New_userscript": {
-        "message": "<Új userscript>"
-    },
-    "Help": {
-        "message": "Segítség"
-    },
-    "Changelog": {
-        "message": "Változási napló"
-    },
-    "Position_": {
-        "message": "Pozíció"
-    },
-    "Close": {
-        "message": "Bezár"
-    },
-    "GM_compat_options_": {
-        "message": "GM/FF kompatibilitási opciók"
-    },
-    "Comment": {
-        "message": "Megjegyzés"
-    },
-    "Apply_compatibility_options_to_required_script_too": {
-        "message": "Kompatibilitási opciók alkalmazása a @require szkirptekhez is"
-    },
-    "Fix_wrappedJSObject_property_access": {
-        "message": "Javítsd ki a wrappedJSObject tulajdonságainak elérését"
-    },
-    "Convert_CDATA_sections_into_a_chrome_compatible_format": {
-        "message": "CDATA szekció konvertálása Chrome kompatibilis formátumba "
-    },
-    "Fix_for_var_in_statements": {
-        "message": "Javítás a 'for (var j in x)' utasításra"
-    },
-    "Replace_for_each_statements": {
-        "message": "'for each' utasítás lecserélése"
-    },
-    "Convert_Array_Assignements": {
-        "message": "[blub, bla] = s.split(':') utasítás konvertálása"
-    },
-    "Add_toSource_function_to_Object_Prototype": {
-        "message": "Kompatibilitási függvények hozzáadása az objektumokhoz és tömbökhöz "
-    },
-    "Run_at": {
-        "message": "Futtasd ekkor"
-    },
-    "Update_URL_": {
-        "message": "Frissítési URL"
-    },
-    "Save": {
-        "message": "Mentés"
-    },
-    "Cancel": {
-        "message": "Mégsem"
-    },
-    "Search": {
-        "message": "Keresés"
-    },
-    "Replace": {
-        "message": "Lecserél"
-    },
-    "Jump_to_line": {
-        "message": "Sorra ugrik"
-    },
-    "Insert_constructor": {
-        "message": "Konstruktor beszúrása"
-    },
-    "Auto_Indent_all": {
-        "message": "Minden automatikus indentálása"
-    },
     "There_are_unsaved_changed_": {
         "message": "Nem mentett változtatások vannak.\nBiztosan be akarod zárni a szerkesztőt?"
-    },
-    "Do_you_really_want_to_store_fixed_code_": {
-        "message": "Az '$option$' opció be van kapcsolva!\n\nBiztosan tárolni akarod a javított forrást?",
-        "placeholders": {
-            "option": {
-                "content": "$1"
-            }
-        }
-    },
-    "Really_reset_all_changes_": {
-        "message": "Biztosan visszaállítsuk az összes változtatást?"
-    },
-    "Please_wait___": {
-        "message": "Kérlek várj..."
-    },
-    "Edit": {
-        "message": "Szerkesztés"
-    },
-    "Sites": {
-        "message": "Oldalak"
-    },
-    "Sort": {
-        "message": "Rendez"
-    },
-    "Actions": {
-        "message": "Akciók"
-    },
-    "Action": {
-        "message": "Akció"
-    },
-    "Import": {
-        "message": "Importálás"
-    },
-    "Delete": {
-        "message": "Törlés"
-    },
-    "Features": {
-        "message": "Funkciók"
-    },
-    "This_script_stores_data": {
-        "message": "Ez a szkript adatokat tárol."
-    },
-    "This_script_has_access_to_https_pages": {
-        "message": "Ez a szkript https oldalakat ér el."
-    },
-    "One_or_more_compatibility_options_are_set": {
-        "message": "Egy vagy több kompatibilitási opció be van kapcsolva. Talán érdemes lenne ezeket ellenőrizned. "
-    },
-    "This_script_has_full_web_access": {
-        "message": "Ennek a szkriptnek teljes internet hozzáférése van."
-    },
-    "This_is_a_system_script": {
-        "message": "Ez egy rendszer szkript."
-    },
-    "This_is_a_chrome_extension": {
-        "message": "Ez egy Chrome kiegészítő "
-    },
-    "This_script_runs_in_Chrome_mode": {
-        "message": "Ez a szkript Chrome üzemmódban fut "
-    },
-    "This_is_a_userscript": {
-        "message": "Ez egy userscript amely Javascript nyelven íródott"
-    },
-    "Really_import_0name0__": {
-        "message": "Biztosan importálni akarod a '$name$' nevű natív szkriptet?",
-        "placeholders": {
-            "name": {
-                "content": "$1"
-            }
-        }
-    },
-    "Really_delete_0name0__": {
-        "message": "Biztosan törölni akarod a '$name$' -t?",
-        "placeholders": {
-            "name": {
-                "content": "$1"
-            }
-        }
-    },
-    "This_script_has_access_to_webpage_scripts": {
-        "message": "Ez az elem korlátlanul eléri a weboldalt."
-    },
-    "Utilities": {
-        "message": "Segédprogramok"
-    },
-    "This_script_uses_uW_gm_api_": {
-        "message": "Ez a szkript a tízes Greasmonkey API egy részét használja (unsafeWindow.gmonkey)\nezt nem támogatja a Tampermonkey vagy bármilyen más szkript kezelő."
-    },
-    "some_secs": {
-        "message": "néhány"
-    },
-    "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
-        "message": "KONFLIKTUS:\nEzt a szkriptet egy másik fül $t$ módosította néhány másodperccel ezelőtt!",
-        "placeholders": {
-            "t": {
-                "content": "$1"
-            }
-        }
-    },
-    "Enabled": {
-        "message": "Bekapcsolva "
-    },
-    "Disabled": {
-        "message": "Kikapcsolva "
-    },
-    "Unable_to_parse_this_": {
-        "message": "Ezt nem tudtuk feldolgozni! :("
-    },
-    "An_error_occured_during_import_": {
-        "message": "Importálás során hiba lépett fel."
-    },
-    "Export": {
-        "message": "Exportálás"
-    },
-    "TextArea": {
-        "message": "SzövegMező"
-    },
-    "Include_script_storage": {
-        "message": "Szkript tár hozzárendelése"
-    },
-    "Include_TM_settings": {
-        "message": "Tampermonkey beállítások hozzáadása"
-    },
-    "File": {
-        "message": "Fájl"
     },
     "There_is_an_update_for_0name0_avaiable_": {
         "message": "A '$name$' –hoz elérhető egy frissítés. :)",
@@ -412,181 +769,65 @@
             }
         }
     },
-    "Just_another_service_provided_by_your_friendly_script_updater_": {
-        "message": "Ez csak egy másik szolgáltatás a barátságos szkript frissítődtől. "
+    "This_is_a_chrome_extension": {
+        "message": "Ez egy Chrome kiegészítő "
     },
-    "Updated_to__0version0": {
-        "message": " $version$ -ra frissítve",
-        "placeholders": {
-            "version": {
-                "content": "$1"
-            }
-        }
+    "This_is_a_system_script": {
+        "message": "Ez egy rendszer szkript."
     },
-    "Click_here_to_see_the_recent_changes": {
-        "message": "Kattints ide a legutóbbi módosítások megtekintéséhez "
-    },
-    "General": {
-        "message": "Általános"
-    },
-    "Script_Update": {
-        "message": "Szkript frissítés"
-    },
-    "Check_interval": {
-        "message": "Ellenőrzési gyakoriság"
-    },
-    "Always": {
-        "message": "Mindig"
-    },
-    "Never": {
-        "message": "Soha"
-    },
-    "Every_Hour": {
-        "message": "Óránként"
-    },
-    "Every_6_Hours": {
-        "message": "6 óránként"
-    },
-    "Every_12_Hour": {
-        "message": "12 óránként"
-    },
-    "Every_Day": {
-        "message": "Naponta"
-    },
-    "Every_Week": {
-        "message": "Hetente"
-    },
-    "Every_Month": {
-        "message": "Havonta"
-    },
-    "Update_interval": {
-        "message": "Frissítési gyakoriság"
-    },
-    "Editor": {
-        "message": "Szerkesztő"
-    },
-    "Key_Mapping": {
-        "message": "Billentyű hozzárendelés"
-    },
-    "Indentation_Width": {
-        "message": "Behúzás szélessége"
-    },
-    "Indent_with": {
-        "message": "Behúzáshoz használj"
-    },
-    "Tabs": {
-        "message": "Tabulátort"
-    },
-    "Spaces": {
-        "message": "Szóközt"
-    },
-    "TabMode": {
-        "message": "Tabulátor-mód"
-    },
-    "Classic": {
-        "message": "Klasszikus"
-    },
-    "Indent": {
-        "message": "Behúzás"
-    },
-    "Smart": {
-        "message": "Okos"
-    },
-    "Reindent_on_typing": {
-        "message": "Gépelés közben behúzás"
-    },
-    "Auto_reload_on_script_enabled": {
-        "message": "Oldalak automatikus újratöltése"
-    },
-    "Auto_reload_on_script_enabled_desc": {
-        "message": "Az érintett oldalak újratöltése amennyibe a szkript ki vagy be lett kapcsolva "
-    },
-    "Anonymous_statistics": {
-        "message": "Névtelen statisztika"
-    },
-    "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-        "message": "Engedélyezem, hogy a Tampermonkey névtelen statisztikai adatokat gyűjtsön a Google Analytics-en keresztül. Ez segíti a Tampermonkey javítását és a döntésemet abban, hogy a Tampermonkey-t milyen kritériák alapján fejlesszem. Kapcsold ki, ha ez nem tetszik."
-    },
-    "Dont_ask_me_for_simple_script_updates": {
-        "message": "Egyszerű szkript frissítésekről ne kérdezz "
-    },
-    "Hide_notification_after": {
-        "message": "Értesítések elrejtésig eltelt idő "
-    },
-    "15_Seconds": {
-        "message": "15 másodperc"
-    },
-    "30_Seconds": {
-        "message": "30 másodperc"
-    },
-    "1_Minute": {
-        "message": "1 perc"
-    },
-    "5_Minutes": {
-        "message": "5 perc"
-    },
-    "1_Hour": {
-        "message": "1 óra"
-    },
-    "Enable_Editor": {
-        "message": "Fokozott szerkesztő bekapcsolás"
-    },
-    "Appearance": {
-        "message": "Megjelenés"
-    },
-    "Security": {
-        "message": "Biztonság"
-    },
-    "Downloads": {
-        "message": "Letöltése"
-    },
-    "Download_Mode": {
-        "message": "Letöltései Mód"
-    },
-    "Browser_API": {
-        "message": "API Böngészése"
-    },
-    "The_Browser_API_mode_requires_a_special_permission_": {
-        "message": "Az API böngésző mód egy különleges jogosultságot igényel."
-    },
-    "Whitelisted_File_Extensions": {
-        "message": "Fehérlistás fájl kiterjesztés "
-    },
-    "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
-        "message": "Csak ilyen kiterjesztésű fájlok menthető a merevlemezre..\nFigyelj oda, hogy ne engedélyezz olyan fájl kiterjesztéseket amelyek futtatható állományokhoz tartoznak az operációs rendszereden!"
-    },
-    "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
-        "message": "Úgy tűnik a fehérlistád futtatható fájl kiterjesztéseket tartalmaz!\nEz azt jelenti, hogy a userscriptek letölthetnek rosszindulatú vagy kémkedő alkalmazásokat!"
-    },
-    "Browser_API_Downloads": {
-        "message": "Böngésző API letöltései"
-    },
-    "Click_here_to_allow_TM_to_start_downloads": {
-        "message": "Az OK-ra kattintás engedélyezi a Tampermonkey instant letöltés funkcióját."
-    },
-    "Page_Filter_Mode": {
-        "message": "Oldal szűrő mód"
-    },
-    "Whitelisted_Pages": {
-        "message": "Fehérlistás oldalak"
-    },
-    "Blacklisted_Pages": {
-        "message": "Feketelistás oldalak"
-    },
-    "Blacklist": {
-        "message": "Feketelista"
-    },
-    "Whitelist": {
-        "message": "Fehérlista"
-    },
-    "Both": {
-        "message": "Mindkettő"
+    "This_is_a_userscript": {
+        "message": "Ez egy userscript amely Javascript nyelven íródott"
     },
     "This_page_is_blacklisted_at_the_security_settings": {
         "message": "Biztonsági beállítások alapján feketelistára került "
     },
-    "Update_Notification": {
-        "message": "TM frissítési értesítés mutatása "
+    "This_script_does_not_provide_any__include_information_": {
+        "message": "Ez a szkript nem tartalmaz @include információt."
+    },
+    "This_script_has_access_to_https_pages": {
+        "message": "Ez a szkript https oldalakat ér el."
+    },
+    "This_script_has_access_to_webpage_scripts": {
+        "message": "Ez az elem korlátlanul eléri a weboldalt."
+    },
+    "This_script_has_full_web_access": {
+        "message": "Ennek a szkriptnek teljes internet hozzáférése van."
+    },
+    "This_script_is_blacklisted_": {
+        "message": "Ez a szkript feketelistás!"
+    },
+    "This_script_runs_in_Chrome_mode": {
+        "message": "Ez a szkript Chrome üzemmódban fut "
+    },
+    "This_script_stores_data": {
+        "message": "Ez a szkript adatokat tárol."
+    },
+    "This_script_uses_uW_gm_api_": {
+        "message": "Ez a szkript a tízes Greasmonkey API egy részét használja (unsafeWindow.gmonkey)\nezt nem támogatja a Tampermonkey vagy bármilyen más szkript kezelő."
+    },
+    "This_will_overwrite_your_global_settings_": {
+        "message": "Ez felül fogja írni a globális beállításokat!"
+    },
+    "This_will_remove_all_remote_data_from_sync_Ok_": {
+        "message": "Biztosan el akarod távolítani az összes adatot a Szinkronizációból?"
+    },
+    "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
+        "message": "Biztosan el akarod távolítani az összes szkriptet és vissza akarod állítani az összes beállítást?"
+    },
+    "This_will_restart_Tampermonkey_Ok_": {
+        "message": "Biztosan újra akarod indítani a Tampermonkey-t?"
+    },
+    "Toggle_Enable": {
+        "message": "Be/Ki kapcsol"
+    },
+    "Trace": {
+        "message": "Útvonal"
+    },
+    "Trigger_Update": {
+        "message": "Frissítés indítása"
+    },
+    "Type": {
+        "message": "Típus"
     },
     "Unable_to_load_script_from_url_0url0": {
         "message": "Nem sikerült betöltni a szikriptet az  \n $url$ -ről",
@@ -596,127 +837,45 @@
             }
         }
     },
-    "Click_here_to_install_it_": {
-        "message": "Kattints ide a telepítéshez."
+    "Unable_to_parse_this_": {
+        "message": "Ezt nem tudtuk feldolgozni! :("
     },
-    "Check_disabled_scripts": {
-        "message": "Kikapcsolt szkriptek frissítése "
-    },
-    "Homepage": {
-        "message": "Honlap"
-    },
-    "Last_updated": {
-        "message": "Utolsó frissítés"
-    },
-    "Version": {
-        "message": "Verzió"
-    },
-    "Type": {
-        "message": "Típus"
-    },
-    "Check_for_Updates": {
-        "message": "Frissítések keresése"
-    },
-    "Click_here_to_move_this_script": {
-        "message": "Kattints ide a szkript mozgatásához "
-    },
-    "overwritten_by_user": {
-        "message": "felhasználó beállítások által felülírva "
-    },
-    "Report_a_bug": {
-        "message": "Hiba jelentése "
-    },
-    "A_reload_is_required": {
-        "message": "Újratöltése szükséges: \nMinden mentetlen változtatás el fog veszni!"
-    },
-    "Save_to_disk": {
-        "message": "Lemezre ment"
-    },
-    "Editor_reset": {
-        "message": "Szerkesztő visszaállítása"
-    },
-    "Full_reset": {
-        "message": "Teljes visszaállítás"
-    },
-    "Run_syntax_check": {
-        "message": "Szintakszis ellenőrzés"
-    },
-    "Dashboard": {
-        "message": "Kezelő fal"
-    },
-    "Userscripts": {
-        "message": "Userscriptek"
-    },
-    "Script_URL_detection": {
-        "message": "Szkript URL felismerés"
-    },
-    "Install_this_script": {
-        "message": "Szkript telepítése"
-    },
-    "New_script_template_": {
-        "message": "Új userscript sablon"
-    },
-    "Icon_badge_info": {
-        "message": "Icon információ"
-    },
-    "Icon_badge_color": {
-        "message": "Icon szín"
-    },
-    "Off": {
-        "message": "Ki"
-    },
-    "Running_scripts": {
-        "message": "Szkript példány futtatása"
+    "Uninstall_Extension": {
+        "message": "Kiegészítő eltávolítása"
     },
     "Unique_running_scripts": {
         "message": "Egyedi futó szkriptek "
     },
-    "Disabled_scripts": {
-        "message": "Kikapcsolt szkriptek "
-    },
-    "Config_Mode": {
-        "message": "Konfigurálási mód"
-    },
-    "Novice": {
-        "message": "Képzetlen"
-    },
-    "Beginner": {
-        "message": "Kezdő"
-    },
-    "Advanced": {
-        "message": "Haladó"
-    },
-    "Changes_the_number_of_visible_config_options": {
-        "message": "Látható konfigurációs opciók számának módosítása "
-    },
-    "Enter_the_new_rule": {
-        "message": "Add meg az új szabályt"
-    },
-    "Add_as_0clude0": {
-        "message": "Adj meg egy $clude$",
+    "Unknown_method_0name0": {
+        "message": "Ismeretlen metódus $name$",
         "placeholders": {
-            "clude": {
+            "name": {
                 "content": "$1"
             }
         }
     },
-    "Add": {
-        "message": "Hozzáad"
+    "Update": {
+        "message": "Frissítés"
     },
-    "Remove": {
-        "message": "Töröl"
+    "Update_Notification": {
+        "message": "TM frissítési értesítés mutatása "
     },
-    "Includes_Excludes": {
-        "message": "Hozzárendelések/Kizárások"
+    "Update_URL_": {
+        "message": "Frissítési URL"
     },
-    "Original_includes": {
-        "message": "Eredeti hozzárendelések "
+    "Update_interval": {
+        "message": "Frissítési gyakoriság"
     },
-    "Original_matches": {
-        "message": "Eredeti illeszkedések"
+    "Updated_to__0version0": {
+        "message": " $version$ -ra frissítve",
+        "placeholders": {
+            "version": {
+                "content": "$1"
+            }
+        }
     },
-    "Original_excludes": {
-        "message": "Eredeti kizárások"
+    "User_excludes": {
+        "message": "Felhasználói kizárások"
     },
     "User_includes": {
         "message": "Felhasználói hozzárendelések"
@@ -724,224 +883,71 @@
     "User_matches": {
         "message": "Felhasználói illeszkedések"
     },
-    "User_excludes": {
-        "message": "Felhasználói kizárások"
+    "Userscripts": {
+        "message": "Userscriptek"
     },
-    "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
-        "message": "Egy belső hiba lépett fel. Emennyiben ez a hiba a Chrome újraindítása után is fent áll, akkor nyomj OK-t és jelentsd be a hibát a fórumon. \n\n Meg akarod látogatni a Tampermonkey forumot? "
+    "Utilities": {
+        "message": "Segédprogramok"
     },
-    "Script_Sync": {
-        "message": "KSLH"
+    "Verbose": {
+        "message": "Beszédes"
     },
-    "Enable_Script_Sync": {
-        "message": "KSLH bekapcsolása"
+    "Version": {
+        "message": "Verzió"
     },
-    "Synchronize_your_scripts_across_browsers_and_operation_systems": {
-        "message": "Szkript szinkronizáció (Tampermonkey Külső Szkript Lista Hozzáférés)"
-    },
-    "Sync_Type": {
-        "message": "Szinkronizáció típusa"
-    },
-    "Imported": {
-        "message": "Importált"
-    },
-    "Allow_headers_to_be_modified_by_scripts": {
-        "message": "HTTP fejlécek szkript általi módosításának engedélyezése"
-    },
-    "Yes": {
-        "message": "Igen"
-    },
-    "No": {
-        "message": "Nem"
-    },
-    "Auto": {
-        "message": "Automatikus"
-    },
-    "__Please_choose__": {
-        "message": "—Kérlek válassz --"
-    },
-    "Enable": {
-        "message": "Bekapcsolva"
-    },
-    "Disable": {
-        "message": "Kikapcsolva"
-    },
-    "Toggle_Enable": {
-        "message": "Be/Ki kapcsol"
-    },
-    "Trigger_Update": {
-        "message": "Frissítés indítása"
-    },
-    "Apply_this_action_to_the_selected_scripts": {
-        "message": "Hajtsd végre ezt a kijelölt szkripteken "
-    },
-    "Start": {
-        "message": "Indítás"
-    },
-    "Really_delete_the_selected_items_": {
-        "message": "Biztosan törölni akarod a kijelölt elemeket?"
-    },
-    "Reset_Section": {
-        "message": "Visszaállítás"
-    },
-    "Restart_Tampermonkey": {
-        "message": "Tampermonkey újraindítása"
-    },
-    "This_will_restart_Tampermonkey_Ok_": {
-        "message": "Biztosan újra akarod indítani a Tampermonkey-t?"
-    },
-    "Factory_Reset": {
-        "message": "Teljes visszaállítás"
-    },
-    "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
-        "message": "Biztosan el akarod távolítani az összes szkriptet és vissza akarod állítani az összes beállítást?"
-    },
-    "Sync_Reset": {
-        "message": "Szinkronizáció visszaállítása"
-    },
-    "This_will_remove_all_remote_data_from_sync_Ok_": {
-        "message": "Biztosan el akarod távolítani az összes adatot a Szinkronizációból?"
-    },
-    "Enable_autoSave": {
-        "message": "Tartalom mentése, ha a szerkesztő ki kerül a fókuszból "
-    },
-    "Enable_easySave": {
-        "message": "Ne mutass megerősítő ablakot mentéskor "
-    },
-    "Add_TM_to_CSP": {
-        "message": "Add hozzá a Tampermonkey-t az oldal tartalmi biztonság irányelvéhez (TBI), ha van ilyen"
-    },
-    "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
-        "message": "A Tampermonkey lehet hogy nem tud hozzáférést nyújtani nem biztonságos kontextushoz (unsafeWindow, oldal funkciók és változók) ha ez ki van kapcsolva."
-    },
-    "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-        "message": "Az oldal legalább egy része a 'tiltott oldalak' beállítások alatt szerepel!"
-    },
-    "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
-        "message": "Néhány szkript lehet hogy blokkolva van az oldal Javascript beállítási vagy egy szkript blokkoló által!"
-    },
-    "Show_notification": {
-        "message": "Értesítések mutatása"
-    },
-    "Open_changelog": {
-        "message": "Változások naplójának megnyitása"
-    },
-    "No_frames": {
-        "message": "Csak a legfelső keretben fusson"
-    },
-    "Native": {
-        "message": "Natív"
-    },
-    "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
-        "message": "Azért, hogy a szkript importáló funkció működjön a Tampermonkey-nak ismerni kell a böngésző profilod abszolút elérési útját.\n\nKattints ide a GYIK megtekíntéséhez ahonnan megtudhatod, hogy ez hol van!"
-    },
-    "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-        "message": "Azért, hogy a szkript importáló funkció működjön a Tampermonkey-nak hozzá kell férnie a fájl URL-ekhez.\n\n nKattints ide a GYIK megtekíntéséhez ahonnan megtudhatod, hogy hogyan tudod ezt a jogosultságot megadni!"
-    },
-    "Tampermonkey_has_no_file_access_permission_": {
-        "message": "A Tampermonkey –nak nincs jogosultsága a helyi fájlokhoz!"
-    },
-    "Everything_is_setup_correctly_": {
-        "message": "Minden helyesen van beállítva."
-    },
-    "TM_has_access_to_file_URIs": {
-        "message": "A Tampermonkey –nak van jogosultsága a fájl URI -ekhez. :)"
-    },
-    "Browser_Profile_Path": {
-        "message": "Böngésző profil elérési útja "
-    },
-    "Native_Script_Import": {
-        "message": "Natív szkript importálása "
-    },
-    "Enable_Native_Script_Import": {
-        "message": "Natív szkript importálása engedélyezése"
-    },
-    "Post_Import_Action": {
-        "message": "Importálás utáni feladat"
-    },
-    "None": {
-        "message": "Semmi"
-    },
-    "Disable_Extension": {
-        "message": "Kiegészítő kikapcsolása"
-    },
-    "Uninstall_Extension": {
-        "message": "Kiegészítő eltávolítása"
-    },
-    "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
-        "message": "Mi történjen a natív sikeres userscript importálása után?"
-    },
-    "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
-        "message": "Amikor a böngésződ a Tampermonkey-t frissíti akkor újra az újra is indítja. Sajnos, ez lehet, hogy elrontja az éppen futó szkripteket! \n\n Tehát biztos, hogy nem akarsz értesülni a frissítésekről?"
-    },
-    "Operation_completed_successfully": {
-        "message": "A feladat sikeresen végre lett hajtva "
-    },
-    "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-        "message": "Minden módosítás csak addig van tárolva, amíg ez az inkognitó mód be nem zárul!"
-    },
-    "_not_set_": {
-        "message": "<nincs bállítva>"
-    },
-    "Layout": {
-        "message": "Elrendezés"
-    },
-    "Store_data_in_incognito_mode": {
-        "message": "Adatok tárolása inkognitó módban"
-    },
-    "Temporary": {
-        "message": "Idéglenesen"
-    },
-    "Permanent": {
-        "message": "Véglegesen"
+    "Waiting_for_sync_to_finish": {
+        "message": "Várakozása a szinkronizáció befejezésére "
     },
     "Warning": {
         "message": "Figyelmeztetés"
     },
-    "Info": {
-        "message": "Információ"
+    "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
+        "message": "Mi történjen a natív sikeres userscript importálása után?"
     },
-    "Error": {
-        "message": "Hiba"
+    "Whitelist": {
+        "message": "Fehérlista"
     },
-    "Externals": {
-        "message": "Külsők"
+    "Whitelisted_File_Extensions": {
+        "message": "Fehérlistás fájl kiterjesztés "
     },
-    "Requires": {
-        "message": "Meghívások"
+    "Whitelisted_Pages": {
+        "message": "Fehérlistás oldalak"
     },
-    "Resources": {
-        "message": "Források"
+    "Yes": {
+        "message": "Igen"
     },
-    "Size": {
-        "message": "Méret"
+    "You_are_about_to_downgrade_a_UserScript": {
+        "message": "Figyelem! UserScript verzió visszaléptetés"
     },
-    "No_entry_found": {
-        "message": "Nincs ilyen bejegyzés"
+    "You_are_about_to_install_a_UserScript_": {
+        "message": "UserScript telepítése"
     },
-    "BlackCheck": {
-        "message": "Feketelista ellenőrzés"
+    "You_are_about_to_modify_a_UserScript_": {
+        "message": "UserScript módosítása"
     },
-    "Script_Blacklist_Source": {
-        "message": "Szkript feketelista forrás"
+    "You_are_about_to_reinstall_a_UserScript_": {
+        "message": "UserScript újratelepítése"
     },
-    "Server_And_Manual": {
-        "message": "Távoli + manuális"
+    "You_are_about_to_update_a_UserScript_": {
+        "message": "UserScript frissítése"
     },
-    "Only_Manual": {
-        "message": "Csak manuális "
+    "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
+        "message": "A nyelved jelenleg nem támogatott?\nKattints ide ahhoz, hogy megtudd, hogy hogyan fordíthatod le a Tampermonkey-t."
     },
-    "Manual_Script_Blacklist": {
-        "message": "Manuális Userscript és @require feketelista"
+    "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
+        "message": "Úgy tűnik a fehérlistád futtatható fájl kiterjesztéseket tartalmaz!\nEz azt jelenti, hogy a userscriptek letölthetnek rosszindulatú vagy kémkedő alkalmazásokat!"
     },
-    "This_script_is_blacklisted_": {
-        "message": "Ez a szkript feketelistás!"
+    "__Please_choose__": {
+        "message": "—Kérlek válassz --"
     },
-    "Report_an_issue_to_the_script_hoster_": {
-        "message": "Hiba jelentése a szkript kiszolgálójának.\n(Lehetséges hogy kell ehhez egy felhasználói fiók)"
+    "_not_set_": {
+        "message": "<nincs bállítva>"
     },
-    "Blacklist_Severity": {
-        "message": "A súlyossági szintből való blokkolás "
+    "fatal_error": {
+        "message": "végzetes hiba"
+    },
+    "overwritten_by_user": {
+        "message": "felhasználó beállítások által felülírva "
     },
     "severity_1": {
         "message": "1 (legbiztonságosabb)"
@@ -949,13 +955,7 @@
     "severity_10": {
         "message": "10 (legkevésbé biztonságos)"
     },
-    "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
-        "message": "A nyelved jelenleg nem támogatott?\nKattints ide ahhoz, hogy megtudd, hogy hogyan fordíthatod le a Tampermonkey-t."
-    },
-    "Default": {
-        "message": "Alapértelmezett"
-    },
-    "Ok": {
-        "message": "Rendben"
+    "some_secs": {
+        "message": "néhány"
     }
 }

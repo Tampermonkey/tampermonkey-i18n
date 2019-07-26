@@ -1,142 +1,4 @@
 {
-    "fatal_error": {
-        "message": "خطأ قاتل"
-    },
-    "Please_consider_a_contribution": {
-        "message": "تبرع لنا من فضلك"
-    },
-    "I_contributed_already": {
-        "message": "لقد تبرعت بالفعل"
-    },
-    "Remind_me_later": {
-        "message": "ذكرني لاحقاَ"
-    },
-    "I_dont_want_to_contribute": {
-        "message": "لا أريد أن أتبرع"
-    },
-    "Thank_you_very_much_": {
-        "message": "!شكرا جزيلاَ"
-    },
-    "Invalid_UserScript__Sry_": {
-        "message": "ملف غير صالح! المعذرة"
-    },
-    "Invalid_UserScript_name__Sry_": {
-        "message": "اسم الملف غير صالح! المعذرة"
-    },
-    "Script_name_0name0": {
-        "message": "$name$: اسم الملف",
-        "placeholders": {
-            "name": {
-                "content": "$1"
-            }
-        }
-    },
-    "Downloaded_from_0url0": {
-        "message": "$url$ تم التحميل من:",
-        "placeholders": {
-            "url": {
-                "content": "$1"
-            }
-        }
-    },
-    "Please_double_check_the_native_script_import_settings__": {
-        "message": "!غير قادر على تحميل الملف\n\n.من فضلك تأكد من إعدادات «استيراد الملفات المحلية»"
-    },
-    "Name": {
-        "message": "الاسم"
-    },
-    "Note": {
-        "message": "ملاحظة"
-    },
-    "Installed_Version_": {
-        "message": "النسخة المثبتة"
-    },
-    "Global_Settings": {
-        "message": "الإعدادات العامة"
-    },
-    "Global_settings_import": {
-        "message": "استيراد الإعدادت العامة"
-    },
-    "This_will_overwrite_your_global_settings_": {
-        "message": "!سيتم استبدال إعداداتك العامة"
-    },
-    "You_are_about_to_reinstall_a_UserScript_": {
-        "message": "إعادة تثبيت ملف الشفرة المصدرية"
-    },
-    "You_are_about_to_downgrade_a_UserScript": {
-        "message": "!انتبه نسخة قديمة من الملف"
-    },
-    "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
-        "message": "النسخة القديمة قد تحوي مشاكل عند قراءة معلوماتها المخزنة"
-    },
-    "Malicious_scripts_can_violate_your_privacy_": {
-        "message": "!الشفرات الخبيثة قد تخترق خصوصيتك وتتصرف نيابة عنك\n.يجب عليك تثبيث الشفرات من المصادر الموثوقة فقط"
-    },
-    "You_are_about_to_modify_a_UserScript_": {
-        "message": "تعديل الشفرة"
-    },
-    "You_are_about_to_update_a_UserScript_": {
-        "message": "تحديث الشفرة"
-    },
-    "You_are_about_to_install_a_UserScript_": {
-        "message": "تثبيت الشفرة"
-    },
-    "This_script_does_not_provide_any__include_information_": {
-        "message": ".هذه الشفرة لا توفر أي معلومات @include مضمنة"
-    },
-    "All_script_settings_will_be_reset_": {
-        "message": ".ستم إعادة ضبط جميع إعدادات الشفرة"
-    },
-    "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
-        "message": ":تغير رابط التحديث من\n    '$oldurl$'\n    إلى\n    '$newurl$'\n",
-        "placeholders": {
-            "oldurl": {
-                "content": "$1"
-            },
-            "newurl": {
-                "content": "$2"
-            }
-        }
-    },
-    "Attention_Can_not_display_all_includes_": {
-        "message": ".تنبيه: القائمة المضمنة تم قصها\n!من فضلك افحصها يدويا"
-    },
-    "Attention_Can_not_display_all_excludes_": {
-        "message": ".تنبيه: قائمة الاستبعاد تم قصها\n!من فضلك افحصها يدويا"
-    },
-    "Include_s__": {
-        "message": "(مضمن (مضمنات"
-    },
-    "Exclude_s__": {
-        "message": "(مستبعد (مستبعدات"
-    },
-    "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-        "message": "قد تحتاج لإعادة فحص خيارات تكامل/FF .GreaseMonkey لتعمل هذه الشفرة"
-    },
-    "Author": {
-        "message": "المؤلف"
-    },
-    "Description": {
-        "message": "الوصف"
-    },
-    "Source": {
-        "message": "المصدر"
-    },
-    "Install": {
-        "message": "تثبيت"
-    },
-    "Reinstall": {
-        "message": "إعادة تثبيت"
-    },
-    "Modify": {
-        "message": "تعديل"
-    },
-    "Downgrade": {
-        "message": "تثبيت نسخة قديمة"
-    },
-    "Update": {
-        "message": "تحديث"
-    },
     "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
         "message": " .$name$ $version$ متوافرة\n!من فضلك أعد تشغيل المتصفح لبدءالتحديث",
         "placeholders": {
@@ -148,64 +10,23 @@
             }
         }
     },
-    "Process_with_Chrome": {
-        "message": "معالجة مع المتصفح"
+    "15_Seconds": {
+        "message": " ثانية 15"
     },
-    "Enforce": {
-        "message": "فرض"
+    "1_Hour": {
+        "message": "ساعة واحدة"
     },
-    "Strict": {
-        "message": "صارم"
+    "1_Minute": {
+        "message": "دقيقة واحدة"
     },
-    "connect_mode": {
-        "message": "@connect mode"
+    "30_Seconds": {
+        "message": "30 ثانية"
     },
-    "Ask_if_unknown": {
-        "message": "اسأل إذا كان مجهولا"
+    "5_Minutes": {
+        "message": "خمس دقائق"
     },
-    "Always_ask": {
-        "message": "السؤال دائما"
-    },
-    "Allow_once": {
-        "message": "اسمح مرة واحدة"
-    },
-    "Temporarily_allow": {
-        "message": "اسمح فقط هذه المرة"
-    },
-    "Always_allow": {
-        "message": "اسمح دائما"
-    },
-    "Always_allow_domain": {
-        "message": "اسمح دائما لهذا النطاق"
-    },
-    "Always_allow_all_domains": {
-        "message": "اسمح دائما لجميع النطاقات"
-    },
-    "Forbid_once": {
-        "message": "امنع فقط هذه المرة"
-    },
-    "Always_forbid": {
-        "message": "المنع دائما"
-    },
-    "Always_forbid_domain": {
-        "message": "امنع هذا النطاق"
-    },
-    "Dont_ask_again": {
-        "message": "لا تسأل مرة أخرى"
-    },
-    "Focus_tab": {
-        "message": "ركز على تبويب المصدر"
-    },
-    "Skip_timeout__0seconds0_seconds_": {
-        "message": "($seconds$ seconds) تخطي بعد: ",
-        "placeholders": {
-            "seconds": {
-                "content": "$1"
-            }
-        }
-    },
-    "A_userscript_wants_to_access_a_cross_origin_resource_": {
-        "message": ".حاول شفرة الاتصال بنطاق آخر"
+    "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
+        "message": "قد تحتاج لإعادة فحص خيارات تكامل/FF .GreaseMonkey لتعمل هذه الشفرة"
     },
     "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
         "message": ".الاتصال بنطاق آخر ليس أمرا غير شائع\n.يتوجب عليك التأكد فقط  من وجود سب وجيه لمحاولة شفرة الاتصال بهذا النطاق\n.فمثلا هناك أسباب قليلة جدا ليحاول الكود الاتصال بموقع بنكك\n\n.انتبه من فضلك إلي أن مؤلفي الأكواد قد يتخطون هذا التنبيه عبر إضافة: [url=$connect$]@connect tags[/url] إلي أكوادهم\n\n.مهما كان قرارك يمكنك تغييره في [url=$settings$]settings tab[/url]",
@@ -218,374 +39,8 @@
             }
         }
     },
-    "Tab_URL": {
-        "message": "تبويب الرابط"
-    },
-    "Destination_domain": {
-        "message": "النطاق المستهدف"
-    },
-    "Destination_URL": {
-        "message": "الرابط المستهدف"
-    },
-    "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
-        "message": "!هذا يعطي الشفرة كامل الصلاحية لاستقبال وإرسال البيانات من كل صفحات الويب. وقد يكون هذا غير ءام\n\n؟أمتأكد من الاستمرار"
-    },
-    "No_update_found__sry_": {
-        "message": "!لا يوجد تحديث"
-    },
-    "Unknown_method_0name0": {
-        "message": "$name$ طريقة مجهولة",
-        "placeholders": {
-            "name": {
-                "content": "$1"
-            }
-        }
-    },
-    "No_script_is_running": {
-        "message": "الشفرة لا تعمل"
-    },
-    "Add_new_script___": {
-        "message": "إضافة شفرة جديدة"
-    },
-    "Get_new_scripts___": {
-        "message": "الحصول على شفرات جديدة"
-    },
-    "Check_for_userscripts_updates": {
-        "message": "التحقق من تحديثات لشفرات"
-    },
-    "Waiting_for_sync_to_finish": {
-        "message": "الانتظار حتى انتهاء المزامنة"
-    },
-    "Settings": {
-        "message": "الإعدادات"
-    },
-    "Debug_scripts": {
-        "message": "تصحيح الشفرات"
-    },
-    "Show_fixed_source": {
-        "message": "إظهار المصدر الثابت"
-    },
-    "LogLevel": {
-        "message": "مستوى سجل الأداء"
-    },
-    "Trace": {
-        "message": "تتبع"
-    },
-    "Verbose": {
-        "message": "مسهب"
-    },
-    "Debug": {
-        "message": "تصحيح"
-    },
-    "Installed_userscripts": {
-        "message": "الشفرات المثبتة"
-    },
-    "No_script_is_installed": {
-        "message": "شفرات غير مثبتة"
-    },
-    "Get_some_scripts___": {
-        "message": "...احصل على بعض الشفرات"
-    },
-    "New_userscript": {
-        "message": "<شفرة جديدة>"
-    },
-    "Help": {
-        "message": "مساعدة"
-    },
-    "Changelog": {
-        "message": "سجل التغييرات"
-    },
-    "Position_": {
-        "message": "الموضع"
-    },
-    "Close": {
-        "message": "غلق"
-    },
-    "GM_compat_options_": {
-        "message": "GM/FF خيارات توافق"
-    },
-    "Comment": {
-        "message": "تعليق"
-    },
-    "Details": {
-        "message": "تفاصيل"
-    },
-    "Apply_compatibility_options_to_required_script_too": {
-        "message": "تطبيق خيارات التوافق على شفرات @require أيضا"
-    },
-    "Convert_CDATA_sections_into_a_chrome_compatible_format": {
-        "message": "تحويل أقسام CDATA إلى صيغة متوافقة مع المتصفح"
-    },
-    "Replace_for_each_statements": {
-        "message": "'for each' استبدال جمل"
-    },
-    "Run_at": {
-        "message": "تشغيل عند"
-    },
-    "Update_URL_": {
-        "message": "رابط التحديث"
-    },
-    "Save": {
-        "message": "حفظ"
-    },
-    "Cancel": {
-        "message": "إلغاء"
-    },
-    "Search": {
-        "message": "بحث"
-    },
-    "Replace": {
-        "message": "استبدال"
-    },
-    "Jump_to_line": {
-        "message": "القفز إلى سطر"
-    },
-    "Insert_constructor": {
-        "message": "إدراج constructor"
-    },
-    "Search_for": {
-        "message": "البحث عن"
-    },
-    "Replace_all_with": {
-        "message": "استبدال الكل"
-    },
-    "Replace_with": {
-        "message": "استبدال بـ"
-    },
-    "Replace_": {
-        "message": "استبدال؟"
-    },
-    "There_are_unsaved_changed_": {
-        "message": ".هناك تغييرات غير محفوظة\nأمتأكد من غلق المحرر؟"
-    },
-    "Really_reset_all_changes_": {
-        "message": "أمتاكد من إعادة ضبط كل التغييرات؟"
-    },
-    "Please_wait___": {
-        "message": "...انتظر من فضلك"
-    },
-    "Edit": {
-        "message": "تحرير"
-    },
-    "Sites": {
-        "message": "المواقع"
-    },
-    "Sort": {
-        "message": "تصنيف"
-    },
-    "Please_select_a_file": {
-        "message": "من فضلك اختر ملفا"
-    },
-    "Cloud": {
-        "message": "التخزين السحابي"
-    },
-    "Import": {
-        "message": "استيراد"
-    },
-    "Show_backups": {
-        "message": "إظهار النسخ الإحتياطية"
-    },
-    "Delete": {
-        "message": "حذف"
-    },
-    "Features": {
-        "message": "المواصفات"
-    },
-    "This_script_stores_data": {
-        "message": "Tampermonkey هذه الشفرة تحفظ البيانات في"
-    },
-    "This_script_has_access_to_https_pages": {
-        "message": "(HTTPS pages) هذه الشفرة لديها صلاحية الدخول على صفحات الويب المشفرة"
-    },
-    "One_or_more_compatibility_options_are_set": {
-        "message": "تم ضبط خيار توافق أو أكثر. قد تريد/يتوجب عليك مراجعتها"
-    },
-    "This_script_has_full_web_access": {
-        "message": "هذه الشفرة لديها كامل صلاحية الدخول على شبكة الأنترنت"
-    },
-    "This_is_a_system_script": {
-        "message": ".هذه شفرة نظام"
-    },
-    "This_is_a_chrome_extension": {
-        "message": "هذه إضافة متصفح"
-    },
-    "This_script_runs_in_Chrome_mode": {
-        "message": "chrome هذه الشفرة تعمل في وضع"
-    },
-    "This_is_a_userscript": {
-        "message": "Javascript هذه الشفرة مكتوبة بلغة"
-    },
-    "Really_import_0name0__": {
-        "message": "؟'$name$' أترغب بالتأكيد من استيراد الشفرة المحلية",
-        "placeholders": {
-            "name": {
-                "content": "$1"
-            }
-        }
-    },
-    "Really_delete_0name0__": {
-        "message": "؟'$name$' أترغب بالتأكيد بحذف",
-        "placeholders": {
-            "name": {
-                "content": "$1"
-            }
-        }
-    },
-    "This_script_has_access_to_webpage_scripts": {
-        "message": ".هذه الشفرة لديها كامل الصلاحية لدخول هذه الصفحة"
-    },
-    "Utilities": {
-        "message": "الأدوات"
-    },
-    "Enabled": {
-        "message": "مُمَكَّـن"
-    },
-    "Disabled": {
-        "message": "معطّـل"
-    },
-    "An_error_occured_during_import_": {
-        "message": "حصل خطأ عند التحميل."
-    },
-    "Export": {
-        "message": "تصدير"
-    },
-    "TextArea": {
-        "message": "منطقة الكتابة"
-    },
-    "Click_here_to_see_the_recent_changes": {
-        "message": "اضغط هنا لرؤية آخر التغييرات"
-    },
-    "General": {
-        "message": "عام"
-    },
-    "Script_Update": {
-        "message": "تحديث الشفرة"
-    },
-    "Always": {
-        "message": "دائما"
-    },
-    "Never": {
-        "message": "أبدا"
-    },
-    "Every_Hour": {
-        "message": "كل ساعة"
-    },
-    "Every_6_Hours": {
-        "message": "كل 6 ساعات"
-    },
-    "Every_12_Hour": {
-        "message": "كل 12 ساعة"
-    },
-    "Every_Day": {
-        "message": "كل يوم"
-    },
-    "Every_Week": {
-        "message": "كل أسبوع"
-    },
-    "Every_Month": {
-        "message": "كل شهر"
-    },
-    "Editor": {
-        "message": "المحرر"
-    },
-    "Font_Size": {
-        "message": "حجم الخط"
-    },
-    "Theme": {
-        "message": "المظاهر"
-    },
-    "Windows": {
-        "message": "النوافذ"
-    },
-    "Today": {
-        "message": "اليوم"
-    },
-    "15_Seconds": {
-        "message": " ثانية 15"
-    },
-    "30_Seconds": {
-        "message": "30 ثانية"
-    },
-    "1_Minute": {
-        "message": "دقيقة واحدة"
-    },
-    "5_Minutes": {
-        "message": "خمس دقائق"
-    },
-    "1_Hour": {
-        "message": "ساعة واحدة"
-    },
-    "Enable_Editor": {
-        "message": "تمكين المحرر المحسن"
-    },
-    "Appearance": {
-        "message": "المظهر"
-    },
-    "Security": {
-        "message": "الأمان"
-    },
-    "Downloads": {
-        "message": "التحميلات"
-    },
-    "Download_Mode": {
-        "message": "وضع التحميل"
-    },
-    "Blacklist": {
-        "message": "القائمة السوداء"
-    },
-    "Whitelist": {
-        "message": "القائمة البيضاء"
-    },
-    "Both": {
-        "message": "كلاهما"
-    },
-    "Experimental": {
-        "message": "تجريبي"
-    },
-    "Fast": {
-        "message": "سريع"
-    },
-    "Homepage": {
-        "message": "الصفحة الرئيسة"
-    },
-    "Updates": {
-        "message": "التحديثات"
-    },
-    "Check_for_Updates": {
-        "message": "البحث عن تحديثات"
-    },
-    "Click_here_to_move_this_script": {
-        "message": "اضغط هنا لنقل الشفرة"
-    },
-    "Report_a_bug": {
-        "message": "الإبلاغ عن مشكلة"
-    },
-    "Save_to_disk": {
-        "message": "حفظ على القرص"
-    },
-    "Full_reset": {
-        "message": "إعادة ضبط المصنع"
-    },
-    "Install_this_script": {
-        "message": "تثبيت هذه الشفرة"
-    },
-    "New_script_template_": {
-        "message": "قالب ملف شفرة جديد"
-    },
-    "Disabled_scripts": {
-        "message": "الشفرات المعطلة"
-    },
-    "Novice": {
-        "message": "أول مرة"
-    },
-    "Beginner": {
-        "message": "مبتدأ"
-    },
-    "Advanced": {
-        "message": "متقدم"
-    },
-    "Enter_the_new_rule": {
-        "message": "أدخل القاعدة الجديدة"
+    "A_userscript_wants_to_access_a_cross_origin_resource_": {
+        "message": ".حاول شفرة الاتصال بنطاق آخر"
     },
     "Add_as_0clude0": {
         "message": "$clude$ إضافة كـ",
@@ -595,23 +50,407 @@
             }
         }
     },
-    "Yes": {
-        "message": "نعم"
+    "Add_new_script___": {
+        "message": "إضافة شفرة جديدة"
     },
-    "No": {
-        "message": "لا"
+    "Advanced": {
+        "message": "متقدم"
+    },
+    "All_script_settings_will_be_reset_": {
+        "message": ".ستم إعادة ضبط جميع إعدادات الشفرة"
+    },
+    "Allow_once": {
+        "message": "اسمح مرة واحدة"
+    },
+    "Always": {
+        "message": "دائما"
+    },
+    "Always_allow": {
+        "message": "اسمح دائما"
+    },
+    "Always_allow_all_domains": {
+        "message": "اسمح دائما لجميع النطاقات"
+    },
+    "Always_allow_domain": {
+        "message": "اسمح دائما لهذا النطاق"
+    },
+    "Always_ask": {
+        "message": "السؤال دائما"
+    },
+    "Always_forbid": {
+        "message": "المنع دائما"
+    },
+    "Always_forbid_domain": {
+        "message": "امنع هذا النطاق"
+    },
+    "An_error_occured_during_import_": {
+        "message": "حصل خطأ عند التحميل."
+    },
+    "Appearance": {
+        "message": "المظهر"
+    },
+    "Apply_compatibility_options_to_required_script_too": {
+        "message": "تطبيق خيارات التوافق على شفرات @require أيضا"
+    },
+    "Ask_if_unknown": {
+        "message": "اسأل إذا كان مجهولا"
+    },
+    "Attention_Can_not_display_all_excludes_": {
+        "message": ".تنبيه: قائمة الاستبعاد تم قصها\n!من فضلك افحصها يدويا"
+    },
+    "Attention_Can_not_display_all_includes_": {
+        "message": ".تنبيه: القائمة المضمنة تم قصها\n!من فضلك افحصها يدويا"
+    },
+    "Author": {
+        "message": "المؤلف"
     },
     "Auto": {
         "message": "آلي"
     },
-    "Enable": {
-        "message": "تمكين"
+    "Beginner": {
+        "message": "مبتدأ"
+    },
+    "BlackCheck": {
+        "message": "فحص القائمة السوداء"
+    },
+    "Blacklist": {
+        "message": "القائمة السوداء"
+    },
+    "Both": {
+        "message": "كلاهما"
+    },
+    "Cancel": {
+        "message": "إلغاء"
+    },
+    "Changelog": {
+        "message": "سجل التغييرات"
+    },
+    "Check_for_Updates": {
+        "message": "البحث عن تحديثات"
+    },
+    "Check_for_userscripts_updates": {
+        "message": "التحقق من تحديثات لشفرات"
+    },
+    "Click_here_to_move_this_script": {
+        "message": "اضغط هنا لنقل الشفرة"
+    },
+    "Click_here_to_see_the_recent_changes": {
+        "message": "اضغط هنا لرؤية آخر التغييرات"
+    },
+    "Close": {
+        "message": "غلق"
+    },
+    "Cloud": {
+        "message": "التخزين السحابي"
+    },
+    "Columns": {
+        "message": "الأعمدة"
+    },
+    "Comment": {
+        "message": "تعليق"
+    },
+    "Convert_CDATA_sections_into_a_chrome_compatible_format": {
+        "message": "تحويل أقسام CDATA إلى صيغة متوافقة مع المتصفح"
+    },
+    "Debug": {
+        "message": "تصحيح"
+    },
+    "Debug_scripts": {
+        "message": "تصحيح الشفرات"
+    },
+    "Default": {
+        "message": "الإفتراضي"
+    },
+    "Delete": {
+        "message": "حذف"
+    },
+    "Description": {
+        "message": "الوصف"
+    },
+    "Destination_URL": {
+        "message": "الرابط المستهدف"
+    },
+    "Destination_domain": {
+        "message": "النطاق المستهدف"
+    },
+    "Details": {
+        "message": "تفاصيل"
     },
     "Disable": {
         "message": "تعطيل"
     },
-    "Start": {
-        "message": "بدأ"
+    "Disabled": {
+        "message": "معطّـل"
+    },
+    "Disabled_scripts": {
+        "message": "الشفرات المعطلة"
+    },
+    "Dont_ask_again": {
+        "message": "لا تسأل مرة أخرى"
+    },
+    "Downgrade": {
+        "message": "تثبيت نسخة قديمة"
+    },
+    "Download_Mode": {
+        "message": "وضع التحميل"
+    },
+    "Downloaded_from_0url0": {
+        "message": "$url$ تم التحميل من:",
+        "placeholders": {
+            "url": {
+                "content": "$1"
+            }
+        }
+    },
+    "Downloads": {
+        "message": "التحميلات"
+    },
+    "Edit": {
+        "message": "تحرير"
+    },
+    "Editor": {
+        "message": "المحرر"
+    },
+    "Enable": {
+        "message": "تمكين"
+    },
+    "Enable_Editor": {
+        "message": "تمكين المحرر المحسن"
+    },
+    "Enabled": {
+        "message": "مُمَكَّـن"
+    },
+    "Enforce": {
+        "message": "فرض"
+    },
+    "Enter_the_new_rule": {
+        "message": "أدخل القاعدة الجديدة"
+    },
+    "Every_12_Hour": {
+        "message": "كل 12 ساعة"
+    },
+    "Every_6_Hours": {
+        "message": "كل 6 ساعات"
+    },
+    "Every_Day": {
+        "message": "كل يوم"
+    },
+    "Every_Hour": {
+        "message": "كل ساعة"
+    },
+    "Every_Month": {
+        "message": "كل شهر"
+    },
+    "Every_Week": {
+        "message": "كل أسبوع"
+    },
+    "Exclude_s__": {
+        "message": "(مستبعد (مستبعدات"
+    },
+    "Experimental": {
+        "message": "تجريبي"
+    },
+    "Export": {
+        "message": "تصدير"
+    },
+    "Factory_Reset": {
+        "message": "إعادة ضبط المصنع"
+    },
+    "Fast": {
+        "message": "سريع"
+    },
+    "Features": {
+        "message": "المواصفات"
+    },
+    "Focus_tab": {
+        "message": "ركز على تبويب المصدر"
+    },
+    "Font_Size": {
+        "message": "حجم الخط"
+    },
+    "Forbid_once": {
+        "message": "امنع فقط هذه المرة"
+    },
+    "Full_reset": {
+        "message": "إعادة ضبط المصنع"
+    },
+    "GM_compat_options_": {
+        "message": "GM/FF خيارات توافق"
+    },
+    "General": {
+        "message": "عام"
+    },
+    "Get_new_scripts___": {
+        "message": "الحصول على شفرات جديدة"
+    },
+    "Get_some_scripts___": {
+        "message": "...احصل على بعض الشفرات"
+    },
+    "Global_Settings": {
+        "message": "الإعدادات العامة"
+    },
+    "Global_settings_import": {
+        "message": "استيراد الإعدادت العامة"
+    },
+    "Help": {
+        "message": "مساعدة"
+    },
+    "Hide_disabled_scripts": {
+        "message": "إخفاء الشفرات المعطلة"
+    },
+    "Homepage": {
+        "message": "الصفحة الرئيسة"
+    },
+    "I_contributed_already": {
+        "message": "لقد تبرعت بالفعل"
+    },
+    "I_dont_want_to_contribute": {
+        "message": "لا أريد أن أتبرع"
+    },
+    "Import": {
+        "message": "استيراد"
+    },
+    "Include_s__": {
+        "message": "(مضمن (مضمنات"
+    },
+    "Insert_constructor": {
+        "message": "إدراج constructor"
+    },
+    "Install": {
+        "message": "تثبيت"
+    },
+    "Install_this_script": {
+        "message": "تثبيت هذه الشفرة"
+    },
+    "Installed_Version_": {
+        "message": "النسخة المثبتة"
+    },
+    "Installed_userscripts": {
+        "message": "الشفرات المثبتة"
+    },
+    "Invalid_UserScript__Sry_": {
+        "message": "ملف غير صالح! المعذرة"
+    },
+    "Invalid_UserScript_name__Sry_": {
+        "message": "اسم الملف غير صالح! المعذرة"
+    },
+    "Jump_to_line": {
+        "message": "القفز إلى سطر"
+    },
+    "LogLevel": {
+        "message": "مستوى سجل الأداء"
+    },
+    "Malicious_scripts_can_violate_your_privacy_": {
+        "message": "!الشفرات الخبيثة قد تخترق خصوصيتك وتتصرف نيابة عنك\n.يجب عليك تثبيث الشفرات من المصادر الموثوقة فقط"
+    },
+    "Manual_Script_Blacklist": {
+        "message": "الشفرات اليدوية وقائمة @require السوداء"
+    },
+    "Modify": {
+        "message": "تعديل"
+    },
+    "Name": {
+        "message": "الاسم"
+    },
+    "Never": {
+        "message": "أبدا"
+    },
+    "New_script_template_": {
+        "message": "قالب ملف شفرة جديد"
+    },
+    "New_userscript": {
+        "message": "<شفرة جديدة>"
+    },
+    "No": {
+        "message": "لا"
+    },
+    "No_script_is_installed": {
+        "message": "شفرات غير مثبتة"
+    },
+    "No_script_is_running": {
+        "message": "الشفرة لا تعمل"
+    },
+    "No_update_found__sry_": {
+        "message": "!لا يوجد تحديث"
+    },
+    "Note": {
+        "message": "ملاحظة"
+    },
+    "Novice": {
+        "message": "أول مرة"
+    },
+    "Ok": {
+        "message": "حسنا"
+    },
+    "One_or_more_compatibility_options_are_set": {
+        "message": "تم ضبط خيار توافق أو أكثر. قد تريد/يتوجب عليك مراجعتها"
+    },
+    "Only_Manual": {
+        "message": "يدوي فقط"
+    },
+    "Please_consider_a_contribution": {
+        "message": "تبرع لنا من فضلك"
+    },
+    "Please_double_check_the_native_script_import_settings__": {
+        "message": "!غير قادر على تحميل الملف\n\n.من فضلك تأكد من إعدادات «استيراد الملفات المحلية»"
+    },
+    "Please_select_a_file": {
+        "message": "من فضلك اختر ملفا"
+    },
+    "Please_wait___": {
+        "message": "...انتظر من فضلك"
+    },
+    "Position_": {
+        "message": "الموضع"
+    },
+    "Process_with_Chrome": {
+        "message": "معالجة مع المتصفح"
+    },
+    "Really_delete_0name0__": {
+        "message": "؟'$name$' أترغب بالتأكيد بحذف",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "Really_import_0name0__": {
+        "message": "؟'$name$' أترغب بالتأكيد من استيراد الشفرة المحلية",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "Really_reset_all_changes_": {
+        "message": "أمتاكد من إعادة ضبط كل التغييرات؟"
+    },
+    "Reinstall": {
+        "message": "إعادة تثبيت"
+    },
+    "Remind_me_later": {
+        "message": "ذكرني لاحقاَ"
+    },
+    "Replace": {
+        "message": "استبدال"
+    },
+    "Replace_": {
+        "message": "استبدال؟"
+    },
+    "Replace_all_with": {
+        "message": "استبدال الكل"
+    },
+    "Replace_for_each_statements": {
+        "message": "'for each' استبدال جمل"
+    },
+    "Replace_with": {
+        "message": "استبدال بـ"
+    },
+    "Report_a_bug": {
+        "message": "الإبلاغ عن مشكلة"
+    },
+    "Report_an_issue_to_the_script_hoster_": {
+        "message": ".إبلاغ صاحب الشفرة بمشكلة\n(قد تحتاج لإنشاء حساب)"
     },
     "Reset_Section": {
         "message": "إعادة ضبط"
@@ -619,58 +458,219 @@
     "Restart_Tampermonkey": {
         "message": "Tampermonkey إعادة تشغيل"
     },
-    "This_will_restart_Tampermonkey_Ok_": {
-        "message": "؟Tampermonkey أتريد بالتأكيد إعادة تشغيل"
+    "Run_at": {
+        "message": "تشغيل عند"
     },
-    "Factory_Reset": {
-        "message": "إعادة ضبط المصنع"
+    "Save": {
+        "message": "حفظ"
     },
-    "This_will_remove_all_remote_data_from_sync_Ok_": {
-        "message": "Do you really want to remove all remote data from Sync?"
-    },
-    "BlackCheck": {
-        "message": "فحص القائمة السوداء"
+    "Save_to_disk": {
+        "message": "حفظ على القرص"
     },
     "Script_Blacklist_Source": {
         "message": "مصدر قائمة الشفرات السوداء"
     },
+    "Script_Update": {
+        "message": "تحديث الشفرة"
+    },
+    "Script_name_0name0": {
+        "message": "$name$: اسم الملف",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "Script_order": {
+        "message": "ترتيب الشفرة"
+    },
+    "Search": {
+        "message": "بحث"
+    },
+    "Search_for": {
+        "message": "البحث عن"
+    },
+    "Security": {
+        "message": "الأمان"
+    },
     "Server_And_Manual": {
         "message": "يدوي وعن بعد"
     },
-    "Only_Manual": {
-        "message": "يدوي فقط"
+    "Settings": {
+        "message": "الإعدادات"
     },
-    "Manual_Script_Blacklist": {
-        "message": "الشفرات اليدوية وقائمة @require السوداء"
+    "Show_backups": {
+        "message": "إظهار النسخ الإحتياطية"
+    },
+    "Show_fixed_source": {
+        "message": "إظهار المصدر الثابت"
+    },
+    "Sites": {
+        "message": "المواقع"
+    },
+    "Skip_timeout__0seconds0_seconds_": {
+        "message": "($seconds$ seconds) تخطي بعد: ",
+        "placeholders": {
+            "seconds": {
+                "content": "$1"
+            }
+        }
+    },
+    "Sort": {
+        "message": "تصنيف"
+    },
+    "Source": {
+        "message": "المصدر"
+    },
+    "Start": {
+        "message": "بدأ"
+    },
+    "Strict": {
+        "message": "صارم"
+    },
+    "Tab_URL": {
+        "message": "تبويب الرابط"
+    },
+    "Temporarily_allow": {
+        "message": "اسمح فقط هذه المرة"
+    },
+    "TextArea": {
+        "message": "منطقة الكتابة"
+    },
+    "Thank_you_very_much_": {
+        "message": "!شكرا جزيلاَ"
+    },
+    "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
+        "message": "النسخة القديمة قد تحوي مشاكل عند قراءة معلوماتها المخزنة"
+    },
+    "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
+        "message": ":تغير رابط التحديث من\n    '$oldurl$'\n    إلى\n    '$newurl$'\n",
+        "placeholders": {
+            "oldurl": {
+                "content": "$1"
+            },
+            "newurl": {
+                "content": "$2"
+            }
+        }
+    },
+    "Theme": {
+        "message": "المظاهر"
+    },
+    "There_are_unsaved_changed_": {
+        "message": ".هناك تغييرات غير محفوظة\nأمتأكد من غلق المحرر؟"
+    },
+    "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
+        "message": "!هذا يعطي الشفرة كامل الصلاحية لاستقبال وإرسال البيانات من كل صفحات الويب. وقد يكون هذا غير ءام\n\n؟أمتأكد من الاستمرار"
+    },
+    "This_is_a_chrome_extension": {
+        "message": "هذه إضافة متصفح"
+    },
+    "This_is_a_system_script": {
+        "message": ".هذه شفرة نظام"
+    },
+    "This_is_a_userscript": {
+        "message": "Javascript هذه الشفرة مكتوبة بلغة"
+    },
+    "This_script_does_not_provide_any__include_information_": {
+        "message": ".هذه الشفرة لا توفر أي معلومات @include مضمنة"
+    },
+    "This_script_has_access_to_https_pages": {
+        "message": "(HTTPS pages) هذه الشفرة لديها صلاحية الدخول على صفحات الويب المشفرة"
+    },
+    "This_script_has_access_to_webpage_scripts": {
+        "message": ".هذه الشفرة لديها كامل الصلاحية لدخول هذه الصفحة"
+    },
+    "This_script_has_full_web_access": {
+        "message": "هذه الشفرة لديها كامل صلاحية الدخول على شبكة الأنترنت"
     },
     "This_script_is_blacklisted_": {
         "message": "هذه الشفرة في القائمة السوداء"
     },
-    "Report_an_issue_to_the_script_hoster_": {
-        "message": ".إبلاغ صاحب الشفرة بمشكلة\n(قد تحتاج لإنشاء حساب)"
+    "This_script_runs_in_Chrome_mode": {
+        "message": "chrome هذه الشفرة تعمل في وضع"
     },
-    "Hide_disabled_scripts": {
-        "message": "إخفاء الشفرات المعطلة"
+    "This_script_stores_data": {
+        "message": "Tampermonkey هذه الشفرة تحفظ البيانات في"
     },
-    "Columns": {
-        "message": "الأعمدة"
+    "This_will_overwrite_your_global_settings_": {
+        "message": "!سيتم استبدال إعداداتك العامة"
     },
-    "Script_order": {
-        "message": "ترتيب الشفرة"
+    "This_will_remove_all_remote_data_from_sync_Ok_": {
+        "message": "Do you really want to remove all remote data from Sync?"
+    },
+    "This_will_restart_Tampermonkey_Ok_": {
+        "message": "؟Tampermonkey أتريد بالتأكيد إعادة تشغيل"
+    },
+    "Today": {
+        "message": "اليوم"
+    },
+    "Trace": {
+        "message": "تتبع"
+    },
+    "Unknown_method_0name0": {
+        "message": "$name$ طريقة مجهولة",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "Update": {
+        "message": "تحديث"
+    },
+    "Update_URL_": {
+        "message": "رابط التحديث"
+    },
+    "Updates": {
+        "message": "التحديثات"
+    },
+    "Utilities": {
+        "message": "الأدوات"
+    },
+    "Verbose": {
+        "message": "مسهب"
+    },
+    "Waiting_for_sync_to_finish": {
+        "message": "الانتظار حتى انتهاء المزامنة"
+    },
+    "Whitelist": {
+        "message": "القائمة البيضاء"
+    },
+    "Windows": {
+        "message": "النوافذ"
+    },
+    "Yes": {
+        "message": "نعم"
+    },
+    "You_are_about_to_downgrade_a_UserScript": {
+        "message": "!انتبه نسخة قديمة من الملف"
+    },
+    "You_are_about_to_install_a_UserScript_": {
+        "message": "تثبيت الشفرة"
+    },
+    "You_are_about_to_modify_a_UserScript_": {
+        "message": "تعديل الشفرة"
+    },
+    "You_are_about_to_reinstall_a_UserScript_": {
+        "message": "إعادة تثبيت ملف الشفرة المصدرية"
+    },
+    "You_are_about_to_update_a_UserScript_": {
+        "message": "تحديث الشفرة"
+    },
+    "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
+        "message": "؟ألغتك غير مدعمة\n؟اضغظ هنا لتحصل على نعليمات لترجمة Tampermonkey"
+    },
+    "connect_mode": {
+        "message": "@connect mode"
+    },
+    "fatal_error": {
+        "message": "خطأ قاتل"
     },
     "severity_1": {
         "message": "1 (الأكثر أمانا)"
     },
     "severity_10": {
         "message": "10 (الأقل أمانا)"
-    },
-    "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
-        "message": "؟ألغتك غير مدعمة\n؟اضغظ هنا لتحصل على نعليمات لترجمة Tampermonkey"
-    },
-    "Default": {
-        "message": "الإفتراضي"
-    },
-    "Ok": {
-        "message": "حسنا"
     }
 }
