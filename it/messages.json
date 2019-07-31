@@ -123,6 +123,9 @@
     "Add_TM_to_CSP": {
         "message": "Aggiungi Tampermonkey alla content security policy (CSP) del sito, se esistente"
     },
+    "Add_Tampermonkey_to_the_site_s_content_csp": {
+        "message": "Aggiungi Tampermonkey al contenuto CSP del sito"
+    },
     "Add_as_0clude0": {
         "message": "Aggiungi come $clude$",
         "placeholders": {
