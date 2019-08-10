@@ -1,6 +1,6 @@
 {
     "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
-        "message": "$name$ $version$ tersedia.\nSilakan mulai ulang perambang untuk memperbarui!",
+        "message": "$name$ $version$ tersedia.\nSilakan mulai ulang peramban untuk memperbarui!",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -11,10 +11,10 @@
         }
     },
     "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-        "message": "Sebuah recheck dari opsi kompatibilitas GreaseMonkey / FF mungkin diperlukan untuk menjalankan skrip ini."
+        "message": "Sebuah pemeriksaan ulang opsi kompatibilitas GreaseMonkeFF mungkin diperlukan untuk menjalankan skrip ini."
     },
     "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
-        "message": "Permintaan untuk sumber daya lintas asal ada yang luar biasa.\nAnda hanya perlu memeriksa apakah script ini memiliki alasan yang baik untuk mengakses domain ini.\nUntuk misalnya hanya ada sangat sedikit alasan untuk userscript untuk menghubungi bank Anda.\n\nMohon dicatat bahwa penulis userscript dapat menghindari dialog ini dengan menambahkan [url=$connect$]@connect tag [/url] untuk script mereka.\n\nTidak peduli bagaimana Anda akan memutuskan, Anda dapat mengubah pendapat Anda setiap saat di skrip [url=$settings$]tab pengaturan[/url].",
+        "message": "Permintaan untuk sumber daya lintas tidak aneh\nAnda hanya perlu memeriksa apakah skrip ini memiliki alasan yang bagus untuk mengakses domain ini. Contohnya hanya ada sangat sedikit alasan untuk uskrip pengguna untuk menghubungi bank Anda.\n\nMohon dicatat bahwa penulis skrip pengguna dapat menghindari dialog ini dengan menambahkan [url=$connect$]@connect tag [/url] pada skrip mereka.\n\nTidak peduli bagaimana Anda akan memutuskan, Anda dapat mengubah pendapat Anda setiap saat di skrip [url=$settings$]tab pengaturan[/url].",
         "placeholders": {
             "connect": {
                 "content": "$1"
@@ -25,13 +25,13 @@
         }
     },
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
-        "message": "Sebuah userscript ingin mengakses sumber daya lintas asal."
+        "message": "Sebah skrip pengguna ingin mengakses sumber daya lintas asal."
     },
     "Action": {
-        "message": "TIndakan"
+        "message": "Tindakan"
     },
     "Action_Menu": {
-        "message": "Menu Aksi"
+        "message": "Menu Tindakan"
     },
     "Actions": {
         "message": "Tindakan"
@@ -94,7 +94,7 @@
         "message": "Terapkan ini ke semua skrip yang dipilih"
     },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
-        "message": "Ketika Tampermonkey diperbarui oleh browser Anda itu juga dimulai-ulang. Sayangnya ini mungkin dapat menganggu script! \n\nJadi, apakah Anda yakin bahwa Anda tidak ingin mendapat notifikasi pembaruan?"
+        "message": "Ketika Tampermonkey diperbarui oleh peramban Anda itu juga dimulai ulang. Sayangnya ini mungkin dapat menganggu skrip! \n\nJadi, apakah Anda yakin bahwa Anda tidak ingin mendapat notifikasi pembaruan?"
     },
     "Ask_if_unknown": {
         "message": "Tanya jika tak diketahui"
@@ -118,10 +118,10 @@
         "message": "Pemula"
     },
     "Browser_API": {
-        "message": "API Browser "
+        "message": "API Peramban"
     },
     "Browser_API_Downloads": {
-        "message": "Unduhan API Browser"
+        "message": "Unduhan API Peramban"
     },
     "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
         "message": "KONFLIK:\nSkrip ini dimodifikasi oleh tab lain $t$ detik yang lalu!",
@@ -144,7 +144,7 @@
         "message": "Mengubah jumlah yang terlihat pada konfigurasi pilihan"
     },
     "Check_disabled_scripts": {
-        "message": "Nonaktifkan Update skrip"
+        "message": "Nonaktifkan pembaruan skrip"
     },
     "Check_for_Updates": {
         "message": "Memeriksa pembaruan"
@@ -316,7 +316,7 @@
         "message": "Saya tak mau menyumbang."
     },
     "Icon_badge_color": {
-        "message": "Warna Icon Badge"
+        "message": "Warna Ikon Lencana"
     },
     "Import": {
         "message": "Impor"
@@ -325,7 +325,7 @@
         "message": "Termasuk pengaturan Tampermonkey"
     },
     "Include_script_storage": {
-        "message": "Termasuk penyimpanan script"
+        "message": "Termasuk penyimpanan skrip"
     },
     "Info": {
         "message": "Informasi"
@@ -358,7 +358,7 @@
         "message": "Baris Jeda"
     },
     "LogLevel": {
-        "message": "Tingkat Logging"
+        "message": "Tingk Peogan"
     },
     "Malicious_scripts_can_violate_your_privacy_": {
         "message": "script berbahaya dapat melanggar privasi Anda dan bertindak atas nama Anda!\nAnda hanya harus menginstal script dari sumber yang dipercaya."
@@ -452,7 +452,7 @@
         "message": "Benar-benar atur ulang semua perubahan?"
     },
     "Reindent_on_typing": {
-        "message": "Re-indent pada saat mengetik"
+        "message": "Inde ulang pada saat mengetik"
     },
     "Reinstall": {
         "message": "Pasang ulang"
@@ -476,10 +476,10 @@
         "message": "Timpa dengan"
     },
     "Report_a_bug": {
-        "message": "Laporkan bug"
+        "message": "Laporkan kutu"
     },
     "Report_an_issue_to_the_script_hoster_": {
-        "message": "Melaporkan masalah ke hoster script. \n(Sebuah akun pengguna mungkin diperlukan)"
+        "message": "Melaporkan masalah ke pengehos skrip. \n(Sebuah akun pengguna mungkin diperlukan)"
     },
     "Requires": {
         "message": "Membutuhkan"
@@ -561,7 +561,7 @@
         "message": "Mode Browser API memerlukan izin khusus."
     },
     "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
-        "message": "Penurunan atau downgraded script dapat membuat masalah pada saat memuat data yang tersimpan!"
+        "message": "Penurunan versi skrip dapat membuat masalah pada saat memuat data yang tersimpan!"
     },
     "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
         "message": "Pembaruan telah berubah dari:\n    '$oldurl$'\n    ke:\n    '$newurl$'\n",
