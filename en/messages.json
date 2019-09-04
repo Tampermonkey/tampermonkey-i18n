@@ -1039,6 +1039,9 @@
     "Restart_Tampermonkey": {
         "message": "Restart Tampermonkey"
     },
+    "Revoke_Access_Token": {
+        "message": "Revoke Access Token"
+    },
     "Run_at": {
         "message": "Run at"
     },

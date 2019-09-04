@@ -772,6 +772,9 @@
     "Restart_Tampermonkey": {
         "message": "Neustart"
     },
+    "Revoke_Access_Token": {
+        "message": "Zugangsberechtigung widerrufen"
+    },
     "Run_at": {
         "message": "Starte wenn"
     },
