@@ -938,6 +938,9 @@
     "Restart_Tampermonkey": {
         "message": "Tampermonkey を再起動"
     },
+    "Revoke_Access_Token": {
+        "message": "アクセス トークンを失効させる"
+    },
     "Run_at": {
         "message": "実行のタイミング"
     },
