@@ -26,10 +26,10 @@
         "message": "Chỉnh sửa"
     },
     "Global_Settings": {
-        "message": "Thiết lập Toàn cầu"
+        "message": "Thiết lập Toàn cục"
     },
     "Global_settings_import": {
-        "message": "Nhập thiết lập toàn cầu"
+        "message": "Nhập thiết lập toàn cục"
     },
     "Hide_disabled_scripts": {
         "message": "Ẩn các tập lệnh bị tắt"
@@ -41,13 +41,13 @@
         "message": "Tôi không muốn đóng góp"
     },
     "Installed_Version_": {
-        "message": "Phiên bản Cài đặt"
+        "message": "Phiên bản cài đặt"
     },
     "Invalid_UserScript__Sry_": {
-        "message": "UserScript Không hợp lệ. Xin lỗi!"
+        "message": "Rất tiếc! UserScript Không hợp lệ."
     },
     "Invalid_UserScript_name__Sry_": {
-        "message": "Tên UserScript Không hợp lệ. Xin lỗi!"
+        "message": "Rất tiếc! Tên UserScript Không hợp lệ."
     },
     "Malicious_scripts_can_violate_your_privacy_": {
         "message": "Các script độc hại có thể vi phạm quyền riêng tư của bạn và hành động thay mặt bạn!\nBạn chỉ nên cài đặt các script từ các nguồn mà bạn tin tưởng."
@@ -94,19 +94,19 @@
         "message": "Cảm ơn bạn rất nhiều!"
     },
     "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
-        "message": "Script bị hạ cấp có thể gặp vấn đề khi đọc dữ liệu được lưu trữ!"
+        "message": "Tập lệnh bị hạ cấp có thể gặp vấn đề khi đọc dữ liệu được lưu trữ!"
     },
     "This_script_has_access_to_https_pages": {
-        "message": "Mục này có quyền truy cập vào các trang https."
+        "message": "Tập lệnh này có quyền truy cập vào các trang https."
     },
     "This_script_has_full_web_access": {
-        "message": "Tập lệnh này có quyền truy cập internet đầy đủ."
+        "message": "Tập lệnh này có toàn quyền truy cập web"
     },
     "This_script_stores_data": {
         "message": "Tập lệnh này lưu dữ liệu vào Tampermonkey."
     },
     "This_will_overwrite_your_global_settings_": {
-        "message": "Thao tác này sẽ ghi đè thiết lập toàn cầu của bạn!"
+        "message": "Thao tác này sẽ ghi đè thiết lập toàn cục của bạn!"
     },
     "You_are_about_to_downgrade_a_UserScript": {
         "message": "Lưu ý! Hạ cấp Userscript"
