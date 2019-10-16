@@ -105,6 +105,9 @@
     "Action": {
         "message": "Action"
     },
+    "Action_failed": {
+        "message": "Action failed"
+    },
     "Action_Menu": {
         "message": "Action Menu"
     },
@@ -484,6 +487,9 @@
     "Downloads": {
         "message": "Downloads"
     },
+    "Dropbox": {
+        "message": "Dropbox"
+    },
     "DuckDuckGo": {
         "message": "DuckDuckGo"
     },
@@ -656,6 +662,9 @@
     },
     "Google": {
         "message": "Google"
+    },
+    "Google_Drive": {
+        "message": "Google Drive"
     },
     "Group_Left": {
         "message": "Group Left"
@@ -899,6 +908,9 @@
     },
     "On": {
         "message": "On"
+    },
+    "OneDrive": {
+        "message": "OneDrive"
     },
     "One_error_or_hint_was_found_": {
         "message": "One error or hint was found."
@@ -1541,6 +1553,9 @@
     "Warning_unsafe_site_warnings_might_appear_": {
         "message": "Warning: unsafe site warnings might appear if a script includes potentially harmfull URLs."
     },
+    "WebDAV": {
+        "message": "WebDAV"
+    },
     "Whitelist": {
         "message": "Whitelist"
     },
@@ -1555,6 +1570,9 @@
     },
     "XHR_Security": {
         "message": "XHR Security"
+    },
+    "Yandex_Disk": {
+        "message": "Yandex.Disk"
     },
     "Yank_Sublime_Mark": {
         "message": "Yank Sublime Mark"

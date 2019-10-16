@@ -1553,6 +1553,9 @@
     "XHR_Security": {
         "message": "Безопасность XHR"
     },
+    "Yandex_Disk": {
+        "message": "Яндекс.Диск"
+    },
     "Yank_Sublime_Mark": {
         "message": "Маркер выделения Yank"
     },

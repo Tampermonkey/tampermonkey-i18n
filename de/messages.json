@@ -69,6 +69,9 @@
     "Action": {
         "message": "Aktion"
     },
+    "Action_failed": {
+        "message": "Aktion fehlgeschlagen"
+    },
     "Action_Menu": {
         "message": "Aktions-Menü"
     },
