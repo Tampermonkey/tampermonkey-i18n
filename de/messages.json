@@ -327,6 +327,12 @@
     "Default_Dark": {
         "message": "Standard - Dunkel"
     },
+    "Default_Darker": {
+        "message": "Standard - Dunkler"
+    },
+    "Default_Light": {
+        "message": "Standard - Hell"
+    },
     "Delete": {
         "message": "Löschen"
     },

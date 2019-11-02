@@ -405,6 +405,12 @@
     "Default_Dark": {
         "message": "Default - Dark"
     },
+    "Default_Darker": {
+        "message": "Default - Darker"
+    },
+    "Default_Light": {
+        "message": "Default - Light"
+    },
     "Delete": {
         "message": "Delete"
     },
