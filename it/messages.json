@@ -105,6 +105,9 @@
     "Action": {
         "message": "Azione"
     },
+    "Action_failed": {
+        "message": "Azione fallita"
+    },
     "Action_Menu": {
         "message": "Menu azione"
     },
@@ -400,7 +403,13 @@
         "message": "Predefinita"
     },
     "Default_Dark": {
-        "message": "Predefinita - Scura"
+        "message": "Predefinita - Scuro"
+    },
+    "Default_Darker": {
+        "message": "Predefinito - Scuro"
+    },
+    "Default_Light": {
+        "message": "Predefinito - Chiaro"
     },
     "Delete": {
         "message": "Elimina"
@@ -483,6 +492,9 @@
     },
     "Downloads": {
         "message": "Download"
+    },
+    "Dropbox": {
+        "message": "Dropbox"
     },
     "DuckDuckGo": {
         "message": "DuckDuckGo"
@@ -656,6 +668,9 @@
     },
     "Google": {
         "message": "Google"
+    },
+    "Google_Drive": {
+        "message": "Google Drive"
     },
     "Group_Left": {
         "message": "Gruppo a sinistra"
@@ -899,6 +914,9 @@
     },
     "On": {
         "message": "ON"
+    },
+    "OneDrive": {
+        "message": "OneDrive"
     },
     "One_error_or_hint_was_found_": {
         "message": "Uno o più hit trovati."
@@ -1541,6 +1559,9 @@
     "Warning_unsafe_site_warnings_might_appear_": {
         "message": "Attenzione: se uno script contiene URL potenzialmente pericolose potrebbe apparire un avviso di sito non sicuro."
     },
+    "WebDAV": {
+        "message": "WebDAV"
+    },
     "Whitelist": {
         "message": "Elenco autorizzati"
     },
@@ -1555,6 +1576,9 @@
     },
     "XHR_Security": {
         "message": "Sicurezza XHR"
+    },
+    "Yandex_Disk": {
+        "message": "Yandex.Disk"
     },
     "Yank_Sublime_Mark": {
         "message": "Marcatore evidenziazione Yank"
