@@ -105,6 +105,9 @@
     "Action": {
         "message": "Eylem"
     },
+    "Action_failed": {
+        "message": "Eylem Başarısız"
+    },
     "Action_Menu": {
         "message": "Eylem Menüsü"
     },
@@ -402,6 +405,12 @@
     "Default_Dark": {
         "message": "Varsayılan - Koyu"
     },
+    "Default_Darker": {
+        "message": "Varsayılan - Daha Koyu"
+    },
+    "Default_Light": {
+        "message": "Varsayılan - Açık"
+    },
     "Delete": {
         "message": "Sil"
     },
@@ -483,6 +492,9 @@
     },
     "Downloads": {
         "message": "İndirmeler"
+    },
+    "Dropbox": {
+        "message": "Dropbox"
     },
     "DuckDuckGo": {
         "message": "DuckDuckGo"
@@ -656,6 +668,9 @@
     },
     "Google": {
         "message": "Google"
+    },
+    "Google_Drive": {
+        "message": "Google Drive"
     },
     "Group_Left": {
         "message": "Grup solu"
@@ -900,6 +915,9 @@
     "On": {
         "message": "Açık"
     },
+    "OneDrive": {
+        "message": "OneDrive"
+    },
     "One_error_or_hint_was_found_": {
         "message": "Bir hata veya ipucu bulundu."
     },
@@ -1038,6 +1056,9 @@
     },
     "Restart_Tampermonkey": {
         "message": "Tampermonkey'i Yeniden Başlat"
+    },
+    "Revoke_Access_Token": {
+        "message": "Giriş Yetkisini Kaldır"
     },
     "Run_at": {
         "message": "Çalıştır"
@@ -1538,6 +1559,9 @@
     "Warning_unsafe_site_warnings_might_appear_": {
         "message": "Uyarı: Bir komut dosyası zararlı olabilecek URL'ler içeriyorsa güvensiz site uyarıları görüntülenebilir."
     },
+    "WebDAV": {
+        "message": "WebDAV"
+    },
     "Whitelist": {
         "message": "Beyaz Liste"
     },
@@ -1552,6 +1576,9 @@
     },
     "XHR_Security": {
         "message": "XHR Güvenliği"
+    },
+    "Yandex_Disk": {
+        "message": "Yandex.Disk"
     },
     "Yank_Sublime_Mark": {
         "message": "Sublim İşaret çek"
