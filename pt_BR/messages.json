@@ -105,6 +105,9 @@
     "Action": {
         "message": "Ação"
     },
+    "Action_failed": {
+        "message": "Falha na ação"
+    },
     "Action_Menu": {
         "message": "Menu de ações"
     },
@@ -121,7 +124,10 @@
         "message": "Adicionar seleção abaixo"
     },
     "Add_TM_to_CSP": {
-        "message": "Adicionar o Tampermonkey para o conteúdo de política de segurança (CSP) do site, se existir"
+        "message": "Adicionar o Tampermonkey à política de segurança de conteúdo (CSP) do site, se existir"
+    },
+    "Add_Tampermonkey_to_the_site_s_content_csp": {
+        "message": "Adicionar o Tampermonkey à política de segurança de conteúdo (CSP) do ste"
     },
     "Add_as_0clude0": {
         "message": "Adicionar como $clude$",
@@ -397,7 +403,13 @@
         "message": "Padrão"
     },
     "Default_Dark": {
-        "message": "Padrão - Escuro"
+        "message": "Padrão (Escuro)"
+    },
+    "Default_Darker": {
+        "message": "Padrão (Mais Escuro)"
+    },
+    "Default_Light": {
+        "message": "Padrão (Claro)"
     },
     "Delete": {
         "message": "Excluir"
@@ -481,6 +493,9 @@
     "Downloads": {
         "message": "Downloads"
     },
+    "Dropbox": {
+        "message": "Dropbox"
+    },
     "DuckDuckGo": {
         "message": "DuckDuckGo"
     },
@@ -506,7 +521,7 @@
         "message": "Habilitar editor"
     },
     "Enable_Script_Sync": {
-        "message": "Habilitar TESLA"
+        "message": "Habilitar Sincronizar Scripts"
     },
     "Enable_autoSave": {
         "message": "Salvar conteúdo quando o editor perder o foco"
@@ -654,6 +669,9 @@
     "Google": {
         "message": "Google"
     },
+    "Google_Drive": {
+        "message": "Google Drive"
+    },
     "Group_Left": {
         "message": "Grupo esquerdo"
     },
@@ -743,6 +761,9 @@
     },
     "Install": {
         "message": "Instalar"
+    },
+    "Install_from_URL": {
+        "message": "Instalar da URL"
     },
     "Install_this_script": {
         "message": "Instalar este script"
@@ -894,6 +915,9 @@
     "On": {
         "message": "Ligado"
     },
+    "OneDrive": {
+        "message": "OneDrive"
+    },
     "One_error_or_hint_was_found_": {
         "message": "Um erro ou aviso foi encontrado."
     },
@@ -1032,6 +1056,9 @@
     },
     "Restart_Tampermonkey": {
         "message": "Reiniciar Tampermonkey"
+    },
+    "Revoke_Access_Token": {
+        "message": "Revogar Token de Acesso"
     },
     "Run_at": {
         "message": "Executar em:"
@@ -1351,6 +1378,14 @@
             }
         }
     },
+    "This_script_was_executed_0count0_times_but_is_not_active_anymore": {
+        "message": "Este script foi executado $count$ vez(es), mas não está mais ativo",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
     "This_script_was_not_executed_yet": {
         "message": "Este script ainda não foi executado"
     },
@@ -1524,6 +1559,9 @@
     "Warning_unsafe_site_warnings_might_appear_": {
         "message": "Aviso: avisos de sites não seguros podem aparecer se um script incluir URLs potencialmente prejudiciais."
     },
+    "WebDAV": {
+        "message": "WebDAV"
+    },
     "Whitelist": {
         "message": "Lista Branca"
     },
@@ -1538,6 +1576,9 @@
     },
     "XHR_Security": {
         "message": "Segurança de XHR"
+    },
+    "Yandex_Disk": {
+        "message": "Yandex.Disk"
     },
     "Yank_Sublime_Mark": {
         "message": "Puxar Sublime Mark"
