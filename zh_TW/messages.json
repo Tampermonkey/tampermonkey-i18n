@@ -1,4 +1,53 @@
 {
+    "1": {
+        "message": "1"
+    },
+    "2": {
+        "message": "2"
+    },
+    "3": {
+        "message": "3"
+    },
+    "4": {
+        "message": "4"
+    },
+    "5": {
+        "message": "5"
+    },
+    "6": {
+        "message": "6"
+    },
+    "7": {
+        "message": "7"
+    },
+    "8": {
+        "message": "8"
+    },
+    "9": {
+        "message": "9"
+    },
+    "10": {
+        "message": "10"
+    },
+    "11": {
+        "message": "11"
+    },
+    "0count0_changes_exported": {
+        "message": "匯出了 $count$ 個變更",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "0count0_changes_imported": {
+        "message": "匯入了 $count$ 個變更",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
     "0count0_errors_or_hints_were_found_": {
         "message": "發現 $count$ 個錯誤或提示。",
         "placeholders": {
@@ -56,14 +105,29 @@
     "Action": {
         "message": "動作"
     },
+    "Action_failed": {
+        "message": "動作失敗"
+    },
+    "Action_Menu": {
+        "message": "動作選單"
+    },
     "Actions": {
         "message": "動作"
     },
     "Add": {
         "message": "新增"
     },
+    "Add_Selection_Above": {
+        "message": "在上方新增選取項目"
+    },
+    "Add_Selection_Below": {
+        "message": "在下方新增選取項目"
+    },
     "Add_TM_to_CSP": {
-        "message": "將 Tampermonkey 加入到網站的 content security policy (CSP) (如果有的話)"
+        "message": "將 Tampermonkey 加入到網站的內容安全策略（CSP）（如果有的話）"
+    },
+    "Add_Tampermonkey_to_the_site_s_content_csp": {
+        "message": "將 Tampermonkey 加入到網站的內容 CSP"
     },
     "Add_as_0clude0": {
         "message": "新增為 $clude$",
@@ -80,16 +144,22 @@
         "message": "為 Object 和 Array 增加相容性函式"
     },
     "Advanced": {
-        "message": "專家"
+        "message": "進階"
+    },
+    "All_local_files": {
+        "message": "所有本地檔案"
     },
     "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-        "message": "所有修改將只在此無痕模式 session 關閉後才會留存！"
+        "message": "所有修改將只在此無痕模式工作階段關閉後才會留存！"
     },
     "All_script_settings_will_be_reset_": {
         "message": "全部的腳本設定都會被重設！"
     },
     "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-        "message": "允許 Tampermonkey 透過 Google Analytics 蒐集匿名統計資料。這能讓我改進 Tampermonkey 並且決定該著重在哪個方面進行開發。如果您不喜歡可以關掉。"
+        "message": "允許 Tampermonkey 透過 Google Analytics（分析）蒐集匿名統計資料。這能讓我改進 Tampermonkey 並且決定該著重在哪個方面進行開發。如果您不喜歡可以關掉。"
+    },
+    "Allow_communication_with_cooperate_pages": {
+        "message": "允許透過協作頁面通訊"
     },
     "Allow_headers_to_be_modified_by_scripts": {
         "message": "允許腳本修改 HTTP 標頭"
@@ -142,8 +212,14 @@
     "Ask_if_unknown": {
         "message": "未知時才詢問我"
     },
+    "At_least_one_new_connect_statement_was_added_": {
+        "message": "至少新增了一個新的 @connect 聲明。"
+    },
+    "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
+        "message": "至少變更了一個 @include、@match 或 @exclude 聲明。"
+    },
     "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-        "message": "此網頁至少有一部分被列在 '禁止的網頁' 設定清單上！"
+        "message": "此網頁至少有一部分被列在「禁止的網頁」設定清單上！"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "注意：排除 URL(s) 列表變化。\n請手動檢查！"
@@ -172,6 +248,9 @@
     "Auto_syntax_check_on_typing": {
         "message": "輸入時自動檢查語法"
     },
+    "Automatically_added_user_includes_for_compatibility_reasons_": {
+        "message": "一些自訂 includes 因為相容性原因被自動新增了！"
+    },
     "Beginner": {
         "message": "初學者"
     },
@@ -187,6 +266,9 @@
     "Blacklisted_Pages": {
         "message": "黑名單上的網頁"
     },
+    "Bookmarks": {
+        "message": "書籤"
+    },
     "Both": {
         "message": "同時使用兩者"
     },
@@ -195,6 +277,9 @@
     },
     "Browser_API_Downloads": {
         "message": "瀏覽器 API 下載"
+    },
+    "Browser_Sync": {
+        "message": "瀏覽器同步"
     },
     "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
         "message": "衝突：\n在 $t$ 秒前這個腳本曾被另外的分頁修改過！",
@@ -210,8 +295,14 @@
     "Casual": {
         "message": "寬鬆"
     },
+    "Center_Cursor": {
+        "message": "居中游標"
+    },
     "Changelog": {
         "message": "更新紀錄"
+    },
+    "Changes": {
+        "message": "變更"
     },
     "Changes_the_number_of_visible_config_options": {
         "message": "改變可見選設定選項的數量"
@@ -234,6 +325,17 @@
     "Classic": {
         "message": "傳統型"
     },
+    "Clear_All": {
+        "message": "全部清除"
+    },
+    "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
+        "message": "請按 OK 以同意 Tampermonkey 存取以下 hosts：\n\n$host_list$",
+        "placeholders": {
+            "host_list": {
+                "content": "$1"
+            }
+        }
+    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "點此允許 Tampermonkey 開始下載。"
     },
@@ -248,6 +350,12 @@
     },
     "Close": {
         "message": "關閉"
+    },
+    "Closing_Bracket": {
+        "message": "結束括號"
+    },
+    "Cloud": {
+        "message": "雲端"
     },
     "Columns": {
         "message": "欄數"
@@ -264,6 +372,24 @@
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "轉換 CDATA sections 為 Chrome 相容的格式"
     },
+    "Copy": {
+        "message": "複製"
+    },
+    "Cross_Origin_Request_Permission": {
+        "message": "跨來源要求權限"
+    },
+    "Current_Version": {
+        "message": "當前版本"
+    },
+    "Custom_CSS": {
+        "message": "自訂 CSS"
+    },
+    "Custom_Linter_Config": {
+        "message": "自訂 Linter 設定"
+    },
+    "Cut": {
+        "message": "剪下"
+    },
     "Dashboard": {
         "message": "控制台 (Dashboard)"
     },
@@ -276,8 +402,35 @@
     "Default": {
         "message": "預設"
     },
+    "Default_Dark": {
+        "message": "預設 - 深色"
+    },
+    "Default_Darker": {
+        "message": "預設 - 更深"
+    },
+    "Default_Light": {
+        "message": "預設 - 淺色"
+    },
     "Delete": {
         "message": "刪除"
+    },
+    "Delete_Line": {
+        "message": "刪除游標所在行"
+    },
+    "Delete_Line_Left": {
+        "message": "刪除游標所在行中游標左邊的內容"
+    },
+    "Delete_Line_Right": {
+        "message": "刪除游標所在行中游標右邊的內容"
+    },
+    "Delete_to_Next_Word_Boundary": {
+        "message": "刪除至下一個單字界線"
+    },
+    "Delete_to_Previous_Word_Boundary": {
+        "message": "刪除至上一個單字界線"
+    },
+    "Delete_to_Sublime_Mark": {
+        "message": "刪除至 Sublime 標記"
     },
     "Description": {
         "message": "描述"
@@ -290,6 +443,9 @@
     },
     "Details": {
         "message": "詳細資料"
+    },
+    "Developer": {
+        "message": "開發人員"
     },
     "Disable": {
         "message": "停用"
@@ -307,6 +463,12 @@
                 "content": "$1"
             }
         }
+    },
+    "Document_End": {
+        "message": "文件結束"
+    },
+    "Document_Start": {
+        "message": "文件開始"
     },
     "Dont_ask_again": {
         "message": "不再詢問"
@@ -331,6 +493,15 @@
     "Downloads": {
         "message": "下載"
     },
+    "Dropbox": {
+        "message": "Dropbox"
+    },
+    "DuckDuckGo": {
+        "message": "DuckDuckGo"
+    },
+    "Duplicate_Lines": {
+        "message": "重複行"
+    },
     "Edit": {
         "message": "編輯"
     },
@@ -340,14 +511,17 @@
     "Editor_reset": {
         "message": "編輯器重設"
     },
+    "Emacs": {
+        "message": "Emacs"
+    },
     "Enable": {
         "message": "啟用"
     },
     "Enable_Editor": {
-        "message": "啟用加強版編輯器"
+        "message": "啟用進階編輯器"
     },
     "Enable_Script_Sync": {
-        "message": "啟用 TESLA"
+        "message": "啟用腳本同步"
     },
     "Enable_autoSave": {
         "message": "失去滑鼠焦點時儲存內容"
@@ -388,6 +562,14 @@
     "Every_Week": {
         "message": "每週"
     },
+    "Exclude_0domain0": {
+        "message": "排除 $domain$",
+        "placeholders": {
+            "domain": {
+                "content": "$1"
+            }
+        }
+    },
     "Exclude_s__": {
         "message": "排除 URL(s)"
     },
@@ -403,11 +585,38 @@
     "Factory_Reset": {
         "message": "重設成出廠設定"
     },
+    "Fast": {
+        "message": "快"
+    },
+    "Favicon_Service": {
+        "message": "Favicon 服務"
+    },
     "Features": {
         "message": "功能"
     },
     "File": {
         "message": "檔案"
+    },
+    "Filter_by": {
+        "message": "篩選依據"
+    },
+    "Find": {
+        "message": "搜尋"
+    },
+    "Find_All_Under": {
+        "message": "全部搜尋選取內容"
+    },
+    "Find_Next": {
+        "message": "向下搜尋"
+    },
+    "Find_Previous": {
+        "message": "向上搜尋"
+    },
+    "Find_Under": {
+        "message": "向下搜尋選取內容"
+    },
+    "Find_Under_Previous": {
+        "message": "向上搜尋選取內容"
     },
     "Fix_for_var_in_statements": {
         "message": "修正所有 'for (var j in x)' 陳述句"
@@ -417,6 +626,15 @@
     },
     "Focus_tab": {
         "message": "重點來源欄標"
+    },
+    "Fold": {
+        "message": "摺疊"
+    },
+    "Fold_All": {
+        "message": "全部摺疊"
+    },
+    "Folding": {
+        "message": "正在摺疊"
     },
     "Font_Size": {
         "message": "字型大小"
@@ -444,6 +662,21 @@
     },
     "Global_settings_import": {
         "message": "匯入全域設定"
+    },
+    "GoTo": {
+        "message": "移至"
+    },
+    "Google": {
+        "message": "Google"
+    },
+    "Google_Drive": {
+        "message": "Google 雲端硬碟"
+    },
+    "Group_Left": {
+        "message": "上一個分界線"
+    },
+    "Group_Right": {
+        "message": "下一個分界線"
     },
     "Help": {
         "message": "幫助"
@@ -484,8 +717,17 @@
     "Include_s__": {
         "message": "收錄 URL(s)"
     },
+    "Include_script_externals": {
+        "message": "包含外部腳本資源"
+    },
     "Include_script_storage": {
         "message": "包含腳本儲存空間"
+    },
+    "Includes_Excludes": {
+        "message": "包含/排除"
+    },
+    "Incremental_Find": {
+        "message": "增量搜尋"
     },
     "Indent": {
         "message": "縮排模式"
@@ -526,6 +768,9 @@
     "Key_Mapping": {
         "message": "按鍵設定"
     },
+    "Language": {
+        "message": "語言"
+    },
     "Last_updated": {
         "message": "最後更新"
     },
@@ -551,7 +796,7 @@
         "message": "名稱"
     },
     "Native": {
-        "message": "原生的"
+        "message": "原生"
     },
     "Never": {
         "message": "從不"
@@ -763,6 +1008,9 @@
     "Settings": {
         "message": "設定"
     },
+    "Show_backups": {
+        "message": "顯示備份"
+    },
     "Show_fixed_source": {
         "message": "顯示修正的的原始碼"
     },
@@ -808,7 +1056,7 @@
         "message": "嚴格"
     },
     "Sync_Reset": {
-        "message": "Sync 重設"
+        "message": "同步重設"
     },
     "Sync_Type": {
         "message": "同步類型"
@@ -1071,6 +1319,30 @@
     },
     "severity_10": {
         "message": "10（最不安全）"
+    },
+    "severity_2": {
+        "message": "2"
+    },
+    "severity_3": {
+        "message": "3"
+    },
+    "severity_4": {
+        "message": "4"
+    },
+    "severity_5": {
+        "message": "5"
+    },
+    "severity_6": {
+        "message": "6"
+    },
+    "severity_7": {
+        "message": "7"
+    },
+    "severity_8": {
+        "message": "8"
+    },
+    "severity_9": {
+        "message": "9"
     },
     "some_secs": {
         "message": "一些"
