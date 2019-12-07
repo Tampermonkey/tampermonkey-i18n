@@ -16,7 +16,7 @@
         }
     },
     "0count0_errors_or_hints_were_found_": {
-        "message": "$count$個のエラーまたはヒントが見つかりました。",
+        "message": "$count$ 個のエラーまたはヒントが見つかりました。",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -57,6 +57,9 @@
     },
     "Action": {
         "message": "操作"
+    },
+    "Action_failed": {
+        "message": "操作が失敗しました"
     },
     "Action_Menu": {
         "message": "操作メニュー"
@@ -313,6 +316,9 @@
     "Copy": {
         "message": "コピー"
     },
+    "Cross_Origin_Request_Permission": {
+        "message": "オリジン間リクエスト権限"
+    },
     "Current_Version": {
         "message": "現在のバージョン"
     },
@@ -338,7 +344,13 @@
         "message": "既定"
     },
     "Default_Dark": {
-        "message": "既定 - 黒"
+        "message": "既定 - 暗い"
+    },
+    "Default_Darker": {
+        "message": "既定 - もっと暗い"
+    },
+    "Default_Light": {
+        "message": "既定 - 明るい"
     },
     "Delete": {
         "message": "削除"
@@ -503,7 +515,7 @@
         "message": "高速"
     },
     "Favicon_Service": {
-        "message": "Faviconサービス"
+        "message": "Favicon サービス"
     },
     "Features": {
         "message": "機能"
@@ -618,6 +630,9 @@
     },
     "Includes_Excludes": {
         "message": "include/exclude"
+    },
+    "Incremental_Find": {
+        "message": "インクリメンタル検索"
     },
     "Indent": {
         "message": "インデント"
@@ -819,6 +834,9 @@
     },
     "Operation_completed_successfully": {
         "message": "操作が正常に完了しました"
+    },
+    "Original_domain_whitelist": {
+        "message": "元のドメイン ホワイトリスト"
     },
     "Original_excludes": {
         "message": "元の exclude"
@@ -1082,6 +1100,9 @@
     "Store_data_in_incognito_mode": {
         "message": "シークレット モードでもデータを保管する"
     },
+    "Strict": {
+        "message": "厳格"
+    },
     "Subresource_Integrity": {
         "message": "サブリソースの整合性"
     },
@@ -1189,7 +1210,7 @@
         "message": "これは JavaScript で書かれた UserScript です"
     },
     "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
-        "message": "このオプションを使用すると、Tampermonkeyのホームページといくつかのスクリプト配布ページで、Tampermonkeyのバージョンと基本的なスクリプトの情報を取得できます (インストール済み、バージョン、、有効/無効)。"
+        "message": "このオプションを使用すると、Tampermonkeyのホームページといくつかのスクリプト配布ページで、Tampermonkeyのバージョンと基本的なスクリプトの情報を取得できます (インストール済み、バージョン、有効/無効)。"
     },
     "This_page_is_blacklisted_at_the_security_settings": {
         "message": "セキュリティ設定でブラックリストに入っています"
