@@ -702,6 +702,9 @@
     "Icon_badge_color": {
         "message": "Icon Badge Color"
     },
+    "Icon_badge_text_color": {
+        "message": "Icon Badge Text Color"
+    },
     "Icon_badge_info": {
         "message": "Icon Badge Info"
     },

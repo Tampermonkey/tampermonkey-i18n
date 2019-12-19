@@ -522,6 +522,9 @@
     "Icon_badge_color": {
         "message": "Icon Info Hintergrundfarbe"
     },
+    "Icon_badge_text_color": {
+        "message": "Icon Info Textfarbe"
+    },
     "Icon_badge_info": {
         "message": "Icon Information"
     },
