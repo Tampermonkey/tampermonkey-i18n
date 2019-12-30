@@ -605,10 +605,13 @@
         "message": "寄付したくありません"
     },
     "Icon_badge_color": {
-        "message": "アイコンバッジの色"
+        "message": "アイコン バッジの色"
+    },
+    "Icon_badge_text_color": {
+        "message": "アイコン バッジの文字色"
     },
     "Icon_badge_info": {
-        "message": "アイコンバッジの情報"
+        "message": "アイコン バッジの情報"
     },
     "Import": {
         "message": "インポート"
@@ -1123,6 +1126,9 @@
     },
     "TabMode": {
         "message": "タブのモード"
+    },
+    "Tab_URL": {
+        "message": "タブの URL"
     },
     "Tabs": {
         "message": "タブ"
