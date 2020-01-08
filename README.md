@@ -1,5 +1,7 @@
 # tampermonkey-i18n
 
+[中文Readme.md]
+
 This repo contains Tampermonkey's locale files
 
 ## get it
