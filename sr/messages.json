@@ -13,7 +13,7 @@
             "count": {
                 "content": "$1"
             }
-        }
+        }"
     },
     "0count0_errors_or_hints_were_found_": {
         "message": "$count$ greški ili nagoveštaja je pronadjeno.",
@@ -251,7 +251,7 @@
         "message": "Centriraj Kursor"
     },
     "Changelog": {
-        "message": "Pregled promea"
+        "message": "Pregled promena"
     },
     "Changes": {
         "message": "Promene"
