@@ -57,7 +57,7 @@
         }
     },
     "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
-        "message": ">>>$name$ $version$ đăng có sẵn.\nHãy tắt đi mở lại trình duyệt của bạn để bắt đầu cập nhật!",
+        "message": "$name$ $version$ đăng có sẵn.\nHãy tắt đi mở lại trình duyệt của bạn để bắt đầu cập nhật!",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -68,25 +68,25 @@
         }
     },
     "15_Seconds": {
-        "message": ">>>15 giây<<<"
+        "message": "15 giây"
     },
     "1_Hour": {
-        "message": ">>>1 giờ<<<"
+        "message": "1 giờ"
     },
     "1_Minute": {
-        "message": ">>>1 phút<<<"
+        "message": "1 phút"
     },
     "30_Seconds": {
-        "message": ">>>30 giây<<<"
+        "message": "30 giây"
     },
     "5_Minutes": {
-        "message": ">>>5 phút<<<"
+        "message": "5 phút"
     },
     "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
         "message": ">>>A recheck of the GreaseMonkey/FF compatibility options may be required in order to run this script.<<<"
     },
     "A_reload_is_required": {
-        "message": ">>>Việc tải lại là cần thiết: \nMọi thay đổi chưa lưu sẽ bị mất!<<<"
+        "message": "Việc tải lại là cần thiết: \nMọi thay đổi chưa lưu sẽ bị mất!"
     },
     "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
         "message": ">>>A request to a cross origin resource is nothing unusual.\nYou just have to check whether this script has a good reason to access this domain.\nFor example there are only a very few reasons for a userscript to contact your bank.\n\nPlease note that userscript authors can avoid this dialog by adding [url=$connect$]@connect tags[/url] to their scripts.\n\nNo matter how you'll decide, you can change your opinion at any time at the script's [url=$settings$]settings tab[/url].<<<",
@@ -106,10 +106,10 @@
         "message": "Hành động"
     },
     "Action_failed": {
-        "message": ">>>Hành động thất bại<<<"
+        "message": "Hành động thất bại"
     },
     "Action_Menu": {
-        "message": ">>>Bảng chọn hành động<<<"
+        "message": "Bảng chọn hành động"
     },
     "Actions": {
         "message": "Hành động"
@@ -130,7 +130,7 @@
         "message": ">>>Add Tampermonkey to the site's content CSP<<<"
     },
     "Add_as_0clude0": {
-        "message": ">>>Thêm như $clude$<<<",
+        "message": "Thêm như $clude$",
         "placeholders": {
             "clude": {
                 "content": "$1"
