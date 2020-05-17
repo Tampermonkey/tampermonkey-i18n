@@ -33,7 +33,7 @@
         "message": "11"
     },
     "0count0_changes_exported": {
-        "message": ">>>$count$ change(s) exported<<<",
+        "message": "Đã xuất $count$ thay đổi",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -41,7 +41,7 @@
         }
     },
     "0count0_changes_imported": {
-        "message": ">>>$count$ change(s) imported<<<",
+        "message": "Đã nhập $count$ thay đổi",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -49,7 +49,7 @@
         }
     },
     "0count0_errors_or_hints_were_found_": {
-        "message": ">>>$count$ errors or hints were found.<<<",
+        "message": "Đã tìm thấy $count$ lỗi hoặc gợi ý.",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -57,7 +57,7 @@
         }
     },
     "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
-        "message": ">>>$name$ $version$ is available.\nPlease re-start your browser to start the update!<<<",
+        "message": ">>>$name$ $version$ đăng có sẵn.\nHãy tắt đi mở lại trình duyệt của bạn để bắt đầu cập nhật!",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -961,10 +961,10 @@
         "message": "Dán"
     },
     "Permanent": {
-        "message": ">>>Permanent<<<"
+        "message": "Vĩnh cửu"
     },
     "Please_check_the_0editor0_documentation_for_more_details_": {
-        "message": ">>>Please check the $editor$ documentation for more details.<<<",
+        "message": "Hãy xem tài liệu $editor$ để biết thêm thông tin chi tiết.",
         "placeholders": {
             "editor": {
                 "content": "$1"
@@ -1037,16 +1037,16 @@
         "message": "Thay hết"
     },
     "Replace_for_each_statements": {
-        "message": ">>>Replace 'for each' statements<<<"
+        "message": "Thay thế các câu lệnh 'for each'"
     },
     "Replace_with": {
-        "message": ">>>Thay bằng<<<"
+        "message": "Thay bằng"
     },
     "Report_a_bug": {
         "message": "Bão cáo một lỗi"
     },
     "Report_an_issue_to_the_script_hoster_": {
-        "message": ">>>Report abuse.\n(A user account may be required)<<<"
+        "message": "Báo cáo lạm dụng.\n(Một tài khoản người dùng có thể là càn thiết)"
     },
     "Requires": {
         "message": "Yêu cầu"
@@ -1061,22 +1061,22 @@
         "message": "Chạy lại Tampermonkey"
     },
     "Revoke_Access_Token": {
-        "message": ">>>Revoke Access Token<<<"
+        "message": "Thu hồi token truy cập"
     },
     "Run_at": {
-        "message": ">>>Run at<<<"
+        "message": "Chạy tại"
     },
     "Run_syntax_check": {
         "message": "Chạy kiểm tra cú pháp"
     },
     "Running_scripts": {
-        "message": ">>>Running scripts instances<<<"
+        "message": "Các thực thể tập lệnh đang chạy"
     },
     "Save": {
         "message": "Lưu"
     },
     "Save_to_disk": {
-        "message": "Lưu và ổ đĩa"
+        "message": "Lưu vào ổ đĩa"
     },
     "Script_0name0_is_slowing_down_some_page_loads_": {
         "message": "Tập lệnh '$name$' đang làm chậm việc tải trang của bạn",
@@ -1102,7 +1102,7 @@
         "message": ">>>Script authors can secure external resources by adding a SRI hash to the source URL.<<<"
     },
     "Script_local_files_access": {
-        "message": ">>>Allow scripts to access local files<<<"
+        "message": "Cho phép các tập lệnh truy cập các tệp cục bộ"
     },
     "Script_name_0name0": {
         "message": "Tên tập lệnh: $name$",
@@ -1140,7 +1140,7 @@
         "message": ">>>Select Scope<<<"
     },
     "Select_between_Brackets": {
-        "message": ">>>Select between Brackets<<<"
+        "message": "Chọn trong dấu ngoặc"
     },
     "Select_to_Sublime_Mark": {
         "message": ">>>Select to Sublime Mark<<<"
@@ -1161,7 +1161,7 @@
         "message": "Hiệu các bản sao lưu"
     },
     "Show_fixed_source": {
-        "message": ">>>Show fixed source<<<"
+        "message": "Hiệu các nguồn đã sửa"
     },
     "Show_notification": {
         "message": "Hiện thông báo"
@@ -1173,7 +1173,7 @@
         "message": "Kích cỡ"
     },
     "Skip_timeout__0seconds0_seconds_": {
-        "message": ">>>Skip timeout ($seconds$ seconds)<<<",
+        "message": "Bỏ qua thời gian chờ ($seconds$ giây)<<<",
         "placeholders": {
             "seconds": {
                 "content": "$1"
@@ -1211,7 +1211,7 @@
         "message": "Kho chứa"
     },
     "Store_data_in_incognito_mode": {
-        "message": ">>>Store data in incognito mode<<<"
+        "message": "Lưu trữ dữ liệu trong chế độ ẩn danh"
     },
     "Strict": {
         "message": "Nghiêm khắc"
@@ -1256,7 +1256,7 @@
         "message": ">>>Tampermonkey + script version<<<"
     },
     "Tampermonkey_has_no_file_access_permission_": {
-        "message": ">>>Tampermonkey has no permission to access local files!<<<"
+        "message": "Tampermonkey không có quyền truy cập các tệp cục bộ!"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": ">>>Tampermonkey might not be able to provide access to the unsafe context (unsafeWindow, page's functions and variables) when this is disabled.<<<"
@@ -1265,7 +1265,7 @@
         "message": ">>>Tampermonkey needs to be restarted to make this change apply.\n\nDo you want to continue?<<<"
     },
     "Tampermonkey_version": {
-        "message": ">>>Tampermonkey version only<<<"
+        "message": "Chỉ phiên bản Tampermonkey"
     },
     "Templates": {
         "message": "Các bản mẫu"
@@ -1435,7 +1435,7 @@
         "message": ">>>Trim trailing whitespace from modified lines<<<"
     },
     "Try_to_install_as_script": {
-        "message": ">>>Try to install as script<<<"
+        "message": "Cố gắng cài như một tập lệnh"
     },
     "Type": {
         "message": "Loại"
@@ -1478,7 +1478,7 @@
         "message": ">>>Unique running scripts<<<"
     },
     "Unknown_method_0name0": {
-        "message": ">>>Unknown method $name$<<<",
+        "message": "Phương thức không rõ $name$",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1495,13 +1495,13 @@
         "message": "URL cập nhật"
     },
     "Update_check_is_disabled": {
-        "message": ">>>Script update check is disabled or not possible<<<"
+        "message": "Kiểm tra cập nhật tập lệnh bị tắt hoặc không khả thi"
     },
     "Update_interval": {
-        "message": ">>>Update Interval<<<"
+        "message": "Khoảng thời gian cập nhật"
     },
     "Updated_to__0version0": {
-        "message": "Đã cập nhật lên: $version$<<<",
+        "message": "Đã cập nhật lên: $version$",
         "placeholders": {
             "version": {
                 "content": "$1"
@@ -1539,10 +1539,10 @@
         "message": "Các tiện ích"
     },
     "Validate_if_given": {
-        "message": ">>>Validate if given<<<"
+        "message": "Phê chuẩn khi cần"
     },
     "Validate_if_supported": {
-        "message": ">>>Validate if possible<<<"
+        "message": "Phê chuẩn khi có thể"
     },
     "Verbose": {
         "message": "Dài dòng"
@@ -1560,7 +1560,7 @@
         "message": "Cảnh báo"
     },
     "Warning_unsafe_site_warnings_might_appear_": {
-        "message": ">>>Warning: unsafe site warnings might appear if a script includes potentially harmfull URLs.<<<"
+        "message": "Cảnh báo: các cảnh báo trang không an toàn có thể sẽ xuát hiện nếu một tập lệnh có chưa cac URL có khả năng gây hại."
     },
     "WebDAV": {
         "message": "WebDAV"
@@ -1575,13 +1575,13 @@
         "message": "Các trang trong danh sách trắng"
     },
     "Windows": {
-        "message": ">>>Windows<<<"
+        "message": "Windows"
     },
     "XHR_Security": {
         "message": ">>>XHR Security<<<"
     },
     "Yandex_Disk": {
-        "message": ">>>Yandex.Disk<<<"
+        "message": "Yandex.Disk"
     },
     "Yank_Sublime_Mark": {
         "message": ">>>Yank Sublime Mark<<<"
@@ -1626,7 +1626,7 @@
         "message": "<không đặt>"
     },
     "connect_mode": {
-        "message": ">>>Check @connect<<<"
+        "message": "Kiểm tra @connect"
     },
     "fatal_error": {
         "message": "lỗi nghiêm trọng"
