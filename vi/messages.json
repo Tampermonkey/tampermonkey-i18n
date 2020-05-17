@@ -174,10 +174,10 @@
         "message": "Luôn cho phép"
     },
     "Always_allow_all_domains": {
-        "message": ">>>Always allow all domains<<<"
+        "message": "Luôn cho phép mọi tên miền"
     },
     "Always_allow_domain": {
-        "message": ">>>Always allow domain<<<"
+        "message": "Luôn cho phép tên mièn"
     },
     "Always_ask": {
         "message": "Luôn hỏi"
@@ -186,16 +186,16 @@
         "message": "Luôn cấm"
     },
     "Always_forbid_domain": {
-        "message": ">>>Always forbid domain<<<"
+        "message": "Luôn cấm tên miền"
     },
     "An_error_occured_during_import_": {
-        "message": ">>>An error occurred during import.<<<"
+        "message": "Một lỗi đã xảy ra trong ki nhập."
     },
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": ">>>An internal error occurred. If this problem persists even after a restart of the browser, please press OK and report this issue at the forum.\n\nDo you want to visit the Tampermonkey forum?<<<"
     },
     "Anonymous_statistics": {
-        "message": ">>>Anonymous statistics<<<"
+        "message": "Thống kê ẩn danh"
     },
     "Appearance": {
         "message": "Ngoại hình"
@@ -204,13 +204,13 @@
         "message": ">>>Apply compatibility options to @require scripts too<<<"
     },
     "Apply_this_action_to_the_selected_scripts": {
-        "message": ">>>Apply this to all selected scripts<<<"
+        "message": "Áp dụng vào tất cả tập lệnh được chọn"
     },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": ">>>When Tampermonkey is updated by your browser it is also re-started. Unfortunately this might break currently running scripts!\n\nSo are you sure that you don't want to be notified of updates?<<<"
     },
     "Ask_if_unknown": {
-        "message": ">>>Ask if unknown<<<"
+        "message": "Hỏi nếu không biết"
     },
     "At_least_one_new_connect_statement_was_added_": {
         "message": ">>>At least one new @connect statement was added.<<<"
@@ -234,10 +234,10 @@
         "message": "Tự động"
     },
     "Auto_Indent_all": {
-        "message": ">>>Auto-Indent all<<<"
+        "message": "Tự thụt lùi tất cả"
     },
     "Auto_reload_on_script_enabled": {
-        "message": ">>>Auto reload pages<<<"
+        "message": "Tự tải lại các trang"
     },
     "Auto_reload_on_script_enabled_desc": {
         "message": ">>>Reload affected pages if a script was turned on or off<<<"
@@ -264,25 +264,25 @@
         "message": ">>>Block From Severity Level<<<"
     },
     "Blacklisted_Pages": {
-        "message": ">>>Blacklisted Pages<<<"
+        "message": "Các trang trong danh sách đen"
     },
     "Bookmarks": {
         "message": "Dấu trang"
     },
     "Both": {
-        "message": ">>>Both<<<"
+        "message": "Cả hai"
     },
     "Browser_API": {
-        "message": ">>>Browser API<<<"
+        "message": "API trình duyệt"
     },
     "Browser_API_Downloads": {
-        "message": ">>>Browser API Downloads<<<"
+        "message": "Tải xuống API trình duyệt"
     },
     "Browser_Sync": {
-        "message": ">>>Browser Sync<<<"
+        "message": "Đồng bộ trình duyệt"
     },
     "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
-        "message": ">>>CONFLICT:\nThis script was modified by another tab $t$ second(s) ago!<<<",
+        "message": "XUNG ĐỘT:\nTập lệnh này đã được sửa bởi một thẻ khác $t$ giây trước!",
         "placeholders": {
             "t": {
                 "content": "$1"
@@ -290,13 +290,13 @@
         }
     },
     "Cancel": {
-        "message": ">>>Huỷ<<<"
+        "message": "Huỷ"
     },
     "Casual": {
-        "message": ">>>Casual<<<"
+        "message": "Thông thường"
     },
     "Center_Cursor": {
-        "message": ">>>Center Cursor<<<"
+        "message": "Căn giữa con trỏ"
     },
     "Changelog": {
         "message": "Nhật kí thay đổi"
@@ -308,10 +308,10 @@
         "message": ">>>Changes the number of visible config options<<<"
     },
     "Check_disabled_scripts": {
-        "message": ">>>Update disabled scripts<<<"
+        "message": "Cập nhất các tập lệnh đã tắt"
     },
     "Check_for_Updates": {
-        "message": ">>>Check for updates<<<"
+        "message": "Kiểm tra cập nhật"
     },
     "Check_for_userscripts_updates": {
         "message": ">>>Check for userscript updates<<<"
@@ -340,19 +340,19 @@
         "message": ">>>Click OK to allow Tampermonkey to start instant downloads.<<<"
     },
     "Click_here_to_install_it_": {
-        "message": ">>>Click here to install it.<<<"
+        "message": "Nháy vào đây để cài đặt nó."
     },
     "Click_here_to_move_this_script": {
-        "message": ">>>Click here to move this script<<<"
+        "message": "Nháy vào đây để di chuyển tập lệnh này."
     },
     "Click_here_to_see_the_recent_changes": {
-        "message": ">>>Click here to see the recent changes<<<"
+        "message": "Nháy vào đây để xem các thay đổi gấn đây."
     },
     "Close": {
-        "message": ">>>Close<<<"
+        "message": "Đóng"
     },
     "Closing_Bracket": {
-        "message": ">>>Closing Bracket<<<"
+        "message": "Đóng ngoặc"
     },
     "Cloud": {
         "message": "Đám mây"
@@ -361,10 +361,10 @@
         "message": "Cột"
     },
     "Comment": {
-        "message": ">>>Bình luận<<<"
+        "message": "Chú thích"
     },
     "Config_Mode": {
-        "message": ">>>Config mode<<<"
+        "message": "Chế độ cấu hình"
     },
     "Convert_Array_Assignements": {
         "message": ">>>Convert [blub, bla] = s.split(':') statements<<<"
@@ -379,10 +379,10 @@
         "message": ">>>Cross Origin Request Permission<<<"
     },
     "Current_Version": {
-        "message": ">>>Current Version<<<"
+        "message": "Phiên bản hiện tại"
     },
     "Custom_CSS": {
-        "message": ">>>Custom CSS<<<"
+        "message": "CSS tuỳ chỉnh"
     },
     "Custom_Linter_Config": {
         "message": ">>>Custom Linter Config<<<"
@@ -391,13 +391,13 @@
         "message": "Cắt"
     },
     "Dashboard": {
-        "message": ">>>Dashboard<<<"
+        "message": "Bảng tổng quan"
     },
     "Debug": {
         "message": "Gỡ lỗi"
     },
     "Debug_scripts": {
-        "message": ">>>Debug scripts<<<"
+        "message": "Gỡ lỗi các tâp lệnh"
     },
     "Default": {
         "message": "Mặc định"
@@ -406,22 +406,22 @@
         "message": "Mặc định - Tối"
     },
     "Default_Darker": {
-        "message": ">>>Default - Darker<<<"
+        "message": "Mặc định - Tối hơn"
     },
     "Default_Light": {
-        "message": ">>>Default - Light<<<"
+        "message": "Mặc định - Sáng"
     },
     "Delete": {
         "message": "Xoá"
     },
     "Delete_Line": {
-        "message": ">>>Delete Line<<<"
+        "message": "Xoá dòng"
     },
     "Delete_Line_Left": {
-        "message": ">>>Delete Line Left<<<"
+        "message": "Xoá dòng bên trái"
     },
     "Delete_Line_Right": {
-        "message": ">>>Delete Line Right<<<"
+        "message": "Xoá dòng bên phải"
     },
     "Delete_to_Next_Word_Boundary": {
         "message": ">>>Delete to Next Word Boundary<<<"
@@ -439,25 +439,25 @@
         "message": "URL mô tả"
     },
     "Destination_domain": {
-        "message": ">>>Destination domain<<<"
+        "message": "Tên miền cần đi đến"
     },
     "Details": {
-        "message": ">>>Details<<<"
+        "message": "Chi tiết"
     },
     "Developer": {
-        "message": ">>>Developer<<<"
+        "message": "Nhà phát triển"
     },
     "Disable": {
-        "message": ">>>Disable<<<"
+        "message": "Tắt"
     },
     "Disabled": {
-        "message": ">>>Disabled<<<"
+        "message": "Đã tắt"
     },
     "Disabled_scripts": {
-        "message": ">>>Disabled scripts<<<"
+        "message": "Các tập lệnh đã bị tắt"
     },
     "Do_you_really_want_to_store_fixed_code_": {
-        "message": ">>>The Option '$option$' is enabled!\n\nDo you really want to store the fixed source?<<<",
+        "message": "Tuỳ chọn '$option$' đã được bật!\n\nBạn có thực sự muốn lưu trữ mã nguồn đã được sửa không?",
         "placeholders": {
             "option": {
                 "content": "$1"
@@ -465,22 +465,22 @@
         }
     },
     "Document_End": {
-        "message": ">>>Document End<<<"
+        "message": "Cuối tài liệu"
     },
     "Document_Start": {
-        "message": ">>>Document Start<<<"
+        "message": "Đầu tài liệu"
     },
     "Dont_ask_again": {
-        "message": ">>>Don't ask again<<<"
+        "message": "Đừng hỏi lại"
     },
     "Dont_ask_me_for_simple_script_updates": {
         "message": ">>>Don't ask me for simple script updates<<<"
     },
     "Downgrade": {
-        "message": ">>>Downgrade<<<"
+        "message": "Hạ cấp"
     },
     "Download_Mode": {
-        "message": ">>>Download Mode<<<"
+        "message": "Chế độ tải xuống"
     },
     "Downloaded_from_0url0": {
         "message": "Tải từ: $url$",
@@ -491,37 +491,37 @@
         }
     },
     "Downloads": {
-        "message": ">>>Downloads<<<"
+        "message": "Tải xuống"
     },
     "Dropbox": {
-        "message": ">>>Dropbox<<<"
+        "message": "Dropbox"
     },
     "DuckDuckGo": {
-        "message": ">>>DuckDuckGo<<<"
+        "message": "DuckDuckGo"
     },
     "Duplicate_Lines": {
-        "message": ">>>Duplicate Lines<<<"
+        "message": "Nhân đôi các dòng"
     },
     "Edit": {
         "message": "Chỉnh sửa"
     },
     "Editor": {
-        "message": ">>>Editor<<<"
+        "message": "Trình chỉnh sửa"
     },
     "Editor_reset": {
-        "message": ">>>Editor reset<<<"
+        "message": "Đặt lại trình chỉnh sửa"
     },
     "Emacs": {
         "message": ">>>Emacs<<<"
     },
     "Enable": {
-        "message": ">>>Enable<<<"
+        "message": "Bật lên"
     },
     "Enable_Editor": {
-        "message": ">>>Enable enhanced editor<<<"
+        "message": "Bật trình chỉnh sửa tăng cường"
     },
     "Enable_Script_Sync": {
-        "message": ">>>Enable Script Sync<<<"
+        "message": "Bật đồng bộ tập lệnh"
     },
     "Enable_autoSave": {
         "message": ">>>Save content when editor loses focus<<<"
@@ -536,34 +536,34 @@
         "message": "Đã bật"
     },
     "Enforce": {
-        "message": ">>>Enforce<<<"
+        "message": "Ép buộc"
     },
     "Enter_the_new_rule": {
-        "message": ">>>Enter new rule<<<"
+        "message": "Vào quy tắc mới"
     },
     "Error": {
         "message": "Lỗi"
     },
     "Every_12_Hour": {
-        "message": ">>>Every 12 Hours<<<"
+        "message": "Mỗi 12 tiếng"
     },
     "Every_6_Hours": {
-        "message": ">>>Every 6 Hours<<<"
+        "message": "Mỗi 6 tiếng"
     },
     "Every_Day": {
-        "message": ">>>Every Day<<<"
+        "message": "Hằng ngày"
     },
     "Every_Hour": {
-        "message": ">>>Every Hour<<<"
+        "message": "Hằng giờ"
     },
     "Every_Month": {
-        "message": ">>>Every Month<<<"
+        "message": "Hằng tháng"
     },
     "Every_Week": {
-        "message": ">>>Every Week<<<"
+        "message": "hằng tuần"
     },
     "Exclude_0domain0": {
-        "message": ">>>Exclude $domain$<<<",
+        "message": "Loại trừ $domain$",
         "placeholders": {
             "domain": {
                 "content": "$1"
@@ -571,46 +571,46 @@
         }
     },
     "Exclude_s__": {
-        "message": ">>>Exclude(s)<<<"
+        "message": "Loại trừ"
     },
     "Experimental": {
-        "message": ">>>Experimental<<<"
+        "message": "Thử nghiệm"
     },
     "Export": {
-        "message": ">>>Export<<<"
+        "message": "Xuất"
     },
     "Externals": {
-        "message": ">>>Externals<<<"
+        "message": "Bên ngoài"
     },
     "Factory_Reset": {
-        "message": ">>>Factory Reset<<<"
+        "message": "Đặt lại về ban đầu"
     },
     "Fast": {
-        "message": ">>>Fast<<<"
+        "message": "Nhanh"
     },
     "Favicon_Service": {
         "message": ">>>Favicon Service<<<"
     },
     "Features": {
-        "message": ">>>Features<<<"
+        "message": "Các tính năng"
     },
     "File": {
-        "message": ">>>File<<<"
+        "message": "Tệp"
     },
     "Filter_by": {
-        "message": ">>>Filter by<<<"
+        "message": "Lọc theo"
     },
     "Find": {
-        "message": ">>>Find<<<"
+        "message": "Tìm"
     },
     "Find_All_Under": {
         "message": ">>>Find All Under<<<"
     },
     "Find_Next": {
-        "message": ">>>Find Next<<<"
+        "message": "Tìm tiếp"
     },
     "Find_Previous": {
-        "message": ">>>Find Previous<<<"
+        "message": "Tìm trước đó"
     },
     "Find_Under": {
         "message": ">>>Find Under<<<"
@@ -628,58 +628,58 @@
         "message": ">>>Focus source tab<<<"
     },
     "Fold": {
-        "message": ">>>Fold<<<"
+        "message": "Gập"
     },
     "Fold_All": {
-        "message": ">>>Fold All<<<"
+        "message": "Gập hết"
     },
     "Folding": {
-        "message": ">>>Folding<<<"
+        "message": "Gập"
     },
     "Font_Size": {
-        "message": ">>>Font Size<<<"
+        "message": "Cỡ phông"
     },
     "Forbid_once": {
-        "message": ">>>Forbid once<<<"
+        "message": "Cấm một lần"
     },
     "Full_reset": {
-        "message": ">>>Factory reset<<<"
+        "message": "Đặt lại hoàn toàn"
     },
     "GM_compat_options_": {
         "message": ">>>GM/FF compatibility options<<<"
     },
     "General": {
-        "message": ">>>General<<<"
+        "message": "Chung"
     },
     "Get_new_scripts___": {
-        "message": ">>>Find new scripts...<<<"
+        "message": "Tìm tập lệnh mới..."
     },
     "Get_some_scripts___": {
-        "message": ">>>Get some scripts...<<<"
+        "message": "Lấy vài tập lệnh..."
     },
     "Global_Settings": {
-        "message": "Thiết lập Toàn cục"
+        "message": "Thiết lập toàn cục"
     },
     "Global_settings_import": {
         "message": "Nhập thiết lập toàn cục"
     },
     "GoTo": {
-        "message": ">>>GoTo<<<"
+        "message": "Đi đến"
     },
     "Google": {
-        "message": ">>>Google<<<"
+        "message": "Google"
     },
     "Google_Drive": {
-        "message": ">>>Google Drive<<<"
+        "message": "Google Drive"
     },
     "Group_Left": {
-        "message": ">>>Group Left<<<"
+        "message": "Nhóm bên trái"
     },
     "Group_Right": {
-        "message": ">>>Group Right<<<"
+        "message": "Nhóm bên phải"
     },
     "Help": {
-        "message": ">>>Help<<<"
+        "message": "Giúp"
     },
     "Hide_disabled_scripts": {
         "message": "Ẩn các tập lệnh bị tắt"
@@ -688,10 +688,10 @@
         "message": ">>>Hide notification after<<<"
     },
     "Highlight_trailing_whitespace": {
-        "message": ">>>Highlight trailing whitespace<<<"
+        "message": "Tô sáng các dấu cách nối đuôi"
     },
     "Homepage": {
-        "message": ">>>Homepage<<<"
+        "message": "Trang nhà"
     },
     "I_contributed_already": {
         "message": "Tôi đã đóng góp rồi"
@@ -709,37 +709,37 @@
         "message": ">>>Icon Badge Info<<<"
     },
     "Import": {
-        "message": ">>>Import<<<"
+        "message": "Nhập"
     },
     "Imported": {
-        "message": ">>>Imported<<<"
+        "message": "Đã nhập"
     },
     "Include_TM_settings": {
-        "message": ">>>Include Tampermonkey settings<<<"
+        "message": "Bao gồm các thiết đặt Tampermonkey"
     },
     "Include_s__": {
-        "message": ">>>Include(s)<<<"
+        "message": "Bao gồm"
     },
     "Include_script_externals": {
         "message": ">>>Include external script resources<<<"
     },
     "Include_script_storage": {
-        "message": ">>>Include script storage<<<"
+        "message": "Bao gồm kho chứa tập lệnh"
     },
     "Includes_Excludes": {
-        "message": ">>>Includes/Excludes<<<"
+        "message": ">>>Bao gồm/Loại trừ"
     },
     "Incremental_Find": {
-        "message": ">>>Incremental Find<<<"
+        "message": "Tìm tăng dần"
     },
     "Indent": {
-        "message": ">>>Indent<<<"
+        "message": "Thụt lùi"
     },
     "Indent_Less": {
-        "message": ">>>Indent Less<<<"
+        "message": "Thụt ra"
     },
     "Indent_More": {
-        "message": ">>>Indent More<<<"
+        "message": "Thụt vào"
     },
     "Indent_with": {
         "message": ">>>Indent with<<<"
@@ -748,28 +748,28 @@
         "message": ">>>Indentation Width<<<"
     },
     "Info": {
-        "message": ">>>Info<<<"
+        "message": "Thông tin"
     },
     "Inject_Mode": {
         "message": ">>>Inject Mode<<<"
     },
     "Insert_Line_After": {
-        "message": ">>>Insert Line After<<<"
+        "message": "Chèn dòng sau"
     },
     "Insert_Line_Before": {
-        "message": ">>>Insert Line Before<<<"
+        "message": "Chèn dòng trước"
     },
     "Insert_constructor": {
         "message": ">>>Insert constructor<<<"
     },
     "Install": {
-        "message": ">>>Install<<<"
+        "message": "Cài đặt"
     },
     "Install_from_URL": {
-        "message": ">>>Install from URL<<<"
+        "message": "Cài từ URL<<<"
     },
     "Install_this_script": {
-        "message": ">>>Install this script<<<"
+        "message": "Cài tập lệnh này"
     },
     "Installed_Version_": {
         "message": "Phiên bản cài đặt"
@@ -778,7 +778,7 @@
         "message": "Các tập lệnh người dùng đã cài"
     },
     "Instant": {
-        "message": ">>>Instant<<<"
+        "message": "Ngay lập tức"
     },
     "Invalid_UserScript__Sry_": {
         "message": "Rất tiếc! Tập lệnh người dùng không hợp lệ."
@@ -787,25 +787,25 @@
         "message": "Rất tiếc! Tên tập lệnh người dùng không hợp lệ."
     },
     "Join_Lines": {
-        "message": ">>>Join Lines<<<"
+        "message": "Nối các dòng"
     },
     "Jump_to_line": {
-        "message": ">>>Jump to line<<<"
+        "message": "Nhảy đến dòng"
     },
     "Just_another_service_provided_by_your_friendly_script_updater_": {
         "message": ">>>Just another service provided by your friendly script updater<<<"
     },
     "Key_Mapping": {
-        "message": ">>>Key Mapping<<<"
+        "message": "Lập bản đồ phím"
     },
     "Language": {
-        "message": ">>>Language<<<"
+        "message": "Ngôn ngữ"
     },
     "Last_updated": {
-        "message": ">>>Last updated<<<"
+        "message": "Cập nhật lần cuối"
     },
     "Layout": {
-        "message": ">>>Layout<<<"
+        "message": "Bố cục"
     },
     "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
         "message": ">>>Limited runtime host permissions might break some Tampermonkey features like script update, GM_xmlhttpRequest and others!<<<"
@@ -820,88 +820,88 @@
         "message": ">>>Line Up<<<"
     },
     "Line_break": {
-        "message": ">>>Line break<<<"
+        "message": "Ngắt dòng"
     },
     "Lines": {
-        "message": ">>>Lines<<<"
+        "message": "Các dòng"
     },
     "LogLevel": {
         "message": ">>>Logging Level<<<"
     },
     "Login": {
-        "message": ">>>Login<<<"
+        "message": "Đăng nhập"
     },
     "Lower_Case": {
-        "message": ">>>Lower Case<<<"
+        "message": "Chữ thường"
     },
     "MIME_Type": {
-        "message": ">>>MIME Type<<<"
+        "message": "Loại MIME"
     },
     "Malicious_scripts_can_violate_your_privacy_": {
-        "message": "Các script độc hại có thể vi phạm quyền riêng tư của bạn và hành động thay mặt bạn!\nBạn chỉ nên cài đặt các script từ các nguồn mà bạn tin tưởng."
+        "message": "Các tập lệnh độc hại có thể vi phạm quyền riêng tư của bạn và hành động thay mặt bạn!\nBạn chỉ nên cài đặt các tập lệnh từ các nguồn mà bạn tin tưởng."
     },
     "Manual_Script_Blacklist": {
         "message": ">>>Manual Userscript and @require Blacklist<<<"
     },
     "Matching_URL": {
-        "message": ">>>Matching URL<<<"
+        "message": "So khớp URL"
     },
     "Modify": {
-        "message": ">>>Modify<<<"
+        "message": "Chỉnh sửa"
     },
     "Move_Line_Down": {
-        "message": ">>>Move Line Down<<<"
+        "message": "Chuyển dòng xuống"
     },
     "Move_Line_Up": {
-        "message": ">>>Move Line Up<<<"
+        "message": "Chuyển dòng lên"
     },
     "Name": {
         "message": "Tên"
     },
     "Native": {
-        "message": ">>>Native<<<"
+        "message": "Bản địa"
     },
     "Never": {
-        "message": ">>>Never<<<"
+        "message": "Không bao giờ"
     },
     "New_Version": {
-        "message": ">>>New Version<<<"
+        "message": "Phiên bản mới"
     },
     "New_script_template_": {
-        "message": ">>>New userscript template<<<"
+        "message": "Bản mẫu tập lệnh người dùng mới"
     },
     "New_userscript": {
         "message": "<Tập lệnh người dùng mới>"
     },
     "Next_Bookmark": {
-        "message": ">>>Next Bookmark<<<"
+        "message": "Dấu trang tiếp theo"
     },
     "No": {
         "message": "Không"
     },
     "No_backups_found": {
-        "message": ">>>No backups found<<<"
+        "message": "Không tìm thấy bản sao lưu nào cả"
     },
     "No_entry_found": {
-        "message": ">>>No entry found<<<"
+        "message": "Không tìm thấy mục nào cả"
     },
     "No_frames": {
-        "message": ">>>Run only in top frame<<<"
+        "message": "Chỉ chạy trong khung trên cùng"
     },
     "No_script_is_installed": {
-        "message": ">>>No script is installed<<<"
+        "message": "Không có tập lệnh nào được cài"
     },
     "No_script_is_running": {
-        "message": ">>>No script is running<<<"
+        "message": "Không có tập lệnh nào đang chạy"
     },
     "No_syntax_errors_were_found_": {
-        "message": ">>>No syntax errors were found.<<<"
+        "message": "Không tìm thấy lỗi cú pháp nào cả"
     },
     "No_update_found__sry_": {
-        "message": ">>>No update found, sry!<<<"
+        "message": "Chưa có cập nhật nào, xin lỗi!"
     },
     "Normal": {
-        "message": ">>>Normal<<<"
+        "message": "Bình thường"
     },
     "Note": {
         "message": "Ghi chú"
@@ -910,13 +910,13 @@
         "message": ">>>Novice<<<"
     },
     "Off": {
-        "message": ">>>Off<<<"
+        "message": "Tắt"
     },
     "Ok": {
         "message": "Ok"
     },
     "On": {
-        "message": ">>>On<<<"
+        "message": "Bật"
     },
     "OneDrive": {
         "message": "OneDrive"
@@ -931,10 +931,10 @@
         "message": ">>>Manual Only<<<"
     },
     "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
-        "message": ">>>Only files with these extensions can be saved to harddisk.\nBe careful to not allow file extensions that represent executables at your operating system!<<<"
+        "message": "Chỉ các tệp với các phần mở rộng sau mới có thể được luu vào ổ cứng.\nHãy cẩn thận khi không cho phép các phần mở rộng tệp đại diện cho các tệp thực thi ở hệ điều hành của bạn!"
     },
     "Open_changelog": {
-        "message": ">>>Open changelog<<<"
+        "message": "Mở nhật kí thay đổi"
     },
     "Operation_completed_successfully": {
         "message": ">>>Operation completed successfully<<<"
@@ -955,10 +955,10 @@
         "message": ">>>Page Filter Mode<<<"
     },
     "Password": {
-        "message": ">>>Password<<<"
+        "message": "Mật khẩu"
     },
     "Paste": {
-        "message": ">>>Paste<<<"
+        "message": "Dán"
     },
     "Permanent": {
         "message": ">>>Permanent<<<"
@@ -981,16 +981,16 @@
         "message": "Vui lòng chờ..."
     },
     "Position_": {
-        "message": ">>>Position<<<"
+        "message": "Vị trí"
     },
     "Prev_Bookmark": {
-        "message": ">>>Prev Bookmark<<<"
+        "message": "Dấu trang trước đó"
     },
     "Process_with_Chrome": {
-        "message": ">>>Process with the browser<<<"
+        "message": "Xử lí bằng trình duyệt"
     },
     "Really_delete_0name0__": {
-        "message": ">>>Do you really want to delete '$name$'?<<<",
+        "message": "Bạn có thực sự muốn xoá '$name$' không?",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -998,67 +998,67 @@
         }
     },
     "Really_delete_the_selected_items_": {
-        "message": ">>>Do you really want to delete all selected items?<<<"
+        "message": "Bạn có thực sự muốn xoá tất cả các vật phẩm đã chọn không?"
     },
     "Really_factory_reset_the_selected_items_": {
-        "message": ">>>Do you really want to factory reset all selected items?<<<"
+        "message": "Bạn có thực sự muốn đặt lại về ban đầu tất các các vật phẩm được chọn này không?"
     },
     "Really_factory_reset_this_script_": {
-        "message": ">>>Do you really want to factory reset this script?<<<"
+        "message": "Bạn có thực sự muốn đặt lại về ban đầu tập lệnh này không?"
     },
     "Really_reset_all_changes_": {
-        "message": ">>>Really reset all changes?<<<"
+        "message": "Đặt lại tất các các thay đổi nhé?"
     },
     "Redo": {
-        "message": ">>>Redo<<<"
+        "message": "Làm lại"
     },
     "Reindent_on_typing": {
-        "message": ">>>Re-indent on typing<<<"
+        "message": "Thụt lùi lại khi gõ"
     },
     "Reinstall": {
-        "message": ">>>Reinstall<<<"
+        "message": "Cài lại"
     },
     "Remind_me_later": {
         "message": "Nhắc tôi sau"
     },
     "Remove": {
-        "message": ">>>Remove<<<"
+        "message": "Loại bỏ"
     },
     "Replace": {
-        "message": ">>>Replace<<<"
+        "message": "Thay thế"
     },
     "Replace_": {
-        "message": ">>>Replace?<<<"
+        "message": "Thay thế nhé?"
     },
     "Replace_All": {
-        "message": ">>>Replace All<<<"
+        "message": "Thay hết"
     },
     "Replace_all_with": {
-        "message": ">>>Replace all<<<"
+        "message": "Thay hết"
     },
     "Replace_for_each_statements": {
         "message": ">>>Replace 'for each' statements<<<"
     },
     "Replace_with": {
-        "message": ">>>Replace with<<<"
+        "message": ">>>Thay bằng<<<"
     },
     "Report_a_bug": {
-        "message": ">>>Report a bug<<<"
+        "message": "Bão cáo một lỗi"
     },
     "Report_an_issue_to_the_script_hoster_": {
         "message": ">>>Report abuse.\n(A user account may be required)<<<"
     },
     "Requires": {
-        "message": ">>>Requires<<<"
+        "message": "Yêu cầu"
     },
     "Reset_Section": {
-        "message": ">>>Reset<<<"
+        "message": "Đặt lại"
     },
     "Resources": {
-        "message": ">>>Resources<<<"
+        "message": "Các tài nguyên"
     },
     "Restart_Tampermonkey": {
-        "message": ">>>Restart Tampermonkey<<<"
+        "message": "Chạy lại Tampermonkey"
     },
     "Revoke_Access_Token": {
         "message": ">>>Revoke Access Token<<<"
@@ -1067,19 +1067,19 @@
         "message": ">>>Run at<<<"
     },
     "Run_syntax_check": {
-        "message": ">>>Run syntax check<<<"
+        "message": "Chạy kiểm tra cú pháp"
     },
     "Running_scripts": {
         "message": ">>>Running scripts instances<<<"
     },
     "Save": {
-        "message": ">>>Save<<<"
+        "message": "Lưu"
     },
     "Save_to_disk": {
-        "message": ">>>Save to disk<<<"
+        "message": "Lưu và ổ đĩa"
     },
     "Script_0name0_is_slowing_down_some_page_loads_": {
-        "message": ">>>Script '$name$' is slowing down your page loads<<<",
+        "message": "Tập lệnh '$name$' đang làm chậm việc tải trang của bạn",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1090,13 +1090,13 @@
         "message": ">>>Script Blacklist Source<<<"
     },
     "Script_Sync": {
-        "message": ">>>Script Sync<<<"
+        "message": "Đồng bộ tập lệnh"
     },
     "Script_URL_detection": {
         "message": ">>>Script URL detection<<<"
     },
     "Script_Update": {
-        "message": ">>>Script Update<<<"
+        "message": "Cập nhật tập lệnh"
     },
     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
         "message": ">>>Script authors can secure external resources by adding a SRI hash to the source URL.<<<"
@@ -1105,7 +1105,7 @@
         "message": ">>>Allow scripts to access local files<<<"
     },
     "Script_name_0name0": {
-        "message": "Tên Script: $name$",
+        "message": "Tên tập lệnh: $name$",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1116,25 +1116,25 @@
         "message": "Thứ tự tập lệnh"
     },
     "Search": {
-        "message": ">>>Search<<<"
+        "message": "Tìm kiếm"
     },
     "Search_for": {
-        "message": ">>>Search for<<<"
+        "message": "Tìm kiếm gì"
     },
     "Security": {
-        "message": ">>>Security<<<"
+        "message": "Bảo mật"
     },
     "Select_All": {
-        "message": ">>>Select All<<<"
+        "message": "Chọn hết"
     },
     "Select_Bookmarks": {
-        "message": ">>>Select Bookmarks<<<"
+        "message": "Chọn dấu trang"
     },
     "Select_Line": {
-        "message": ">>>Select Line<<<"
+        "message": "Chọn dòng"
     },
     "Select_Next_Occurrence": {
-        "message": ">>>Select Next Occurrence<<<"
+        "message": "Chon trường hợp tiếp theo"
     },
     "Select_Scope": {
         "message": ">>>Select Scope<<<"
@@ -1146,7 +1146,7 @@
         "message": ">>>Select to Sublime Mark<<<"
     },
     "Selection": {
-        "message": ">>>Selection<<<"
+        "message": "Phần đã chọn"
     },
     "Server_And_Manual": {
         "message": ">>>Remote + Manual<<<"
@@ -1155,22 +1155,22 @@
         "message": ">>>Set Sublime Mark<<<"
     },
     "Settings": {
-        "message": ">>>Settings<<<"
+        "message": "Thiết đặt"
     },
     "Show_backups": {
-        "message": ">>>Show backups<<<"
+        "message": "Hiệu các bản sao lưu"
     },
     "Show_fixed_source": {
         "message": ">>>Show fixed source<<<"
     },
     "Show_notification": {
-        "message": ">>>Show notification<<<"
+        "message": "Hiện thông báo"
     },
     "Sites": {
         "message": "Trang web"
     },
     "Size": {
-        "message": ">>>Size<<<"
+        "message": "Kích cỡ"
     },
     "Skip_timeout__0seconds0_seconds_": {
         "message": ">>>Skip timeout ($seconds$ seconds)<<<",
@@ -1181,7 +1181,7 @@
         }
     },
     "Smart": {
-        "message": ">>>Smart<<<"
+        "message": "Thông minh"
     },
     "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
         "message": ">>>Some scripts might be blocked by the JavaScript settings for this page or a script blocker!<<<"
@@ -1190,31 +1190,31 @@
         "message": "Phân loại"
     },
     "Source": {
-        "message": ">>>Source<<<"
+        "message": "Nguồn"
     },
     "Source_Code": {
-        "message": ">>>Source Code<<<"
+        "message": "Mã nguồn"
     },
     "Spaces": {
-        "message": ">>>Spaces<<<"
+        "message": "Khoảng cách"
     },
     "Split_into_Lines": {
-        "message": ">>>Split into Lines<<<"
+        "message": "NGắt thành các dòng"
     },
     "Start": {
-        "message": ">>>Start<<<"
+        "message": "Bắt đầu"
     },
     "Stop": {
-        "message": ">>>Stop<<<"
+        "message": "Dừng lại"
     },
     "Storage": {
-        "message": ">>>Storage<<<"
+        "message": "Kho chứa"
     },
     "Store_data_in_incognito_mode": {
         "message": ">>>Store data in incognito mode<<<"
     },
     "Strict": {
-        "message": ">>>Strict<<<"
+        "message": "Nghiêm khắc"
     },
     "Sublime": {
         "message": ">>>Sublime Text<<<"
@@ -1229,28 +1229,28 @@
         "message": ">>>Swap with Sublime Mark<<<"
     },
     "Sync_Reset": {
-        "message": ">>>Sync Reset<<<"
+        "message": "Đặt lại đồng bộ"
     },
     "Sync_Type": {
-        "message": ">>>Type<<<"
+        "message": "Loại"
     },
     "Sync_finished": {
-        "message": ">>>Sync finished<<<"
+        "message": "Đã hoàn thành việc đồng bộ"
     },
     "Sync_is_running": {
-        "message": ">>>Sync is running<<<"
+        "message": "Đồng bộ hoá đang chay"
     },
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": ">>>Synchronize your scripts across browsers and operation systems<<<"
     },
     "TabMode": {
-        "message": ">>>TabMode<<<"
+        "message": "TabMode"
     },
     "Tab_URL": {
-        "message": ">>>Tab URL<<<"
+        "message": "URL thẻ"
     },
     "Tabs": {
-        "message": ">>>Tabs<<<"
+        "message": "Các thẻ"
     },
     "Tampermonkey_and_script_version": {
         "message": ">>>Tampermonkey + script version<<<"
@@ -1268,19 +1268,19 @@
         "message": ">>>Tampermonkey version only<<<"
     },
     "Templates": {
-        "message": ">>>Templates<<<"
+        "message": "Các bản mẫu"
     },
     "Temporarily_allow": {
-        "message": ">>>Temporarily allow<<<"
+        "message": "Tạm thời cho phép"
     },
     "Temporary": {
-        "message": ">>>Temporary<<<"
+        "message": "Tạm thời"
     },
     "Temporary_domain_whitelist": {
-        "message": ">>>Temporary domain whitelist<<<"
+        "message": "Tạm thời cho tên miền vào danh sách trắng"
     },
     "Text": {
-        "message": ">>>Text<<<"
+        "message": "Văn bản"
     },
     "TextArea": {
         "message": ">>>TextArea<<<"
@@ -1312,13 +1312,13 @@
         }
     },
     "Theme": {
-        "message": ">>>Theme<<<"
+        "message": "Chủ đề"
     },
     "There_are_unsaved_changed_": {
-        "message": ">>>There are unsaved changes.\nDo you really want to close the editor?<<<"
+        "message": "Vẫn còn thay đổi chưa được lưu.\nBạn có thực sự muốn đóng trình chỉnh sửa?"
     },
     "There_is_an_update_for_0name0_avaiable_": {
-        "message": ">>>There is an update for '$name$' available. :)<<<",
+        "message": ">>>Có một bản cập nhật có sẵn cho '$name$'. :)<<<",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1335,10 +1335,10 @@
         "message": ">>>The origin of this script can't be determined.\nEither it was installed by a third party to steal you private data or some basic browser settings, your operation system or hardware has changed.\nThis modification will enable it!<<<"
     },
     "This_is_a_system_script": {
-        "message": ">>>This is a system script.<<<"
+        "message": "Đây là một tập lệnh hệ thống."
     },
     "This_is_a_userscript": {
-        "message": ">>>This is a userscript written in Javascript<<<"
+        "message": "Đây là một tập lệnh người dùng được viết bàng JavaScript."
     },
     "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
         "message": ">>>This option allows the Tampermonkey homepage and some script hosting pages to determine the Tampermonkey version and some basic script information (installed, version, enabled).<<<"
@@ -1353,13 +1353,13 @@
         "message": "Tập lệnh này có quyền truy cập vào các trang https."
     },
     "This_script_has_access_to_webpage_scripts": {
-        "message": ">>>This item has full access to the webpage.<<<"
+        "message": "Tập lệnh này có toàn quyền truy cập vào trang web."
     },
     "This_script_has_full_web_access": {
         "message": "Tập lệnh này có toàn quyền truy cập web"
     },
     "This_script_is_blacklisted_": {
-        "message": ">>>This script is blacklisted!<<<"
+        "message": ">>>Tập lệnh này ở trong danh sách đen!<<<"
     },
     "This_script_runs_in_Chrome_mode": {
         "message": ">>>This script runs in Chrome mode<<<"
@@ -1371,10 +1371,10 @@
         "message": ">>>This script uses a part of Greasemonkey 10 API (unsafeWindow.gmonkey)\nthat is not supported by Tampermonkey nor any other alternative script handler.<<<"
     },
     "This_script_was_deleted": {
-        "message": ">>>This script was deleted<<<"
+        "message": "Tập lệnh này đã bị xoá"
     },
     "This_script_was_executed_0count0_times": {
-        "message": ">>>This script was executed $count$ time(s)<<<",
+        "message": "Tập lệnh này đã chạy $count$ lần<<<",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -1382,7 +1382,7 @@
         }
     },
     "This_script_was_executed_0count0_times_but_is_not_active_anymore": {
-        "message": ">>>This script was executed $count$ time(s) but is not active anymore<<<",
+        "message": ">>>Tập lệnh này đã chạy $count$ lần nhưng không còn hoạt động nữa",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -1390,10 +1390,10 @@
         }
     },
     "This_script_was_not_executed_yet": {
-        "message": ">>>This script was not executed yet<<<"
+        "message": "Tập lệnh này chưa từng được chạy"
     },
     "This_will_overwrite_your_global_settings_": {
-        "message": "Thao tác này sẽ ghi đè thiết lập toàn cục của bạn!"
+        "message": "Thao tác này sẽ ghi đè thiết đặt toàn cục của bạn!"
     },
     "This_will_remove_all_remote_data_from_sync_Ok_": {
         "message": ">>>Do you really want to remove all data from Sync?<<<"
@@ -1402,28 +1402,28 @@
         "message": ">>>Do you really want to remove all scripts and reset all settings?<<<"
     },
     "This_will_restart_Tampermonkey_Ok_": {
-        "message": ">>>Do you really want to restart Tampermonkey?<<<"
+        "message": "Bạn có thực sự muốn chạy lại Tampermonkey?<<<"
     },
     "Today": {
-        "message": ">>>Today<<<"
+        "message": "Hôm nay"
     },
     "Toggle": {
-        "message": ">>>Toggle<<<"
+        "message": "Bật tắt"
     },
     "Toggle_Block_Comment": {
-        "message": ">>>Toggle Block Comment<<<"
+        "message": "Bật tắt chú thích khối"
     },
     "Toggle_Comment": {
-        "message": ">>>Toggle Comment<<<"
+        "message": "Bật tắt chú thích"
     },
     "Toggle_Comment_Indented": {
-        "message": ">>>Toggle Comment Indented<<<"
+        "message": "Bật tắt chú thích được thụt lùi"
     },
     "Toggle_Enable": {
         "message": ">>>Toggle Enable<<<"
     },
     "Trace": {
-        "message": ">>>Trace<<<"
+        "message": "Theo chân"
     },
     "Transpose": {
         "message": ">>>Transpose<<<"
@@ -1438,7 +1438,7 @@
         "message": ">>>Try to install as script<<<"
     },
     "Type": {
-        "message": ">>>Type<<<"
+        "message": "Loại"
     },
     "URL": {
         "message": ">>>URL<<<"
@@ -1447,7 +1447,7 @@
         "message": ">>>UUID<<<"
     },
     "Unable_to_load_script_from_url_0url0": {
-        "message": ">>>Unable to load script from url: \n $url$<<<",
+        "message": "Không thẻ tải tập lệnh từ url: \n $url$",
         "placeholders": {
             "url": {
                 "content": "$1"
@@ -1455,7 +1455,7 @@
         }
     },
     "Unable_to_parse_0name0": {
-        "message": ">>>Unable to parse $name$<<<",
+        "message": "Không thể phân tích cú pháp $name$",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1463,16 +1463,16 @@
         }
     },
     "Unable_to_parse_this_": {
-        "message": ">>>Unable to parse this! :(<<<"
+        "message": "Không thể phân tích cú pháp này! :("
     },
     "Undo": {
-        "message": ">>>Undo<<<"
+        "message": "Hoàn tác"
     },
     "Unfold": {
-        "message": ">>>Unfold<<<"
+        "message": "Bỏ gập"
     },
     "Unfold_All": {
-        "message": ">>>Unfold All<<<"
+        "message": "Bỏ gập hết"
     },
     "Unique_running_scripts": {
         "message": ">>>Unique running scripts<<<"
@@ -1486,13 +1486,13 @@
         }
     },
     "Update": {
-        "message": ">>>Update<<<"
+        "message": "Cập nhật"
     },
     "Update_Notification": {
-        "message": ">>>Show TM update notification<<<"
+        "message": "Hiện thông báo cập nhật TM"
     },
     "Update_URL_": {
-        "message": ">>>Update URL<<<"
+        "message": "URL cập nhật"
     },
     "Update_check_is_disabled": {
         "message": ">>>Script update check is disabled or not possible<<<"
@@ -1501,7 +1501,7 @@
         "message": ">>>Update Interval<<<"
     },
     "Updated_to__0version0": {
-        "message": ">>>Updated to: $version$<<<",
+        "message": "Đã cập nhật lên: $version$<<<",
         "placeholders": {
             "version": {
                 "content": "$1"
@@ -1509,34 +1509,34 @@
         }
     },
     "Updates": {
-        "message": ">>>Updates<<<"
+        "message": "Các cập nhật"
     },
     "Upper_Case": {
-        "message": ">>>Upper Case<<<"
+        "message": "Chữ hoa"
     },
     "User_domain_blacklist": {
-        "message": ">>>User domain blacklist<<<"
+        "message": "Danh sách đen tên miền người dùng"
     },
     "User_domain_whitelist": {
-        "message": ">>>User domain whitelist<<<"
+        "message": "Danh sách trắng tên miền người dùng"
     },
     "User_excludes": {
-        "message": ">>>User excludes<<<"
+        "message": "Các loại trừ của người dùng"
     },
     "User_includes": {
-        "message": ">>>User includes<<<"
+        "message": "Các bao gồm của người dùng"
     },
     "User_matches": {
-        "message": ">>>User matches<<<"
+        "message": "Các so khớp của người dùng"
     },
     "User_modified": {
-        "message": ">>>Modified<<<"
+        "message": "Đã sửa đổi"
     },
     "Userscripts": {
-        "message": ">>>Userscripts<<<"
+        "message": "Các tập lệnh người dùng"
     },
     "Utilities": {
-        "message": ">>>Utilities<<<"
+        "message": "Các tiện ích"
     },
     "Validate_if_given": {
         "message": ">>>Validate if given<<<"
@@ -1545,34 +1545,34 @@
         "message": ">>>Validate if possible<<<"
     },
     "Verbose": {
-        "message": ">>>Verbose<<<"
+        "message": "Dài dòng"
     },
     "Version": {
-        "message": ">>>Version<<<"
+        "message": "Phiên bản"
     },
     "Vim": {
-        "message": ">>>Vim<<<"
+        "message": "Vim"
     },
     "Waiting_for_sync_to_finish": {
-        "message": ">>>Waiting for sync to finish<<<"
+        "message": "Đang chờ cho việc đồng bộ được hoàn tất"
     },
     "Warning": {
-        "message": ">>>Warning<<<"
+        "message": "Cảnh báo"
     },
     "Warning_unsafe_site_warnings_might_appear_": {
         "message": ">>>Warning: unsafe site warnings might appear if a script includes potentially harmfull URLs.<<<"
     },
     "WebDAV": {
-        "message": ">>>WebDAV<<<"
+        "message": "WebDAV"
     },
     "Whitelist": {
-        "message": ">>>Whitelist<<<"
+        "message": "Danh sách trắng"
     },
     "Whitelisted_File_Extensions": {
         "message": ">>>Whitelisted File Extensions<<<"
     },
     "Whitelisted_Pages": {
-        "message": ">>>Whitelisted Pages<<<"
+        "message": "Các trang trong danh sách trắng"
     },
     "Windows": {
         "message": ">>>Windows<<<"
@@ -1587,22 +1587,22 @@
         "message": ">>>Yank Sublime Mark<<<"
     },
     "Yes": {
-        "message": ">>>Yes<<<"
+        "message": "Có"
     },
     "You_are_about_to_downgrade_a_UserScript": {
-        "message": "Lưu ý! Hạ cấp Userscript"
+        "message": "Lưu ý! Hạ cấp tập lệnh người dùng"
     },
     "You_are_about_to_install_a_UserScript_": {
-        "message": ">>>UserScript installation<<<"
+        "message": "Cài đặt tập lệnh người dùng"
     },
     "You_are_about_to_modify_a_UserScript_": {
-        "message": ">>>UserScript modification<<<"
+        "message": "Chỉnh sửa tập lệnh người dùng"
     },
     "You_are_about_to_reinstall_a_UserScript_": {
-        "message": "Cài đặt lại UserScript"
+        "message": "Cài lại tập lệnh người dùng"
     },
     "You_are_about_to_update_a_UserScript_": {
-        "message": ">>>UserScript update<<<"
+        "message": "Cập nhật tập lệnh người dùng"
     },
     "You_can_add_your_custom_CSS_rules_here_": {
         "message": ">>>You can add your own CSS rules for the Tampermonkey UI here. In case this breaks something you can get the default layout by appending ?layout=reset to the options page URL.<<<"
@@ -1611,19 +1611,19 @@
         "message": ">>>You can add your custom linter config here.<<<"
     },
     "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
-        "message": "Ngôn ngữ của bạn không được hỗ trợ?\nNhấp vào đây để nhận hướng dẫn về cách dịch Tampermonkey?"
+        "message": "Ngôn ngữ của bạn không được hỗ trợ à?\nNhấp vào đây để nhận hướng dẫn về cách dịch Tampermonkey?"
     },
     "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
         "message": ">>>Your whitelist seems to include executable files!\nThis means your userscripts may download malware or spyware to your harddisk!!<<<"
     },
     "Zip": {
-        "message": ">>>Zip<<<"
+        "message": "Zip"
     },
     "__Please_choose__": {
-        "message": ">>>-- Please choose an option --<<<"
+        "message": "-- Hãy chọn một tuỳ chọn --"
     },
     "_not_set_": {
-        "message": ">>><not set><<<"
+        "message": "<không đặt>"
     },
     "connect_mode": {
         "message": ">>>Check @connect<<<"
@@ -1668,9 +1668,9 @@
         "message": "9"
     },
     "some_secs": {
-        "message": ">>>some<<<"
+        "message": "vài"
     },
     "strict_mode": {
-        "message": ">>>strict mode<<<"
+        "message": "chế độ nghiêm khắc"
     }
 }
