@@ -851,7 +851,7 @@
         "message": "Kích cỡ"
     },
     "Skip_timeout__0seconds0_seconds_": {
-        "message": "Bỏ qua thời gian chờ ($seconds$ giây)<<<",
+        "message": "Bỏ qua thời gian chờ ($seconds$ giây)",
         "placeholders": {
             "seconds": {
                 "content": "$1"
@@ -964,7 +964,7 @@
         "message": "Tập lệnh này đã bị xoá"
     },
     "This_script_was_executed_0count0_times": {
-        "message": "Tập lệnh này đã chạy $count$ lần<<<",
+        "message": "Tập lệnh này đã chạy $count$ lần",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -978,7 +978,7 @@
         "message": "Thao tác này sẽ ghi đè thiết đặt toàn cục của bạn!"
     },
     "This_will_restart_Tampermonkey_Ok_": {
-        "message": "Bạn có thực sự muốn chạy lại Tampermonkey?<<<"
+        "message": "Bạn có thực sự muốn chạy lại Tampermonkey?"
     },
     "Today": {
         "message": "Hôm nay"
