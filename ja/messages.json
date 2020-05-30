@@ -55,6 +55,9 @@
     "A_reload_is_required": {
         "message": "再読込が必要です: \n保存していない変更はすべて失われます!"
     },
+    "A_userscript_wants_to_access_a_cross_origin_resource_": {
+        "message": "UserScript がオリジン間リソースへのアクセスを要求しています。"
+    },
     "Action": {
         "message": "操作"
     },
@@ -712,6 +715,9 @@
     "Layout": {
         "message": "レイアウト"
     },
+    "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
+        "message": "実行時ホスト権限を制限すると、スクリプト更新、GM_xmlhttpRequest などのような Tampermonkey の一部の機能が動作しないおそれがあります!"
+    },
     "Line_Case_Insensitive": {
         "message": "行 (大文字小文字区別なし)"
     },
@@ -1178,6 +1184,9 @@
     "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
         "message": "ダウングレードされたスクリプトが格納されたデータを読み取ることで問題点が発生する場合があります!"
     },
+    "The_origin_of_this_script_cant_be_determined_": {
+        "message": "警告: このスクリプトの出所を特定できません。\n悪意がある第三者が非公開データや一部の基本的なブラウザー設定を盗むためにインストールしたか、またはオペレーティング システムまたはハードウェアが変更されました!\n\n有効にするには、開いて確認してからスクリプトを保存してください。"
+    },
     "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
         "message": "更新 URL が変更されました。変更前:\n    「$oldurl$」\n    変更後:\n    「$newurl$」\n",
         "placeholders": {
@@ -1208,6 +1217,9 @@
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
         "message": "この操作によりこのスクリプトにあらゆるウェブページにデータを送受信する権限を与えることになります。これは潜在的に危険です!\n\n本当に続行しますか?"
+    },
+    "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
+        "message": "このスクリプトの出所を特定できません。\n第三者が非公開データまたは一部の基本的なブラウザー設定を盗むためにインストールしたか、またはオペレーティング システムまたはハードウェアが変更されました。\nこの変更により、スクリプトが有効になります!"
     },
     "This_is_a_system_script": {
         "message": "これはシステム スクリプトです。"
