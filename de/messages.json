@@ -82,10 +82,10 @@
         "message": "Hinzufügen"
     },
     "Add_TM_to_CSP": {
-        "message": "Tampermonkey zur Content Security Policy (CSP) der geladenen Seiten hinzufügen"
+        "message": "Modifikation empfangener Content-Security-Policy-Header (CSP)"
     },
     "Add_Tampermonkey_to_the_site_s_content_csp": {
-        "message": "Tampermonkey zur Content Security Policy (CSP) in der Seite hinzufügen"
+        "message": "Tampermonkey zur Content Security Policy (CSP) im Quelltext hinzufügen"
     },
     "Add_as_0clude0": {
         "message": "Regel als $clude$ behandeln",
@@ -760,6 +760,9 @@
     "Remove": {
         "message": "Entfernen"
     },
+    "Remove__possibly_unsecure_": {
+        "message": "Komplett entfernen (möglicherweise unsicher)"
+    },
     "Replace": {
         "message": "Ersetzen"
     },
@@ -912,6 +915,9 @@
     },
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Script-Synchronisierung über Browser- und Betriebssystemgrenzen hinweg"
+    },
+    "Tab_Size": {
+        "message": "Breite eines Tabulatorzeichens"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + Script Version"

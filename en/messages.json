@@ -124,10 +124,10 @@
         "message": "Add Selection Below"
     },
     "Add_TM_to_CSP": {
-        "message": "Add Tampermonkey to the site's content security policy (CSP) if there is one"
+        "message": "Modify existing content security policy (CSP) headers"
     },
     "Add_Tampermonkey_to_the_site_s_content_csp": {
-        "message": "Add Tampermonkey to the site's content CSP"
+        "message": "Add Tampermonkey to the HTML's CSP"
     },
     "Add_as_0clude0": {
         "message": "Add as $clude$",
@@ -1024,6 +1024,9 @@
     "Remove": {
         "message": "Remove"
     },
+    "Remove__possibly_unsecure_": {
+        "message": "Remove entirely (possibly unsecure)"
+    },
     "Replace": {
         "message": "Replace"
     },
@@ -1251,6 +1254,9 @@
     },
     "Tabs": {
         "message": "Tabs"
+    },
+    "Tab_Size": {
+        "message": "Tab Size"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + script version"
