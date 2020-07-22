@@ -927,7 +927,10 @@
         "message": "後で知らせる"
     },
     "Remove": {
-        "message": "削除"
+        "message": "除去"
+    },
+    "Remove__possibly_unsecure_": {
+        "message": "完全に除去 (おそらくセキュアではありません)"
     },
     "Replace": {
         "message": "置換"
@@ -1004,10 +1007,10 @@
         "message": "スクリプトの更新"
     },
     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
-        "message": "スクリプト作成者は、ソースURLにSRIハッシュを追加することによって、外部リソースを保護することができます。"
+        "message": "スクリプト作成者は、ソース URL に SRI ハッシュを追加することで、外部リソースを保護できます。"
     },
     "Script_local_files_access": {
-        "message": "スクリプトによるローカルファイルへのアクセスを許可する"
+        "message": "スクリプトによるローカル ファイルへのアクセスを許可する"
     },
     "Script_name_0name0": {
         "message": "スクリプト名: $name$",
@@ -1138,6 +1141,9 @@
     },
     "Tabs": {
         "message": "タブ"
+    },
+    "Tab_Size": {
+        "message": "タブ サイズ"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + スクリプトのバージョン"
@@ -1283,10 +1289,10 @@
         "message": "この操作により、グローバル設定が上書きされます!"
     },
     "This_will_remove_all_remote_data_from_sync_Ok_": {
-        "message": "Sync からすべてのデータを本当に削除しますか？"
+        "message": "Sync からすべてのデータを本当に除去しますか？"
     },
     "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
-        "message": "すべてのスクリプトの削除とすべての設定のリセットの両方を本当に実行しますか？"
+        "message": "すべてのスクリプトの除去とすべての設定のリセットの両方を本当に実行しますか？"
     },
     "This_will_restart_Tampermonkey_Ok_": {
         "message": "Tampermonkey を本当に再起動しますか？"
@@ -1468,7 +1474,7 @@
         "message": "UserScript の更新:"
     },
     "You_can_add_your_custom_CSS_rules_here_": {
-        "message": "Tampermonkey UI用の独自CSSルールをここに追加できます。表示が崩れた場合には、オプションページのURLに \"?layout=reset\" を追加することで、デフォルトのレイアウトに戻すことができます。"
+        "message": "Tampermonkey UI 用の 独自 CSS ルールをここに追加できます。表示が崩れた場合は、オプション ページのURLに \"?layout=reset\" を追加することで、デフォルトのレイアウトに戻せます。"
     },
     "You_can_add_your_custom_linter_config_here_": {
         "message": "ここに構文解析のカスタム設定を追加できます。"
