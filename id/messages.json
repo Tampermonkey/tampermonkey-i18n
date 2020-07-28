@@ -112,7 +112,7 @@
         "message": "Otomatis"
     },
     "Auto_syntax_check_on_typing": {
-        "message": "Cek otomatis sintaks pada saat mengetik"
+        "message": "Cek otomatis sintaks saat mengetik"
     },
     "Beginner": {
         "message": "Pemula"
@@ -340,10 +340,10 @@
         "message": "Skrip pengguna terpasang"
     },
     "Invalid_UserScript__Sry_": {
-        "message": "Skrip pengguna tak valid. Maaf!"
+        "message": "Skrip pengguna tak sah. Maaf!"
     },
     "Invalid_UserScript_name__Sry_": {
-        "message": "Nama skrip pengguna tak valid. Maaf!"
+        "message": "Nama skrip pengguna tak sah. Maaf!"
     },
     "Jump_to_line": {
         "message": "Lompat ke baris"
@@ -358,7 +358,7 @@
         "message": "Baris Jeda"
     },
     "LogLevel": {
-        "message": "Tingk Peogan"
+        "message": "Tingkat Log"
     },
     "Malicious_scripts_can_violate_your_privacy_": {
         "message": "script berbahaya dapat melanggar privasi Anda dan bertindak atas nama Anda!\nAnda hanya harus menginstal script dari sumber yang dipercaya."
@@ -379,16 +379,16 @@
         "message": "Tidak"
     },
     "No_backups_found": {
-        "message": "Tak ada cadang ditemukan"
+        "message": "Tak ada cadangan ditemukan"
     },
     "No_script_is_installed": {
         "message": "Tak ada skrip yang terpasang"
     },
     "No_script_is_running": {
-        "message": "Tak ada script yang berjalan"
+        "message": "Tak ada skrip yang berjalan"
     },
     "No_update_found__sry_": {
-        "message": "Pembaruan tak ditemukan, mf!"
+        "message": "Pembaruan tak ditemukan, maaf!"
     },
     "Note": {
         "message": "Catatan"
@@ -446,13 +446,13 @@
         "message": "Anda yakin untuk reset pabrik butir terpilih?"
     },
     "Really_factory_reset_this_script_": {
-        "message": "Anda yakin untuk reset pabrikan skrip ini?"
+        "message": "Anda yakin untuk atur ulang pabrikan skrip ini?"
     },
     "Really_reset_all_changes_": {
-        "message": "Benar-benar atur ulang semua perubahan?"
+        "message": "Anda yakin untuk atur ulang semua perubahan?"
     },
     "Reindent_on_typing": {
-        "message": "Inde ulang pada saat mengetik"
+        "message": "Inden ulang pada saat mengetik"
     },
     "Reinstall": {
         "message": "Pasang ulang"
@@ -464,16 +464,16 @@
         "message": "Hapus"
     },
     "Replace": {
-        "message": "Timpa"
+        "message": "Ganti"
     },
     "Replace_": {
-        "message": "Timpa?"
+        "message": "Ganti?"
     },
     "Replace_all_with": {
-        "message": "Timpa semua"
+        "message": "Ganti semua"
     },
     "Replace_with": {
-        "message": "Timpa dengan"
+        "message": "Ganti dengan"
     },
     "Report_a_bug": {
         "message": "Laporkan kutu"
@@ -491,7 +491,7 @@
         "message": "Simpan"
     },
     "Script_Blacklist_Source": {
-        "message": "Sumber Daftar hitam skrip"
+        "message": "Sumber Daftar-Hitam skrip"
     },
     "Script_Update": {
         "message": "Pembaruan skrip"
@@ -578,7 +578,7 @@
         "message": "Tema"
     },
     "There_are_unsaved_changed_": {
-        "message": "Ada perubahan yang belum disimpan.\nApakah Anda benar-benar ingin menutup editor?"
+        "message": "Ada perubahan yang belum disimpan.\nApakah Anda yakin ingin menutup editor?"
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
         "message": "Hal ini memberikan skrip ini izin untuk mengambil dan mengirim data dari dan ke setiap halaman web. Hal ini berpotensi tidak aman!\n\nApakah Anda yakin ingin melanjutkan?"
@@ -593,10 +593,10 @@
         "message": "Skrip ini tidak memberikan informasi @include apapun."
     },
     "This_script_has_access_to_https_pages": {
-        "message": "Butir ini memiliki akses ke laman https."
+        "message": "Skrip ini memiliki akses ke laman https."
     },
     "This_script_has_access_to_webpage_scripts": {
-        "message": "Butir ini memiliki akses penuh ke halaman web."
+        "message": "Skrip ini memiliki akses penuh ke halaman web."
     },
     "This_script_has_full_web_access": {
         "message": "Skrip ini memiliki akses internet penuh."
@@ -614,7 +614,7 @@
         "message": "Ini akan menimpa Pengaturan Global Anda!"
     },
     "This_will_remove_all_remote_data_from_sync_Ok_": {
-        "message": "Yakin hapus semua remote data from Sync?"
+        "message": "Yakin hapus semua data remot from sinkron?"
     },
     "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
         "message": "Anda yakin hapus semua skrip dan reset semua pengaturan?"
@@ -675,7 +675,7 @@
         "message": "Pemasangan skrip pengguna"
     },
     "You_are_about_to_modify_a_UserScript_": {
-        "message": "ubah skrip pengguna"
+        "message": "Ubah skrip pengguna"
     },
     "You_are_about_to_reinstall_a_UserScript_": {
         "message": "Pemasangan ulang skrip pengguna"
