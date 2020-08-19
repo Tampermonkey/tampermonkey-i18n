@@ -192,7 +192,7 @@
         "message": "حصل خطأ عند التحميل."
     },
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
-        "message": "حدث خطأ داخلي. إذا استمرت هذه المشكلة حتى بعد إعادة تشغيل المتصفح ، يرجى الضغط على "موافق" والإبلاغ عن هذه المشكلة في المنتدى.\n\nهل تريد زيارة منتدى Tampermonkey?"
+        "message": "حدث خطأ داخلي. إذا استمرت هذه المشكلة حتى بعد إعادة تشغيل المتصفح ، يرجى الضغط على \"موافق\" والإبلاغ عن هذه المشكلة في المنتدى.\n\nهل تريد زيارة منتدى Tampermonkey?"
     },
     "Anonymous_statistics": {
         "message": "إحصائيات مجهولة"
@@ -219,7 +219,7 @@
         "message": "تم تغيير عبارة @include أو @match أو @exclude واحدة على الأقل."
     },
     "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-        "message": "تم إدراج جزء واحد على الأقل من هذه الصفحة في إعدادات "الصفحات المحظورة"!"
+        "message": "تم إدراج جزء واحد على الأقل من هذه الصفحة في إعدادات \"الصفحات المحظورة\"!"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": ".تنبيه: قائمة الاستبعاد تم تقصيرها\n!من فضلك إفحصها يدوياً"
@@ -329,7 +329,7 @@
         "message": "مسح الكل"
     },
     "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
-        "message": "الرجاء النقر فوق "موافق" للسماح لـ Tampermonkey بالوصول إلى المضيفات التالية:\n\n$host_list$",
+        "message": "الرجاء النقر فوق \"موافق\" للسماح لـ Tampermonkey بالوصول إلى المضيفات التالية:\n\n$host_list$",
         "placeholders": {
             "host_list": {
                 "content": "$1"
@@ -337,7 +337,7 @@
         }
     },
     "Click_here_to_allow_TM_to_start_downloads": {
-        "message": "انقر فوق "موافق" للسماح لـ Tampermonkey ببدء التنزيلات الفورية."
+        "message": "انقر فوق \"موافق\" للسماح لـ Tampermonkey ببدء التنزيلات الفورية."
     },
     "Click_here_to_install_it_": {
         "message": "اضغط هنا للتحميل."
@@ -832,7 +832,7 @@
         "message": "تسجيل دخول"
     },
     "Lower_Case": {
-        "message": "أحرف صغيرة
+        "message": "أحرف صغيرة"
     },
     "MIME_Type": {
         "message": "نوع MIME"
@@ -1620,7 +1620,7 @@
         "message": "؟ألغتك غير مدعومة\n؟إضغظ هنا لتحصل على تعليمات ترجمة Tampermonkey"
     },
     "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
-        "message": "يبدو أن القائمة المسموحة الخاصة بك تتضمن ملفات قابلة للتنفيذ! \ n وهذا يعني أن البرامج النصية للمستخدم قد تقوم بتنزيل برامج ضارة أو برامج تجسس على القرص الثابت لديك!"
+        "message": "يبدو أن القائمة المسموحة الخاصة بك تتضمن ملفات قابلة للتنفيذ! \n وهذا يعني أن البرامج النصية للمستخدم قد تقوم بتنزيل برامج ضارة أو برامج تجسس على القرص الثابت لديك!"
     },
     "Zip": {
         "message": "ملف مضغوط"
