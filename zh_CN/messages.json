@@ -105,6 +105,9 @@
     "Action": {
         "message": "操作"
     },
+    "Action_failed": {
+        "message": "操作失败"
+    },
     "Action_Menu": {
         "message": "操作菜单"
     },
@@ -121,7 +124,10 @@
         "message": "在下面添加选择内容"
     },
     "Add_TM_to_CSP": {
-        "message": "如果站点有内容安全策略 (CSP) 则向其策略加入 Tampermonkey"
+        "message": "如果站点有内容安全策略（CSP）则向其策略"
+    },
+    "Add_Tampermonkey_to_the_site_s_content_csp": {
+        "message": "向 HTML 的内容安全策略（CSP）加入 Tampermonkey"
     },
     "Add_as_0clude0": {
         "message": "添加为 $clude$",
@@ -322,6 +328,14 @@
     "Clear_All": {
         "message": "清除全部"
     },
+    "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
+        "message": "请点击“确定”来允许 Tampermonkey 访问以下站点：\n\n$host_list$",
+        "placeholders": {
+            "host_list": {
+                "content": "$1"
+            }
+        }
+    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "点击“确定”允许 Tampermonkey 立即开始下载。"
     },
@@ -361,6 +375,9 @@
     "Copy": {
         "message": "复制"
     },
+    "Cross_Origin_Request_Permission": {
+        "message": "跨域请求的权限"
+    },
     "Current_Version": {
         "message": "当前版本"
     },
@@ -387,6 +404,12 @@
     },
     "Default_Dark": {
         "message": "默认 - 暗黑"
+    },
+    "Default_Darker": {
+        "message": "默认 - 深黑"
+    },
+    "Default_Light": {
+        "message": "默认 - 亮色"
     },
     "Delete": {
         "message": "删除"
@@ -469,6 +492,9 @@
     },
     "Downloads": {
         "message": "下载"
+    },
+    "Dropbox": {
+        "message": "Dropbox"
     },
     "DuckDuckGo": {
         "message": "DuckDuckGo"
@@ -643,6 +669,9 @@
     "Google": {
         "message": "Google"
     },
+    "Google_Drive": {
+        "message": "Google Drive"
+    },
     "Group_Left": {
         "message": "分组左侧"
     },
@@ -672,6 +701,9 @@
     },
     "Icon_badge_color": {
         "message": "图标徽章颜色"
+    },
+    "Icon_badge_text_color": {
+        "message": "图标徽章文本颜色"
     },
     "Icon_badge_info": {
         "message": "图标徽章信息"
@@ -732,6 +764,9 @@
     },
     "Install": {
         "message": "安装"
+    },
+    "Install_from_URL": {
+        "message": "从 URL 安装"
     },
     "Install_this_script": {
         "message": "安装此脚本"
@@ -883,6 +918,9 @@
     "On": {
         "message": "开"
     },
+    "OneDrive": {
+        "message": "OneDrive"
+    },
     "One_error_or_hint_was_found_": {
         "message": "发现了一个错误或提示。"
     },
@@ -986,6 +1024,9 @@
     "Remove": {
         "message": "删除"
     },
+    "Remove__possibly_unsecure_": {
+        "message": "全部移除（可能不安全）"
+    },
     "Replace": {
         "message": "替换"
     },
@@ -1021,6 +1062,9 @@
     },
     "Restart_Tampermonkey": {
         "message": "重启 Tampermonkey"
+    },
+    "Revoke_Access_Token": {
+        "message": "撤销访问令牌"
     },
     "Run_at": {
         "message": "运行时期"
@@ -1200,16 +1244,19 @@
         "message": "正在运行同步"
     },
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
-        "message": "脚本同步 (Tampermonkey 外部脚本列表访问)"
+        "message": "脚本同步（Tampermonkey 外部脚本列表访问）"
     },
     "TabMode": {
-        "message": "Tab类型"
+        "message": "标签类型"
     },
     "Tab_URL": {
         "message": "标签 URL"
     },
     "Tabs": {
-        "message": "制表符"
+        "message": "标签"
+    },
+    "Tab_Size": {
+        "message": "标签大小"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + 脚本版本"
@@ -1334,6 +1381,14 @@
     },
     "This_script_was_executed_0count0_times": {
         "message": "这个脚本被执行 $count$ 次",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "This_script_was_executed_0count0_times_but_is_not_active_anymore": {
+        "message": "此脚本已执行 $count$ 次，但目前并未启用",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -1513,6 +1568,9 @@
     "Warning_unsafe_site_warnings_might_appear_": {
         "message": "警告：如果脚本包含潜在有害的 URL，可能会出现不安全网站的警告。"
     },
+    "WebDAV": {
+        "message": "WebDAV"
+    },
     "Whitelist": {
         "message": "白名单"
     },
@@ -1527,6 +1585,9 @@
     },
     "XHR_Security": {
         "message": "XHR 安全"
+    },
+    "Yandex_Disk": {
+        "message": "Yandex.Disk"
     },
     "Yank_Sublime_Mark": {
         "message": "Yank Sublime 标记"
