@@ -57,7 +57,7 @@
         }
     },
     "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
-        "message": "È disponibile $name$ $version$.\nRi-avvia il browser per iniziare l'aggiornamento!",
+        "message": "È disponibile $name$ $version$.\nPer iniziare l'aggiornamento ri-avvia il browser!",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -124,10 +124,10 @@
         "message": "Aggiungi selezione sottostante"
     },
     "Add_TM_to_CSP": {
-        "message": "Aggiungi Tampermonkey alla content security policy (CSP) del sito, se esistente"
+        "message": "Modifica intestazioni policy sicurezza contenuto (CSP)"
     },
     "Add_Tampermonkey_to_the_site_s_content_csp": {
-        "message": "Aggiungi Tampermonkey al contenuto CSP del sito"
+        "message": "Aggiungi Tampermonkey all'HTML CSP"
     },
     "Add_as_0clude0": {
         "message": "Aggiungi come $clude$",
@@ -192,7 +192,7 @@
         "message": "Si è verificato un errore durante l'importazione."
     },
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
-        "message": "Si è verificato un errore interno. Se il problema persiste anche dopo un riavvio dl browser, seleziona OK e segnala questo problema nel forum.\n\nVuoi visitare il forum di Tampermonkey?"
+        "message": "Si è verificato un errore interno.\nSe il problema persiste anche dopo un riavvio dl browser, seleziona OK e segnala questo problema nel forum.\n\nVuoi visitare il forum di Tampermonkey?"
     },
     "Anonymous_statistics": {
         "message": "Statistiche anonime"
@@ -207,7 +207,7 @@
         "message": "Applica questa azione a tutti gli script selezionati"
     },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
-        "message": "Quando Tampermonkey viene aggiornato dal browser, esso viene anche riavviato. Purtroppo questo potrebbe danneggiare gli script attualmente in esecuzione!\n\nQuindi, sei sicuro di non voler essere avvisato per gli aggiornamenti?"
+        "message": "Quando Tampermonkey viene aggiornato dal browser, esso viene anche riavviato.\nPurtroppo questo potrebbe danneggiare gli script attualmente in esecuzione!\n\nQuindi, sei sicuro di non voler essere avvisato per gli aggiornamenti?"
     },
     "Ask_if_unknown": {
         "message": "Chiedi se sconosciuto"
@@ -337,7 +337,7 @@
         }
     },
     "Click_here_to_allow_TM_to_start_downloads": {
-        "message": "Fai clic su OK per permettere a Tampermonkey di avviare download immediati."
+        "message": "Fai clic su 'OK' per permettere a Tampermonkey di avviare download immediati."
     },
     "Click_here_to_install_it_": {
         "message": "Fai clic qui per installarlo."
@@ -634,7 +634,7 @@
         "message": "Comprimi tutto"
     },
     "Folding": {
-        "message": "Compressione/espansione"
+        "message": "Compressione/decompressione"
     },
     "Font_Size": {
         "message": "Dimensione font"
@@ -998,13 +998,13 @@
         }
     },
     "Really_delete_the_selected_items_": {
-        "message": "Vuoi veramente eliminare le voci selezionate?"
+        "message": "Vuoi eliminare le voci selezionate?"
     },
     "Really_factory_reset_the_selected_items_": {
-        "message": "Vuoi veramente applicare il ripristino di fabbrica agli elementi selezionati?"
+        "message": "Vuoi applicare il ripristino di fabbrica agli elementi selezionati?"
     },
     "Really_factory_reset_this_script_": {
-        "message": "Vuoi veramente applicare il ripristino di fabbrica a questo script?"
+        "message": "Vuoi applicare il ripristino di fabbrica a questo script?"
     },
     "Really_reset_all_changes_": {
         "message": "Sei sicuro di voler annullare tutte le modifiche?"
@@ -1024,11 +1024,14 @@
     "Remove": {
         "message": "Rimuovi"
     },
+    "Remove__possibly_unsecure_": {
+        "message": "Rimuovi interamente (possibile non sicuro)"
+    },
     "Replace": {
         "message": "Sostituisci"
     },
     "Replace_": {
-        "message": "Vuoi sosistuire?"
+        "message": "Vuoi sostiuire?"
     },
     "Replace_All": {
         "message": "Sostituisci tutto"
@@ -1252,6 +1255,9 @@
     "Tabs": {
         "message": "Tabulazioni"
     },
+    "Tab_Size": {
+        "message": "Dimensione scheda"
+    },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + versione script"
     },
@@ -1326,10 +1332,10 @@
         }
     },
     "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
-        "message": "Questa risorsa esterna non verrà aggiornata automaticamente! Per abilitare nuovamente l'aggiornameto prima eliminala."
+        "message": "Questa risorsa esterna non verrà aggiornata automaticamente!\nPer abilitare nuovamente l'aggiornameto prima eliminala."
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
-        "message": "Questo darà allo script il permssso di recuperare e inviare dati da e ad ogni pagina web. Questo è potenzialmente rischioso!\n\nSei sicuro di voler continuare?"
+        "message": "Questo darà allo script il permssso di recuperare e inviare dati da e ad ogni pagina web.\nQuesto è potenzialmente rischioso!\n\nSei sicuro di voler continuare?"
     },
     "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
         "message": "L'origine di questo script non può essere determinata.\nPotrebbe essere stato installato da una terza parte per catturare i tuoi dati privati o alcune impostazioni base del browser.\nIl sistema operativo o l'hardware sono stati modificati.\nQuesta modifica lo abiliterà!"
@@ -1402,7 +1408,7 @@
         "message": "Vuoi veramente rimuovere tutti gli script e ripristinare tutte le impostazioni?"
     },
     "This_will_restart_Tampermonkey_Ok_": {
-        "message": "Vuoi veramente riavviare Tampermonkey?"
+        "message": "Vuoi riavviare Tampermonkey?"
     },
     "Today": {
         "message": "Oggi"
@@ -1605,7 +1611,7 @@
         "message": "Aggiorna script"
     },
     "You_can_add_your_custom_CSS_rules_here_": {
-        "message": "Qui puoi aggiungere le tue regole CSS per la UI di Tampermonkey. In caso questo danneggi qualcosa puoi ripristinare la disposizione predefinita aggiungendo ?layout=reset all'URL pagina opzioni."
+        "message": "Qui puoi aggiungere le tue regole CSS per la UI di Tampermonkey.\nIn caso questo danneggi qualcosa puoi ripristinare la disposizione predefinita aggiungendo ?layout=reset all'URL pagina opzioni."
     },
     "You_can_add_your_custom_linter_config_here_": {
         "message": "Puoi aggiungere qui la configurazione linter personalizzata."
