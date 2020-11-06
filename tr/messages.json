@@ -124,10 +124,10 @@
         "message": "Aşağıya seçim ekle"
     },
     "Add_TM_to_CSP": {
-        "message": "Eğer varsa, sitenin İçerik Güvenlik Politikası'na (CSP) Tampermonkey ekle"
+        "message": "Mevcut İçerik Güvenlik Politikası (CSP) başlıklarını düzenle"
     },
     "Add_Tampermonkey_to_the_site_s_content_csp": {
-        "message": "Site içeriğinin İçerik Güvenlik Politikası'na (CSP) Tampermonkey ekle"
+        "message": "HTML'nin İçerik Güvenlik Politikası'na (CSP) Tampermonkey'i ekle"
     },
     "Add_as_0clude0": {
         "message": "$clude$ ekle",
@@ -702,6 +702,9 @@
     "Icon_badge_color": {
         "message": "Simge Rozet Rengi"
     },
+    "Icon_badge_text_color": {
+        "message": "Simge Rozeti Yazı Rengi"
+    },
     "Icon_badge_info": {
         "message": "Simge Rozet Bilgisi"
     },
@@ -1021,6 +1024,9 @@
     "Remove": {
         "message": "Kaldır"
     },
+    "Remove__possibly_unsecure_": {
+        "message": "Tamamen kaldır (muhtemelen güvenilir değil)"
+    },
     "Replace": {
         "message": "Değiştir"
     },
@@ -1248,6 +1254,9 @@
     },
     "Tabs": {
         "message": "Sekmeler"
+    },
+    "Tab_Size": {
+        "message": "Sekme Boyutu"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + betik sürümü"
