@@ -105,11 +105,11 @@
     "Action": {
         "message": "Ação"
     },
-    "Action_failed": {
-        "message": "Falha na ação"
-    },
     "Action_Menu": {
         "message": "Menu de ações"
+    },
+    "Action_failed": {
+        "message": "Falha na ação"
     },
     "Actions": {
         "message": "Ações"
@@ -366,9 +366,6 @@
     "Config_Mode": {
         "message": "Modo de configurações"
     },
-    "Convert_Array_Assignements": {
-        "message": "Converter sentenças [blub, bla] = s.split(':')"
-    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Converter seções CDATA em formato compatível com Chrome"
     },
@@ -617,9 +614,6 @@
     },
     "Find_Under_Previous": {
         "message": "Localizar sob anterior"
-    },
-    "Fix_for_var_in_statements": {
-        "message": "Corrigir sentenças 'for (var j in x)'"
     },
     "Fix_wrappedJSObject_property_access": {
         "message": "Corrigir acesso de propriedade wrappedJSObject"
@@ -1358,14 +1352,8 @@
     "This_script_is_blacklisted_": {
         "message": "Este script está na lista negra!"
     },
-    "This_script_runs_in_Chrome_mode": {
-        "message": "Este script será executado em modo Chrome"
-    },
     "This_script_stores_data": {
         "message": "Este script salva informações no Tampermonkey."
-    },
-    "This_script_uses_uW_gm_api_": {
-        "message": "Este script usa parte do API Greasemonkey 10 (unsafeWindow.gmonkey)\nque não é suportado pelo Tampermonkey nem outro executor de scripts alternativo."
     },
     "This_script_was_deleted": {
         "message": "Este script foi excluído"

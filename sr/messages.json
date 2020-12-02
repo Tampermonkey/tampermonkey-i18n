@@ -310,9 +310,6 @@
     "Config_Mode": {
         "message": "Mod Konfiguracije"
     },
-    "Convert_Array_Assignements": {
-        "message": "Pretvori [blub, bla] = s.split(':') iskaze"
-    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Pretvori CDATA sekcije u format prikladan za pretraživač"
     },
@@ -537,9 +534,6 @@
     },
     "Find_Under_Previous": {
         "message": "Nadji Ispod Prethodnog"
-    },
-    "Fix_for_var_in_statements": {
-        "message": "Popravi 'for (var j in x)' iskaze"
     },
     "Fix_wrappedJSObject_property_access": {
         "message": "Popravi wrappedJSObject osobni pristup"
@@ -1233,14 +1227,8 @@
     "This_script_is_blacklisted_": {
         "message": "Ova skripta je zabranjena (dodata u listu nedozvoljenih)!"
     },
-    "This_script_runs_in_Chrome_mode": {
-        "message": "Ova skripta radi u Chrome modu"
-    },
     "This_script_stores_data": {
         "message": "Ova skripta čuva podatke u Tampermonkey-u."
-    },
-    "This_script_uses_uW_gm_api_": {
-        "message": "Ova skripta koristi deo Greasemonkey 10 API (unsafeWindow.gmonkey)\nkoja nije podržana od strane Tampermonkey-a ili drugih upravljača skripti."
     },
     "This_script_was_deleted": {
         "message": "Ova skripta je izbrisana"

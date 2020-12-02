@@ -267,9 +267,6 @@
     "Config_Mode": {
         "message": "Oppsettsmodus"
     },
-    "Convert_Array_Assignements": {
-        "message": "Konverter '[blub, bla] = s.split(':')'-formuleringer"
-    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Konverter CDATA-ѕеkѕјοnеr til et nettleserkompatibelt format"
     },
@@ -426,9 +423,6 @@
     },
     "Filter_by": {
         "message": "Sorter etter"
-    },
-    "Fix_for_var_in_statements": {
-        "message": "Rett opp 'for (var j in x)'-formuleringer"
     },
     "Fix_wrappedJSObject_property_access": {
         "message": "Rett opp 'wrappedJSObject'-egenskapstilgangеnе"
@@ -952,14 +946,8 @@
     "This_script_is_blacklisted_": {
         "message": "Dette skriptet er svartelistet!"
     },
-    "This_script_runs_in_Chrome_mode": {
-        "message": "Dette skriptet kjører i Chrome-modus."
-    },
     "This_script_stores_data": {
         "message": "Dette skriptet lagrer data til Tampermonkey."
-    },
-    "This_script_uses_uW_gm_api_": {
-        "message": "Dette skriptet bruker en del av Greasemonkey 10s API (unsafeWindow.gmonkey)\nsom ikke støttes av Tampermonkey eller av noen andre skripthåndterere."
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "Dette vil overskrive dine utvidelsesinnstillinger!"

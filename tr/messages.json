@@ -105,11 +105,11 @@
     "Action": {
         "message": "Eylem"
     },
-    "Action_failed": {
-        "message": "Eylem Başarısız"
-    },
     "Action_Menu": {
         "message": "Eylem Menüsü"
+    },
+    "Action_failed": {
+        "message": "Eylem Başarısız"
     },
     "Actions": {
         "message": "Eylemler"
@@ -366,9 +366,6 @@
     "Config_Mode": {
         "message": "Yapılandırma modu"
     },
-    "Convert_Array_Assignements": {
-        "message": " [blub, bla] = s.split(':') ifadelerini çevir"
-    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "CDATA bölümlerini tarayıcıyla uyumlu bir biçimde dönüştürün"
     },
@@ -618,9 +615,6 @@
     "Find_Under_Previous": {
         "message": "Öncekinin altında bul"
     },
-    "Fix_for_var_in_statements": {
-        "message": " 'for (var j in x)' ifadelerini düzelt"
-    },
     "Fix_wrappedJSObject_property_access": {
         "message": "wrappedJSObject özellik erişmini düzelt"
     },
@@ -702,11 +696,11 @@
     "Icon_badge_color": {
         "message": "Simge Rozet Rengi"
     },
-    "Icon_badge_text_color": {
-        "message": "Simge Rozeti Yazı Rengi"
-    },
     "Icon_badge_info": {
         "message": "Simge Rozet Bilgisi"
+    },
+    "Icon_badge_text_color": {
+        "message": "Simge Rozeti Yazı Rengi"
     },
     "Import": {
         "message": "İçe aktar"
@@ -1249,14 +1243,14 @@
     "TabMode": {
         "message": "Sekme Modu"
     },
+    "Tab_Size": {
+        "message": "Sekme Boyutu"
+    },
     "Tab_URL": {
         "message": "Sekme URL"
     },
     "Tabs": {
         "message": "Sekmeler"
-    },
-    "Tab_Size": {
-        "message": "Sekme Boyutu"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + betik sürümü"
@@ -1367,14 +1361,8 @@
     "This_script_is_blacklisted_": {
         "message": "Bu betik kara listeye alındı!"
     },
-    "This_script_runs_in_Chrome_mode": {
-        "message": "Bu betik Chrome modunda çalışır"
-    },
     "This_script_stores_data": {
         "message": "Bu betik Tampermonkey için veri depolar."
-    },
-    "This_script_uses_uW_gm_api_": {
-        "message": "Bu betik, Tampermonkey ve diğer betik sağlayıcılar tarafından desteklenmeyen\nGreasemonkey 10 API (unsafeWindow.gmonkey) kullanıyor."
     },
     "This_script_was_deleted": {
         "message": "Bu betik silindi"

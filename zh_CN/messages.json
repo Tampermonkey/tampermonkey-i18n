@@ -105,11 +105,11 @@
     "Action": {
         "message": "操作"
     },
-    "Action_failed": {
-        "message": "操作失败"
-    },
     "Action_Menu": {
         "message": "操作菜单"
+    },
+    "Action_failed": {
+        "message": "操作失败"
     },
     "Actions": {
         "message": "操作"
@@ -366,9 +366,6 @@
     "Config_Mode": {
         "message": "配置模式"
     },
-    "Convert_Array_Assignements": {
-        "message": "转换 [blub, bla] = s.split(':') 语句"
-    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "转换 CDATA 部分为 Chrome 兼容的格式"
     },
@@ -618,9 +615,6 @@
     "Find_Under_Previous": {
         "message": "查找上一项"
     },
-    "Fix_for_var_in_statements": {
-        "message": "修复“for (var j in x)”语句"
-    },
     "Fix_wrappedJSObject_property_access": {
         "message": "修复 wrappedJSObject 属性"
     },
@@ -702,11 +696,11 @@
     "Icon_badge_color": {
         "message": "图标徽章颜色"
     },
-    "Icon_badge_text_color": {
-        "message": "图标徽章文本颜色"
-    },
     "Icon_badge_info": {
         "message": "图标徽章信息"
+    },
+    "Icon_badge_text_color": {
+        "message": "图标徽章文本颜色"
     },
     "Import": {
         "message": "导入"
@@ -1249,14 +1243,14 @@
     "TabMode": {
         "message": "标签类型"
     },
+    "Tab_Size": {
+        "message": "标签大小"
+    },
     "Tab_URL": {
         "message": "标签 URL"
     },
     "Tabs": {
         "message": "标签"
-    },
-    "Tab_Size": {
-        "message": "标签大小"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + 脚本版本"
@@ -1367,14 +1361,8 @@
     "This_script_is_blacklisted_": {
         "message": "此脚本已被列入黑名单！"
     },
-    "This_script_runs_in_Chrome_mode": {
-        "message": "此脚本运行在 Chrome 模式中，"
-    },
     "This_script_stores_data": {
         "message": "此脚本用 Tampermonkey 存储了数据。"
-    },
-    "This_script_uses_uW_gm_api_": {
-        "message": "此脚本使用了某些不被 Tampermonkey 和其他任何脚本处理程序支持的 Greasemonkey 10 API (unsafeWindow.gmonkey)。"
     },
     "This_script_was_deleted": {
         "message": "这个脚本已被删除"

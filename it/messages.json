@@ -105,11 +105,11 @@
     "Action": {
         "message": "Azione"
     },
-    "Action_failed": {
-        "message": "Azione fallita"
-    },
     "Action_Menu": {
         "message": "Menu azione"
+    },
+    "Action_failed": {
+        "message": "Azione fallita"
     },
     "Actions": {
         "message": "Azioni"
@@ -366,9 +366,6 @@
     "Config_Mode": {
         "message": "Modo configurazione"
     },
-    "Convert_Array_Assignements": {
-        "message": "Converti istruzioni [blub, bla] = s.split(':')"
-    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Converti sezioni CDATA in un formato compatibile con il browser"
     },
@@ -618,9 +615,6 @@
     "Find_Under_Previous": {
         "message": "Trova sotto precedente"
     },
-    "Fix_for_var_in_statements": {
-        "message": "Correggi istruzioni 'for (var j in x)'"
-    },
     "Fix_wrappedJSObject_property_access": {
         "message": "Correggi accesso alla proprietà wrappedJSObject"
     },
@@ -702,11 +696,11 @@
     "Icon_badge_color": {
         "message": "Colore icona badge"
     },
-       "Icon_badge_text_color": {
-        "message": "Colore testo icona badge"
-    },
     "Icon_badge_info": {
         "message": "Informazioni icona badge"
+    },
+    "Icon_badge_text_color": {
+        "message": "Colore testo icona badge"
     },
     "Import": {
         "message": "Importa"
@@ -1249,14 +1243,14 @@
     "TabMode": {
         "message": "Modalità tabulazione"
     },
+    "Tab_Size": {
+        "message": "Dimensione scheda"
+    },
     "Tab_URL": {
         "message": "Scheda URL"
     },
     "Tabs": {
         "message": "Tabulazioni"
-    },
-    "Tab_Size": {
-        "message": "Dimensione scheda"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + versione script"
@@ -1367,14 +1361,8 @@
     "This_script_is_blacklisted_": {
         "message": "Questo script è nell'elenco vietati!"
     },
-    "This_script_runs_in_Chrome_mode": {
-        "message": "Questo script è eseguito in modalità Chrome"
-    },
     "This_script_stores_data": {
         "message": "Questo script memorizza dati per Tampermonkey."
-    },
-    "This_script_uses_uW_gm_api_": {
-        "message": "Questo script usa una parte delle API di Greasemonkey 10 (unsafeWindow.gmonkey)\nche non è supportata nè da Tampermonkey nè da qualsiasi altro gestore di script alternativo."
     },
     "This_script_was_deleted": {
         "message": "Questo script è stato eliminato"

@@ -105,11 +105,11 @@
     "Action": {
         "message": "動作"
     },
-    "Action_failed": {
-        "message": "動作失敗"
-    },
     "Action_Menu": {
         "message": "動作選單"
+    },
+    "Action_failed": {
+        "message": "動作失敗"
     },
     "Actions": {
         "message": "動作"
@@ -366,9 +366,6 @@
     "Config_Mode": {
         "message": "設定模式"
     },
-    "Convert_Array_Assignements": {
-        "message": "轉換所有 [blub, bla] = s.split(':') 陳述句"
-    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "轉換 CDATA sections 為 Chrome 相容的格式"
     },
@@ -617,9 +614,6 @@
     },
     "Find_Under_Previous": {
         "message": "向上搜尋選取內容"
-    },
-    "Fix_for_var_in_statements": {
-        "message": "修正所有 'for (var j in x)' 陳述句"
     },
     "Fix_wrappedJSObject_property_access": {
         "message": "修正 wrappedJSObject 屬性存取"
@@ -1361,14 +1355,8 @@
     "This_script_is_blacklisted_": {
         "message": "此腳本已列入黑名單！"
     },
-    "This_script_runs_in_Chrome_mode": {
-        "message": "此腳本執行於 Chrome 模式"
-    },
     "This_script_stores_data": {
         "message": "此腳本在 Tampermonkey 儲存資料。"
-    },
-    "This_script_uses_uW_gm_api_": {
-        "message": "此腳本使用一些 Greasemonkey 10 API (unsafeWindow.gmonkey)。\n既不被 Tampermonkey 支援也不被其他任何腳本處理外掛支援。"
     },
     "This_script_was_deleted": {
         "message": "此腳本已被刪除"

@@ -61,11 +61,11 @@
     "Action": {
         "message": "操作"
     },
-    "Action_failed": {
-        "message": "操作が失敗しました"
-    },
     "Action_Menu": {
         "message": "操作メニュー"
+    },
+    "Action_failed": {
+        "message": "操作が失敗しました"
     },
     "Actions": {
         "message": "操作"
@@ -310,9 +310,6 @@
     "Config_Mode": {
         "message": "設定のモード"
     },
-    "Convert_Array_Assignements": {
-        "message": "[blub, bla] = s.split(':') 文を変換する"
-    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "CDATA セクションをブラウザー互換形式に変換する"
     },
@@ -538,9 +535,6 @@
     "Find_Previous": {
         "message": "前を検索"
     },
-    "Fix_for_var_in_statements": {
-        "message": "「for (var j in x)」文を修正する"
-    },
     "Fix_wrappedJSObject_property_access": {
         "message": "wrappedJSObject プロパティのアクセスを修正する"
     },
@@ -610,11 +604,11 @@
     "Icon_badge_color": {
         "message": "アイコン バッジの色"
     },
-    "Icon_badge_text_color": {
-        "message": "アイコン バッジの文字色"
-    },
     "Icon_badge_info": {
         "message": "アイコン バッジの情報"
+    },
+    "Icon_badge_text_color": {
+        "message": "アイコン バッジの文字色"
     },
     "Import": {
         "message": "インポート"
@@ -1136,14 +1130,14 @@
     "TabMode": {
         "message": "タブのモード"
     },
+    "Tab_Size": {
+        "message": "タブ サイズ"
+    },
     "Tab_URL": {
         "message": "タブの URL"
     },
     "Tabs": {
         "message": "タブ"
-    },
-    "Tab_Size": {
-        "message": "タブ サイズ"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + スクリプトのバージョン"
@@ -1254,14 +1248,8 @@
     "This_script_is_blacklisted_": {
         "message": "このスクリプトはブラックリストに入っています!"
     },
-    "This_script_runs_in_Chrome_mode": {
-        "message": "このスクリプトは Chrome モードで動作します"
-    },
     "This_script_stores_data": {
         "message": "このスクリプトは Tampermonkey にデータを保存します。"
-    },
-    "This_script_uses_uW_gm_api_": {
-        "message": "このスクリプトは Greasemonkey 10 API (unsafeWindow.gmonkey) の一部を使用します。\nTampermonkey や他の代わりのスクリプト ハンドラーはこれに未対応です。"
     },
     "This_script_was_deleted": {
         "message": "このスクリプトは削除されました"
