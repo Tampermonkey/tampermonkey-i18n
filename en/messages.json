@@ -197,6 +197,32 @@
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "An internal error occurred. If this problem persists even after a restart of the browser, please press OK and report this issue at the forum.\n\nDo you want to visit the Tampermonkey forum?"
     },
+    "Antifeature__0name0__0description0": {
+        "message": "Contains $name$: $description$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "description": {
+                "content": "$2"
+            }
+        }
+    },
+    "Antifeature_ads": {
+        "message": "Ads"
+    },
+    "Antifeature_miner": {
+        "message": "Crypto Mining"
+    },
+    "Antifeature_no_details": {
+        "message": "No details given"
+    },
+    "Antifeature_other": {
+        "message": "a Antifeature"
+    },
+    "Antifeature_tracking": {
+        "message": "Tracking"
+    },
     "Anonymous_statistics": {
         "message": "Anonymous statistics"
     },
@@ -421,6 +447,12 @@
     },
     "Delete": {
         "message": "Delete"
+    },
+    "Delete_all": {
+        "message": "Delete all"
+    },
+    "Deleted_on": {
+        "message": "Deleted on"
     },
     "Delete_Line": {
         "message": "Delete Line"
@@ -802,7 +834,7 @@
         "message": "Installed Version"
     },
     "Installed_userscripts": {
-        "message": "Installed userscripts"
+        "message": "Installed Userscripts"
     },
     "Instant": {
         "message": "Instant"
@@ -1019,6 +1051,9 @@
     "Position_": {
         "message": "Position"
     },
+    "Press_ctrl_to_toggle_all_checkboxes": {
+        "message": "Press Ctrl/Cmd to toggle all checkboxes"
+    },
     "Prev_Bookmark": {
         "message": "Prev Bookmark"
     },
@@ -1101,6 +1136,12 @@
     },
     "Restart_Tampermonkey": {
         "message": "Restart Tampermonkey"
+    },
+    "Restore_all": {
+        "message": "Restore all"
+    },
+    "Restore": {
+        "message": "Restore"
     },
     "Revoke_Access_Token": {
         "message": "Revoke Access Token"
@@ -1421,6 +1462,9 @@
     "This_script_was_deleted": {
         "message": "This script was deleted"
     },
+    "This_script_was_deleted_by_the_hoster_": {
+        "message": "This script was deleted by the hoster"
+    },
     "This_script_was_executed_0count0_times": {
         "message": "This script was executed $count$ time(s)",
         "placeholders": {
@@ -1472,6 +1516,9 @@
     },
     "Trace": {
         "message": "Trace"
+    },
+    "Trash": {
+        "message": "🗑"
     },
     "Transpose": {
         "message": "Transpose"
@@ -1726,5 +1773,8 @@
     },
     "strict_mode": {
         "message": "strict mode"
+    },
+    "top_level_await": {
+        "message": "top-level await"
     }
 }

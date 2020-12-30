@@ -155,6 +155,32 @@
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "Ein interner Fehler ist aufgetreten. Bitte melden Sie dieses Problem im Tampermonkey-Forum, falls es auch nach einem Neustart des Browsers weiterhin besteht.\n\nWollen Sie das Forum jetzt besuchen?"
     },
+    "Antifeature__0name0__0description0": {
+        "message": "Enthält $name$: $description$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "description": {
+                "content": "$2"
+            }
+        }
+    },
+    "Antifeature_ads": {
+        "message": "Werbung"
+    },
+    "Antifeature_miner": {
+        "message": "ein Programm zum Schürfen von Cryptowährungen"
+    },
+    "Antifeature_no_details": {
+        "message": "Es wurden keine Details angegeben"
+    },
+    "Antifeature_other": {
+        "message": "ein anderes Antifeature"
+    },
+    "Antifeature_tracking": {
+        "message": "einen Tracking-Mechanismum"
+    },
     "Anonymous_statistics": {
         "message": "Anonyme Statistiken"
     },
@@ -343,6 +369,12 @@
     },
     "Delete": {
         "message": "Löschen"
+    },
+    "Delete_all": {
+        "message": "Alle löschen"
+    },
+    "Deleted_on": {
+        "message": "Gelöscht am"
     },
     "Description": {
         "message": "Beschreibung"
@@ -761,6 +793,9 @@
     "Please_wait___": {
         "message": "Bitte warten..."
     },
+    "Press_ctrl_to_toggle_all_checkboxes": {
+        "message": "Halten Sie Strg/Cmd gedrückt, um alle Kontrollkästchen zu ändern"
+    },
     "Process_with_Chrome": {
         "message": "An den Browser übergeben"
     },
@@ -825,6 +860,12 @@
     },
     "Restart_Tampermonkey": {
         "message": "Neustart"
+    },
+    "Restore_all": {
+        "message": "Alle wiederherstellen"
+    },
+    "Restore": {
+        "message": "Wiederherstellen"
     },
     "Revoke_Access_Token": {
         "message": "Zugangsberechtigung widerrufen"
@@ -1073,6 +1114,9 @@
     "This_script_was_deleted": {
         "message": "Dieses Userscript wurde gelöscht"
     },
+    "This_script_was_deleted_by_the_hoster_": {
+        "message": "Dieses Userscript wurde vom Server entfernt"
+    },
     "This_script_was_executed_0count0_times": {
         "message": "Dieses Userscript wurde $count$ mal ausgeführt",
         "placeholders": {
@@ -1112,6 +1156,9 @@
     },
     "Trace": {
         "message": "Alles"
+    },
+    "Trash": {
+        "message": "🗑"
     },
     "Trigger_Update": {
         "message": "Aktualisieren"
