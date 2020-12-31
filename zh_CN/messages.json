@@ -89,7 +89,7 @@
         "message": "需要刷新：\n所有未保存的数据将会丢失！"
     },
     "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
-        "message": "一个跨源资源请求并不罕见。\n您只需检查这个脚本是否有访问这一域名的好理由。\n比如说，用户脚本一般没理由访问您的银行账户。\n\n请注意，用户脚本作者可通过添加 [url=$connect$]@connect tags[/url] 到他们的脚本中来避免此对话框。\n\n不管您如何决定，您都随时可以在脚本的[url=$settings$]设置页面[/url]中更改您的决定。",
+        "message": "一个跨源资源请求并不罕见。\n您只需检查此脚本是否有访问这一域名的好理由。\n比如说，用户脚本一般没理由访问您的银行账户。\n\n请注意，用户脚本作者可通过添加 [url=$connect$]@connect tags[/url] 到他们的脚本中来避免此对话框。\n\n不管您如何决定，您都随时可以在脚本的[url=$settings$]设置页面[/url]中更改您的决定。",
         "placeholders": {
             "connect": {
                 "content": "$1"
@@ -192,7 +192,33 @@
         "message": "导入过程中发生错误"
     },
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
-        "message": "发生一个内部错误。如果这个问题在重启浏览器后继续出现，请按“确定”并在论坛中报告这个问题。\n\n您是否要访问 Tampermonkey 论坛？"
+        "message": "发生一个内部错误。如果此问题在重启浏览器后继续出现，请按“确定”并在论坛中报告此问题。\n\n您是否要访问 Tampermonkey 论坛？"
+    },
+    "Antifeature__0name0__0description0": {
+        "message": "包含 $name$: $description$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "description": {
+                "content": "$2"
+            }
+        }
+    },
+    "Antifeature_ads": {
+        "message": "广告"
+    },
+    "Antifeature_miner": {
+        "message": "加密挖矿"
+    },
+    "Antifeature_no_details": {
+        "message": "未提供细节"
+    },
+    "Antifeature_other": {
+        "message": "反特征"
+    },
+    "Antifeature_tracking": {
+        "message": "追踪"
     },
     "Anonymous_statistics": {
         "message": "匿名统计数据"
@@ -410,6 +436,12 @@
     },
     "Delete": {
         "message": "删除"
+    },
+    "Delete_all": {
+        "message": "删除所有"
+    },
+    "Deleted_on": {
+        "message": "删除于"
     },
     "Delete_Line": {
         "message": "删除行"
@@ -977,6 +1009,9 @@
     "Position_": {
         "message": "位置"
     },
+    "Press_ctrl_to_toggle_all_checkboxes": {
+        "message": "按 Ctrl/Cmd 来在所有的复选框内来回切换"
+    },
     "Prev_Bookmark": {
         "message": "上一个书签"
     },
@@ -1056,6 +1091,12 @@
     },
     "Restart_Tampermonkey": {
         "message": "重启 Tampermonkey"
+    },
+    "Restore_all": {
+        "message": "重置所有"
+    },
+    "Restore": {
+        "message": "重置"
     },
     "Revoke_Access_Token": {
         "message": "撤销访问令牌"
@@ -1259,7 +1300,7 @@
         "message": "Tampermonkey 没有访问本地文件的权限！"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
-        "message": "在这个选项被禁用时，Tampermonkey 可能无法提供对不安全上下文的访问（unsafeWindow、页面的函数和变量）。"
+        "message": "在此选项被禁用时，Tampermonkey 可能无法提供对不安全上下文的访问（unsafeWindow、页面的函数和变量）。"
     },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
         "message": "Tampermonkey 需要重启才能应用此更改。\n\n您要继续吗？"
@@ -1326,7 +1367,7 @@
         }
     },
     "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
-        "message": "这个外部资源将不会自动更新! 请删除它以启用再次更新。"
+        "message": "此外部资源将不会自动更新! 请删除它以启用再次更新。"
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
         "message": "这将给予此脚本在所有页面接收和发送数据的权限。这可能不安全！\n\n您确定要继续吗？"
@@ -1365,10 +1406,13 @@
         "message": "此脚本用 Tampermonkey 存储了数据。"
     },
     "This_script_was_deleted": {
-        "message": "这个脚本已被删除"
+        "message": "此脚本已被删除"
+    },
+    "This_script_was_deleted_by_the_hoster_": {
+        "message": "此脚本已被网站删除"
     },
     "This_script_was_executed_0count0_times": {
-        "message": "这个脚本被执行 $count$ 次",
+        "message": "此脚本被执行 $count$ 次",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -1384,7 +1428,7 @@
         }
     },
     "This_script_was_not_executed_yet": {
-        "message": "这个脚本还未被执行"
+        "message": "此脚本还未被执行"
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "这将覆盖您的全局设置！"
@@ -1418,6 +1462,9 @@
     },
     "Trace": {
         "message": "追踪"
+    },
+    "Trash": {
+        "message": "🗑"
     },
     "Transpose": {
         "message": "变换"
@@ -1666,5 +1713,8 @@
     },
     "strict_mode": {
         "message": "严格模式"
+    },
+    "top_level_await": {
+    "message": "top-level await"
     }
 }
