@@ -18,15 +18,6 @@
             }
         }
     },
-    "1": {
-        "message": "1"
-    },
-    "10": {
-        "message": "10"
-    },
-    "11": {
-        "message": "11"
-    },
     "15_Seconds": {
         "message": "15 sekundách"
     },
@@ -36,35 +27,11 @@
     "1_Minute": {
         "message": "1 minúte"
     },
-    "2": {
-        "message": "2"
-    },
-    "3": {
-        "message": "3"
-    },
     "30_Seconds": {
         "message": "30 sekundách"
     },
-    "4": {
-        "message": "4"
-    },
-    "5": {
-        "message": "5"
-    },
     "5_Minutes": {
         "message": "5 minútach"
-    },
-    "6": {
-        "message": "6"
-    },
-    "7": {
-        "message": "7"
-    },
-    "8": {
-        "message": "8"
-    },
-    "9": {
-        "message": "9"
     },
     "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
         "message": "Môže byť vyžadovaná kontrola nastavení GreaseMonkey/FF kompatibility, aby mohol byť skript spustený."
@@ -211,12 +178,6 @@
     "Beginner": {
         "message": "Začiatočník"
     },
-    "BlackCheck": {
-        "message": "BlackCheck"
-    },
-    "Blacklist": {
-        "message": "Blacklist"
-    },
     "Blacklist_Severity": {
         "message": "Zakázať podľa bezpečnostnej úrovne"
     },
@@ -231,9 +192,6 @@
     },
     "Browser_API_Downloads": {
         "message": "API prehliadača na sťahovanie"
-    },
-    "Browser_Profile_Path": {
-        "message": "Cesta k profilu prehliadača"
     },
     "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
         "message": "POZOR:\nTento skript byl upravený na inej karte pred $t$ sekundami!",
@@ -270,9 +228,6 @@
     "Check_only_scripts_up_to_this_size_automatically_": {
         "message": "Automaticky kontrolovať iba skripty do tejto veľkosti."
     },
-    "Chrome_Sync_Reset": {
-        "message": "Resetovať Chrome Sync"
-    },
     "Classic": {
         "message": "Klasický"
     },
@@ -306,12 +261,6 @@
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Previesť sekcie CDATA do formátu kompatibilného s Chromom"
     },
-    "Copy_exportable_data_to_clipboard_Ok_": {
-        "message": "Skopírujem exportovateľné TESLA dáta do schránky. Ok?"
-    },
-    "Create_Exportable_Data": {
-        "message": "Vytvoriť exportovateľné dáta"
-    },
     "Dashboard": {
         "message": "Ovládací panel"
     },
@@ -339,14 +288,8 @@
     "Details": {
         "message": "Detaily"
     },
-    "Different_sync_versions_are_not_compatible_to_each_other_": {
-        "message": "Rôzne sycnchronzované verzie niesú navzájom kompatibliné!"
-    },
     "Disable": {
         "message": "Vypnúť"
-    },
-    "Disable_Extension": {
-        "message": "Vypnúť rozšírenie"
     },
     "Disabled": {
         "message": "Vypnuté"
@@ -388,14 +331,8 @@
     "Edit": {
         "message": "Upraviť"
     },
-    "Editor": {
-        "message": "Editor"
-    },
     "Editor_reset": {
         "message": "Zahodiť zmeny"
-    },
-    "Emacs": {
-        "message": "Emacs"
     },
     "Enable": {
         "message": "Zapnúť"
@@ -403,10 +340,7 @@
     "Enable_Editor": {
         "message": "Zapnúť vylepšený editor"
     },
-    "Enable_Native_Script_Import": {
-        "message": "Zapnúť natívny import skriptov"
-    },
-    "Enable_TESLA": {
+    "Enable_Script_Sync": {
         "message": "Zapnúť TESLA"
     },
     "Enable_autoSave": {
@@ -447,9 +381,6 @@
     },
     "Every_Week": {
         "message": "Každý týždeň"
-    },
-    "Everything_is_setup_correctly_": {
-        "message": "Všetko je nastavené správne"
     },
     "Exclude_s__": {
         "message": "Okrem"
@@ -550,9 +481,6 @@
     "Include_script_storage": {
         "message": "Zahrnúť úložisko skriptov"
     },
-    "Includes_Excludes": {
-        "message": "Includes/Excludes"
-    },
     "Indent": {
         "message": "Odsadenie"
     },
@@ -622,9 +550,6 @@
     "Native": {
         "message": "Natívny"
     },
-    "Native_Script_Import": {
-        "message": "Natívny import skriptov"
-    },
     "Never": {
         "message": "Nikdy"
     },
@@ -632,7 +557,7 @@
         "message": "Nová šablóna skriptu"
     },
     "New_userscript": {
-        "message": "\u003CNový skript>"
+        "message": "<Nový skript>"
     },
     "No": {
         "message": "Nie"
@@ -655,9 +580,6 @@
     "No_update_found__sry_": {
         "message": "Žiadne nové aktualizácie"
     },
-    "None": {
-        "message": "Žiadna"
-    },
     "Note": {
         "message": "Poznámka"
     },
@@ -666,9 +588,6 @@
     },
     "Off": {
         "message": "Vyp."
-    },
-    "Ok": {
-        "message": "Ok"
     },
     "On": {
         "message": "Zap."
@@ -720,17 +639,11 @@
     "Please_consider_a_contribution": {
         "message": "Prosím, zvážte príspevok vývojárom!"
     },
-    "Please_double_check_the_native_script_import_settings__": {
-        "message": "Skript sa nedá načítať!\n\nProsím, prekontrolujte v nastaveniach 'Natívny import skriptov'."
-    },
     "Please_wait___": {
         "message": "Čakajte prosím..."
     },
     "Position_": {
         "message": "Pozícia"
-    },
-    "Post_Import_Action": {
-        "message": "Akcia po importe"
     },
     "Process_with_Chrome": {
         "message": "Spracovať Chromom"
@@ -751,14 +664,6 @@
     },
     "Really_factory_reset_this_script_": {
         "message": "Naozaj chcete zmazať tento skript?"
-    },
-    "Really_import_0name0__": {
-        "message": "Naozaj chcete importovať natívny skript '$name$'?",
-        "placeholders": {
-            "name": {
-                "content": "$1"
-            }
-        }
     },
     "Really_reset_all_changes_": {
         "message": "Naozaj chcete obnoviť všetky zmeny?"
@@ -781,7 +686,7 @@
     "Replace_": {
         "message": "Nahradiť?"
     },
-    "Replace_all": {
+    "Replace_all_with": {
         "message": "Nahradiť všetko"
     },
     "Replace_for_each_statements": {
@@ -911,20 +816,14 @@
     "Subresource_Integrity": {
         "message": "Integrita subzdroja"
     },
-    "Sync_Id": {
-        "message": "ID"
+    "Sync_Reset": {
+        "message": "Resetovať Sync"
     },
     "Sync_Type": {
         "message": "Typ"
     },
-    "Sync_Version": {
-        "message": "Verzia"
-    },
-    "TESLA": {
-        "message": "TESLA"
-    },
-    "TM_has_access_to_file_URIs": {
-        "message": "Tampermonkey má prístup k URI adresám súborov. :)"
+    "Synchronize_your_scripts_across_browsers_and_operation_systems": {
+        "message": "Synchronizácia skriptov (Tampermonkey External Script List Access)"
     },
     "TabMode": {
         "message": "Typ odsadenia"
@@ -935,23 +834,14 @@
     "Tabs": {
         "message": "Tabulátora"
     },
-    "Tampermonkey_External_Script_List_Access": {
-        "message": "Synchronizácia skriptov (Tampermonkey External Script List Access)"
-    },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey nemá oprávnenie pristupovať k lokálnym súborom!"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Tampermonkey možno nebude môcť pristúpiť k nezabezpečenému obsahu (unsafeWindow, funkcie a premenné stránky), ak je toto zakázané."
     },
-    "Tampermonkey_needs_access_to_file_URIs__Visit_the_FAQ_": {
-        "message": "Tampermonkey potrebuje prístup k URI adresám súborov, aby fungoval import skriptov.\n\nKliknite sem, pozrite si FAQ, kde se dozviete, ako získať toto oprávnenie!"
-    },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
         "message": "Ak chcete aplikovať túto zmenu Tampermonkey sa musí reštartovať.\n\nChceťe pokračovať?"
-    },
-    "Tampermonkey_needs_to_know_the_absolute_path_to_your_browser_profile_folder_Visit_the_FAQ_": {
-        "message": "Tampermonkey musí poznať absolútnu cestu k profilu vášho prehliadača, aby správne fungoval import skriptov.\n\nKliknite sem, pozrite si FAQ, kde se dozviete, ako ju nájsť!"
     },
     "Temporarily_allow": {
         "message": "Povoliť dočasne"
@@ -1002,9 +892,6 @@
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
         "message": "Týmto povolíte získavanie a odosielanie dát každej stránke. Môže to byť nebezpečné!\n\nSte si istý, že chcete pokračovať?"
     },
-    "This_is_a_chrome_extension": {
-        "message": "Toto je rozšírenie prehliadača Google Chrome"
-    },
     "This_is_a_system_script": {
         "message": "Toto je systémový skript."
     },
@@ -1038,17 +925,14 @@
     "This_script_uses_uW_gm_api_": {
         "message": "Tento skript je súčasťou Greasemonkey 10 API (unsafeWindow.gmonkey),\nktoré Tampermonkey ani iný alternatívny správca skriptov nepodporuje."
     },
-    "This_sync_version_may_multiply_each_script_that_is_present_at_more_than_one_Tampermonkey_instance__Do_you_really_want_to_continue_": {
-        "message": "Narozdiel od 'Legacy' verzie synchronizácie, táto synchronizuje vaše skripty podľa unikátneho ID, ktoré je vytvorené pri inštalácií skriptu!\n\nAk nainštalujete tento skript na iné inštalácie Tampermonkey inou metódou synchronizácie nebo normálním inštalačným spôsobom, objaví sa tento skript viackrát, kým neprebehne ďalšia synchronizácia.\n\nOdstránenie problému rieši iba ručné odstránenie duplicitných skriptov!\n\nNaozaj chcete pokračovať?"
-    },
     "This_will_overwrite_your_global_settings_": {
         "message": "Toto prepíše globálne nastavenia!"
     },
+    "This_will_remove_all_remote_data_from_sync_Ok_": {
+        "message": "Chcete zmazať všetky dáta z Sync?"
+    },
     "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
         "message": "Chcete zmazať všetky skripty a obnoviť všetky nastavenia?"
-    },
-    "This_will_remove_all_stored_data_from_google_sync_Ok_": {
-        "message": "Chcete zmazať všetky dáta z Google Sync?"
     },
     "This_will_restart_Tampermonkey_Ok_": {
         "message": "Chcete reštartovať Tampermonkey?"
@@ -1065,12 +949,6 @@
     "Type": {
         "message": "Typ"
     },
-    "URL": {
-        "message": "URL"
-    },
-    "UUID": {
-        "message": "UUID"
-    },
     "Unable_to_load_script_from_url_0url0": {
         "message": "Nie je možné načítať skript z URL: \n $url$",
         "placeholders": {
@@ -1081,9 +959,6 @@
     },
     "Unable_to_parse_this_": {
         "message": "Toto nie je možné parsovať! :("
-    },
-    "Uninstall_Extension": {
-        "message": "Odinštalovať rozšírenie"
     },
     "Unique_running_scripts": {
         "message": "Unikátne bežiace skripty"
@@ -1149,29 +1024,17 @@
     "Version": {
         "message": "Verzia"
     },
-    "Vim": {
-        "message": "Vim"
-    },
     "Waiting_for_sync_to_finish": {
         "message": "Čakanie na dokončenie synchronizácie"
     },
     "Warning": {
         "message": "Varovanie"
     },
-    "What_action_should_be_done_after_a_native_userscript_was_imported_sucessfully_": {
-        "message": "Aká akcia sa má vykonať po úspešnom importe natívneho skriptu?"
-    },
-    "Whitelist": {
-        "message": "Whitelist"
-    },
     "Whitelisted_File_Extensions": {
         "message": "Povolené prípony súborov"
     },
     "Whitelisted_Pages": {
         "message": "Povolené stránky"
-    },
-    "Windows": {
-        "message": "Windows"
     },
     "XHR_Security": {
         "message": "Bezpečnosť XHR"
@@ -1207,7 +1070,7 @@
         "message": "-- Prosím, vyberte možnosť --"
     },
     "_not_set_": {
-        "message": "\u003Cnenastavené"
+        "message": "<nenastavené>"
     },
     "connect_mode": {
         "message": "@connect mód"
@@ -1223,30 +1086,6 @@
     },
     "severity_10": {
         "message": "10 (nejmenej bezpečné)"
-    },
-    "severity_2": {
-        "message": "2"
-    },
-    "severity_3": {
-        "message": "3"
-    },
-    "severity_4": {
-        "message": "4"
-    },
-    "severity_5": {
-        "message": "5"
-    },
-    "severity_6": {
-        "message": "6"
-    },
-    "severity_7": {
-        "message": "7"
-    },
-    "severity_8": {
-        "message": "8"
-    },
-    "severity_9": {
-        "message": "9"
     },
     "some_secs": {
         "message": "nejaké"
