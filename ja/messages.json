@@ -53,7 +53,7 @@
         "message": "GreaseMonkey/FF 互換性オプションを再確認してください。このスクリプトの実行に必要である可能性があります。"
     },
     "A_reload_is_required": {
-        "message": "再読込が必要です: \n保存していない変更はすべて失われます!"
+        "message": "再読み込みが必要です: \n保存していない変更はすべて失われます!"
     },
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
         "message": "UserScript がオリジン間リソースへのアクセスを要求しています。"
@@ -61,11 +61,11 @@
     "Action": {
         "message": "操作"
     },
-    "Action_failed": {
-        "message": "操作が失敗しました"
-    },
     "Action_Menu": {
         "message": "操作メニュー"
+    },
+    "Action_failed": {
+        "message": "操作が失敗しました"
     },
     "Actions": {
         "message": "操作"
@@ -142,7 +142,30 @@
         "message": "インポート中にエラーが発生しました。"
     },
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
-        "message": "内部エラーが発生しました。この問題点が継続する場合は、OK を押してこの問題点をフォーラムで報告してください。\n\nTampermonkey フォーラムに移動しますか？"
+        "message": "内部エラーが発生しました。この問題点が継続する場合は、OK を押してこの問題点をフォーラムで報告してください。\n\nTampermonkey フォーラムに移動しますか?"
+    },
+    "Antifeature__0name0__0description0": {
+        "message": "$name$ を含みます: $description$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "description": {
+                "content": "$2"
+            }
+        }
+    },
+    "Antifeature_ads": {
+        "message": "広告"
+    },
+    "Antifeature_miner": {
+        "message": "暗号マイニング"
+    },
+    "Antifeature_no_details": {
+        "message": "詳細はありません"
+    },
+    "Antifeature_tracking": {
+        "message": "追跡"
     },
     "Anonymous_statistics": {
         "message": "匿名の統計"
@@ -157,7 +180,7 @@
         "message": "選択したスクリプトすべてにこの操作を適用"
     },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
-        "message": "Tampermonkey がブラウザーによって更新される際、同時に再起動もされます。残念ですが、これにより実行中のスクリプトが壊れる場合があります!\n\n更新を通知しないように本当に設定しますか？"
+        "message": "Tampermonkey がブラウザーによって更新される際、同時に再起動もされます。残念ですが、これにより実行中のスクリプトが壊れる場合があります!\n\n更新を通知しないように本当に設定しますか?"
     },
     "Ask_if_unknown": {
         "message": "不明な場合は確認"
@@ -187,10 +210,10 @@
         "message": "すべて自動インデント"
     },
     "Auto_reload_on_script_enabled": {
-        "message": "ページを自動で再読込する"
+        "message": "ページを自動で再読み込みする"
     },
     "Auto_reload_on_script_enabled_desc": {
-        "message": "スクリプトの ON/OFF を切り替えた際に、影響するページを自動で再読込します"
+        "message": "スクリプトの ON/OFF を切り替えた際に、影響するページを自動で再読み込みします"
     },
     "Auto_syntax_check_max_length": {
         "message": "自動構文チェックの最大サイズ"
@@ -209,6 +232,14 @@
     },
     "Blacklist": {
         "message": "ブラックリスト"
+    },
+    "Blacklist_0domain0": {
+        "message": "$domain$ をブラックリストに登録",
+        "placeholders": {
+            "domain": {
+                "content": "$1"
+            }
+        }
     },
     "Blacklist_Severity": {
         "message": "セキュリティ ブロックに基づくブロック"
@@ -310,9 +341,6 @@
     "Config_Mode": {
         "message": "設定のモード"
     },
-    "Convert_Array_Assignements": {
-        "message": "[blub, bla] = s.split(':') 文を変換する"
-    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "CDATA セクションをブラウザー互換形式に変換する"
     },
@@ -358,6 +386,9 @@
     "Delete": {
         "message": "削除"
     },
+    "Delete_all": {
+        "message": "すべて削除"
+    },
     "Delete_Line": {
         "message": "行を削除"
     },
@@ -398,7 +429,7 @@
         "message": "無効化されているスクリプト数"
     },
     "Do_you_really_want_to_store_fixed_code_": {
-        "message": "オプション「$option$」が有効です!\n\n修正されたソースを本当に保存しますか？",
+        "message": "オプション「$option$」が有効です!\n\n修正されたソースを本当に保存しますか?",
         "placeholders": {
             "option": {
                 "content": "$1"
@@ -415,7 +446,7 @@
         "message": "二度と表示しない"
     },
     "Dont_ask_me_for_simple_script_updates": {
-        "message": "シンプルなスクリプトの更新について確認を求めない"
+        "message": "単純なスクリプトの更新について確認を求めない"
     },
     "Downgrade": {
         "message": "ダウングレード"
@@ -453,7 +484,7 @@
         "message": "高度なエディターを有効にする"
     },
     "Enable_Script_Sync": {
-        "message": "スクリプト同期を有効にする"
+        "message": "UserScript 同期を有効にする"
     },
     "Enable_autoSave": {
         "message": "エディターがフォーカスを失った際に内容を保存する"
@@ -500,7 +531,7 @@
         }
     },
     "Exclude_s__": {
-        "message": "exclude:"
+        "message": "exclude"
     },
     "Experimental": {
         "message": "実験的"
@@ -538,9 +569,6 @@
     "Find_Previous": {
         "message": "前を検索"
     },
-    "Fix_for_var_in_statements": {
-        "message": "「for (var j in x)」文を修正する"
-    },
     "Fix_wrappedJSObject_property_access": {
         "message": "wrappedJSObject プロパティのアクセスを修正する"
     },
@@ -561,6 +589,14 @@
     },
     "Forbid_once": {
         "message": "一度だけ禁止"
+    },
+    "Found_0count0_available_scripts": {
+        "message": "$count$ 件のスクリプトを利用できます",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
     },
     "Full_reset": {
         "message": "初期化"
@@ -610,11 +646,11 @@
     "Icon_badge_color": {
         "message": "アイコン バッジの色"
     },
-    "Icon_badge_text_color": {
-        "message": "アイコン バッジの文字色"
-    },
     "Icon_badge_info": {
         "message": "アイコン バッジの情報"
+    },
+    "Icon_badge_text_color": {
+        "message": "アイコン バッジの文字色"
     },
     "Import": {
         "message": "インポート"
@@ -626,7 +662,7 @@
         "message": "Tampermonkey の設定を含める"
     },
     "Include_s__": {
-        "message": "include:"
+        "message": "include"
     },
     "Include_script_externals": {
         "message": "外部のスクリプト リソースを含める"
@@ -680,7 +716,7 @@
         "message": "このスクリプトをインストール"
     },
     "Installed_Version_": {
-        "message": "インストールされたバージョン:"
+        "message": "インストールされたバージョン"
     },
     "Installed_userscripts": {
         "message": "インストール済み UserScript"
@@ -701,7 +737,7 @@
         "message": "指定行にジャンプ"
     },
     "Just_another_service_provided_by_your_friendly_script_updater_": {
-        "message": "使いやすいスクリプト アップデーターが提供する他のサービス:"
+        "message": "使いやすいスクリプト アップデーターが提供する他のサービス"
     },
     "Key_Mapping": {
         "message": "キー割り当て"
@@ -779,13 +815,16 @@
         "message": "新規 UserScript のテンプレート"
     },
     "New_userscript": {
-        "message": "<新規スクリプト>"
+        "message": "<新規 UserScript>"
     },
     "Next_Bookmark": {
         "message": "次のブックマーク"
     },
     "No": {
         "message": "いいえ"
+    },
+    "No_available_scripts": {
+        "message": "利用できるスクリプトはありません"
     },
     "No_backups_found": {
         "message": "バックアップが見つかりません"
@@ -797,7 +836,7 @@
         "message": "最上位フレーム (top) のみで実行する"
     },
     "No_script_is_installed": {
-        "message": "スクリプトはインストールされていません"
+        "message": "インストール済のスクリプトはありません"
     },
     "No_script_is_running": {
         "message": "実行中のスクリプトはありません"
@@ -825,6 +864,12 @@
     },
     "On": {
         "message": "ON"
+    },
+    "On_Action_Menu": {
+        "message": "操作メニューを開いたとき"
+    },
+    "On_Click": {
+        "message": "クリックしたとき"
     },
     "One_error_or_hint_was_found_": {
         "message": "1つのエラーまたはヒントが見つかりました。"
@@ -888,6 +933,9 @@
     "Position_": {
         "message": "実行順"
     },
+    "Press_ctrl_to_toggle_all_checkboxes": {
+        "message": "チェックボックスをすべて反転するには Ctrl/Cmd を押してください"
+    },
     "Prev_Bookmark": {
         "message": "前のブックマーク"
     },
@@ -895,7 +943,7 @@
         "message": "ブラウザーで処理"
     },
     "Really_delete_0name0__": {
-        "message": "本当に「$name$」を削除しますか？",
+        "message": "本当に「$name$」を削除しますか?",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -903,16 +951,16 @@
         }
     },
     "Really_delete_the_selected_items_": {
-        "message": "選択した項目を本当に削除しますか？"
+        "message": "選択した項目を本当に削除しますか?"
     },
     "Really_factory_reset_the_selected_items_": {
-        "message": "選択した項目を本当に初期化しますか？"
+        "message": "選択した項目を本当に初期化しますか?"
     },
     "Really_factory_reset_this_script_": {
-        "message": "このスクリプトを本当に初期化しますか？"
+        "message": "このスクリプトを本当に初期化しますか?"
     },
     "Really_reset_all_changes_": {
-        "message": "すべての変更を本当にリセットしますか？"
+        "message": "すべての変更を本当にリセットしますか?"
     },
     "Redo": {
         "message": "やり直し"
@@ -922,6 +970,9 @@
     },
     "Reinstall": {
         "message": "再インストール"
+    },
+    "Reload": {
+        "message": "再読み込み"
     },
     "Remind_me_later": {
         "message": "後で知らせる"
@@ -936,7 +987,7 @@
         "message": "置換"
     },
     "Replace_": {
-        "message": "置換しますか？"
+        "message": "置換しますか?"
     },
     "Replace_All": {
         "message": "すべて置換"
@@ -968,6 +1019,12 @@
     "Restart_Tampermonkey": {
         "message": "Tampermonkey を再起動"
     },
+    "Restore_all": {
+        "message": "すべて復元"
+    },
+    "Restore": {
+        "message": "復元"
+    },
     "Revoke_Access_Token": {
         "message": "アクセス トークンを失効させる"
     },
@@ -987,7 +1044,7 @@
         "message": "ディスクに保存"
     },
     "Script_0name0_is_slowing_down_some_page_loads_": {
-        "message": "スクリプト '$name$' がページの読み込みを低速化させています",
+        "message": "UserScript '$name$' がページの読み込みを低速化させています",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -995,16 +1052,16 @@
         }
     },
     "Script_Blacklist_Source": {
-        "message": "スクリプト ブラックリストの情報源"
+        "message": "UserScript ブラックリストの情報源"
     },
     "Script_Sync": {
-        "message": "スクリプト同期"
+        "message": "UserScript 同期"
     },
     "Script_URL_detection": {
-        "message": "スクリプトURLの検出"
+        "message": "UserScript URL の検出"
     },
     "Script_Update": {
-        "message": "スクリプトの更新"
+        "message": "UserScript の更新"
     },
     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
         "message": "スクリプト作成者は、ソース URL に SRI ハッシュを追加することで、外部リソースを保護できます。"
@@ -1013,7 +1070,7 @@
         "message": "スクリプトによるローカル ファイルへのアクセスを許可する"
     },
     "Script_name_0name0": {
-        "message": "スクリプト名: $name$",
+        "message": "UserScript 名: $name$",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1021,13 +1078,19 @@
         }
     },
     "Script_order": {
-        "message": "スクリプトの並び順"
+        "message": "UserScript の並び順"
     },
     "Search": {
         "message": "検索"
     },
     "Search_for": {
         "message": "検索文字列"
+    },
+    "Search_for_userscripts_for_this_tab": {
+        "message": "このページ向けの UserScript を検索"
+    },
+    "Searching_for_userscripts_for_this_tab": {
+        "message": "UserScript を検索中..."
     },
     "Security": {
         "message": "セキュリティ"
@@ -1136,17 +1199,20 @@
     "TabMode": {
         "message": "タブのモード"
     },
+    "Tab_Size": {
+        "message": "タブ サイズ"
+    },
     "Tab_URL": {
         "message": "タブの URL"
     },
     "Tabs": {
         "message": "タブ"
     },
-    "Tab_Size": {
-        "message": "タブ サイズ"
-    },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + スクリプトのバージョン"
+    },
+    "Tampermonkey_has_no_access_to_this_page": {
+        "message": "Tampermonkey のこのページへのアクセスが許可されていません"
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey のローカル ファイルへのアクセスが許可されていません!"
@@ -1155,7 +1221,7 @@
         "message": "これを無効にすると、安全ではないコンテキスト (unsafeWindow、ページの関数や変数) へのアクセスを Tampermonkey が提供できなくなります。"
     },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
-        "message": "この変更を適用するには、Tampermonkeyを再起動する必要があります。\n\n続行しますか？"
+        "message": "この変更を適用するには、Tampermonkeyを再起動する必要があります。\n\n続行しますか?"
     },
     "Tampermonkey_version": {
         "message": "Tampermonkeyのバージョンのみ"
@@ -1208,7 +1274,7 @@
         "message": "テーマ"
     },
     "There_are_unsaved_changed_": {
-        "message": "保存されていない変更があります。\nエディターを本当に閉じますか？"
+        "message": "保存されていない変更があります。\nエディターを本当に閉じますか?"
     },
     "There_is_an_update_for_0name0_avaiable_": {
         "message": "「$name$」の更新を利用できます。 :)",
@@ -1254,17 +1320,14 @@
     "This_script_is_blacklisted_": {
         "message": "このスクリプトはブラックリストに入っています!"
     },
-    "This_script_runs_in_Chrome_mode": {
-        "message": "このスクリプトは Chrome モードで動作します"
-    },
     "This_script_stores_data": {
         "message": "このスクリプトは Tampermonkey にデータを保存します。"
     },
-    "This_script_uses_uW_gm_api_": {
-        "message": "このスクリプトは Greasemonkey 10 API (unsafeWindow.gmonkey) の一部を使用します。\nTampermonkey や他の代わりのスクリプト ハンドラーはこれに未対応です。"
-    },
     "This_script_was_deleted": {
         "message": "このスクリプトは削除されました"
+    },
+    "This_script_was_deleted_by_the_hoster_": {
+        "message": "このスクリプトはホストによって削除されました"
     },
     "This_script_was_executed_0count0_times": {
         "message": "このスクリプトは$count$回実行されました",
@@ -1289,13 +1352,13 @@
         "message": "この操作により、グローバル設定が上書きされます!"
     },
     "This_will_remove_all_remote_data_from_sync_Ok_": {
-        "message": "Sync からすべてのデータを本当に除去しますか？"
+        "message": "Sync からすべてのデータを本当に除去しますか?"
     },
     "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
-        "message": "すべてのスクリプトの除去とすべての設定のリセットの両方を本当に実行しますか？"
+        "message": "すべてのスクリプトの除去とすべての設定のリセットの両方を本当に実行しますか?"
     },
     "This_will_restart_Tampermonkey_Ok_": {
-        "message": "Tampermonkey を本当に再起動しますか？"
+        "message": "Tampermonkey を本当に再起動しますか?"
     },
     "Today": {
         "message": "今日"
@@ -1379,7 +1442,7 @@
         "message": "更新 URL"
     },
     "Update_check_is_disabled": {
-        "message": "このスクリプトは更新の確認が無効または利用できません"
+        "message": "この UserScript は更新の確認が無効または利用できません"
     },
     "Update_interval": {
         "message": "更新間隔"
@@ -1415,6 +1478,12 @@
     },
     "User_modified": {
         "message": "変更あり"
+    },
+    "Userscript_Search": {
+        "message": "UserScript 検索"
+    },
+    "Userscript_search_integration_mode": {
+        "message": "UserScript 検索統合"
     },
     "Userscripts": {
         "message": "UserScript"
@@ -1459,19 +1528,19 @@
         "message": "はい"
     },
     "You_are_about_to_downgrade_a_UserScript": {
-        "message": "注意! UserScript のダウングレード:"
+        "message": "注意! UserScript のダウングレード"
     },
     "You_are_about_to_install_a_UserScript_": {
-        "message": "UserScript のインストール:"
+        "message": "UserScript のインストール"
     },
     "You_are_about_to_modify_a_UserScript_": {
-        "message": "UserScript の修正:"
+        "message": "UserScript の修正"
     },
     "You_are_about_to_reinstall_a_UserScript_": {
-        "message": "UserScript の再インストール:"
+        "message": "UserScript の再インストール"
     },
     "You_are_about_to_update_a_UserScript_": {
-        "message": "UserScript の更新:"
+        "message": "UserScript の更新"
     },
     "You_can_add_your_custom_CSS_rules_here_": {
         "message": "Tampermonkey UI 用の 独自 CSS ルールをここに追加できます。表示が崩れた場合は、オプション ページのURLに \"?layout=reset\" を追加することで、デフォルトのレイアウトに戻せます。"
@@ -1480,7 +1549,7 @@
         "message": "ここに構文解析のカスタム設定を追加できます。"
     },
     "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
-        "message": "あなたの言語には未対応ですか？\nTampermonkey を翻訳する手順についてはこちらをクリックしてください。"
+        "message": "あなたの言語には未対応ですか?\nTampermonkey を翻訳する手順についてはこちらをクリックしてください。"
     },
     "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
         "message": "ホワイトリストが実行可能ファイルを含んでいるようです!\nこれは、UserScript がマルウェアやスパイウェアをダウンロードできてしまうことを意味します!!"
@@ -1495,7 +1564,7 @@
         "message": "<未設定>"
     },
     "connect_mode": {
-        "message": "@connect文を確認"
+        "message": "@connect 文を確認"
     },
     "fatal_error": {
         "message": "致命的なエラー"

@@ -303,9 +303,6 @@
     "Config_Mode": {
         "message": "कॉन्फ़िग मोड"
     },
-    "Convert_Array_Assignements": {
-        "message": "[blub, bla] = s.split(':') स्टेटमेंट परिवर्तित करें"
-    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "ब्राउज़र संगत प्रारूप में CDATA भाग परिवर्तित करें"
     },
@@ -531,9 +528,6 @@
     },
     "Find_Under_Previous": {
         "message": "पिछले के तहत खोजें"
-    },
-    "Fix_for_var_in_statements": {
-        "message": "'for (var j in x)' स्टेटमेंट फिक्स करें"
     },
     "Fix_wrappedJSObject_property_access": {
         "message": "wrappedJSObject प्रॉपर्टी एक्सेस निश्चित करें"
@@ -1222,14 +1216,8 @@
     "This_script_is_blacklisted_": {
         "message": "यह स्क्रिप्ट ब्लैकलिस्ट की गई है!"
     },
-    "This_script_runs_in_Chrome_mode": {
-        "message": "यह स्क्रिप्ट क्रोम मोड में चलती है"
-    },
     "This_script_stores_data": {
         "message": "यह स्क्रिप्ट Tampermonkey में डेटा संग्रहीत करता है।"
-    },
-    "This_script_uses_uW_gm_api_": {
-        "message": "यह स्क्रिप्ट ग्रीजमंकी 10 API हिस्से (unsafeWindow.gmonkey) का उपयोग करता है जो कि Tampermonkey और किसी अन्य विकल्प स्क्रिप्ट हैंडलर द्वारा समर्थित नहीं है।"
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "यह आपके ग्लोबल सेटिंग्स के ऊपर लिख देगा!"

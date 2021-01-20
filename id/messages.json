@@ -601,14 +601,8 @@
     "This_script_has_full_web_access": {
         "message": "Skrip ini memiliki akses internet penuh."
     },
-    "This_script_runs_in_Chrome_mode": {
-        "message": "Skrip ini berjalan pada mode Chrome"
-    },
     "This_script_stores_data": {
         "message": "Skrip ini menyimpan data ke Tampermonkey."
-    },
-    "This_script_uses_uW_gm_api_": {
-        "message": "Skrip ini menggunakan bagian dari Greasemonkey 10 API (unsafeWindow.monkey) \nyang tidak didukung oleh Tampermonkey atau script handler alternatif lainnya."
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "Ini akan menimpa Pengaturan Global Anda!"

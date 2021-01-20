@@ -89,7 +89,7 @@
         "message": "需要刷新：\n所有未保存的数据将会丢失！"
     },
     "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
-        "message": "一个跨源资源请求并不罕见。\n您只需检查这个脚本是否有访问这一域名的好理由。\n比如说，用户脚本一般没理由访问您的银行账户。\n\n请注意，用户脚本作者可通过添加 [url=$connect$]@connect tags[/url] 到他们的脚本中来避免此对话框。\n\n不管您如何决定，您都随时可以在脚本的[url=$settings$]设置页面[/url]中更改您的决定。",
+        "message": "一个跨源资源请求并不罕见。\n您只需检查此脚本是否有访问这一域名的好理由。\n比如说，用户脚本一般没理由访问您的银行账户。\n\n请注意，用户脚本作者可通过添加 [url=$connect$]@connect tags[/url] 到他们的脚本中来避免此对话框。\n\n不管您如何决定，您都随时可以在脚本的[url=$settings$]设置页面[/url]中更改您的决定。",
         "placeholders": {
             "connect": {
                 "content": "$1"
@@ -108,6 +108,9 @@
     "Action_Menu": {
         "message": "操作菜单"
     },
+    "Action_failed": {
+        "message": "操作失败"
+    },
     "Actions": {
         "message": "操作"
     },
@@ -121,7 +124,10 @@
         "message": "在下面添加选择内容"
     },
     "Add_TM_to_CSP": {
-        "message": "如果站点有内容安全策略 (CSP) 则向其策略加入 Tampermonkey"
+        "message": "如果站点有内容安全策略（CSP）则向其策略"
+    },
+    "Add_Tampermonkey_to_the_site_s_content_csp": {
+        "message": "向 HTML 的内容安全策略（CSP）加入 Tampermonkey"
     },
     "Add_as_0clude0": {
         "message": "添加为 $clude$",
@@ -186,7 +192,33 @@
         "message": "导入过程中发生错误"
     },
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
-        "message": "发生一个内部错误。如果这个问题在重启浏览器后继续出现，请按“确定”并在论坛中报告这个问题。\n\n您是否要访问 Tampermonkey 论坛？"
+        "message": "发生一个内部错误。如果此问题在重启浏览器后继续出现，请按“确定”并在论坛中报告此问题。\n\n您是否要访问 Tampermonkey 论坛？"
+    },
+    "Antifeature__0name0__0description0": {
+        "message": "包含 $name$: $description$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "description": {
+                "content": "$2"
+            }
+        }
+    },
+    "Antifeature_ads": {
+        "message": "广告"
+    },
+    "Antifeature_miner": {
+        "message": "加密挖矿"
+    },
+    "Antifeature_no_details": {
+        "message": "未提供细节"
+    },
+    "Antifeature_other": {
+        "message": "反特征"
+    },
+    "Antifeature_tracking": {
+        "message": "追踪"
     },
     "Anonymous_statistics": {
         "message": "匿名统计数据"
@@ -322,6 +354,14 @@
     "Clear_All": {
         "message": "清除全部"
     },
+    "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
+        "message": "请点击“确定”来允许 Tampermonkey 访问以下站点：\n\n$host_list$",
+        "placeholders": {
+            "host_list": {
+                "content": "$1"
+            }
+        }
+    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "点击“确定”允许 Tampermonkey 立即开始下载。"
     },
@@ -352,14 +392,14 @@
     "Config_Mode": {
         "message": "配置模式"
     },
-    "Convert_Array_Assignements": {
-        "message": "转换 [blub, bla] = s.split(':') 语句"
-    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "转换 CDATA 部分为 Chrome 兼容的格式"
     },
     "Copy": {
         "message": "复制"
+    },
+    "Cross_Origin_Request_Permission": {
+        "message": "跨域请求的权限"
     },
     "Current_Version": {
         "message": "当前版本"
@@ -388,8 +428,20 @@
     "Default_Dark": {
         "message": "默认 - 暗黑"
     },
+    "Default_Darker": {
+        "message": "默认 - 深黑"
+    },
+    "Default_Light": {
+        "message": "默认 - 亮色"
+    },
     "Delete": {
         "message": "删除"
+    },
+    "Delete_all": {
+        "message": "删除所有"
+    },
+    "Deleted_on": {
+        "message": "删除于"
     },
     "Delete_Line": {
         "message": "删除行"
@@ -469,6 +521,9 @@
     },
     "Downloads": {
         "message": "下载"
+    },
+    "Dropbox": {
+        "message": "Dropbox"
     },
     "DuckDuckGo": {
         "message": "DuckDuckGo"
@@ -592,9 +647,6 @@
     "Find_Under_Previous": {
         "message": "查找上一项"
     },
-    "Fix_for_var_in_statements": {
-        "message": "修复“for (var j in x)”语句"
-    },
     "Fix_wrappedJSObject_property_access": {
         "message": "修复 wrappedJSObject 属性"
     },
@@ -643,6 +695,9 @@
     "Google": {
         "message": "Google"
     },
+    "Google_Drive": {
+        "message": "Google Drive"
+    },
     "Group_Left": {
         "message": "分组左侧"
     },
@@ -675,6 +730,9 @@
     },
     "Icon_badge_info": {
         "message": "图标徽章信息"
+    },
+    "Icon_badge_text_color": {
+        "message": "图标徽章文本颜色"
     },
     "Import": {
         "message": "导入"
@@ -732,6 +790,9 @@
     },
     "Install": {
         "message": "安装"
+    },
+    "Install_from_URL": {
+        "message": "从 URL 安装"
     },
     "Install_this_script": {
         "message": "安装此脚本"
@@ -883,6 +944,9 @@
     "On": {
         "message": "开"
     },
+    "OneDrive": {
+        "message": "OneDrive"
+    },
     "One_error_or_hint_was_found_": {
         "message": "发现了一个错误或提示。"
     },
@@ -945,6 +1009,9 @@
     "Position_": {
         "message": "位置"
     },
+    "Press_ctrl_to_toggle_all_checkboxes": {
+        "message": "按 Ctrl/Cmd 来在所有的复选框内来回切换"
+    },
     "Prev_Bookmark": {
         "message": "上一个书签"
     },
@@ -986,6 +1053,9 @@
     "Remove": {
         "message": "删除"
     },
+    "Remove__possibly_unsecure_": {
+        "message": "全部移除（可能不安全）"
+    },
     "Replace": {
         "message": "替换"
     },
@@ -1021,6 +1091,15 @@
     },
     "Restart_Tampermonkey": {
         "message": "重启 Tampermonkey"
+    },
+    "Restore_all": {
+        "message": "重置所有"
+    },
+    "Restore": {
+        "message": "重置"
+    },
+    "Revoke_Access_Token": {
+        "message": "撤销访问令牌"
     },
     "Run_at": {
         "message": "运行时期"
@@ -1200,16 +1279,19 @@
         "message": "正在运行同步"
     },
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
-        "message": "脚本同步 (Tampermonkey 外部脚本列表访问)"
+        "message": "脚本同步（Tampermonkey 外部脚本列表访问）"
     },
     "TabMode": {
-        "message": "Tab类型"
+        "message": "标签类型"
+    },
+    "Tab_Size": {
+        "message": "标签大小"
     },
     "Tab_URL": {
         "message": "标签 URL"
     },
     "Tabs": {
-        "message": "制表符"
+        "message": "标签"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + 脚本版本"
@@ -1218,7 +1300,7 @@
         "message": "Tampermonkey 没有访问本地文件的权限！"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
-        "message": "在这个选项被禁用时，Tampermonkey 可能无法提供对不安全上下文的访问（unsafeWindow、页面的函数和变量）。"
+        "message": "在此选项被禁用时，Tampermonkey 可能无法提供对不安全上下文的访问（unsafeWindow、页面的函数和变量）。"
     },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
         "message": "Tampermonkey 需要重启才能应用此更改。\n\n您要继续吗？"
@@ -1285,7 +1367,7 @@
         }
     },
     "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
-        "message": "这个外部资源将不会自动更新! 请删除它以启用再次更新。"
+        "message": "此外部资源将不会自动更新! 请删除它以启用再次更新。"
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
         "message": "这将给予此脚本在所有页面接收和发送数据的权限。这可能不安全！\n\n您确定要继续吗？"
@@ -1320,20 +1402,25 @@
     "This_script_is_blacklisted_": {
         "message": "此脚本已被列入黑名单！"
     },
-    "This_script_runs_in_Chrome_mode": {
-        "message": "此脚本运行在 Chrome 模式中，"
-    },
     "This_script_stores_data": {
         "message": "此脚本用 Tampermonkey 存储了数据。"
     },
-    "This_script_uses_uW_gm_api_": {
-        "message": "此脚本使用了某些不被 Tampermonkey 和其他任何脚本处理程序支持的 Greasemonkey 10 API (unsafeWindow.gmonkey)。"
-    },
     "This_script_was_deleted": {
-        "message": "这个脚本已被删除"
+        "message": "此脚本已被删除"
+    },
+    "This_script_was_deleted_by_the_hoster_": {
+        "message": "此脚本已被网站删除"
     },
     "This_script_was_executed_0count0_times": {
-        "message": "这个脚本被执行 $count$ 次",
+        "message": "此脚本被执行 $count$ 次",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "This_script_was_executed_0count0_times_but_is_not_active_anymore": {
+        "message": "此脚本已执行 $count$ 次，但目前并未启用",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -1341,7 +1428,7 @@
         }
     },
     "This_script_was_not_executed_yet": {
-        "message": "这个脚本还未被执行"
+        "message": "此脚本还未被执行"
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "这将覆盖您的全局设置！"
@@ -1375,6 +1462,9 @@
     },
     "Trace": {
         "message": "追踪"
+    },
+    "Trash": {
+        "message": "🗑"
     },
     "Transpose": {
         "message": "变换"
@@ -1513,6 +1603,9 @@
     "Warning_unsafe_site_warnings_might_appear_": {
         "message": "警告：如果脚本包含潜在有害的 URL，可能会出现不安全网站的警告。"
     },
+    "WebDAV": {
+        "message": "WebDAV"
+    },
     "Whitelist": {
         "message": "白名单"
     },
@@ -1527,6 +1620,9 @@
     },
     "XHR_Security": {
         "message": "XHR 安全"
+    },
+    "Yandex_Disk": {
+        "message": "Yandex.Disk"
     },
     "Yank_Sublime_Mark": {
         "message": "Yank Sublime 标记"
@@ -1617,5 +1713,8 @@
     },
     "strict_mode": {
         "message": "严格模式"
+    },
+    "top_level_await": {
+    "message": "top-level await"
     }
 }

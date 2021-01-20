@@ -105,11 +105,11 @@
     "Action": {
         "message": "Handling"
     },
-    "Action_failed": {
-        "message": "Handlingen mislykkedes"
-    },
     "Action_Menu": {
         "message": "Handlingsmenu"
+    },
+    "Action_failed": {
+        "message": "Handlingen mislykkedes"
     },
     "Actions": {
         "message": "Handlinger"
@@ -366,9 +366,6 @@
     "Config_Mode": {
         "message": "Konfigurationstilstand"
     },
-    "Convert_Array_Assignements": {
-        "message": "Konverter [blub, bla] = s.split(':') statements"
-    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Konverter CDATA-sektioner til et browserkompatibelt format"
     },
@@ -618,9 +615,6 @@
     "Find_Under_Previous": {
         "message": "Find Under Forrige"
     },
-    "Fix_for_var_in_statements": {
-        "message": "Ret 'for (var j in x)' statements"
-    },
     "Fix_wrappedJSObject_property_access": {
         "message": "Ret wrappedJSObject property access"
     },
@@ -702,11 +696,11 @@
     "Icon_badge_color": {
         "message": "Ikonbadge Farve"
     },
-    "Icon_badge_text_color": {
-        "message": "Ikonbadge Tekstfarve"
-    },
     "Icon_badge_info": {
         "message": "Ikonbadge info"
+    },
+    "Icon_badge_text_color": {
+        "message": "Ikonbadge Tekstfarve"
     },
     "Import": {
         "message": "Importer"
@@ -1249,14 +1243,14 @@
     "TabMode": {
         "message": "FaneTilstand"
     },
+    "Tab_Size": {
+        "message": "Fane Størrelse"
+    },
     "Tab_URL": {
         "message": "Fane URL"
     },
     "Tabs": {
         "message": "Faner"
-    },
-    "Tab_Size": {
-        "message": "Fane Størrelse"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + script version"
@@ -1367,14 +1361,8 @@
     "This_script_is_blacklisted_": {
         "message": "Dette script er blacklisted!"
     },
-    "This_script_runs_in_Chrome_mode": {
-        "message": "Dette script kører i Chrome-tilstand"
-    },
     "This_script_stores_data": {
         "message": "Dette script gemmer data til Tampermonkey."
-    },
-    "This_script_uses_uW_gm_api_": {
-        "message": "Dette script bruger en del af Greasemonkey 10 API (unsafeWindow.gmonkey)\nsom ikke understøttes af Tampermonkey eller nogen alternativ script handler."
     },
     "This_script_was_deleted": {
         "message": "Dette script blev slettet"

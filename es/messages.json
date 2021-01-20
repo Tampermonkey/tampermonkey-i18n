@@ -259,9 +259,6 @@
     "Config_Mode": {
         "message": "Modo de configuración"
     },
-    "Convert_Array_Assignements": {
-        "message": "Convertir sentencias [zip, py] = s.split(':')"
-    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Convertir segmentos CDATA a formato compatible con Chrome"
     },
@@ -430,9 +427,6 @@
     },
     "Find_Previous": {
         "message": "Encontrar anterior"
-    },
-    "Fix_for_var_in_statements": {
-        "message": "Corregir sentencias 'for (var j in x)'"
     },
     "Focus_tab": {
         "message": "Centrar pestaña fuente"
@@ -919,14 +913,8 @@
     "This_script_has_full_web_access": {
         "message": "Este script tiene acceso completo a internet."
     },
-    "This_script_runs_in_Chrome_mode": {
-        "message": "Este script se ejecuta en modo Chrome"
-    },
     "This_script_stores_data": {
         "message": "Este script guarda datos en Tampermonkey."
-    },
-    "This_script_uses_uW_gm_api_": {
-        "message": "Este script usa una parte de la API de Greasemonkey 10 (unsafeWindow.gmonkey)\nque no es soportada por Tampermonkey ni ningún otro gestor de scripts."
     },
     "This_script_was_deleted": {
         "message": "Este script fue eliminado"

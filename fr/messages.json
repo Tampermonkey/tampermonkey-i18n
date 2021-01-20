@@ -352,9 +352,6 @@
     "Config_Mode": {
         "message": "Mode de configuration"
     },
-    "Convert_Array_Assignements": {
-        "message": "Convertir les déclarations [blub, bla] = s.split(':')"
-    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Convertir les sections CDATA dans un format compatible au navigateur"
     },
@@ -591,9 +588,6 @@
     },
     "Find_Under_Previous": {
         "message": "Chercher sous le précédent"
-    },
-    "Fix_for_var_in_statements": {
-        "message": "Réparer les instructions 'for (var j in x)'"
     },
     "Fix_wrappedJSObject_property_access": {
         "message": "Répare l'accès wrappedJSObject"
@@ -1314,14 +1308,8 @@
     "This_script_is_blacklisted_": {
         "message": "Ce script est sur liste noire!"
     },
-    "This_script_runs_in_Chrome_mode": {
-        "message": "Ce script tourne dans le mode Chrome"
-    },
     "This_script_stores_data": {
         "message": "Ce script enregistre des données dans Tampermonkey."
-    },
-    "This_script_uses_uW_gm_api_": {
-        "message": "Ce script utilise une partie de Greasemonkey 10 API (unsafeWindow.gmonkey)\nqui n'est pas supporté par Tampermonkey ni tout autre gestionnaire de script."
     },
     "This_script_was_deleted": {
         "message": "Ce script a été supprimé"

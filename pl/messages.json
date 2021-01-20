@@ -279,9 +279,6 @@
     "Config_Mode": {
         "message": "Tryb konfiguracji"
     },
-    "Convert_Array_Assignements": {
-        "message": "Zamień wyrażenie [blub, bla] = s.split(':')"
-    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Zamień sekcje CDATA na format zgodny z przeglądarką"
     },
@@ -444,9 +441,6 @@
     },
     "Filter_by": {
         "message": "Filtruj według"
-    },
-    "Fix_for_var_in_statements": {
-        "message": "Popraw wyrażenie 'for (var j in x)'"
     },
     "Fix_wrappedJSObject_property_access": {
         "message": "Napraw dostęp do opakowanego własnościowego JSObject"
@@ -994,14 +988,8 @@
     "This_script_is_blacklisted_": {
         "message": "Ten skrypt jest na czarnej liście!"
     },
-    "This_script_runs_in_Chrome_mode": {
-        "message": "Ten skrypt działa w trybie natywnym Chrome"
-    },
     "This_script_stores_data": {
         "message": "Ten skrypt zapisuje dane w Tampermonkey."
-    },
-    "This_script_uses_uW_gm_api_": {
-        "message": "Ten skrypt używa funkcji API Greasemonkey w wersji 10 (unsafeWindow.gmonkey)\nktóra nie jest wspierana przez Tampermonkey ani inne jego alternatywy."
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "To nadpisze twoje ustawienia globalne!"

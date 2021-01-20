@@ -55,11 +55,11 @@
     "Action": {
         "message": "Hành động"
     },
-    "Action_failed": {
-        "message": "Hành động thất bại"
-    },
     "Action_Menu": {
         "message": "Bảng chọn hành động"
+    },
+    "Action_failed": {
+        "message": "Hành động thất bại"
     },
     "Actions": {
         "message": "Hành động"

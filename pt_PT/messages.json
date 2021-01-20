@@ -252,9 +252,6 @@
     "Config_Mode": {
         "message": "Modo de Configuração"
     },
-    "Convert_Array_Assignements": {
-        "message": "Converter assignação de arrays [blub, bla] = s.split(':')"
-    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Converter secções CDATA num formato compatível com o Chrome"
     },
@@ -373,9 +370,6 @@
     },
     "File": {
         "message": "Ficheiro"
-    },
-    "Fix_for_var_in_statements": {
-        "message": "Modificar statements 'for (var j in x)'"
     },
     "Fix_wrappedJSObject_property_access": {
         "message": "Modificar acesso de propriedade wrappedJSObject"
@@ -872,14 +866,8 @@
     "This_script_is_blacklisted_": {
         "message": "Este script está na Blacklist!"
     },
-    "This_script_runs_in_Chrome_mode": {
-        "message": "Este script é executado em modo Chrome"
-    },
     "This_script_stores_data": {
         "message": "Este script guarda informação no Tampermonkey."
-    },
-    "This_script_uses_uW_gm_api_": {
-        "message": "Este script usa parte do API Greasemonkey 10 (unsafeWindow.gmonkey)\n."
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "Isto irá substituir as suas configurações globais!"

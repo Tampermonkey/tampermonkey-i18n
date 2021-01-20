@@ -105,11 +105,11 @@
     "Action": {
         "message": "إجراء"
     },
-    "Action_failed": {
-        "message": "فشل الإجراء"
-    },
     "Action_Menu": {
         "message": "قائمة الإجراءات"
+    },
+    "Action_failed": {
+        "message": "فشل الإجراء"
     },
     "Actions": {
         "message": "الإجراءات"
@@ -366,9 +366,6 @@
     "Config_Mode": {
         "message": "وضع التكوين"
     },
-    "Convert_Array_Assignements": {
-        "message": "تحويل [blub, bla] = s.split(':') عبارات"
-    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "تحويل أقسام CDATA إلى صيغة متوافقة مع كروم"
     },
@@ -618,9 +615,6 @@
     "Find_Under_Previous": {
         "message": "البحث أسفل السابق"
     },
-    "Fix_for_var_in_statements": {
-        "message": "إصلاح عبارات 'for (var j in x)'"
-    },
     "Fix_wrappedJSObject_property_access": {
         "message": "إصلاح الوصول إلى خاصية wrappedJSObject"
     },
@@ -702,11 +696,11 @@
     "Icon_badge_color": {
         "message": "لون شارة الأيقونة"
     },
-    "Icon_badge_text_color": {
-        "message": "لون نص شارة الأيقونة"
-    },
     "Icon_badge_info": {
         "message": "معلومات شارة الرمز"
+    },
+    "Icon_badge_text_color": {
+        "message": "لون نص شارة الأيقونة"
     },
     "Import": {
         "message": "استيراد"
@@ -1249,14 +1243,14 @@
     "TabMode": {
         "message": "وضعية التبويب"
     },
+    "Tab_Size": {
+        "message": "حجم التبويب"
+    },
     "Tab_URL": {
         "message": "تبويب الرابط"
     },
     "Tabs": {
         "message": "التبويبات"
-    },
-    "Tab_Size": {
-        "message": "حجم التبويب"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey ونسخة البرنامج النصي"
@@ -1367,14 +1361,8 @@
     "This_script_is_blacklisted_": {
         "message": "هذا البرنامج النصي في القائمة المحظورة"
     },
-    "This_script_runs_in_Chrome_mode": {
-        "message": "chrome هذا البرنامج النصي يعمل في وضع"
-    },
     "This_script_stores_data": {
         "message": "Tampermonkey هذه البرنامج النصي يحفظ البيانات في"
-    },
-    "This_script_uses_uW_gm_api_": {
-        "message": "يستخدم هذا البرنامج النصي جزءًا من Greasemonkey 10 API (unsafeWindow.monkey)\nالذي لا يدعمه Tampermonkey ولا أي معالج نصي بديل آخر."
     },
     "This_script_was_deleted": {
         "message": "هذا البرنامج النصي تم حذفه"

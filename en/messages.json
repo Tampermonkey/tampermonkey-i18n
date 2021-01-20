@@ -105,11 +105,11 @@
     "Action": {
         "message": "Action"
     },
-    "Action_failed": {
-        "message": "Action failed"
-    },
     "Action_Menu": {
         "message": "Action Menu"
+    },
+    "Action_failed": {
+        "message": "Action failed"
     },
     "Actions": {
         "message": "Actions"
@@ -128,6 +128,9 @@
     },
     "Add_Tampermonkey_to_the_site_s_content_csp": {
         "message": "Add Tampermonkey to the HTML's CSP"
+    },
+    "Add_to_icon_badge_text": {
+        "message": "Add to icon badge text"
     },
     "Add_as_0clude0": {
         "message": "Add as $clude$",
@@ -194,6 +197,32 @@
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "An internal error occurred. If this problem persists even after a restart of the browser, please press OK and report this issue at the forum.\n\nDo you want to visit the Tampermonkey forum?"
     },
+    "Antifeature__0name0__0description0": {
+        "message": "Contains $name$: $description$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "description": {
+                "content": "$2"
+            }
+        }
+    },
+    "Antifeature_ads": {
+        "message": "Ads"
+    },
+    "Antifeature_miner": {
+        "message": "Crypto Mining"
+    },
+    "Antifeature_no_details": {
+        "message": "No details given"
+    },
+    "Antifeature_other": {
+        "message": "a Antifeature"
+    },
+    "Antifeature_tracking": {
+        "message": "Tracking"
+    },
     "Anonymous_statistics": {
         "message": "Anonymous statistics"
     },
@@ -259,6 +288,14 @@
     },
     "Blacklist": {
         "message": "Blacklist"
+    },
+    "Blacklist_0domain0": {
+        "message": "Blacklist $domain$",
+        "placeholders": {
+            "domain": {
+                "content": "$1"
+            }
+        }
     },
     "Blacklist_Severity": {
         "message": "Block From Severity Level"
@@ -366,9 +403,6 @@
     "Config_Mode": {
         "message": "Config mode"
     },
-    "Convert_Array_Assignements": {
-        "message": "Convert [blub, bla] = s.split(':') statements"
-    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Convert CDATA sections into a browser compatible format"
     },
@@ -413,6 +447,12 @@
     },
     "Delete": {
         "message": "Delete"
+    },
+    "Delete_all": {
+        "message": "Delete all"
+    },
+    "Deleted_on": {
+        "message": "Deleted on"
     },
     "Delete_Line": {
         "message": "Delete Line"
@@ -521,7 +561,7 @@
         "message": "Enable enhanced editor"
     },
     "Enable_Script_Sync": {
-        "message": "Enable Script Sync"
+        "message": "Enable Userscript Sync"
     },
     "Enable_autoSave": {
         "message": "Save content when editor loses focus"
@@ -618,9 +658,6 @@
     "Find_Under_Previous": {
         "message": "Find Under Previous"
     },
-    "Fix_for_var_in_statements": {
-        "message": "Fix 'for (var j in x)' statements"
-    },
     "Fix_wrappedJSObject_property_access": {
         "message": "Fix wrappedJSObject property access"
     },
@@ -641,6 +678,14 @@
     },
     "Forbid_once": {
         "message": "Forbid once"
+    },
+    "Found_0count0_available_scripts": {
+        "message": "Found $count$ available scripts",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
     },
     "Full_reset": {
         "message": "Factory reset"
@@ -700,19 +745,33 @@
         "message": "I don't want to donate"
     },
     "Icon_badge_color": {
-        "message": "Icon Badge Color"
-    },
-    "Icon_badge_text_color": {
-        "message": "Icon Badge Text Color"
+        "message": "Icon badge color"
     },
     "Icon_badge_info": {
-        "message": "Icon Badge Info"
+        "message": "Icon badge info"
+    },
+    "Icon_badge_text_color": {
+        "message": "Icon badge text color"
     },
     "Import": {
         "message": "Import"
     },
     "Imported": {
         "message": "Imported"
+    },
+    "In_order_to_search_for_userscripts__0on_action_menu0__and__0icon_badge_number0__automatically_transfer_the_tab_s_url_to_the_search_website__0on_click0_opens_the_search_page_on_click_Please_click_at_this_icon_to_open_the_privacy_policy_": {
+        "message": "In mode \"$icon_badge_number$\" the tab's URL is automatically\ntransferred to the search website and used as search value.\n\nIn mode \"$on_action_menu$\" a search using the URL is done only \nwhen the action menu is opened.\n\n\"$on_click$\" only opens the search site on a click at the action menu item.\n\nClick here to open the search site's privacy policy.",
+        "placeholders": {
+            "icon_badge_number": {
+                "content": "$1"
+            },
+            "on_action_menu": {
+                "content": "$2"
+            },
+            "on_click": {
+                "content": "$3"
+            }
+        }
     },
     "Include_TM_settings": {
         "message": "Include Tampermonkey settings"
@@ -775,16 +834,16 @@
         "message": "Installed Version"
     },
     "Installed_userscripts": {
-        "message": "Installed userscripts"
+        "message": "Installed Userscripts"
     },
     "Instant": {
         "message": "Instant"
     },
     "Invalid_UserScript__Sry_": {
-        "message": "Invalid UserScript. Sry!"
+        "message": "Invalid Userscript. Sry!"
     },
     "Invalid_UserScript_name__Sry_": {
-        "message": "Invalid UserScript name. Sry!"
+        "message": "Invalid Userscript name. Sry!"
     },
     "Join_Lines": {
         "message": "Join Lines"
@@ -879,6 +938,9 @@
     "No": {
         "message": "No"
     },
+    "No_available_scripts": {
+        "message": "No available scripts"
+    },
     "No_backups_found": {
         "message": "No backups found"
     },
@@ -917,6 +979,12 @@
     },
     "On": {
         "message": "On"
+    },
+    "On_Action_Menu": {
+        "message": "On action menu"
+    },
+    "On_Click": {
+        "message": "On click"
     },
     "OneDrive": {
         "message": "OneDrive"
@@ -983,6 +1051,9 @@
     "Position_": {
         "message": "Position"
     },
+    "Press_ctrl_to_toggle_all_checkboxes": {
+        "message": "Press Ctrl/Cmd to toggle all checkboxes"
+    },
     "Prev_Bookmark": {
         "message": "Prev Bookmark"
     },
@@ -1017,6 +1088,9 @@
     },
     "Reinstall": {
         "message": "Reinstall"
+    },
+    "Reload": {
+        "message": "Reload"
     },
     "Remind_me_later": {
         "message": "Remind me later"
@@ -1063,6 +1137,12 @@
     "Restart_Tampermonkey": {
         "message": "Restart Tampermonkey"
     },
+    "Restore_all": {
+        "message": "Restore all"
+    },
+    "Restore": {
+        "message": "Restore"
+    },
     "Revoke_Access_Token": {
         "message": "Revoke Access Token"
     },
@@ -1082,7 +1162,7 @@
         "message": "Save to disk"
     },
     "Script_0name0_is_slowing_down_some_page_loads_": {
-        "message": "Script '$name$' is slowing down your page loads",
+        "message": "Userscript '$name$' is slowing down your page loads",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1090,16 +1170,16 @@
         }
     },
     "Script_Blacklist_Source": {
-        "message": "Script Blacklist Source"
+        "message": "Userscript Blacklist Source"
     },
     "Script_Sync": {
-        "message": "Script Sync"
+        "message": "Userscript Sync"
     },
     "Script_URL_detection": {
-        "message": "Script URL detection"
+        "message": "Userscript URL detection"
     },
     "Script_Update": {
-        "message": "Script Update"
+        "message": "Userscript Update"
     },
     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
         "message": "Script authors can secure external resources by adding a SRI hash to the source URL."
@@ -1108,7 +1188,7 @@
         "message": "Allow scripts to access local files"
     },
     "Script_name_0name0": {
-        "message": "Script name: $name$",
+        "message": "Userscript name: $name$",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1116,13 +1196,19 @@
         }
     },
     "Script_order": {
-        "message": "Script order"
+        "message": "Userscript order"
     },
     "Search": {
         "message": "Search"
     },
     "Search_for": {
         "message": "Search for"
+    },
+    "Search_for_userscripts_for_this_tab": {
+        "message": "Search for userscripts for this page"
+    },
+    "Searching_for_userscripts_for_this_tab": {
+        "message": "Searching for userscripts..."
     },
     "Security": {
         "message": "Security"
@@ -1249,17 +1335,20 @@
     "TabMode": {
         "message": "TabMode"
     },
+    "Tab_Size": {
+        "message": "Tab Size"
+    },
     "Tab_URL": {
         "message": "Tab URL"
     },
     "Tabs": {
         "message": "Tabs"
     },
-    "Tab_Size": {
-        "message": "Tab Size"
-    },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + script version"
+    },
+    "Tampermonkey_has_no_access_to_this_page": {
+        "message": "Tampermonkey has no access to this page"
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey has no permission to access local files!"
@@ -1367,17 +1456,14 @@
     "This_script_is_blacklisted_": {
         "message": "This script is blacklisted!"
     },
-    "This_script_runs_in_Chrome_mode": {
-        "message": "This script runs in Chrome mode"
-    },
     "This_script_stores_data": {
         "message": "This script stores data to Tampermonkey."
     },
-    "This_script_uses_uW_gm_api_": {
-        "message": "This script uses a part of Greasemonkey 10 API (unsafeWindow.gmonkey)\nthat is not supported by Tampermonkey nor any other alternative script handler."
-    },
     "This_script_was_deleted": {
         "message": "This script was deleted"
+    },
+    "This_script_was_deleted_by_the_hoster_": {
+        "message": "This script was deleted by the hoster"
     },
     "This_script_was_executed_0count0_times": {
         "message": "This script was executed $count$ time(s)",
@@ -1430,6 +1516,9 @@
     },
     "Trace": {
         "message": "Trace"
+    },
+    "Trash": {
+        "message": "🗑"
     },
     "Transpose": {
         "message": "Transpose"
@@ -1501,7 +1590,7 @@
         "message": "Update URL"
     },
     "Update_check_is_disabled": {
-        "message": "Script update check is disabled or not possible"
+        "message": "Userscript update check is disabled or not possible"
     },
     "Update_interval": {
         "message": "Update Interval"
@@ -1537,6 +1626,12 @@
     },
     "User_modified": {
         "message": "Modified"
+    },
+    "Userscript_Search": {
+        "message": "Userscript Search"
+    },
+    "Userscript_search_integration_mode": {
+        "message": "Userscript Search integration"
     },
     "Userscripts": {
         "message": "Userscripts"
@@ -1599,16 +1694,16 @@
         "message": "Attention! Userscript downgrade"
     },
     "You_are_about_to_install_a_UserScript_": {
-        "message": "UserScript installation"
+        "message": "Userscript installation"
     },
     "You_are_about_to_modify_a_UserScript_": {
-        "message": "UserScript modification"
+        "message": "Userscript modification"
     },
     "You_are_about_to_reinstall_a_UserScript_": {
-        "message": "UserScript re-installation"
+        "message": "Userscript re-installation"
     },
     "You_are_about_to_update_a_UserScript_": {
-        "message": "UserScript update"
+        "message": "Userscript update"
     },
     "You_can_add_your_custom_CSS_rules_here_": {
         "message": "You can add your own CSS rules for the Tampermonkey UI here. In case this breaks something you can get the default layout by appending ?layout=reset to the options page URL."
@@ -1678,5 +1773,8 @@
     },
     "strict_mode": {
         "message": "strict mode"
+    },
+    "top_level_await": {
+        "message": "top-level await"
     }
 }

@@ -255,9 +255,6 @@
     "Config_Mode": {
         "message": "Úroveň nastavení"
     },
-    "Convert_Array_Assignements": {
-        "message": "Previesť výskyty [blub, bla] = s.split(':')"
-    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Previesť sekcie CDATA do formátu kompatibilného s Chromom"
     },
@@ -402,9 +399,6 @@
     },
     "File": {
         "message": "Textový súbor"
-    },
-    "Fix_for_var_in_statements": {
-        "message": "Opraviť výskyty 'for (var j in x)'"
     },
     "Fix_wrappedJSObject_property_access": {
         "message": "Opraviť prístup vlastností wrappedJSObject"
@@ -916,14 +910,8 @@
     "This_script_is_blacklisted_": {
         "message": "Tento skript je na blackliste!"
     },
-    "This_script_runs_in_Chrome_mode": {
-        "message": "Tento skript beží v Chrome móde"
-    },
     "This_script_stores_data": {
         "message": "Tento skript ukladá dáta v Tampermonkey."
-    },
-    "This_script_uses_uW_gm_api_": {
-        "message": "Tento skript je súčasťou Greasemonkey 10 API (unsafeWindow.gmonkey),\nktoré Tampermonkey ani iný alternatívny správca skriptov nepodporuje."
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "Toto prepíše globálne nastavenia!"

@@ -197,9 +197,6 @@
     "Config_Mode": {
         "message": "Konfigurálási mód"
     },
-    "Convert_Array_Assignements": {
-        "message": "[blub, bla] = s.split(':') utasítás konvertálása"
-    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "CDATA szekció konvertálása Chrome kompatibilis formátumba "
     },
@@ -326,9 +323,6 @@
     },
     "File": {
         "message": "Fájl"
-    },
-    "Fix_for_var_in_statements": {
-        "message": "Javítás a 'for (var j in x)' utasításra"
     },
     "Fix_wrappedJSObject_property_access": {
         "message": "Javítsd ki a wrappedJSObject tulajdonságainak elérését"
@@ -752,14 +746,8 @@
     "This_script_is_blacklisted_": {
         "message": "Ez a szkript feketelistás!"
     },
-    "This_script_runs_in_Chrome_mode": {
-        "message": "Ez a szkript Chrome üzemmódban fut "
-    },
     "This_script_stores_data": {
         "message": "Ez a szkript adatokat tárol."
-    },
-    "This_script_uses_uW_gm_api_": {
-        "message": "Ez a szkript a tízes Greasmonkey API egy részét használja (unsafeWindow.gmonkey)\nezt nem támogatja a Tampermonkey vagy bármilyen más szkript kezelő."
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "Ez felül fogja írni a globális beállításokat!"

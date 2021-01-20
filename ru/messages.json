@@ -363,9 +363,6 @@
     "Config_Mode": {
         "message": "Режим конфигурации"
     },
-    "Convert_Array_Assignements": {
-        "message": "Конвертировать [blub, bla] = s.split(':') выражения"
-    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Конвертировать разделы CDATA в формат, совместимый с браузером"
     },
@@ -605,9 +602,6 @@
     },
     "Find_Under_Previous": {
         "message": "Найти до предыдущего"
-    },
-    "Fix_for_var_in_statements": {
-        "message": "Исправлять выражения 'for (var j in x)'"
     },
     "Fix_wrappedJSObject_property_access": {
         "message": "Исправить доступ к свойству wrappedJSObject"
@@ -1337,14 +1331,8 @@
     "This_script_is_blacklisted_": {
         "message": "Этот скрипт в чёрном списке!"
     },
-    "This_script_runs_in_Chrome_mode": {
-        "message": "Этот скрипт работает в режиме Chrome"
-    },
     "This_script_stores_data": {
         "message": "Этот скрипт сохраняет данные в Tampermonkey."
-    },
-    "This_script_uses_uW_gm_api_": {
-        "message": "Этот скрипт использует часть API Greasemonkey 10 (unsafeWindow.gmonkey)\nкоторая не поддерживается ни Tampermonkey, ни любым другим альтернативным обработчиком скриптов."
     },
     "This_script_was_deleted": {
         "message": "Этот скрипт был удален"
