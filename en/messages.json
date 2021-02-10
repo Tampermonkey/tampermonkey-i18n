@@ -1068,6 +1068,9 @@
             }
         }
     },
+    "Really_delete_all_userscripts_": {
+        "message": "Do you really want to permanently delete all userscripts?"
+    },
     "Really_delete_the_selected_items_": {
         "message": "Do you really want to delete all selected items?"
     },
@@ -1079,6 +1082,9 @@
     },
     "Really_reset_all_changes_": {
         "message": "Really reset all changes?"
+    },
+    "Really_restore_all_userscripts_": {
+        "message": "Do you really want to restore all userscripts?"
     },
     "Redo": {
         "message": "Redo"
