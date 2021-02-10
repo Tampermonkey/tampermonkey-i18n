@@ -55,6 +55,17 @@
     "A_reload_is_required": {
         "message": "再読み込みが必要です: \n保存していない変更はすべて失われます!"
     },
+    "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
+        "message": "オリジン間リソースへのリクエストは珍しいことではありません。\nこのスクリプトにこのドメインにアクセスする正当な理由があるかどうかを確認する必要があります。\n例えば、UserScript がご利用の銀行に問い合わせる理由はごくわずかです。\n\nUserScript の作者は、スクリプトに [url=$connect$]@connect タグ[/url]を追加することで、\nこのダイアログを回避できることにご注意ください。\n\nあなたがどう判断した場合でも、スクリプトの[url=$settings$]設定タブ[/url]でいつでも変更できます。",
+        "placeholders": {
+            "connect": {
+                "content": "$1"
+            },
+            "settings": {
+                "content": "$2"
+            }
+        }
+    },
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
         "message": "UserScript がオリジン間リソースへのアクセスを要求しています。"
     },
@@ -78,6 +89,9 @@
     },
     "Add_Tampermonkey_to_the_site_s_content_csp": {
         "message": "Tampermonkey をサイトのコンテンツ CSP に追加"
+    },
+    "Add_to_icon_badge_text": {
+        "message": "アイコン バッジ テキストに追加"
     },
     "Add_as_0clude0": {
         "message": "$clude$ として追加",
@@ -143,6 +157,29 @@
     },
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "内部エラーが発生しました。この問題点が継続する場合は、OK を押してこの問題点をフォーラムで報告してください。\n\nTampermonkey フォーラムに移動しますか?"
+    },
+    "Antifeature__0name0__0description0": {
+        "message": "$name$ を含みます: $description$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "description": {
+                "content": "$2"
+            }
+        }
+    },
+    "Antifeature_ads": {
+        "message": "広告"
+    },
+    "Antifeature_miner": {
+        "message": "暗号マイニング"
+    },
+    "Antifeature_no_details": {
+        "message": "詳細はありません"
+    },
+    "Antifeature_tracking": {
+        "message": "追跡"
     },
     "Anonymous_statistics": {
         "message": "匿名の統計"
@@ -362,6 +399,12 @@
     },
     "Delete": {
         "message": "削除"
+    },
+    "Delete_all": {
+        "message": "すべて削除"
+    },
+    "Deleted_on": {
+        "message": "削除日"
     },
     "Delete_Line": {
         "message": "行を削除"
@@ -631,6 +674,20 @@
     },
     "Imported": {
         "message": "インポート済み"
+    },
+    "In_order_to_search_for_userscripts__0on_action_menu0__and__0icon_badge_number0__automatically_transfer_the_tab_s_url_to_the_search_website__0on_click0_opens_the_search_page_on_click_Please_click_at_this_icon_to_open_the_privacy_policy_": {
+        "message": "モード「$icon_badge_number$」では、タブの URL が検索 Web サイトに自動的に転送され、\n検索値として使用されます。\n\nモード「$on_action_menu$」では、URL を使用した検索は、\n操作メニューが開かれた際にのみ実行されます。\n\n「$on_click$」は、操作メニューの項目をクリックした際にのみ検索サイトを開きます。\n\n検索サイトのプライバシー ポリシーを開くには、ここをクリックしてください。",
+        "placeholders": {
+            "icon_badge_number": {
+                "content": "$1"
+            },
+            "on_action_menu": {
+                "content": "$2"
+            },
+            "on_click": {
+                "content": "$3"
+            }
+        }
     },
     "Include_TM_settings": {
         "message": "Tampermonkey の設定を含める"
@@ -907,6 +964,9 @@
     "Position_": {
         "message": "実行順"
     },
+    "Press_ctrl_to_toggle_all_checkboxes": {
+        "message": "チェックボックスをすべて反転するには Ctrl/Cmd を押してください"
+    },
     "Prev_Bookmark": {
         "message": "前のブックマーク"
     },
@@ -989,6 +1049,12 @@
     },
     "Restart_Tampermonkey": {
         "message": "Tampermonkey を再起動"
+    },
+    "Restore_all": {
+        "message": "すべて復元"
+    },
+    "Restore": {
+        "message": "復元"
     },
     "Revoke_Access_Token": {
         "message": "アクセス トークンを失効させる"
@@ -1290,6 +1356,9 @@
     },
     "This_script_was_deleted": {
         "message": "このスクリプトは削除されました"
+    },
+    "This_script_was_deleted_by_the_hoster_": {
+        "message": "このスクリプトはホストによって削除されました"
     },
     "This_script_was_executed_0count0_times": {
         "message": "このスクリプトは$count$回実行されました",
