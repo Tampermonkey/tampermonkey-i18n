@@ -807,6 +807,9 @@
             }
         }
     },
+    "Really_delete_all_userscripts_": {
+        "message": "Sollen wirklich alle Userscripts entgültig gelöscht werden?"
+    },
     "Really_delete_the_selected_items_": {
         "message": "Sollen wirklich alle ausgewählten Elemente gelöscht werden?"
     },
@@ -818,6 +821,9 @@
     },
     "Really_reset_all_changes_": {
         "message": "Wirklich alle Änderungen zurücksetzen?"
+    },
+    "Really_restore_all_userscripts_": {
+        "message": "Möchten Sie wirklich alle Userscripts wiederherstellen?"
     },
     "Reindent_on_typing": {
         "message": "Einrückung beim Schreiben"
