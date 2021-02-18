@@ -1026,6 +1026,10 @@
             }
         }
     },
+
+    "Really_delete_all_userscripts_": {
+        "message": "您真的要永久删除所有用户脚本吗？"
+    },
     "Really_delete_the_selected_items_": {
         "message": "您真的要删除选择的项目吗？"
     },
@@ -1037,6 +1041,9 @@
     },
     "Really_reset_all_changes_": {
         "message": "确定重置所有更改吗？"
+    },
+    "Really_restore_all_userscripts_": {
+        "message": "您真的想恢复所有用户脚本吗？"
     },
     "Redo": {
         "message": "重做"
