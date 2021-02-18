@@ -129,6 +129,9 @@
     "Add_Tampermonkey_to_the_site_s_content_csp": {
         "message": "Aggiungi Tampermonkey all'HTML CSP"
     },
+    "Add_to_icon_badge_text": {
+        "message": "Aggiungi a testo badge icona"
+    },
     "Add_as_0clude0": {
         "message": "Aggiungi come $clude$",
         "placeholders": {
@@ -193,6 +196,32 @@
     },
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "Si è verificato un errore interno.\nSe il problema persiste anche dopo un riavvio dl browser, seleziona OK e segnala questo problema nel forum.\n\nVuoi visitare il forum di Tampermonkey?"
+    },
+    "Antifeature__0name0__0description0": {
+        "message": "Contiene $name$: $description$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "description": {
+                "content": "$2"
+            }
+        }
+    },
+    "Antifeature_ads": {
+        "message": "Pubblicità"
+    },
+    "Antifeature_miner": {
+        "message": "Crypto Mining"
+    },
+    "Antifeature_no_details": {
+        "message": "Nessun dettaglio fornito"
+    },
+    "Antifeature_other": {
+        "message": "una antifunzione"
+    },
+    "Antifeature_tracking": {
+        "message": "Tracciatura"
     },
     "Anonymous_statistics": {
         "message": "Statistiche anonime"
@@ -259,6 +288,14 @@
     },
     "Blacklist": {
         "message": "Elenco vietati"
+    },
+    "Blacklist_0domain0": {
+        "message": "Elenco non autorizzati $domain$",
+        "placeholders": {
+            "domain": {
+                "content": "$1"
+            }
+        }
     },
     "Blacklist_Severity": {
         "message": "Blocca da livello di severità"
@@ -410,6 +447,12 @@
     },
     "Delete": {
         "message": "Elimina"
+    },
+    "Delete_all": {
+        "message": "Elimina tutto"
+    },
+    "Deleted_on": {
+        "message": "Elimina su"
     },
     "Delete_Line": {
         "message": "Elimina linea"
@@ -636,6 +679,14 @@
     "Forbid_once": {
         "message": "Vieta una volta"
     },
+    "Found_0count0_available_scripts": {
+        "message": "Trovati $count$ script disponibili",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
     "Full_reset": {
         "message": "Ripristino di fabbrica"
     },
@@ -707,6 +758,20 @@
     },
     "Imported": {
         "message": "Importato"
+    },
+    "In_order_to_search_for_userscripts__0on_action_menu0__and__0icon_badge_number0__automatically_transfer_the_tab_s_url_to_the_search_website__0on_click0_opens_the_search_page_on_click_Please_click_at_this_icon_to_open_the_privacy_policy_": {
+        "message": "Nella modalità \"$icon_badge_number$\" l'URL della scheda è automaticamente\ntrasferito al sito di ricerca e usato come valore ricerca.\n\nNella modalità \"$on_action_menu$\" viene effettuata una ricerca usando l'URL solo\nquando il menu azioni è aperto.\n\n\"$on_click$\" apre solo il sito di ricerca con un clic sull'elemento del menu azioni.\n\nFai clic qui per aprire la policy della privacy per il sito di ricerca.",
+        "placeholders": {
+            "icon_badge_number": {
+                "content": "$1"
+            },
+            "on_action_menu": {
+                "content": "$2"
+            },
+            "on_click": {
+                "content": "$3"
+            }
+        }
     },
     "Include_TM_settings": {
         "message": "Includi impostazioni  Tampermonkey"
@@ -873,6 +938,9 @@
     "No": {
         "message": "No"
     },
+    "No_available_scripts": {
+        "message": "Nessuno script disponibile"
+    },
     "No_backups_found": {
         "message": "Nessun backup trovato"
     },
@@ -911,6 +979,12 @@
     },
     "On": {
         "message": "ON"
+    },
+    "On_Action_Menu": {
+        "message": "Nel menu azioni"
+    },
+    "On_Click": {
+        "message": "Con un clic"
     },
     "OneDrive": {
         "message": "OneDrive"
@@ -977,6 +1051,9 @@
     "Position_": {
         "message": "Posizione"
     },
+    "Press_ctrl_to_toggle_all_checkboxes": {
+        "message": "Premi Ctrl/Cmd per attivare/disattivare tutti i box di controllo"
+    },
     "Prev_Bookmark": {
         "message": "Segnalibro precedente"
     },
@@ -991,6 +1068,9 @@
             }
         }
     },
+    "Really_delete_all_userscripts_": {
+        "message": "Vuoi veramente eliminare permanentemente tutti gli script utente?"
+    },
     "Really_delete_the_selected_items_": {
         "message": "Vuoi eliminare le voci selezionate?"
     },
@@ -1003,6 +1083,9 @@
     "Really_reset_all_changes_": {
         "message": "Sei sicuro di voler annullare tutte le modifiche?"
     },
+    "Really_restore_all_userscripts_": {
+        "message": "Vuoi veramente ripristinare tutti gli script utente?"
+    },
     "Redo": {
         "message": "Riapplica modifica"
     },
@@ -1011,6 +1094,9 @@
     },
     "Reinstall": {
         "message": "Re-installa"
+    },
+    "Reload": {
+        "message": "Ricarica"
     },
     "Remind_me_later": {
         "message": "Ricordamelo più tardi."
@@ -1056,6 +1142,12 @@
     },
     "Restart_Tampermonkey": {
         "message": "Riavvia Tampermonkey"
+    },
+    "Restore_all": {
+        "message": "Ripristina tutto"
+    },
+    "Restore": {
+        "message": "Ripristina"
     },
     "Revoke_Access_Token": {
         "message": "Revoca token accesso"
@@ -1117,6 +1209,12 @@
     },
     "Search_for": {
         "message": "Cerca"
+    },
+    "Search_for_userscripts_for_this_tab": {
+        "message": "Cerca script utente in questa pagina"
+    },
+    "Searching_for_userscripts_for_this_tab": {
+        "message": "Ricerca script utente..."
     },
     "Security": {
         "message": "Sicurezza"
@@ -1255,6 +1353,9 @@
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + versione script"
     },
+    "Tampermonkey_has_no_access_to_this_page": {
+        "message": "Tampermonkey non ha accesso a questa pagina"
+    },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey non ha il permesso di accedere ai file locali!"
     },
@@ -1367,6 +1468,9 @@
     "This_script_was_deleted": {
         "message": "Questo script è stato eliminato"
     },
+    "This_script_was_deleted_by_the_hoster_": {
+        "message": "Questo script è stato eliminato dall'hoster"
+    },
     "This_script_was_executed_0count0_times": {
         "message": "Questo script è stato eseguito $count$ volte",
         "placeholders": {
@@ -1418,6 +1522,9 @@
     },
     "Trace": {
         "message": "Traccia"
+    },
+    "Trash": {
+        "message": "🗑"
     },
     "Transpose": {
         "message": "Transponi"
@@ -1525,6 +1632,12 @@
     },
     "User_modified": {
         "message": "Modificato"
+    },
+    "Userscript_Search": {
+        "message": "Ricerca script utente"
+    },
+    "Userscript_search_integration_mode": {
+        "message": "Integrazione ricerca script utente"
     },
     "Userscripts": {
         "message": "Script"
@@ -1666,5 +1779,8 @@
     },
     "strict_mode": {
         "message": "modo esatto"
+    },
+    "top_level_await": {
+        "message": "attesa livello superiore"
     }
 }
