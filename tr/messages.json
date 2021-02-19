@@ -194,6 +194,32 @@
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "Dahili bir hata oluştu. Tarayıcının yeniden başlatılmasından sonra bile bu sorun devam ediyorsa, lütfen Tamam düğmesine basın ve bu sorunu forumda bildirin.\n\nTampermonkey forumunu ziyaret etmek istiyor musunuz?"
     },
+    "Antifeature__0name0__0description0": {
+        "message": "İçerik $name$: $description$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "description": {
+                "content": "$2"
+            }
+        }
+    },
+    "Antifeature_ads": {
+        "message": "Reklamlar"
+    },
+    "Antifeature_miner": {
+        "message": "Kripto Madenciliği"
+    },
+    "Antifeature_no_details": {
+        "message": "Detay verilmedi"
+    },
+    "Antifeature_other": {
+        "message": "Bir Antiözellik"
+    },
+    "Antifeature_tracking": {
+        "message": "Takip"
+    },
     "Anonymous_statistics": {
         "message": "İsimsiz istatistikler"
     },
@@ -410,6 +436,12 @@
     },
     "Delete": {
         "message": "Sil"
+    },
+    "Delete_all": {
+        "message": "Tümünü sil"
+    },
+    "Deleted_on": {
+        "message": "Silinme"
     },
     "Delete_Line": {
         "message": "Satırı sil"
@@ -769,7 +801,7 @@
         "message": "Yüklenmiş Sürüm"
     },
     "Installed_userscripts": {
-        "message": "Yüklenmiş kullanıcı betikleri"
+        "message": "Yüklenmiş Kullanıcı Betikleri"
     },
     "Instant": {
         "message": "Anlık"
@@ -977,6 +1009,9 @@
     "Position_": {
         "message": "Konum"
     },
+    "Press_ctrl_to_toggle_all_checkboxes": {
+        "message": "Ctrl/Cmd basıp tüm kutucukları değiştirin"
+    },
     "Prev_Bookmark": {
         "message": "Önceki yer imi"
     },
@@ -991,6 +1026,9 @@
             }
         }
     },
+    "Really_delete_all_userscripts_": {
+        "message": "Gerçekten tüm betikleri kalıcı olarak silmek istiyor musunuz?"
+    },
     "Really_delete_the_selected_items_": {
         "message": "Seçilen öğeleri gerçekten silmek istiyor musunuz?"
     },
@@ -1003,6 +1041,9 @@
     "Really_reset_all_changes_": {
         "message": "Gerçekten tüm değişikler sıfırlansın mı?"
     },
+    "Really_restore_all_userscripts_": {
+        "message": "Gerçekten tüm betikleri geri yüklemek istiyor musunuz?"
+    }
     "Redo": {
         "message": "İleri al"
     },
@@ -1056,6 +1097,12 @@
     },
     "Restart_Tampermonkey": {
         "message": "Tampermonkey'i Yeniden Başlat"
+    },
+    "Restore_all": {
+        "message": "Tümünü geri getir"
+    },
+    "Restore": {
+        "message": "Geri getir"
     },
     "Revoke_Access_Token": {
         "message": "Giriş Yetkisini Kaldır"
@@ -1367,6 +1414,9 @@
     "This_script_was_deleted": {
         "message": "Bu betik silindi"
     },
+    "This_script_was_deleted_by_the_hoster_": {
+        "message": "Bu betik barındırıcı tarafından silindi"
+    },
     "This_script_was_executed_0count0_times": {
         "message": "Bu betik $count$ defa çalıştırıldı",
         "placeholders": {
@@ -1418,6 +1468,9 @@
     },
     "Trace": {
         "message": "İzle"
+    },
+    "Trash": {
+        "message": "🗑"
     },
     "Transpose": {
         "message": "Yerini değiştir"
@@ -1666,5 +1719,8 @@
     },
     "strict_mode": {
         "message": "katı mod"
+    },
+    "top_level_await": {
+        "message": "üst seviye bekleme"
     }
 }
