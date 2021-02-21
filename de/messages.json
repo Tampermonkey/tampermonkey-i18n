@@ -555,6 +555,9 @@
     "Hide_notification_after": {
         "message": "Update-Benachrichtigung ausblenden nach"
     },
+    "Highlight_selection_matches": {
+        "message": "Textauswahlübereinstimmungen markieren"
+    },
     "Highlight_trailing_whitespace": {
         "message": "Leerzeichen am Ende der Zeile markieren"
     },

@@ -415,6 +415,9 @@
     "Current_Version": {
         "message": "Current Version"
     },
+    "Cursor": {
+        "message": "Cursor"
+    },
     "Custom_CSS": {
         "message": "Custom CSS"
     },
@@ -732,6 +735,9 @@
     "Hide_notification_after": {
         "message": "Hide notification after"
     },
+    "Highlight_selection_matches": {
+        "message": "Highlight selection matches"
+    },
     "Highlight_trailing_whitespace": {
         "message": "Highlight trailing whitespace"
     },
@@ -879,7 +885,7 @@
         "message": "Line Up"
     },
     "Line_break": {
-        "message": "Line break"
+        "message": "Auto Line break"
     },
     "Lines": {
         "message": "Lines"
