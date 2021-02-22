@@ -404,6 +404,9 @@
     "Current_Version": {
         "message": "Mevcut Sürüm"
     },
+    "Cursor": {
+        "message": "İşaretçi"
+    },
     "Custom_CSS": {
         "message": "Kişisel CSS"
     },
@@ -713,8 +716,11 @@
     "Hide_notification_after": {
         "message": "Sonraki bildirimleri gizle"
     },
+    "Highlight_selection_matches": {
+        "message": "Eşleşen seçimleri vurgula"
+    },
     "Highlight_trailing_whitespace": {
-        "message": "Arka boşlukları vurgulayın"
+        "message": "Arka boşlukları vurgula"
     },
     "Homepage": {
         "message": "Ana sayfa"
@@ -846,7 +852,7 @@
         "message": "Yukarı satır"
     },
     "Line_break": {
-        "message": "Satır arası"
+        "message": "Otomatik satır sonu"
     },
     "Lines": {
         "message": "Satırlar"
