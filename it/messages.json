@@ -415,6 +415,9 @@
     "Current_Version": {
         "message": "Versione installata"
     },
+    "Cursor": {
+        "message": "Cursore"
+    },
     "Custom_CSS": {
         "message": "CSS utente"
     },
@@ -731,6 +734,9 @@
     },
     "Hide_notification_after": {
         "message": "Nascondi notifica dopo"
+    },
+    "Highlight_selection_matches": {
+        "message": "Evidenzia selezioni corrispondenti"
     },
     "Highlight_trailing_whitespace": {
         "message": "Evidenzia spazi inziali/finali"
