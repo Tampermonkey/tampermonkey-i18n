@@ -178,6 +178,9 @@
     "Antifeature_no_details": {
         "message": "詳細はありません"
     },
+    "Antifeature_other": {
+        "message": "対策機能"
+    },
     "Antifeature_tracking": {
         "message": "追跡"
     },
@@ -194,7 +197,7 @@
         "message": "選択したスクリプトすべてにこの操作を適用"
     },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
-        "message": "Tampermonkey がブラウザーによって更新される際、同時に再起動もされます。残念ですが、これにより実行中のスクリプトが壊れる場合があります!\n\n更新を通知しないように本当に設定しますか?"
+        "message": "Tampermonkey がブラウザーによって更新される際、同時に再起動もされます。残念ですが、これにより実行中のスクリプトが壊れる場合があります!\n\n更新を通知しないように設定してよろしいですか?"
     },
     "Ask_if_unknown": {
         "message": "不明な場合は確認"
@@ -367,6 +370,9 @@
     "Current_Version": {
         "message": "現在のバージョン"
     },
+    "Cursor": {
+        "message": "カーソル"
+    },
     "Custom_CSS": {
         "message": "カスタム CSS"
     },
@@ -446,7 +452,7 @@
         "message": "無効化されているスクリプト数"
     },
     "Do_you_really_want_to_store_fixed_code_": {
-        "message": "オプション「$option$」が有効です!\n\n修正されたソースを本当に保存しますか?",
+        "message": "オプション「$option$」が有効です!\n\n修正されたソースを保存してよろしいですか?",
         "placeholders": {
             "option": {
                 "content": "$1"
@@ -974,24 +980,30 @@
         "message": "ブラウザーで処理"
     },
     "Really_delete_0name0__": {
-        "message": "本当に「$name$」を削除しますか?",
+        "message": "「$name$」を削除してよろしいですか?",
         "placeholders": {
             "name": {
                 "content": "$1"
             }
         }
     },
+    "Really_delete_all_userscripts_": {
+        "message": "UserScript をすべて完全に削除してよろしいですか?"
+    },
     "Really_delete_the_selected_items_": {
-        "message": "選択した項目を本当に削除しますか?"
+        "message": "選択した項目を削除してよろしいですか?"
     },
     "Really_factory_reset_the_selected_items_": {
-        "message": "選択した項目を本当に初期化しますか?"
+        "message": "選択した項目を初期化してよろしいですか?"
     },
     "Really_factory_reset_this_script_": {
-        "message": "このスクリプトを本当に初期化しますか?"
+        "message": "このスクリプトを初期化してよろしいですか?"
     },
     "Really_reset_all_changes_": {
-        "message": "すべての変更を本当にリセットしますか?"
+        "message": "すべての変更をリセットしてよろしいですか?"
+    },
+    "Really_restore_all_userscripts_": {
+        "message": "UserScript をすべて復元してよろしいですか?"
     },
     "Redo": {
         "message": "やり直し"
@@ -1305,7 +1317,7 @@
         "message": "テーマ"
     },
     "There_are_unsaved_changed_": {
-        "message": "保存されていない変更があります。\nエディターを本当に閉じますか?"
+        "message": "保存されていない変更があります。\nエディターを閉じてよろしいですか?"
     },
     "There_is_an_update_for_0name0_avaiable_": {
         "message": "「$name$」の更新を利用できます。 :)",
@@ -1319,7 +1331,7 @@
         "message": "この外部リソースは自動更新されません! 再度更新を有効にするには削除してください。"
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
-        "message": "この操作によりこのスクリプトにあらゆるウェブページにデータを送受信する権限を与えることになります。これは潜在的に危険です!\n\n本当に続行しますか?"
+        "message": "この操作によりこのスクリプトにあらゆるウェブページにデータを送受信する権限を与えることになります。これは潜在的に危険です!\n\n続行してよろしいですか?"
     },
     "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
         "message": "このスクリプトの出所を特定できません。\n第三者が非公開データまたは一部の基本的なブラウザー設定を盗むためにインストールしたか、またはオペレーティング システムまたはハードウェアが変更されました。\nこの変更により、スクリプトが有効になります!"
@@ -1383,13 +1395,13 @@
         "message": "この操作により、グローバル設定が上書きされます!"
     },
     "This_will_remove_all_remote_data_from_sync_Ok_": {
-        "message": "Sync からすべてのデータを本当に除去しますか?"
+        "message": "Sync からすべてのデータを除去してよろしいですか?"
     },
     "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
-        "message": "すべてのスクリプトの除去とすべての設定のリセットの両方を本当に実行しますか?"
+        "message": "すべてのスクリプトの除去とすべての設定のリセットの両方を実行してよろしいですか?"
     },
     "This_will_restart_Tampermonkey_Ok_": {
-        "message": "Tampermonkey を本当に再起動しますか?"
+        "message": "Tampermonkey を再起動してよろしいですか?"
     },
     "Today": {
         "message": "今日"
