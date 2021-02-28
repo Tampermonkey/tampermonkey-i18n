@@ -696,11 +696,11 @@
     "Icon_badge_color": {
         "message": "圖示徽章顏色"
     },
-    "Icon_badge_text_color": {
-        "message": "圖示徽章文字顏色"
-    },
     "Icon_badge_info": {
         "message": "圖示徽章資訊"
+    },
+    "Icon_badge_text_color": {
+        "message": "圖示徽章文字顏色"
     },
     "Import": {
         "message": "匯入"
@@ -1240,14 +1240,14 @@
     "TabMode": {
         "message": "Tab 模式"
     },
+    "Tab_Size": {
+        "message": "Tab 大小"
+    },
     "Tab_URL": {
         "message": "Tab URL"
     },
     "Tabs": {
         "message": "Tab"
-    },
-    "Tab_Size": {
-        "message": "Tab 大小"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + 腳本版本"

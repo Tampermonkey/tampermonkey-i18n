@@ -194,6 +194,9 @@
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "发生一个内部错误。如果此问题在重启浏览器后继续出现，请按“确定”并在论坛中报告此问题。\n\n您是否要访问 Tampermonkey 论坛？"
     },
+    "Anonymous_statistics": {
+        "message": "匿名统计数据"
+    },
     "Antifeature__0name0__0description0": {
         "message": "包含 $name$: $description$",
         "placeholders": {
@@ -219,9 +222,6 @@
     },
     "Antifeature_tracking": {
         "message": "追踪"
-    },
-    "Anonymous_statistics": {
-        "message": "匿名统计数据"
     },
     "Appearance": {
         "message": "外观"
@@ -405,7 +405,7 @@
         "message": "当前版本"
     },
     "Cursor": {
-            "message": "光标"
+        "message": "光标"
     },
     "Custom_CSS": {
         "message": "用户 CSS"
@@ -440,12 +440,6 @@
     "Delete": {
         "message": "删除"
     },
-    "Delete_all": {
-        "message": "删除所有"
-    },
-    "Deleted_on": {
-        "message": "删除于"
-    },
     "Delete_Line": {
         "message": "删除行"
     },
@@ -455,6 +449,9 @@
     "Delete_Line_Right": {
         "message": "删除行右"
     },
+    "Delete_all": {
+        "message": "删除所有"
+    },
     "Delete_to_Next_Word_Boundary": {
         "message": "删除到下一单词边界"
     },
@@ -463,6 +460,9 @@
     },
     "Delete_to_Sublime_Mark": {
         "message": "删除到 Sublime 标记"
+    },
+    "Deleted_on": {
+        "message": "删除于"
     },
     "Description": {
         "message": "简介"
@@ -1032,7 +1032,6 @@
             }
         }
     },
-
     "Really_delete_all_userscripts_": {
         "message": "您真的要永久删除所有用户脚本吗？"
     },
@@ -1105,11 +1104,11 @@
     "Restart_Tampermonkey": {
         "message": "重启 Tampermonkey"
     },
-    "Restore_all": {
-        "message": "重置所有"
-    },
     "Restore": {
         "message": "重置"
+    },
+    "Restore_all": {
+        "message": "重置所有"
     },
     "Revoke_Access_Token": {
         "message": "撤销访问令牌"
@@ -1476,11 +1475,11 @@
     "Trace": {
         "message": "追踪"
     },
-    "Trash": {
-        "message": "🗑"
-    },
     "Transpose": {
         "message": "变换"
+    },
+    "Trash": {
+        "message": "🗑"
     },
     "Trigger_Update": {
         "message": "触发一次更新"
@@ -1728,6 +1727,6 @@
         "message": "严格模式"
     },
     "top_level_await": {
-    "message": "top-level await"
+        "message": "top-level await"
     }
 }

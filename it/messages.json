@@ -129,9 +129,6 @@
     "Add_Tampermonkey_to_the_site_s_content_csp": {
         "message": "Aggiungi Tampermonkey all'HTML CSP"
     },
-    "Add_to_icon_badge_text": {
-        "message": "Aggiungi a testo badge icona"
-    },
     "Add_as_0clude0": {
         "message": "Aggiungi come $clude$",
         "placeholders": {
@@ -145,6 +142,9 @@
     },
     "Add_toSource_function_to_Object_Prototype": {
         "message": "Aggiungi funzioni di compatibilità a Object e Array"
+    },
+    "Add_to_icon_badge_text": {
+        "message": "Aggiungi a testo badge icona"
     },
     "Advanced": {
         "message": "Avanzata"
@@ -197,6 +197,9 @@
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "Si è verificato un errore interno.\nSe il problema persiste anche dopo un riavvio dl browser, seleziona OK e segnala questo problema nel forum.\n\nVuoi visitare il forum di Tampermonkey?"
     },
+    "Anonymous_statistics": {
+        "message": "Statistiche anonime"
+    },
     "Antifeature__0name0__0description0": {
         "message": "Contiene $name$: $description$",
         "placeholders": {
@@ -222,9 +225,6 @@
     },
     "Antifeature_tracking": {
         "message": "Tracciatura"
-    },
-    "Anonymous_statistics": {
-        "message": "Statistiche anonime"
     },
     "Appearance": {
         "message": "Aspetto"
@@ -451,12 +451,6 @@
     "Delete": {
         "message": "Elimina"
     },
-    "Delete_all": {
-        "message": "Elimina tutto"
-    },
-    "Deleted_on": {
-        "message": "Elimina su"
-    },
     "Delete_Line": {
         "message": "Elimina linea"
     },
@@ -466,6 +460,9 @@
     "Delete_Line_Right": {
         "message": "Elimina linea a destra"
     },
+    "Delete_all": {
+        "message": "Elimina tutto"
+    },
     "Delete_to_Next_Word_Boundary": {
         "message": "Elimina fino alla prossima parola collegata"
     },
@@ -474,6 +471,9 @@
     },
     "Delete_to_Sublime_Mark": {
         "message": "Elimina fino al marcatore evidenziazione"
+    },
+    "Deleted_on": {
+        "message": "Elimina su"
     },
     "Description": {
         "message": "Descrizione"
@@ -1149,11 +1149,11 @@
     "Restart_Tampermonkey": {
         "message": "Riavvia Tampermonkey"
     },
-    "Restore_all": {
-        "message": "Ripristina tutto"
-    },
     "Restore": {
         "message": "Ripristina"
+    },
+    "Restore_all": {
+        "message": "Ripristina tutto"
     },
     "Revoke_Access_Token": {
         "message": "Revoca token accesso"
@@ -1529,11 +1529,11 @@
     "Trace": {
         "message": "Traccia"
     },
-    "Trash": {
-        "message": "🗑"
-    },
     "Transpose": {
         "message": "Transponi"
+    },
+    "Trash": {
+        "message": "🗑"
     },
     "Trigger_Update": {
         "message": "Esegui aggiornamento"

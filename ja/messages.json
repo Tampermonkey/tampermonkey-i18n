@@ -90,9 +90,6 @@
     "Add_Tampermonkey_to_the_site_s_content_csp": {
         "message": "Tampermonkey をサイトのコンテンツ CSP に追加"
     },
-    "Add_to_icon_badge_text": {
-        "message": "アイコン バッジ テキストに追加"
-    },
     "Add_as_0clude0": {
         "message": "$clude$ として追加",
         "placeholders": {
@@ -106,6 +103,9 @@
     },
     "Add_toSource_function_to_Object_Prototype": {
         "message": "Object と Array に互換関数を追加する"
+    },
+    "Add_to_icon_badge_text": {
+        "message": "アイコン バッジ テキストに追加"
     },
     "Advanced": {
         "message": "上級者"
@@ -158,6 +158,9 @@
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "内部エラーが発生しました。この問題点が継続する場合は、OK を押してこの問題点をフォーラムで報告してください。\n\nTampermonkey フォーラムに移動しますか?"
     },
+    "Anonymous_statistics": {
+        "message": "匿名の統計"
+    },
     "Antifeature__0name0__0description0": {
         "message": "$name$ を含みます: $description$",
         "placeholders": {
@@ -183,9 +186,6 @@
     },
     "Antifeature_tracking": {
         "message": "追跡"
-    },
-    "Anonymous_statistics": {
-        "message": "匿名の統計"
     },
     "Appearance": {
         "message": "外観"
@@ -406,12 +406,6 @@
     "Delete": {
         "message": "削除"
     },
-    "Delete_all": {
-        "message": "すべて削除"
-    },
-    "Deleted_on": {
-        "message": "削除日"
-    },
     "Delete_Line": {
         "message": "行を削除"
     },
@@ -421,11 +415,17 @@
     "Delete_Line_Right": {
         "message": "行末まで削除"
     },
+    "Delete_all": {
+        "message": "すべて削除"
+    },
     "Delete_to_Next_Word_Boundary": {
         "message": "次の単語境界まで削除"
     },
     "Delete_to_Previous_Word_Boundary": {
         "message": "前の単語境界まで削除"
+    },
+    "Deleted_on": {
+        "message": "削除日"
     },
     "Description": {
         "message": "説明"
@@ -1062,11 +1062,11 @@
     "Restart_Tampermonkey": {
         "message": "Tampermonkey を再起動"
     },
-    "Restore_all": {
-        "message": "すべて復元"
-    },
     "Restore": {
         "message": "復元"
+    },
+    "Restore_all": {
+        "message": "すべて復元"
     },
     "Revoke_Access_Token": {
         "message": "アクセス トークンを失効させる"

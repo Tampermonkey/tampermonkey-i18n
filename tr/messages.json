@@ -194,6 +194,9 @@
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "Dahili bir hata oluştu. Tarayıcının yeniden başlatılmasından sonra bile bu sorun devam ediyorsa, lütfen Tamam düğmesine basın ve bu sorunu forumda bildirin.\n\nTampermonkey forumunu ziyaret etmek istiyor musunuz?"
     },
+    "Anonymous_statistics": {
+        "message": "İsimsiz istatistikler"
+    },
     "Antifeature__0name0__0description0": {
         "message": "İçerik $name$: $description$",
         "placeholders": {
@@ -219,9 +222,6 @@
     },
     "Antifeature_tracking": {
         "message": "Takip"
-    },
-    "Anonymous_statistics": {
-        "message": "İsimsiz istatistikler"
     },
     "Appearance": {
         "message": "Görünüm"
@@ -440,12 +440,6 @@
     "Delete": {
         "message": "Sil"
     },
-    "Delete_all": {
-        "message": "Tümünü sil"
-    },
-    "Deleted_on": {
-        "message": "Silinme"
-    },
     "Delete_Line": {
         "message": "Satırı sil"
     },
@@ -455,6 +449,9 @@
     "Delete_Line_Right": {
         "message": "Sağ satırı sil"
     },
+    "Delete_all": {
+        "message": "Tümünü sil"
+    },
     "Delete_to_Next_Word_Boundary": {
         "message": "Sonraki kelime sınırında sil"
     },
@@ -463,6 +460,9 @@
     },
     "Delete_to_Sublime_Mark": {
         "message": "Sublim İşaret sil"
+    },
+    "Deleted_on": {
+        "message": "Silinme"
     },
     "Description": {
         "message": "Açıklama"
@@ -1104,11 +1104,11 @@
     "Restart_Tampermonkey": {
         "message": "Tampermonkey'i Yeniden Başlat"
     },
-    "Restore_all": {
-        "message": "Tümünü geri getir"
-    },
     "Restore": {
         "message": "Geri getir"
+    },
+    "Restore_all": {
+        "message": "Tümünü geri getir"
     },
     "Revoke_Access_Token": {
         "message": "Giriş Yetkisini Kaldır"
@@ -1475,11 +1475,11 @@
     "Trace": {
         "message": "İzle"
     },
-    "Trash": {
-        "message": "🗑"
-    },
     "Transpose": {
         "message": "Yerini değiştir"
+    },
+    "Trash": {
+        "message": "🗑"
     },
     "Trigger_Update": {
         "message": "Tetikleyici Güncelleme"

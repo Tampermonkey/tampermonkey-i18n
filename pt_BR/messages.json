@@ -129,9 +129,6 @@
     "Add_Tampermonkey_to_the_site_s_content_csp": {
         "message": "Adicionar o Tampermonkey à política de segurança de conteúdo (CSP) do ste"
     },
-    "Add_to_icon_badge_text": {
-        "message": "Adicionar ao texto do emblema do ícone"
-    },
     "Add_as_0clude0": {
         "message": "Adicionar como $clude$",
         "placeholders": {
@@ -145,6 +142,9 @@
     },
     "Add_toSource_function_to_Object_Prototype": {
         "message": "Adicionar funções de compatibilidade para Object e Array"
+    },
+    "Add_to_icon_badge_text": {
+        "message": "Adicionar ao texto do emblema do ícone"
     },
     "Advanced": {
         "message": "Avançado"
@@ -197,6 +197,9 @@
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "Um erro interno ocorreu. Se este problema persistir mesmo após reiniciar o Chrome, pressione OK e reporte este problema no fórum.\n\nVocê deseja visitar o fórum do TamperMonkey?"
     },
+    "Anonymous_statistics": {
+        "message": "Estatísticas anônimas"
+    },
     "Antifeature__0name0__0description0": {
         "message": "Contém $name$: $description$",
         "placeholders": {
@@ -222,9 +225,6 @@
     },
     "Antifeature_tracking": {
         "message": "Rastreamento"
-    },
-    "Anonymous_statistics": {
-        "message": "Estatísticas anônimas"
     },
     "Appearance": {
         "message": "Aparência"
@@ -451,12 +451,6 @@
     "Delete": {
         "message": "Excluir"
     },
-    "Delete_all": {
-        "message": "Excluir tudo"
-    },
-    "Deleted_on": {
-        "message": "Excluído em"
-    },
     "Delete_Line": {
         "message": "Excluir linha"
     },
@@ -466,6 +460,9 @@
     "Delete_Line_Right": {
         "message": "Excluir linha direita"
     },
+    "Delete_all": {
+        "message": "Excluir tudo"
+    },
     "Delete_to_Next_Word_Boundary": {
         "message": "Excluir até próximo limite de palavras"
     },
@@ -474,6 +471,9 @@
     },
     "Delete_to_Sublime_Mark": {
         "message": "Excluir até Sublime Mark"
+    },
+    "Deleted_on": {
+        "message": "Excluído em"
     },
     "Description": {
         "message": "Descrição"
@@ -1149,11 +1149,11 @@
     "Restart_Tampermonkey": {
         "message": "Reiniciar o Tampermonkey"
     },
-    "Restore_all": {
-        "message": "Restaurar tudo"
-    },
     "Restore": {
         "message": "Restaurar"
+    },
+    "Restore_all": {
+        "message": "Restaurar tudo"
     },
     "Revoke_Access_Token": {
         "message": "Revogar Token de Acesso"
@@ -1529,11 +1529,11 @@
     "Trace": {
         "message": "Traço"
     },
-    "Trash": {
-        "message": "ðŸ—‘"
-    },
     "Transpose": {
         "message": "Inverter posição"
+    },
+    "Trash": {
+        "message": "ðŸ—‘"
     },
     "Trigger_Update": {
         "message": "Iniciar busca de atualização"
