@@ -404,6 +404,9 @@
     "Current_Version": {
         "message": "当前版本"
     },
+    "Cursor": {
+            "message": "光标"
+    },
     "Custom_CSS": {
         "message": "用户 CSS"
     },
@@ -562,7 +565,7 @@
         "message": "启用此选项以在输入时自动检查代码。"
     },
     "Enabled": {
-        "message": "已启用"
+        "message": "是否启用"
     },
     "Enforce": {
         "message": "强制"
@@ -713,6 +716,9 @@
     "Hide_notification_after": {
         "message": "多久后隐藏提醒"
     },
+    "Highlight_selection_matches": {
+        "message": "高亮匹配项"
+    },
     "Highlight_trailing_whitespace": {
         "message": "高亮尾随空格"
     },
@@ -846,7 +852,7 @@
         "message": "上一行"
     },
     "Line_break": {
-        "message": "换行符"
+        "message": "自动换行"
     },
     "Lines": {
         "message": "行"
