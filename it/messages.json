@@ -403,6 +403,12 @@
     "Config_Mode": {
         "message": "Modo configurazione"
     },
+    "Context_Menu": {
+        "message": "Menu contestuale"
+    },
+    "Context_menu_entries": {
+        "message": "Voci menu contestuale"
+    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Converti sezioni CDATA in un formato compatibile con il browser"
     },
@@ -568,6 +574,9 @@
     },
     "Enable_autoSave": {
         "message": "Salva i contenuti quando l'editor perde il focus"
+    },
+    "Enable_context_menu": {
+        "message": "Abilita menu contestuale"
     },
     "Enable_easySave": {
         "message": "Quando salvi non visualizzare la finestra di conferma"
@@ -1209,6 +1218,12 @@
     },
     "Script_order": {
         "message": "Ordine script"
+    },
+    "Scripts_activated_by_context_menu": {
+        "message": "@run-at context-menu"
+    },
+    "Scripts_activated_by_context_menu_and_menu_commands": {
+        "message": "@run-at context-menu e comandi menu"
     },
     "Search": {
         "message": "Cerca"
