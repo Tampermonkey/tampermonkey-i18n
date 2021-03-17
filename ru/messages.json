@@ -49,7 +49,7 @@
         }
     },
     "0count0_errors_or_hints_were_found_": {
-        "message": "Было найдено ошибок или подсказок: $count$",
+        "message": "Было найдено ошибок или предупреждений: $count$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -89,7 +89,7 @@
         "message": "Требуется перезагрузка: \nВсе несохранённые изменения будут потеряны!"
     },
     "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
-        "message": "Запрос к ресурсу кросс-происхождения не является чем-то необычным.\nВам просто нужно проверить, есть ли у этого скрипта веская причина для доступа к этому домену.\nНапример, есть всего несколько причин, по которым пользовательский скрипт обращается в ваш банк.\n\nОбратите внимание, что авторы пользовательских скриптов могут избежать этого диалога, добавив в свои скрипты [url=$connect$]тег @connect[/url].\n\nНезависимо от того, какое решение вы примите, вы сможете изменить свое решение в любое время на вкладке [url=$settings$]настроек скрипта[/url].",
+        "message": "Запрос к ресурсу кросс-происхождения не является чем-то необычным.\nВам просто нужно проверить, есть ли у этого скрипта веская причина для доступа к этому домену.\nНапример, есть всего несколько причин, по которым пользовательский скрипт обращается в ваш банк.\n\nОбратите внимание, что авторы пользовательских скриптов могут избежать этого диалога, добавив в свои скрипты тег [url=$connect$]@connect[/url].\n\nНезависимо от того, какое решение вы примите, вы сможете изменить свое решение в любое время на вкладке [url=$settings$]настроек[/url] скрипта.",
         "placeholders": {
             "connect": {
                 "content": "$1"
