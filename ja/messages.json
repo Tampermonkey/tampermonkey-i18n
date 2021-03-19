@@ -358,6 +358,12 @@
     "Config_Mode": {
         "message": "設定のモード"
     },
+    "Context_Menu": {
+        "message": "コンテキスト メニュー"
+    },
+    "Context_menu_entries": {
+        "message": "コンテキスト メニューの項目"
+    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "CDATA セクションをブラウザー互換形式に変換する"
     },
@@ -512,6 +518,9 @@
     "Enable_autoSave": {
         "message": "エディターがフォーカスを失った際に内容を保存する"
     },
+    "Enable_context_menu": {
+        "message": "コンテキスト メニューを有効にする"
+    },
     "Enable_easySave": {
         "message": "保存する際に確認ダイアログを表示しない"
     },
@@ -653,6 +662,9 @@
     },
     "Hide_notification_after": {
         "message": "通知を隠すまでの時間"
+    },
+    "Highlight_selection_matches": {
+        "message": "選択との一致を強調表示する"
     },
     "Highlight_trailing_whitespace": {
         "message": "末尾の空白を強調表示する"
@@ -1123,6 +1135,12 @@
     "Script_order": {
         "message": "UserScript の並び順"
     },
+    "Scripts_activated_by_context_menu": {
+        "message": "@run-at コンテキスト メニュー"
+    },
+    "Scripts_activated_by_context_menu_and_menu_commands": {
+        "message": "@run-at コンテキスト メニューとメニュー コマンド"
+    },
     "Search": {
         "message": "検索"
     },
@@ -1205,6 +1223,9 @@
     },
     "Spaces": {
         "message": "空白"
+    },
+    "Split_into_Lines": {
+        "message": "複数行に分割"
     },
     "Start": {
         "message": "実行"
