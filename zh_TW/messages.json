@@ -450,9 +450,6 @@
     "Disabled": {
         "message": "已停用"
     },
-    "Disabled_scripts": {
-        "message": "已停止的腳本"
-    },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "選項 '$option$' 已啟用！\n\n真的要儲存修正過的原始碼嗎？",
         "placeholders": {

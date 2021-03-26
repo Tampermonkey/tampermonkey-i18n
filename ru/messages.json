@@ -406,9 +406,6 @@
     "Context_Menu": {
         "message": "Контекстное меню"
     },
-    "Context_menu_entries": {
-        "message": "Пункты контекстного меню"
-    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Преобразовывать разделы CDATA в формат, совместимый с браузером"
     },
@@ -501,9 +498,6 @@
     },
     "Disabled": {
         "message": "Отключен"
-    },
-    "Disabled_scripts": {
-        "message": "Отключенные скрипты"
     },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "Параметр '$option$' включен!\n\nВы действительно хотите сохранить фиксированный источник?",
@@ -1221,9 +1215,6 @@
     },
     "Scripts_activated_by_context_menu": {
         "message": "@run-at контекстном меню"
-    },
-    "Scripts_activated_by_context_menu_and_menu_commands": {
-        "message": "@run-at контекстном меню и меню команд"
     },
     "Search": {
         "message": "Поиск"

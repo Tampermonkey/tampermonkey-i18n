@@ -427,9 +427,6 @@
     "Disabled": {
         "message": "Uitgeschakeld"
     },
-    "Disabled_scripts": {
-        "message": "Uitgeschakelde scripts"
-    },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "De optie '$option$' is ingeschakeld!\n\nWilt u echt de opgeloste broncode opslaan?",
         "placeholders": {

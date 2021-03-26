@@ -306,9 +306,6 @@
     "Disabled": {
         "message": "Deaktivert"
     },
-    "Disabled_scripts": {
-        "message": "Deaktiverte skript"
-    },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "'$option$'-innstillingen er aktivert!\n\nVil du virkelig lagre den fastsatte kilden?",
         "placeholders": {

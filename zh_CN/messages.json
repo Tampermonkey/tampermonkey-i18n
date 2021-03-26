@@ -485,9 +485,6 @@
     "Disabled": {
         "message": "已禁用"
     },
-    "Disabled_scripts": {
-        "message": "已禁用的脚本"
-    },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "“$option$”选项已启用！\n是否保存修复后的源码？",
         "placeholders": {

@@ -334,9 +334,6 @@
     "Context_Menu": {
         "message": "Context Menü"
     },
-    "Context_menu_entries": {
-        "message": "Einträge im Context-Menü"
-    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "CDATA-Abschnitte in ein Browser-kompatibles Format konvertieren"
     },
@@ -396,9 +393,6 @@
     },
     "Disabled": {
         "message": "Deaktiviert"
-    },
-    "Disabled_scripts": {
-        "message": "Inaktive Userscripte"
     },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "Die Option '$option$' ist aktiviert!\n\nMöchten Sie wirklich den von TM modifizierten Quellcode speichern?",
@@ -923,6 +917,9 @@
     "Script_local_files_access": {
         "message": "Das Lesen von lokale Dateien durch Userscripte erlauben"
     },
+    "Script_menu_commands": {
+        "message": "Userscript Menü-Kommandos"
+    },
     "Script_name_0name0": {
         "message": "Userscript-Name: $name$",
         "placeholders": {
@@ -935,10 +932,7 @@
         "message": "Userscript-Sortierung"
     },
     "Scripts_activated_by_context_menu": {
-        "message": "@run-at context-menu"
-    },
-    "Scripts_activated_by_context_menu_and_menu_commands": {
-        "message": "@run-at context-menu und Menü-Kommandos"
+        "message": "Userscripte die @run-at context-menu nutzen"
     },
     "Search": {
         "message": "Suchen"

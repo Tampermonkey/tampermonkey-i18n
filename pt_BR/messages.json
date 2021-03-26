@@ -496,9 +496,6 @@
     "Disabled": {
         "message": "Desativado"
     },
-    "Disabled_scripts": {
-        "message": "Desativar scripts"
-    },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "A Opção '$option$' está habilitada!\n\nVocê quer realmente salvar a fonte corrigida?",
         "placeholders": {

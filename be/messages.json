@@ -441,9 +441,6 @@
     "Disabled": {
         "message": "Адключаны"
     },
-    "Disabled_scripts": {
-        "message": "Адключаныя скрыпты"
-    },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "Опцыя '$option$' ўключана!\n\nВы сапраўды жадаеце захаваць змены ў кодзе?",
         "placeholders": {

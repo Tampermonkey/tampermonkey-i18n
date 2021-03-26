@@ -427,9 +427,6 @@
     "Disabled": {
         "message": "Désactivé"
     },
-    "Disabled_scripts": {
-        "message": "Scripts désactivés"
-    },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "L'Option '$option$' est allumée!\n\nVoulez-vous enregistrer la source fixe ?",
         "placeholders": {

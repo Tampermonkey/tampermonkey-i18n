@@ -379,9 +379,6 @@
     "Disabled": {
         "message": "Onemogućeno"
     },
-    "Disabled_scripts": {
-        "message": "Isključene skripte"
-    },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "Opcija '$option$' je uključena!\n\nDa li si siguran da želis da sačuvas izvorni kod?",
         "placeholders": {

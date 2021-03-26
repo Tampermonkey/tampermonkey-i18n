@@ -406,9 +406,6 @@
     "Context_Menu": {
         "message": "Menu contestuale"
     },
-    "Context_menu_entries": {
-        "message": "Voci menu contestuale"
-    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Converti sezioni CDATA in un formato compatibile con il browser"
     },
@@ -501,9 +498,6 @@
     },
     "Disabled": {
         "message": "Disabilitato"
-    },
-    "Disabled_scripts": {
-        "message": "Script disabilitati"
     },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "L'opzione '$option$' è abilitata!\n\nVuoi davvero salvare il sorgente corretto?",
@@ -1208,6 +1202,9 @@
     "Script_local_files_access": {
         "message": "Permetti agli script di accedere ai file locali"
     },
+    "Script_menu_commands": {
+        "message": "Comandi menu"
+    },
     "Script_name_0name0": {
         "message": "Nome script: $name$",
         "placeholders": {
@@ -1221,9 +1218,6 @@
     },
     "Scripts_activated_by_context_menu": {
         "message": "@run-at context-menu"
-    },
-    "Scripts_activated_by_context_menu_and_menu_commands": {
-        "message": "@run-at context-menu e comandi menu"
     },
     "Search": {
         "message": "Cerca"

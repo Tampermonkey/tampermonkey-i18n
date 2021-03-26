@@ -279,9 +279,6 @@
     "Disabled": {
         "message": "Desactivado"
     },
-    "Disabled_scripts": {
-        "message": "Desactivar scripts"
-    },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "A opção '$option$' está activada!\n\nDeseja gravar o código?",
         "placeholders": {

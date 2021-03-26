@@ -450,9 +450,6 @@
     "Disabled": {
         "message": "Deaktiveret"
     },
-    "Disabled_scripts": {
-        "message": "Deaktiverede scripts"
-    },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "Indstillingen '$option$' er aktiveret!\n\nVil du virkelig gemme den faste kilde?",
         "placeholders": {

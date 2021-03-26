@@ -287,9 +287,6 @@
     "Disabled": {
         "message": "Đã tắt"
     },
-    "Disabled_scripts": {
-        "message": "Các tập lệnh đã bị tắt"
-    },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "Tuỳ chọn '$option$' đã được bật!\n\nBạn có thực sự muốn lưu trữ mã nguồn đã được sửa không?",
         "placeholders": {

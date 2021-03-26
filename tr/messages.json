@@ -485,9 +485,6 @@
     "Disabled": {
         "message": "Etkin değil"
     },
-    "Disabled_scripts": {
-        "message": "Etkin olmayan betikler"
-    },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "Bu '$option$' seçeneği aktif!\n\nGerçekten sabit kaynağı saklamayı istiyor musunuz?",
         "placeholders": {

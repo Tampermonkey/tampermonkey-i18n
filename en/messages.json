@@ -406,9 +406,6 @@
     "Context_Menu": {
         "message": "Context Menu"
     },
-    "Context_menu_entries": {
-        "message": "Context menu entries"
-    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Convert CDATA sections into a browser compatible format"
     },
@@ -501,9 +498,6 @@
     },
     "Disabled": {
         "message": "Disabled"
-    },
-    "Disabled_scripts": {
-        "message": "Disabled scripts"
     },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "The Option '$option$' is enabled!\n\nDo you really want to store the fixed source?",
@@ -1208,6 +1202,9 @@
     "Script_local_files_access": {
         "message": "Allow scripts to access local files"
     },
+    "Script_menu_commands": {
+        "message": "Userscript menu commands"
+    },
     "Script_name_0name0": {
         "message": "Userscript name: $name$",
         "placeholders": {
@@ -1220,10 +1217,7 @@
         "message": "Userscript order"
     },
     "Scripts_activated_by_context_menu": {
-        "message": "@run-at context-menu"
-    },
-    "Scripts_activated_by_context_menu_and_menu_commands": {
-        "message": "@run-at context-menu and menu commands"
+        "message": "Userscripts using @run-at context-menu"
     },
     "Search": {
         "message": "Search"
