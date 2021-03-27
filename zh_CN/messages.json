@@ -1724,7 +1724,7 @@
         "message": "用户脚本搜索集成"
     },
     "Scripts_activated_by_context_menu": {
-        "message": "用户脚本使用 @run-at context-menu"
+        "message": "使用 @run-at 上下文菜单的用户脚本"
     },
     "Script_menu_commands": {
         "message": "用户脚本菜单命令"
