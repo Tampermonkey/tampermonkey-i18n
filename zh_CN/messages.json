@@ -1741,6 +1741,9 @@
     "strict_mode": {
         "message": "严格模式"
     },
+    "Add_to_icon_badge_text": {
+        "message": "添加到图标徽章文字"
+    },
     "top_level_await": {
         "message": "top-level await"
     }
