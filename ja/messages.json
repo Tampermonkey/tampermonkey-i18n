@@ -1118,6 +1118,9 @@
     "Script_local_files_access": {
         "message": "スクリプトによるローカル ファイルへのアクセスを許可する"
     },
+    "Script_menu_commands": {
+        "message": "UserScript メニュー コマンド"
+    },
     "Script_name_0name0": {
         "message": "UserScript 名: $name$",
         "placeholders": {
@@ -1130,7 +1133,7 @@
         "message": "UserScript の並び順"
     },
     "Scripts_activated_by_context_menu": {
-        "message": "@run-at コンテキスト メニュー"
+        "message": "@run-at コンテキスト メニューを使用する UserScript"
     },
     "Search": {
         "message": "検索"
