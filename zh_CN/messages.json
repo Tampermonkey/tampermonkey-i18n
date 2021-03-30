@@ -141,7 +141,7 @@
         "message": "添加新脚本..."
     },
     "Add_toSource_function_to_Object_Prototype": {
-        "message": "为对象和数组增加兼容性函数"
+        "message": "为对象和数组增加兼容性方法"
     },
     "Advanced": {
         "message": "高级"
@@ -378,7 +378,7 @@
         "message": "关闭"
     },
     "Closing_Bracket": {
-        "message": "关闭括号"
+        "message": "配对括号"
     },
     "Cloud": {
         "message": "云"
@@ -423,7 +423,7 @@
         "message": "调试"
     },
     "Debug_scripts": {
-        "message": "脚本调试"
+        "message": "调试脚本"
     },
     "Default": {
         "message": "默认"
@@ -699,10 +699,10 @@
         "message": "Google Drive"
     },
     "Group_Left": {
-        "message": "分组左侧"
+        "message": "单词左侧"
     },
     "Group_Right": {
-        "message": "分组右侧"
+        "message": "单词右侧"
     },
     "Help": {
         "message": "帮助"
@@ -759,7 +759,7 @@
         "message": "包括/排除"
     },
     "Incremental_Find": {
-        "message": "增亮查找"
+        "message": "增量查找"
     },
     "Indent": {
         "message": "缩进"
@@ -840,7 +840,7 @@
         "message": "受限的运行时主机权限可能损坏脚本升级、 GM_xmlhttpRequest 以及其他 Tampermonkey 功能！"
     },
     "Line_Case_Insensitive": {
-        "message": "行大小写不敏感"
+        "message": "按行的忽略大小写的字典序"
     },
     "Line_Down": {
         "message": "下一行"
@@ -852,7 +852,7 @@
         "message": "自动换行"
     },
     "Lines": {
-        "message": "行"
+        "message": "按行的字典序"
     },
     "LogLevel": {
         "message": "日志记录级别"
@@ -879,10 +879,10 @@
         "message": "修改"
     },
     "Move_Line_Down": {
-        "message": "行下移"
+        "message": "下移行"
     },
     "Move_Line_Up": {
-        "message": "行上移"
+        "message": "上移行"
     },
     "Name": {
         "message": "名称"
@@ -1184,16 +1184,16 @@
         "message": "选择下一个出现位置"
     },
     "Select_Scope": {
-        "message": "选择范围"
+        "message": "选择块"
     },
     "Select_between_Brackets": {
-        "message": "选择括号间"
+        "message": "选择前后括号中间的部分"
     },
     "Select_to_Sublime_Mark": {
         "message": "选择到 Sublime 标记"
     },
     "Selection": {
-        "message": "选择内容"
+        "message": "选择"
     },
     "Server_And_Manual": {
         "message": "远程 + 手动管理"
@@ -1458,16 +1458,16 @@
         "message": "切换"
     },
     "Toggle_Block_Comment": {
-        "message": "切换块注释"
+        "message": "添加/移除块注释"
     },
     "Toggle_Comment": {
-        "message": "切换注释"
+        "message": "添加/移除注释"
     },
     "Toggle_Comment_Indented": {
-        "message": "切换缩进注释"
+        "message": "添加/移除缩进注释"
     },
     "Toggle_Enable": {
-        "message": "切换启用/禁用"
+        "message": "启用/禁用"
     },
     "Trace": {
         "message": "追踪"
