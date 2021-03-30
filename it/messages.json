@@ -1217,7 +1217,7 @@
         "message": "Ordine script"
     },
     "Scripts_activated_by_context_menu": {
-        "message": "@run-at context-menu"
+        "message": "Script utente che usano menu contestuali @run-at"
     },
     "Search": {
         "message": "Cerca"
