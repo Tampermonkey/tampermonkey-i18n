@@ -1717,11 +1717,32 @@
     "severity_9": {
         "message": "9"
     },
+    "Userscript_Search": {
+        "message": "用户脚本搜索"
+    },
+    "Userscript_search_integration_mode": {
+        "message": "用户脚本搜索集成"
+    },
+    "Scripts_activated_by_context_menu": {
+        "message": "使用 @run-at 上下文菜单的用户脚本"
+    },
+    "Script_menu_commands": {
+        "message": "用户脚本菜单命令"
+    },
+    "Context_Menu": {
+        "message": "上下文菜单"
+    },
+    "Enable_context_menu": {
+        "message": "启用上下文菜单"
+    },
     "some_secs": {
         "message": "部分"
     },
     "strict_mode": {
         "message": "严格模式"
+    },
+    "Add_to_icon_badge_text": {
+        "message": "添加到图标徽章文字"
     },
     "top_level_await": {
         "message": "top-level await"
