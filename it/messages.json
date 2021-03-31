@@ -413,7 +413,7 @@
         "message": "Copia"
     },
     "Cross_Origin_Request_Permission": {
-        "message": "Cross Origin Request Permission"
+        "message": "Richiesta permesso origine cross"
     },
     "Current_Version": {
         "message": "Versione installata"
@@ -1259,7 +1259,7 @@
         "message": "Selezione"
     },
     "Server_And_Manual": {
-        "message": "Remoto + Manuale"
+        "message": "Remoto + manuale"
     },
     "Set_Sublime_Mark": {
         "message": "Imposta marcatore evidenziazione"
@@ -1327,7 +1327,7 @@
         "message": "Esatto"
     },
     "Sublime": {
-        "message": "Sublima testo"
+        "message": "Testo evidenziazione"
     },
     "Sublime_Mark": {
         "message": "Marcatore evidenziazione"
