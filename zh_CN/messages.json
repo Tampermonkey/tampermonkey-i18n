@@ -840,7 +840,7 @@
         "message": "受限的运行时主机权限可能损坏脚本升级、 GM_xmlhttpRequest 以及其他 Tampermonkey 功能！"
     },
     "Line_Case_Insensitive": {
-        "message": "按行的忽略大小写的字典序"
+        "message": "忽略大小写的行"
     },
     "Line_Down": {
         "message": "下一行"
@@ -852,7 +852,7 @@
         "message": "自动换行"
     },
     "Lines": {
-        "message": "按行的字典序"
+        "message": "行"
     },
     "LogLevel": {
         "message": "日志记录级别"
