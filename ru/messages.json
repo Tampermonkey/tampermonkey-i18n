@@ -893,6 +893,9 @@
     "Lines": {
         "message": "Линии"
     },
+    "Lines_Menu": {
+        "message": "Линии"
+    },
     "LogLevel": {
         "message": "Уровень ведения журнала"
     },

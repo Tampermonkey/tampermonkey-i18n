@@ -854,6 +854,9 @@
     "Lines": {
         "message": "Satırlar"
     },
+    "Lines_Menu": {
+        "message": "Satırlar"
+    },
     "LogLevel": {
         "message": "Günlük seviyesi"
     },

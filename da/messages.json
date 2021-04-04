@@ -816,6 +816,9 @@
     "Lines": {
         "message": "Linjer"
     },
+    "Lines_Menu": {
+        "message": "Linjer"
+    },
     "LogLevel": {
         "message": "Logningsniveau"
     },

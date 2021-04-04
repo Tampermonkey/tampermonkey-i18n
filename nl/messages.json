@@ -781,6 +781,9 @@
     "Lines": {
         "message": "Regels"
     },
+    "Lines_Menu": {
+        "message": "Regels"
+    },
     "LogLevel": {
         "message": "Loglevel"
     },

@@ -718,6 +718,9 @@
     "Lines": {
         "message": "Linije"
     },
+    "Lines_Menu": {
+        "message": "Linije"
+    },
     "LogLevel": {
         "message": "Nivo prijava (Logging level)"
     },

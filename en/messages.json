@@ -893,6 +893,9 @@
     "Lines": {
         "message": "Lines"
     },
+    "Lines_Menu": {
+        "message": "Lines"
+    },
     "LogLevel": {
         "message": "Logging Level"
     },

@@ -816,6 +816,9 @@
     "Lines": {
         "message": "أسطر"
     },
+    "Lines_Menu": {
+        "message": "أسطر"
+    },
     "LogLevel": {
         "message": "مستوى سجل الأداء"
     },

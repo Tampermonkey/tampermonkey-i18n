@@ -812,6 +812,9 @@
     "Lines": {
         "message": "行"
     },
+    "Lines_Menu": {
+        "message": "行"
+    },
     "LogLevel": {
         "message": "ログ レベル"
     },

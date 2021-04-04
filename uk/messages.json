@@ -798,6 +798,9 @@
     "Lines": {
         "message": "Лінії"
     },
+    "Lines_Menu": {
+        "message": "Лінії"
+    },
     "LogLevel": {
         "message": "Рівень ведення журналу"
     },

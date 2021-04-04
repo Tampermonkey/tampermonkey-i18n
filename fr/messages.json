@@ -781,6 +781,9 @@
     "Lines": {
         "message": "Lignes"
     },
+    "Lines_Menu": {
+        "message": "Lignes"
+    },
     "LogLevel": {
         "message": "Niveau journalisation"
     },

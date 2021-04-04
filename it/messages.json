@@ -893,6 +893,9 @@
     "Lines": {
         "message": "Linee"
     },
+    "Lines_Menu": {
+        "message": "Linee"
+    },
     "LogLevel": {
         "message": "Livello registrazione eventi"
     },
