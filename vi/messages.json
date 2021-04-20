@@ -1,37 +1,4 @@
 {
-    "1": {
-        "message": "1"
-    },
-    "2": {
-        "message": "2"
-    },
-    "3": {
-        "message": "3"
-    },
-    "4": {
-        "message": "4"
-    },
-    "5": {
-        "message": "5"
-    },
-    "6": {
-        "message": "6"
-    },
-    "7": {
-        "message": "7"
-    },
-    "8": {
-        "message": "8"
-    },
-    "9": {
-        "message": "9"
-    },
-    "10": {
-        "message": "10"
-    },
-    "11": {
-        "message": "11"
-    },
     "0count0_changes_exported": {
         "message": "Đã xuất $count$ thay đổi",
         "placeholders": {
@@ -283,9 +250,6 @@
     "Beginner": {
         "message": "Tân thủ"
     },
-    "BlackCheck": {
-        "message": "BlackCheck"
-    },
     "Blacklist": {
         "message": "Danh sách đen"
     },
@@ -472,12 +436,6 @@
     "Delete_to_Previous_Word_Boundary": {
         "message": "Xoá đến ranh giới từ trước đó"
     },
-    "Delete_to_Sublime_Mark": {
-        "message": ">>>Delete to Sublime Mark<<<"
-    },
-    "Deleted_on": {
-        "message": ">>>Deleted on<<<"
-    },
     "Description": {
         "message": "Mô tả"
     },
@@ -536,12 +494,6 @@
     "Downloads": {
         "message": "Tải xuống"
     },
-    "Dropbox": {
-        "message": "Dropbox"
-    },
-    "DuckDuckGo": {
-        "message": "DuckDuckGo"
-    },
     "Duplicate_Lines": {
         "message": "Nhân đôi các dòng"
     },
@@ -553,9 +505,6 @@
     },
     "Editor_reset": {
         "message": "Đặt lại trình chỉnh sửa"
-    },
-    "Emacs": {
-        "message": "Emacs"
     },
     "Enable": {
         "message": "Bật lên"
@@ -717,12 +666,6 @@
     "GoTo": {
         "message": "Đi đến"
     },
-    "Google": {
-        "message": "Google"
-    },
-    "Google_Drive": {
-        "message": "Google Drive"
-    },
     "Group_Left": {
         "message": "Nhóm bên trái"
     },
@@ -875,9 +818,6 @@
     "Layout": {
         "message": "Bố cục"
     },
-    "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
-        "message": ">>>Limited runtime host permissions might break some Tampermonkey features like script update, GM_xmlhttpRequest and others!<<<"
-    },
     "Line_Case_Insensitive": {
         "message": "Dòng không phân biệt hoa thường"
     },
@@ -986,9 +926,6 @@
     "Off": {
         "message": "Tắt"
     },
-    "Ok": {
-        "message": "Ok"
-    },
     "On": {
         "message": "Bật"
     },
@@ -997,9 +934,6 @@
     },
     "On_Click": {
         "message": "Khi bấm vào"
-    },
-    "OneDrive": {
-        "message": "OneDrive"
     },
     "One_error_or_hint_was_found_": {
         "message": "Một lỗi hoặc gợi ý đã được tìm thấy."
@@ -1021,15 +955,6 @@
     },
     "Original_domain_whitelist": {
         "message": "Danh sách trắng tên miền gốc"
-    },
-    "Original_excludes": {
-        "message": ">>>Original excludes<<<"
-    },
-    "Original_includes": {
-        "message": ">>>Original includes<<<"
-    },
-    "Original_matches": {
-        "message": ">>>Original matches<<<"
     },
     "Page_Filter_Mode": {
         "message": "Chế độ lọc trang"
@@ -1199,9 +1124,6 @@
     "Script_Update": {
         "message": "Cập nhật tập lệnh"
     },
-    "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
-        "message": ">>>Script authors can secure external resources by adding a SRI hash to the source URL.<<<"
-    },
     "Script_local_files_access": {
         "message": "Cho phép các tập lệnh truy cập các tệp cục bộ"
     },
@@ -1255,17 +1177,11 @@
     "Select_between_Brackets": {
         "message": "Chọn trong dấu ngoặc"
     },
-    "Select_to_Sublime_Mark": {
-        "message": ">>>Select to Sublime Mark<<<"
-    },
     "Selection": {
         "message": "Phần được chọn"
     },
     "Server_And_Manual": {
         "message": "Từ xa + thủ công"
-    },
-    "Set_Sublime_Mark": {
-        "message": ">>>Set Sublime Mark<<<"
     },
     "Settings": {
         "message": "Thiết đặt"
@@ -1295,9 +1211,6 @@
     },
     "Smart": {
         "message": "Thông minh"
-    },
-    "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
-        "message": ">>>Some scripts might be blocked by the JavaScript settings for this page or a script blocker!<<<"
     },
     "Sort": {
         "message": "Phân loại"
@@ -1329,18 +1242,6 @@
     "Strict": {
         "message": "Nghiêm khắc"
     },
-    "Sublime": {
-        "message": ">>>Sublime Text<<<"
-    },
-    "Sublime_Mark": {
-        "message": ">>>Sublime Mark<<<"
-    },
-    "Subresource_Integrity": {
-        "message": ">>>Subresource Integrity<<<"
-    },
-    "Swap_with_Sublime_Mark": {
-        "message": ">>>Swap with Sublime Mark<<<"
-    },
     "Sync_Reset": {
         "message": "Đặt lại đồng bộ"
     },
@@ -1355,9 +1256,6 @@
     },
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Đồng bộ hoá các tập lệnh của bạn"
-    },
-    "TabMode": {
-        "message": "TabMode"
     },
     "Tab_Size": {
         "message": "Kích cỡ Tab"
@@ -1376,9 +1274,6 @@
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey không có quyền truy cập các tệp cục bộ!"
-    },
-    "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
-        "message": ">>>Tampermonkey might not be able to provide access to the unsafe context (unsafeWindow, page's functions and variables) when this is disabled.<<<"
     },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
         "message": "Tampermonkey cần phải được khởi động lại để thay đổi này được áp dụng.\n\nBạn có muón tiếp tục không?"
@@ -1400,9 +1295,6 @@
     },
     "Text": {
         "message": "Văn bản"
-    },
-    "TextArea": {
-        "message": "TextArea"
     },
     "Thank_you_very_much_": {
         "message": "Cảm ơn bạn rất nhiều!"
@@ -1447,9 +1339,6 @@
     "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
         "message": "Tài nguyên bên ngoài này sẽ không tự cập nhật! Hãy xoá nó đi để cho phép cập nhật lại."
     },
-    "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
-        "message": ">>>This gives this script permission to retrieve and send data from and to every webpage. This is potentially unsafe!\n\nAre you sure you want to continue?<<<"
-    },
     "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
         "message": "Nguồn gốc của tập lệnh này không thể được xác định.\nCó thể nó đã được cài đặt bởi một bên thứ ba ác ý để lấy cắp dữ liệu cá nhân của bạn hoặc một số thiết đặt trình duyệt cơ bản, hệ điều hành hoặc phần cứng của bạn đã thay đổi.\nChỉnh sửa này sẽ kích hoạt nó!"
     },
@@ -1458,9 +1347,6 @@
     },
     "This_is_a_userscript": {
         "message": "Đây là một tập lệnh người dùng được viết bàng JavaScript."
-    },
-    "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
-        "message": ">>>This option allows the Tampermonkey homepage and some script hosting pages to determine the Tampermonkey version and some basic script information (installed, version, enabled).<<<"
     },
     "This_page_is_blacklisted_at_the_security_settings": {
         "message": "Bị cho vào danh sách đen bởi thiết đặt bảo mật"
@@ -1544,9 +1430,6 @@
     "Transpose": {
         "message": "Chuyển vị"
     },
-    "Trash": {
-        "message": "🗑"
-    },
     "Trigger_Update": {
         "message": "Khởi động cập nhật"
     },
@@ -1558,12 +1441,6 @@
     },
     "Type": {
         "message": "Loại"
-    },
-    "URL": {
-        "message": "URL"
-    },
-    "UUID": {
-        "message": "UUID"
     },
     "Unable_to_load_script_from_url_0url0": {
         "message": "Không thẻ tải tập lệnh từ url: \n $url$",
@@ -1654,9 +1531,6 @@
     "Userscript_Search": {
         "message": "Tìm kiếm tập lệnh người dùng"
     },
-    "Userscript_search_integration_mode": {
-        "message": ">>>Userscript Search integration<<<"
-    },
     "Userscripts": {
         "message": "Các tập lệnh người dùng"
     },
@@ -1675,9 +1549,6 @@
     "Version": {
         "message": "Phiên bản"
     },
-    "Vim": {
-        "message": "Vim"
-    },
     "Waiting_for_sync_to_finish": {
         "message": "Đang chờ cho việc đồng bộ được hoàn tất"
     },
@@ -1687,9 +1558,6 @@
     "Warning_unsafe_site_warnings_might_appear_": {
         "message": "Cảnh báo: các cảnh báo trang không an toàn có thể sẽ xuát hiện nếu một tập lệnh có chưa cac URL có khả năng gây hại."
     },
-    "WebDAV": {
-        "message": "WebDAV"
-    },
     "Whitelist": {
         "message": "Danh sách trắng"
     },
@@ -1698,18 +1566,6 @@
     },
     "Whitelisted_Pages": {
         "message": "Các trang trong danh sách trắng"
-    },
-    "Windows": {
-        "message": "Windows"
-    },
-    "XHR_Security": {
-        "message": "XHR Security"
-    },
-    "Yandex_Disk": {
-        "message": "Yandex.Disk"
-    },
-    "Yank_Sublime_Mark": {
-        "message": ">>>Yank Sublime Mark<<<"
     },
     "Yes": {
         "message": "Có"
@@ -1729,9 +1585,6 @@
     "You_are_about_to_update_a_UserScript_": {
         "message": "Cập nhật tập lệnh người dùng"
     },
-    "You_can_add_your_custom_CSS_rules_here_": {
-        "message": ">>>You can add your own CSS rules for the Tampermonkey UI here. In case this breaks something you can get the default layout by appending ?layout=reset to the options page URL.<<<"
-    },
     "You_can_add_your_custom_linter_config_here_": {
         "message": "Bạn có thể thêm cấu hình linter tuỳ chỉnh của bạn vào đây."
     },
@@ -1740,9 +1593,6 @@
     },
     "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
         "message": "Danh sách trắng của bạn có chứa các tệp thực thi!\nĐiều này nghĩa là các tập lệnh người dùng của bạn có thể tải xuống phần mềm ác ý hoặc phần mềm gián điệp vào ổ cứng của bạn!!"
-    },
-    "Zip": {
-        "message": "Zip"
     },
     "__Please_choose__": {
         "message": "-- Hãy chọn một tuỳ chọn --"
@@ -1767,30 +1617,6 @@
     },
     "severity_10": {
         "message": "10 (kém an toàn nhất)"
-    },
-    "severity_2": {
-        "message": "2"
-    },
-    "severity_3": {
-        "message": "3"
-    },
-    "severity_4": {
-        "message": "4"
-    },
-    "severity_5": {
-        "message": "5"
-    },
-    "severity_6": {
-        "message": "6"
-    },
-    "severity_7": {
-        "message": "7"
-    },
-    "severity_8": {
-        "message": "8"
-    },
-    "severity_9": {
-        "message": "9"
     },
     "some_secs": {
         "message": "vài"
