@@ -90,9 +90,6 @@
     "Add_Tampermonkey_to_the_site_s_content_csp": {
         "message": "Tampermonkey をサイトのコンテンツ CSP に追加"
     },
-    "Add_to_icon_badge_text": {
-        "message": "アイコン バッジ テキストに追加"
-    },
     "Add_as_0clude0": {
         "message": "$clude$ として追加",
         "placeholders": {
@@ -106,6 +103,9 @@
     },
     "Add_toSource_function_to_Object_Prototype": {
         "message": "Object と Array に互換関数を追加する"
+    },
+    "Add_to_icon_badge_text": {
+        "message": "アイコン バッジ テキストに追加"
     },
     "Advanced": {
         "message": "上級者"
@@ -158,6 +158,9 @@
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "内部エラーが発生しました。この問題点が継続する場合は、OK を押してこの問題点をフォーラムで報告してください。\n\nTampermonkey フォーラムに移動しますか?"
     },
+    "Anonymous_statistics": {
+        "message": "匿名の統計"
+    },
     "Antifeature__0name0__0description0": {
         "message": "$name$ を含みます: $description$",
         "placeholders": {
@@ -178,11 +181,11 @@
     "Antifeature_no_details": {
         "message": "詳細はありません"
     },
+    "Antifeature_other": {
+        "message": "対策機能"
+    },
     "Antifeature_tracking": {
         "message": "追跡"
-    },
-    "Anonymous_statistics": {
-        "message": "匿名の統計"
     },
     "Appearance": {
         "message": "外観"
@@ -194,7 +197,7 @@
         "message": "選択したスクリプトすべてにこの操作を適用"
     },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
-        "message": "Tampermonkey がブラウザーによって更新される際、同時に再起動もされます。残念ですが、これにより実行中のスクリプトが壊れる場合があります!\n\n更新を通知しないように本当に設定しますか?"
+        "message": "Tampermonkey がブラウザーによって更新される際、同時に再起動もされます。残念ですが、これにより実行中のスクリプトが壊れる場合があります!\n\n更新を通知しないように設定してよろしいですか?"
     },
     "Ask_if_unknown": {
         "message": "不明な場合は確認"
@@ -355,6 +358,9 @@
     "Config_Mode": {
         "message": "設定のモード"
     },
+    "Context_Menu": {
+        "message": "コンテキスト メニュー"
+    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "CDATA セクションをブラウザー互換形式に変換する"
     },
@@ -366,6 +372,9 @@
     },
     "Current_Version": {
         "message": "現在のバージョン"
+    },
+    "Cursor": {
+        "message": "カーソル"
     },
     "Custom_CSS": {
         "message": "カスタム CSS"
@@ -400,12 +409,6 @@
     "Delete": {
         "message": "削除"
     },
-    "Delete_all": {
-        "message": "すべて削除"
-    },
-    "Deleted_on": {
-        "message": "削除日"
-    },
     "Delete_Line": {
         "message": "行を削除"
     },
@@ -415,11 +418,17 @@
     "Delete_Line_Right": {
         "message": "行末まで削除"
     },
+    "Delete_all": {
+        "message": "すべて削除"
+    },
     "Delete_to_Next_Word_Boundary": {
         "message": "次の単語境界まで削除"
     },
     "Delete_to_Previous_Word_Boundary": {
         "message": "前の単語境界まで削除"
+    },
+    "Deleted_on": {
+        "message": "削除日"
     },
     "Description": {
         "message": "説明"
@@ -442,11 +451,8 @@
     "Disabled": {
         "message": "無効"
     },
-    "Disabled_scripts": {
-        "message": "無効化されているスクリプト数"
-    },
     "Do_you_really_want_to_store_fixed_code_": {
-        "message": "オプション「$option$」が有効です!\n\n修正されたソースを本当に保存しますか?",
+        "message": "オプション「$option$」が有効です!\n\n修正されたソースを保存してよろしいですか?",
         "placeholders": {
             "option": {
                 "content": "$1"
@@ -505,6 +511,9 @@
     },
     "Enable_autoSave": {
         "message": "エディターがフォーカスを失った際に内容を保存する"
+    },
+    "Enable_context_menu": {
+        "message": "コンテキスト メニューを有効にする"
     },
     "Enable_easySave": {
         "message": "保存する際に確認ダイアログを表示しない"
@@ -647,6 +656,9 @@
     },
     "Hide_notification_after": {
         "message": "通知を隠すまでの時間"
+    },
+    "Highlight_selection_matches": {
+        "message": "選択との一致を強調表示する"
     },
     "Highlight_trailing_whitespace": {
         "message": "末尾の空白を強調表示する"
@@ -798,6 +810,9 @@
         "message": "改行"
     },
     "Lines": {
+        "message": "行"
+    },
+    "Lines_Menu": {
         "message": "行"
     },
     "LogLevel": {
@@ -974,24 +989,30 @@
         "message": "ブラウザーで処理"
     },
     "Really_delete_0name0__": {
-        "message": "本当に「$name$」を削除しますか?",
+        "message": "「$name$」を削除してよろしいですか?",
         "placeholders": {
             "name": {
                 "content": "$1"
             }
         }
     },
+    "Really_delete_all_userscripts_": {
+        "message": "UserScript をすべて完全に削除してよろしいですか?"
+    },
     "Really_delete_the_selected_items_": {
-        "message": "選択した項目を本当に削除しますか?"
+        "message": "選択した項目を削除してよろしいですか?"
     },
     "Really_factory_reset_the_selected_items_": {
-        "message": "選択した項目を本当に初期化しますか?"
+        "message": "選択した項目を初期化してよろしいですか?"
     },
     "Really_factory_reset_this_script_": {
-        "message": "このスクリプトを本当に初期化しますか?"
+        "message": "このスクリプトを初期化してよろしいですか?"
     },
     "Really_reset_all_changes_": {
-        "message": "すべての変更を本当にリセットしますか?"
+        "message": "すべての変更をリセットしてよろしいですか?"
+    },
+    "Really_restore_all_userscripts_": {
+        "message": "UserScript をすべて復元してよろしいですか?"
     },
     "Redo": {
         "message": "やり直し"
@@ -1050,11 +1071,11 @@
     "Restart_Tampermonkey": {
         "message": "Tampermonkey を再起動"
     },
-    "Restore_all": {
-        "message": "すべて復元"
-    },
     "Restore": {
         "message": "復元"
+    },
+    "Restore_all": {
+        "message": "すべて復元"
     },
     "Revoke_Access_Token": {
         "message": "アクセス トークンを失効させる"
@@ -1100,6 +1121,9 @@
     "Script_local_files_access": {
         "message": "スクリプトによるローカル ファイルへのアクセスを許可する"
     },
+    "Script_menu_commands": {
+        "message": "UserScript メニュー コマンド"
+    },
     "Script_name_0name0": {
         "message": "UserScript 名: $name$",
         "placeholders": {
@@ -1110,6 +1134,9 @@
     },
     "Script_order": {
         "message": "UserScript の並び順"
+    },
+    "Scripts_activated_by_context_menu": {
+        "message": "@run-at コンテキスト メニューを使用する UserScript"
     },
     "Search": {
         "message": "検索"
@@ -1193,6 +1220,9 @@
     },
     "Spaces": {
         "message": "空白"
+    },
+    "Split_into_Lines": {
+        "message": "複数行に分割"
     },
     "Start": {
         "message": "実行"
@@ -1305,7 +1335,7 @@
         "message": "テーマ"
     },
     "There_are_unsaved_changed_": {
-        "message": "保存されていない変更があります。\nエディターを本当に閉じますか?"
+        "message": "保存されていない変更があります。\nエディターを閉じてよろしいですか?"
     },
     "There_is_an_update_for_0name0_avaiable_": {
         "message": "「$name$」の更新を利用できます。 :)",
@@ -1319,7 +1349,7 @@
         "message": "この外部リソースは自動更新されません! 再度更新を有効にするには削除してください。"
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
-        "message": "この操作によりこのスクリプトにあらゆるウェブページにデータを送受信する権限を与えることになります。これは潜在的に危険です!\n\n本当に続行しますか?"
+        "message": "この操作によりこのスクリプトにあらゆるウェブページにデータを送受信する権限を与えることになります。これは潜在的に危険です!\n\n続行してよろしいですか?"
     },
     "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
         "message": "このスクリプトの出所を特定できません。\n第三者が非公開データまたは一部の基本的なブラウザー設定を盗むためにインストールしたか、またはオペレーティング システムまたはハードウェアが変更されました。\nこの変更により、スクリプトが有効になります!"
@@ -1383,13 +1413,13 @@
         "message": "この操作により、グローバル設定が上書きされます!"
     },
     "This_will_remove_all_remote_data_from_sync_Ok_": {
-        "message": "Sync からすべてのデータを本当に除去しますか?"
+        "message": "Sync からすべてのデータを除去してよろしいですか?"
     },
     "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
-        "message": "すべてのスクリプトの除去とすべての設定のリセットの両方を本当に実行しますか?"
+        "message": "すべてのスクリプトの除去とすべての設定のリセットの両方を実行してよろしいですか?"
     },
     "This_will_restart_Tampermonkey_Ok_": {
-        "message": "Tampermonkey を本当に再起動しますか?"
+        "message": "Tampermonkey を再起動してよろしいですか?"
     },
     "Today": {
         "message": "今日"

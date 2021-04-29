@@ -321,9 +321,6 @@
     "Disabled": {
         "message": "Wyłączone"
     },
-    "Disabled_scripts": {
-        "message": "Ilość wyłączonych skryptów"
-    },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "Opcja '$option$' jest włączona!\n\nCzy na pewno chcesz zapisać poprawiony plik zródłowy?",
         "placeholders": {

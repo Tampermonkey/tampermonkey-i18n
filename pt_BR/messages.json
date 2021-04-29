@@ -138,10 +138,13 @@
         }
     },
     "Add_new_script___": {
-        "message": "Adicionar novo script..."
+        "message": "Criar novo script..."
     },
     "Add_toSource_function_to_Object_Prototype": {
         "message": "Adicionar funções de compatibilidade para Object e Array"
+    },
+    "Add_to_icon_badge_text": {
+        "message": "Adicionar ao texto do emblema do ícone"
     },
     "Advanced": {
         "message": "Avançado"
@@ -153,7 +156,7 @@
         "message": "Todas as modificações são armazenadas apenas até o final desta sessão em modo incógnito!"
     },
     "All_script_settings_will_be_reset_": {
-        "message": "Todas as configurações de script serão resetadas!"
+        "message": "Todas as configurações de script serão redefinidas!"
     },
     "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
         "message": "Permitir que o Tampermonkey colete estatísticas anônimas via Google Analytics. Isto ajuda a melhorar o Tampermonkey e determinar o foco do meu desenvolvimento baseado nessas informações. Apenas desative se você não gostar disso."
@@ -196,6 +199,32 @@
     },
     "Anonymous_statistics": {
         "message": "Estatísticas anônimas"
+    },
+    "Antifeature__0name0__0description0": {
+        "message": "Contém $name$: $description$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "description": {
+                "content": "$2"
+            }
+        }
+    },
+    "Antifeature_ads": {
+        "message": "Anúncios"
+    },
+    "Antifeature_miner": {
+        "message": "Mineração de Criptomoedas"
+    },
+    "Antifeature_no_details": {
+        "message": "Nenhum detalhe fornecido"
+    },
+    "Antifeature_other": {
+        "message": "um Antifeature"
+    },
+    "Antifeature_tracking": {
+        "message": "Rastreamento"
     },
     "Appearance": {
         "message": "Aparência"
@@ -259,6 +288,14 @@
     },
     "Blacklist": {
         "message": "Lista Negra"
+    },
+    "Blacklist_0domain0": {
+        "message": "$domain$ para Lista Negra",
+        "placeholders": {
+            "domain": {
+                "content": "$1"
+            }
+        }
     },
     "Blacklist_Severity": {
         "message": "Bloquear a partir do Nível de Segurança"
@@ -358,7 +395,7 @@
         "message": "Nuvem"
     },
     "Columns": {
-        "message": "Colunas."
+        "message": "Colunas"
     },
     "Comment": {
         "message": "Comentar"
@@ -377,6 +414,9 @@
     },
     "Current_Version": {
         "message": "Versão atual"
+    },
+    "Cursor": {
+        "message": "Cursor"
     },
     "Custom_CSS": {
         "message": "CSS do usuário"
@@ -420,6 +460,9 @@
     "Delete_Line_Right": {
         "message": "Excluir linha direita"
     },
+    "Delete_all": {
+        "message": "Excluir tudo"
+    },
     "Delete_to_Next_Word_Boundary": {
         "message": "Excluir até próximo limite de palavras"
     },
@@ -428,6 +471,9 @@
     },
     "Delete_to_Sublime_Mark": {
         "message": "Excluir até Sublime Mark"
+    },
+    "Deleted_on": {
+        "message": "Excluído em"
     },
     "Description": {
         "message": "Descrição"
@@ -449,9 +495,6 @@
     },
     "Disabled": {
         "message": "Desativado"
-    },
-    "Disabled_scripts": {
-        "message": "Desativar scripts"
     },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "A Opção '$option$' está habilitada!\n\nVocê quer realmente salvar a fonte corrigida?",
@@ -636,6 +679,14 @@
     "Forbid_once": {
         "message": "Proibir uma vez"
     },
+    "Found_0count0_available_scripts": {
+        "message": "Encontrados $count$ scripts disponíveis",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
     "Full_reset": {
         "message": "Redefinição de Fábrica"
     },
@@ -681,6 +732,9 @@
     "Hide_notification_after": {
         "message": "Ocultar notificações após"
     },
+    "Highlight_selection_matches": {
+        "message": "Destacar correspondências da seleção"
+    },
     "Highlight_trailing_whitespace": {
         "message": "Destacar espaços em branco"
     },
@@ -699,11 +753,28 @@
     "Icon_badge_info": {
         "message": "Informação de emblema do ícone"
     },
+    "Icon_badge_text_color": {
+        "message": "Cor do texto do emblema do ícone"
+    },
     "Import": {
         "message": "Importar"
     },
     "Imported": {
         "message": "Importado"
+    },
+    "In_order_to_search_for_userscripts__0on_action_menu0__and__0icon_badge_number0__automatically_transfer_the_tab_s_url_to_the_search_website__0on_click0_opens_the_search_page_on_click_Please_click_at_this_icon_to_open_the_privacy_policy_": {
+        "message": "No modo \"$icon_badge_number$\" o URL da aba é automaticamente\ntransferida ao site de busca e usado como o valor de busca.\n\nNo modo \"$on_action_menu$\" uma pesquisa usando o URL é feita smente\nquando o menu de ações é aberto.\n\n\"$on_click$\" abre somente o site de busca ao clicar em um item do menu de ações.\n\nClique aqui para abrir a política de privacidade do site de busca.",
+        "placeholders": {
+            "icon_badge_number": {
+                "content": "$1"
+            },
+            "on_action_menu": {
+                "content": "$2"
+            },
+            "on_click": {
+                "content": "$3"
+            }
+        }
     },
     "Include_TM_settings": {
         "message": "incluir configurações do Tampermonkey"
@@ -718,7 +789,7 @@
         "message": "Incluir armazenamento de script"
     },
     "Includes_Excludes": {
-        "message": "Includes/Excludes"
+        "message": "Inclusões/Exclusões"
     },
     "Incremental_Find": {
         "message": "Localizar incremental"
@@ -757,7 +828,7 @@
         "message": "Instalar"
     },
     "Install_from_URL": {
-        "message": "Instalar da URL"
+        "message": "Instalar do URL"
     },
     "Install_this_script": {
         "message": "Instalar este script"
@@ -816,6 +887,9 @@
     "Lines": {
         "message": "Linhas"
     },
+    "Lines_Menu": {
+        "message": "Linhas"
+    },
     "LogLevel": {
         "message": "Nível de log"
     },
@@ -870,6 +944,9 @@
     "No": {
         "message": "Não"
     },
+    "No_available_scripts": {
+        "message": "Nenhum script disponível"
+    },
     "No_backups_found": {
         "message": "Nenhum backup encontrado"
     },
@@ -909,6 +986,12 @@
     "On": {
         "message": "Ligado"
     },
+    "On_Action_Menu": {
+        "message": "No menu de ações"
+    },
+    "On_Click": {
+        "message": "Ao clicar"
+    },
     "OneDrive": {
         "message": "OneDrive"
     },
@@ -934,13 +1017,13 @@
         "message": "lista branca de domínio original"
     },
     "Original_excludes": {
-        "message": "Excludes originais"
+        "message": "Exclusões originais"
     },
     "Original_includes": {
-        "message": "Includes originais"
+        "message": "Inclusões originais"
     },
     "Original_matches": {
-        "message": "Matches originais"
+        "message": "Correspondências originais"
     },
     "Page_Filter_Mode": {
         "message": "Modo de Filtro de Página"
@@ -974,6 +1057,9 @@
     "Position_": {
         "message": "Posição"
     },
+    "Press_ctrl_to_toggle_all_checkboxes": {
+        "message": "Pressione Ctrl/Cmd para alternar todas as caixas de seleção"
+    },
     "Prev_Bookmark": {
         "message": "Marcador anterior"
     },
@@ -988,6 +1074,9 @@
             }
         }
     },
+    "Really_delete_all_userscripts_": {
+        "message": "Você deseja realmente excluir de forma permanente todos os userscripts?"
+    },
     "Really_delete_the_selected_items_": {
         "message": "Deseja realmente excluir os itens selecionados?"
     },
@@ -1000,6 +1089,9 @@
     "Really_reset_all_changes_": {
         "message": "Tem certeza que deseja redefinir todas as mudanças?"
     },
+    "Really_restore_all_userscripts_": {
+        "message": "Você deseja realmente restaurar todos os userscripts?"
+    },
     "Redo": {
         "message": "Refazer"
     },
@@ -1009,11 +1101,17 @@
     "Reinstall": {
         "message": "Reinstalar"
     },
+    "Reload": {
+        "message": "Recarregar"
+    },
     "Remind_me_later": {
         "message": "Lembre-me depois."
     },
     "Remove": {
         "message": "Remover"
+    },
+    "Remove__possibly_unsecure_": {
+        "message": "Remover totalmente (possivelmente não seguro)"
     },
     "Replace": {
         "message": "Substituir"
@@ -1049,7 +1147,13 @@
         "message": "Recursos"
     },
     "Restart_Tampermonkey": {
-        "message": "Reiniciar Tampermonkey"
+        "message": "Reiniciar o Tampermonkey"
+    },
+    "Restore": {
+        "message": "Restaurar"
+    },
+    "Restore_all": {
+        "message": "Restaurar tudo"
     },
     "Revoke_Access_Token": {
         "message": "Revogar Token de Acesso"
@@ -1084,13 +1188,13 @@
         "message": "TESLA"
     },
     "Script_URL_detection": {
-        "message": "Detecção da URL do script."
+        "message": "Detecção do URL do script."
     },
     "Script_Update": {
         "message": "Atualização de Script"
     },
     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
-        "message": "Autores de scripts externos podem proteger seus recursos externos adicionando um hash SRI à URL."
+        "message": "Autores de scripts externos podem proteger seus recursos externos adicionando um hash SRI ao URL."
     },
     "Script_local_files_access": {
         "message": "Permitir que scripts acessem arquivos locais"
@@ -1111,6 +1215,12 @@
     },
     "Search_for": {
         "message": "Procurar por"
+    },
+    "Search_for_userscripts_for_this_tab": {
+        "message": "Procurar por userscripts nesta página"
+    },
+    "Searching_for_userscripts_for_this_tab": {
+        "message": "Procurando por userscripts..."
     },
     "Security": {
         "message": "Segurança"
@@ -1235,16 +1345,22 @@
         "message": "Tampermonkey External Script List Access (Lista de Acesso de Scripts Externos do Tampermonkey)"
     },
     "TabMode": {
-        "message": "Tabulação"
+        "message": "Abas"
+    },
+    "Tab_Size": {
+        "message": "Tamanho da aba"
     },
     "Tab_URL": {
         "message": "URL da aba"
     },
     "Tabs": {
-        "message": "Guias"
+        "message": "Abas"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + versão do script"
+    },
+    "Tampermonkey_has_no_access_to_this_page": {
+        "message": "O Tampermonkey não possui acesso a esta página"
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "O Tampermonkey não tem permissão para acessar arquivos locais!"
@@ -1292,7 +1408,7 @@
         "message": "Aviso: A origem deste script não pôde ser determinada.\nOu ele foi instalado maliciosamente por terceiros para roubar seus dados privados ou algumas configurações básicas do navegador, seu sistema operacional ou hardware foi alterado!\n\nPor favor, abra, revise e salve o script para habilitá-lo."
     },
     "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
-        "message": "A URL de atualização mudou:\n '$oldurl$'\n para:\n '$newurl$'\n",
+        "message": "O URL de atualização mudou:\n '$oldurl$'\n para:\n '$newurl$'\n",
         "placeholders": {
             "oldurl": {
                 "content": "$1"
@@ -1358,6 +1474,9 @@
     "This_script_was_deleted": {
         "message": "Este script foi excluído"
     },
+    "This_script_was_deleted_by_the_hoster_": {
+        "message": "Este script foi excluído pelo hospedeiro"
+    },
     "This_script_was_executed_0count0_times": {
         "message": "Este script foi executado $count$ vez(es)",
         "placeholders": {
@@ -1405,13 +1524,16 @@
         "message": "Alternar Comentário Recuado"
     },
     "Toggle_Enable": {
-        "message": "Alterne para habilitar."
+        "message": "Alterne para habilitar"
     },
     "Trace": {
         "message": "Traço"
     },
     "Transpose": {
         "message": "Inverter posição"
+    },
+    "Trash": {
+        "message": "ðŸ—‘"
     },
     "Trigger_Update": {
         "message": "Iniciar busca de atualização"
@@ -1432,7 +1554,7 @@
         "message": "UUID"
     },
     "Unable_to_load_script_from_url_0url0": {
-        "message": "Não foi possível carregar o script da URL: \n $url$",
+        "message": "Não foi possível carregar o script do URL: \n $url$",
         "placeholders": {
             "url": {
                 "content": "$1"
@@ -1506,16 +1628,22 @@
         "message": "lista branca de domínio do usuário"
     },
     "User_excludes": {
-        "message": "Excludes do usuário"
+        "message": "Exclusões do usuário"
     },
     "User_includes": {
-        "message": "Includes do usuário"
+        "message": "Inclusões do usuário"
     },
     "User_matches": {
-        "message": "Matches do usuário"
+        "message": "Correspondências do usuário"
     },
     "User_modified": {
         "message": "Modificado"
+    },
+    "Userscript_Search": {
+        "message": "Pesquisar por Userscript"
+    },
+    "Userscript_search_integration_mode": {
+        "message": "Integração de pesquisar por userscript"
     },
     "Userscripts": {
         "message": "Userscripts"
@@ -1590,10 +1718,10 @@
         "message": "Atualização de Userscript:"
     },
     "You_can_add_your_custom_CSS_rules_here_": {
-        "message": "Aqui você pode adicionar suas próprias regras CSS para a interface do Tampermonkey. Caso isto quebre alguma coisa, você pode obter o layout padrão anexando ?layout=reset à URL da página de opções."
+        "message": "Aqui você pode adicionar suas próprias regras CSS para a interface do Tampermonkey. Caso isto quebre alguma coisa, você pode obter o layout padrão anexando ?layout=reset ao URL da página de opções."
     },
     "You_can_add_your_custom_linter_config_here_": {
-        "message": "Você pode adicionar sua configuração linter personaliada aqui."
+        "message": "Você pode adicionar sua configuração linter personalizada aqui."
     },
     "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
         "message": "Seu idioma não é suportado?\nClique aqui para obter instruções de como traduzir o Tampermonkey?"
@@ -1657,5 +1785,8 @@
     },
     "strict_mode": {
         "message": "Modo estrito"
+    },
+    "top_level_await": {
+        "message": "espera de nível superior"
     }
 }

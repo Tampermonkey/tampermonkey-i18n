@@ -450,9 +450,6 @@
     "Disabled": {
         "message": "已停用"
     },
-    "Disabled_scripts": {
-        "message": "已停止的腳本"
-    },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "選項 '$option$' 已啟用！\n\n真的要儲存修正過的原始碼嗎？",
         "placeholders": {
@@ -696,11 +693,11 @@
     "Icon_badge_color": {
         "message": "圖示徽章顏色"
     },
-    "Icon_badge_text_color": {
-        "message": "圖示徽章文字顏色"
-    },
     "Icon_badge_info": {
         "message": "圖示徽章資訊"
+    },
+    "Icon_badge_text_color": {
+        "message": "圖示徽章文字顏色"
     },
     "Import": {
         "message": "匯入"
@@ -814,6 +811,9 @@
         "message": "自動換行"
     },
     "Lines": {
+        "message": "行"
+    },
+    "Lines_Menu": {
         "message": "行"
     },
     "LogLevel": {
@@ -1240,14 +1240,14 @@
     "TabMode": {
         "message": "Tab 模式"
     },
+    "Tab_Size": {
+        "message": "Tab 大小"
+    },
     "Tab_URL": {
         "message": "Tab URL"
     },
     "Tabs": {
         "message": "Tab"
-    },
-    "Tab_Size": {
-        "message": "Tab 大小"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + 腳本版本"

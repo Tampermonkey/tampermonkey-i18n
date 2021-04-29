@@ -129,9 +129,6 @@
     "Add_Tampermonkey_to_the_site_s_content_csp": {
         "message": "Add Tampermonkey to the HTML's CSP"
     },
-    "Add_to_icon_badge_text": {
-        "message": "Add to icon badge text"
-    },
     "Add_as_0clude0": {
         "message": "Add as $clude$",
         "placeholders": {
@@ -145,6 +142,9 @@
     },
     "Add_toSource_function_to_Object_Prototype": {
         "message": "Add compatibility functions to Object and Array"
+    },
+    "Add_to_icon_badge_text": {
+        "message": "Add to icon badge text"
     },
     "Advanced": {
         "message": "Advanced"
@@ -197,6 +197,9 @@
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "An internal error occurred. If this problem persists even after a restart of the browser, please press OK and report this issue at the forum.\n\nDo you want to visit the Tampermonkey forum?"
     },
+    "Anonymous_statistics": {
+        "message": "Anonymous statistics"
+    },
     "Antifeature__0name0__0description0": {
         "message": "Contains $name$: $description$",
         "placeholders": {
@@ -222,9 +225,6 @@
     },
     "Antifeature_tracking": {
         "message": "Tracking"
-    },
-    "Anonymous_statistics": {
-        "message": "Anonymous statistics"
     },
     "Appearance": {
         "message": "Appearance"
@@ -403,6 +403,9 @@
     "Config_Mode": {
         "message": "Config mode"
     },
+    "Context_Menu": {
+        "message": "Context Menu"
+    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Convert CDATA sections into a browser compatible format"
     },
@@ -414,6 +417,9 @@
     },
     "Current_Version": {
         "message": "Current Version"
+    },
+    "Cursor": {
+        "message": "Cursor"
     },
     "Custom_CSS": {
         "message": "Custom CSS"
@@ -448,12 +454,6 @@
     "Delete": {
         "message": "Delete"
     },
-    "Delete_all": {
-        "message": "Delete all"
-    },
-    "Deleted_on": {
-        "message": "Deleted on"
-    },
     "Delete_Line": {
         "message": "Delete Line"
     },
@@ -463,6 +463,9 @@
     "Delete_Line_Right": {
         "message": "Delete Line Right"
     },
+    "Delete_all": {
+        "message": "Delete all"
+    },
     "Delete_to_Next_Word_Boundary": {
         "message": "Delete to Next Word Boundary"
     },
@@ -471,6 +474,9 @@
     },
     "Delete_to_Sublime_Mark": {
         "message": "Delete to Sublime Mark"
+    },
+    "Deleted_on": {
+        "message": "Deleted on"
     },
     "Description": {
         "message": "Description"
@@ -492,9 +498,6 @@
     },
     "Disabled": {
         "message": "Disabled"
-    },
-    "Disabled_scripts": {
-        "message": "Disabled scripts"
     },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "The Option '$option$' is enabled!\n\nDo you really want to store the fixed source?",
@@ -565,6 +568,9 @@
     },
     "Enable_autoSave": {
         "message": "Save content when editor loses focus"
+    },
+    "Enable_context_menu": {
+        "message": "Enable context menu"
     },
     "Enable_easySave": {
         "message": "Don't show confirmation dialog on save"
@@ -732,6 +738,9 @@
     "Hide_notification_after": {
         "message": "Hide notification after"
     },
+    "Highlight_selection_matches": {
+        "message": "Highlight selection matches"
+    },
     "Highlight_trailing_whitespace": {
         "message": "Highlight trailing whitespace"
     },
@@ -879,9 +888,12 @@
         "message": "Line Up"
     },
     "Line_break": {
-        "message": "Line break"
+        "message": "Word wrap"
     },
     "Lines": {
+        "message": "Lines"
+    },
+    "Lines_Menu": {
         "message": "Lines"
     },
     "LogLevel": {
@@ -1143,11 +1155,11 @@
     "Restart_Tampermonkey": {
         "message": "Restart Tampermonkey"
     },
-    "Restore_all": {
-        "message": "Restore all"
-    },
     "Restore": {
         "message": "Restore"
+    },
+    "Restore_all": {
+        "message": "Restore all"
     },
     "Revoke_Access_Token": {
         "message": "Revoke Access Token"
@@ -1193,6 +1205,9 @@
     "Script_local_files_access": {
         "message": "Allow scripts to access local files"
     },
+    "Script_menu_commands": {
+        "message": "Userscript menu commands"
+    },
     "Script_name_0name0": {
         "message": "Userscript name: $name$",
         "placeholders": {
@@ -1203,6 +1218,9 @@
     },
     "Script_order": {
         "message": "Userscript order"
+    },
+    "Scripts_activated_by_context_menu": {
+        "message": "Userscripts using @run-at context-menu"
     },
     "Search": {
         "message": "Search"
@@ -1523,11 +1541,11 @@
     "Trace": {
         "message": "Trace"
     },
-    "Trash": {
-        "message": "🗑"
-    },
     "Transpose": {
         "message": "Transpose"
+    },
+    "Trash": {
+        "message": "🗑"
     },
     "Trigger_Update": {
         "message": "Trigger Update"

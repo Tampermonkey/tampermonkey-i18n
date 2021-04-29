@@ -450,9 +450,6 @@
     "Disabled": {
         "message": "معطّـل"
     },
-    "Disabled_scripts": {
-        "message": "البرامج النصية المعطلة"
-    },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "خيار '$option$' مفعل!\n\nهل تريد فعلاً تخزين المصدر الثابت؟",
         "placeholders": {
@@ -817,6 +814,9 @@
         "message": "فاصلة السطر"
     },
     "Lines": {
+        "message": "أسطر"
+    },
+    "Lines_Menu": {
         "message": "أسطر"
     },
     "LogLevel": {

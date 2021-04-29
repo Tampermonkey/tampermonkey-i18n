@@ -224,9 +224,6 @@
     "Disabled": {
         "message": "Kikapcsolva "
     },
-    "Disabled_scripts": {
-        "message": "Kikapcsolt szkriptek "
-    },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "Az '$option$' opció be van kapcsolva!\n\nBiztosan tárolni akarod a javított forrást?",
         "placeholders": {

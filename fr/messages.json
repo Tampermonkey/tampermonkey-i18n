@@ -267,7 +267,7 @@
         "message": "Tous les deux"
     },
     "Browser_API": {
-        "message": "API Navigateur"
+        "message": "API du Navigateur"
     },
     "Browser_API_Downloads": {
         "message": "Téléchargements de l'API du navigateur"
@@ -426,9 +426,6 @@
     },
     "Disabled": {
         "message": "Désactivé"
-    },
-    "Disabled_scripts": {
-        "message": "Scripts désactivés"
     },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "L'Option '$option$' est allumée!\n\nVoulez-vous enregistrer la source fixe ?",
@@ -782,6 +779,9 @@
         "message": "Saut de ligne"
     },
     "Lines": {
+        "message": "Lignes"
+    },
+    "Lines_Menu": {
         "message": "Lignes"
     },
     "LogLevel": {
@@ -1341,16 +1341,16 @@
         "message": "Aujourd'hui"
     },
     "Toggle": {
-        "message": "Commuter"
+        "message": "Basculer"
     },
     "Toggle_Block_Comment": {
-        "message": "Toggle bloc de commentaire"
+        "message": "Basculer sur le bloc de commentaire"
     },
     "Toggle_Comment": {
-        "message": "Toggle commentaire"
+        "message": "Basculer sur les commentaires"
     },
     "Toggle_Comment_Indented": {
-        "message": "Toggle commentaire indenté"
+        "message": "Basculer sur les commentaires indentés"
     },
     "Toggle_Enable": {
         "message": "Activer / désactiver"
@@ -1448,7 +1448,7 @@
         "message": "Majuscule"
     },
     "User_domain_blacklist": {
-        "message": "Liste noire de domaine utilisateur"
+        "message": "Liste noire du domaine de l'utilisateur"
     },
     "User_domain_whitelist": {
         "message": "Liste blanche du domaine de l'utilisateur"
@@ -1595,9 +1595,9 @@
         "message": "9"
     },
     "some_secs": {
-        "message": "quelques"
+        "message": "quelques secondes"
     },
     "strict_mode": {
-        "message": "strict mode"
+        "message": "mode strict"
     }
 }

@@ -375,9 +375,6 @@
     "Disabled": {
         "message": "असक्रिय किया गया"
     },
-    "Disabled_scripts": {
-        "message": "स्क्रिप्ट अक्षम की गयी"
-    },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "विकल्प '$option$' सक्षम किया गया है!\n\nक्या आप सच में तय स्रोत स्टोर करना चाहते हैं?",
         "placeholders": {

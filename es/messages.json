@@ -307,9 +307,6 @@
     "Disabled": {
         "message": "Desactivado"
     },
-    "Disabled_scripts": {
-        "message": "Scripts deshabilitados"
-    },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "¡La opción '$option$' está activada!\n\n¿Estás seguro que quieres guardar la fuente fija?",
         "placeholders": {

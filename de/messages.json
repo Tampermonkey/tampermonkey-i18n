@@ -87,9 +87,6 @@
     "Add_Tampermonkey_to_the_site_s_content_csp": {
         "message": "Tampermonkey zur Content Security Policy (CSP) im Quelltext hinzufügen"
     },
-    "Add_to_icon_badge_text": {
-        "message": "Als Icon-Information"
-    },
     "Add_as_0clude0": {
         "message": "Regel als $clude$ behandeln",
         "placeholders": {
@@ -103,6 +100,9 @@
     },
     "Add_toSource_function_to_Object_Prototype": {
         "message": "Den Prototypen Object und Array Kompatibilitätsfunktionen hinzufügen"
+    },
+    "Add_to_icon_badge_text": {
+        "message": "Als Icon-Information"
     },
     "Advanced": {
         "message": "Experte"
@@ -155,6 +155,9 @@
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "Ein interner Fehler ist aufgetreten. Bitte melden Sie dieses Problem im Tampermonkey-Forum, falls es auch nach einem Neustart des Browsers weiterhin besteht.\n\nWollen Sie das Forum jetzt besuchen?"
     },
+    "Anonymous_statistics": {
+        "message": "Anonyme Statistiken"
+    },
     "Antifeature__0name0__0description0": {
         "message": "Enthält $name$: $description$",
         "placeholders": {
@@ -180,9 +183,6 @@
     },
     "Antifeature_tracking": {
         "message": "einen Tracking-Mechanismum"
-    },
-    "Anonymous_statistics": {
-        "message": "Anonyme Statistiken"
     },
     "Appearance": {
         "message": "Aussehen"
@@ -331,6 +331,9 @@
     "Config_Mode": {
         "message": "Konfigurations-Modus"
     },
+    "Context_Menu": {
+        "message": "Context Menü"
+    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "CDATA-Abschnitte in ein Browser-kompatibles Format konvertieren"
     },
@@ -391,9 +394,6 @@
     "Disabled": {
         "message": "Deaktiviert"
     },
-    "Disabled_scripts": {
-        "message": "Inaktive Userscripte"
-    },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "Die Option '$option$' ist aktiviert!\n\nMöchten Sie wirklich den von TM modifizierten Quellcode speichern?",
         "placeholders": {
@@ -436,6 +436,9 @@
     },
     "Enable_autoSave": {
         "message": "Automatisch speichern, wenn der Editor den Fokus verliert"
+    },
+    "Enable_context_menu": {
+        "message": "Context-Menü-Eintrag aktivieren"
     },
     "Enable_easySave": {
         "message": "Speichere ohne Bestätigungsdialog"
@@ -554,6 +557,9 @@
     },
     "Hide_notification_after": {
         "message": "Update-Benachrichtigung ausblenden nach"
+    },
+    "Highlight_selection_matches": {
+        "message": "Textauswahlübereinstimmungen markieren"
     },
     "Highlight_trailing_whitespace": {
         "message": "Leerzeichen am Ende der Zeile markieren"
@@ -867,11 +873,11 @@
     "Restart_Tampermonkey": {
         "message": "Neustart"
     },
-    "Restore_all": {
-        "message": "Alle wiederherstellen"
-    },
     "Restore": {
         "message": "Wiederherstellen"
+    },
+    "Restore_all": {
+        "message": "Alle wiederherstellen"
     },
     "Revoke_Access_Token": {
         "message": "Zugangsberechtigung widerrufen"
@@ -911,6 +917,9 @@
     "Script_local_files_access": {
         "message": "Das Lesen von lokale Dateien durch Userscripte erlauben"
     },
+    "Script_menu_commands": {
+        "message": "Userscript Menü-Kommandos"
+    },
     "Script_name_0name0": {
         "message": "Userscript-Name: $name$",
         "placeholders": {
@@ -921,6 +930,9 @@
     },
     "Script_order": {
         "message": "Userscript-Sortierung"
+    },
+    "Scripts_activated_by_context_menu": {
+        "message": "Userscripte die @run-at context-menu nutzen"
     },
     "Search": {
         "message": "Suchen"

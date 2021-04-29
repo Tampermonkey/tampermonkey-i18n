@@ -197,6 +197,32 @@
     "Anonymous_statistics": {
         "message": "İsimsiz istatistikler"
     },
+    "Antifeature__0name0__0description0": {
+        "message": "İçerik $name$: $description$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "description": {
+                "content": "$2"
+            }
+        }
+    },
+    "Antifeature_ads": {
+        "message": "Reklamlar"
+    },
+    "Antifeature_miner": {
+        "message": "Kripto Madenciliği"
+    },
+    "Antifeature_no_details": {
+        "message": "Detay verilmedi"
+    },
+    "Antifeature_other": {
+        "message": "Bir Antiözellik"
+    },
+    "Antifeature_tracking": {
+        "message": "Takip"
+    },
     "Appearance": {
         "message": "Görünüm"
     },
@@ -378,6 +404,9 @@
     "Current_Version": {
         "message": "Mevcut Sürüm"
     },
+    "Cursor": {
+        "message": "İşaretçi"
+    },
     "Custom_CSS": {
         "message": "Kişisel CSS"
     },
@@ -420,6 +449,9 @@
     "Delete_Line_Right": {
         "message": "Sağ satırı sil"
     },
+    "Delete_all": {
+        "message": "Tümünü sil"
+    },
     "Delete_to_Next_Word_Boundary": {
         "message": "Sonraki kelime sınırında sil"
     },
@@ -428,6 +460,9 @@
     },
     "Delete_to_Sublime_Mark": {
         "message": "Sublim İşaret sil"
+    },
+    "Deleted_on": {
+        "message": "Silinme"
     },
     "Description": {
         "message": "Açıklama"
@@ -449,9 +484,6 @@
     },
     "Disabled": {
         "message": "Etkin değil"
-    },
-    "Disabled_scripts": {
-        "message": "Etkin olmayan betikler"
     },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "Bu '$option$' seçeneği aktif!\n\nGerçekten sabit kaynağı saklamayı istiyor musunuz?",
@@ -681,8 +713,11 @@
     "Hide_notification_after": {
         "message": "Sonraki bildirimleri gizle"
     },
+    "Highlight_selection_matches": {
+        "message": "Eşleşen seçimleri vurgula"
+    },
     "Highlight_trailing_whitespace": {
-        "message": "Arka boşlukları vurgulayın"
+        "message": "Arka boşlukları vurgula"
     },
     "Homepage": {
         "message": "Ana sayfa"
@@ -769,7 +804,7 @@
         "message": "Yüklenmiş Sürüm"
     },
     "Installed_userscripts": {
-        "message": "Yüklenmiş kullanıcı betikleri"
+        "message": "Yüklenmiş Kullanıcı Betikleri"
     },
     "Instant": {
         "message": "Anlık"
@@ -814,9 +849,12 @@
         "message": "Yukarı satır"
     },
     "Line_break": {
-        "message": "Satır arası"
+        "message": "Otomatik satır sonu"
     },
     "Lines": {
+        "message": "Satırlar"
+    },
+    "Lines_Menu": {
         "message": "Satırlar"
     },
     "LogLevel": {
@@ -977,6 +1015,9 @@
     "Position_": {
         "message": "Konum"
     },
+    "Press_ctrl_to_toggle_all_checkboxes": {
+        "message": "Ctrl/Cmd basıp tüm kutucukları değiştirin"
+    },
     "Prev_Bookmark": {
         "message": "Önceki yer imi"
     },
@@ -991,6 +1032,9 @@
             }
         }
     },
+    "Really_delete_all_userscripts_": {
+        "message": "Gerçekten tüm betikleri kalıcı olarak silmek istiyor musunuz?"
+    },
     "Really_delete_the_selected_items_": {
         "message": "Seçilen öğeleri gerçekten silmek istiyor musunuz?"
     },
@@ -1002,6 +1046,9 @@
     },
     "Really_reset_all_changes_": {
         "message": "Gerçekten tüm değişikler sıfırlansın mı?"
+    },
+    "Really_restore_all_userscripts_": {
+        "message": "Gerçekten tüm betikleri geri yüklemek istiyor musunuz?"
     },
     "Redo": {
         "message": "İleri al"
@@ -1056,6 +1103,12 @@
     },
     "Restart_Tampermonkey": {
         "message": "Tampermonkey'i Yeniden Başlat"
+    },
+    "Restore": {
+        "message": "Geri getir"
+    },
+    "Restore_all": {
+        "message": "Tümünü geri getir"
     },
     "Revoke_Access_Token": {
         "message": "Giriş Yetkisini Kaldır"
@@ -1367,6 +1420,9 @@
     "This_script_was_deleted": {
         "message": "Bu betik silindi"
     },
+    "This_script_was_deleted_by_the_hoster_": {
+        "message": "Bu betik barındırıcı tarafından silindi"
+    },
     "This_script_was_executed_0count0_times": {
         "message": "Bu betik $count$ defa çalıştırıldı",
         "placeholders": {
@@ -1421,6 +1477,9 @@
     },
     "Transpose": {
         "message": "Yerini değiştir"
+    },
+    "Trash": {
+        "message": "🗑"
     },
     "Trigger_Update": {
         "message": "Tetikleyici Güncelleme"
@@ -1666,5 +1725,8 @@
     },
     "strict_mode": {
         "message": "katı mod"
+    },
+    "top_level_await": {
+        "message": "üst seviye bekleme"
     }
 }

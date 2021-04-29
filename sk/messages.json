@@ -291,9 +291,6 @@
     "Disabled": {
         "message": "Vypnuté"
     },
-    "Disabled_scripts": {
-        "message": "Vypnuté skripty"
-    },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "Možnosť '$option$' je povolená!\n\nNaozaj chcete uložiť opravený zdroj?",
         "placeholders": {

@@ -441,9 +441,6 @@
     "Disabled": {
         "message": "Вимкнуто"
     },
-    "Disabled_scripts": {
-        "message": "Відключені скрипти"
-    },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "Опція '$option$' включена!\n\nВи дійсно хочете зберегти зміни в коді?",
         "placeholders": {
@@ -799,6 +796,9 @@
         "message": "Розрив рядка"
     },
     "Lines": {
+        "message": "Лінії"
+    },
+    "Lines_Menu": {
         "message": "Лінії"
     },
     "LogLevel": {

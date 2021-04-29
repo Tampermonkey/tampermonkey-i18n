@@ -141,7 +141,7 @@
         "message": "添加新脚本..."
     },
     "Add_toSource_function_to_Object_Prototype": {
-        "message": "为对象和数组增加兼容性函数"
+        "message": "为对象和数组增加兼容性方法"
     },
     "Advanced": {
         "message": "高级"
@@ -194,6 +194,9 @@
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "发生一个内部错误。如果此问题在重启浏览器后继续出现，请按“确定”并在论坛中报告此问题。\n\n您是否要访问 Tampermonkey 论坛？"
     },
+    "Anonymous_statistics": {
+        "message": "匿名统计数据"
+    },
     "Antifeature__0name0__0description0": {
         "message": "包含 $name$: $description$",
         "placeholders": {
@@ -219,9 +222,6 @@
     },
     "Antifeature_tracking": {
         "message": "追踪"
-    },
-    "Anonymous_statistics": {
-        "message": "匿名统计数据"
     },
     "Appearance": {
         "message": "外观"
@@ -378,7 +378,7 @@
         "message": "关闭"
     },
     "Closing_Bracket": {
-        "message": "关闭括号"
+        "message": "配对括号"
     },
     "Cloud": {
         "message": "云"
@@ -404,6 +404,9 @@
     "Current_Version": {
         "message": "当前版本"
     },
+    "Cursor": {
+        "message": "光标"
+    },
     "Custom_CSS": {
         "message": "用户 CSS"
     },
@@ -420,7 +423,7 @@
         "message": "调试"
     },
     "Debug_scripts": {
-        "message": "脚本调试"
+        "message": "调试脚本"
     },
     "Default": {
         "message": "默认"
@@ -437,12 +440,6 @@
     "Delete": {
         "message": "删除"
     },
-    "Delete_all": {
-        "message": "删除所有"
-    },
-    "Deleted_on": {
-        "message": "删除于"
-    },
     "Delete_Line": {
         "message": "删除行"
     },
@@ -452,6 +449,9 @@
     "Delete_Line_Right": {
         "message": "删除行右"
     },
+    "Delete_all": {
+        "message": "删除所有"
+    },
     "Delete_to_Next_Word_Boundary": {
         "message": "删除到下一单词边界"
     },
@@ -460,6 +460,9 @@
     },
     "Delete_to_Sublime_Mark": {
         "message": "删除到 Sublime 标记"
+    },
+    "Deleted_on": {
+        "message": "删除于"
     },
     "Description": {
         "message": "简介"
@@ -481,9 +484,6 @@
     },
     "Disabled": {
         "message": "已禁用"
-    },
-    "Disabled_scripts": {
-        "message": "已禁用的脚本"
     },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "“$option$”选项已启用！\n是否保存修复后的源码？",
@@ -699,10 +699,10 @@
         "message": "Google Drive"
     },
     "Group_Left": {
-        "message": "分组左侧"
+        "message": "单词左侧"
     },
     "Group_Right": {
-        "message": "分组右侧"
+        "message": "单词右侧"
     },
     "Help": {
         "message": "帮助"
@@ -712,6 +712,9 @@
     },
     "Hide_notification_after": {
         "message": "多久后隐藏提醒"
+    },
+    "Highlight_selection_matches": {
+        "message": "高亮匹配项"
     },
     "Highlight_trailing_whitespace": {
         "message": "高亮尾随空格"
@@ -756,7 +759,7 @@
         "message": "包括/排除"
     },
     "Incremental_Find": {
-        "message": "增亮查找"
+        "message": "增量查找"
     },
     "Indent": {
         "message": "缩进"
@@ -837,7 +840,7 @@
         "message": "受限的运行时主机权限可能损坏脚本升级、 GM_xmlhttpRequest 以及其他 Tampermonkey 功能！"
     },
     "Line_Case_Insensitive": {
-        "message": "行大小写不敏感"
+        "message": "按行的忽略大小写的字典序"
     },
     "Line_Down": {
         "message": "下一行"
@@ -846,9 +849,12 @@
         "message": "上一行"
     },
     "Line_break": {
-        "message": "换行符"
+        "message": "自动换行"
     },
     "Lines": {
+        "message": "按行的字典序"
+    },
+    "Lines_Menu": {
         "message": "行"
     },
     "LogLevel": {
@@ -876,10 +882,10 @@
         "message": "修改"
     },
     "Move_Line_Down": {
-        "message": "行下移"
+        "message": "下移行"
     },
     "Move_Line_Up": {
-        "message": "行上移"
+        "message": "上移行"
     },
     "Name": {
         "message": "名称"
@@ -1026,6 +1032,9 @@
             }
         }
     },
+    "Really_delete_all_userscripts_": {
+        "message": "您真的要永久删除所有用户脚本吗？"
+    },
     "Really_delete_the_selected_items_": {
         "message": "您真的要删除选择的项目吗？"
     },
@@ -1037,6 +1046,9 @@
     },
     "Really_reset_all_changes_": {
         "message": "确定重置所有更改吗？"
+    },
+    "Really_restore_all_userscripts_": {
+        "message": "您真的想恢复所有用户脚本吗？"
     },
     "Redo": {
         "message": "重做"
@@ -1092,11 +1104,11 @@
     "Restart_Tampermonkey": {
         "message": "重启 Tampermonkey"
     },
-    "Restore_all": {
-        "message": "重置所有"
-    },
     "Restore": {
         "message": "重置"
+    },
+    "Restore_all": {
+        "message": "重置所有"
     },
     "Revoke_Access_Token": {
         "message": "撤销访问令牌"
@@ -1175,16 +1187,16 @@
         "message": "选择下一个出现位置"
     },
     "Select_Scope": {
-        "message": "选择范围"
+        "message": "选择块"
     },
     "Select_between_Brackets": {
-        "message": "选择括号间"
+        "message": "选择前后括号中间的部分"
     },
     "Select_to_Sublime_Mark": {
         "message": "选择到 Sublime 标记"
     },
     "Selection": {
-        "message": "选择内容"
+        "message": "选择"
     },
     "Server_And_Manual": {
         "message": "远程 + 手动管理"
@@ -1449,25 +1461,25 @@
         "message": "切换"
     },
     "Toggle_Block_Comment": {
-        "message": "切换块注释"
+        "message": "添加/移除块注释"
     },
     "Toggle_Comment": {
-        "message": "切换注释"
+        "message": "添加/移除注释"
     },
     "Toggle_Comment_Indented": {
-        "message": "切换缩进注释"
+        "message": "添加/移除缩进注释"
     },
     "Toggle_Enable": {
-        "message": "切换启用/禁用"
+        "message": "启用/禁用"
     },
     "Trace": {
         "message": "追踪"
     },
-    "Trash": {
-        "message": "🗑"
-    },
     "Transpose": {
         "message": "变换"
+    },
+    "Trash": {
+        "message": "🗑"
     },
     "Trigger_Update": {
         "message": "触发一次更新"
@@ -1708,13 +1720,34 @@
     "severity_9": {
         "message": "9"
     },
+    "Userscript_Search": {
+        "message": "用户脚本搜索"
+    },
+    "Userscript_search_integration_mode": {
+        "message": "用户脚本搜索集成"
+    },
+    "Scripts_activated_by_context_menu": {
+        "message": "使用 @run-at 上下文菜单的用户脚本"
+    },
+    "Script_menu_commands": {
+        "message": "用户脚本菜单命令"
+    },
+    "Context_Menu": {
+        "message": "上下文菜单"
+    },
+    "Enable_context_menu": {
+        "message": "启用上下文菜单"
+    },
     "some_secs": {
         "message": "部分"
     },
     "strict_mode": {
         "message": "严格模式"
     },
+    "Add_to_icon_badge_text": {
+        "message": "添加到图标徽章文字"
+    },
     "top_level_await": {
-    "message": "top-level await"
+        "message": "top-level await"
     }
 }

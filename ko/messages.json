@@ -294,9 +294,6 @@
     "Disabled": {
         "message": "비활성화됨"
     },
-    "Disabled_scripts": {
-        "message": "비활성화된 스크립트"
-    },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "'$option$' 설정이 활성화되었습니다!\n\n고쳐진 소스를 저장하시겠습니까?",
         "placeholders": {
