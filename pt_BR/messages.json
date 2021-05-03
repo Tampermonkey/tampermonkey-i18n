@@ -403,6 +403,9 @@
     "Config_Mode": {
         "message": "Modo de configurações"
     },
+    "Context_Menu": {
+        "message": "Menu de Contexto"
+    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Converter seções CDATA em formato compatível com Chrome"
     },
@@ -565,6 +568,9 @@
     },
     "Enable_autoSave": {
         "message": "Salvar conteúdo quando o editor perder o foco"
+    },
+    "Enable_context_menu": {
+        "message": "Habilitar menu de contexto"
     },
     "Enable_easySave": {
         "message": "Não mostrar diálogo de confirmação para salvar"
@@ -1199,6 +1205,9 @@
     "Script_local_files_access": {
         "message": "Permitir que scripts acessem arquivos locais"
     },
+    "Script_menu_commands": {
+        "message": "Comandos de menu do userscript"
+    },
     "Script_name_0name0": {
         "message": "Nome do script: $name$",
         "placeholders": {
@@ -1209,6 +1218,9 @@
     },
     "Script_order": {
         "message": "Ordem de scripts"
+    },
+    "Scripts_activated_by_context_menu": {
+        "message": "Userscripts usando @run-at context-menu"
     },
     "Search": {
         "message": "Localizar"
