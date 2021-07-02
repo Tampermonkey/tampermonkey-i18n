@@ -1336,7 +1336,7 @@
         "message": "Метка"
     },
     "Subresource_Integrity": {
-        "message": "Под ресурсная целостность"
+        "message": "Подресурсная целостность"
     },
     "Swap_with_Sublime_Mark": {
         "message": "Обмен с меткой"
@@ -1490,7 +1490,7 @@
         "message": "Этот скрипт был удален хостером"
     },
     "This_script_was_executed_0count0_times": {
-        "message": "Этот скрипт был выполнен $count$ один раз",
+        "message": "Этот скрипт был выполнен $count$ раз(а)",
         "placeholders": {
             "count": {
                 "content": "$1"
