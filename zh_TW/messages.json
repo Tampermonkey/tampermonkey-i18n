@@ -143,6 +143,9 @@
     "Add_toSource_function_to_Object_Prototype": {
         "message": "為 Object 和 Array 增加相容性函式"
     },
+    "Add_to_icon_badge_text": {
+        "message": "新增製圖示標記文字"
+    },
     "Advanced": {
         "message": "進階"
     },
@@ -196,6 +199,32 @@
     },
     "Anonymous_statistics": {
         "message": "匿名統計資料"
+    },
+    "Antifeature__0name0__0description0": {
+        "message": "包含 $name$：$description$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "description": {
+                "content": "$2"
+            }
+        }
+    },
+    "Antifeature_ads": {
+        "message": "廣告"
+    },
+    "Antifeature_miner": {
+        "message": "挖礦"
+    },
+    "Antifeature_no_details": {
+        "message": "無詳細資料"
+    },
+    "Antifeature_other": {
+        "message": "其他阻擋功能"
+    },
+    "Antifeature_tracking": {
+        "message": "追蹤"
     },
     "Appearance": {
         "message": "外觀"
@@ -259,6 +288,14 @@
     },
     "Blacklist": {
         "message": "黑名單"
+    },
+    "Blacklist_0domain0": {
+        "message": "黑名單 $domain$",
+        "placeholders": {
+            "domain": {
+                "content": "$1"
+            }
+        }
     },
     "Blacklist_Severity": {
         "message": "照嚴重等級禁用"
@@ -366,6 +403,9 @@
     "Config_Mode": {
         "message": "設定模式"
     },
+    "Context_Menu": {
+        "message": "右鍵選單"
+    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "轉換 CDATA sections 為 Chrome 相容的格式"
     },
@@ -377,6 +417,9 @@
     },
     "Current_Version": {
         "message": "當前版本"
+    },
+    "Cursor": {
+        "message": "游標"
     },
     "Custom_CSS": {
         "message": "自訂 CSS"
@@ -420,6 +463,9 @@
     "Delete_Line_Right": {
         "message": "刪除游標所在行中游標右邊的內容"
     },
+    "Delete_all": {
+        "message": "全部刪除"
+    },
     "Delete_to_Next_Word_Boundary": {
         "message": "刪除至下一個單字界線"
     },
@@ -428,6 +474,9 @@
     },
     "Delete_to_Sublime_Mark": {
         "message": "刪除至 Sublime 標記"
+    },
+    "Deleted_on": {
+        "message": "刪除於"
     },
     "Description": {
         "message": "描述"
@@ -519,6 +568,9 @@
     },
     "Enable_autoSave": {
         "message": "失去滑鼠焦點時儲存內容"
+    },
+    "Enable_context_menu": {
+        "message": "啟用右鍵選單"
     },
     "Enable_easySave": {
         "message": "儲存時不顯示確認對話框"
@@ -633,6 +685,14 @@
     "Forbid_once": {
         "message": "禁止一次"
     },
+    "Found_0count0_available_scripts": {
+        "message": "找到 $count$ 個可用的腳本",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
     "Full_reset": {
         "message": "重設到出廠設定"
     },
@@ -678,6 +738,9 @@
     "Hide_notification_after": {
         "message": "多少時間後隱藏提示"
     },
+    "Highlight_selection_matches": {
+        "message": "標註與選取相同的文字"
+    },
     "Highlight_trailing_whitespace": {
         "message": "標注行尾的空白"
     },
@@ -704,6 +767,20 @@
     },
     "Imported": {
         "message": "已匯入"
+    },
+    "In_order_to_search_for_userscripts__0on_action_menu0__and__0icon_badge_number0__automatically_transfer_the_tab_s_url_to_the_search_website__0on_click0_opens_the_search_page_on_click_Please_click_at_this_icon_to_open_the_privacy_policy_": {
+        "message": "在 \"$icon_badge_number$\" 模式下，分頁的網址將自動\n傳送到搜尋頁面並搜尋。\n\n在 \"$on_action_menu$\"  模式下，只有開啟動作選單\n才會使用網址搜尋。\n\n\"$on_click$\" 只會在點擊動作選單的項目後才開啟搜尋頁面。\n\n點擊這裡以閱讀搜尋網站的隱私政策。",
+        "placeholders": {
+            "icon_badge_number": {
+                "content": "$1"
+            },
+            "on_action_menu": {
+                "content": "$2"
+            },
+            "on_click": {
+                "content": "$3"
+            }
+        }
     },
     "Include_TM_settings": {
         "message": "包含 Tampermonkey 設定"
@@ -798,6 +875,9 @@
     "Layout": {
         "message": "介面設定"
     },
+    "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
+        "message": "執行期宿主的權限受限可能會導致一些 Tampermonkey 的功能無法運作，例如腳本更新、GM_xmlhttpRequest...等。"
+    },
     "Line_Case_Insensitive": {
         "message": "行不區分大小寫"
     },
@@ -870,6 +950,9 @@
     "No": {
         "message": "否"
     },
+    "No_available_scripts": {
+        "message": "沒有可用的腳本"
+    },
     "No_backups_found": {
         "message": "找不到備份"
     },
@@ -908,6 +991,12 @@
     },
     "On": {
         "message": "開啟"
+    },
+    "On_Action_Menu": {
+        "message": "開啟動作選單時"
+    },
+    "On_Click": {
+        "message": "點擊時"
     },
     "OneDrive": {
         "message": "OneDrive"
@@ -974,6 +1063,9 @@
     "Position_": {
         "message": "順位"
     },
+    "Press_ctrl_to_toggle_all_checkboxes": {
+        "message": "按下 Ctrl/Cmd 以勾選所有核取方塊"
+    },
     "Prev_Bookmark": {
         "message": "上一個書籤"
     },
@@ -988,6 +1080,9 @@
             }
         }
     },
+    "Really_delete_all_userscripts_": {
+        "message": "您確定要永久刪除所有使用者腳本嗎？"
+    },
     "Really_delete_the_selected_items_": {
         "message": "您確定要移除所選的項目嗎？"
     },
@@ -1000,6 +1095,9 @@
     "Really_reset_all_changes_": {
         "message": "確定要重設所有變更嗎？"
     },
+    "Really_restore_all_userscripts_": {
+        "message": "您確定要復原所有使用者腳本嗎？"
+    },
     "Redo": {
         "message": "重做"
     },
@@ -1008,6 +1106,9 @@
     },
     "Reinstall": {
         "message": "重新安裝"
+    },
+    "Reload": {
+        "message": "重新載入"
     },
     "Remind_me_later": {
         "message": "稍後提醒"
@@ -1054,6 +1155,12 @@
     "Restart_Tampermonkey": {
         "message": "重新啟動 Tampermonkey"
     },
+    "Restore": {
+        "message": "復原"
+    },
+    "Restore_all": {
+        "message": "全部復原"
+    },
     "Revoke_Access_Token": {
         "message": "撤銷存取權杖 (Token)"
     },
@@ -1098,6 +1205,9 @@
     "Script_local_files_access": {
         "message": "允許腳本存取本機檔案"
     },
+    "Script_menu_commands": {
+        "message": "使用者腳本選單指令"
+    },
     "Script_name_0name0": {
         "message": "腳本名稱：$name$",
         "placeholders": {
@@ -1109,11 +1219,20 @@
     "Script_order": {
         "message": "腳本排序"
     },
+    "Scripts_activated_by_context_menu": {
+        "message": "允許使用者腳本使用 @run-at context-menu"
+    },
     "Search": {
         "message": "搜尋"
     },
     "Search_for": {
         "message": "尋找"
+    },
+    "Search_for_userscripts_for_this_tab": {
+        "message": "尋找可用於此頁面的使用者腳本"
+    },
+    "Searching_for_userscripts_for_this_tab": {
+        "message": "正在尋找使用者腳本..."
     },
     "Security": {
         "message": "安全"
@@ -1252,6 +1371,9 @@
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + 腳本版本"
     },
+    "Tampermonkey_has_no_access_to_this_page": {
+        "message": "Tampermonkey 沒有存取此頁面的權限"
+    },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey 沒有存取本地檔案的權限！"
     },
@@ -1335,7 +1457,10 @@
         "message": "這是一個系統腳本。"
     },
     "This_is_a_userscript": {
-        "message": "這個使用者的腳本使用 Javascript 編寫"
+        "message": "這個使用者腳本使用 Javascript 編寫"
+    },
+    "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
+        "message": "此選項將允許 Tampermonkey 首頁及一些腳本寄存網站判斷 Tampermonkey 的版本及其他腳本的基本資訊 (已安裝/啟用、版本)。"
     },
     "This_page_is_blacklisted_at_the_security_settings": {
         "message": "此頁面因為安全性設定而加入黑名單"
@@ -1360,6 +1485,9 @@
     },
     "This_script_was_deleted": {
         "message": "此腳本已被刪除"
+    },
+    "This_script_was_deleted_by_the_hoster_": {
+        "message": "此腳本已被代管者刪除"
     },
     "This_script_was_executed_0count0_times": {
         "message": "此腳本已執行了 $count$ 次",
@@ -1416,8 +1544,14 @@
     "Transpose": {
         "message": "重新排列"
     },
+    "Trash": {
+        "message": "🗑"
+    },
     "Trigger_Update": {
         "message": "更新"
+    },
+    "Trim_trailing_whitespace_from_modified_lines": {
+        "message": "去除修改過的程式碼中多餘的空白"
     },
     "Try_to_install_as_script": {
         "message": "嘗試以腳本安裝"
@@ -1432,7 +1566,7 @@
         "message": "UUID"
     },
     "Unable_to_load_script_from_url_0url0": {
-        "message": "無法載入腳本從 url：\n $url$",
+        "message": "無法從網址載入腳本：\n $url$",
         "placeholders": {
             "url": {
                 "content": "$1"
@@ -1457,7 +1591,7 @@
         "message": "取消展開"
     },
     "Unfold_All": {
-        "message": ">全部展開"
+        "message": "全部展開"
     },
     "Unique_running_scripts": {
         "message": "單獨執行中的腳本"
@@ -1477,7 +1611,7 @@
         "message": "顯示 TamperMonkey 更新提示"
     },
     "Update_URL_": {
-        "message": "更新 URL"
+        "message": "更新網址"
     },
     "Update_check_is_disabled": {
         "message": "腳本更新檢查已停用或不可用"
@@ -1486,7 +1620,7 @@
         "message": "更新週期"
     },
     "Updated_to__0version0": {
-        "message": "已更新到：$version$ 版",
+        "message": "已更新到：$version$",
         "placeholders": {
             "version": {
                 "content": "$1"
@@ -1516,6 +1650,12 @@
     },
     "User_modified": {
         "message": "已修改"
+    },
+    "Userscript_Search": {
+        "message": "搜尋使用者腳本"
+    },
+    "Userscript_search_integration_mode": {
+        "message": "整合使用者腳本搜尋"
     },
     "Userscripts": {
         "message": "使用者腳本"
@@ -1657,5 +1797,8 @@
     },
     "strict_mode": {
         "message": "嚴格模式"
+    },
+    "top_level_await": {
+        "message": "最高層級 await"
     }
 }
