@@ -1276,6 +1276,9 @@
     "Verbose": {
         "message": "Geschwätzig"
     },
+    "View": {
+        "message": "Anzeigen"
+    },
     "Waiting_for_sync_to_finish": {
         "message": "Warte auf die Beendigung der Synchronisation"
     },
