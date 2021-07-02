@@ -818,6 +818,9 @@
     "Layout": {
         "message": "Bố cục"
     },
+     "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
+        "message": ">>>Giới hạn chạy nền có thể phá vỡ một số tính năng của Tampermonkey như cập nhật tập lệnh, GM_xmlhttpRequest và các tính năng khác!<<<"
+    },
     "Line_Case_Insensitive": {
         "message": "Dòng không phân biệt hoa thường"
     },
@@ -955,6 +958,15 @@
     },
     "Original_domain_whitelist": {
         "message": "Danh sách trắng tên miền gốc"
+    },
+     "Original_excludes": {
+        "message": ">>>Loại trừ tên miền gốc<<<"
+    },
+    "Original_includes": {
+        "message": ">>>Bao gồm tên miền gốc<<<"
+    },
+    "Original_matches": {
+        "message": ">>>Giống tên miền gốc<<<"
     },
     "Page_Filter_Mode": {
         "message": "Chế độ lọc trang"
@@ -1124,6 +1136,9 @@
     "Script_Update": {
         "message": "Cập nhật tập lệnh"
     },
+     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
+        "message": ">>>Tác giả tập lệnh có thể bảo mật các tài nguyên bên ngoài bằng cách thêm mã băm SRI vào URL nguồn.<<<"
+    },
     "Script_local_files_access": {
         "message": "Cho phép các tập lệnh truy cập các tệp cục bộ"
     },
@@ -1212,6 +1227,9 @@
     "Smart": {
         "message": "Thông minh"
     },
+    "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
+        "message": ">>>Một số tập lệnh có thể bị chặn bởi cài đặt JavaScript cho trang này hoặc trình chặn tập lệnh!<<<"
+    },
     "Sort": {
         "message": "Phân loại"
     },
@@ -1275,6 +1293,9 @@
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey không có quyền truy cập các tệp cục bộ!"
     },
+     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
+        "message": ">>>Tampermonkey có thể không cung cấp quyền truy cập vào ngữ cảnh không an toàn (unsafeWindow, các hàm và biến của trang) khi tính năng này bị tắt<<<"
+    },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
         "message": "Tampermonkey cần phải được khởi động lại để thay đổi này được áp dụng.\n\nBạn có muón tiếp tục không?"
     },
@@ -1295,6 +1316,9 @@
     },
     "Text": {
         "message": "Văn bản"
+    },
+    "TextArea": {
+        "message": "Khu vực gõ văn bản"
     },
     "Thank_you_very_much_": {
         "message": "Cảm ơn bạn rất nhiều!"
@@ -1339,6 +1363,9 @@
     "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
         "message": "Tài nguyên bên ngoài này sẽ không tự cập nhật! Hãy xoá nó đi để cho phép cập nhật lại."
     },
+    "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
+        "message": ">>>Điều này cung cấp cho tập lệnh này quyền truy xuất và gửi dữ liệu từ và đến mọi trang web. Điều này có khả năng không an toàn!\n\nBạn có chắc chắn muốn tiếp tục không?<<<"
+    },
     "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
         "message": "Nguồn gốc của tập lệnh này không thể được xác định.\nCó thể nó đã được cài đặt bởi một bên thứ ba ác ý để lấy cắp dữ liệu cá nhân của bạn hoặc một số thiết đặt trình duyệt cơ bản, hệ điều hành hoặc phần cứng của bạn đã thay đổi.\nChỉnh sửa này sẽ kích hoạt nó!"
     },
@@ -1347,6 +1374,9 @@
     },
     "This_is_a_userscript": {
         "message": "Đây là một tập lệnh người dùng được viết bàng JavaScript."
+    },
+    "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
+        "message": ">>>Tùy chọn này cho phép trang chủ Tampermonkey và một số trang lưu trữ tập lệnh xác định phiên bản Tampermonkey và một số thông tin tập lệnh cơ bản (đã cài đặt, phiên bản, đã kích hoạt chưa)..<<<"
     },
     "This_page_is_blacklisted_at_the_security_settings": {
         "message": "Bị cho vào danh sách đen bởi thiết đặt bảo mật"
@@ -1429,6 +1459,9 @@
     },
     "Transpose": {
         "message": "Chuyển vị"
+    },
+     "Trash": {
+        "message": "Thùng rác"
     },
     "Trigger_Update": {
         "message": "Khởi động cập nhật"
@@ -1531,6 +1564,9 @@
     "Userscript_Search": {
         "message": "Tìm kiếm tập lệnh người dùng"
     },
+    "Userscript_search_integration_mode": {
+        "message": ">>>Tìm kiếm tập lệnh người dùng kết hợp<<<"
+    },
     "Userscripts": {
         "message": "Các tập lệnh người dùng"
     },
@@ -1584,6 +1620,9 @@
     },
     "You_are_about_to_update_a_UserScript_": {
         "message": "Cập nhật tập lệnh người dùng"
+    },
+    "You_can_add_your_custom_CSS_rules_here_": {
+        "message": ">>>Bạn có thể thêm các quy tắc CSS của riêng mình cho giao diện người dùng Tampermonkey tại đây. Trong trường hợp điều này làm hỏng điều gì đó, bạn có thể lấy bố cục mặc định bằng cách thêm ?layout=reset vào đường dẫn trang tùy chọn.<<<"
     },
     "You_can_add_your_custom_linter_config_here_": {
         "message": "Bạn có thể thêm cấu hình linter tuỳ chỉnh của bạn vào đây."
