@@ -340,7 +340,7 @@
         "message": "检查更新"
     },
     "Check_for_userscripts_updates": {
-        "message": "用户脚本检查更新"
+        "message": "检查用户脚本的更新"
     },
     "Check_interval": {
         "message": "检查间隔"
@@ -562,7 +562,7 @@
         "message": "启用此选项以在输入时自动检查代码。"
     },
     "Enabled": {
-        "message": "是否启用"
+        "message": "已启用"
     },
     "Enforce": {
         "message": "强制"
