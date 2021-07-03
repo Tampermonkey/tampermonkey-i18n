@@ -1014,7 +1014,7 @@
         "message": "Solo i file con queste estensioni possono essere salvati nel disco fisso.\nAssicurati di non inserire estensioni di file che siano eseguibili nel tuo sistema operativo!"
     },
     "Open_changelog": {
-        "message": "Apri l'elenco modifiche"
+        "message": "Apri elenco modifiche"
     },
     "Operation_completed_successfully": {
         "message": "Operazione eseguita correttamente"
@@ -1674,6 +1674,9 @@
     },
     "Version": {
         "message": "Versione"
+    },
+    "View": {
+        "message": "Visualizza"
     },
     "Vim": {
         "message": "Vim"
