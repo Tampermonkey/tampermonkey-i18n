@@ -89,7 +89,7 @@
         "message": "É necessária recarregar: \nTodas as mudanças não salvas serão perdidas!"
     },
     "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
-        "message": "Uma solicitação para um recurso de origem cruzada não é incomum. Você tem de verificar se esse script tem boa razão para acessar esse domínio.\nPor exemplo, há apenas algumas poucas razões para que um script de usuário entre em contato com seu banco.\n\nObserve que os autores do script de usuário podem evitar esse diálogo, adicionando etiquetas [url=$connect$]@connect[/url] aos seus scripts.\n\nIndependente do que você decidir, você pode mudar sua opinião quando quiser na guia de [url=$settings$]definições do script[/url].",
+        "message": "Uma solicitação para um recurso de origem cruzada não é incomum. Você tem de verificar se esse script tem boa razão para acessar esse domínio.\nPor exemplo, há apenas algumas poucas razões para que um userscript entre em contato com seu banco.\n\nObserve que os autores do userscript podem evitar esse diálogo, adicionando etiquetas [url=$connect$]@connect[/url] aos seus scripts.\n\nIndependente do que você decidir, você pode mudar sua opinião quando quiser na guia de [url=$settings$]definições do script[/url].",
         "placeholders": {
             "connect": {
                 "content": "$1"
@@ -100,13 +100,16 @@
         }
     },
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
-        "message": "Um script de usuário quer acessar um recurso de origem cruzada."
+        "message": "Um userscript quer acessar um recurso de origem cruzada."
+    },
+    "Aborted_by_user": {
+        "message": "Abortado pelo usuário"
     },
     "Action": {
         "message": "Ação"
     },
     "Action_Menu": {
-        "message": "Menu de ações"
+        "message": "Menu de Ações"
     },
     "Action_failed": {
         "message": "Falha na ação"
@@ -138,7 +141,7 @@
         }
     },
     "Add_new_script___": {
-        "message": "Criar novo script..."
+        "message": "Adicionar novo script..."
     },
     "Add_toSource_function_to_Object_Prototype": {
         "message": "Adicionar funções de compatibilidade para Object e Array"
@@ -221,7 +224,7 @@
         "message": "Nenhum detalhe fornecido"
     },
     "Antifeature_other": {
-        "message": "um Antifeature"
+        "message": "Antifeature"
     },
     "Antifeature_tracking": {
         "message": "Rastreamento"
@@ -290,7 +293,7 @@
         "message": "Lista Negra"
     },
     "Blacklist_0domain0": {
-        "message": "$domain$ para Lista Negra",
+        "message": "Adicionar $domain$ à lista negra",
         "placeholders": {
             "domain": {
                 "content": "$1"
@@ -319,7 +322,7 @@
         "message": "Sincronizar Navegador"
     },
     "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
-        "message": "CONFLITO:\nEste script foi modificado por outra aba $t$ segundo(s) atrás!",
+        "message": "CONFLITO:\nEste script foi modificado por outra guia $t$ segundo(s) atrás!",
         "placeholders": {
             "t": {
                 "content": "$1"
@@ -395,7 +398,7 @@
         "message": "Nuvem"
     },
     "Columns": {
-        "message": "Colunas"
+        "message": "Colunas."
     },
     "Comment": {
         "message": "Comentar"
@@ -403,8 +406,8 @@
     "Config_Mode": {
         "message": "Modo de configurações"
     },
-    "Context_Menu": {
-        "message": "Menu de Contexto"
+    "Convert_Array_Assignements": {
+        "message": "Converter sentenças [blub, bla] = s.split(':')"
     },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Converter seções CDATA em formato compatível com Chrome"
@@ -438,6 +441,9 @@
     },
     "Debug_scripts": {
         "message": "Depurar scripts"
+    },
+    "Decoding": {
+        "message": "Decodificando..."
     },
     "Default": {
         "message": "Padrão"
@@ -757,7 +763,7 @@
         "message": "Cor do emblema do ícone"
     },
     "Icon_badge_info": {
-        "message": "Informação de emblema do ícone"
+        "message": "Informações do emblema do ícone"
     },
     "Icon_badge_text_color": {
         "message": "Cor do texto do emblema do ícone"
@@ -766,16 +772,16 @@
         "message": "Importar"
     },
     "Import_from_URL": {
-        "message": "Instalar do URL"
+        "message": "Importar do URL"
     },
     "Import_from_file": {
-        "message": "Importar"
+        "message": "Importar do arquivo"
     },
     "Imported": {
         "message": "Importado"
     },
     "In_order_to_search_for_userscripts__0on_action_menu0__and__0icon_badge_number0__automatically_transfer_the_tab_s_url_to_the_search_website__0on_click0_opens_the_search_page_on_click_Please_click_at_this_icon_to_open_the_privacy_policy_": {
-        "message": "No modo \"$icon_badge_number$\" o URL da aba é automaticamente\ntransferida ao site de busca e usado como o valor de busca.\n\nNo modo \"$on_action_menu$\" uma pesquisa usando o URL é feita smente\nquando o menu de ações é aberto.\n\n\"$on_click$\" abre somente o site de busca ao clicar em um item do menu de ações.\n\nClique aqui para abrir a política de privacidade do site de busca.",
+        "message": "No modo \"$icon_badge_number$\" o URL da guia é automaticamente\ntransferido ao site de busca e usado como valor de pesquisa.\n\nNo modo \"$on_action_menu$\" uma pesquisa usando o URL é feita somente \nquando o menu de ações é aberto.\n\n\"$on_click$\" somente abre o site de busca ao clicar em um item no menu de ações.\n\nClique aqui para abrir a política de privacidade do site de busca.",
         "placeholders": {
             "icon_badge_number": {
                 "content": "$1"
@@ -898,6 +904,9 @@
     },
     "Lines_Menu": {
         "message": "Linhas"
+    },
+    "Loading": {
+        "message": "Carregando..."
     },
     "LogLevel": {
         "message": "Nível de log"
@@ -1084,7 +1093,7 @@
         }
     },
     "Really_delete_all_userscripts_": {
-        "message": "Você deseja realmente excluir de forma permanente todos os userscripts?"
+        "message": "Você realmente deseja excluir permanentemente todos os userscripts?"
     },
     "Really_delete_the_selected_items_": {
         "message": "Deseja realmente excluir os itens selecionados?"
@@ -1099,7 +1108,7 @@
         "message": "Tem certeza que deseja redefinir todas as mudanças?"
     },
     "Really_restore_all_userscripts_": {
-        "message": "Você deseja realmente restaurar todos os userscripts?"
+        "message": "Você realmente deseja restaurar todos os userscripts?"
     },
     "Redo": {
         "message": "Refazer"
@@ -1156,7 +1165,7 @@
         "message": "Recursos"
     },
     "Restart_Tampermonkey": {
-        "message": "Reiniciar o Tampermonkey"
+        "message": "Reiniciar Tampermonkey"
     },
     "Restore": {
         "message": "Restaurar"
@@ -1209,7 +1218,7 @@
         "message": "Permitir que scripts acessem arquivos locais"
     },
     "Script_menu_commands": {
-        "message": "Comandos de menu do userscript"
+        "message": "Comandos de menu do script do usuário"
     },
     "Script_name_0name0": {
         "message": "Nome do script: $name$",
@@ -1235,7 +1244,7 @@
         "message": "Procurar por userscripts nesta página"
     },
     "Searching_for_userscripts_for_this_tab": {
-        "message": "Procurando por userscripts..."
+        "message": "Procurando userscripts..."
     },
     "Security": {
         "message": "Segurança"
@@ -1360,16 +1369,16 @@
         "message": "Tampermonkey External Script List Access (Lista de Acesso de Scripts Externos do Tampermonkey)"
     },
     "TabMode": {
-        "message": "Abas"
+        "message": "Tabulação"
     },
     "Tab_Size": {
-        "message": "Tamanho da aba"
+        "message": "Tamanho da guia"
     },
     "Tab_URL": {
-        "message": "URL da aba"
+        "message": "URL da guia"
     },
     "Tabs": {
-        "message": "Abas"
+        "message": "Guias"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + versão do script"
@@ -1486,11 +1495,11 @@
     "This_script_stores_data": {
         "message": "Este script salva informações no Tampermonkey."
     },
+    "This_script_uses_uW_gm_api_": {
+        "message": "Este script usa parte do API Greasemonkey 10 (unsafeWindow.gmonkey)\nque não é suportado pelo Tampermonkey nem outro executor de scripts alternativo."
+    },
     "This_script_was_deleted": {
         "message": "Este script foi excluído"
-    },
-    "This_script_was_deleted_by_the_hoster_": {
-        "message": "Este script foi excluído pelo hospedeiro"
     },
     "This_script_was_executed_0count0_times": {
         "message": "Este script foi executado $count$ vez(es)",
@@ -1539,7 +1548,7 @@
         "message": "Alternar Comentário Recuado"
     },
     "Toggle_Enable": {
-        "message": "Alterne para habilitar"
+        "message": "Alterne para habilitar."
     },
     "Trace": {
         "message": "Traço"
@@ -1643,22 +1652,22 @@
         "message": "lista branca de domínio do usuário"
     },
     "User_excludes": {
-        "message": "Exclusões do usuário"
+        "message": "Excludes do usuário"
     },
     "User_includes": {
-        "message": "Inclusões do usuário"
+        "message": "Includes do usuário"
     },
     "User_matches": {
-        "message": "Correspondências do usuário"
+        "message": "Matches do usuário"
     },
     "User_modified": {
         "message": "Modificado"
     },
     "Userscript_Search": {
-        "message": "Pesquisar por Userscript"
+        "message": "Pesquisar userscripts"
     },
     "Userscript_search_integration_mode": {
-        "message": "Integração de pesquisar por userscript"
+        "message": "Integração da pesquisa de userscripts"
     },
     "Userscripts": {
         "message": "Userscripts"
@@ -1677,6 +1686,9 @@
     },
     "Version": {
         "message": "Versão"
+    },
+    "View": {
+        "message": "Visualização"
     },
     "Vim": {
         "message": "Vim"
