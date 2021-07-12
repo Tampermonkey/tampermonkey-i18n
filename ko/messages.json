@@ -469,6 +469,9 @@
     "Import": {
         "message": "가져오기"
     },
+    "Import_from_file": {
+        "message": "가져오기"
+    },
     "Imported": {
         "message": "가져와짐"
     },

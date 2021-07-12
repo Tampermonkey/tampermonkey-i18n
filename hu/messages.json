@@ -369,6 +369,9 @@
     "Import": {
         "message": "Importálás"
     },
+    "Import_from_file": {
+        "message": "Importálás"
+    },
     "Imported": {
         "message": "Importált"
     },

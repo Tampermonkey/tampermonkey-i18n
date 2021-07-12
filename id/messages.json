@@ -321,6 +321,9 @@
     "Import": {
         "message": "Impor"
     },
+    "Import_from_file": {
+        "message": "Impor"
+    },
     "Include_TM_settings": {
         "message": "Termasuk pengaturan Tampermonkey"
     },

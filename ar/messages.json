@@ -702,6 +702,12 @@
     "Import": {
         "message": "استيراد"
     },
+    "Import_from_URL": {
+        "message": "تثبيت من رابط"
+    },
+    "Import_from_file": {
+        "message": "استيراد"
+    },
     "Imported": {
         "message": "مستورد"
     },
@@ -755,9 +761,6 @@
     },
     "Install": {
         "message": "تثبيت"
-    },
-    "Install_from_URL": {
-        "message": "تثبيت من رابط"
     },
     "Install_this_script": {
         "message": "تثبيت هذا البرنامج النصي"

@@ -765,6 +765,12 @@
     "Import": {
         "message": "匯入"
     },
+    "Import_from_URL": {
+        "message": "自 URL 安裝"
+    },
+    "Import_from_file": {
+        "message": "匯入"
+    },
     "Imported": {
         "message": "已匯入"
     },
@@ -832,9 +838,6 @@
     },
     "Install": {
         "message": "安裝"
-    },
-    "Install_from_URL": {
-        "message": "自 URL 安裝"
     },
     "Install_this_script": {
         "message": "安裝此腳本"

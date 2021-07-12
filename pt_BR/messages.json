@@ -765,6 +765,12 @@
     "Import": {
         "message": "Importar"
     },
+    "Import_from_URL": {
+        "message": "Instalar do URL"
+    },
+    "Import_from_file": {
+        "message": "Importar"
+    },
     "Imported": {
         "message": "Importado"
     },
@@ -832,9 +838,6 @@
     },
     "Install": {
         "message": "Instalar"
-    },
-    "Install_from_URL": {
-        "message": "Instalar do URL"
     },
     "Install_this_script": {
         "message": "Instalar este script"

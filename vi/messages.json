@@ -708,6 +708,12 @@
     "Import": {
         "message": "Nhập"
     },
+    "Import_from_URL": {
+        "message": "Cài từ URL"
+    },
+    "Import_from_file": {
+        "message": "Nhập"
+    },
     "Imported": {
         "message": "Đã nhập"
     },
@@ -776,9 +782,6 @@
     "Install": {
         "message": "Cài đặt"
     },
-    "Install_from_URL": {
-        "message": "Cài từ URL"
-    },
     "Install_this_script": {
         "message": "Cài tập lệnh này"
     },
@@ -818,7 +821,7 @@
     "Layout": {
         "message": "Bố cục"
     },
-     "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
+    "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
         "message": "Giới hạn chạy nền có thể phá vỡ một số tính năng của Tampermonkey như cập nhật tập lệnh, GM_xmlhttpRequest và các tính năng khác!"
     },
     "Line_Case_Insensitive": {
@@ -959,7 +962,7 @@
     "Original_domain_whitelist": {
         "message": "Danh sách trắng tên miền gốc"
     },
-     "Original_excludes": {
+    "Original_excludes": {
         "message": "Loại trừ tên miền gốc"
     },
     "Original_includes": {
@@ -1136,7 +1139,7 @@
     "Script_Update": {
         "message": "Cập nhật tập lệnh"
     },
-     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
+    "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
         "message": "Tác giả tập lệnh có thể bảo mật các tài nguyên bên ngoài bằng cách thêm mã băm SRI vào URL nguồn."
     },
     "Script_local_files_access": {
@@ -1293,7 +1296,7 @@
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey không có quyền truy cập các tệp cục bộ!"
     },
-     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
+    "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Tampermonkey có thể không cung cấp quyền truy cập vào ngữ cảnh không an toàn (unsafeWindow, các hàm và biến của trang) khi tính năng này bị tắt"
     },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
@@ -1460,7 +1463,7 @@
     "Transpose": {
         "message": "Chuyển vị"
     },
-     "Trash": {
+    "Trash": {
         "message": "Thùng rác"
     },
     "Trigger_Update": {

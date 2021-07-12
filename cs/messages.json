@@ -463,6 +463,9 @@
     "Import": {
         "message": "Importovat"
     },
+    "Import_from_file": {
+        "message": "Importovat"
+    },
     "Imported": {
         "message": "Importováno"
     },

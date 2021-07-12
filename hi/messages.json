@@ -610,6 +610,9 @@
     "Import": {
         "message": "इम्पोर्ट"
     },
+    "Import_from_file": {
+        "message": "इम्पोर्ट"
+    },
     "Imported": {
         "message": "आयातित"
     },

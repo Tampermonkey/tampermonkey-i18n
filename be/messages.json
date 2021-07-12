@@ -684,6 +684,12 @@
     "Import": {
         "message": "Імпарт"
     },
+    "Import_from_URL": {
+        "message": "Ўстаноўка праз URL"
+    },
+    "Import_from_file": {
+        "message": "Імпарт"
+    },
     "Imported": {
         "message": "Імпартаваны"
     },
@@ -737,9 +743,6 @@
     },
     "Install": {
         "message": "Усталяваць"
-    },
-    "Install_from_URL": {
-        "message": "Ўстаноўка праз URL"
     },
     "Install_this_script": {
         "message": "Ўсталяваць гэты скрыпт"

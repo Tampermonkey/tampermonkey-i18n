@@ -684,6 +684,12 @@
     "Import": {
         "message": "インポート"
     },
+    "Import_from_URL": {
+        "message": "URL からインストール"
+    },
+    "Import_from_file": {
+        "message": "インポート"
+    },
     "Imported": {
         "message": "インポート済み"
     },
@@ -751,9 +757,6 @@
     },
     "Install": {
         "message": "インストール"
-    },
-    "Install_from_URL": {
-        "message": "URL からインストール"
     },
     "Install_this_script": {
         "message": "このスクリプトをインストール"

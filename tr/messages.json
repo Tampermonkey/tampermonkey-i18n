@@ -740,6 +740,12 @@
     "Import": {
         "message": "İçe aktar"
     },
+    "Import_from_URL": {
+        "message": "URL'den Yükle"
+    },
+    "Import_from_file": {
+        "message": "İçe aktar"
+    },
     "Imported": {
         "message": "Aktarılan"
     },
@@ -793,9 +799,6 @@
     },
     "Install": {
         "message": "Yükle"
-    },
-    "Install_from_URL": {
-        "message": "URL'den Yükle"
     },
     "Install_this_script": {
         "message": "Bu betiği yükle"

@@ -143,6 +143,9 @@
     "Add_toSource_function_to_Object_Prototype": {
         "message": "为对象和数组增加兼容性方法"
     },
+    "Add_to_icon_badge_text": {
+        "message": "添加到图标徽章文字"
+    },
     "Advanced": {
         "message": "高级"
     },
@@ -392,6 +395,9 @@
     "Config_Mode": {
         "message": "配置模式"
     },
+    "Context_Menu": {
+        "message": "上下文菜单"
+    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "转换 CDATA 部分为 Chrome 兼容的格式"
     },
@@ -554,6 +560,9 @@
     },
     "Enable_autoSave": {
         "message": "编辑器失去焦点时保存内容"
+    },
+    "Enable_context_menu": {
+        "message": "启用上下文菜单"
     },
     "Enable_easySave": {
         "message": "保存时不显示确认对话框"
@@ -740,6 +749,12 @@
     "Import": {
         "message": "导入"
     },
+    "Import_from_URL": {
+        "message": "从 URL 安装"
+    },
+    "Import_from_file": {
+        "message": "导入"
+    },
     "Imported": {
         "message": "已导入"
     },
@@ -793,9 +808,6 @@
     },
     "Install": {
         "message": "安装"
-    },
-    "Install_from_URL": {
-        "message": "从 URL 安装"
     },
     "Install_this_script": {
         "message": "安装此脚本"
@@ -1154,6 +1166,9 @@
     "Script_local_files_access": {
         "message": "允许脚本访问本地文件"
     },
+    "Script_menu_commands": {
+        "message": "用户脚本菜单命令"
+    },
     "Script_name_0name0": {
         "message": "脚本名称：$name$",
         "placeholders": {
@@ -1164,6 +1179,9 @@
     },
     "Script_order": {
         "message": "脚本顺序"
+    },
+    "Scripts_activated_by_context_menu": {
+        "message": "使用 @run-at 上下文菜单的用户脚本"
     },
     "Search": {
         "message": "搜索"
@@ -1585,6 +1603,12 @@
     "User_modified": {
         "message": "修改"
     },
+    "Userscript_Search": {
+        "message": "用户脚本搜索"
+    },
+    "Userscript_search_integration_mode": {
+        "message": "用户脚本搜索集成"
+    },
     "Userscripts": {
         "message": "用户脚本"
     },
@@ -1720,32 +1744,11 @@
     "severity_9": {
         "message": "9"
     },
-    "Userscript_Search": {
-        "message": "用户脚本搜索"
-    },
-    "Userscript_search_integration_mode": {
-        "message": "用户脚本搜索集成"
-    },
-    "Scripts_activated_by_context_menu": {
-        "message": "使用 @run-at 上下文菜单的用户脚本"
-    },
-    "Script_menu_commands": {
-        "message": "用户脚本菜单命令"
-    },
-    "Context_Menu": {
-        "message": "上下文菜单"
-    },
-    "Enable_context_menu": {
-        "message": "启用上下文菜单"
-    },
     "some_secs": {
         "message": "部分"
     },
     "strict_mode": {
         "message": "严格模式"
-    },
-    "Add_to_icon_badge_text": {
-        "message": "添加到图标徽章文字"
     },
     "top_level_await": {
         "message": "top-level await"

@@ -613,6 +613,9 @@
     "Import": {
         "message": "Ubaci"
     },
+    "Import_from_file": {
+        "message": "Ubaci"
+    },
     "Imported": {
         "message": "Uvezeni"
     },

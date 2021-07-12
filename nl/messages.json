@@ -670,6 +670,9 @@
     "Import": {
         "message": "Importeren"
     },
+    "Import_from_file": {
+        "message": "Importeren"
+    },
     "Imported": {
         "message": "Geïmporteerd"
     },

@@ -502,6 +502,9 @@
     "Import": {
         "message": "Importuj"
     },
+    "Import_from_file": {
+        "message": "Importuj"
+    },
     "Imported": {
         "message": "Zaimportowane"
     },

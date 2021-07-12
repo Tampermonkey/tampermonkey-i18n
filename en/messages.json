@@ -102,6 +102,9 @@
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
         "message": "A userscript wants to access a cross-origin resource."
     },
+    "Aborted_by_user": {
+        "message": "Aborted by user"
+    },
     "Action": {
         "message": "Action"
     },
@@ -439,6 +442,9 @@
     "Debug_scripts": {
         "message": "Debug scripts"
     },
+    "Decoding": {
+        "message": "Decoding..."
+    },
     "Default": {
         "message": "Default"
     },
@@ -765,6 +771,12 @@
     "Import": {
         "message": "Import"
     },
+    "Import_from_URL": {
+        "message": "Import from URL"
+    },
+    "Import_from_file": {
+        "message": "Import from file"
+    },
     "Imported": {
         "message": "Imported"
     },
@@ -833,9 +845,6 @@
     "Install": {
         "message": "Install"
     },
-    "Install_from_URL": {
-        "message": "Install from URL"
-    },
     "Install_this_script": {
         "message": "Install this script"
     },
@@ -895,6 +904,9 @@
     },
     "Lines_Menu": {
         "message": "Lines"
+    },
+    "Loading": {
+        "message": "Loading..."
     },
     "LogLevel": {
         "message": "Logging Level"

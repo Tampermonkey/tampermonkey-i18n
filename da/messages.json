@@ -702,6 +702,12 @@
     "Import": {
         "message": "Importer"
     },
+    "Import_from_URL": {
+        "message": "Installer from URL"
+    },
+    "Import_from_file": {
+        "message": "Importer"
+    },
     "Imported": {
         "message": "Importeret"
     },
@@ -755,9 +761,6 @@
     },
     "Install": {
         "message": "Installer"
-    },
-    "Install_from_URL": {
-        "message": "Installer from URL"
     },
     "Install_this_script": {
         "message": "Installer this script"

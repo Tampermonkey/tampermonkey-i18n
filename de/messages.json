@@ -66,6 +66,9 @@
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
         "message": "Ein Userscript möchte eine fremde Ressource laden."
     },
+    "Aborted_by_user": {
+        "message": "Die Aktion wurde durch den Nutzer abgebrochen"
+    },
     "Action": {
         "message": "Aktion"
     },
@@ -358,6 +361,9 @@
     "Debug_scripts": {
         "message": "Userscript-Debugger aktivieren"
     },
+    "Decoding": {
+        "message": "Dekodiere..."
+    },
     "Default": {
         "message": "Standard"
     },
@@ -582,6 +588,12 @@
     "Import": {
         "message": "Importieren"
     },
+    "Import_from_URL": {
+        "message": "Von URL importieren"
+    },
+    "Import_from_file": {
+        "message": "Aus Datei importieren"
+    },
     "Imported": {
         "message": "Importiert"
     },
@@ -626,9 +638,6 @@
     "Install": {
         "message": "Installieren"
     },
-    "Install_from_URL": {
-        "message": "Installation via URL"
-    },
     "Install_this_script": {
         "message": "Dieses Userscript installieren"
     },
@@ -664,6 +673,9 @@
     },
     "Line_break": {
         "message": "Automatischer Zeilenumbruch"
+    },
+    "Loading": {
+        "message": "Lade..."
     },
     "LogLevel": {
         "message": "Log-Level"

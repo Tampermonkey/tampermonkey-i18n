@@ -684,6 +684,12 @@
     "Import": {
         "message": "Імпорт"
     },
+    "Import_from_URL": {
+        "message": "Установка через URL"
+    },
+    "Import_from_file": {
+        "message": "Імпорт"
+    },
     "Imported": {
         "message": "Імпортовані"
     },
@@ -737,9 +743,6 @@
     },
     "Install": {
         "message": "Встановити"
-    },
-    "Install_from_URL": {
-        "message": "Установка через URL"
     },
     "Install_this_script": {
         "message": "Встановити цей скрипт"

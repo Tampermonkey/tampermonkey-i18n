@@ -428,6 +428,9 @@
     "Import": {
         "message": "Importar"
     },
+    "Import_from_file": {
+        "message": "Importar"
+    },
     "Imported": {
         "message": "Importado"
     },
