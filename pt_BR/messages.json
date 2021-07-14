@@ -398,7 +398,7 @@
         "message": "Nuvem"
     },
     "Columns": {
-        "message": "Colunas."
+        "message": "Colunas"
     },
     "Comment": {
         "message": "Comentar"
@@ -406,8 +406,8 @@
     "Config_Mode": {
         "message": "Modo de configurações"
     },
-    "Convert_Array_Assignements": {
-        "message": "Converter sentenças [blub, bla] = s.split(':')"
+    "Context_Menu": {
+        "message": "Menu de Contexto"
     },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Converter seções CDATA em formato compatível com Chrome"
@@ -1495,11 +1495,11 @@
     "This_script_stores_data": {
         "message": "Este script salva informações no Tampermonkey."
     },
-    "This_script_uses_uW_gm_api_": {
-        "message": "Este script usa parte do API Greasemonkey 10 (unsafeWindow.gmonkey)\nque não é suportado pelo Tampermonkey nem outro executor de scripts alternativo."
-    },
     "This_script_was_deleted": {
         "message": "Este script foi excluído"
+    },
+    "This_script_was_deleted_by_the_hoster_": {
+        "message": "Este script foi excluído pelo hospedeiro"
     },
     "This_script_was_executed_0count0_times": {
         "message": "Este script foi executado $count$ vez(es)",
@@ -1548,7 +1548,7 @@
         "message": "Alternar Comentário Recuado"
     },
     "Toggle_Enable": {
-        "message": "Alterne para habilitar."
+        "message": "Alterne para habilitar"
     },
     "Trace": {
         "message": "Traço"
