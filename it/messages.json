@@ -102,6 +102,9 @@
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
         "message": "Uno script vuole accedere ad una risorsa di origini cross."
     },
+    "Aborted_by_user": {
+        "message": "Interrotto da utente"
+    },
     "Action": {
         "message": "Azione"
     },
@@ -438,6 +441,9 @@
     },
     "Debug_scripts": {
         "message": "Debug degli script"
+    },
+    "Decoding": {
+        "message": "Decodifica..."
     },
     "Default": {
         "message": "Predefinita"
@@ -898,6 +904,9 @@
     },
     "Lines_Menu": {
         "message": "Linee"
+    },
+    "Loading": {
+        "message": "Caricamento..."
     },
     "LogLevel": {
         "message": "Livello registrazione eventi"
