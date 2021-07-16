@@ -1020,6 +1020,12 @@
     "Subresource_Integrity": {
         "message": "Integrität externer Ressourcen"
     },
+    "Sync_Now": {
+        "message": "Jetzt ausführen"
+    },
+    "Sync_Reset": {
+        "message": "Zurücksetzen"
+    },
     "Sync_Type": {
         "message": "Typ"
     },

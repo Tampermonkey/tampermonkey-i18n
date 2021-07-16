@@ -1353,8 +1353,11 @@
     "Swap_with_Sublime_Mark": {
         "message": "Swap with Sublime Mark"
     },
+    "Sync_Now": {
+        "message": "Run now"
+    },
     "Sync_Reset": {
-        "message": "Sync Reset"
+        "message": "Reset"
     },
     "Sync_Type": {
         "message": "Type"
