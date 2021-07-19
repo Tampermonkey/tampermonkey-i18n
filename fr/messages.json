@@ -100,7 +100,7 @@
         }
     },
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
-        "message": "Un script utilisateur veut accéder à une ressource d'origines croisées."
+        "message": "Un userscript veut accéder à une ressource d'origines croisées."
     },
     "Action": {
         "message": "Action"
@@ -186,7 +186,7 @@
         "message": "Une erreur est survenue lors de l'importation. Vérifier la console pour plus d'info! (CTRL+SHIFT+J)"
     },
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
-        "message": "Erreur interne. Si l'erreur est toujours présente après un redémarrage ddu navigateur, cliquez sur OK et rapporter cette erreur sur le forum.\n\nAller au forum ?"
+        "message": "Erreur interne. Si l'erreur est toujours présente après un redémarrage du navigateur, cliquez sur OK et rapporter cette erreur sur le forum.\n\nAller au forum ?"
     },
     "Anonymous_statistics": {
         "message": "Statistiques anonymes"
@@ -201,7 +201,7 @@
         "message": "Appliquer cette action aux scripts sélectionnés"
     },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
-        "message": "Lorsque Tampermonkey est MàJ il est aussi redémarré. Ceci peut casser les scripts en fonction!\n\nÊtes-vous sûr de ne pas vouloir être averti des MàJ?"
+        "message": "Lorsque Tampermonkey est MàJ il est aussi redémarré. Ceci peut casser les scripts en fonction !\n\nÊtes-vous sûr de ne pas vouloir être averti des MàJ ?"
     },
     "Ask_if_unknown": {
         "message": "Demander si inconnu"
@@ -213,13 +213,13 @@
         "message": "Au moins l'une des instructions @include, @match ou @exclude a été modifiée."
     },
     "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-        "message": "Au moins une partie de cette page est dans le paramétrage 'Pages interdites'!"
+        "message": "Au moins une partie de cette page est dans le paramétrage 'Pages interdites' !"
     },
     "Attention_Can_not_display_all_excludes_": {
-        "message": "Attention : La liste d'exclusion a été réduite.\nVeuillez la vérifier manuellement!"
+        "message": "Attention : La liste d'exclusion a été réduite.\nVeuillez la vérifier manuellement !"
     },
     "Attention_Can_not_display_all_includes_": {
-        "message": "Attention : La liste d'inclusion a été réduite.\nVeuillez la vérifier manuellement!"
+        "message": "Attention : La liste d'inclusion a été réduite.\nVeuillez la vérifier manuellement !"
     },
     "Author": {
         "message": "Auteur"
@@ -445,7 +445,7 @@
         "message": "Ne plus demander"
     },
     "Dont_ask_me_for_simple_script_updates": {
-        "message": "Ne pas me demander pour les MàJ simple"
+        "message": "Ne pas me demander pour les MàJ simples"
     },
     "Downgrade": {
         "message": "Retour à une version antérieure"
@@ -492,7 +492,7 @@
         "message": "Activer TESLA"
     },
     "Enable_autoSave": {
-        "message": "Enregistrer le contenu quand l'éditeur perd le focus"
+        "message": "Activer l'enregistrement automatique"
     },
     "Enable_easySave": {
         "message": "Ne pas montrer la confirmation lors de l'enregistrement"
@@ -1242,7 +1242,7 @@
         "message": "Zone texte"
     },
     "Thank_you_very_much_": {
-        "message": "Merci beaucoup!"
+        "message": "Merci beaucoup !"
     },
     "The_Browser_API_mode_requires_a_special_permission_": {
         "message": "Le mode API du navigateur requiert une autorisation spéciale."
@@ -1251,7 +1251,7 @@
         "message": "Le diff pour ce script est trop grand pour le rendu"
     },
     "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
-        "message": "La version antérieure du script peut avoir des problèmes pour lire ses données stockées!"
+        "message": "La version antérieure du script peut avoir des problèmes pour lire ses données stockées !"
     },
     "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
         "message": "Le lien de MàJ à changé de :\n '$oldurl$'\n à:\n '$newurl$'\n",
@@ -1318,7 +1318,7 @@
         "message": "Ce script a été supprimé"
     },
     "This_script_was_executed_0count0_times": {
-        "message": "Ce script a été éxécuté $count$ fois",
+        "message": "Ce script a été exécuté $count$ fois",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -1326,7 +1326,7 @@
         }
     },
     "This_script_was_not_executed_yet": {
-        "message": "Ce script n'a pas encore été éxécuté"
+        "message": "Ce script n'a pas encore été exécuté"
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "Ceci va écraser vos paramètres globaux!"
@@ -1408,7 +1408,7 @@
         "message": "Déplier"
     },
     "Unfold_All": {
-        "message": "Tout déplier"
+        "message": "Tout décompresser"
     },
     "Unique_running_scripts": {
         "message": "Exécution unique de scripts"
@@ -1520,7 +1520,7 @@
         "message": "Oui"
     },
     "You_are_about_to_downgrade_a_UserScript": {
-        "message": "Attention! version antérieure de script :"
+        "message": "Attention ! Version antérieure de script :"
     },
     "You_are_about_to_install_a_UserScript_": {
         "message": "Installation de script :"
@@ -1532,7 +1532,7 @@
         "message": "Réinstallation de script:"
     },
     "You_are_about_to_update_a_UserScript_": {
-        "message": "MàJ de Script :"
+        "message": "MàJ de script :"
     },
     "You_can_add_your_custom_CSS_rules_here_": {
         "message": "Vous pouvez ajouter vos propres règles CSS pour l'interface utilisateur Tampermonkey ici. Dans le cas où cela casse quelque chose, vous pouvez obtenir la mise en page par défaut en ajoutant '?layout=reset' à l'URL de la page d'options."
@@ -1541,10 +1541,10 @@
         "message": "Vous pouvez ajouter votre configuration personnalisée pour le linter ici."
     },
     "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
-        "message": "Votre langue n'est pas supportée ?\nCliquez ici pour obtenir des instructions sur la façon de traduire Tampermonkey?"
+        "message": "Votre langue n'est pas supportée ?\nCliquez ici pour obtenir des instructions sur la façon de traduire Tampermonkey."
     },
     "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
-        "message": "Votre liste blanche semble inclure des fichiers exécutables !\nCela signifie que vos scripts utilisateurs peuvent télécharger des logiciels malveillants ou des logiciels espions sur votre disque dur !!"
+        "message": "Votre liste blanche semble inclure des fichiers exécutables !\nCela signifie que vos scripts utilisateurs peuvent télécharger des logiciels malveillants ou des logiciels espions sur votre disque dur !"
     },
     "Zip": {
         "message": "Zip"
