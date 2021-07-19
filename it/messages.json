@@ -1353,6 +1353,9 @@
     "Swap_with_Sublime_Mark": {
         "message": "Scambia con marcatore evidenziazione"
     },
+    "Sync_Now": {
+        "message": "Esegui ora"
+    },
     "Sync_Reset": {
         "message": "Ripristino sincronizzazione"
     },
