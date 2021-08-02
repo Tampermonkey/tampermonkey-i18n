@@ -40,7 +40,7 @@
         "message": "एक बार रीलोड करने की आवश्यकता है:\nबिना सहेजे गए सभी परिवर्तन खो जाएँगे!"
     },
     "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
-        "message": "क्रॉस-ओरिजिन संसाधन के लिए अनुरोध असामान्य बात नहीं है।\nआपको सिर्फ यह देखना है कि इस डोमेन का उपयोग करने के लिए इस स्क्रिप्ट के पास पर्याप्त कारण है।\nउदाहरण के लिए यूजरस्क्रिप्ट को अपने बैंक से संपर्क के लिए बहुत ही कम कारण हैं ।\n\nकृपया ध्यान दें कि यूजरस्क्रिप्ट लेखक अपनी स्क्रिप्ट में [url=$connect$]@connect tags[/url]  इस संवाद को जोड़कर बच सकते हैं।\n\nकोई फर्क नहीं पड़ता कि आप कैसे तय करेंगे, आप किसी भी समय स्क्रिप्ट की [url=$settings$] सेटिंग्स टैब[/ url] पर अपनी राय बदल सकते हैं।",
+        "message": "क्रॉस-ओरिजिन संसाधन के लिए अनुरोध असामान्य बात नहीं है।\nआपको सिर्फ यह देखना है कि इस डोमेन का उपयोग करने के लिए इस स्क्रिप्ट के पास पर्याप्त कारण है।\nउदाहरण के लिए यूज़रस्क्रिप्ट को अपने बैंक से संपर्क के लिए बहुत ही कम कारण हैं ।\n\nकृपया ध्यान दें कि यूज़रस्क्रिप्ट लेखक अपनी स्क्रिप्ट में [url=$connect$]@connect tags[/url]  इस संवाद को जोड़कर बच सकते हैं।\n\nकोई फर्क नहीं पड़ता कि आप कैसे तय करेंगे, आप किसी भी समय स्क्रिप्ट की [url=$settings$] सेटिंग्स टैब[/ url] पर अपनी राय बदल सकते हैं।",
         "placeholders": {
             "connect": {
                 "content": "$1"
@@ -51,7 +51,7 @@
         }
     },
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
-        "message": "एक यूजरस्क्रिप्ट क्रॉस-ओरिजिन संसाधन का उपयोग करना चाहता है।"
+        "message": "एक यूज़रस्क्रिप्ट क्रॉस-ओरिजिन संसाधन का उपयोग करना चाहता है।"
     },
     "Action": {
         "message": "कार्य"
@@ -259,7 +259,7 @@
         "message": "अपडेट के लिए जाँच"
     },
     "Check_for_userscripts_updates": {
-        "message": "यूजरस्क्रिप्ट जानकारियां देखें"
+        "message": "यूज़रस्क्रिप्ट जानकारियां देखें"
     },
     "Check_interval": {
         "message": "अंतराल की जाँच करें"
@@ -671,7 +671,7 @@
         "message": "स्थापित संस्करण"
     },
     "Installed_userscripts": {
-        "message": "यूजरस्क्रिप्ट इनस्टॉल की गयी"
+        "message": "यूज़रस्क्रिप्ट इनस्टॉल की गयी"
     },
     "Instant": {
         "message": "तुरंत"
@@ -731,7 +731,7 @@
         "message": "दुर्भावनापूर्ण स्क्रिप्ट आपकी गोपनीयता का उल्लंघन और आपकी ओर से कार्रवाई कर सकते हैं!\nआपको केवल विश्वसनीय स्रोतों से स्क्रिप्ट इंस्टॉल करनी चाहिए।"
     },
     "Manual_Script_Blacklist": {
-        "message": "मैनुअल यूजरस्क्रिप्ट और @require ब्लैकलिस्ट"
+        "message": "मैनुअल यूज़रस्क्रिप्ट और @require ब्लैकलिस्ट"
     },
     "Matching_URL": {
         "message": "मिलते हुए यूआरएल"
@@ -758,10 +758,10 @@
         "message": "नया संस्करण"
     },
     "New_script_template_": {
-        "message": "नया यूजरस्क्रिप्ट टेम्पलेट"
+        "message": "नया यूज़रस्क्रिप्ट टेम्पलेट"
     },
     "New_userscript": {
-        "message": "<नई यूजरस्क्रिप्ट>"
+        "message": "<नई यूज़रस्क्रिप्ट>"
     },
     "Next_Bookmark": {
         "message": "अगला बुकमार्क"
@@ -1193,7 +1193,7 @@
         "message": "यह एक सिस्टम स्क्रिप्ट है।"
     },
     "This_is_a_userscript": {
-        "message": "यह एक यूजरस्क्रिप्ट है जो जावास्क्रिप्ट में लिखी गई है"
+        "message": "यह एक यूज़रस्क्रिप्ट है जो जावास्क्रिप्ट में लिखी गई है"
     },
     "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
         "message": "यह विकल्प  Tampermonkey मुखपृष्ठ और कुछ स्क्रिप्ट होस्टिंग पेज को Tampermonkey संस्करण और कुछ बुनियादी स्क्रिप्ट जानकारी निर्धारित (स्थापित, संस्करण, सक्षम) करने की अनुमति देता है ।"
@@ -1346,7 +1346,7 @@
         "message": "संशोधित किया गया"
     },
     "Userscripts": {
-        "message": "यूजरस्क्रिप्ट"
+        "message": "यूज़रस्क्रिप्ट"
     },
     "Utilities": {
         "message": "उपयोगिताएँ"
@@ -1418,7 +1418,7 @@
         "message": "आपकी भाषा समर्थित नहीं है?\nTampermonkey अनुवाद के निर्देश प्राप्त करने के लिए यहाँ क्लिक करें?"
     },
     "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
-        "message": "आपका व्हाइट लिस्ट निष्पादन योग्य फ़ाइलों को शामिल करने जैसी लगती है!\nअर्थात आपकी यूजरस्क्रिप्ट हार्डडिस्क में मैलवेयर या स्पायवेयर डाउनलोड कर सकती है!!"
+        "message": "आपका व्हाइट लिस्ट निष्पादन योग्य फ़ाइलों को शामिल करने जैसी लगती है!\nअर्थात आपकी यूज़रस्क्रिप्ट हार्डडिस्क में मैलवेयर या स्पायवेयर डाउनलोड कर सकती है!!"
     },
     "Zip": {
         "message": "ज़िप"
