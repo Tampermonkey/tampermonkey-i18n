@@ -1189,6 +1189,12 @@
     "Search_for": {
         "message": "搜索..."
     },
+    "Search_for_userscripts_for_this_tab": {
+        "message": "搜索当前页脚本"
+    },
+    "Searching_for_userscripts_for_this_tab": {
+        "message": "搜索中..."
+    },
     "Security": {
         "message": "安全"
     },
