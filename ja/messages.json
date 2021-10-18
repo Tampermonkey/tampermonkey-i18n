@@ -69,6 +69,9 @@
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
         "message": "UserScript がオリジン間リソースへのアクセスを要求しています。"
     },
+    "Aborted_by_user": {
+        "message": "ユーザーにより中止されました"
+    },
     "Action": {
         "message": "操作"
     },
@@ -394,6 +397,9 @@
     "Debug_scripts": {
         "message": "スクリプトをデバッグする"
     },
+    "Decoding": {
+        "message": "デコード中..."
+    },
     "Default": {
         "message": "既定"
     },
@@ -685,10 +691,10 @@
         "message": "インポート"
     },
     "Import_from_URL": {
-        "message": "URL からインストール"
+        "message": "URL からインポート"
     },
     "Import_from_file": {
-        "message": "インポート"
+        "message": "ファイルからインポート"
     },
     "Imported": {
         "message": "インポート済み"
@@ -817,6 +823,9 @@
     },
     "Lines_Menu": {
         "message": "行"
+    },
+    "Loading": {
+        "message": "読み込み中..."
     },
     "LogLevel": {
         "message": "ログ レベル"
@@ -1245,8 +1254,11 @@
     "Subresource_Integrity": {
         "message": "サブリソースの整合性"
     },
+    "Sync_Now": {
+        "message": "今すぐ実行"
+    },
     "Sync_Reset": {
-        "message": "同期のリセット"
+        "message": "リセット"
     },
     "Sync_Type": {
         "message": "種類"
@@ -1566,6 +1578,9 @@
     },
     "Version": {
         "message": "バージョン"
+    },
+    "View": {
+        "message": "閲覧"
     },
     "Waiting_for_sync_to_finish": {
         "message": "同期の完了を待機中"
