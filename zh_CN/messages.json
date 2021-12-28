@@ -1302,8 +1302,11 @@
     "Swap_with_Sublime_Mark": {
         "message": "和 Sublime 标记交换"
     },
+	"Sync_Now": {
+        "message": "现在运行"
+    },
     "Sync_Reset": {
-        "message": "重置同步"
+        "message": "重置"
     },
     "Sync_Type": {
         "message": "同步类型"
