@@ -1474,9 +1474,6 @@
     "This_script_has_access_to_https_pages": {
         "message": "此腳本可存取 https 頁面。"
     },
-    "This_script_has_access_to_webpage_scripts": {
-        "message": "此腳本可完全存取網頁。"
-    },
     "This_script_has_full_web_access": {
         "message": "此腳本可完全存取網際網路。"
     },

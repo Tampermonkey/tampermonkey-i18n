@@ -1325,9 +1325,6 @@
     "This_script_has_access_to_https_pages": {
         "message": "Гэты скрыпт мае доступ да старонак HTTPS"
     },
-    "This_script_has_access_to_webpage_scripts": {
-        "message": "Гэты скрыпт мае поўны доступ да старонкі."
-    },
     "This_script_has_full_web_access": {
         "message": "Гэты скрыпт мае поўны доступ у інтэрнэт."
     },

@@ -1355,9 +1355,6 @@
     "This_script_has_access_to_https_pages": {
         "message": "Dette element har fuld adgang til https-sider."
     },
-    "This_script_has_access_to_webpage_scripts": {
-        "message": "Dette element har fuld adgang til websiden."
-    },
     "This_script_has_full_web_access": {
         "message": "Dette script har fuld internetadgang."
     },

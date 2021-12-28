@@ -737,9 +737,6 @@
     "This_script_has_access_to_https_pages": {
         "message": "Ez a szkript https oldalakat ér el."
     },
-    "This_script_has_access_to_webpage_scripts": {
-        "message": "Ez az elem korlátlanul eléri a weboldalt."
-    },
     "This_script_has_full_web_access": {
         "message": "Ennek a szkriptnek teljes internet hozzáférése van."
     },

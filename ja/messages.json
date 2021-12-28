@@ -1387,9 +1387,6 @@
     "This_script_has_access_to_https_pages": {
         "message": "このスクリプトは https ページにアクセスします。"
     },
-    "This_script_has_access_to_webpage_scripts": {
-        "message": "このスクリプトはウェブページに完全なアクセスをします。"
-    },
     "This_script_has_full_web_access": {
         "message": "このスクリプトはインターネットに完全なアクセスをします。"
     },

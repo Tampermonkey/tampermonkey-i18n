@@ -979,9 +979,6 @@
     "This_script_has_access_to_https_pages": {
         "message": "Ten skrypt ma dostęp do stron https."
     },
-    "This_script_has_access_to_webpage_scripts": {
-        "message": "Ten skrypt ma pełen dostęp do źródła strony."
-    },
     "This_script_has_full_web_access": {
         "message": "Ten skrypt ma pełen dostęp do internetu."
     },

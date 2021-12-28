@@ -1408,9 +1408,6 @@
     "This_script_has_access_to_https_pages": {
         "message": "Bu öğenin https sayfalarına erişimi var."
     },
-    "This_script_has_access_to_webpage_scripts": {
-        "message": "Bu öğenin webpage bilgisine tam erişimi var."
-    },
     "This_script_has_full_web_access": {
         "message": "Bu betik tam internet erişimine sahiptir"
     },

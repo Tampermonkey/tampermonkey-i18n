@@ -598,9 +598,6 @@
     "This_script_has_access_to_https_pages": {
         "message": "Skrip ini memiliki akses ke laman https."
     },
-    "This_script_has_access_to_webpage_scripts": {
-        "message": "Skrip ini memiliki akses penuh ke halaman web."
-    },
     "This_script_has_full_web_access": {
         "message": "Skrip ini memiliki akses internet penuh."
     },

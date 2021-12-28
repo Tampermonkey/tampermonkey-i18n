@@ -119,6 +119,9 @@
     "All_script_settings_will_be_reset_": {
         "message": "Alle Userscript-Einstellungen werden zurückgesetzt!"
     },
+    "All_tabs": {
+        "message": "Alle Arten von Tabs"
+    },
     "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
         "message": "Tampermonkey erlauben, anonyme Statistiken mit Hilfe von Google Analytics zu sammeln. Das hilft mir Tampermonkey zu verbessern und den Fokus auf wichtige Entwicklungen zu setzen."
     },
@@ -248,7 +251,7 @@
         "message": "Negativliste"
     },
     "Blacklist_0domain0": {
-        "message": "$domain$ zu Negativliste hinzufügen",
+        "message": "Keine Userscript-Ausführung auf $domain$",
         "placeholders": {
             "domain": {
                 "content": "$1"
@@ -301,6 +304,9 @@
     },
     "Check_only_scripts_up_to_this_size_automatically_": {
         "message": "Userscripte werden nur bis zu dieser Länge automatisch überprüft."
+    },
+    "Clean_after_session": {
+        "message": "Nach der Sitzung leeren"
     },
     "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
         "message": "Klicken Sie bitte OK um Tampermonkey Zugriff auf folgende Seiten zu gewähren:\n\n$host_list$",
@@ -373,6 +379,9 @@
     "Default_Darker": {
         "message": "Standard - Dunkler"
     },
+    "Default_tab_types_to_run_scripts_in": {
+        "message": "Art der Tabs in denen Scripts standardmäßig ausgeführt werden"
+    },
     "Default_Light": {
         "message": "Standard - Hell"
     },
@@ -407,6 +416,9 @@
                 "content": "$1"
             }
         }
+    },
+    "Does_not_run_in_incognito_tabs": {
+        "message": "Wird nicht in Inkognito-Tabs ausgeführt"
     },
     "Dont_ask_again": {
         "message": "Nicht mehr nachfragen"
@@ -620,6 +632,9 @@
     "Include_script_storage": {
         "message": "Die vom Userscript gespeicherten Daten exportieren"
     },
+    "Incognito_tabs": {
+        "message": "Inkognito-Tabs"
+    },
     "Indent_with": {
         "message": "Einrückung mit"
     },
@@ -739,6 +754,9 @@
     },
     "No_update_found__sry_": {
         "message": "Keine Updates gefunden!"
+    },
+    "Normal_tabs": {
+        "message": "Normale Tabs"
     },
     "Note": {
         "message": "Achtung"
@@ -1041,6 +1059,9 @@
     "Tab_Size": {
         "message": "Breite eines Tabulatorzeichens"
     },
+    "Tab_types": {
+        "message": "Art der Tabs in denen das Script ausgeführt wird"
+    },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + Userscript Version"
     },
@@ -1132,11 +1153,11 @@
     "This_script_does_not_provide_any__include_information_": {
         "message": "Dieses Userscript beinhaltet keine @include-Informationen."
     },
+    "This_script_does_not_require_any_special_powers_": {
+        "message": "Dieses Script verlangt keine besonderen Rechte."
+    },
     "This_script_has_access_to_https_pages": {
         "message": "Dieses Element hat Zugriff auf verschlüsselte Seiten."
-    },
-    "This_script_has_access_to_webpage_scripts": {
-        "message": "Dieses Element hat vollen Zugriff auf die Web-Seite."
     },
     "This_script_has_full_web_access": {
         "message": "Dieses Userscript hat vollen Internet-Zugang."
@@ -1195,6 +1216,9 @@
     },
     "Trash": {
         "message": "🗑"
+    },
+    "Trash_Mode": {
+        "message": "Papierkorb-Funktion"
     },
     "Trigger_Update": {
         "message": "Aktualisieren"

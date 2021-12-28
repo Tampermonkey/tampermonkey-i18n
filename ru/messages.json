@@ -1474,9 +1474,6 @@
     "This_script_has_access_to_https_pages": {
         "message": "Этот скрипт имеет доступ к страницам HTTPS."
     },
-    "This_script_has_access_to_webpage_scripts": {
-        "message": "Этот скрипт имеет полный доступ к странице."
-    },
     "This_script_has_full_web_access": {
         "message": "Этот скрипт имеет полный доступ в интернет."
     },

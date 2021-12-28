@@ -1432,9 +1432,6 @@
     "This_script_has_access_to_https_pages": {
         "message": "此脚本能访问 https 页面。"
     },
-    "This_script_has_access_to_webpage_scripts": {
-        "message": "此项有对网页的完整访问权限。"
-    },
     "This_script_has_full_web_access": {
         "message": "此脚本有完全的网络访问权限。"
     },

@@ -1355,9 +1355,6 @@
     "This_script_has_access_to_https_pages": {
         "message": "(HTTPS pages) هذه البرنامج النصي لديه صلاحية الدخول على صفحات الويب المشفرة"
     },
-    "This_script_has_access_to_webpage_scripts": {
-        "message": ".هذا البرنامج النصي لديه كامل الصلاحية لدخول هذه الصفحة"
-    },
     "This_script_has_full_web_access": {
         "message": "هذا البرنامج النصي لديه كامل صلاحية الدخول على شبكة الأنترنت"
     },

@@ -161,6 +161,9 @@
     "All_script_settings_will_be_reset_": {
         "message": "All script settings will be reset!"
     },
+    "All_tabs": {
+        "message": "All tabs"
+    },
     "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
         "message": "Allow Tampermonkey to collect anonymous statistics via Google Analytics. This helps me to improve Tampermonkey and to determine on what criteria I should focus my development. Just disable this if you dislike it."
     },
@@ -293,7 +296,7 @@
         "message": "Blacklist"
     },
     "Blacklist_0domain0": {
-        "message": "Blacklist $domain$",
+        "message": "Do not run on $domain$",
         "placeholders": {
             "domain": {
                 "content": "$1"
@@ -364,6 +367,9 @@
     },
     "Classic": {
         "message": "Classic"
+    },
+    "Clean_after_session": {
+        "message": "Clean after session"
     },
     "Clear_All": {
         "message": "Clear All"
@@ -496,6 +502,9 @@
     "Details": {
         "message": "Details"
     },
+    "Default_tab_types_to_run_scripts_in": {
+        "message": "Default tab types to run scripts in"
+    },
     "Developer": {
         "message": "Developer"
     },
@@ -518,6 +527,9 @@
     },
     "Document_Start": {
         "message": "Document Start"
+    },
+    "Does_not_run_in_incognito_tabs": {
+        "message": "Does not run in incognito tabs"
     },
     "Dont_ask_again": {
         "message": "Don't ask again"
@@ -754,10 +766,10 @@
         "message": "Homepage"
     },
     "I_contributed_already": {
-        "message": "I donated already"
+        "message": "I contributed already"
     },
     "I_dont_want_to_contribute": {
-        "message": "I don't want to donate"
+        "message": "I don't want to contribute"
     },
     "Icon_badge_color": {
         "message": "Icon badge color"
@@ -808,6 +820,9 @@
     },
     "Includes_Excludes": {
         "message": "Includes/Excludes"
+    },
+    "Incognito_tabs": {
+        "message": "Incognito tabs"
     },
     "Incremental_Find": {
         "message": "Incremental Find"
@@ -988,6 +1003,9 @@
     },
     "Normal": {
         "message": "Normal"
+    },
+    "Normal_tabs": {
+        "message": "Normal tabs"
     },
     "Note": {
         "message": "Note"
@@ -1380,6 +1398,9 @@
     "Tab_URL": {
         "message": "Tab URL"
     },
+    "Tab_types": {
+        "message": "Tab types"
+    },
     "Tabs": {
         "message": "Tabs"
     },
@@ -1483,11 +1504,11 @@
     "This_script_does_not_provide_any__include_information_": {
         "message": "This script does not provide any @include information."
     },
+    "This_script_does_not_require_any_special_powers_": {
+        "message": "This script does not require any special powers."
+    },
     "This_script_has_access_to_https_pages": {
         "message": "This item has access to https pages."
-    },
-    "This_script_has_access_to_webpage_scripts": {
-        "message": "This item has full access to the webpage."
     },
     "This_script_has_full_web_access": {
         "message": "This script has full internet access."
@@ -1561,6 +1582,9 @@
     },
     "Trash": {
         "message": "🗑"
+    },
+    "Trash_Mode": {
+        "message": "Trash Mode"
     },
     "Trigger_Update": {
         "message": "Trigger Update"

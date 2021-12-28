@@ -1483,9 +1483,6 @@
     "This_script_has_access_to_https_pages": {
         "message": "Este item tem acesso a páginas https."
     },
-    "This_script_has_access_to_webpage_scripts": {
-        "message": "Este item tem acesso total à página."
-    },
     "This_script_has_full_web_access": {
         "message": "Este script tem acesso total à Internet."
     },

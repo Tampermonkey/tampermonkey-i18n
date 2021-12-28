@@ -1302,9 +1302,6 @@
     "This_script_has_access_to_https_pages": {
         "message": "Dit voorwerp heeft toegang tot https-pagina's."
     },
-    "This_script_has_access_to_webpage_scripts": {
-        "message": "Dit script heeft volledige toegang tot de webpagina."
-    },
     "This_script_has_full_web_access": {
         "message": "Dit script heeft volledige toegang tot het internet."
     },

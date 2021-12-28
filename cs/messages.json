@@ -892,9 +892,6 @@
     "This_script_has_access_to_https_pages": {
         "message": "Tento skript má přístup k https stránkám."
     },
-    "This_script_has_access_to_webpage_scripts": {
-        "message": "Tento skript má plný přístup k webové stránce."
-    },
     "This_script_has_full_web_access": {
         "message": "Tento skript má plný přístup k internetu."
     },

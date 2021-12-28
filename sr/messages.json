@@ -1221,9 +1221,6 @@
     "This_script_has_access_to_https_pages": {
         "message": "Ova predmet/skripta ima pristup HTTPS stranicama."
     },
-    "This_script_has_access_to_webpage_scripts": {
-        "message": "Ova stavka ima pun pristup web-stranici."
-    },
     "This_script_has_full_web_access": {
         "message": "Ova skripta ima pun internet pristup."
     },

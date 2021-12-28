@@ -1207,9 +1207,6 @@
     "This_script_has_access_to_https_pages": {
         "message": "इस आइटम की https पृष्ठों में पहुंच है।"
     },
-    "This_script_has_access_to_webpage_scripts": {
-        "message": "इस आइटम में वेबपेज के लिए पूरा उपयोग किया है।"
-    },
     "This_script_has_full_web_access": {
         "message": "इस स्क्रिप्ट में पूर्ण इंटरनेट एक्सेस है।"
     },

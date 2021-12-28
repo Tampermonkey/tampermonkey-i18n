@@ -1325,9 +1325,6 @@
     "This_script_has_access_to_https_pages": {
         "message": "Цей скрипт має доступ до сторінок HTTPS."
     },
-    "This_script_has_access_to_webpage_scripts": {
-        "message": "Цей скрипт має повний доступ до сторінки."
-    },
     "This_script_has_full_web_access": {
         "message": "Цей скрипт має повний доступ в інтернет."
     },

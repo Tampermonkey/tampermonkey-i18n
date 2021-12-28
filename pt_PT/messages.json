@@ -857,9 +857,6 @@
     "This_script_has_access_to_https_pages": {
         "message": "Este script tem acesso a páginas https."
     },
-    "This_script_has_access_to_webpage_scripts": {
-        "message": "Este script tem acesso aos scripts da página web."
-    },
     "This_script_has_full_web_access": {
         "message": "Este script tem acesso total à Internet."
     },

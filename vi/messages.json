@@ -1390,9 +1390,6 @@
     "This_script_has_access_to_https_pages": {
         "message": "Tập lệnh này có quyền truy cập vào các trang https."
     },
-    "This_script_has_access_to_webpage_scripts": {
-        "message": "Tập lệnh này có toàn quyền truy cập vào trang web."
-    },
     "This_script_has_full_web_access": {
         "message": "Tập lệnh này có toàn quyền truy cập web"
     },
