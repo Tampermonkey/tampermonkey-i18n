@@ -161,6 +161,9 @@
     "All_script_settings_will_be_reset_": {
         "message": "Todas as configurações de script serão redefinidas!"
     },
+    "All_tabs": {
+        "message": "Todas as guias"
+    },
     "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
         "message": "Permitir que o Tampermonkey colete estatísticas anônimas via Google Analytics. Isto ajuda a melhorar o Tampermonkey e determinar o foco do meu desenvolvimento baseado nessas informações. Apenas desative se você não gostar disso."
     },
@@ -365,6 +368,9 @@
     "Classic": {
         "message": "Clássico"
     },
+    "Clean_after_session": {
+        "message": "Limpar após a sessão"
+    },
     "Clear_All": {
         "message": "Limpar tudo"
     },
@@ -496,6 +502,9 @@
     "Details": {
         "message": "Detalhes"
     },
+    "Default_tab_types_to_run_scripts_in": {
+        "message": "Tipos de guia padrão para executar scripts"
+    },
     "Developer": {
         "message": "Desenvolvedor"
     },
@@ -518,6 +527,9 @@
     },
     "Document_Start": {
         "message": "Início do documento"
+    },
+    "Does_not_run_in_incognito_tabs": {
+        "message": "Não funciona em guias anônimas"
     },
     "Dont_ask_again": {
         "message": "Não perguntar novamente"
@@ -809,6 +821,9 @@
     "Includes_Excludes": {
         "message": "Inclusões/Exclusões"
     },
+    "Incognito_tabs": {
+        "message": "Abas anônimas"
+    },
     "Incremental_Find": {
         "message": "Localizar incremental"
     },
@@ -988,6 +1003,9 @@
     },
     "Normal": {
         "message": "Normal"
+    },
+    "Normal_tabs": {
+        "message": "Guias normais"
     },
     "Note": {
         "message": "Nota"
@@ -1353,6 +1371,9 @@
     "Swap_with_Sublime_Mark": {
         "message": "Trocar com Sublime Mark"
     },
+    "Sync_Now": {
+        "message": "Executar agora"
+    },
     "Sync_Reset": {
         "message": "Redefinir sincronia"
     },
@@ -1376,6 +1397,9 @@
     },
     "Tab_URL": {
         "message": "URL da guia"
+    },
+    "Tab_types": {
+        "message": "Tipos de guias"
     },
     "Tabs": {
         "message": "Guias"
@@ -1480,6 +1504,9 @@
     "This_script_does_not_provide_any__include_information_": {
         "message": "Este script não possui nenhuma informação @include."
     },
+    "This_script_does_not_require_any_special_powers_": {
+        "message": "Este script não requer nenhum poder especial."
+    },
     "This_script_has_access_to_https_pages": {
         "message": "Este item tem acesso a páginas https."
     },
@@ -1491,6 +1518,9 @@
     },
     "This_script_stores_data": {
         "message": "Este script salva informações no Tampermonkey."
+    },
+    "This_script_uses_uW_gm_api_": {
+        "message": "Este script usa parte do API Greasemonkey 10 (unsafeWindow.gmonkey)\nque não é suportado pelo Tampermonkey nem outro executor de scripts alternativo."
     },
     "This_script_was_deleted": {
         "message": "Este script foi excluído"
@@ -1555,6 +1585,9 @@
     },
     "Trash": {
         "message": "ðŸ—‘"
+    },
+    "Trash_Mode": {
+        "message": "Modo Lixeira"
     },
     "Trigger_Update": {
         "message": "Iniciar busca de atualização"
