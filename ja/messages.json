@@ -122,6 +122,9 @@
     "All_script_settings_will_be_reset_": {
         "message": "スクリプト設定はすべて失われます!"
     },
+    "All_tabs": {
+        "message": "すべてのタブ"
+    },
     "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
         "message": "Tampermonkey が Google Analytics を使用して匿名の統計情報を収集するのを許可します。この統計情報は、作者が Tampermonkey を改良するのに役立ち、どの部分の開発に集中すべきかの判断材料としても役立ちます。協力したくない場合は無効にしてください。"
     },
@@ -254,7 +257,7 @@
         "message": "ブラックリスト"
     },
     "Blacklist_0domain0": {
-        "message": "$domain$ をブラックリストに登録",
+        "message": "$domain$ で実行しない",
         "placeholders": {
             "domain": {
                 "content": "$1"
@@ -319,6 +322,9 @@
     },
     "Classic": {
         "message": "クラシック"
+    },
+    "Clean_after_session": {
+        "message": "セッション後にクリーン"
     },
     "Clear_All": {
         "message": "すべて消去"
@@ -448,6 +454,9 @@
     "Details": {
         "message": "詳細"
     },
+    "Default_tab_types_to_run_scripts_in": {
+        "message": "スクリプトを実行する既定のタブの種類"
+    },
     "Developer": {
         "message": "デベロッパー"
     },
@@ -470,6 +479,9 @@
     },
     "Document_Start": {
         "message": "文書の先頭"
+    },
+    "Does_not_run_in_incognito_tabs": {
+        "message": "シークレット モードのタブで実行しない"
     },
     "Dont_ask_again": {
         "message": "二度と表示しない"
@@ -673,10 +685,10 @@
         "message": "ホームページ"
     },
     "I_contributed_already": {
-        "message": "私は既に寄付しました"
+        "message": "私は既に貢献しました"
     },
     "I_dont_want_to_contribute": {
-        "message": "寄付したくありません"
+        "message": "貢献したくありません"
     },
     "Icon_badge_color": {
         "message": "アイコン バッジの色"
@@ -727,6 +739,9 @@
     },
     "Includes_Excludes": {
         "message": "include/exclude"
+    },
+    "Incognito_tabs": {
+        "message": "シークレット モードのタブ"
     },
     "Incremental_Find": {
         "message": "インクリメンタル検索"
@@ -907,6 +922,9 @@
     },
     "Normal": {
         "message": "通常"
+    },
+    "Normal_tabs": {
+        "message": "通常のタブ"
     },
     "Note": {
         "message": "注釈"
@@ -1281,6 +1299,9 @@
     "Tab_URL": {
         "message": "タブの URL"
     },
+    "Tab_types": {
+        "message": "タブの種類"
+    },
     "Tabs": {
         "message": "タブ"
     },
@@ -1384,6 +1405,9 @@
     "This_script_does_not_provide_any__include_information_": {
         "message": "このスクリプトは @include 情報を何も提供しません。"
     },
+    "This_script_does_not_require_any_special_powers_": {
+        "message": "このスクリプトは特殊な権限を必要としません。"
+    },
     "This_script_has_access_to_https_pages": {
         "message": "このスクリプトは https ページにアクセスします。"
     },
@@ -1453,6 +1477,9 @@
     },
     "Trace": {
         "message": "トレース"
+    },
+    "Trash_Mode": {
+        "message": "ごみ箱モード"
     },
     "Trigger_Update": {
         "message": "更新を引き起こす"
