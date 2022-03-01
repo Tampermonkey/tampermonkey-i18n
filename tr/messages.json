@@ -102,6 +102,9 @@
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
         "message": "Bir kullanıcı betiği kökler arası bir kaynağa erişmek istiyor."
     },
+    "Aborted_by_user": {
+        "message": "Kullanıcı tarafından iptal edildi"
+    },
     "Action": {
         "message": "Eylem"
     },
@@ -143,6 +146,9 @@
     "Add_toSource_function_to_Object_Prototype": {
         "message": "Nesne ve Dizi uyumluluk işlevleri ekleyin"
     },
+    "Add_to_icon_badge_text": {
+        "message": "Simge rozeti yazısına ekle"
+    },
     "Advanced": {
         "message": "Gelişmiş"
     },
@@ -154,6 +160,9 @@
     },
     "All_script_settings_will_be_reset_": {
         "message": "Tüm betik ayarları sıfırlanır!"
+    },
+    "All_tabs": {
+        "message": "Tüm sekmeler"
     },
     "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
         "message": "Tampermonkey'nin Google Analytics aracılığıyla anonim istatistikler toplamasına izin ver. Bu, Tampermonkey'i geliştirmeme ve geliştirmemde hangi kriterlere odaklanmam gerektiğini belirlemem konusunda yardımcı oluyor. İstemiyorsanız bunu devre dışı bırakmanız yeterlidir."
@@ -286,6 +295,14 @@
     "Blacklist": {
         "message": "Kara Liste"
     },
+    "Blacklist_0domain0": {
+        "message": "$domain$ sitesinde çalıştırma",
+        "placeholders": {
+            "domain": {
+                "content": "$1"
+            }
+        }
+    },
     "Blacklist_Severity": {
         "message": "Önem Seviyesinden Engelleme"
     },
@@ -351,6 +368,9 @@
     "Classic": {
         "message": "Klasik"
     },
+    "Clean_after_session": {
+        "message": "Oturum sonrası temizle"
+    },
     "Clear_All": {
         "message": "Tümünü temizle"
     },
@@ -366,7 +386,7 @@
         "message": "Tampermonkey'in anında indirmeye başlamasını sağlamak için Tamam'a tıklayın."
     },
     "Click_here_to_install_it_": {
-        "message": "Yüklemek için buraya tıklayın."
+        "message": "Kurmak için buraya tıklayın."
     },
     "Click_here_to_move_this_script": {
         "message": "Bu betiği taşımak için buraya tıklayın"
@@ -391,6 +411,9 @@
     },
     "Config_Mode": {
         "message": "Yapılandırma modu"
+    },
+    "Context_Menu": {
+        "message": "Bağlam Menüsü"
     },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "CDATA bölümlerini tarayıcıyla uyumlu bir biçimde dönüştürün"
@@ -424,6 +447,9 @@
     },
     "Debug_scripts": {
         "message": "Betik hata ayıklama"
+    },
+    "Decoding": {
+        "message": "Çözülüyor..."
     },
     "Default": {
         "message": "Varsayılan"
@@ -476,6 +502,9 @@
     "Details": {
         "message": "Ayrıntılar"
     },
+    "Default_tab_types_to_run_scripts_in": {
+        "message": "Betiklerin içinde çalıştırılacağı varsayılan sekme türleri"
+    },
     "Developer": {
         "message": "Geliştirici"
     },
@@ -498,6 +527,9 @@
     },
     "Document_Start": {
         "message": "Belge başlangıcı"
+    },
+    "Does_not_run_in_incognito_tabs": {
+        "message": "Gizli sekmelerde çalışmaz"
     },
     "Dont_ask_again": {
         "message": "Tekrar sorma"
@@ -554,6 +586,9 @@
     },
     "Enable_autoSave": {
         "message": "Editör odağı kaybedildiğinde içeriği kaydet"
+    },
+    "Enable_context_menu": {
+        "message": "Bağlam Menüsünü Etkinleştir"
     },
     "Enable_easySave": {
         "message": "Kaydetme hakkında onay iletisi gösterme"
@@ -668,6 +703,14 @@
     "Forbid_once": {
         "message": "Bir kere yasakla"
     },
+    "Found_0count0_available_scripts": {
+        "message": "$count$ sayıda uygun betik bulundu",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
     "Full_reset": {
         "message": "Fabrika ayarlarına dön"
     },
@@ -749,6 +792,20 @@
     "Imported": {
         "message": "Aktarılan"
     },
+    "In_order_to_search_for_userscripts__0on_action_menu0__and__0icon_badge_number0__automatically_transfer_the_tab_s_url_to_the_search_website__0on_click0_opens_the_search_page_on_click_Please_click_at_this_icon_to_open_the_privacy_policy_": {
+        "message": "\"$icon_badge_number$\" modunda, sekmenin linki otomatik olarak \narama sitesine aktarılır ve arama değeri olarak kullanılır.\n\n\"$on_action_menu$\" modunda, linki kullanarak arama sadece \neylem menüsü açıldığında yapılır.\n\n\"$on_click$\" eylem menüsü öğesine tıklandığı zaman sadece arama sitesini açar.\n\nArama sitesinin gizlilik politikasını açmak için buraya tıklayın.",
+        "placeholders": {
+            "icon_badge_number": {
+                "content": "$1"
+            },
+            "on_action_menu": {
+                "content": "$2"
+            },
+            "on_click": {
+                "content": "$3"
+            }
+        }
+    },
     "Include_TM_settings": {
         "message": "Tampermonkey ayarlarını dahil et"
     },
@@ -763,6 +820,9 @@
     },
     "Includes_Excludes": {
         "message": "İçerenler/Hariç Tutmalar"
+    },
+    "Incognito_tabs": {
+        "message": "Gizli sekmeler"
     },
     "Incremental_Find": {
         "message": "Ek bul"
@@ -798,16 +858,16 @@
         "message": "Oluşturucu ekle"
     },
     "Install": {
-        "message": "Yükle"
+        "message": "Kur"
     },
     "Install_this_script": {
-        "message": "Bu betiği yükle"
+        "message": "Bu betiği kur"
     },
     "Installed_Version_": {
-        "message": "Yüklenmiş Sürüm"
+        "message": "Kurulmuş Sürüm"
     },
     "Installed_userscripts": {
-        "message": "Yüklenmiş Kullanıcı Betikleri"
+        "message": "Kurulmuş Kullanıcı Betikleri"
     },
     "Instant": {
         "message": "Anlık"
@@ -859,6 +919,9 @@
     },
     "Lines_Menu": {
         "message": "Satırlar"
+    },
+    "Loading": {
+        "message": "Yükleniyor..."
     },
     "LogLevel": {
         "message": "Günlük seviyesi"
@@ -914,6 +977,9 @@
     "No": {
         "message": "Hayır"
     },
+    "No_available_scripts": {
+        "message": "Uygun betik yok"
+    },
     "No_backups_found": {
         "message": "Yedek bulunamadı"
     },
@@ -924,7 +990,7 @@
         "message": "Yalnızca üst çerçevede çalıştırın"
     },
     "No_script_is_installed": {
-        "message": "Hiç betik yüklenmedi"
+        "message": "Hiç betik kurulmadı"
     },
     "No_script_is_running": {
         "message": "Hiçbir betik çalışmıyor"
@@ -937,6 +1003,9 @@
     },
     "Normal": {
         "message": "Normal"
+    },
+    "Normal_tabs": {
+        "message": "Normal sekmeler"
     },
     "Note": {
         "message": "Not"
@@ -952,6 +1021,12 @@
     },
     "On": {
         "message": "Açık"
+    },
+    "On_Action_Menu": {
+        "message": "Eylem menüsü üzerinde"
+    },
+    "On_Click": {
+        "message": "Tıklamada"
     },
     "OneDrive": {
         "message": "OneDrive"
@@ -1060,6 +1135,9 @@
         "message": "Yazarken yeniden girinti yap"
     },
     "Reinstall": {
+        "message": "Yeniden Kur"
+    },
+    "Reload": {
         "message": "Yeniden Yükle"
     },
     "Remind_me_later": {
@@ -1157,6 +1235,9 @@
     "Script_local_files_access": {
         "message": "Betiklerin yerel dosyalara erişmesine izin ver"
     },
+    "Script_menu_commands": {
+        "message": "Betik menüsü komutları"
+    },
     "Script_name_0name0": {
         "message": "Betik adı: $name$",
         "placeholders": {
@@ -1168,11 +1249,20 @@
     "Script_order": {
         "message": "Betik düzeni"
     },
+    "Scripts_activated_by_context_menu": {
+        "message": "@run-at bağlam menüsü kullanan betikler"
+    },
     "Search": {
         "message": "Ara"
     },
     "Search_for": {
         "message": "Ara"
+    },
+    "Search_for_userscripts_for_this_tab": {
+        "message": "Bu sayfa için betik ara"
+    },
+    "Searching_for_userscripts_for_this_tab": {
+        "message": "Betikler aranıyor..."
     },
     "Security": {
         "message": "Güvenlik"
@@ -1281,6 +1371,9 @@
     "Swap_with_Sublime_Mark": {
         "message": "Sublim İşaret ile değiştir"
     },
+    "Sync_Now": {
+        "message": "Şimdi Çalıştır"
+    },
     "Sync_Reset": {
         "message": "Eşitlemeyi Sıfırla"
     },
@@ -1305,11 +1398,17 @@
     "Tab_URL": {
         "message": "Sekme URL"
     },
+    "Tab_types": {
+        "message": "Sekme türleri"
+    },
     "Tabs": {
         "message": "Sekmeler"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + betik sürümü"
+    },
+    "Tampermonkey_has_no_access_to_this_page": {
+        "message": "Tampermonkey bu sayfaya erişemiyor"
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey'in yerel dosyalara erişmek için izni yok!"
@@ -1405,6 +1504,9 @@
     "This_script_does_not_provide_any__include_information_": {
         "message": "Bu betik herhangi bir @include bilgisi sağlamıyor."
     },
+    "This_script_does_not_require_any_special_powers_": {
+        "message": "Bu betiğin herhangi bir özel güce ihtiyacı yok."
+    },
     "This_script_has_access_to_https_pages": {
         "message": "Bu öğenin https sayfalarına erişimi var."
     },
@@ -1481,6 +1583,9 @@
     "Trash": {
         "message": "🗑"
     },
+    "Trash_Mode": {
+        "message": "Çöp Modu"
+    },
     "Trigger_Update": {
         "message": "Tetikleyici Güncelleme"
     },
@@ -1488,7 +1593,7 @@
         "message": "Değiştirilen satırlardan gelen boşlukları silmek için"
     },
     "Try_to_install_as_script": {
-        "message": "Betik olarak yüklemeyi dene"
+        "message": "Betik olarak kurmayı dene"
     },
     "Type": {
         "message": "Tür"
@@ -1585,6 +1690,12 @@
     "User_modified": {
         "message": "Değiştirildi"
     },
+    "Userscript_Search": {
+        "message": "Betik Arama"
+    },
+    "Userscript_search_integration_mode": {
+        "message": "Betik Arama Bütünleştirmesi"
+    },
     "Userscripts": {
         "message": "Kullanıcı betikleri"
     },
@@ -1602,6 +1713,9 @@
     },
     "Version": {
         "message": "Sürüm"
+    },
+    "View": {
+        "message": "Görünüm"
     },
     "Vim": {
         "message": "Vim"
@@ -1652,7 +1766,7 @@
         "message": "Kullanıcı betiği değişikliği"
     },
     "You_are_about_to_reinstall_a_UserScript_": {
-        "message": "Kullanıcı betiğini tekrar yükle"
+        "message": "Kullanıcı betiğini tekrar kur"
     },
     "You_are_about_to_update_a_UserScript_": {
         "message": "Kullanıcı betiği güncelle"
