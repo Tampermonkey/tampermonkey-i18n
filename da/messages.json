@@ -234,7 +234,7 @@
         "message": "Auto"
     },
     "Auto_Indent_all": {
-        "message": "Auto-indryk alle"
+        "message": "Auto-indryk alt"
     },
     "Auto_reload_on_script_enabled": {
         "message": "Genindlæs sider automatisk"
@@ -420,6 +420,9 @@
     "Delete_Line_Right": {
         "message": "Slet Linje Til Højre"
     },
+    "Delete_all": {
+        "message": "Slet alt"
+    },
     "Delete_to_Next_Word_Boundary": {
         "message": "Slet til Next Ordgrænse"
     },
@@ -428,6 +431,9 @@
     },
     "Delete_to_Sublime_Mark": {
         "message": "Slet til Sublime Mark"
+    },
+    "Deleted_on": {
+        "message": "Slettet den"
     },
     "Description": {
         "message": "Beskrivelse"
@@ -497,7 +503,7 @@
         "message": "Dupliserede Linjer"
     },
     "Edit": {
-        "message": "Rediger"
+        "message": "Redigér"
     },
     "Editor": {
         "message": "Kodeeditor"
@@ -700,28 +706,28 @@
         "message": "Ikonbadge Tekstfarve"
     },
     "Import": {
-        "message": "Importer"
+        "message": "Importér"
     },
     "Import_from_URL": {
-        "message": "Installer from URL"
+        "message": "Importér fra URL"
     },
     "Import_from_file": {
-        "message": "Importer"
+        "message": "Importér fra fil"
     },
     "Imported": {
         "message": "Importeret"
     },
     "Include_TM_settings": {
-        "message": "Inkluder Tampermonkey-indstillinger"
+        "message": "Inkludér Tampermonkey-indstillinger"
     },
     "Include_s__": {
         "message": "Inkluder(er)"
     },
     "Include_script_externals": {
-        "message": "Inkluder eksterne script-ressourcer"
+        "message": "Inkludér eksterne script-ressourcer"
     },
     "Include_script_storage": {
-        "message": "Inkluder scriptlagring"
+        "message": "Inkludér scriptlagring"
     },
     "Includes_Excludes": {
         "message": "Inkluderer/ekskluderer"
@@ -730,16 +736,16 @@
         "message": "Trinvis Find"
     },
     "Indent": {
-        "message": "Indtryk"
+        "message": "Indryk"
     },
     "Indent_Less": {
-        "message": "Indtryk Mindre"
+        "message": "Indryk Mindre"
     },
     "Indent_More": {
-        "message": "Indtryk Mere"
+        "message": "Indryk Mere"
     },
     "Indent_with": {
-        "message": "Indtryk med"
+        "message": "Indryk med"
     },
     "Indentation_Width": {
         "message": "Indrykningsbredde"
@@ -760,10 +766,10 @@
         "message": "Indsæt constructor"
     },
     "Install": {
-        "message": "Installer"
+        "message": "Installér"
     },
     "Install_this_script": {
-        "message": "Installer this script"
+        "message": "Installér dette script"
     },
     "Installed_Version_": {
         "message": "Installeret Version"
@@ -790,7 +796,7 @@
         "message": "Bare endnu en service leveret af din venlige scriptopdaterer"
     },
     "Key_Mapping": {
-        "message": "Kortlægning af nøgler"
+        "message": "Kortlægning af tastaturgenveje"
     },
     "Language": {
         "message": "Sprog"
@@ -931,7 +937,7 @@
         "message": "Kun filer med disse udvidelser kan gemmes på harddisken.\nVær forsigtig med ikke at tillade filtypenavne, der repræsenterer eksekverbare filer i dit operativsystem!"
     },
     "Open_changelog": {
-        "message": "Åbn changelog"
+        "message": "Åbn ændringslog"
     },
     "Operation_completed_successfully": {
         "message": "Handlingen blev gennemført med succes"
@@ -1037,7 +1043,7 @@
         "message": "Erstat alle"
     },
     "Replace_for_each_statements": {
-        "message": "Erstat 'for hver' udsagn"
+        "message": "Erstat 'for each' udsagn"
     },
     "Replace_with": {
         "message": "Erstat med"
@@ -1059,6 +1065,12 @@
     },
     "Restart_Tampermonkey": {
         "message": "Genstart Tampermonkey"
+    },
+    "Restore": {
+        "message": "Gendan"
+    },
+    "Restore_all": {
+        "message": "Gendan alt"
     },
     "Revoke_Access_Token": {
         "message": "Tilbagekald adgangstoken"
@@ -1125,34 +1137,34 @@
         "message": "Sikkerhed"
     },
     "Select_All": {
-        "message": "Vælg Alle"
+        "message": "Markér Alt"
     },
     "Select_Bookmarks": {
-        "message": "Vælg Bogmærker"
+        "message": "Markér Bogmærker"
     },
     "Select_Line": {
-        "message": "Vælg Linje"
+        "message": "Markér Linje"
     },
     "Select_Next_Occurrence": {
-        "message": "Vælg næste forekomst"
+        "message": "Markér næste forekomst"
     },
     "Select_Scope": {
-        "message": "Vælg Omfang"
+        "message": "Markér Omfang"
     },
     "Select_between_Brackets": {
-        "message": "Vælg mellem parenteser"
+        "message": "Markér mellem parenteser"
     },
     "Select_to_Sublime_Mark": {
-        "message": "Vælg til Sublime Mark"
+        "message": "Markér til Sublime Mark"
     },
     "Selection": {
-        "message": "Valg"
+        "message": "Markering"
     },
     "Server_And_Manual": {
         "message": "Remote + Manual"
     },
     "Set_Sublime_Mark": {
-        "message": "Indstil Sublime Mark"
+        "message": "Placér Sublime Mark"
     },
     "Settings": {
         "message": "Indstillinger"
@@ -1226,10 +1238,10 @@
         "message": "Subresource Integrity"
     },
     "Swap_with_Sublime_Mark": {
-        "message": "Swap med Sublime Mark"
+        "message": "Byt med Sublime Mark"
     },
     "Sync_Reset": {
-        "message": "Reset synkronisering"
+        "message": "Nulstil synkronisering"
     },
     "Sync_Type": {
         "message": "Type"
@@ -1527,16 +1539,16 @@
         "message": "Ændret"
     },
     "Userscripts": {
-        "message": "Userscripts"
+        "message": "Brugerscripts"
     },
     "Utilities": {
         "message": "Hjælpeprogrammer"
     },
     "Validate_if_given": {
-        "message": "Valider hvis givet"
+        "message": "Validér hvis givet"
     },
     "Validate_if_supported": {
-        "message": "Valider hvis det er muligt"
+        "message": "Validér hvis det er muligt"
     },
     "Verbose": {
         "message": "Detaljeret"
