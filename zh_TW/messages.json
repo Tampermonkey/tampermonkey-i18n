@@ -102,6 +102,9 @@
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
         "message": "使用者腳本需要取得跨網域資源。"
     },
+    "Aborted_by_user": {
+        "message": "遭使用者中止"
+    },
     "Action": {
         "message": "動作"
     },
@@ -157,6 +160,9 @@
     },
     "All_script_settings_will_be_reset_": {
         "message": "全部的腳本設定都將會重設！"
+    },
+    "All_tabs": {
+        "message": "所有分頁"
     },
     "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
         "message": "允許 Tampermonkey 透過 Google Analytics（分析）蒐集匿名統計資料。這能協助我們改進 Tampermonkey 並決定開發的重點策略。若您不喜歡可將其關閉。"
@@ -362,6 +368,9 @@
     "Classic": {
         "message": "傳統型"
     },
+    "Clean_after_session": {
+        "message": "工作階段結束後清除"
+    },
     "Clear_All": {
         "message": "全部清除"
     },
@@ -439,6 +448,9 @@
     "Debug_scripts": {
         "message": "為腳本除錯"
     },
+    "Decoding": {
+        "message": "正在解碼..."
+    },
     "Default": {
         "message": "預設"
     },
@@ -490,6 +502,9 @@
     "Details": {
         "message": "詳細資料"
     },
+    "Default_tab_types_to_run_scripts_in": {
+        "message": "要執行腳本的預設分頁類型"
+    },
     "Developer": {
         "message": "開發人員"
     },
@@ -508,10 +523,13 @@
         }
     },
     "Document_End": {
-        "message": "文件結束"
+        "message": "文件結尾"
     },
     "Document_Start": {
-        "message": "文件開始"
+        "message": "文件開頭"
+    },
+    "Does_not_run_in_incognito_tabs": {
+        "message": "不會在無痕分頁中執行"
     },
     "Dont_ask_again": {
         "message": "不再詢問"
@@ -803,6 +821,9 @@
     "Includes_Excludes": {
         "message": "包含/排除"
     },
+    "Incognito_tabs": {
+        "message": "無痕分頁"
+    },
     "Incremental_Find": {
         "message": "增量搜尋"
     },
@@ -899,6 +920,9 @@
     "Lines_Menu": {
         "message": "行"
     },
+    "Loading": {
+        "message": "載入中..."
+    },
     "LogLevel": {
         "message": "紀錄等級"
     },
@@ -979,6 +1003,9 @@
     },
     "Normal": {
         "message": "正常"
+    },
+    "Normal_tabs": {
+        "message": "正常分頁"
     },
     "Note": {
         "message": "說明"
@@ -1344,6 +1371,9 @@
     "Swap_with_Sublime_Mark": {
         "message": "使用 Sublime 標記交換"
     },
+    "Sync_Now": {
+        "message": "立刻執行"
+    },
     "Sync_Reset": {
         "message": "同步重設"
     },
@@ -1367,6 +1397,9 @@
     },
     "Tab_URL": {
         "message": "Tab URL"
+    },
+    "Tab_types": {
+        "message": "Tab 類型"
     },
     "Tabs": {
         "message": "Tab"
@@ -1471,6 +1504,9 @@
     "This_script_does_not_provide_any__include_information_": {
         "message": "此腳本沒有提供任何 @include 資訊。"
     },
+    "This_script_does_not_require_any_special_powers_": {
+        "message": "此腳本不需任何特殊權限。"
+    },
     "This_script_has_access_to_https_pages": {
         "message": "此腳本可存取 https 頁面。"
     },
@@ -1546,6 +1582,9 @@
     },
     "Trash": {
         "message": "🗑"
+    },
+    "Trash_Mode": {
+        "message": "回收模式"
     },
     "Trigger_Update": {
         "message": "更新"
@@ -1674,6 +1713,9 @@
     },
     "Version": {
         "message": "版本"
+    },
+    "View": {
+        "message": "檢視"
     },
     "Vim": {
         "message": "Vim"
