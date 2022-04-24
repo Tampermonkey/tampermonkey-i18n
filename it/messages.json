@@ -161,6 +161,9 @@
     "All_script_settings_will_be_reset_": {
         "message": "Tutte le impostazioni degli script verranno ripristinate!"
     },
+    "All_tabs": {
+        "message": "Tutte le schede"
+    },
     "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
         "message": "Permette a Tampermonkey di collezionare statistiche anonime tramite Google Analytics. Questo aiuta l'autore di Tamperminkey a migliorarlo e a determinare su quali criteri concentrare lo sviluppo. Se non ti piace, basta disabilitarlo."
     },
@@ -365,6 +368,9 @@
     "Classic": {
         "message": "Classica"
     },
+    "Clean_after_session": {
+        "message": "Pulizia dopo sessione"
+    },
     "Clear_All": {
         "message": "Azzera tutto"
     },
@@ -496,6 +502,9 @@
     "Details": {
         "message": "Dettagli"
     },
+    "Default_tab_types_to_run_scripts_in": {
+        "message": "Tipi predefiniti schede in cui eseguire lo script"
+    },
     "Developer": {
         "message": "Sviluppatore"
     },
@@ -518,6 +527,9 @@
     },
     "Document_Start": {
         "message": "Inizio documento"
+    },
+    "Does_not_run_in_incognito_tabs": {
+        "message": "Impossibile eseguire in schede in incognito"
     },
     "Dont_ask_again": {
         "message": "Non chiedere nuovamente"
@@ -809,6 +821,9 @@
     "Includes_Excludes": {
         "message": "Inclusioni/esclusioni"
     },
+    "Incognito_tabs": {
+        "message": "Schede in incognito"
+    },
     "Incremental_Find": {
         "message": "Ricerca incrementale"
     },
@@ -988,6 +1003,9 @@
     },
     "Normal": {
         "message": "Normale"
+    },
+    "Normal_tabs": {
+        "message": "Schede normali"
     },
     "Note": {
         "message": "Nota"
@@ -1380,6 +1398,9 @@
     "Tab_URL": {
         "message": "Scheda URL"
     },
+    "Tab_types": {
+        "message": "Tipi scheda"
+    },
     "Tabs": {
         "message": "Tabulazioni"
     },
@@ -1483,6 +1504,9 @@
     "This_script_does_not_provide_any__include_information_": {
         "message": "Questo script non contiene nessuna informazione @include."
     },
+    "This_script_does_not_require_any_special_powers_": {
+        "message": "Questo script non richiede nessuna opzione speciale."
+    },
     "This_script_has_access_to_https_pages": {
         "message": "Questo script ha accesso a pagine https."
     },
@@ -1558,6 +1582,9 @@
     },
     "Trash": {
         "message": "🗑"
+    },
+    "Trash_Mode": {
+        "message": "Modo Cestino"
     },
     "Trigger_Update": {
         "message": "Esegui aggiornamento"
