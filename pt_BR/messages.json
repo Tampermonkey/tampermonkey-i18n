@@ -1519,9 +1519,6 @@
     "This_script_stores_data": {
         "message": "Este script salva informações no Tampermonkey."
     },
-    "This_script_uses_uW_gm_api_": {
-        "message": "Este script usa parte do API Greasemonkey 10 (unsafeWindow.gmonkey)\nque não é suportado pelo Tampermonkey nem outro executor de scripts alternativo."
-    },
     "This_script_was_deleted": {
         "message": "Este script foi excluído"
     },
@@ -1584,7 +1581,7 @@
         "message": "Inverter posição"
     },
     "Trash": {
-        "message": "ðŸ—‘"
+        "message": "🗑"
     },
     "Trash_Mode": {
         "message": "Modo Lixeira"
