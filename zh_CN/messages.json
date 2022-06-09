@@ -102,6 +102,9 @@
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
         "message": "一个用户脚本试图访问跨源资源。"
     },
+    "Aborted_by_user": {
+        "message": "已被用户取消"
+    },
     "Action": {
         "message": "操作"
     },
@@ -124,10 +127,10 @@
         "message": "在下面添加选择内容"
     },
     "Add_TM_to_CSP": {
-        "message": "如果站点有内容安全策略（CSP）则向其策略"
+        "message": "修改内容安全策略（CSP）头信息"
     },
     "Add_Tampermonkey_to_the_site_s_content_csp": {
-        "message": "向 HTML 的内容安全策略（CSP）加入 Tampermonkey"
+        "message": "将Tampermonkey 加入到 HTML 的内容安全策略（CSP）中"
     },
     "Add_as_0clude0": {
         "message": "添加为 $clude$",
@@ -157,6 +160,9 @@
     },
     "All_script_settings_will_be_reset_": {
         "message": "即将重置所有脚本的设置！"
+    },
+    "All_tabs": {
+        "message": "所有标签"
     },
     "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
         "message": "允许 Tampermonkey 通过 Google Analytics 收集匿名使用统计。这可以帮助我改进 Tampermonkey 和弄清应关注的焦点。如果您不喜欢这种感觉，尽管禁用它。"
@@ -289,6 +295,14 @@
     "Blacklist": {
         "message": "黑名单"
     },
+    "Blacklist_0domain0": {
+        "message": "禁止在域名$domain$下运行",
+        "placeholders": {
+            "domain": {
+                "content": "$1"
+            }
+        }
+    },
     "Blacklist_Severity": {
         "message": "以严重等级禁用"
     },
@@ -353,6 +367,9 @@
     },
     "Classic": {
         "message": "经典"
+    },
+    "Clean_after_session": {
+        "message": "在会话结束后清除"
     },
     "Clear_All": {
         "message": "清除全部"
@@ -431,6 +448,9 @@
     "Debug_scripts": {
         "message": "调试脚本"
     },
+    "Decoding": {
+        "message": "解码中..."
+    },
     "Default": {
         "message": "默认"
     },
@@ -482,6 +502,9 @@
     "Details": {
         "message": "详情"
     },
+    "Default_tab_types_to_run_scripts_in": {
+        "message": "默认的执行脚本的标签类型"
+    },
     "Developer": {
         "message": "开发者"
     },
@@ -504,6 +527,9 @@
     },
     "Document_Start": {
         "message": "文档开始"
+    },
+    "Does_not_run_in_incognito_tabs": {
+        "message": "不在隐身模式标签内执行"
     },
     "Dont_ask_again": {
         "message": "不再询问"
@@ -677,6 +703,14 @@
     "Forbid_once": {
         "message": "拒绝一次"
     },
+    "Found_0count0_available_scripts": {
+        "message": "找到了 $count$ 个可用的脚本",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
     "Full_reset": {
         "message": "重置到出厂"
     },
@@ -732,19 +766,19 @@
         "message": "主页"
     },
     "I_contributed_already": {
-        "message": "我已支付"
+        "message": "我已支持"
     },
     "I_dont_want_to_contribute": {
-        "message": "我不想支付"
+        "message": "我还不想提供支持"
     },
     "Icon_badge_color": {
-        "message": "图标徽章颜色"
+        "message": "标记点颜色"
     },
     "Icon_badge_info": {
-        "message": "图标徽章信息"
+        "message": "标记点信息"
     },
     "Icon_badge_text_color": {
-        "message": "图标徽章文本颜色"
+        "message": "标记点文本颜色"
     },
     "Import": {
         "message": "导入"
@@ -757,6 +791,20 @@
     },
     "Imported": {
         "message": "已导入"
+    },
+    "In_order_to_search_for_userscripts__0on_action_menu0__and__0icon_badge_number0__automatically_transfer_the_tab_s_url_to_the_search_website__0on_click0_opens_the_search_page_on_click_Please_click_at_this_icon_to_open_the_privacy_policy_": {
+        "message": "在 \"$icon_badge_number$\" 模式下，将使用此标签页的URL在当前标签页发起搜索。\n\n在 \"$on_action_menu$\" 模式下，仅当操作菜单已打开时，才可以使用当前URL进行搜索。\n\n\"$on_click$\" 需点击操作菜单内的项目才可以打开搜索页面。\n\n点击此处可以查看搜索网站的隐私政策。",
+        "placeholders": {
+            "icon_badge_number": {
+                "content": "$1"
+            },
+            "on_action_menu": {
+                "content": "$2"
+            },
+            "on_click": {
+                "content": "$3"
+            }
+        }
     },
     "Include_TM_settings": {
         "message": "包含 Tampermonkey 设置"
@@ -772,6 +820,9 @@
     },
     "Includes_Excludes": {
         "message": "包括/排除"
+    },
+    "Incognito_tabs": {
+        "message": "隐私模式标签"
     },
     "Incremental_Find": {
         "message": "增量查找"
@@ -849,7 +900,7 @@
         "message": "布局"
     },
     "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
-        "message": "受限的运行时主机权限可能损坏脚本升级、 GM_xmlhttpRequest 以及其他 Tampermonkey 功能！"
+        "message": "在权限受限的执行环境中可能会影响脚本升级、 GM_xmlhttpRequest 以及其他 Tampermonkey 功能！"
     },
     "Line_Case_Insensitive": {
         "message": "按行的忽略大小写的字典序"
@@ -868,6 +919,9 @@
     },
     "Lines_Menu": {
         "message": "行"
+    },
+    "Loading": {
+        "message": "加载中..."
     },
     "LogLevel": {
         "message": "日志记录级别"
@@ -923,6 +977,9 @@
     "No": {
         "message": "否"
     },
+    "No_available_scripts": {
+        "message": "没有可用的脚本"
+    },
     "No_backups_found": {
         "message": "没有找到备份"
     },
@@ -947,6 +1004,9 @@
     "Normal": {
         "message": "标准"
     },
+    "Normal_tabs": {
+        "message": "常规标签"
+    },
     "Note": {
         "message": "说明"
     },
@@ -957,10 +1017,16 @@
         "message": "关"
     },
     "Ok": {
-        "message": "确定"
+        "message": "好的"
     },
     "On": {
         "message": "开"
+    },
+    "On_Action_Menu": {
+        "message": "操作菜单中"
+    },
+    "On_Click": {
+        "message": "点击时"
     },
     "OneDrive": {
         "message": "OneDrive"
@@ -969,13 +1035,13 @@
         "message": "发现了一个错误或提示。"
     },
     "One_or_more_compatibility_options_are_set": {
-        "message": "此脚本开启了一个或多个兼容选项，您或应审视其配置。"
+        "message": "此脚本开启了一个或多个兼容选项，请确认配置项。"
     },
     "Only_Manual": {
         "message": "仅手动管理"
     },
     "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
-        "message": "仅允许以下扩展名的文件被保存到硬盘。\n请您注意，不要允许在您的操作系统上为可执行文件的扩展名！"
+        "message": "仅允许以下扩展名的文件被保存到硬盘。\n请您注意，不要添加您操作系统上可执行文件的那些扩展名！"
     },
     "Open_changelog": {
         "message": "打开更新日志"
@@ -1071,6 +1137,9 @@
     "Reinstall": {
         "message": "重新安装"
     },
+    "Reload": {
+        "message": "重新载入"
+    },
     "Remind_me_later": {
         "message": "稍后提醒我"
     },
@@ -1102,7 +1171,7 @@
         "message": "报告 Bug"
     },
     "Report_an_issue_to_the_script_hoster_": {
-        "message": "向脚本网站反馈问题。\n（可能需要注册一个账户）"
+        "message": "问题反馈。\n（可能需要注册一个账户）"
     },
     "Requires": {
         "message": "要求"
@@ -1141,7 +1210,7 @@
         "message": "保存到磁盘"
     },
     "Script_0name0_is_slowing_down_some_page_loads_": {
-        "message": "脚本 '$name$' 正在减慢你的页面加载",
+        "message": "'$name$' 脚本正在减慢你的页面加载速度",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1161,7 +1230,7 @@
         "message": "脚本更新"
     },
     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
-        "message": "脚本作者可通过添加 SRI 散列到源 URL 来保证外部资源的安全性。"
+        "message": "脚本作者可通过添加 SRI hash 到源 URL 来保证外部资源的安全性。"
     },
     "Script_local_files_access": {
         "message": "允许脚本访问本地文件"
@@ -1302,7 +1371,7 @@
     "Swap_with_Sublime_Mark": {
         "message": "和 Sublime 标记交换"
     },
-	"Sync_Now": {
+    "Sync_Now": {
         "message": "现在运行"
     },
     "Sync_Reset": {
@@ -1329,11 +1398,17 @@
     "Tab_URL": {
         "message": "标签 URL"
     },
+    "Tab_types": {
+        "message": "标签类型"
+    },
     "Tabs": {
         "message": "标签"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + 脚本版本"
+    },
+    "Tampermonkey_has_no_access_to_this_page": {
+        "message": "Tampermonkey 没有访问此页面的权限"
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey 没有访问本地文件的权限！"
@@ -1429,6 +1504,9 @@
     "This_script_does_not_provide_any__include_information_": {
         "message": "此脚本没有提供任何 @include 信息。"
     },
+    "This_script_does_not_require_any_special_powers_": {
+        "message": "该脚本无需额外的特性支持"
+    },
     "This_script_has_access_to_https_pages": {
         "message": "此脚本能访问 https 页面。"
     },
@@ -1504,6 +1582,9 @@
     },
     "Trash": {
         "message": "🗑"
+    },
+    "Trash_Mode": {
+        "message": "垃圾箱模式"
     },
     "Trigger_Update": {
         "message": "触发一次更新"
@@ -1632,6 +1713,9 @@
     },
     "Version": {
         "message": "版本"
+    },
+    "View": {
+        "message": "视图"
     },
     "Vim": {
         "message": "Vim"
