@@ -1,0 +1,3 @@
+Ελληνική μετάφραση για την επέκταση Tampermonkey (4.16.1) [Μεταφραστής: panos78 (15th May 2022)]
+---------------------------------------------------------
+Hellenic (Greek) translation for Tampermonkey extension (4.16.1) [Translator: panos78 (15th May 2022)]
