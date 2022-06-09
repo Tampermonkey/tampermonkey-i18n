@@ -143,9 +143,6 @@
     "Add_new_script___": {
         "message": "新增腳本..."
     },
-    "Add_toSource_function_to_Object_Prototype": {
-        "message": "為 Object 和 Array 增加相容性函式"
-    },
     "Add_to_icon_badge_text": {
         "message": "新增製圖示標記文字"
     },
@@ -463,6 +460,9 @@
     "Default_Light": {
         "message": "預設 - 淺色"
     },
+    "Default_tab_types_to_run_scripts_in": {
+        "message": "要執行腳本的預設分頁類型"
+    },
     "Delete": {
         "message": "刪除"
     },
@@ -501,9 +501,6 @@
     },
     "Details": {
         "message": "詳細資料"
-    },
-    "Default_tab_types_to_run_scripts_in": {
-        "message": "要執行腳本的預設分頁類型"
     },
     "Developer": {
         "message": "開發人員"

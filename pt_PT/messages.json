@@ -79,9 +79,6 @@
     "Add_new_script___": {
         "message": "Adicionar novo script..."
     },
-    "Add_toSource_function_to_Object_Prototype": {
-        "message": "Adicionar função toSource ao Object_Prototype"
-    },
     "Advanced": {
         "message": "Avançado"
     },

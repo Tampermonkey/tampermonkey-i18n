@@ -140,9 +140,6 @@
     "Add_new_script___": {
         "message": "إضافة برنامج نصي جديدة"
     },
-    "Add_toSource_function_to_Object_Prototype": {
-        "message": "أضف وظائف التوافق إلى Object و Array"
-    },
     "Advanced": {
         "message": "متقدم"
     },

@@ -143,9 +143,6 @@
     "Add_new_script___": {
         "message": "Adicionar novo script..."
     },
-    "Add_toSource_function_to_Object_Prototype": {
-        "message": "Adicionar funções de compatibilidade para Object e Array"
-    },
     "Add_to_icon_badge_text": {
         "message": "Adicionar ao texto do emblema do ícone"
     },
@@ -463,6 +460,9 @@
     "Default_Light": {
         "message": "Padrão (Claro)"
     },
+    "Default_tab_types_to_run_scripts_in": {
+        "message": "Tipos de guia padrão para executar scripts"
+    },
     "Delete": {
         "message": "Excluir"
     },
@@ -501,9 +501,6 @@
     },
     "Details": {
         "message": "Detalhes"
-    },
-    "Default_tab_types_to_run_scripts_in": {
-        "message": "Tipos de guia padrão para executar scripts"
     },
     "Developer": {
         "message": "Desenvolvedor"

@@ -107,9 +107,6 @@
     "Add_new_script___": {
         "message": "Tạo tập lệnh mới..."
     },
-    "Add_toSource_function_to_Object_Prototype": {
-        "message": "Thêm các hàm tương thích vào Object và Array"
-    },
     "Add_to_icon_badge_text": {
         "message": "Thêm vào văn bản huy hiệu biểu tượng"
     },

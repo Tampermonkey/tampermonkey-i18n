@@ -104,9 +104,6 @@
     "Add_new_script___": {
         "message": "新規スクリプトを追加..."
     },
-    "Add_toSource_function_to_Object_Prototype": {
-        "message": "Object と Array に互換関数を追加する"
-    },
     "Add_to_icon_badge_text": {
         "message": "アイコン バッジ テキストに追加"
     },
@@ -418,6 +415,9 @@
     "Default_Light": {
         "message": "既定 - 明るい"
     },
+    "Default_tab_types_to_run_scripts_in": {
+        "message": "スクリプトを実行する既定のタブの種類"
+    },
     "Delete": {
         "message": "削除"
     },
@@ -453,9 +453,6 @@
     },
     "Details": {
         "message": "詳細"
-    },
-    "Default_tab_types_to_run_scripts_in": {
-        "message": "スクリプトを実行する既定のタブの種類"
     },
     "Developer": {
         "message": "デベロッパー"

@@ -134,9 +134,6 @@
     "Add_new_script___": {
         "message": "Ajouter un nouveau script..."
     },
-    "Add_toSource_function_to_Object_Prototype": {
-        "message": "Ajouter les fonctions de compatibilité à l'Objet et Tableau"
-    },
     "Advanced": {
         "message": "Avancé"
     },

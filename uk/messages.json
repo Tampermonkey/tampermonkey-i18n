@@ -137,9 +137,6 @@
     "Add_new_script___": {
         "message": "Створити новий скрипт..."
     },
-    "Add_toSource_function_to_Object_Prototype": {
-        "message": "Додати функції сумісності для Object і Array"
-    },
     "Advanced": {
         "message": "Передові"
     },

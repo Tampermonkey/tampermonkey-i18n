@@ -143,9 +143,6 @@
     "Add_new_script___": {
         "message": "Yeni betik ekle..."
     },
-    "Add_toSource_function_to_Object_Prototype": {
-        "message": "Nesne ve Dizi uyumluluk işlevleri ekleyin"
-    },
     "Add_to_icon_badge_text": {
         "message": "Simge rozeti yazısına ekle"
     },
@@ -463,6 +460,9 @@
     "Default_Light": {
         "message": "Varsayılan - Açık"
     },
+    "Default_tab_types_to_run_scripts_in": {
+        "message": "Betiklerin içinde çalıştırılacağı varsayılan sekme türleri"
+    },
     "Delete": {
         "message": "Sil"
     },
@@ -501,9 +501,6 @@
     },
     "Details": {
         "message": "Ayrıntılar"
-    },
-    "Default_tab_types_to_run_scripts_in": {
-        "message": "Betiklerin içinde çalıştırılacağı varsayılan sekme türleri"
     },
     "Developer": {
         "message": "Geliştirici"

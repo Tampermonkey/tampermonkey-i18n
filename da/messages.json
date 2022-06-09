@@ -140,9 +140,6 @@
     "Add_new_script___": {
         "message": "Opret et nyt script..."
     },
-    "Add_toSource_function_to_Object_Prototype": {
-        "message": "Føj kompatibilitetsfunktioner til Object og Array"
-    },
     "Advanced": {
         "message": "Advanceret"
     },

@@ -143,9 +143,6 @@
     "Add_new_script___": {
         "message": "Создать новый скрипт..."
     },
-    "Add_toSource_function_to_Object_Prototype": {
-        "message": "Добавить функции совместимости для Object и Array"
-    },
     "Add_to_icon_badge_text": {
         "message": "По бейджу значка"
     },
@@ -463,6 +460,9 @@
     "Default_Light": {
         "message": "По умолчанию - Светлая"
     },
+    "Default_tab_types_to_run_scripts_in": {
+        "message": "Типы вкладок по умолчанию для запуска скриптов в"
+    },
     "Delete": {
         "message": "Удалить"
     },
@@ -501,9 +501,6 @@
     },
     "Details": {
         "message": "Подробности"
-    },
-    "Default_tab_types_to_run_scripts_in": {
-        "message": "Типы вкладок по умолчанию для запуска скриптов в"
     },
     "Developer": {
         "message": "Разработка"

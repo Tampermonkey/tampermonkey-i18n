@@ -84,6 +84,9 @@
     "Add": {
         "message": "Hinzufügen"
     },
+    "Add_GM_functions_to_this_or_window": {
+        "message": "GM-API an das \"this\"- oder \"window\"-Objekt binden"
+    },
     "Add_TM_to_CSP": {
         "message": "Modifikation empfangener Content-Security-Policy-Header (CSP)"
     },
@@ -101,14 +104,14 @@
     "Add_new_script___": {
         "message": "Neues Userscript erstellen"
     },
-    "Add_toSource_function_to_Object_Prototype": {
-        "message": "Den Prototypen Object und Array Kompatibilitätsfunktionen hinzufügen"
-    },
     "Add_to_icon_badge_text": {
         "message": "Als Icon-Information"
     },
     "Advanced": {
         "message": "Experte"
+    },
+    "All": {
+        "message": "Alle"
     },
     "All_local_files": {
         "message": "Alle lokalen Dateien"
@@ -340,6 +343,15 @@
     "Config_Mode": {
         "message": "Konfigurations-Modus"
     },
+    "Configures_which_sandbox_values_are_valid": {
+        "message": "Konfiguriert welche @sandbox Werte gültig sind"
+    },
+    "Content_Script": {
+        "message": "Content-Script"
+    },
+    "Content_Script_API": {
+        "message": "Content-Script-API"
+    },
     "Context_Menu": {
         "message": "Context Menü"
     },
@@ -379,11 +391,11 @@
     "Default_Darker": {
         "message": "Standard - Dunkler"
     },
-    "Default_tab_types_to_run_scripts_in": {
-        "message": "Art der Tabs in denen Scripts standardmäßig ausgeführt werden"
-    },
     "Default_Light": {
         "message": "Standard - Hell"
+    },
+    "Default_tab_types_to_run_scripts_in": {
+        "message": "Art der Tabs in denen Scripts standardmäßig ausgeführt werden"
     },
     "Delete": {
         "message": "Löschen"
@@ -426,6 +438,9 @@
     "Dont_ask_me_for_simple_script_updates": {
         "message": "Einfache Userscript-Updates ohne Nachfrage installieren"
     },
+    "DOM_mode_is_unsecure__Scripts_can_install_new_scripts_": {
+        "message": "Der Sandbox-Modus \"DOM\" ist unsicher. Alle ausgeführten Userscripts haben beinahe alle Berechtigungen der Browser-Erweiterung und können auch Userscripts modifizieren und neue installieren."
+    },
     "Download_Mode": {
         "message": "Download-Modus"
     },
@@ -466,6 +481,14 @@
     },
     "Enabled": {
         "message": "Aktiviert"
+    },
+    "Enabling_this_makes_it_easy_for_scripts_to_leak_it_s_granted_powers_to_the_page_Therefore__off__is_the_safest_option_": {
+        "message": "Wenn diese Option aktiviert ist, ist es für Userscripts sehr einfach die gewährten Berechtigungen versehentlich der Webseite zur Verfügung zu stellen. \"$off$\" ist daher die sicherste Option, kann aber zu Kompatibiltätsproblemen führen.",
+        "placeholders": {
+            "off": {
+                "content": "$1"
+            }
+        }
     },
     "Enforce": {
         "message": "Erzwingen"
@@ -508,6 +531,39 @@
     "Export": {
         "message": "Exportieren"
     },
+    "Export_script_0name0_0uuid0": {
+        "message": "Exportiere das Userscript \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Export_script_meta_data_of_0name0": {
+        "message": "Exportiere die Userscript-Meta-Daten von  \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Export_script_source_of_0name0": {
+        "message": "Exportiere den Userscript-Quellcode von \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
     "Factory_Reset": {
         "message": "Werkseinstellungen"
     },
@@ -537,6 +593,15 @@
     },
     "Forbid_once": {
         "message": "Einmal verbieten"
+    },
+    "Force_DOM": {
+        "message": "Erzwinge den DOM-Modus"
+    },
+    "Force_JavaScript": {
+        "message": "Erzwinge den JavaScript-Modus"
+    },
+    "Force_Raw": {
+        "message": "Erzwinge den Raw-Modus"
     },
     "Found_0count0_available_scripts": {
         "message": "$count$ Userscripte verfügbar",
@@ -606,6 +671,14 @@
     "Import_from_file": {
         "message": "Aus Datei importieren"
     },
+    "Import_remote_script_0uuid0": {
+        "message": "Importiere das Userscript ($uuid$)",
+        "placeholders": {
+            "uuid": {
+                "content": "$1"
+            }
+        }
+    },
     "Imported": {
         "message": "Importiert"
     },
@@ -668,6 +741,9 @@
     "Invalid_UserScript_name__Sry_": {
         "message": "Ungültiger Userscript-Name. Sorry!"
     },
+    "JavaScript_and_DOM": {
+        "message": "JavaScript- und DOM-Modus"
+    },
     "Jump_to_line": {
         "message": "Springe zu Zeile"
     },
@@ -697,6 +773,17 @@
     },
     "Login": {
         "message": "Login"
+    },
+    "Lookup_remote_script_0uuid0": {
+        "message": "Lade Userscript-Informationen vom Server ($uuid$)",
+        "placeholders": {
+            "uuid": {
+                "content": "$1"
+            }
+        }
+    },
+    "Lookup_remote_script_list": {
+        "message": "Lade die Server-Userscript-Liste"
     },
     "MIME_Type": {
         "message": "MIME-Typ"
@@ -835,6 +922,9 @@
     "Process_with_Chrome": {
         "message": "An den Browser übergeben"
     },
+    "Raw_and_JavaScript": {
+        "message": "Raw- und JavaScript-Modus"
+    },
     "Really_delete_0name0__": {
         "message": "Soll '$name$' wirklich gelöscht werden?",
         "placeholders": {
@@ -861,6 +951,9 @@
     "Really_restore_all_userscripts_": {
         "message": "Möchten Sie wirklich alle Userscripts wiederherstellen?"
     },
+    "Recent_Sync_Log": {
+        "message": "Aktuelle Sync-Status-Meldungen"
+    },
     "Reindent_on_typing": {
         "message": "Einrückung beim Schreiben"
     },
@@ -878,6 +971,28 @@
     },
     "Remove__possibly_unsecure_": {
         "message": "Komplett entfernen (möglicherweise unsicher)"
+    },
+    "Remove_local_script_0name0_0uuid0": {
+        "message": "Lösche das lokale Userscript \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Remove_remote_script_0name0_0uuid0": {
+        "message": "Lösche das Userscript \"$name$\" vom Server ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
     },
     "Replace": {
         "message": "Ersetzen"
@@ -921,6 +1036,9 @@
     "Running_scripts": {
         "message": "Aktive Userscript-Instanzen"
     },
+    "Sandbox_Mode": {
+        "message": "Sandbox-Modus"
+    },
     "Save": {
         "message": "Speichern"
     },
@@ -937,6 +1055,9 @@
     },
     "Script_Blacklist_Source": {
         "message": "Userscript Blacklist Quelle"
+    },
+    "Script_Include_Mode": {
+        "message": "Userscript-@include-Modus"
     },
     "Script_URL_detection": {
         "message": "Userscript-URL-Erkennung"
@@ -1197,7 +1318,7 @@
         "message": "Das wird die globalen Tampermonkey-Einstellungen überschreiben"
     },
     "This_will_remove_all_remote_data_from_sync_Ok_": {
-        "message": "Sollen wirklich alle entfernten Sync-Daten gelöscht werden?"
+        "message": "Sollen wirklich alle Sync-Server-Daten gelöscht werden?"
     },
     "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
         "message": "Sollen wirklich alle Userscripte und Einstellungen gelöscht werden?"
@@ -1219,6 +1340,9 @@
     },
     "Trash_Mode": {
         "message": "Papierkorb-Funktion"
+    },
+    "Treat_like__match": {
+        "message": "Als @match interpretieren"
     },
     "Trigger_Update": {
         "message": "Aktualisieren"
@@ -1262,6 +1386,9 @@
             }
         }
     },
+    "Unsafe": {
+        "message": "Unsicher"
+    },
     "Update_Notification": {
         "message": "Aktualisierungs-Benachrichtigung anzeigen"
     },
@@ -1271,6 +1398,17 @@
     "Update_interval": {
         "message": "Aktualisierungsintervall"
     },
+    "Update_local_script_0name0_0uuid0": {
+        "message": "Aktualisiere das lokale Userscript \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
     "Updated_to__0version0": {
         "message": "Aktualisiert auf $version$",
         "placeholders": {
@@ -1278,6 +1416,9 @@
                 "content": "$1"
             }
         }
+    },
+    "UserScripts_API": {
+        "message": "UserScripts-API"
     },
     "User_domain_blacklist": {
         "message": "Domain-Negativlist"
@@ -1305,6 +1446,26 @@
     },
     "Userscripts": {
         "message": "Userscripte"
+    },
+    "Using__include_is_potentially_unsafe_and_may_be_obsolete_soon___0off0_disables__include_completely__0match0__is_safe__but_may_not_compatible_the_script_developers_intention__0unsafe0__mostly_keeps_the_legacy_behavior_0default0__means__0used_default0": {
+        "message": "@include-Anweisungen können unsicher sein und eventuell durch das neue Erweiterungsformat Manifest v3 komplett unbrauchbar werden. Diese Einstellung erlaubt die Konfiguration, wie @include interpretiert wird. '$off$' deaktiviert @include komplett, '$match$' interpretiert die Anweisungen wie @match. Das kann aber Probleme verursachen. '$unsafe$' behält weitestgehend das bisherige Verhalten bei. Und '$default$' steht zur Zeit für die Einstellung '$used_default$'",
+        "placeholders": {
+            "off": {
+                "content": "$1"
+            },
+            "match": {
+                "content": "$2"
+            },
+            "unsafe": {
+                "content": "$3"
+            },
+            "default": {
+                "content": "$4"
+            },
+            "used_default": {
+                "content": "$5"
+            }
+        }
     },
     "Utilities": {
         "message": "Hilfsmittel"

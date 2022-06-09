@@ -79,9 +79,6 @@
     "Add_new_script___": {
         "message": "Pridať nový skript..."
     },
-    "Add_toSource_function_to_Object_Prototype": {
-        "message": "Pridať funkcie kompatibility k Object a Array"
-    },
     "Advanced": {
         "message": "Pokročilý"
     },

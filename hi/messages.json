@@ -85,9 +85,6 @@
     "Add_new_script___": {
         "message": "एक नई स्क्रिप्ट बनाएं..."
     },
-    "Add_toSource_function_to_Object_Prototype": {
-        "message": "ऑब्जेक्ट और ऐरे में संगतता फंक्शन शामिल करें"
-    },
     "Advanced": {
         "message": "उन्नत"
     },

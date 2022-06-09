@@ -79,9 +79,6 @@
     "Add_new_script___": {
         "message": "새 스크립트 만들기..."
     },
-    "Add_toSource_function_to_Object_Prototype": {
-        "message": "Object와 Array에 호환 함수 추가"
-    },
     "Advanced": {
         "message": "상급자"
     },

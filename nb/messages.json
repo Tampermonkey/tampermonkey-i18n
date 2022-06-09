@@ -79,9 +79,6 @@
     "Add_new_script___": {
         "message": "Opprett et nytt skript..."
     },
-    "Add_toSource_function_to_Object_Prototype": {
-        "message": "Legg til kompatibilitetsfunksjoner til Gjenstand og Tabell"
-    },
     "Advanced": {
         "message": "Avansert"
     },

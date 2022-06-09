@@ -134,9 +134,6 @@
     "Add_new_script___": {
         "message": "Een nieuw script maken..."
     },
-    "Add_toSource_function_to_Object_Prototype": {
-        "message": "Compitabiliteitsfuncties toevoegen aan Object en Array"
-    },
     "Advanced": {
         "message": "Geavanceerd"
     },

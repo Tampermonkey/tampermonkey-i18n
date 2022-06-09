@@ -106,9 +106,6 @@
     "Add_new_script___": {
         "message": "Agregar nuevo script..."
     },
-    "Add_toSource_function_to_Object_Prototype": {
-        "message": "Agregar funciones de compatibilidad a Object y Array"
-    },
     "Advanced": {
         "message": "Avanzado"
     },

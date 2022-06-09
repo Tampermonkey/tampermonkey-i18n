@@ -120,6 +120,9 @@
     "Add": {
         "message": "Add"
     },
+    "Add_GM_functions_to_this_or_window": {
+        "message": "Add GM functions to this or window"
+    },
     "Add_Selection_Above": {
         "message": "Add Selection Above"
     },
@@ -143,14 +146,14 @@
     "Add_new_script___": {
         "message": "Create a new script..."
     },
-    "Add_toSource_function_to_Object_Prototype": {
-        "message": "Add compatibility functions to Object and Array"
-    },
     "Add_to_icon_badge_text": {
         "message": "Add to icon badge text"
     },
     "Advanced": {
         "message": "Advanced"
+    },
+    "All": {
+        "message": "All"
     },
     "All_local_files": {
         "message": "All local files"
@@ -412,6 +415,15 @@
     "Config_Mode": {
         "message": "Config mode"
     },
+    "Configures_which_sandbox_values_are_valid": {
+        "message": "Configures which @sandbox values are valid"
+    },
+    "Content_Script": {
+        "message": "Content Script"
+    },
+    "Content_Script_API": {
+        "message": "Content Script API"
+    },
     "Context_Menu": {
         "message": "Context Menu"
     },
@@ -463,6 +475,9 @@
     "Default_Light": {
         "message": "Default - Light"
     },
+    "Default_tab_types_to_run_scripts_in": {
+        "message": "Default tab types to run scripts in"
+    },
     "Delete": {
         "message": "Delete"
     },
@@ -501,9 +516,6 @@
     },
     "Details": {
         "message": "Details"
-    },
-    "Default_tab_types_to_run_scripts_in": {
-        "message": "Default tab types to run scripts in"
     },
     "Developer": {
         "message": "Developer"
@@ -599,6 +611,14 @@
     "Enabled": {
         "message": "Enabled"
     },
+    "Enabling_this_makes_it_easy_for_scripts_to_leak_it_s_granted_powers_to_the_page_Therefore__off__is_the_safest_option_": {
+        "message": "Enabling this makes it very easy for userscripts to leak it's granted powers to the page. Therefore \"$off$\" is the safest option, but might cause compatibility issues.",
+        "placeholders": {
+            "off": {
+                "content": "$1"
+            }
+        }
+    },
     "Enforce": {
         "message": "Enforce"
     },
@@ -642,6 +662,39 @@
     },
     "Export": {
         "message": "Export"
+    },
+    "Export_script_0name0_0uuid0": {
+        "message": "Export script \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Export_script_meta_data_of_0name0": {
+        "message": "Export script meta data of \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Export_script_source_of_0name0": {
+        "message": "Export script source of \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
     },
     "Externals": {
         "message": "Externals"
@@ -702,6 +755,15 @@
     },
     "Forbid_once": {
         "message": "Forbid once"
+    },
+    "Force_DOM": {
+        "message": "Force DOM"
+    },
+    "Force_JavaScript": {
+        "message": "Force JavaScript"
+    },
+    "Force_Raw": {
+        "message": "Force Raw"
     },
     "Found_0count0_available_scripts": {
         "message": "Found $count$ available scripts",
@@ -788,6 +850,14 @@
     },
     "Import_from_file": {
         "message": "Import from file"
+    },
+    "Import_remote_script_0uuid0": {
+        "message": "Import remote script ($uuid$)",
+        "placeholders": {
+            "uuid": {
+                "content": "$1"
+            }
+        }
     },
     "Imported": {
         "message": "Imported"
@@ -878,6 +948,9 @@
     "Invalid_UserScript_name__Sry_": {
         "message": "Invalid Userscript name. Sry!"
     },
+    "JavaScript_and_DOM": {
+        "message": "JavaScript+DOM"
+    },
     "Join_Lines": {
         "message": "Join Lines"
     },
@@ -928,6 +1001,17 @@
     },
     "Login": {
         "message": "Login"
+    },
+    "Lookup_remote_script_0uuid0": {
+        "message": "Lookup remote script ($uuid$)",
+        "placeholders": {
+            "uuid": {
+                "content": "$1"
+            }
+        }
+    },
+    "Lookup_remote_script_list": {
+        "message": "Lookup remote script list"
     },
     "Lower_Case": {
         "message": "Lower Case"
@@ -1102,6 +1186,12 @@
     "Process_with_Chrome": {
         "message": "Process with the browser"
     },
+    "Raw_and_JavaScript": {
+        "message": "Raw and JavaScript"
+    },
+    "DOM_mode_is_unsecure__Scripts_can_install_new_scripts_": {
+        "message": "\"DOM\" sandbox mode is unsecure. Running userscripts have almost full extension permissions and can even modify and install new userscripts."
+    },
     "Really_delete_0name0__": {
         "message": "Do you really want to delete '$name$'?",
         "placeholders": {
@@ -1128,6 +1218,9 @@
     "Really_restore_all_userscripts_": {
         "message": "Do you really want to restore all userscripts?"
     },
+    "Recent_Sync_Log": {
+        "message": "Recent Sync Log"
+    },
     "Redo": {
         "message": "Redo"
     },
@@ -1148,6 +1241,28 @@
     },
     "Remove__possibly_unsecure_": {
         "message": "Remove entirely (possibly unsecure)"
+    },
+    "Remove_local_script_0name0_0uuid0": {
+        "message": "Remove local script \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Remove_remote_script_0name0_0uuid0": {
+        "message": "Remove remote script \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
     },
     "Replace": {
         "message": "Replace"
@@ -1203,6 +1318,9 @@
     "Running_scripts": {
         "message": "Running scripts instances"
     },
+    "Sandbox_Mode": {
+        "message": "Sandbox Mode"
+    },
     "Save": {
         "message": "Save"
     },
@@ -1219,6 +1337,9 @@
     },
     "Script_Blacklist_Source": {
         "message": "Userscript Blacklist Source"
+    },
+    "Script_Include_Mode": {
+        "message": "Userscript @include Mode"
     },
     "Script_Sync": {
         "message": "Userscript Sync"
@@ -1586,6 +1707,9 @@
     "Trash_Mode": {
         "message": "Trash Mode"
     },
+    "Treat_like__match": {
+        "message": "Treat like @match"
+    },
     "Trigger_Update": {
         "message": "Trigger Update"
     },
@@ -1643,6 +1767,9 @@
             }
         }
     },
+    "Unsafe": {
+        "message": "Unsafe"
+    },
     "Update": {
         "message": "Update"
     },
@@ -1658,6 +1785,17 @@
     "Update_interval": {
         "message": "Update Interval"
     },
+    "Update_local_script_0name0_0uuid0": {
+        "message": "Update local script \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
     "Updated_to__0version0": {
         "message": "Updated to: $version$",
         "placeholders": {
@@ -1671,6 +1809,9 @@
     },
     "Upper_Case": {
         "message": "Upper Case"
+    },
+    "UserScripts_API": {
+        "message": "UserScripts API"
     },
     "User_domain_blacklist": {
         "message": "User domain blacklist"
@@ -1698,6 +1839,26 @@
     },
     "Userscripts": {
         "message": "Userscripts"
+    },
+    "Using__include_is_potentially_unsafe_and_may_be_obsolete_soon___0off0_disables__include_completely__0match0__is_safe__but_may_not_compatible_the_script_developers_intention__0unsafe0__mostly_keeps_the_legacy_behavior_0default0__means__0used_default0": {
+        "message": "Using @include is potentially unsafe and may be obsolete in Manifest v3 in early 2023. This setting allows you to configure the way @include is interpreted. '$off$' disables @include completely, '$match$' is safe, but may not be compatible the script developers intention. '$unsafe$' mostly keeps the legacy behavior and '$default$' means '$used_default$' for now.",
+        "placeholders": {
+            "off": {
+                "content": "$1"
+            },
+            "match": {
+                "content": "$2"
+            },
+            "unsafe": {
+                "content": "$3"
+            },
+            "default": {
+                "content": "$4"
+            },
+            "used_default": {
+                "content": "$5"
+            }
+        }
     },
     "Utilities": {
         "message": "Utilities"

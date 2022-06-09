@@ -143,9 +143,6 @@
     "Add_new_script___": {
         "message": "Προσθήκη νέου κώδικα…"
     },
-    "Add_toSource_function_to_Object_Prototype": {
-        "message": "Προσθήκη συναρτήσεων συμβατότητας στο Αντικείμενο (Object) και στη Σειρά (Array)"
-    },
     "Add_to_icon_badge_text": {
         "message": "Προσθήκη στο κείμενο εμβληματικού εικονιδίου"
     },

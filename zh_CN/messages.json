@@ -143,9 +143,6 @@
     "Add_new_script___": {
         "message": "添加新脚本..."
     },
-    "Add_toSource_function_to_Object_Prototype": {
-        "message": "为对象和数组增加兼容性方法"
-    },
     "Add_to_icon_badge_text": {
         "message": "添加到图标徽章文字"
     },
