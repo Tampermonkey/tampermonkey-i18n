@@ -1292,43 +1292,43 @@
         "message": "Барања"
     },
     "Reset_Section": {
-        "message": "Reset"
+        "message": "Ресетирај"
     },
     "Resources": {
-        "message": "Resources"
+        "message": "Ресурси"
     },
     "Restart_Tampermonkey": {
-        "message": "Restart Tampermonkey"
+        "message": "Рестартирај го Tampermonkey"
     },
     "Restore": {
-        "message": "Restore"
+        "message": "Врати"
     },
     "Restore_all": {
-        "message": "Restore all"
+        "message": "Врати сѐ"
     },
     "Revoke_Access_Token": {
-        "message": "Revoke Access Token"
+        "message": "Врати го токенот за пристап"
     },
     "Run_at": {
-        "message": "Run at"
+        "message": "Работи на"
     },
     "Run_syntax_check": {
-        "message": "Run syntax check"
+        "message": "Провери ја синтаксата"
     },
     "Running_scripts": {
-        "message": "Running scripts instances"
+        "message": "Скриптови што работат"
     },
     "Sandbox_Mode": {
-        "message": "Sandbox Mode"
+        "message": "Sandbox мод"
     },
     "Save": {
-        "message": "Save"
+        "message": "Зачувај"
     },
     "Save_to_disk": {
-        "message": "Save to disk"
+        "message": "Зачувај на диск"
     },
     "Script_0name0_is_slowing_down_some_page_loads_": {
-        "message": "Userscript '$name$' is slowing down your page loads",
+        "message": "Скриптот '$name$' ви ги успорува лоадирањата на веб-страните",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1336,31 +1336,31 @@
         }
     },
     "Script_Blacklist_Source": {
-        "message": "Userscript Blacklist Source"
+        "message": "Извор на блеклиста на скриптови"
     },
     "Script_Include_Mode": {
-        "message": "Userscript @include Mode"
+        "message": "Скрипт @include мод"
     },
     "Script_Sync": {
-        "message": "Userscript Sync"
+        "message": "Синхронизација на скриптови"
     },
     "Script_URL_detection": {
-        "message": "Userscript URL detection"
+        "message": "Детекција на URL на скрипт"
     },
     "Script_Update": {
-        "message": "Userscript Update"
+        "message": "Ажурирање на скрипт"
     },
     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
-        "message": "Script authors can secure external resources by adding a SRI hash to the source URL."
+        "message": "Авторите на скриптовите може да ги обезбедат екстерните ресурси со додавање на SRI на URL-то."
     },
     "Script_local_files_access": {
-        "message": "Allow scripts to access local files"
+        "message": "Дозволи на скриптовите да работат со локални датотеки"
     },
     "Script_menu_commands": {
-        "message": "Userscript menu commands"
+        "message": "Команди на менито на скриптот"
     },
     "Script_name_0name0": {
-        "message": "Userscript name: $name$",
+        "message": "Име на скрипт: $name$",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1368,28 +1368,28 @@
         }
     },
     "Script_order": {
-        "message": "Userscript order"
+        "message": "Распоред на скриптовите"
     },
     "Scripts_activated_by_context_menu": {
-        "message": "Userscripts using @run-at context-menu"
+        "message": "Скриптови што користат @run-at context-menu"
     },
     "Search": {
-        "message": "Search"
+        "message": "Пребарај"
     },
     "Search_for": {
-        "message": "Search for"
+        "message": "Пребарај"
     },
     "Search_for_userscripts_for_this_tab": {
-        "message": "Search for userscripts for this page"
+        "message": "Пребарај за скриптови на оваа страна"
     },
     "Searching_for_userscripts_for_this_tab": {
-        "message": "Searching for userscripts..."
+        "message": "Пребарување на скриптови..."
     },
     "Security": {
-        "message": "Security"
+        "message": "Безбедност"
     },
     "Select_All": {
-        "message": "Select All"
+        "message": "Селектирај сѐ"
     },
     "Select_Bookmarks": {
         "message": "Select Bookmarks"
