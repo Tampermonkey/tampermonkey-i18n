@@ -148,7 +148,6 @@
     },
     "Add_to_icon_badge_text": {
         "message": "Додади во текстот на беџот на иконата"
-        // Не сум сигурен за ова...
     },
     "Advanced": {
         "message": "Напредно"
@@ -170,7 +169,6 @@
     },
     "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
         "message": "Дозволи Tampermonkey да собира анонимни статистики со Google Analytics. Ова ми помага да го подобрам Tampermonkey и да одлучам на што да се фокусирам со програмирањето. Исклучи го ако не го сакаш."
-        // Провери пак
     },
     "Allow_communication_with_cooperate_pages": {
         "message": "Дозволете комуникација со страни за соработка"
@@ -248,14 +246,12 @@
     },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Кога Tampermonkey се ажурира, покрај пребарувачот, се рестартира. За жал, ова може да ги уништи скриптовите што работат!\n\nТака да, дали сте сигурни дека не сакате да бидете информирани за ажурирања?"
-        // Смени го „уништи“ со нешто друго
     },
     "Ask_if_unknown": {
         "message": "Прашувај ако непознато"
     },
     "At_least_one_new_connect_statement_was_added_": {
         "message": "Барем еден нова @connect линија беше додадена."
-        // „линија“ беше „statement“. Да се провери.
     },
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Барем една @include, @match или @exclude линија беше сменета."
@@ -298,7 +294,6 @@
     },
     "BlackCheck": {
         "message": "BlackCheck"
-        // Не знам точен превод
     },
     "Blacklist": {
         "message": "Црна листа"
@@ -425,14 +420,12 @@
     },
     "Content_Script": {
         "message": "Контент скрипт"
-        // Не сум сигурен за ова и за наредното
     },
     "Content_Script_API": {
         "message": "Контент скрипт API"
     },
     "Context_Menu": {
         "message": "Мени"
-        // Скратена верзија
     },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Конвертирај CDATA секции во формат компатибилен со пребарувач"
@@ -508,7 +501,6 @@
     },
     "Delete_to_Sublime_Mark": {
         "message": "Избриши до возвишена обележаност"
-        // Ова не е перфектно. Поправи!
     },
     "Deleted_on": {
         "message": "Избришано"
@@ -891,127 +883,127 @@
         "message": "Вклучувања"
     },
     "Include_script_externals": {
-        "message": "Include external script resources"
+        "message": "Вклучи ги екстерните ресурси на скриптот"
     },
     "Include_script_storage": {
-        "message": "Include script storage"
+        "message": "Вклучи ги и зачуваните работи на скриптот"
     },
     "Includes_Excludes": {
-        "message": "Includes/Excludes"
+        "message": "Вклучувања/Исклучувања"
     },
     "Incognito_tabs": {
-        "message": "Incognito tabs"
+        "message": "Инкогнито табови"
     },
     "Incremental_Find": {
-        "message": "Incremental Find"
+        "message": "Инкрементално пребарување"
     },
     "Indent": {
-        "message": "Indent"
+        "message": "Индентирај"
     },
     "Indent_Less": {
-        "message": "Indent Less"
+        "message": "Индентирај помалку"
     },
     "Indent_More": {
-        "message": "Indent More"
+        "message": "Индентирај повеќе"
     },
     "Indent_with": {
-        "message": "Indent with"
+        "message": "Индентирај со"
     },
     "Indentation_Width": {
-        "message": "Indentation Width"
+        "message": "Големина на индентацијата"
     },
     "Info": {
-        "message": "Info"
+        "message": "Информации"
     },
     "Inject_Mode": {
-        "message": "Inject Mode"
+        "message": "Инјектирање"
     },
     "Insert_Line_After": {
-        "message": "Insert Line After"
+        "message": "Вметни линија после"
     },
     "Insert_Line_Before": {
-        "message": "Insert Line Before"
+        "message": "Вметни линија пред"
     },
     "Insert_constructor": {
-        "message": "Insert constructor"
+        "message": "Вметни конструктор"
     },
     "Install": {
-        "message": "Install"
+        "message": "Инсталирај"
     },
     "Install_this_script": {
-        "message": "Install this script"
+        "message": "Инсталирај го овој скрипт"
     },
     "Installed_Version_": {
-        "message": "Installed Version"
+        "message": "Верзија на инсталираниот скрипт"
     },
     "Installed_userscripts": {
-        "message": "Installed Userscripts"
+        "message": "Инсталирани скриптови"
     },
     "Instant": {
-        "message": "Instant"
+        "message": "Инстантно"
     },
     "Invalid_UserScript__Sry_": {
-        "message": "Invalid Userscript. Sry!"
+        "message": "Невалиден скрипт. Извини!"
     },
     "Invalid_UserScript_name__Sry_": {
-        "message": "Invalid Userscript name. Sry!"
+        "message": "Невалидно име на скрипт. Извини!"
     },
     "JavaScript_and_DOM": {
         "message": "JavaScript+DOM"
     },
     "Join_Lines": {
-        "message": "Join Lines"
+        "message": "Спои линии"
     },
     "Jump_to_line": {
-        "message": "Jump to line"
+        "message": "Скокни до линија"
     },
     "Just_another_service_provided_by_your_friendly_script_updater_": {
-        "message": "Just another service provided by your friendly script updater"
+        "message": "Уште еден сервис од Вашиот ажурирач на скриптови"
     },
     "Key_Mapping": {
-        "message": "Key Mapping"
+        "message": "Мапирање на тастатурата"
     },
     "Language": {
-        "message": "Language"
+        "message": "Јазик"
     },
     "Last_updated": {
-        "message": "Last updated"
+        "message": "Последно ажурирано"
     },
     "Layout": {
-        "message": "Layout"
+        "message": "Распоред"
     },
     "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
-        "message": "Limited runtime host permissions might break some Tampermonkey features like script update, GM_xmlhttpRequest and others!"
+        "message": "Дозволи за ограничено работно време може да расипат некои Tampermonkey функции, на пример ажурирања на скриптови, GM_xmlhttpRequest и други!"
     },
     "Line_Case_Insensitive": {
-        "message": "Line Case Insensitive"
+        "message": "Несензитивно на капитализација на букви"
     },
     "Line_Down": {
-        "message": "Line Down"
+        "message": "Линија долу"
     },
     "Line_Up": {
-        "message": "Line Up"
+        "message": "Линија горе"
     },
     "Line_break": {
-        "message": "Word wrap"
+        "message": "Кршење на зборови"
     },
     "Lines": {
-        "message": "Lines"
+        "message": "Линии"
     },
     "Lines_Menu": {
-        "message": "Lines"
+        "message": "Линии"
     },
     "Loading": {
-        "message": "Loading..."
+        "message": "Се лоадира..."
     },
     "LogLevel": {
-        "message": "Logging Level"
+        "message": "Ниво на логови"
     },
     "Login": {
-        "message": "Login"
+        "message": "Логирајте се"
     },
     "Lookup_remote_script_0uuid0": {
-        "message": "Lookup remote script ($uuid$)",
+        "message": "Пребарајте го екстерниот скрипт ($uuid$)",
         "placeholders": {
             "uuid": {
                 "content": "$1"
@@ -1019,154 +1011,154 @@
         }
     },
     "Lookup_remote_script_list": {
-        "message": "Lookup remote script list"
+        "message": "Пребарајте ја листата на екстерни скриптови"
     },
     "Lower_Case": {
-        "message": "Lower Case"
+        "message": "Со мали букви"
     },
     "MIME_Type": {
-        "message": "MIME Type"
+        "message": "MIME тип"
     },
     "Malicious_scripts_can_violate_your_privacy_": {
-        "message": "Malicious scripts can violate your privacy and act on your behalf!\nYou should only install scripts from sources that you trust."
+        "message": "Небезбедни скриптови може да ја нарушат Вашата приватност и да работат како Вас!\nСимнувајте скриптови само од извори на кои им верувате."
     },
     "Manual_Script_Blacklist": {
-        "message": "Manual Userscript and @require Blacklist"
+        "message": "Мануална блеклиста на скриптови и @require-ови"
     },
     "Matching_URL": {
-        "message": "Matching URL"
+        "message": "URL што се совпаѓа"
     },
     "Modify": {
-        "message": "Modify"
+        "message": "Измени"
     },
     "Move_Line_Down": {
-        "message": "Move Line Down"
+        "message": "Помрдни се линија подолу"
     },
     "Move_Line_Up": {
-        "message": "Move Line Up"
+        "message": "Помрдни се линија погоре"
     },
     "Name": {
-        "message": "Name"
+        "message": "Име"
     },
     "Native": {
-        "message": "Native"
+        "message": "Нативно"
     },
     "Never": {
-        "message": "Never"
+        "message": "Никогаш"
     },
     "New_Version": {
-        "message": "New Version"
+        "message": "Нова верзија"
     },
     "New_script_template_": {
-        "message": "New userscript template"
+        "message": "Нов темплејт на скрипт"
     },
     "New_userscript": {
-        "message": "<New userscript>"
+        "message": "<Безимен скрипт>"
     },
     "Next_Bookmark": {
-        "message": "Next Bookmark"
+        "message": "Нареден букмарк"
     },
     "No": {
-        "message": "No"
+        "message": "Не"
     },
     "No_available_scripts": {
-        "message": "No available scripts"
+        "message": "Нема достапни скриптови"
     },
     "No_backups_found": {
-        "message": "No backups found"
+        "message": "Нема најдени копии"
     },
     "No_entry_found": {
-        "message": "No entry found"
+        "message": "Нема влез најден"
     },
     "No_frames": {
-        "message": "Run only in top frame"
+        "message": "Работи само во најгорниот прозорец"
     },
     "No_script_is_installed": {
-        "message": "No script is installed"
+        "message": "Нема инсталиран скрипт"
     },
     "No_script_is_running": {
-        "message": "No script is running"
+        "message": "Нема скрипт што работи"
     },
     "No_syntax_errors_were_found_": {
-        "message": "No syntax errors were found."
+        "message": "Немаше најдени грешки во синтаксата."
     },
     "No_update_found__sry_": {
-        "message": "No update found, sry!"
+        "message": "Нема нова верзија"
     },
     "Normal": {
-        "message": "Normal"
+        "message": "Нормално"
     },
     "Normal_tabs": {
-        "message": "Normal tabs"
+        "message": "Нормални табови"
     },
     "Note": {
-        "message": "Note"
+        "message": "Белешка"
     },
     "Novice": {
-        "message": "Novice"
+        "message": "Почетник"
     },
     "Off": {
-        "message": "Off"
+        "message": "Исклучено"
     },
     "Ok": {
-        "message": "Ok"
+        "message": "Во ред"
     },
     "On": {
-        "message": "On"
+        "message": "Уклучено"
     },
     "On_Action_Menu": {
-        "message": "On action menu"
+        "message": "На притиснување во менито за акција"
     },
     "On_Click": {
-        "message": "On click"
+        "message": "На клик на страната"
     },
     "OneDrive": {
         "message": "OneDrive"
     },
     "One_error_or_hint_was_found_": {
-        "message": "One error or hint was found."
+        "message": "Една грешка е најдена."
     },
     "One_or_more_compatibility_options_are_set": {
-        "message": "One or more compatibility options are set. You might want/should review them."
+        "message": "Една или повеќе опции за компатибилност се поставени. Би сакале/требало да ги проверите."
     },
     "Only_Manual": {
-        "message": "Manual Only"
+        "message": "Само мануално"
     },
     "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
-        "message": "Only files with these extensions can be saved to harddisk.\nBe careful to not allow file extensions that represent executables at your operating system!"
+        "message": "Датотеки само со овие екстензии може да се зачуваат на хард диск.\nБидете внимателни да не дозволите екстензии на датотеки кои што репрезентираат извршни програми на Вашиот оперативен систем!"
     },
     "Open_changelog": {
-        "message": "Open changelog"
+        "message": "Отвори ги белешките на промени"
     },
     "Operation_completed_successfully": {
-        "message": "Operation completed successfully"
+        "message": "Операција завршена со успех"
     },
     "Original_domain_whitelist": {
-        "message": "Original domain whitelist"
+        "message": "Оригинална бела листа"
     },
     "Original_excludes": {
-        "message": "Original excludes"
+        "message": "Оригинални исклучувања"
     },
     "Original_includes": {
-        "message": "Original includes"
+        "message": "Оригинални вклучувања"
     },
     "Original_matches": {
-        "message": "Original matches"
+        "message": "Оригинални совпаѓања"
     },
     "Page_Filter_Mode": {
-        "message": "Page Filter Mode"
+        "message": "Мод на филтрирање на страна"
     },
     "Password": {
-        "message": "Password"
+        "message": "Лозинка"
     },
     "Paste": {
-        "message": "Paste"
+        "message": "Залепи"
     },
     "Permanent": {
-        "message": "Permanent"
+        "message": "Перманентно"
     },
     "Please_check_the_0editor0_documentation_for_more_details_": {
-        "message": "Please check the $editor$ documentation for more details.",
+        "message": "Ве молиме да ја проверите документацијата на $editor$ за повеќе детали.",
         "placeholders": {
             "editor": {
                 "content": "$1"
@@ -1174,34 +1166,34 @@
         }
     },
     "Please_consider_a_contribution": {
-        "message": "Please send a donation"
+        "message": "Ве молиме поднесете донација <3"
     },
     "Please_select_a_file": {
-        "message": "Please select a file"
+        "message": "Ве молиме одберете датотека"
     },
     "Please_wait___": {
-        "message": "Please wait..."
+        "message": "Ве молиме почекајте..."
     },
     "Position_": {
-        "message": "Position"
+        "message": "Позиција"
     },
     "Press_ctrl_to_toggle_all_checkboxes": {
-        "message": "Press Ctrl/Cmd to toggle all checkboxes"
+        "message": "Притиснете го копчето Ctrl/Cmd за да ги промените сите полиња за избор"
     },
     "Prev_Bookmark": {
-        "message": "Prev Bookmark"
+        "message": "Претходен букмарк"
     },
     "Process_with_Chrome": {
-        "message": "Process with the browser"
+        "message": "Процесирај со пребарувачот"
     },
     "Raw_and_JavaScript": {
-        "message": "Raw and JavaScript"
+        "message": "Текст и JavaScript"
     },
     "DOM_mode_is_unsecure__Scripts_can_install_new_scripts_": {
-        "message": "\"DOM\" sandbox mode is unsecure. Running userscripts have almost full extension permissions and can even modify and install new userscripts."
+        "message": "\"DOM\" sandbox модот не е безбеден. Скриптовите што работат ги имаат скоро сите дозволи на Tampermonkey и дури можат да менуваат и да инсталираат нови скриптови."
     },
     "Really_delete_0name0__": {
-        "message": "Do you really want to delete '$name$'?",
+        "message": "Дали навистина сакате да го избришете '$name$'?",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1209,49 +1201,49 @@
         }
     },
     "Really_delete_all_userscripts_": {
-        "message": "Do you really want to permanently delete all userscripts?"
+        "message": "Дали навистина сакате да ги избришете СИТЕ скриптови?"
     },
     "Really_delete_the_selected_items_": {
-        "message": "Do you really want to delete all selected items?"
+        "message": "Дали сте сигурни дека сакате да ги избришете сите селектирани предмети?"
     },
     "Really_factory_reset_the_selected_items_": {
-        "message": "Do you really want to factory reset all selected items?"
+        "message": "Дали сте сигурни дека сакате да ги ресетирате сите селектирани предмети?"
     },
     "Really_factory_reset_this_script_": {
-        "message": "Do you really want to factory reset this script?"
+        "message": "Дали навистина сакате да го ресетирате овој скрипт?"
     },
     "Really_reset_all_changes_": {
-        "message": "Really reset all changes?"
+        "message": "Дали сте сигурни дека сакате да ги ресетирате сите промени?"
     },
     "Really_restore_all_userscripts_": {
-        "message": "Do you really want to restore all userscripts?"
+        "message": "Дали навистина сакате да ги вратите сите скриптови?"
     },
     "Recent_Sync_Log": {
-        "message": "Recent Sync Log"
+        "message": "Лог на современите синхронизирања"
     },
     "Redo": {
-        "message": "Redo"
+        "message": "Направи пак"
     },
     "Reindent_on_typing": {
-        "message": "Re-indent on typing"
+        "message": "Ре-индентирај на пишување"
     },
     "Reinstall": {
-        "message": "Reinstall"
+        "message": "Реинсталирај"
     },
     "Reload": {
-        "message": "Reload"
+        "message": "Освежи"
     },
     "Remind_me_later": {
-        "message": "Remind me later"
+        "message": "Потсети ме подоцна"
     },
     "Remove": {
-        "message": "Remove"
+        "message": "Избриши"
     },
     "Remove__possibly_unsecure_": {
-        "message": "Remove entirely (possibly unsecure)"
+        "message": "Избриши целосно"
     },
     "Remove_local_script_0name0_0uuid0": {
-        "message": "Remove local script \"$name$\" ($uuid$)",
+        "message": "Избриши го локалниот скрипт \"$name$\" ($uuid$)",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1262,7 +1254,7 @@
         }
     },
     "Remove_remote_script_0name0_0uuid0": {
-        "message": "Remove remote script \"$name$\" ($uuid$)",
+        "message": "Избриши го екстерниот скрипт \"$name$\" ($uuid$)",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1273,31 +1265,31 @@
         }
     },
     "Replace": {
-        "message": "Replace"
+        "message": "Замени"
     },
     "Replace_": {
-        "message": "Replace?"
+        "message": "Заменете?"
     },
     "Replace_All": {
-        "message": "Replace All"
+        "message": "Замени сѐ"
     },
     "Replace_all_with": {
-        "message": "Replace all"
+        "message": "Замени сѐ со"
     },
     "Replace_for_each_statements": {
-        "message": "Replace 'for each' statements"
+        "message": "Замени ги сите 'for each' кодови"
     },
     "Replace_with": {
-        "message": "Replace with"
+        "message": "Замени со"
     },
     "Report_a_bug": {
-        "message": "Report a bug"
+        "message": "Пријави грешка"
     },
     "Report_an_issue_to_the_script_hoster_": {
-        "message": "Report abuse.\n(A user account may be required)"
+        "message": "Пријави злоупотреба.\n(Профил може да биде потребно)"
     },
     "Requires": {
-        "message": "Requires"
+        "message": "Барања"
     },
     "Reset_Section": {
         "message": "Reset"
