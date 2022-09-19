@@ -1392,52 +1392,52 @@
         "message": "Селектирај сѐ"
     },
     "Select_Bookmarks": {
-        "message": "Select Bookmarks"
+        "message": "Селектирај букмаркови"
     },
     "Select_Line": {
-        "message": "Select Line"
+        "message": "Селектирај линија"
     },
     "Select_Next_Occurrence": {
-        "message": "Select Next Occurrence"
+        "message": "Селектирај ја наредната појава"
     },
     "Select_Scope": {
-        "message": "Select Scope"
+        "message": "Селектирај опсег"
     },
     "Select_between_Brackets": {
-        "message": "Select between Brackets"
+        "message": "Селектирај помеѓу загради"
     },
     "Select_to_Sublime_Mark": {
-        "message": "Select to Sublime Mark"
+        "message": "Селектирајте до Sublime Mark"
     },
     "Selection": {
-        "message": "Selection"
+        "message": "Селекција"
     },
     "Server_And_Manual": {
-        "message": "Remote + Manual"
+        "message": "Екстерно + мануално"
     },
     "Set_Sublime_Mark": {
-        "message": "Set Sublime Mark"
+        "message": "Наместете Sublime Mark"
     },
     "Settings": {
-        "message": "Settings"
+        "message": "Поставки"
     },
     "Show_backups": {
-        "message": "Show backups"
+        "message": "Покажи копии"
     },
     "Show_fixed_source": {
-        "message": "Show fixed source"
+        "message": "Покажи фиксиран извор"
     },
     "Show_notification": {
-        "message": "Show notification"
+        "message": "Покажи нотификација"
     },
     "Sites": {
-        "message": "Sites"
+        "message": "Страни"
     },
     "Size": {
-        "message": "Size"
+        "message": "Големина"
     },
     "Skip_timeout__0seconds0_seconds_": {
-        "message": "Skip timeout ($seconds$ seconds)",
+        "message": "Прескокни го тајм аут-от ($seconds$ секунди)",
         "placeholders": {
             "seconds": {
                 "content": "$1"
@@ -1445,40 +1445,40 @@
         }
     },
     "Smart": {
-        "message": "Smart"
+        "message": "Паметно"
     },
     "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
-        "message": "Some scripts might be blocked by the JavaScript settings for this page or a script blocker!"
+        "message": "Некои скриптови може да се блокирани од JavaScript поставките за оваа страна или од скрипт блокер!"
     },
     "Sort": {
-        "message": "Sort"
+        "message": "Сортирај"
     },
     "Source": {
-        "message": "Source"
+        "message": "Извор"
     },
     "Source_Code": {
-        "message": "Source Code"
+        "message": "Изворен код"
     },
     "Spaces": {
-        "message": "Spaces"
+        "message": "Празни места"
     },
     "Split_into_Lines": {
-        "message": "Split into Lines"
+        "message": "Подели го на линии"
     },
     "Start": {
-        "message": "Start"
+        "message": "Започни"
     },
     "Stop": {
-        "message": "Stop"
+        "message": "Престани"
     },
     "Storage": {
-        "message": "Storage"
+        "message": "Склад"
     },
     "Store_data_in_incognito_mode": {
-        "message": "Store data in incognito mode"
+        "message": "Складирај податоци во инкогнито"
     },
     "Strict": {
-        "message": "Strict"
+        "message": "Строго"
     },
     "Sublime": {
         "message": "Sublime Text"
@@ -1487,97 +1487,97 @@
         "message": "Sublime Mark"
     },
     "Subresource_Integrity": {
-        "message": "Subresource Integrity"
+        "message": "Интегритет на субресурси"
     },
     "Swap_with_Sublime_Mark": {
-        "message": "Swap with Sublime Mark"
+        "message": "Смени со Sublime Mark"
     },
     "Sync_Now": {
-        "message": "Run now"
+        "message": "Започни сега"
     },
     "Sync_Reset": {
-        "message": "Reset"
+        "message": "Ресетирај"
     },
     "Sync_Type": {
-        "message": "Type"
+        "message": "Тип"
     },
     "Sync_finished": {
-        "message": "Sync finished"
+        "message": "Заврши синхронизација"
     },
     "Sync_is_running": {
-        "message": "Sync is running"
+        "message": "Синхронизацијата работи"
     },
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
-        "message": "Synchronize your scripts across browsers and operation systems"
+        "message": "Синхронизирај ги Вашите скриптови низ пребарувачи и оперативни системи"
     },
     "TabMode": {
         "message": "TabMode"
     },
     "Tab_Size": {
-        "message": "Tab Size"
+        "message": "Големина на таб"
     },
     "Tab_URL": {
-        "message": "Tab URL"
+        "message": "URL на таб"
     },
     "Tab_types": {
-        "message": "Tab types"
+        "message": "Типови на таб"
     },
     "Tabs": {
-        "message": "Tabs"
+        "message": "Табови"
     },
     "Tampermonkey_and_script_version": {
-        "message": "Tampermonkey + script version"
+        "message": "Tampermonkey + верзија на скриптови"
     },
     "Tampermonkey_has_no_access_to_this_page": {
-        "message": "Tampermonkey has no access to this page"
+        "message": "Tampermonkey нема достап до оваа страна"
     },
     "Tampermonkey_has_no_file_access_permission_": {
-        "message": "Tampermonkey has no permission to access local files!"
+        "message": "Tampermonkey нема дозволи да достапи до локални датотеки!"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
-        "message": "Tampermonkey might not be able to provide access to the unsafe context (unsafeWindow, page's functions and variables) when this is disabled."
+        "message": "Tampermonkey можеби нема да може да добие достап до небезбедниот контекст (unsafeWindow, функции и променливи на веб-страната) кога ова е исклучено."
     },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
-        "message": "Tampermonkey needs to be restarted to make this change apply.\n\nDo you want to continue?"
+        "message": "Tampermonkey треба да се рестартира за оваа промена да се појави.\n\nДали сакате да продолжите?"
     },
     "Tampermonkey_version": {
-        "message": "Tampermonkey version only"
+        "message": "Само верзија на Tampermonkey"
     },
     "Templates": {
-        "message": "Templates"
+        "message": "Шаблони"
     },
     "Temporarily_allow": {
-        "message": "Temporarily allow"
+        "message": "Дозволете привремено"
     },
     "Temporary": {
-        "message": "Temporary"
+        "message": "Привремено"
     },
     "Temporary_domain_whitelist": {
-        "message": "Temporary domain whitelist"
+        "message": "Привремена вајтлиста на домени"
     },
     "Text": {
-        "message": "Text"
+        "message": "Текст"
     },
     "TextArea": {
-        "message": "TextArea"
+        "message": "Текст ареа"
     },
     "Thank_you_very_much_": {
-        "message": "Thank you very much!"
+        "message": "Фала Ви многу!"
     },
     "The_Browser_API_mode_requires_a_special_permission_": {
-        "message": "The Browser API mode requires a special permission."
+        "message": "Browser API модот му треба специјална дозвола."
     },
     "The_diff_for_this_script_is_too_large_to_render": {
-        "message": "The diff for this script is too large to render"
+        "message": "Diff-от за овој скрипт е многу голем за да се покаже"
     },
     "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
-        "message": "The downgraded script might have problems to read its stored data!"
+        "message": "Деажурираниот скрипт може да има проблеми да ги чита неговите складирани податоци!"
     },
     "The_origin_of_this_script_cant_be_determined_": {
-        "message": "Warning: The origin of this script can't be determined.\nEither it was installed by a malicious third party to steal you private data or some basic browser settings, your operation system or hardware has changed!\n\nPlease open, review and save the script to enable it."
+        "message": "Внимание: Изворот на овој скрипт не може да биде одреден.\nИли било инсталирано од друг домен за да ги украде Вашите приватни податоци, или Вашиот хардвер бил променет!\n\nВе молиме отворете, проверете го и зачуваните го скриптот за да се уклучи."
     },
     "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
-        "message": "The update url has changed from:\n    '$oldurl$'\n    to:\n    '$newurl$'\n",
+        "message": "URL-to за ажурирање се променило од:\n    '$oldurl$'\n    во:\n    '$newurl$'\n",
         "placeholders": {
             "oldurl": {
                 "content": "$1"
@@ -1588,13 +1588,13 @@
         }
     },
     "Theme": {
-        "message": "Theme"
+        "message": "Тема"
     },
     "There_are_unsaved_changed_": {
-        "message": "There are unsaved changes.\nDo you really want to close the editor?"
+        "message": "Има незачувани промени.\nДали навистина сакате да го затворите едиторот?"
     },
     "There_is_an_update_for_0name0_avaiable_": {
-        "message": "There is an update for '$name$' available. :)",
+        "message": "Има достапно ажурирање за '$name$'",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1602,19 +1602,19 @@
         }
     },
     "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
-        "message": "This external resource will not auto-update! Please delete it in order to enable updates again."
+        "message": "Овој екстерен ресурс нема да се ажурира автоматски! Ве молиме избришете го за да се уклучат ажурирањата пак."
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
-        "message": "This gives this script permission to retrieve and send data from and to every webpage. This is potentially unsafe!\n\nAre you sure you want to continue?"
+        "message": "Ова дозволува на овој скрипт дозвола да добие и да прати податоци од и до секоја веб-страна. Ова не е безбедно!\n\nДали сте сигурни дека сакате да продолжите?"
     },
     "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
-        "message": "The origin of this script can't be determined.\nEither it was installed by a third party to steal you private data or some basic browser settings, your operation system or hardware has changed.\nThis modification will enable it!"
+        "message": "Изворот на овој скрипт не може да биде одреден.\nИли било инсталирано од друг домен за да ги украде Вашите приватни податоци, или Вашиот хардвер бил променет!\nОваа модификација ќе го уклучи!"
     },
     "This_is_a_system_script": {
-        "message": "This is a system script."
+        "message": "Ова е системски скрипт."
     },
     "This_is_a_userscript": {
-        "message": "This is a userscript written in Javascript"
+        "message": "Ова е скрипт напишан во Javascript"
     },
     "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
         "message": "This option allows the Tampermonkey homepage and some script hosting pages to determine the Tampermonkey version and some basic script information (installed, version, enabled)."
