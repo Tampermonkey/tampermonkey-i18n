@@ -527,7 +527,7 @@
         "message": "Исклучено"
     },
     "Do_you_really_want_to_store_fixed_code_": {
-        "message": "Опцијата '$option$' е уклучена!\n\nДали навистина сакате да го зачувате фиксираниот извор?",
+        "message": "Опцијата „$option$“ е уклучена!\n\nДали навистина сакате да го зачувате фиксираниот извор?",
         "placeholders": {
             "option": {
                 "content": "$1"
@@ -1193,7 +1193,7 @@
         "message": "\"DOM\" sandbox модот не е безбеден. Скриптовите што работат ги имаат скоро сите дозволи на Tampermonkey и дури можат да менуваат и да инсталираат нови скриптови."
     },
     "Really_delete_0name0__": {
-        "message": "Дали навистина сакате да го избришете '$name$'?",
+        "message": "Дали навистина сакате да го избришете „$name$“?",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1277,7 +1277,7 @@
         "message": "Замени сѐ со"
     },
     "Replace_for_each_statements": {
-        "message": "Замени ги сите 'for each' кодови"
+        "message": "Замени ги сите „for each“ кодови"
     },
     "Replace_with": {
         "message": "Замени со"
@@ -1328,7 +1328,7 @@
         "message": "Зачувај на диск"
     },
     "Script_0name0_is_slowing_down_some_page_loads_": {
-        "message": "Скриптот '$name$' ви ги успорува лоадирањата на веб-страните",
+        "message": "Скриптот „$name$“ ви ги успорува лоадирањата на веб-страните",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1577,7 +1577,7 @@
         "message": "Внимание: Изворот на овој скрипт не може да биде одреден.\nИли било инсталирано од друг домен за да ги украде Вашите приватни податоци, или Вашиот хардвер бил променет!\n\nВе молиме отворете, проверете го и зачуваните го скриптот за да се уклучи."
     },
     "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
-        "message": "URL-to за ажурирање се променило од:\n    '$oldurl$'\n    во:\n    '$newurl$'\n",
+        "message": "URL-to за ажурирање се променило од:\n    „$oldurl$“\n    во:\n    „$newurl$“\n",
         "placeholders": {
             "oldurl": {
                 "content": "$1"
@@ -1594,7 +1594,7 @@
         "message": "Има незачувани промени.\nДали навистина сакате да го затворите едиторот?"
     },
     "There_is_an_update_for_0name0_avaiable_": {
-        "message": "Има достапно ажурирање за '$name$'",
+        "message": "Има достапно ажурирање за „$name$“",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1617,37 +1617,37 @@
         "message": "Ова е скрипт напишан во Javascript"
     },
     "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
-        "message": "This option allows the Tampermonkey homepage and some script hosting pages to determine the Tampermonkey version and some basic script information (installed, version, enabled)."
+        "message": "Оваа опција дозволува на Tampermonkey страната и некои страни со скриптови да ја одредат верзијата на Tampermonkey и некои општи информации за скриптови (инсталирани, верзија, уклучени)."
     },
     "This_page_is_blacklisted_at_the_security_settings": {
-        "message": "Blacklisted by security settings"
+        "message": "На црна листа од поставките за безбедност"
     },
     "This_script_does_not_provide_any__include_information_": {
-        "message": "This script does not provide any @include information."
+        "message": "Овој скрипт не дава @include информации."
     },
     "This_script_does_not_require_any_special_powers_": {
-        "message": "This script does not require any special powers."
+        "message": "На овој скрипт не му треба никакви специјални моќи."
     },
     "This_script_has_access_to_https_pages": {
-        "message": "This item has access to https pages."
+        "message": "Овој предмет има пристап до HTTPS страни."
     },
     "This_script_has_full_web_access": {
-        "message": "This script has full internet access."
+        "message": "Овој скрипт има целосен пристап до веб-страните."
     },
     "This_script_is_blacklisted_": {
-        "message": "This script is blacklisted!"
+        "message": "Овој скрипт е на црната листа!"
     },
     "This_script_stores_data": {
-        "message": "This script stores data to Tampermonkey."
+        "message": "Овој скрипт складира податоци."
     },
     "This_script_was_deleted": {
-        "message": "This script was deleted"
+        "message": "Овој скрипт беше избришан"
     },
     "This_script_was_deleted_by_the_hoster_": {
-        "message": "This script was deleted by the hoster"
+        "message": "Овој скрипт беше избришан од хостот"
     },
     "This_script_was_executed_0count0_times": {
-        "message": "This script was executed $count$ time(s)",
+        "message": "Овој скрипт беше извршен $count$ пати",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -1655,7 +1655,7 @@
         }
     },
     "This_script_was_executed_0count0_times_but_is_not_active_anymore": {
-        "message": "This script was executed $count$ time(s) but is not active anymore",
+        "message": "Овој скрипт беше извршен $count$ пати но не е активен повеќе",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -1663,64 +1663,64 @@
         }
     },
     "This_script_was_not_executed_yet": {
-        "message": "This script was not executed yet"
+        "message": "Овој скрипт не бил извршен до сега"
     },
     "This_will_overwrite_your_global_settings_": {
-        "message": "This will overwrite your global settings!"
+        "message": "Ова ке ви ги промени Вашите глобални подесувања!"
     },
     "This_will_remove_all_remote_data_from_sync_Ok_": {
-        "message": "Do you really want to remove all data from Sync?"
+        "message": "Дали навистина сакате да ги избришете податоците од синхронизацијата?"
     },
     "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
-        "message": "Do you really want to remove all scripts and reset all settings?"
+        "message": "Дали навистина сакате да ги избришете СИТЕ скриптови И поставки?"
     },
     "This_will_restart_Tampermonkey_Ok_": {
-        "message": "Do you really want to restart Tampermonkey?"
+        "message": "Дали навистина сакате да го рестартирате Tampermonkey?"
     },
     "Today": {
-        "message": "Today"
+        "message": "Денес"
     },
     "Toggle": {
-        "message": "Toggle"
+        "message": "Промени"
     },
     "Toggle_Block_Comment": {
-        "message": "Toggle Block Comment"
+        "message": "Промени коментар"
     },
     "Toggle_Comment": {
-        "message": "Toggle Comment"
+        "message": "Промени коментар"
     },
     "Toggle_Comment_Indented": {
-        "message": "Toggle Comment Indented"
+        "message": "Промени индентиран коментар"
     },
     "Toggle_Enable": {
-        "message": "Toggle Enable"
+        "message": "Промени"
     },
     "Trace": {
-        "message": "Trace"
+        "message": "Барај"
     },
     "Transpose": {
-        "message": "Transpose"
+        "message": "Транспозирај"
     },
     "Trash": {
-        "message": "🗑"
+        "message": "Корпа"
     },
     "Trash_Mode": {
-        "message": "Trash Mode"
+        "message": "Корпа мод"
     },
     "Treat_like__match": {
-        "message": "Treat like @match"
+        "message": "Работи како да е @match"
     },
     "Trigger_Update": {
-        "message": "Trigger Update"
+        "message": "Ажурирај"
     },
     "Trim_trailing_whitespace_from_modified_lines": {
-        "message": "Trim trailing whitespace from modified lines"
+        "message": "Исечи го празното место после модифицираните линии"
     },
     "Try_to_install_as_script": {
-        "message": "Try to install as script"
+        "message": "Пробај да симнеш како скрипт"
     },
     "Type": {
-        "message": "Type"
+        "message": "Тип"
     },
     "URL": {
         "message": "URL"
@@ -1729,7 +1729,7 @@
         "message": "UUID"
     },
     "Unable_to_load_script_from_url_0url0": {
-        "message": "Unable to load script from url: \n $url$",
+        "message": "Неможеше да се лоадира скрипт од URL-то:\n$url$",
         "placeholders": {
             "url": {
                 "content": "$1"
@@ -1737,7 +1737,7 @@
         }
     },
     "Unable_to_parse_0name0": {
-        "message": "Unable to parse $name$",
+        "message": "Не можеше да се разбере $name$",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1745,22 +1745,22 @@
         }
     },
     "Unable_to_parse_this_": {
-        "message": "Unable to parse this! :("
+        "message": "Не може да се разбере ова!"
     },
     "Undo": {
-        "message": "Undo"
+        "message": "Врати назад"
     },
     "Unfold": {
-        "message": "Unfold"
+        "message": "Отвори"
     },
     "Unfold_All": {
-        "message": "Unfold All"
+        "message": "Отвори сѐ"
     },
     "Unique_running_scripts": {
-        "message": "Unique running scripts"
+        "message": "Уникатни скриптови што работат"
     },
     "Unknown_method_0name0": {
-        "message": "Unknown method $name$",
+        "message": "Непознат метод $name$",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1768,25 +1768,25 @@
         }
     },
     "Unsafe": {
-        "message": "Unsafe"
+        "message": "Небезбедно"
     },
     "Update": {
-        "message": "Update"
+        "message": "Ажурирај"
     },
     "Update_Notification": {
-        "message": "Show TM update notification"
+        "message": "Покажувај нотификација за ажурирање на Tampermonkey"
     },
     "Update_URL_": {
-        "message": "Update URL"
+        "message": "Ажурирај URL"
     },
     "Update_check_is_disabled": {
-        "message": "Userscript update check is disabled or not possible"
+        "message": "Проверување за ажурирање на скриптовите е исклучено или не е возможно"
     },
     "Update_interval": {
-        "message": "Update Interval"
+        "message": "Ажурирај интервал"
     },
     "Update_local_script_0name0_0uuid0": {
-        "message": "Update local script \"$name$\" ($uuid$)",
+        "message": "Ажурирај го локалниот скрипт \"$name$\" ($uuid$)",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1797,7 +1797,7 @@
         }
     },
     "Updated_to__0version0": {
-        "message": "Updated to: $version$",
+        "message": "Ажурирај до $version$",
         "placeholders": {
             "version": {
                 "content": "$1"
@@ -1805,43 +1805,43 @@
         }
     },
     "Updates": {
-        "message": "Updates"
+        "message": "Ажурирања"
     },
     "Upper_Case": {
-        "message": "Upper Case"
+        "message": "Големи букви"
     },
     "UserScripts_API": {
-        "message": "UserScripts API"
+        "message": "API за скриптови"
     },
     "User_domain_blacklist": {
-        "message": "User domain blacklist"
+        "message": "Црна листа за домени на корисникот"
     },
     "User_domain_whitelist": {
-        "message": "User domain whitelist"
+        "message": "Бела листа за домени на корисникот"
     },
     "User_excludes": {
-        "message": "User excludes"
+        "message": "Исклучувања на корисникот"
     },
     "User_includes": {
-        "message": "User includes"
+        "message": "Вклучувања на корисникот"
     },
     "User_matches": {
-        "message": "User matches"
+        "message": "Совпаѓања на корисникот"
     },
     "User_modified": {
-        "message": "Modified"
+        "message": "Модифицирано од корисникот"
     },
     "Userscript_Search": {
-        "message": "Userscript Search"
+        "message": "Пребарување на скриптови"
     },
     "Userscript_search_integration_mode": {
-        "message": "Userscript Search integration"
+        "message": "Интеграција на пребарување на скриптови"
     },
     "Userscripts": {
-        "message": "Userscripts"
+        "message": "Скриптови"
     },
     "Using__include_is_potentially_unsafe_and_may_be_obsolete_soon___0off0_disables__include_completely__0match0__is_safe__but_may_not_compatible_the_script_developers_intention__0unsafe0__mostly_keeps_the_legacy_behavior_0default0__means__0used_default0": {
-        "message": "Using @include is potentially unsafe and may be obsolete in Manifest v3 in early 2023. This setting allows you to configure the way @include is interpreted. '$off$' disables @include completely, '$match$' is safe, but may not be compatible the script developers intention. '$unsafe$' mostly keeps the legacy behavior and '$default$' means '$used_default$' for now.",
+        "message": "Користење на @include не е безбедно и може да е застарено во Manifest v3 во раните месеци во 2023. Оваа опција Ви дозволува да го смените начинот @include е интерпретирано. „$off$“ го исклучува @include целосно, „$match$“ е безбедно, но може да не биде компатибилно со мислата на програмерот. „$unsafe$“ најмногу го чува старото однесување, а „$default$“ значи „$used_default$“ за сега.",
         "placeholders": {
             "off": {
                 "content": "$1"
@@ -1861,7 +1861,7 @@
         }
     },
     "Utilities": {
-        "message": "Utilities"
+        "message": "Опции"
     },
     "Validate_if_given": {
         "message": "Validate if given"
