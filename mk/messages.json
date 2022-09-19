@@ -1577,7 +1577,7 @@
         "message": "Внимание: Изворот на овој скрипт не може да биде одреден.\nИли било инсталирано од друг домен за да ги украде Вашите приватни податоци, или Вашиот хардвер бил променет!\n\nВе молиме отворете, проверете го и зачуваните го скриптот за да се уклучи."
     },
     "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
-        "message": "URL-to за ажурирање се променило од:\n    „$oldurl$“\n    во:\n    „$newurl$“\n",
+        "message": "URL-то за ажурирање се променило од:\n    „$oldurl$“\n    во:\n    „$newurl$“\n",
         "placeholders": {
             "oldurl": {
                 "content": "$1"
@@ -1864,112 +1864,112 @@
         "message": "Опции"
     },
     "Validate_if_given": {
-        "message": "Validate if given"
+        "message": "Валидирај ако е дадено"
     },
     "Validate_if_supported": {
-        "message": "Validate if possible"
+        "message": "Валидирај ако е возможно"
     },
     "Verbose": {
-        "message": "Verbose"
+        "message": "Проширено"
     },
     "Version": {
-        "message": "Version"
+        "message": "Верзија"
     },
     "View": {
-        "message": "View"
+        "message": "Види"
     },
     "Vim": {
         "message": "Vim"
     },
     "Waiting_for_sync_to_finish": {
-        "message": "Waiting for sync to finish"
+        "message": "Чека за синхронизацијата да заврши"
     },
     "Warning": {
-        "message": "Warning"
+        "message": "Внимание"
     },
     "Warning_unsafe_site_warnings_might_appear_": {
-        "message": "Warning: unsafe site warnings might appear if a script includes potentially harmfull URLs."
+        "message": "Внимание: предупредувања за небезбедни страни може да се покажат ако скриптот вклучува небезбедни URL-ња."
     },
     "WebDAV": {
         "message": "WebDAV"
     },
     "Whitelist": {
-        "message": "Whitelist"
+        "message": "Бела листа"
     },
     "Whitelisted_File_Extensions": {
-        "message": "Whitelisted File Extensions"
+        "message": "Екстензии за датотеки на бела листа"
     },
     "Whitelisted_Pages": {
-        "message": "Whitelisted Pages"
+        "message": "Страни на бела листа"
     },
     "Windows": {
         "message": "Windows"
     },
     "XHR_Security": {
-        "message": "XHR Security"
+        "message": "XHR безбедност"
     },
     "Yandex_Disk": {
         "message": "Yandex.Disk"
     },
     "Yank_Sublime_Mark": {
-        "message": "Yank Sublime Mark"
+        "message": "Повлечи Sublime Mark"
     },
     "Yes": {
-        "message": "Yes"
+        "message": "Да"
     },
     "You_are_about_to_downgrade_a_UserScript": {
-        "message": "Attention! Userscript downgrade"
+        "message": "Внимание! Ќе деажурирате скрипт"
     },
     "You_are_about_to_install_a_UserScript_": {
-        "message": "Userscript installation"
+        "message": "Ќе инсталирате скрипт"
     },
     "You_are_about_to_modify_a_UserScript_": {
-        "message": "Userscript modification"
+        "message": "Ќе промените скрипт"
     },
     "You_are_about_to_reinstall_a_UserScript_": {
-        "message": "Userscript re-installation"
+        "message": "Ќе реинсталирате скрипт"
     },
     "You_are_about_to_update_a_UserScript_": {
-        "message": "Userscript update"
+        "message": "Ќе ажурирате скрипт"
     },
     "You_can_add_your_custom_CSS_rules_here_": {
-        "message": "You can add your own CSS rules for the Tampermonkey UI here. In case this breaks something you can get the default layout by appending ?layout=reset to the options page URL."
+        "message": "Можете да си напишете свој CSS код за Tampermonkey тука. Во случај ова да уништи нешто, можете да го избришете кодот со додавање на ?layout=reset во URL-то на опциите."
     },
     "You_can_add_your_custom_linter_config_here_": {
         "message": "You can add your custom linter config here."
     },
     "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
-        "message": "Your language is not supported?\nClick here to get instructions how to translate Tampermonkey?"
+        "message": "Вашиот јазик не е поддржан?\nКликнете тука за да добиете инструкции како да го преведете Tampermonkey."
     },
     "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
-        "message": "Your whitelist seems to include executable files!\nThis means your userscripts may download malware or spyware to your harddisk!!"
+        "message": "Вашата бела листа изгледа содржи извршни датотеки!\nОва значи дека Вашите скриптови може да симнат вируси на Вашиот диск!"
     },
     "Zip": {
         "message": "Zip"
     },
     "__Please_choose__": {
-        "message": "-- Please choose an option --"
+        "message": "-- Одберете опција --"
     },
     "_not_set_": {
-        "message": "<not set>"
+        "message": "<не е сетирано>"
     },
     "connect_mode": {
-        "message": "Check @connect"
+        "message": "Проверете @connect"
     },
     "fatal_error": {
-        "message": "fatal error"
+        "message": "фатална грешка"
     },
     "overwritten_by_user": {
-        "message": "overwritten by user setting"
+        "message": "избршано од поставка на корисникот"
     },
     "require_and_resource": {
-        "message": "Externals (@require and @resource)"
+        "message": "Екстерни (@require и @resource)"
     },
     "severity_1": {
-        "message": "1 (most secure)"
+        "message": "1 (најбезбедно)"
     },
     "severity_10": {
-        "message": "10 (least secure)"
+        "message": "10 (најнебезбедно)"
     },
     "severity_2": {
         "message": "2"
@@ -1996,12 +1996,12 @@
         "message": "9"
     },
     "some_secs": {
-        "message": "some"
+        "message": "неколку"
     },
     "strict_mode": {
         "message": "strict mode"
     },
     "top_level_await": {
-        "message": "top-level await"
+        "message": "await во најгорното ниво"
     }
 }
