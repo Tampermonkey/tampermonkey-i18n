@@ -1,0 +1,16 @@
+Македонски превод на Tampermonkey
+--------------------
+
+Овде може да има некои погрешни преводи. Многу користев Google Translate,
+користев егзактни преводи, збор-по-збор, и многу се неточни. Ве молиме,
+ако некој најде грешка во преведувањето, да отвори PR на GitHub на repo-то
+Tampermonkey/tampermonkey-i18n и да го промени македонскиот превод.
+
+Оригиналниот преведувач на македонски е Никола Стојковски, или EntityPlantt.
+Овде нека се потпишат сите поправачи:
+- Никола Стојковски (EntityPlantt)
+- Ти! (додади нова линија)
+
+
+You want an English translation of the above text, don't you? Create one, or
+put this text above into Google Translate. I'm not making one.
