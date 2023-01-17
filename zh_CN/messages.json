@@ -281,7 +281,7 @@
         "message": "输入时自动检查语法"
     },
     "Automatically_added_user_includes_for_compatibility_reasons_": {
-        "message": "出于兼容原因已自动添加部分用户include!"
+        "message": "出于兼容原因已自动添加部分用户 include!"
     },
     "Beginner": {
         "message": "初学者"
