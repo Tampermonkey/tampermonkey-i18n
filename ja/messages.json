@@ -1,4 +1,37 @@
 {
+    "1": {
+        "message": "1"
+    },
+    "2": {
+        "message": "2"
+    },
+    "3": {
+        "message": "3"
+    },
+    "4": {
+        "message": "4"
+    },
+    "5": {
+        "message": "5"
+    },
+    "6": {
+        "message": "6"
+    },
+    "7": {
+        "message": "7"
+    },
+    "8": {
+        "message": "8"
+    },
+    "9": {
+        "message": "9"
+    },
+    "10": {
+        "message": "10"
+    },
+    "11": {
+        "message": "11"
+    },
     "0count0_changes_exported": {
         "message": "$count$ 件の変更点をエクスポートしました",
         "placeholders": {
@@ -87,6 +120,9 @@
     "Add": {
         "message": "追加"
     },
+    "Add_GM_functions_to_this_or_window": {
+        "message": "this または window に GM 関数を追加"
+    },
     "Add_TM_to_CSP": {
         "message": "サイトのコンテンツ セキュリティ ポリシー (CSP) がある場合は、その CSP に Tampermonkey を追加する"
     },
@@ -109,6 +145,9 @@
     },
     "Advanced": {
         "message": "上級者"
+    },
+    "All": {
+        "message": "すべて"
     },
     "All_local_files": {
         "message": "すべてのローカルファイル"
@@ -364,6 +403,15 @@
     "Config_Mode": {
         "message": "設定のモード"
     },
+    "Configures_which_sandbox_values_are_valid": {
+        "message": "@sandbox の値としてどれを有効にするかを設定します"
+    },
+    "Content_Script": {
+        "message": "コンテンツ スクリプト"
+    },
+    "Content_Script_API": {
+        "message": "コンテンツ スクリプト API"
+    },
     "Context_Menu": {
         "message": "コンテキスト メニュー"
     },
@@ -503,6 +551,12 @@
     "Downloads": {
         "message": "ダウンロード"
     },
+    "Dropbox": {
+        "message": "Dropbox"
+    },
+    "DuckDuckGo": {
+        "message": "DuckDuckGo"
+    },
     "Duplicate_Lines": {
         "message": "行を複製"
     },
@@ -514,6 +568,9 @@
     },
     "Editor_reset": {
         "message": "エディターの内容をリセット"
+    },
+    "Emacs": {
+        "message": "Emacs"
     },
     "Enable": {
         "message": "有効にする"
@@ -538,6 +595,14 @@
     },
     "Enabled": {
         "message": "有効"
+    },
+    "Enabling_this_makes_it_easy_for_scripts_to_leak_it_s_granted_powers_to_the_page_Therefore__off__is_the_safest_option_": {
+        "message": "これを有効にすると、UserScript に付与された力をページに漏洩することが非常に簡単になります。そのため、「$off$」が最も安全なオプションですが、互換性の問題を引き起こす場合があります。",
+        "placeholders": {
+            "off": {
+                "content": "$1"
+            }
+        }
     },
     "Enter_the_new_rule": {
         "message": "新規ルールを入力"
@@ -579,6 +644,39 @@
     },
     "Export": {
         "message": "エクスポート"
+    },
+    "Export_script_0name0_0uuid0": {
+        "message": "スクリプト「$name$」($uuid$) をエクスポート",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Export_script_meta_data_of_0name0": {
+        "message": "スクリプト「$name$」($uuid$) のメタ データをエクスポート",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Export_script_source_of_0name0": {
+        "message": "スクリプト「$name$」($uuid$) のソースをエクスポート",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
     },
     "Externals": {
         "message": "外部"
@@ -631,6 +729,15 @@
     "Forbid_once": {
         "message": "一度だけ禁止"
     },
+    "Force_DOM": {
+        "message": "DOM を強制"
+    },
+    "Force_JavaScript": {
+        "message": "JavaScript を強制"
+    },
+    "Force_Raw": {
+        "message": "Raw を強制"
+    },
     "Found_0count0_available_scripts": {
         "message": "$count$ 件のスクリプトを利用できます",
         "placeholders": {
@@ -662,6 +769,12 @@
     },
     "GoTo": {
         "message": "移動"
+    },
+    "Google": {
+        "message": "Google"
+    },
+    "Google_Drive": {
+        "message": "Google Drive"
     },
     "Help": {
         "message": "ヘルプ"
@@ -704,6 +817,14 @@
     },
     "Import_from_file": {
         "message": "ファイルからインポート"
+    },
+    "Import_remote_script_0uuid0": {
+        "message": "リモート スクリプト ($uuid$) をインポート",
+        "placeholders": {
+            "uuid": {
+                "content": "$1"
+            }
+        }
     },
     "Imported": {
         "message": "インポート済み"
@@ -794,6 +915,9 @@
     "Invalid_UserScript_name__Sry_": {
         "message": "UserScript 名が無効です。すみません!"
     },
+    "JavaScript_and_DOM": {
+        "message": "JavaScript+DOM"
+    },
     "Join_Lines": {
         "message": "行を連結"
     },
@@ -844,6 +968,17 @@
     },
     "Login": {
         "message": "ログイン"
+    },
+    "Lookup_remote_script_0uuid0": {
+        "message": "リモート スクリプト ($uuid$) を検索",
+        "placeholders": {
+            "uuid": {
+                "content": "$1"
+            }
+        }
+    },
+    "Lookup_remote_script_list": {
+        "message": "リモート スクリプト一覧を検索"
     },
     "Lower_Case": {
         "message": "小文字に変換"
@@ -944,6 +1079,9 @@
     "On_Click": {
         "message": "クリックしたとき"
     },
+    "OneDrive": {
+        "message": "OneDrive"
+    },
     "One_error_or_hint_was_found_": {
         "message": "1つのエラーまたはヒントが見つかりました。"
     },
@@ -1015,6 +1153,12 @@
     "Process_with_Chrome": {
         "message": "ブラウザーで処理"
     },
+    "Raw_and_JavaScript": {
+        "message": "Raw と JavaScript"
+    },
+    "DOM_mode_is_unsecure__Scripts_can_install_new_scripts_": {
+        "message": "「DOM」サンドボックス モードはセキュアではありません。実行中の UserScript には拡張機能のほぼ完全な権限があり、UserScript を変更/新規インストールすることもさえできます。"
+    },
     "Really_delete_0name0__": {
         "message": "「$name$」を削除してよろしいですか?",
         "placeholders": {
@@ -1041,6 +1185,9 @@
     "Really_restore_all_userscripts_": {
         "message": "UserScript をすべて復元してよろしいですか?"
     },
+    "Recent_Sync_Log": {
+        "message": "Recent Sync Log"
+    },
     "Redo": {
         "message": "やり直し"
     },
@@ -1061,6 +1208,28 @@
     },
     "Remove__possibly_unsecure_": {
         "message": "完全に除去 (おそらくセキュアではありません)"
+    },
+    "Remove_local_script_0name0_0uuid0": {
+        "message": "ローカル スクリプト「$name$」($uuid$) を除去",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Remove_remote_script_0name0_0uuid0": {
+        "message": "リモート スクリプト「$name$」($uuid$) を除去",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
     },
     "Replace": {
         "message": "置換"
@@ -1116,6 +1285,9 @@
     "Running_scripts": {
         "message": "実行中のスクリプトのインスタンス数"
     },
+    "Sandbox_Mode": {
+        "message": "サンドボックス モード"
+    },
     "Save": {
         "message": "保存"
     },
@@ -1132,6 +1304,9 @@
     },
     "Script_Blacklist_Source": {
         "message": "UserScript ブラックリストの情報源"
+    },
+    "Script_Include_Mode": {
+        "message": "UserScript @include モード"
     },
     "Script_Sync": {
         "message": "UserScript 同期"
@@ -1475,8 +1650,14 @@
     "Trace": {
         "message": "トレース"
     },
+    "Trash": {
+        "message": "🗑"
+    },
     "Trash_Mode": {
         "message": "ごみ箱モード"
+    },
+    "Treat_like__match": {
+        "message": "@match と同様に扱う"
     },
     "Trigger_Update": {
         "message": "更新を引き起こす"
@@ -1489,6 +1670,12 @@
     },
     "Type": {
         "message": "種類"
+    },
+    "URL": {
+        "message": "URL"
+    },
+    "UUID": {
+        "message": "UUID"
     },
     "Unable_to_load_script_from_url_0url0": {
         "message": "URL からスクリプトを読み込めません: \n $url$",
@@ -1529,6 +1716,9 @@
             }
         }
     },
+    "Unsafe": {
+        "message": "安全ではない"
+    },
     "Update": {
         "message": "更新"
     },
@@ -1544,6 +1734,17 @@
     "Update_interval": {
         "message": "更新間隔"
     },
+    "Update_local_script_0name0_0uuid0": {
+        "message": "ローカル スクリプト「$name$」($uuid$) を更新",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
     "Updated_to__0version0": {
         "message": "$version$ に更新しました",
         "placeholders": {
@@ -1557,6 +1758,9 @@
     },
     "Upper_Case": {
         "message": "大文字に変換"
+    },
+    "UserScripts_API": {
+        "message": "UserScript API"
     },
     "User_domain_blacklist": {
         "message": "ユーザーによるドメイン ブラックリスト"
@@ -1585,6 +1789,26 @@
     "Userscripts": {
         "message": "UserScript"
     },
+    "Using__include_is_potentially_unsafe_and_may_be_obsolete_soon___0off0_disables__include_completely__0match0__is_safe__but_may_not_compatible_the_script_developers_intention__0unsafe0__mostly_keeps_the_legacy_behavior_0default0__means__0used_default0": {
+        "message": "@include の使用は潜在的に安全ではなく、2023年初頭のマニフェスト v3 では廃止される可能性があります。この設定は、@include が解釈される方法を構成できるようにします。「$off$」は @include を完全に無効にし、「$match$」は安全ですが、スクリプト開発者の意図と互換性がない場合があります。「$unsafe$」はレガシーな動作をほとんど維持し、「$default$」は今のところ「$used_default$」を意味します。",
+        "placeholders": {
+            "off": {
+                "content": "$1"
+            },
+            "match": {
+                "content": "$2"
+            },
+            "unsafe": {
+                "content": "$3"
+            },
+            "default": {
+                "content": "$4"
+            },
+            "used_default": {
+                "content": "$5"
+            }
+        }
+    },
     "Utilities": {
         "message": "ユーティリティ"
     },
@@ -1603,6 +1827,9 @@
     "View": {
         "message": "閲覧"
     },
+    "Vim": {
+        "message": "Vim"
+    },
     "Waiting_for_sync_to_finish": {
         "message": "同期の完了を待機中"
     },
@@ -1611,6 +1838,9 @@
     },
     "Warning_unsafe_site_warnings_might_appear_": {
         "message": "警告: スクリプトに潜在的に危険なURLが含まれていると、安全でないサイトの警告が表示されることがあります。"
+    },
+    "WebDAV": {
+        "message": "WebDAV"
     },
     "Whitelist": {
         "message": "ホワイトリスト"
@@ -1621,8 +1851,14 @@
     "Whitelisted_Pages": {
         "message": "ページのホワイトリスト"
     },
+    "Windows": {
+        "message": "Windows"
+    },
     "XHR_Security": {
         "message": "XHRセキュリティ"
+    },
+    "Yandex_Disk": {
+        "message": "Yandex.Disk"
     },
     "Yes": {
         "message": "はい"
@@ -1680,6 +1916,30 @@
     },
     "severity_10": {
         "message": "10 (セキュア度最小)"
+    },
+    "severity_2": {
+        "message": "2"
+    },
+    "severity_3": {
+        "message": "3"
+    },
+    "severity_4": {
+        "message": "4"
+    },
+    "severity_5": {
+        "message": "5"
+    },
+    "severity_6": {
+        "message": "6"
+    },
+    "severity_7": {
+        "message": "7"
+    },
+    "severity_8": {
+        "message": "8"
+    },
+    "severity_9": {
+        "message": "9"
     },
     "some_secs": {
         "message": "数"
