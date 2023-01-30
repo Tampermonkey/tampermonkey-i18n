@@ -272,7 +272,7 @@
         "message": "自动刷新页面"
     },
     "Auto_reload_on_script_enabled_desc": {
-        "message": "脚本被启用/禁用时重新载入受影响页面"
+        "message": "脚本被启用/禁用时刷新受影响页面"
     },
     "Auto_syntax_check_max_length": {
         "message": "自动语法检查最大长度"
@@ -281,7 +281,7 @@
         "message": "输入时自动检查语法"
     },
     "Automatically_added_user_includes_for_compatibility_reasons_": {
-        "message": "某些用户包含出于兼容原因而添加!"
+        "message": "出于兼容原因已自动添加部分用户 include!"
     },
     "Beginner": {
         "message": "初学者"
@@ -460,6 +460,9 @@
     "Default_Light": {
         "message": "默认 - 亮色"
     },
+    "Default_tab_types_to_run_scripts_in": {
+        "message": "默认的执行脚本的标签类型"
+    },
     "Delete": {
         "message": "删除"
     },
@@ -498,9 +501,6 @@
     },
     "Details": {
         "message": "详情"
-    },
-    "Default_tab_types_to_run_scripts_in": {
-        "message": "默认的执行脚本的标签类型"
     },
     "Developer": {
         "message": "开发者"
@@ -579,7 +579,7 @@
         "message": "启用加强版编辑器"
     },
     "Enable_Script_Sync": {
-        "message": "启用 TESLA"
+        "message": "启用脚本同步"
     },
     "Enable_autoSave": {
         "message": "编辑器失去焦点时保存内容"
@@ -1247,7 +1247,7 @@
         "message": "脚本顺序"
     },
     "Scripts_activated_by_context_menu": {
-        "message": "使用 @run-at 上下文菜单的用户脚本"
+        "message": "使用 @run-at context-menu 的用户脚本"
     },
     "Search": {
         "message": "搜索"
@@ -1384,7 +1384,7 @@
         "message": "正在运行同步"
     },
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
-        "message": "脚本同步（Tampermonkey 外部脚本列表访问）"
+        "message": "在不同的操作系统和浏览器间同步你的脚本"
     },
     "TabMode": {
         "message": "标签类型"
@@ -1478,13 +1478,13 @@
         }
     },
     "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
-        "message": "此外部资源将不会自动更新! 请删除它以启用再次更新。"
+        "message": "此外部资源将不会自动更新! 请删除它以重新启用更新。"
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
         "message": "这将给予此脚本在所有页面接收和发送数据的权限。这可能不安全！\n\n您确定要继续吗？"
     },
     "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
-        "message": "警告：此脚本的源无法确定。\n可能是被恶意的第三方安装以盗取您的私有数据或者基础的浏览器数据，您的操作系统或者硬件可能已被改变！\n当前修改会启功此脚本！"
+        "message": "警告：无法确定此脚本来源。\n可能该脚本是恶意的第三方为盗取您的私密数据所安装。或者是浏览器的基础设置、您的操作系统或者硬件发生了变动！\n当前修改会启功此脚本！"
     },
     "This_is_a_system_script": {
         "message": "此脚本为系统级脚本。"
@@ -1502,7 +1502,7 @@
         "message": "此脚本没有提供任何 @include 信息。"
     },
     "This_script_does_not_require_any_special_powers_": {
-        "message": "该脚本无需额外的特性支持"
+        "message": "该脚本不需要特殊权限"
     },
     "This_script_has_access_to_https_pages": {
         "message": "此脚本能访问 https 页面。"
