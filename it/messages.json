@@ -120,6 +120,9 @@
     "Add": {
         "message": "Aggiungi"
     },
+    "Add_GM_functions_to_this_or_window": {
+        "message": "Aggiungi funzioni GM a questa o finestra"
+    },
     "Add_Selection_Above": {
         "message": "Aggiungi selezione soprastante"
     },
@@ -149,6 +152,9 @@
     "Advanced": {
         "message": "Avanzata"
     },
+    "All": {
+        "message": "Tutti"
+    },
     "All_local_files": {
         "message": "Tutti i file locali"
     },
@@ -162,7 +168,7 @@
         "message": "Tutte le schede"
     },
     "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-        "message": "Permette a Tampermonkey di collezionare statistiche anonime tramite Google Analytics. Questo aiuta l'autore di Tamperminkey a migliorarlo e a determinare su quali criteri concentrare lo sviluppo. Se non ti piace, basta disabilitarlo."
+        "message": "Permette a Tampermonkey di collezionare statistiche anonime tramite Google Analytics.\nQuesto aiuta l'autore di Tamperminkey a migliorarlo e a determinare su quali criteri concentrare lo sviluppo.\nSe non ti piace, basta disabilitarlo."
     },
     "Allow_communication_with_cooperate_pages": {
         "message": "Permetti comunicazione con pagine cooperative"
@@ -409,6 +415,15 @@
     "Config_Mode": {
         "message": "Modo configurazione"
     },
+    "Configures_which_sandbox_values_are_valid": {
+        "message": "Configura quali valori @sandbox sono validi"
+    },
+    "Content_Script": {
+        "message": "Script contenuti"
+    },
+    "Content_Script_API": {
+        "message": "API script contenuto"
+    },
     "Context_Menu": {
         "message": "Menu contestuale"
     },
@@ -596,6 +611,14 @@
     "Enabled": {
         "message": "Abilitato"
     },
+    "Enabling_this_makes_it_easy_for_scripts_to_leak_it_s_granted_powers_to_the_page_Therefore__off__is_the_safest_option_": {
+        "message": "Abilitando questo rende molto facile per gli script utente garantirsi i diritti concessi alla pagina.\nPertanto \"$off$\" è l'opzione più sicura, ma potrebbe causare problemi di compatibilità.",
+        "placeholders": {
+            "off": {
+                "content": "$1"
+            }
+        }
+    },
     "Enforce": {
         "message": "Forza"
     },
@@ -639,6 +662,39 @@
     },
     "Export": {
         "message": "Esporta"
+    },
+    "Export_script_0name0_0uuid0": {
+        "message": "Esporta script \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Export_script_meta_data_of_0name0": {
+        "message": "Esporta meta dati script di \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Export_script_source_of_0name0": {
+        "message": "Esporta sorgente script di \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
     },
     "Externals": {
         "message": "Esterni"
@@ -699,6 +755,15 @@
     },
     "Forbid_once": {
         "message": "Vieta una volta"
+    },
+    "Force_DOM": {
+        "message": "Forza DOM"
+    },
+    "Force_JavaScript": {
+        "message": "Forza JavaScript"
+    },
+    "Force_Raw": {
+        "message": "Forza Raw"
     },
     "Found_0count0_available_scripts": {
         "message": "Trovati $count$ script disponibili",
@@ -786,6 +851,14 @@
     "Import_from_file": {
         "message": "Importa"
     },
+    "Import_remote_script_0uuid0": {
+        "message": "Importa script remoto ($uuid$)",
+        "placeholders": {
+            "uuid": {
+                "content": "$1"
+            }
+        }
+    },
     "Imported": {
         "message": "Importato"
     },
@@ -843,7 +916,7 @@
         "message": "Informazione"
     },
     "Inject_Mode": {
-        "message": "modo inserimento"
+        "message": "Modo inserimento"
     },
     "Insert_Line_After": {
         "message": "Inserisci linea dopo"
@@ -874,6 +947,9 @@
     },
     "Invalid_UserScript_name__Sry_": {
         "message": "Nome script non valido."
+    },
+    "JavaScript_and_DOM": {
+        "message": "JavaScript+DOM"
     },
     "Join_Lines": {
         "message": "Unisci linee"
@@ -925,6 +1001,17 @@
     },
     "Login": {
         "message": "Accedi"
+    },
+    "Lookup_remote_script_0uuid0": {
+        "message": "Cerca script remoto ($uuid$)",
+        "placeholders": {
+            "uuid": {
+                "content": "$1"
+            }
+        }
+    },
+    "Lookup_remote_script_list": {
+        "message": "Cerca nell'elenco script remoti"
     },
     "Lower_Case": {
         "message": "Minuscolo"
@@ -1029,10 +1116,10 @@
         "message": "OneDrive"
     },
     "One_error_or_hint_was_found_": {
-        "message": "Uno o più hit trovati."
+        "message": "Uno o più errori o hit trovati."
     },
     "One_or_more_compatibility_options_are_set": {
-        "message": "Sono attive una o più opzioni di compatibilità. Potresti/dovresti controllarle."
+        "message": "Sono attive una o più opzioni di compatibilità.\nPotresti/dovresti controllarle."
     },
     "Only_Manual": {
         "message": "Solo manuale"
@@ -1099,6 +1186,12 @@
     "Process_with_Chrome": {
         "message": "Elabora con il browser"
     },
+    "Raw_and_JavaScript": {
+        "message": "Raw and JavaScript"
+    },
+    "DOM_mode_is_unsecure__Scripts_can_install_new_scripts_": {
+        "message": "Il modo sandbox \"DOM\" non è sicuro.\nGli script utente in esecuzione hanno autorizzazioni di estensione quasi complete e possono persino modificare e installare nuovi script utente."
+    },
     "Really_delete_0name0__": {
         "message": "Vuoi davvero eliminare '$name$'?",
         "placeholders": {
@@ -1125,6 +1218,9 @@
     "Really_restore_all_userscripts_": {
         "message": "Vuoi veramente ripristinare tutti gli script utente?"
     },
+    "Recent_Sync_Log": {
+        "message": "Registro sincronizzazione recente"
+    },
     "Redo": {
         "message": "Riapplica modifica"
     },
@@ -1145,6 +1241,28 @@
     },
     "Remove__possibly_unsecure_": {
         "message": "Rimuovi interamente (possibile non sicuro)"
+    },
+    "Remove_local_script_0name0_0uuid0": {
+        "message": "Rimuovi script locale \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Remove_remote_script_0name0_0uuid0": {
+        "message": "Rimuovi script remoto \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
     },
     "Replace": {
         "message": "Sostituisci"
@@ -1200,6 +1318,9 @@
     "Running_scripts": {
         "message": "Istanze script in esecuzione"
     },
+    "Sandbox_Mode": {
+        "message": "Modo sandbox"
+    },
     "Save": {
         "message": "Salva"
     },
@@ -1216,6 +1337,9 @@
     },
     "Script_Blacklist_Source": {
         "message": "Sorgente elenco vietati script"
+    },
+    "Script_Include_Mode": {
+        "message": "Modo script utente @include"
     },
     "Script_Sync": {
         "message": "Sincronizzazione script"
@@ -1470,7 +1594,7 @@
         "message": "Ci sono modifiche non salvate.\nVuoi davvero chiudere l'editor?"
     },
     "There_is_an_update_for_0name0_avaiable_": {
-        "message": "È disponibile un aggiornamento per '$name$'. :)",
+        "message": "È disponibile un aggiornamento per '$name$':)",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1583,6 +1707,9 @@
     "Trash_Mode": {
         "message": "Modo Cestino"
     },
+    "Treat_like__match": {
+        "message": "Tratta come @match"
+    },
     "Trigger_Update": {
         "message": "Esegui aggiornamento"
     },
@@ -1640,6 +1767,9 @@
             }
         }
     },
+    "Unsafe": {
+        "message": "Non sicuro"
+    },
     "Update": {
         "message": "Aggiorna"
     },
@@ -1655,6 +1785,17 @@
     "Update_interval": {
         "message": "Intervallo aggiornamento"
     },
+    "Update_local_script_0name0_0uuid0": {
+        "message": "Aggiorna script locale \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
     "Updated_to__0version0": {
         "message": "Aggiornato a: $version$",
         "placeholders": {
@@ -1668,6 +1809,9 @@
     },
     "Upper_Case": {
         "message": "Maiuscolo"
+    },
+    "UserScripts_API": {
+        "message": "API script utente"
     },
     "User_domain_blacklist": {
         "message": "Elenco utente domini vietati"
@@ -1695,6 +1839,26 @@
     },
     "Userscripts": {
         "message": "Script"
+    },
+    "Using__include_is_potentially_unsafe_and_may_be_obsolete_soon___0off0_disables__include_completely__0match0__is_safe__but_may_not_compatible_the_script_developers_intention__0unsafe0__mostly_keeps_the_legacy_behavior_0default0__means__0used_default0": {
+        "message": "L'uso di @include è potenzialmente pericoloso e potrebbe essere obsoleto in Manifest v3 all'inizio del 2023.\nQuesta impostazione consente di configurare il modo in cui viene interpretato @include.\n'$off$' disabilita completamente @include, '$match$' è sicuro, ma potrebbe non essere compatibile con le intenzioni degli sviluppatori dello script.\n'$unsafe$' mantiene principalmente il comportamento precedente e '$default$' significa per ora '$used_default$'.",
+        "placeholders": {
+            "off": {
+                "content": "$1"
+            },
+            "match": {
+                "content": "$2"
+            },
+            "unsafe": {
+                "content": "$3"
+            },
+            "default": {
+                "content": "$4"
+            },
+            "used_default": {
+                "content": "$5"
+            }
+        }
     },
     "Utilities": {
         "message": "Utilità"
