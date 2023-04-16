@@ -97,8 +97,8 @@
     "All_script_settings_will_be_reset_": {
         "message": "सभी स्क्रिप्ट सेटिंग्स को रीसेट कर दिया जाएगा!"
     },
-    "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-        "message": "Tampermonkey को गूगल एनालिटिक्स के माध्यम से अज्ञात आंकड़े एकत्रित करने की अनुमति दें। यह मुझे Tampermonkey में सुधार करने और अपने विकास पर ध्यान केंद्रित करने के लिए मापदंड निर्धारित करने में मदद करता है। अगर आप इसे नापसंद करते हैं तो बस इसे निष्क्रिय करें ।"
+    "Allow_Tampermonkey_to_collect_anonymous_statistics": {
+        "message": "Tampermonkey को स्व-होस्ट किए गए Matomo इंस्टालेशन के माध्यम से अनाम आँकड़े एकत्र करने की अनुमति दें। यह मुझे Tampermonkey में सुधार करने और अपने विकास पर ध्यान केंद्रित करने के लिए मापदंड निर्धारित करने में मदद करता है। अगर आप इसे नापसंद करते हैं तो बस इसे निष्क्रिय करें ।"
     },
     "Allow_communication_with_cooperate_pages": {
         "message": "सहयोगी पेज के साथ संचार की अनुमति दें"

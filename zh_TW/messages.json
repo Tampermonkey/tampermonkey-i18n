@@ -161,8 +161,8 @@
     "All_tabs": {
         "message": "所有分頁"
     },
-    "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-        "message": "允許 Tampermonkey 透過 Google Analytics（分析）蒐集匿名統計資料。這能協助我們改進 Tampermonkey 並決定開發的重點策略。若您不喜歡可將其關閉。"
+    "Allow_Tampermonkey_to_collect_anonymous_statistics": {
+        "message": "允許 Tampermonkey 通過自託管的 Matomo 安裝收集匿名統計信息。這能協助我們改進 Tampermonkey 並決定開發的重點策略。若您不喜歡可將其關閉。"
     },
     "Allow_communication_with_cooperate_pages": {
         "message": "允許透過協作頁面通訊"

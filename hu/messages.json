@@ -63,8 +63,8 @@
     "All_script_settings_will_be_reset_": {
         "message": "Minden szkript beállítás visszaállításra fog kerülni!"
     },
-    "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-        "message": "Engedélyezem, hogy a Tampermonkey névtelen statisztikai adatokat gyűjtsön a Google Analytics-en keresztül. Ez segíti a Tampermonkey javítását és a döntésemet abban, hogy a Tampermonkey-t milyen kritériák alapján fejlesszem. Kapcsold ki, ha ez nem tetszik."
+    "Allow_Tampermonkey_to_collect_anonymous_statistics": {
+        "message": "Engedélyezze Tampermonkey névtelen statisztikák gyűjtését egy saját üzemeltetésű Matomo telepítésen keresztül. Ez segíti a Tampermonkey javítását és a döntésemet abban, hogy a Tampermonkey-t milyen kritériák alapján fejlesszem. Kapcsold ki, ha ez nem tetszik."
     },
     "Allow_headers_to_be_modified_by_scripts": {
         "message": "HTTP fejlécek szkript általi módosításának engedélyezése"

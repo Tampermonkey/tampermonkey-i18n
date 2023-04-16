@@ -122,8 +122,8 @@
     "All_script_settings_will_be_reset_": {
         "message": "Tất cả thiết đặt tập lệnh sẽ được đặt lại!"
     },
-    "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-        "message": "Cho phép Tampermonkey thu thập các thống kê ẩn danh thông qua Google Analytics. Nó sẽ giúp tôi cải thiện Tampermonkey và xác định những mục tiêu mà tôi nên tập trung vào phát triển. Chỉ tắt đi nếu bạn không thích."
+    "Allow_Tampermonkey_to_collect_anonymous_statistics": {
+        "message": "Cho phép Tampermonkey thu thập dữ liệu ẩn danh thông qua cài đặt Matomo tự lưu trữ. Nó sẽ giúp tôi cải thiện Tampermonkey và xác định những mục tiêu mà tôi nên tập trung vào phát triển. Chỉ tắt đi nếu bạn không thích."
     },
     "Allow_communication_with_cooperate_pages": {
         "message": "Cho phép giao tiếp với các trang cộng tác."

@@ -1,0 +1,1171 @@
+extDescription:
+  message: Verändere das Web mit Userscripts nach deinen Wünschen
+0count0_changes_exported:
+  message: $count$ Änderung(en) exportiert
+  placeholders:
+    count:
+      content: $1
+0count0_changes_imported:
+  message: $count$ Änderung(en) importiert
+  placeholders:
+    count:
+      content: $1
+0count0_errors_or_hints_were_found_:
+  message: Es wurden $count$ Syntax-Fehler gefunden.
+  placeholders:
+    count:
+      content: $1
+0name0_0version0_is_available__Please_re_start_your_browser_to_update_:
+  message: |-
+    $name$ $version$ ist verfügbar.
+    Bitte starten sie für die Aktualisierung den Browser neu!
+  placeholders:
+    name:
+      content: $1
+    version:
+      content: $2
+15_Seconds:
+  message: 15 Sekunden
+1_Hour:
+  message: 1 Stunde
+30_Seconds:
+  message: 30 Sekunden
+5_Minutes:
+  message: 5 Minuten
+A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_:
+  message: Bitte überprüfen Sie die GreaseMonkey/FF Kompatibilitäts-Optionen, um
+    Fehler im Userscript zu vermeiden.
+A_reload_is_required:
+  message: |-
+    Der Tab muss neu geladen werden:
+    Alle ungespeicherten Änderungen gehen verloren!
+A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_:
+  message: >-
+    Es ist nichts Ungewöhnliches, wenn ein Userscript domänenübergreifende
+    Zugriffe ausführt.
+
+    Sie sollten lediglich überlegen, ob dieses Userscript Zugriff auf die oben genannte Domain benötigt.
+
+    Ein Zugriff z.B. auf die Web-Seite ihrer Bank ist wahrscheinlich nur seltenen Fällen nötig.
+
+
+    Userscript-Autoren sollten beachten, dass dieser Dialog durch das Hinzufügen von [url=$connect$]@connect Anweisungen[/url] fast immer vermieden werden kann.
+
+
+    Egal wie Sie nun entscheiden: Sie können Ihre Meinung jederzeit auf der [url=$settings$]Einstellungsseite[/url] dieses Userscripts ändern.
+  placeholders:
+    connect:
+      content: $1
+    settings:
+      content: $2
+A_userscript_wants_to_access_a_cross_origin_resource_:
+  message: Ein Userscript möchte eine fremde Ressource laden.
+Aborted_by_user:
+  message: Die Aktion wurde durch den Nutzer abgebrochen
+Action:
+  message: Aktion
+Action_Menu:
+  message: Aktionsmenü
+Action_failed:
+  message: Aktion fehlgeschlagen
+Actions:
+  message: Aktionen
+Add:
+  message: Hinzufügen
+Add_GM_functions_to_this_or_window:
+  message: GM-API an das "this"- oder "window"-Objekt binden
+Add_TM_to_CSP:
+  message: Modifikation empfangener Content-Security-Policy-Header (CSP)
+Add_Tampermonkey_to_the_site_s_content_csp:
+  message: Tampermonkey zur Content Security Policy (CSP) im Quelltext hinzufügen
+Add_as_0clude0:
+  message: Regel als $clude$ behandeln
+  placeholders:
+    clude:
+      content: $1
+Add_new_script___:
+  message: Neues Userscript erstellen
+Add_to_icon_badge_text:
+  message: Als Icon-Information
+Advanced:
+  message: Experte
+All:
+  message: Alle
+All_local_files:
+  message: Alle lokalen Dateien
+All_modifications_are_only_kept_until_this_incognito_session_is_closed_:
+  message: Alle Änderungen werden nur behalten, bis der Inkognito-Modus beendet wird!
+All_script_settings_will_be_reset_:
+  message: Alle Userscript-Einstellungen werden zurückgesetzt!
+All_tabs:
+  message: Alle Arten von Tabs
+Allow_Tampermonkey_to_collect_anonymous_statistics:
+  message: Tampermonkey erlauben, anonyme Statistiken mit Hilfe einer selbst
+    gehosteten Matomo-Installation zu sammeln. Das hilft mir Tampermonkey zu
+    verbessern und den Fokus auf wichtige Entwicklungen zu setzen.
+Allow_communication_with_cooperate_pages:
+  message: Kommunikation mit kooperierenden Web-Seiten erlauben
+Allow_headers_to_be_modified_by_scripts:
+  message: Modifikation der HTTP-Header durch Userscripte erlauben
+Allow_once:
+  message: Einmal erlauben
+Always:
+  message: Immer
+Always_allow:
+  message: Immer erlauben
+Always_allow_all_domains:
+  message: Alle Domains immer erlauben
+Always_allow_domain:
+  message: Diese Domain immer erlauben
+Always_ask:
+  message: Immer nachfragen
+Always_forbid:
+  message: Immer verbieten
+Always_forbid_domain:
+  message: Diese Domain immer verbieten
+An_error_occured_during_import_:
+  message: Während des Imports ist ein Fehler aufgetreten.
+An_internal_error_occured_Do_you_want_to_visit_the_forum_:
+  message: >-
+    Ein interner Fehler ist aufgetreten. Bitte melden Sie dieses Problem im
+    Tampermonkey-Forum, falls es auch nach einem Neustart des Browsers weiterhin
+    besteht.
+
+
+    Wollen Sie das Forum jetzt besuchen?
+Anonymous_statistics:
+  message: Anonyme Statistiken
+Antifeature__0name0__0description0:
+  message: "Enthält $name$: $description$"
+  placeholders:
+    name:
+      content: $1
+    description:
+      content: $2
+Antifeature_ads:
+  message: Werbung
+Antifeature_miner:
+  message: ein Programm zum Schürfen von Cryptowährungen
+Antifeature_no_details:
+  message: Es wurden keine Details angegeben
+Antifeature_other:
+  message: ein anderes Antifeature
+Antifeature_tracking:
+  message: einen Tracking-Mechanismum
+Appearance:
+  message: Aussehen
+Apply_compatibility_options_to_required_script_too:
+  message: Anwenden der Kompatibilitätsoptionen auf @require-Scripte
+Apply_this_action_to_the_selected_scripts:
+  message: Die gewählte Aktion auf alle markierten Userscripte anwenden
+Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_:
+  message: >-
+    Der Browser startet die Tampermonkey-Erweiterung neu, wenn sie
+    aktualiert wurde. Das kann zu Problemen bei aktuell laufenden Userscripten
+    führen.!
+
+
+    Soll wirklich keine Meldung bei einem Update angezeigt werden?
+Ask_if_unknown:
+  message: Nachfragen
+At_least_one_new_connect_statement_was_added_:
+  message: Mindestens eine @connect-Anweisung wurde hinzugefügt.
+At_least_one_of_the_include_match_or_exclude_statements_was_changed_:
+  message: Mindestens eine der @include-, @match- oder @exclude-Anweisungen wurde
+    modifiziert.
+At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_:
+  message: Mindestens ein Teil der Seite ist in der „Verbotene Seiten“-Einstellung
+    gelistet
+Attention_Can_not_display_all_excludes_:
+  message: |-
+    Achtung: Es werden nicht alle Seiten angezeigt!
+    Bitte manuell prüfen.
+Attention_Can_not_display_all_includes_:
+  message: |-
+    Achtung: Es werden nicht alle Seiten angezeigt!
+    Bitte manuell prüfen.
+Author:
+  message: Autor
+Auto:
+  message: Automatisch
+Auto_Indent_all:
+  message: Automatische Einrückung
+Auto_reload_on_script_enabled:
+  message: Automatisches Seiten-Neu-Laden
+Auto_reload_on_script_enabled_desc:
+  message: Betroffene Seiten neu laden, wenn ein Userscript an- oder ausgeschaltet
+    wurde.
+Auto_syntax_check_max_length:
+  message: Längenbeschränkung für die automatischen Syntax-Überprüfung
+Auto_syntax_check_on_typing:
+  message: Automatische Syntax-Überprüfung
+Automatically_added_user_includes_for_compatibility_reasons_:
+  message: Es wurden aus Kompatibilitätsgründen einige Benutzer-Includes eingefügt.
+Beginner:
+  message: Fortgeschritten
+Blacklist:
+  message: Negativliste
+Blacklist_0domain0:
+  message: Keine Userscript-Ausführung auf $domain$
+  placeholders:
+    domain:
+      content: $1
+Blacklist_Severity:
+  message: Ab dieser Gefährdungsstufe blockieren
+Blacklisted_Pages:
+  message: Negativliste
+Both:
+  message: Beide
+Browser_API:
+  message: Browser-API
+CONFLICT__This_script_was_modified_0t0_seconds_ago_:
+  message: >-
+    KONFLIKT:
+
+    Dieses Userscript wurde vor $t$ Sekunde(n) von einem anderen Tab gespeichert!
+  placeholders:
+    t:
+      content: $1
+Cancel:
+  message: Abbrechen
+Casual:
+  message: Locker
+Changelog:
+  message: Änderungen
+Changes:
+  message: Änderungen
+Changes_the_number_of_visible_config_options:
+  message: Ändert die Anzahl der einstellbaren Optionen
+Check_disabled_scripts:
+  message: Deaktivierte Userscripte aktualisieren
+Check_for_Updates:
+  message: Nach Updates suchen
+Check_for_userscripts_updates:
+  message: Userscripte auf Updates prüfen
+Check_only_scripts_up_to_this_size_automatically_:
+  message: Userscripte werden nur bis zu dieser Länge automatisch überprüft.
+Clean_after_session:
+  message: Nach der Sitzung leeren
+Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0:
+  message: >-
+    Klicken Sie bitte OK um Tampermonkey Zugriff auf folgende Seiten zu
+    gewähren:
+
+
+    $host_list$
+  placeholders:
+    host_list:
+      content: $1
+Click_here_to_allow_TM_to_start_downloads:
+  message: Ein Klick auf 'OK' erlaubt Tampermonkey bzw. den Userscripts sofort
+    startende Downloads.
+Click_here_to_install_it_:
+  message: Klicken Sie hier, um es zu installieren.
+Click_here_to_move_this_script:
+  message: Klicken Sie hier, um das Userscript zu verschieben
+Click_here_to_see_the_recent_changes:
+  message: Klicken Sie hier, um die aktuellen Änderungen zu sehen
+Close:
+  message: Schließen
+Columns:
+  message: Spalten
+Comment:
+  message: Kommentar
+Config_Mode:
+  message: Konfigurations-Modus
+Configures_which_sandbox_values_are_valid:
+  message: Konfiguriert welche @sandbox Werte gültig sind
+Content_Script:
+  message: Content-Script
+Content_Script_API:
+  message: Content-Script-API
+Context_Menu:
+  message: Context Menü
+Convert_CDATA_sections_into_a_chrome_compatible_format:
+  message: CDATA-Abschnitte in ein Browser-kompatibles Format konvertieren
+Cross_Origin_Request_Permission:
+  message: Berechtigung für domänenübergreifenden Zugriff
+Current_Version:
+  message: Aktuelle Version
+Custom_CSS:
+  message: Benutzerdefinierte CSS-Anweisungen
+Custom_Linter_Config:
+  message: Benutzerdefinierte Linter-Konfiguration
+Dashboard:
+  message: Übersicht
+Debug:
+  message: Fehlersuche
+Debug_scripts:
+  message: Userscript-Debugger aktivieren
+Decoding:
+  message: Dekodiere...
+Default:
+  message: Standard
+Default_Dark:
+  message: Standard - Dunkel
+Default_Darker:
+  message: Standard - Dunkler
+Default_Light:
+  message: Standard - Hell
+Default_tab_types_to_run_scripts_in:
+  message: Art der Tabs in denen Scripts standardmäßig ausgeführt werden
+Delete:
+  message: Löschen
+Delete_all:
+  message: Alle löschen
+Deleted_on:
+  message: Gelöscht am
+Description:
+  message: Beschreibung
+Destination_URL:
+  message: Anfrageziel-URL
+Destination_domain:
+  message: Anfrageziel-Domain
+Disable:
+  message: Deaktivieren
+Disabled:
+  message: Deaktiviert
+Do_you_really_want_to_store_fixed_code_:
+  message: |-
+    Die Option '$option$' ist aktiviert!
+
+    Möchten Sie wirklich den von TM modifizierten Quellcode speichern?
+  placeholders:
+    option:
+      content: $1
+Does_not_run_in_incognito_tabs:
+  message: Wird nicht in Inkognito-Tabs ausgeführt
+Dont_ask_again:
+  message: Nicht mehr nachfragen
+Dont_ask_me_for_simple_script_updates:
+  message: Einfache Userscript-Updates ohne Nachfrage installieren
+DOM_mode_is_unsecure__Scripts_can_install_new_scripts_:
+  message: Der Sandbox-Modus "DOM" ist unsicher. Alle ausgeführten Userscripts
+    haben beinahe alle Berechtigungen der Browser-Erweiterung und können auch
+    Userscripts modifizieren und neue installieren.
+Download_Mode:
+  message: Download-Modus
+Downloaded_from_0url0:
+  message: "Heruntergeladen von: $url$"
+  placeholders:
+    url:
+      content: $1
+Edit:
+  message: Bearbeiten
+Editor_reset:
+  message: Editor zurücksetzen
+Enable:
+  message: Aktivieren
+Enable_Editor:
+  message: Erweiterten Editor aktivieren
+Enable_Script_Sync:
+  message: Userscript-Synchronisierung aktivieren
+Enable_autoSave:
+  message: Automatisch speichern, wenn der Editor den Fokus verliert
+Enable_context_menu:
+  message: Context-Menü-Eintrag aktivieren
+Enable_easySave:
+  message: Speichere ohne Bestätigungsdialog
+Enable_this_option_to_automatically_check_the_code_on_typing_:
+  message: Aktivieren Sie diese Option um eine automatische Syntax-Überprüfung
+    während des Tippens durchzuführen.
+Enabled:
+  message: Aktiviert
+Enabling_this_makes_it_easy_for_scripts_to_leak_it_s_granted_powers_to_the_page_Therefore__off__is_the_safest_option_:
+  message: Wenn diese Option aktiviert ist, ist es für Userscripts sehr einfach
+    die gewährten Berechtigungen versehentlich der Webseite zur Verfügung zu
+    stellen. "$off$" ist daher die sicherste Option, kann aber zu
+    Kompatibiltätsproblemen führen.
+  placeholders:
+    off:
+      content: $1
+Enforce:
+  message: Erzwingen
+Enter_the_new_rule:
+  message: Geben Sie eine neue Regel ein
+Error:
+  message: Fehler
+Every_12_Hour:
+  message: Alle 12 Stunden
+Every_6_Hours:
+  message: Alle 6 Stunden
+Every_Day:
+  message: Jeden Tag
+Every_Hour:
+  message: Jede Stunde
+Every_Month:
+  message: Jeden Monat
+Every_Week:
+  message: Jede Woche
+Exclude_0domain0:
+  message: Excludiere $domain$
+  placeholders:
+    domain:
+      content: $1
+Experimental:
+  message: Experimente
+Export:
+  message: Exportieren
+Export_script_0name0_0uuid0:
+  message: Exportiere das Userscript "$name$" ($uuid$)
+  placeholders:
+    name:
+      content: $1
+    uuid:
+      content: $2
+Export_script_meta_data_of_0name0:
+  message: Exportiere die Userscript-Meta-Daten von  "$name$" ($uuid$)
+  placeholders:
+    name:
+      content: $1
+    uuid:
+      content: $2
+Export_script_source_of_0name0:
+  message: Exportiere den Userscript-Quellcode von "$name$" ($uuid$)
+  placeholders:
+    name:
+      content: $1
+    uuid:
+      content: $2
+Factory_Reset:
+  message: Werkseinstellungen
+Fast:
+  message: Schnell
+Favicon_Service:
+  message: Favicon-Dienst
+Features:
+  message: Funktionen
+File:
+  message: Datei
+Filter_by:
+  message: Filterkriterium
+Fix_wrappedJSObject_property_access:
+  message: Zugriffe auf das Attribut „wrappedJSObject“ beheben
+Focus_tab:
+  message: Herkunfts-Tab fokusieren
+Font_Size:
+  message: Schriftgröße
+Forbid_once:
+  message: Einmal verbieten
+Force_DOM:
+  message: Erzwinge den DOM-Modus
+Force_JavaScript:
+  message: Erzwinge den JavaScript-Modus
+Force_Raw:
+  message: Erzwinge den Raw-Modus
+Found_0count0_available_scripts:
+  message: $count$ Userscripte verfügbar
+  placeholders:
+    count:
+      content: $1
+Full_reset:
+  message: Userscript zurücksetzen
+GM_compat_options_:
+  message: GM/FF Kompatibilitäts-Optionen
+General:
+  message: Allgemein
+Get_new_scripts___:
+  message: Neue Userscripte suchen
+Get_some_scripts___:
+  message: Neue Userscripte suchen
+Global_Settings:
+  message: Globale Einstellungen
+Global_settings_import:
+  message: Import der globalen Einstellungen
+Help:
+  message: Hilfe
+Hide_disabled_scripts:
+  message: Deaktivierte Userscripte verstecken
+Hide_notification_after:
+  message: Update-Benachrichtigung ausblenden nach
+Highlight_selection_matches:
+  message: Textauswahlübereinstimmungen markieren
+Highlight_trailing_whitespace:
+  message: Leerzeichen am Ende der Zeile markieren
+I_contributed_already:
+  message: Ich habe schon beigetragen
+I_dont_want_to_contribute:
+  message: Ich möchte nichts beitragen
+Icon_badge_color:
+  message: Icon-Info-Hintergrundfarbe
+Icon_badge_info:
+  message: Icon-Information
+Icon_badge_text_color:
+  message: Icon-Info-Textfarbe
+Import:
+  message: Importieren
+Import_from_URL:
+  message: Von URL importieren
+Import_from_file:
+  message: Aus Datei importieren
+Import_remote_script_0uuid0:
+  message: Importiere das Userscript ($uuid$)
+  placeholders:
+    uuid:
+      content: $1
+Imported:
+  message: Importiert
+In_order_to_search_for_userscripts__0on_action_menu0__and__0icon_badge_number0__automatically_transfer_the_tab_s_url_to_the_search_website__0on_click0_opens_the_search_page_on_click_Please_click_at_this_icon_to_open_the_privacy_policy_:
+  message: >-
+    Im Modus "$icon_badge_number$" wir die Tab-URL automatisch an die
+    Suchseite als
+
+    Suchbegriff gesendet und das Suchergebnis am Icon angezeigt.
+
+
+    Im Modus "$on_action_menu$" wird nur gesucht, wenn das Aktionsmenü geöffnet wird.
+
+    Das Ergebnis ist dann im Aktionsmenü zu sehen.
+
+
+    Der Modus "$on_click$" öffnet die Suchseite erst nach einem Kick.
+
+    Die URL wird vorher nicht übertragen.
+
+
+    Klicken sie hier, um die Datenschutzerklärung der Suchseite zu öffnen.
+  placeholders:
+    icon_badge_number:
+      content: $1
+    on_action_menu:
+      content: $2
+    on_click:
+      content: $3
+Include_TM_settings:
+  message: Tampermonkey-Einstellungen exportieren
+Include_script_externals:
+  message: Die vom Userscript genutzten externen Ressourcen exportieren
+Include_script_storage:
+  message: Die vom Userscript gespeicherten Daten exportieren
+Incognito_tabs:
+  message: Inkognito-Tabs
+Indent_with:
+  message: Einrückung mit
+Indentation_Width:
+  message: Einrückungstiefe
+Info:
+  message: Information
+Inject_Mode:
+  message: Userscript-Injektion
+Insert_constructor:
+  message: Konstruktor einfügen
+Install:
+  message: Installieren
+Install_this_script:
+  message: Dieses Userscript installieren
+Installed_Version_:
+  message: Installierte Version
+Installed_userscripts:
+  message: Installierte Userscripte
+Invalid_UserScript__Sry_:
+  message: Ungültiges Userscript. Sorry!
+Invalid_UserScript_name__Sry_:
+  message: Ungültiger Userscript-Name. Sorry!
+JavaScript_and_DOM:
+  message: JavaScript- und DOM-Modus
+Jump_to_line:
+  message: Springe zu Zeile
+Just_another_service_provided_by_your_friendly_script_updater_:
+  message: Userscript-Updater
+Key_Mapping:
+  message: Tastenbelegung
+Language:
+  message: Sprache
+Last_updated:
+  message: Letzte Aktualisierung
+Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_:
+  message: Das Reduzieren von Laufzeit-Rechten kann Probleme beim
+    Userscript-Update, GM_xmlhttpRequest und weiteren Funktionen verursachen!
+Line_break:
+  message: Automatischer Zeilenumbruch
+Loading:
+  message: Lade...
+LogLevel:
+  message: Log-Level
+Login:
+  message: Login
+Lookup_remote_script_0uuid0:
+  message: Lade Userscript-Informationen vom Server ($uuid$)
+  placeholders:
+    uuid:
+      content: $1
+Lookup_remote_script_list:
+  message: Lade die Server-Userscript-Liste
+MIME_Type:
+  message: MIME-Typ
+Malicious_scripts_can_violate_your_privacy_:
+  message: Bösartige Userscripte können die Privatsphäre verletzen und in Ihrem
+    Namen handeln. Bitte installieren Sie nur Userscripte aus vertrauenswürdigen
+    Quellen.
+Manual_Script_Blacklist:
+  message: Manuelle Userscript- and @require-Negativliste
+Matching_URL:
+  message: Übereinstimmende URLs
+Modify:
+  message: Modifizieren
+Native:
+  message: Nativ
+Never:
+  message: Nie
+New_Version:
+  message: Neue Version
+New_script_template_:
+  message: Maske für neue Userscripte
+New_userscript:
+  message: <Neues Userscript>
+No:
+  message: Nein
+No_available_scripts:
+  message: Keine Userscripte verfügbar
+No_backups_found:
+  message: Es wurden keine Backup-Dateien gefunden
+No_entry_found:
+  message: Kein Eintrag gefunden
+No_frames:
+  message: Nur im Haupt-Frame ausführen
+No_script_is_installed:
+  message: Es ist kein Userscript installiert
+No_script_is_running:
+  message: Kein Userscript gestartet
+No_syntax_errors_were_found_:
+  message: Es wurden keine Syntax-Fehler gefunden.
+No_update_found__sry_:
+  message: Keine Updates gefunden!
+Normal_tabs:
+  message: Normale Tabs
+Note:
+  message: Achtung
+Novice:
+  message: Anfänger
+Off:
+  message: Aus
+On:
+  message: An
+On_Action_Menu:
+  message: Im Aktionsmenü
+On_Click:
+  message: Mittels Klick
+One_error_or_hint_was_found_:
+  message: Es wurde ein Syntax-Fehler gefunden.
+One_or_more_compatibility_options_are_set:
+  message: Eine oder mehrere Kompatibilitätsoptionen sind aktiviert.
+Only_Manual:
+  message: Nur Manuell
+Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_:
+  message: >-
+    Nur Dateien mir dieser Datei-Endung können auf der Festplatte
+    gespeichert werden.
+
+    Hier sollten keine Endungen von ausführbaren Dateien zu finden sein!
+Open_changelog:
+  message: Die Versionsänderungen anzeigen
+Operation_completed_successfully:
+  message: Die Aktion wurde erfolgreich durchgeführt.
+Original_domain_whitelist:
+  message: Originale Domain-Positivlist
+Original_excludes:
+  message: Original Exclude
+Original_includes:
+  message: Original Include
+Original_matches:
+  message: Original Match
+Page_Filter_Mode:
+  message: Filtere Seiten nach
+Password:
+  message: Passwort
+Please_check_the_0editor0_documentation_for_more_details_:
+  message: Bitte konsultieren Sie die $editor$-Dokumentation für weitere Informationen.
+  placeholders:
+    editor:
+      content: $1
+Please_consider_a_contribution:
+  message: Unterstütze die Entwicklung
+Please_select_a_file:
+  message: Bitte wählen Sie eine Datei aus
+Please_wait___:
+  message: Bitte warten...
+Press_ctrl_to_toggle_all_checkboxes:
+  message: Halten Sie Strg/Cmd gedrückt, um alle Kontrollkästchen zu ändern
+Process_with_Chrome:
+  message: An den Browser übergeben
+Raw_and_JavaScript:
+  message: Raw- und JavaScript-Modus
+Really_delete_0name0__:
+  message: Soll '$name$' wirklich gelöscht werden?
+  placeholders:
+    name:
+      content: $1
+Really_delete_all_userscripts_:
+  message: Sollen wirklich alle Userscripts entgültig gelöscht werden?
+Really_delete_the_selected_items_:
+  message: Sollen wirklich alle ausgewählten Elemente gelöscht werden?
+Really_factory_reset_the_selected_items_:
+  message: Sollen wirklich alle Einstellungen der ausgewählten Elemente
+    zurückgesetzt werden?
+Really_factory_reset_this_script_:
+  message: Sollen wirklich alle Einstellungen dieses Userscripts zurückgesetzt werden?
+Really_reset_all_changes_:
+  message: Wirklich alle Änderungen zurücksetzen?
+Really_restore_all_userscripts_:
+  message: Möchten Sie wirklich alle Userscripts wiederherstellen?
+Recent_Sync_Log:
+  message: Aktuelle Sync-Status-Meldungen
+Reindent_on_typing:
+  message: Einrückung beim Schreiben
+Reinstall:
+  message: Neu installieren
+Reload:
+  message: Neueinspielung
+Remind_me_later:
+  message: Später erinneren
+Remove:
+  message: Entfernen
+Remove__possibly_unsecure_:
+  message: Komplett entfernen (möglicherweise unsicher)
+Remove_local_script_0name0_0uuid0:
+  message: Lösche das lokale Userscript "$name$" ($uuid$)
+  placeholders:
+    name:
+      content: $1
+    uuid:
+      content: $2
+Remove_remote_script_0name0_0uuid0:
+  message: Lösche das Userscript "$name$" vom Server ($uuid$)
+  placeholders:
+    name:
+      content: $1
+    uuid:
+      content: $2
+Replace:
+  message: Ersetzen
+Replace_:
+  message: Wirklich ersetzen?
+Replace_all_with:
+  message: Alle ersetzen
+Replace_for_each_statements:
+  message: „for each“-Ausdrücke konvertieren
+Replace_with:
+  message: Ersetzen mit
+Report_a_bug:
+  message: Problem melden
+Report_an_issue_to_the_script_hoster_:
+  message: |-
+    Ein Problem an die verteilende Seite melden.
+    (Dazu brauchen Sie möglicherweise ein Benutzerkonto.)
+Restart_Tampermonkey:
+  message: Neustart
+Restore:
+  message: Wiederherstellen
+Restore_all:
+  message: Alle wiederherstellen
+Revoke_Access_Token:
+  message: Zugangsberechtigung widerrufen
+Run_at:
+  message: Starte wenn
+Run_syntax_check:
+  message: Syntax-Überprüfung starten
+Running_scripts:
+  message: Aktive Userscript-Instanzen
+Sandbox_Mode:
+  message: Sandbox-Modus
+Save:
+  message: Speichern
+Save_to_disk:
+  message: Auf die Festplatte speichern
+Script_0name0_is_slowing_down_some_page_loads_:
+  message: Das Userscript '$name$' verzögert das Laden Ihrer Web-Seiten
+  placeholders:
+    name:
+      content: $1
+Script_Blacklist_Source:
+  message: Userscript Blacklist Quelle
+Script_Include_Mode:
+  message: Userscript-@include-Modus
+Script_URL_detection:
+  message: Userscript-URL-Erkennung
+Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_:
+  message: Userscript-Autoren können externe Ressourcen mittels eines SRI Hashes
+    absichern.
+Script_local_files_access:
+  message: Das Lesen von lokale Dateien durch Userscripte erlauben
+Script_menu_commands:
+  message: Userscript Menü-Kommandos
+Script_name_0name0:
+  message: "Userscript-Name: $name$"
+  placeholders:
+    name:
+      content: $1
+Script_order:
+  message: Userscript-Sortierung
+Scripts_activated_by_context_menu:
+  message: Userscripte die @run-at context-menu nutzen
+Search:
+  message: Suchen
+Search_for:
+  message: Suche
+Search_for_userscripts_for_this_tab:
+  message: Suche Userscripts für diese Seite
+Searching_for_userscripts_for_this_tab:
+  message: Suche nach Userscripts läuft...
+Security:
+  message: Sicherheit
+Server_And_Manual:
+  message: Remote + Manuell
+Settings:
+  message: Einstellungen
+Show_backups:
+  message: Backups anzeigen
+Show_fixed_source:
+  message: „Fehlerbereinigten“ Quellcode anzeigen
+Show_notification:
+  message: Einen Hinweis anzeigen
+Sites:
+  message: Webseiten
+Size:
+  message: Größe
+Skip_timeout__0seconds0_seconds_:
+  message: Countdown stoppen ($seconds$ seconds)
+  placeholders:
+    seconds:
+      content: $1
+Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_:
+  message: Einige Userscripte könnten durch einen Script-Blocker oder die
+    JavaScript-Einstellungen blockiert worden sein!
+Sort:
+  message: Sortieren
+Source:
+  message: Quelle
+Source_Code:
+  message: Quellcode
+Spaces:
+  message: Leerzeichen
+Stop:
+  message: Stopp
+Storage:
+  message: Speicher
+Store_data_in_incognito_mode:
+  message: Daten auch im Inkognito-Modus speichern
+Strict:
+  message: Streng
+Subresource_Integrity:
+  message: Integrität externer Ressourcen
+Sync_Now:
+  message: Jetzt ausführen
+Sync_Reset:
+  message: Zurücksetzen
+Sync_Type:
+  message: Typ
+Sync_finished:
+  message: Synchronisation beendet
+Sync_is_running:
+  message: Synchronisation läuft
+Synchronize_your_scripts_across_browsers_and_operation_systems:
+  message: Userscript-Synchronisierung über Browser- und Betriebssystemgrenzen hinweg
+Tab_Size:
+  message: Breite eines Tabulatorzeichens
+Tab_types:
+  message: Art der Tabs in denen das Script ausgeführt wird
+Tampermonkey_and_script_version:
+  message: Tampermonkey + Userscript Version
+Tampermonkey_has_no_access_to_this_page:
+  message: Tampermonkey hat keinen Zugriff auf diese Seite
+Tampermonkey_has_no_file_access_permission_:
+  message: Tampermonkey hat keinen Zugriff auf das lokale Dateisystem!
+Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled:
+  message: Tampermonkey kann ohne diese Option möglicherweise keinen Zugriff auf
+    den unsicheren Kontext (unsafeWindow, globale Funktionen und Variablen)
+    bereitstellen
+Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_:
+  message: |-
+    Tampermonkey muss neu gestartet werden um diese Änderung anzuwenden.
+
+    Sind Sie sicher, dass sie fortfahren möchten??
+Tampermonkey_version:
+  message: Tampermonkey Version
+Temporarily_allow:
+  message: Temporär erlauben
+Temporary:
+  message: Temporär
+Temporary_domain_whitelist:
+  message: Temporäre Domain-Positivlist
+TextArea:
+  message: Textarea
+Thank_you_very_much_:
+  message: Vielen Dank!
+The_Browser_API_mode_requires_a_special_permission_:
+  message: "'Browser-API' benötigt eine spezielle Berechtigung."
+The_diff_for_this_script_is_too_large_to_render:
+  message: Die Liste der Änderungen ist zu groß, um sie anzuzeigen
+The_downgraded_script_might_have_problems_to_read_its_stored_data_:
+  message: Das Userscript könnte Probleme haben, seine gespeicherten Daten zu lesen!
+The_origin_of_this_script_cant_be_determined_:
+  message: >-
+    Achtung: Die Herkunft dieses Userscripts konnte nicht bestimmt werden!
+
+    Entweder es wurde durch eine fremde Software installiert um Ihre privaten Daten zu stehlen oder eine grundlegende Browser-Einstellung, Ihr Betriebssystem oder Ihre Hardware hat sich geändert.
+
+
+    Bitte öffnen, prüfen und speichern Sie das Userscript, um es zu aktivieren.
+The_script_was_successfully_deleted_:
+  message: Das Script wurde erfolgreich gelöscht.
+The_script_was_successfully_moved_to_the_trash_:
+  message: Das Script wurde erfolgreich in den Papierkorb verschoben.
+The_update_url_has_changed_from_0oldurl0_to__0newurl0:
+  message: |
+    Die Update-URL hat sich von:
+        '$oldurl$'
+    zu:
+        '$newurl$'
+    verändert.
+  placeholders:
+    oldurl:
+      content: $1
+    newurl:
+      content: $2
+There_are_unsaved_changed_:
+  message: |-
+    Die Änderungen wurden nicht gespeichert.
+    Möchten Sie den Dialog wirklich schließen?
+There_is_an_update_for_0name0_avaiable_:
+  message: Es ist ein Update von '$name$' verfügbar. :)
+  placeholders:
+    name:
+      content: $1
+This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_:
+  message: Dieses externe Ressource wurde durch den Nutzer verändert. Bitte
+    löschen Sie sie, damit automatische Aktualisierungen stattfinden können.
+This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_:
+  message: >-
+    Dies gibt dem Userscript die Erlaubnis Daten von und zu jeder
+    beliebigen Webseite zu übertragen. Das kann die Sicherheit der von Ihnen
+    verwendeten Seiten einschränken!
+
+
+    Sind Sie sicher, dass sie fortfahren möchten?
+This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_:
+  message: >-
+    Die Herkunft dieses Userscripts konnte nicht bestimmt werden. Entweder
+    es wurde durch eine fremde dritte Partei installiert um Ihre privaten Daten
+    zu stehlen oder eine grundlegende Browser-Einstellung, Ihr Betriebssystem
+    oder Ihre Hardware hat sich geändert.
+
+    Diese Modifikation wird es nun aktivieren.
+This_is_a_system_script:
+  message: Dieses Userscript ist ein System-Script.
+This_is_a_userscript:
+  message: Dieses Element ist ein Userscript geschrieben in JavaScript.
+This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_:
+  message: Diese Option erlaubt es der Tampermonkey-Homepage und einigen Seiten,
+    von denen Userscripte heruntergeladen werden können, die
+    Tampermonkey-Version und grundlegende Informationen (installiert, aktiviert,
+    Version) zu einem Userscript abzufragen.
+This_page_is_blacklisted_at_the_security_settings:
+  message: Durch Sicherheitsoptionen geblockt
+This_script_does_not_provide_any__include_information_:
+  message: Dieses Userscript beinhaltet keine @include-Informationen.
+This_script_does_not_require_any_special_powers_:
+  message: Dieses Script verlangt keine besonderen Rechte.
+This_script_has_access_to_https_pages:
+  message: Dieses Element hat Zugriff auf verschlüsselte Seiten.
+This_script_has_full_web_access:
+  message: Dieses Userscript hat vollen Internet-Zugang.
+This_script_is_blacklisted_:
+  message: Dieses Userscript steht in der Negativliste!
+This_script_stores_data:
+  message: Dieses Userscript speichert Daten via Tampermonkey.
+This_script_was_deleted:
+  message: Dieses Userscript wurde gelöscht
+This_script_was_deleted_by_the_hoster_:
+  message: Dieses Userscript wurde vom Server entfernt
+This_script_was_executed_0count0_times:
+  message: Dieses Userscript wurde $count$ mal ausgeführt
+  placeholders:
+    count:
+      content: $1
+This_script_was_executed_0count0_times_but_is_not_active_anymore:
+  message: Dieses Userscript wurde $count$ mal ausgeführt und ist nicht mehr aktiv
+  placeholders:
+    count:
+      content: $1
+This_script_was_not_executed_yet:
+  message: Dieses Userscript wurde noch nicht ausgeführt
+This_will_overwrite_your_global_settings_:
+  message: Das wird die globalen Tampermonkey-Einstellungen überschreiben
+This_will_remove_all_remote_data_from_sync_Ok_:
+  message: Sollen wirklich alle Sync-Server-Daten gelöscht werden?
+This_will_remove_all_scripts_and_reset_all_settings_Ok_:
+  message: Sollen wirklich alle Userscripte und Einstellungen gelöscht werden?
+This_will_restart_Tampermonkey_Ok_:
+  message: Tampermonkey jetzt neustarten?
+Today:
+  message: Heute
+Toggle_Enable:
+  message: Aktivierung umschalten
+Trace:
+  message: Alles
+Trash:
+  message: 🗑
+Trash_Mode:
+  message: Papierkorb-Funktion
+Treat_like__match:
+  message: Als @match interpretieren
+Trigger_Update:
+  message: Aktualisieren
+Trim_trailing_whitespace_from_modified_lines:
+  message: Entferne unnötige Leerzeichen am Ende von bearbeiteten Zeilen
+Try_to_install_as_script:
+  message: Inhalt als Userscript installieren
+Type:
+  message: Typ
+Unable_to_load_script_from_url_0url0:
+  message: |-
+    Userscript kann nicht geladen werden:
+     $url$
+  placeholders:
+    url:
+      content: $1
+Unable_to_parse_0name0:
+  message: Syntaxfehler in $name$
+  placeholders:
+    name:
+      content: $1
+Unable_to_parse_this_:
+  message: Falsche Syntax! :(
+Unique_running_scripts:
+  message: Aktive Userscripte
+Unknown_method_0name0:
+  message: Unbekannte Methode $name$
+  placeholders:
+    name:
+      content: $1
+Unsafe:
+  message: Unsicher
+Update_Notification:
+  message: Aktualisierungs-Benachrichtigung anzeigen
+Update_check_is_disabled:
+  message: Die Update-Suche ist deaktiviert oder nicht möglich
+Update_interval:
+  message: Aktualisierungsintervall
+Update_local_script_0name0_0uuid0:
+  message: Aktualisiere das lokale Userscript "$name$" ($uuid$)
+  placeholders:
+    name:
+      content: $1
+    uuid:
+      content: $2
+Updated_to__0version0:
+  message: Aktualisiert auf $version$
+  placeholders:
+    version:
+      content: $1
+UserScripts_API:
+  message: UserScripts-API
+User_domain_blacklist:
+  message: Domain-Negativlist
+User_domain_whitelist:
+  message: Benutzer-definierte Domain-Positivlist
+User_excludes:
+  message: Benutzer-Exclude
+User_includes:
+  message: Benutzer-Include
+User_matches:
+  message: Benutzer-Match
+User_modified:
+  message: Durch den Nutzer geändert
+Userscript_Search:
+  message: Userscript-Suche
+Userscript_search_integration_mode:
+  message: Integration der Userscript-Suche
+Userscripts:
+  message: Userscripte
+Using__include_is_potentially_unsafe_and_may_be_obsolete_soon___0off0_disables__include_completely__0match0__is_safe__but_may_not_compatible_the_script_developers_intention__0unsafe0__mostly_keeps_the_legacy_behavior_0default0__means__0used_default0:
+  message: "@include-Anweisungen können unsicher sein und eventuell durch das neue
+    Erweiterungsformat Manifest v3 komplett unbrauchbar werden. Diese
+    Einstellung erlaubt die Konfiguration, wie @include interpretiert wird.
+    '$off$' deaktiviert @include komplett, '$match$' interpretiert die
+    Anweisungen wie @match. Das kann aber Probleme verursachen. '$unsafe$'
+    behält weitestgehend das bisherige Verhalten bei. Und '$default$' steht zur
+    Zeit für die Einstellung '$used_default$'"
+  placeholders:
+    off:
+      content: $1
+    match:
+      content: $2
+    unsafe:
+      content: $3
+    default:
+      content: $4
+    used_default:
+      content: $5
+Utilities:
+  message: Hilfsmittel
+Validate_if_given:
+  message: Validierung wenn angegeben
+Validate_if_supported:
+  message: Validierung wenn möglich
+Verbose:
+  message: Geschwätzig
+View:
+  message: Anzeigen
+Waiting_for_sync_to_finish:
+  message: Warte auf die Beendigung der Synchronisation
+Warning:
+  message: Warnung
+Warning_unsafe_site_warnings_might_appear_:
+  message: "Achtung: es können Warnungen wegen unsicherem Inhalt angezeigt werden,
+    wenn ein Userscript eine potentiell schädliche Seite in einer seiner
+    @include-Direktiven auflistet."
+Whitelist:
+  message: Positivliste
+Whitelisted_File_Extensions:
+  message: Positivliste der erlaubten Datei-Endungen
+Whitelisted_Pages:
+  message: Positivliste
+XHR_Security:
+  message: XHR-Sicherheit
+Yes:
+  message: Ja
+You_are_about_to_downgrade_a_UserScript:
+  message: Achtung! Downgrade des Userscripts
+You_are_about_to_install_a_UserScript_:
+  message: Installation des Userscripts
+You_are_about_to_modify_a_UserScript_:
+  message: Modifikation des Userscripts
+You_are_about_to_reinstall_a_UserScript_:
+  message: Neu-Installation des Userscripts
+You_are_about_to_update_a_UserScript_:
+  message: Aktualisierung des Userscripts
+You_can_add_your_custom_CSS_rules_here_:
+  message: Sie können hier Ihre eigenen CSS-Answeisungen für die
+    Tampermonkey-Benutzeroberfläche definieren. Falls daduch diese Seite dadurch
+    unbenutzbar wird, hängen Sie bitte ?layout=reset an die URL dieser Seite an.
+You_can_add_your_custom_linter_config_here_:
+  message: Sie können hier Ihre eigene Linter-Konfiguration definieren, die im
+    Editor verwendet werden soll.
+Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_:
+  message: |-
+    Ihre Sprache wird nicht unterstützt?
+    Klicken sie hier, um zu erfahren, wie Sie Tampermonkey übersetzen können.
+Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_:
+  message: >-
+    Die Positivliste scheint ausführbare Dateien einzuschließen!
+
+    Das bedeutet, dass Userscripte Viren und Trojaner auf der Festplatte speichern dürfen!
+__Please_choose__:
+  message: -- Bitte wählen Sie eine Aktion aus --
+_not_set_:
+  message: <unbekannt>
+connect_mode:
+  message: "@connect-Überprüfung"
+fatal_error:
+  message: Schwerer Fehler
+overwritten_by_user:
+  message: Überschrieben vom Benutzer
+require_and_resource:
+  message: Externals (@require und @resource)
+severity_1:
+  message: 1 (sicherer)
+severity_10:
+  message: 10 (unsicherer)
+some_secs:
+  message: einigen

@@ -167,8 +167,8 @@
     "All_tabs": {
         "message": "Tutte le schede"
     },
-    "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-        "message": "Permette a Tampermonkey di collezionare statistiche anonime tramite Google Analytics.\nQuesto aiuta l'autore di Tamperminkey a migliorarlo e a determinare su quali criteri concentrare lo sviluppo.\nSe non ti piace, basta disabilitarlo."
+    "Allow_Tampermonkey_to_collect_anonymous_statistics": {
+        "message": "Permette a Tampermonkey di collezionare statistiche anonime tramite un'installazione Matomo self-hosted. Questo aiuta l'autore di Tamperminkey a migliorarlo e a determinare su quali criteri concentrare lo sviluppo. Se non ti piace, basta disabilitarlo."
     },
     "Allow_communication_with_cooperate_pages": {
         "message": "Permetti comunicazione con pagine cooperative"

@@ -152,8 +152,8 @@
     "All_script_settings_will_be_reset_": {
         "message": ".سيتم إعادة ضبط جميع إعدادات البرنامج النصي"
     },
-    "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-        "message": "السماح لـ Tampermonkey بجمع إحصاءات مجهولة عبر Google Analytics. هذا يساعدني على تحسين Tampermonkey وتحديد المعايير التي يجب أن أركز عليها. فقط قم بتعطيل هذا الخيار إذا لم يعجبك."
+    "Allow_Tampermonkey_to_collect_anonymous_statistics": {
+        "message": "السماح لـ Tampermonkey بجمع إحصاءات مجهولة عبر Matomo. هذا يساعدني على تحسين Tampermonkey وتحديد المعايير التي يجب أن أركز عليها. فقط قم بتعطيل هذا الخيار إذا لم يعجبك."
     },
     "Allow_communication_with_cooperate_pages": {
         "message": "السماح بالإتصال بصفحات الشركة"

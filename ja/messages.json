@@ -161,8 +161,8 @@
     "All_tabs": {
         "message": "すべてのタブ"
     },
-    "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-        "message": "Tampermonkey が Google Analytics を使用して匿名の統計情報を収集するのを許可します。この統計情報は、作者が Tampermonkey を改良するのに役立ち、どの部分の開発に集中すべきかの判断材料としても役立ちます。協力したくない場合は無効にしてください。"
+    "Allow_Tampermonkey_to_collect_anonymous_statistics": {
+        "message": "Tampermonkey がセルフホストのMatomoインストールを介して匿名の統計を収集できるようにします。この統計情報は、作者が Tampermonkey を改良するのに役立ち、どの部分の開発に集中すべきかの判断材料としても役立ちます。協力したくない場合は無効にしてください。"
     },
     "Allow_communication_with_cooperate_pages": {
         "message": "協力ページとの通信を許可する"

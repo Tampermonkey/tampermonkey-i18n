@@ -161,8 +161,8 @@
     "All_tabs": {
         "message": "Όλες οι καρτέλες"
     },
-    "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-        "message": "Δικαίωμα στο Tampermonkey για συλλογή ανώνυμων στατιστικών μέσω των Google Analytics. Αυτό βοηθάει στη βελτίωση του Tampermonkey και στον καθορισμό των κριτηρίων για το που πρέπει να εστιάσει η ανάπτυξη. Απενεργοποιήστε το, αν δε σας αρέσει."
+    "Allow_Tampermonkey_to_collect_anonymous_statistics": {
+        "message": "Επιτρέψτε στο Tampermonkey να συλλέγει ανώνυμα στατιστικά στοιχεία μέσω μιας αυτο-φιλοξενούμενης εγκατάστασης Matomo. Αυτό βοηθάει στη βελτίωση του Tampermonkey και στον καθορισμό των κριτηρίων για το που πρέπει να εστιάσει η ανάπτυξη. Απενεργοποιήστε το, αν δε σας αρέσει."
     },
     "Allow_communication_with_cooperate_pages": {
         "message": "Δικαίωμα επικοινωνίας με συνεργαζόμενες σελίδες"

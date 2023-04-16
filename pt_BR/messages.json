@@ -161,8 +161,8 @@
     "All_tabs": {
         "message": "Todas as guias"
     },
-    "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-        "message": "Permitir que o Tampermonkey colete estatísticas anônimas via Google Analytics. Isto ajuda a melhorar o Tampermonkey e determinar o foco do meu desenvolvimento baseado nessas informações. Apenas desative se você não gostar disso."
+    "Allow_Tampermonkey_to_collect_anonymous_statistics": {
+        "message": "Permitir que o Tampermonkey colete estatísticas anônimas por meio de uma instalação auto-hospedada do Matomo.. Isto ajuda a melhorar o Tampermonkey e determinar o foco do meu desenvolvimento baseado nessas informações. Apenas desative se você não gostar disso."
     },
     "Allow_communication_with_cooperate_pages": {
         "message": "Permitir comunicação com páginas cooperadas"

@@ -110,8 +110,8 @@
     "All_script_settings_will_be_reset_": {
         "message": "Sva podešavanja će biti resetovana (vraćena na fabrička podešavanja)!"
     },
-    "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-        "message": "Dozvoli Tampermonkey-u da prikuplja anonimnu statistiku preko Google Analytics. Pomaže nam da poboljšamo Tampermonkey i utvrdimo na šta treba obratiti pažnju. Možete omogućiti ovo ukoliko vam se nesvidja."
+    "Allow_Tampermonkey_to_collect_anonymous_statistics": {
+        "message": "Dozvoli Tampermonkey-u da prikuplja anonimnu statistiku putem Matomo instalacije koju sami hostiraju. Pomaže nam da poboljšamo Tampermonkey i utvrdimo na šta treba obratiti pažnju. Možete omogućiti ovo ukoliko vam se nesvidja."
     },
     "Allow_communication_with_cooperate_pages": {
         "message": "Dozvoli komunikaciju sa stranicama koje saradjuju"

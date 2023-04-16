@@ -167,8 +167,8 @@
     "All_tabs": {
         "message": "Сите табови"
     },
-    "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-        "message": "Дозволи Tampermonkey да собира анонимни статистики со Google Analytics. Ова ми помага да го подобрам Tampermonkey и да одлучам на што да се фокусирам со програмирањето. Исклучи го ако не го сакаш."
+    "Allow_Tampermonkey_to_collect_anonymous_statistics": {
+        "message": "Дозволи Tampermonkey да собира анонимни статистики со Matomo. Ова ми помага да го подобрам Tampermonkey и да одлучам на што да се фокусирам со програмирањето. Исклучи го ако не го сакаш."
     },
     "Allow_communication_with_cooperate_pages": {
         "message": "Дозволете комуникација со страни за соработка"

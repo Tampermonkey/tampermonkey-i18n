@@ -149,8 +149,8 @@
     "All_script_settings_will_be_reset_": {
         "message": "Всі налаштування скрипта будуть скинуті!"
     },
-    "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-        "message": "Дозвольте Tampermonkey збирати анонімну статистику через Google Analytics. Це допомагає мені ліпшити Tampermonkey і визначити за якими критеріями мушу зосередити розвиток. Просто вимкніть цього, якщо не подобається."
+    "Allow_Tampermonkey_to_collect_anonymous_statistics": {
+        "message": "Дозвольте Tampermonkey збирати анонімні дані за допомогою власної установки Matomo. Це допомагає мені ліпшити Tampermonkey і визначити за якими критеріями мушу зосередити розвиток. Просто вимкніть цього, якщо не подобається."
     },
     "Allow_communication_with_cooperate_pages": {
         "message": "Дозволити взаємодію з повʼязаними сторінками"

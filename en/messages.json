@@ -1,4 +1,19 @@
 {
+    "extName": {
+        "message": "Tampermonkey"
+    },
+    "extNameBeta": {
+        "message": "Tampermonkey BETA"
+    },
+    "extShortName": {
+        "message": "Tampermonkey"
+    },
+    "extShortNameBeta": {
+        "message": "TM BETA"
+    },
+    "extDescription": {
+        "message": "Change the web at will with userscripts"
+    },
     "1": {
         "message": "1"
     },
@@ -167,8 +182,8 @@
     "All_tabs": {
         "message": "All tabs"
     },
-    "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-        "message": "Allow Tampermonkey to collect anonymous statistics via Google Analytics. This helps me to improve Tampermonkey and to determine on what criteria I should focus my development. Just disable this if you dislike it."
+    "Allow_Tampermonkey_to_collect_anonymous_statistics": {
+        "message": "Allow Tampermonkey to collect anonymous statistics via a self-hosted Matomo installation. This helps me to improve Tampermonkey and to determine on what criteria I should focus my development. Just disable this if you dislike it."
     },
     "Allow_communication_with_cooperate_pages": {
         "message": "Allow communication with cooperate pages"
@@ -1575,6 +1590,12 @@
     },
     "The_origin_of_this_script_cant_be_determined_": {
         "message": "Warning: The origin of this script can't be determined.\nEither it was installed by a malicious third party to steal you private data or some basic browser settings, your operation system or hardware has changed!\n\nPlease open, review and save the script to enable it."
+    },
+    "The_script_was_successfully_deleted_": {
+        "message": "The script was successfully deleted."
+    },
+    "The_script_was_successfully_moved_to_the_trash_": {
+        "message": "The script was successfully moved to the trash."
     },
     "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
         "message": "The update url has changed from:\n    '$oldurl$'\n    to:\n    '$newurl$'\n",

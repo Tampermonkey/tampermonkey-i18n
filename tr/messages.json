@@ -161,8 +161,8 @@
     "All_tabs": {
         "message": "Tüm sekmeler"
     },
-    "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-        "message": "Tampermonkey'nin Google Analytics aracılığıyla anonim istatistikler toplamasına izin ver. Bu, Tampermonkey'i geliştirmeme ve geliştirmemde hangi kriterlere odaklanmam gerektiğini belirlemem konusunda yardımcı oluyor. İstemiyorsanız bunu devre dışı bırakmanız yeterlidir."
+    "Allow_Tampermonkey_to_collect_anonymous_statistics": {
+        "message": "Tampermonkey'nin kendi kendine barındırılan bir Matomo yüklemesi aracılığıyla anonim verileri toplamasına izin verin. Bu, Tampermonkey'i geliştirmeme ve geliştirmemde hangi kriterlere odaklanmam gerektiğini belirlemem konusunda yardımcı oluyor. İstemiyorsanız bunu devre dışı bırakmanız yeterlidir."
     },
     "Allow_communication_with_cooperate_pages": {
         "message": "İşbirliği sayfaları ile iletişim kurmaya izin ver"

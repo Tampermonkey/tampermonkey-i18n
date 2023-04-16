@@ -161,8 +161,8 @@
     "All_tabs": {
         "message": "所有标签"
     },
-    "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-        "message": "允许 Tampermonkey 通过 Google Analytics 收集匿名使用统计。这可以帮助我改进 Tampermonkey 和弄清应关注的焦点。如果您不喜欢这种感觉，尽管禁用它。"
+    "Allow_Tampermonkey_to_collect_anonymous_statistics": {
+        "message": "允许 Tampermonkey 通过自托管的 Matomo 安装收集匿名统计信息。这可以帮助我改进 Tampermonkey 和弄清应关注的焦点。如果您不喜欢这种感觉，尽管禁用它。"
     },
     "Allow_communication_with_cooperate_pages": {
         "message": "允许与合作页面通信"

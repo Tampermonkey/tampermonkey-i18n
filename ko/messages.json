@@ -88,8 +88,8 @@
     "All_script_settings_will_be_reset_": {
         "message": "모든 스크립트 설정이 재설정될 것입니다!"
     },
-    "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-        "message": "Tampermonkey가 Google Analytics로 익명 통계를 수집하는 것을 허용합니다. 이는 Tampermonkey가 발전하고 개발 방향을 정하는 데에 도움을 줍니다. 싫을 경우에는 그냥 비활성화하세요."
+    "Allow_Tampermonkey_to_collect_anonymous_statistics": {
+        "message": "Tampermonkey가 자체 호스팅 Matomo 설치를 통해 익명 통계를 수집하도록 허용합니다. 이는 Tampermonkey가 발전하고 개발 방향을 정하는 데에 도움을 줍니다. 싫을 경우에는 그냥 비활성화하세요."
     },
     "Allow_communication_with_cooperate_pages": {
         "message": "협력 페이지와 통신할 수 있도록 허용"

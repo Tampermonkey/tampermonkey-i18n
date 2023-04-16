@@ -161,8 +161,8 @@
     "All_tabs": {
         "message": "Все вкладки"
     },
-    "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-        "message": "Разрешить Tampermonkey собирать анонимную статистику с помощью Google Analytics. Это поможет улучшить Tampermonkey и определить, на каких критериях я должен сосредоточить свое развитие. Просто отключите это, если вам не нравится."
+    "Allow_Tampermonkey_to_collect_anonymous_statistics": {
+        "message": "Разрешить Tampermonkey собирать анонимную статистику с помощью собственной установки Matomo. Это поможет улучшить Tampermonkey и определить, на каких критериях я должен сосредоточить свое развитие. Просто отключите это, если вам не нравится."
     },
     "Allow_communication_with_cooperate_pages": {
         "message": "Взаимодействие со связанными страницами"

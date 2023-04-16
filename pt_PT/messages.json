@@ -88,8 +88,8 @@
     "All_script_settings_will_be_reset_": {
         "message": "Todas as configurações dos scripts serão reiniciadas!"
     },
-    "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-        "message": "Permitir que o Tampermonkey recolha estatísticas anónimas via Google Analytics. Isto ajuda-o a melhorar o Tampermonkey e a determinar o foco do nosso desenvolvimento. Desactive esta opção apenas se não pretender a sua partilha."
+    "Allow_Tampermonkey_to_collect_anonymous_statistics": {
+        "message": "Permitir que o Tampermonkey colete estatísticas anônimas por meio de uma instalação auto-hospedada do Matomo.. Isto ajuda-o a melhorar o Tampermonkey e a determinar o foco do nosso desenvolvimento. Desactive esta opção apenas se não pretender a sua partilha."
     },
     "Allow_headers_to_be_modified_by_scripts": {
         "message": "Permitir que os cabeçalhos HTTP sejam modificados pelos scripts"
