@@ -1,4 +1,19 @@
 {
+    "extName": {
+        "message": "Tampermonkey"
+    },
+    "extNameBeta": {
+        "message": "Tampermonkey BETA"
+    },
+    "extShortName": {
+        "message": "Tampermonkey"
+    },
+    "extShortNameBeta": {
+        "message": "TM BETA"
+    },
+    "extDescription": {
+        "message": "Cambia il web a piacimento con gli userscript"
+    },
     "1": {
         "message": "1"
     },
@@ -1575,6 +1590,12 @@
     },
     "The_origin_of_this_script_cant_be_determined_": {
         "message": "Attenzione: l'origine di questo script non può essere determinata.\nPotrebbe essere stato installato da un plugin malevolo di terze parti per catturare i tuoi dati privati o alcune impostazioni base del browser.\nIl sistema operativo o l'hardware sono stati modificati.!\n\nApri, verifica e salva lo script per abilitarlo."
+    },
+    "The_script_was_successfully_deleted_": {
+        "message": "Lo script è stato correttamente eliminato."
+    },
+    "The_script_was_successfully_moved_to_the_trash_": {
+        "message": "Lo script è stato correttamente spostato nel cestino."
     },
     "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
         "message": "L'URL per l'aggiornamento è cambiata da:\n    '$oldurl$'\n    a:\n    '$newurl$'\n",
