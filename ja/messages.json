@@ -1,4 +1,19 @@
 {
+    "extName": {
+        "message": "Tampermonkey"
+    },
+    "extNameBeta": {
+        "message": "Tampermonkey ベータ版"
+    },
+    "extShortName": {
+        "message": "Tampermonkey"
+    },
+    "extShortNameBeta": {
+        "message": "TM ベータ"
+    },
+    "extDescription": {
+        "message": "ユーザースクリプトでウェブを書き換える"
+    },
     "1": {
         "message": "1"
     },
@@ -162,7 +177,7 @@
         "message": "すべてのタブ"
     },
     "Allow_Tampermonkey_to_collect_anonymous_statistics": {
-        "message": "Tampermonkey がセルフホストのMatomoインストールを介して匿名の統計を収集できるようにします。この統計情報は、作者が Tampermonkey を改良するのに役立ち、どの部分の開発に集中すべきかの判断材料としても役立ちます。協力したくない場合は無効にしてください。"
+        "message": "Tampermonkey がセルフホストの Matomo インストレーションを介して匿名の統計を収集できるようにします。この統計は、作者が Tampermonkey を改良するのに役立ち、どの部分の開発に集中すべきかの判断材料としても役立ちます。協力したくない場合は無効にしてください。"
     },
     "Allow_communication_with_cooperate_pages": {
         "message": "協力ページとの通信を許可する"
@@ -1527,6 +1542,12 @@
     },
     "The_origin_of_this_script_cant_be_determined_": {
         "message": "警告: このスクリプトの出所を特定できません。\n悪意がある第三者が非公開データや一部の基本的なブラウザー設定を盗むためにインストールしたか、またはオペレーティング システムまたはハードウェアが変更されました!\n\n有効にするには、開いて確認してからスクリプトを保存してください。"
+    },
+    "The_script_was_successfully_deleted_": {
+        "message": "スクリプトを削除しました。"
+    },
+    "The_script_was_successfully_moved_to_the_trash_": {
+        "message": "スクリプトをごみ箱に移動しました。"
     },
     "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
         "message": "更新 URL が変更されました。変更前:\n    「$oldurl$」\n    変更後:\n    「$newurl$」\n",
