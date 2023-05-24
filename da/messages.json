@@ -1593,19 +1593,19 @@
         "message": "Ja"
     },
     "You_are_about_to_downgrade_a_UserScript": {
-        "message": "Opmærksomhed! Userscript nedgradering"
+        "message": "Bemærk! Nedgradering af userscript"
     },
     "You_are_about_to_install_a_UserScript_": {
-        "message": "UserScript installation"
+        "message": "Installation af userscript"
     },
     "You_are_about_to_modify_a_UserScript_": {
-        "message": "UserScript modificering"
+        "message": "Modificering af userscript"
     },
     "You_are_about_to_reinstall_a_UserScript_": {
-        "message": "UserScript genindstallering"
+        "message": "Geninstallering af userscript"
     },
     "You_are_about_to_update_a_UserScript_": {
-        "message": "UserScript opdatering"
+        "message": "Opdatering af userscript"
     },
     "You_can_add_your_custom_CSS_rules_here_": {
         "message": "Du kan tilføje dine egne CSS-regler for Tampermonkey UI her. Hvis dette ødelægger noget, kan du få standardlayoutet ved at tilføje ?layout=reset til valgmulighedssidens webadresse."
