@@ -1,4 +1,19 @@
 {
+    "extName": {
+        "message": "篡改猴"
+    },
+    "extNameBeta": {
+        "message": "篡改猴测试版"
+    },
+    "extShortName": {
+        "message": "篡改猴"
+    },
+    "extShortNameBeta": {
+        "message": "篡改猴测试版"
+    },
+    "extDescription": {
+        "message": "使用用户脚本自由地改变网络"
+    },
     "1": {
         "message": "1"
     },
@@ -130,7 +145,7 @@
         "message": "修改内容安全策略（CSP）头信息"
     },
     "Add_Tampermonkey_to_the_site_s_content_csp": {
-        "message": "将Tampermonkey 加入到 HTML 的内容安全策略（CSP）中"
+        "message": "篡改猴加入到 HTML 的内容安全策略（CSP）中"
     },
     "Add_as_0clude0": {
         "message": "添加为 $clude$",
@@ -162,7 +177,7 @@
         "message": "所有标签"
     },
     "Allow_Tampermonkey_to_collect_anonymous_statistics": {
-        "message": "允许 Tampermonkey 通过自托管的 Matomo 安装收集匿名统计信息。这可以帮助我改进 Tampermonkey 和弄清应关注的焦点。如果您不喜欢这种感觉，尽管禁用它。"
+        "message": "允许篡改猴通过自托管的 Matomo 安装收集匿名统计信息。这可以帮助我改进篡改猴和弄清应关注的焦点。如果您不喜欢这种感觉，尽管禁用它。"
     },
     "Allow_communication_with_cooperate_pages": {
         "message": "允许与合作页面通信"
@@ -198,7 +213,7 @@
         "message": "导入过程中发生错误"
     },
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
-        "message": "发生一个内部错误。如果此问题在重启浏览器后继续出现，请按“确定”并在论坛中报告此问题。\n\n您是否要访问 Tampermonkey 论坛？"
+        "message": "发生一个内部错误。如果此问题在重启浏览器后继续出现，请按“确定”并在论坛中报告此问题。\n\n您是否要访问篡改猴论坛？"
     },
     "Anonymous_statistics": {
         "message": "匿名统计数据"
@@ -239,7 +254,7 @@
         "message": "应用此操作到选择的所有脚本"
     },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
-        "message": "您的浏览器更新 Tampermonkey 时会重启 Tampermonkey。这可能会中断当前正在运行的脚本！\n\n您确认不想接收 Tampermonkey 更新的通知吗？"
+        "message": "您的浏览器更新篡改猴时会重启篡改猴。这可能会中断当前正在运行的脚本！\n\n您确认不想接收篡改猴更新的通知吗？"
     },
     "Ask_if_unknown": {
         "message": "未知时询问"
@@ -372,7 +387,7 @@
         "message": "清除全部"
     },
     "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
-        "message": "请点击“确定”来允许 Tampermonkey 访问以下站点：\n\n$host_list$",
+        "message": "请点击“确定”来允许篡改猴访问以下站点：\n\n$host_list$",
         "placeholders": {
             "host_list": {
                 "content": "$1"
@@ -380,7 +395,7 @@
         }
     },
     "Click_here_to_allow_TM_to_start_downloads": {
-        "message": "点击“确定”允许 Tampermonkey 立即开始下载。"
+        "message": "点击“确定”允许篡改猴立即开始下载。"
     },
     "Click_here_to_install_it_": {
         "message": "点击这里安装。"
@@ -804,7 +819,7 @@
         }
     },
     "Include_TM_settings": {
-        "message": "包含 Tampermonkey 设置"
+        "message": "包含篡改猴设置"
     },
     "Include_s__": {
         "message": "包含 URL"
@@ -897,7 +912,7 @@
         "message": "布局"
     },
     "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
-        "message": "在权限受限的执行环境中可能会影响脚本升级、 GM_xmlhttpRequest 以及其他 Tampermonkey 功能！"
+        "message": "在权限受限的执行环境中可能会影响脚本升级、 GM_xmlhttpRequest 以及其他篡改猴功能！"
     },
     "Line_Case_Insensitive": {
         "message": "按行的忽略大小写的字典序"
@@ -1180,7 +1195,7 @@
         "message": "资源"
     },
     "Restart_Tampermonkey": {
-        "message": "重启 Tampermonkey"
+        "message": "重启篡改猴"
     },
     "Restore": {
         "message": "重置"
@@ -1402,22 +1417,22 @@
         "message": "标签"
     },
     "Tampermonkey_and_script_version": {
-        "message": "Tampermonkey + 脚本版本"
+        "message": "篡改猴 + 脚本版本"
     },
     "Tampermonkey_has_no_access_to_this_page": {
-        "message": "Tampermonkey 没有访问此页面的权限"
+        "message": "篡改猴没有访问此页面的权限"
     },
     "Tampermonkey_has_no_file_access_permission_": {
-        "message": "Tampermonkey 没有访问本地文件的权限！"
+        "message": "篡改猴没有访问本地文件的权限！"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
-        "message": "在此选项被禁用时，Tampermonkey 可能无法提供对不安全上下文的访问（unsafeWindow、页面的函数和变量）。"
+        "message": "在此选项被禁用时，篡改猴可能无法提供对不安全上下文的访问（unsafeWindow、页面的函数和变量）。"
     },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
-        "message": "Tampermonkey 需要重启才能应用此更改。\n\n您要继续吗？"
+        "message": "篡改猴需要重启才能应用此更改。\n\n您要继续吗？"
     },
     "Tampermonkey_version": {
-        "message": "仅 Tampermonkey 版本"
+        "message": "仅篡改猴版本"
     },
     "Templates": {
         "message": "模板"
@@ -1493,7 +1508,7 @@
         "message": "这是一个使用 Javascript 编写的用户脚本。"
     },
     "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
-        "message": "此选项允许 Tampermonkey 主页和一些脚本托管页面确定 Tampermonkey 版本和一些基本的脚本信息（安装情况、版本、启用状态）。"
+        "message": "此选项允许篡改猴主页和一些脚本托管页面确定篡改猴版本和一些基本的脚本信息（安装情况、版本、启用状态）。"
     },
     "This_page_is_blacklisted_at_the_security_settings": {
         "message": "被安全设置列入黑名单"
@@ -1514,7 +1529,7 @@
         "message": "此脚本已被列入黑名单！"
     },
     "This_script_stores_data": {
-        "message": "此脚本用 Tampermonkey 存储了数据。"
+        "message": "此脚本用篡改猴存储了数据。"
     },
     "This_script_was_deleted": {
         "message": "此脚本已被删除"
@@ -1551,7 +1566,7 @@
         "message": "您真的要删除所有脚本并重置所有设置吗？"
     },
     "This_will_restart_Tampermonkey_Ok_": {
-        "message": "确定重启 Tampermonkey？"
+        "message": "确定重启篡改猴？"
     },
     "Today": {
         "message": "今天"
@@ -1644,7 +1659,7 @@
         "message": "更新"
     },
     "Update_Notification": {
-        "message": "显示 Tampermonkey 更新提醒"
+        "message": "显示篡改猴更新提醒"
     },
     "Update_URL_": {
         "message": "更新 URL"
@@ -1769,13 +1784,13 @@
         "message": "更新用户脚本"
     },
     "You_can_add_your_custom_CSS_rules_here_": {
-        "message": "在这里您可以为 Tampermonkey 界面添加自己的 CSS。如果这影响了某些重要的界面功能，您可以在选项页面的网址后加上 ?layout=reset 来获得默认的布局。"
+        "message": "在这里您可以为篡改猴界面添加自己的 CSS。如果这影响了某些重要的界面功能，您可以在选项页面的网址后加上 ?layout=reset 来获得默认的布局。"
     },
     "You_can_add_your_custom_linter_config_here_": {
         "message": "可以在此添加自定义 linter 配置。"
     },
     "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
-        "message": "没有您使用的语言吗？\n点击这里了解如何翻译 Tampermonkey。"
+        "message": "没有您使用的语言吗？\n点击这里了解如何翻译篡改猴。"
     },
     "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
         "message": "您的白名单似乎包含可执行文件！\n这意味着您的用户脚本有可能下载恶意软件或间谍软件到您的硬盘！！"

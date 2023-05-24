@@ -1,4 +1,19 @@
 {
+    "extName": {
+        "message": "篡改猴"
+    },
+    "extNameBeta": {
+        "message": "篡改猴測試版"
+    },
+    "extShortName": {
+        "message": "篡改猴"
+    },
+    "extShortNameBeta": {
+        "message": "篡改猴測試版"
+    },
+    "extDescription": {
+        "message": "使用使用者腳本自由改變網路"
+    },
     "1": {
         "message": "1"
     },
@@ -127,10 +142,10 @@
         "message": "在下方新增選取項目"
     },
     "Add_TM_to_CSP": {
-        "message": "將 Tampermonkey 加入到網站的內容安全策略（CSP）（如果有的話）"
+        "message": "將篡改猴加入到網站的內容安全策略（CSP）（如果有的話）"
     },
     "Add_Tampermonkey_to_the_site_s_content_csp": {
-        "message": "將 Tampermonkey 加入到網站的內容 CSP"
+        "message": "將篡改猴加入到網站的內容 CSP"
     },
     "Add_as_0clude0": {
         "message": "新增為 $clude$",
@@ -162,7 +177,7 @@
         "message": "所有分頁"
     },
     "Allow_Tampermonkey_to_collect_anonymous_statistics": {
-        "message": "允許 Tampermonkey 通過自託管的 Matomo 安裝收集匿名統計信息。這能協助我們改進 Tampermonkey 並決定開發的重點策略。若您不喜歡可將其關閉。"
+        "message": "允許篡改猴通過自託管的 Matomo 安裝收集匿名統計信息。這能協助我們改進篡改猴並決定開發的重點策略。若您不喜歡可將其關閉。"
     },
     "Allow_communication_with_cooperate_pages": {
         "message": "允許透過協作頁面通訊"
@@ -198,7 +213,7 @@
         "message": "匯入時發生錯誤。"
     },
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
-        "message": "發生內部錯誤。若問題持續，請點按「OK」並向論壇回報此問題。\n\n想去 Tampermonkey 論壇嗎？"
+        "message": "發生內部錯誤。若問題持續，請點按「OK」並向論壇回報此問題。\n\n想去篡改猴論壇嗎？"
     },
     "Anonymous_statistics": {
         "message": "匿名統計資料"
@@ -239,7 +254,7 @@
         "message": "在所選腳本上套用此動作"
     },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
-        "message": "Tampermonkey 在瀏覽器更新後同時也重新啟動。這將會阻斷正在執行的腳本！\n\n您確定不要再提示更新嗎？"
+        "message": "篡改猴在瀏覽器更新後同時也重新啟動。這將會阻斷正在執行的腳本！\n\n您確定不要再提示更新嗎？"
     },
     "Ask_if_unknown": {
         "message": "未知時才詢問我"
@@ -372,7 +387,7 @@
         "message": "全部清除"
     },
     "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
-        "message": "請點按「OK」以同意 Tampermonkey 存取以下的 hosts：\n\n$host_list$",
+        "message": "請點按「OK」以同意篡改猴存取以下的 hosts：\n\n$host_list$",
         "placeholders": {
             "host_list": {
                 "content": "$1"
@@ -380,7 +395,7 @@
         }
     },
     "Click_here_to_allow_TM_to_start_downloads": {
-        "message": "點按此處以允許 Tampermonkey 開始下載。"
+        "message": "點按此處以允許篡改猴開始下載。"
     },
     "Click_here_to_install_it_": {
         "message": "點按此處以安裝。"
@@ -804,7 +819,7 @@
         }
     },
     "Include_TM_settings": {
-        "message": "包含 Tampermonkey 設定"
+        "message": "包含篡改猴設定"
     },
     "Include_s__": {
         "message": "收錄 URL(s)"
@@ -897,7 +912,7 @@
         "message": "介面設定"
     },
     "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
-        "message": "執行期宿主的權限受限可能會導致一些 Tampermonkey 的功能無法運作，例如腳本更新、GM_xmlhttpRequest...等。"
+        "message": "執行期宿主的權限受限可能會導致一些篡改猴的功能無法運作，例如腳本更新、GM_xmlhttpRequest...等。"
     },
     "Line_Case_Insensitive": {
         "message": "行不區分大小寫"
@@ -1180,7 +1195,7 @@
         "message": "資源"
     },
     "Restart_Tampermonkey": {
-        "message": "重新啟動 Tampermonkey"
+        "message": "重新啟動篡改猴"
     },
     "Restore": {
         "message": "復原"
@@ -1384,7 +1399,7 @@
         "message": "正在同步"
     },
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
-        "message": "腳本同步 (Tampermonkey External Script List Access)"
+        "message": "腳本同步 (篡改猴External Script List Access)"
     },
     "TabMode": {
         "message": "Tab 模式"
@@ -1402,22 +1417,22 @@
         "message": "Tab"
     },
     "Tampermonkey_and_script_version": {
-        "message": "Tampermonkey + 腳本版本"
+        "message": "篡改猴+ 腳本版本"
     },
     "Tampermonkey_has_no_access_to_this_page": {
-        "message": "Tampermonkey 沒有存取此頁面的權限"
+        "message": "篡改猴沒有存取此頁面的權限"
     },
     "Tampermonkey_has_no_file_access_permission_": {
-        "message": "Tampermonkey 沒有存取本地檔案的權限！"
+        "message": "篡改猴沒有存取本地檔案的權限！"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
-        "message": "當此選項停用時，Tampermonkey 將無法提供存取 unsafe context（unsafeWindow，網頁的函式和變數）。"
+        "message": "當此選項停用時，篡改猴將無法提供存取 unsafe context（unsafeWindow，網頁的函式和變數）。"
     },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
-        "message": "Tampermonkey 需要重新啟動以套用變更。\n\n您確定要繼續嗎？"
+        "message": "篡改猴需要重新啟動以套用變更。\n\n您確定要繼續嗎？"
     },
     "Tampermonkey_version": {
-        "message": "僅限 Tampermonkey 版本"
+        "message": "僅限篡改猴版本"
     },
     "Templates": {
         "message": "模板"
@@ -1493,7 +1508,7 @@
         "message": "這個使用者腳本使用 Javascript 編寫"
     },
     "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
-        "message": "此選項將允許 Tampermonkey 首頁及一些腳本寄存網站判斷 Tampermonkey 的版本及其他腳本的基本資訊 (已安裝/啟用、版本)。"
+        "message": "此選項將允許篡改猴首頁及一些腳本寄存網站判斷篡改猴的版本及其他腳本的基本資訊 (已安裝/啟用、版本)。"
     },
     "This_page_is_blacklisted_at_the_security_settings": {
         "message": "此頁面因為安全性設定而加入黑名單"
@@ -1514,7 +1529,7 @@
         "message": "此腳本已列入黑名單！"
     },
     "This_script_stores_data": {
-        "message": "此腳本在 Tampermonkey 儲存資料。"
+        "message": "此腳本在篡改猴儲存資料。"
     },
     "This_script_was_deleted": {
         "message": "此腳本已被刪除"
@@ -1551,7 +1566,7 @@
         "message": "確定要移除所有腳本且重設所有設定嗎？"
     },
     "This_will_restart_Tampermonkey_Ok_": {
-        "message": "確定要重新啟動 Tampermonkey 嗎？"
+        "message": "確定要重新啟動篡改猴嗎？"
     },
     "Today": {
         "message": "今天"
@@ -1644,7 +1659,7 @@
         "message": "更新"
     },
     "Update_Notification": {
-        "message": "顯示 TamperMonkey 更新提示"
+        "message": "顯示篡改猴更新提示"
     },
     "Update_URL_": {
         "message": "更新網址"
@@ -1769,13 +1784,13 @@
         "message": "使用者腳本更新"
     },
     "You_can_add_your_custom_CSS_rules_here_": {
-        "message": "您可以在這裡為 Tampermonkey 的使用者介面新增自己的 CSS 規則。若損壞頁面，您可以在選項頁 URL 後加上 ?layout=reset 來回復預設佈局。"
+        "message": "您可以在這裡為篡改猴的使用者介面新增自己的 CSS 規則。若損壞頁面，您可以在選項頁 URL 後加上 ?layout=reset 來回復預設佈局。"
     },
     "You_can_add_your_custom_linter_config_here_": {
         "message": "您可以在這裡新增自訂 linter 設定檔。"
     },
     "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
-        "message": "您的語言沒有被翻譯嗎？\n點選這裡了解如何翻譯 Tampermonkey"
+        "message": "您的語言沒有被翻譯嗎？\n點選這裡了解如何翻譯篡改猴"
     },
     "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
         "message": "您的白名單看起來包含可執行檔案的副檔名！\n這意味著您的使用者腳本或許會下載惡意軟體或間諜軟體到您的磁碟上！！"

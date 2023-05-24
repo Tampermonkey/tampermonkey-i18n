@@ -82,6 +82,14 @@
             }
         }
     },
+    "0name0_Your_service_bot": {
+        "message": "$name$ - Your service bot",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "15_Seconds": {
         "message": "15 Seconds"
     },
@@ -116,6 +124,54 @@
     },
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
         "message": "A userscript wants to access a cross-origin resource."
+    },
+    "There_are_no_active_scripts__Do_you_want_to_search_for_userscripts_": {
+        "description": "A question asked by the service bot",
+        "message": "There are no active scripts. Do you want to search for userscripts?"
+    },
+    "Do_you_need_help_working_with_Tampermonkey_": {
+        "description": "A question asked by the service bot",
+        "message": "Do you need help working with Tampermonkey?"
+    },
+    "Do_you_need_help_installing_new_scripts_to_Tampermonkey_": {
+        "description": "A question asked by the service bot",
+        "message": "Do you need help installing new scripts to Tampermonkey?"
+    },
+    "Would_you_like_to_know_how_to_overwrite_or_extend_a_script_s_includes_and_or_excludes_": {
+        "description": "A question asked by the service bot",
+        "message": "Would you like to know how to overwrite or extend a script's includes and/or excludes?"
+    },
+    "Do_you_need_help_syncing_all_your_installed_scripts_to_another_browser_": {
+        "description": "A question asked by the service bot",
+        "message": "Do you need help syncing all your installed scripts to another browser?"
+    },
+    "Would_you_like_to_learn_how_to_export_and_import_your_scripts_": {
+        "description": "A question asked by the service bot",
+        "message": "Would you like to learn how to export and import your scripts?"
+    },
+    "Do_you_want_to_know_how_to_allow_Tampermonkey_access_to_local_file_URIs_": {
+        "description": "A question asked by the service bot",
+        "message": "Do you want to know how to allow Tampermonkey access to local file URIs?"
+    },
+    "One_of_your_scripts_is_blacklisted__Would_you_like_to_know_why_": {
+        "description": "A question asked by the service bot",
+        "message": "One of your scripts is blacklisted. Would you like to know why?"
+    },
+    "Do_you_need_help_viewing_and_editing_values_stored_by_a_userscript_": {
+        "description": "A question asked by the service bot",
+        "message": "Do you need help viewing and editing values stored by a userscript?"
+    },
+    "Do_you_want_to_use_an_external_editor_to_edit_your_scripts__nWould_you_like_to_know_how_to_set_this_up_": {
+        "description": "A question asked by the service bot",
+        "message": "Do you want to use an external editor to edit your scripts?\nWould you like to know how to set this up?"
+    },
+    "Are_you_unsure_about_what__sandbox_value_to_use_": {
+        "description": "A question asked by the service bot",
+        "message": "Are you unsure about what @sandbox value to use?"
+    },
+    "Do_you_need_help_finding_Tampermonkey_s_console_output_": {
+        "description": "A question asked by the service bot",
+        "message": "Do you need help finding Tampermonkey's console output?"
     },
     "Aborted_by_user": {
         "message": "Aborted by user"
@@ -1540,6 +1596,10 @@
     "Tabs": {
         "message": "Tabs"
     },
+    "Tam": {
+        "message": "Tam",
+        "description": "Name of the service bot"
+    },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + script version"
     },
@@ -1795,7 +1855,7 @@
         "message": "Update"
     },
     "Update_Notification": {
-        "message": "Show TM update notification"
+        "message": "Show update notification"
     },
     "Update_URL_": {
         "message": "Update URL"
