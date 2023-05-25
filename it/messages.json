@@ -82,6 +82,14 @@
             }
         }
     },
+    "0name0_Your_service_bot": {
+        "message": "$name$ - Bot di servizio",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "15_Seconds": {
         "message": "15 secondi"
     },
@@ -115,7 +123,55 @@
         }
     },
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
-        "message": "Uno script vuole accedere ad una risorsa di origini cross."
+        "message": "Uno script utente vuole accedere ad una risorsa multiorigine."
+    },
+    "There_are_no_active_scripts__Do_you_want_to_search_for_userscripts_": {
+        "description": "Una domanda posta dal bot di servizio",
+        "message": "Non ci sono script attivi. Vuoi cercare gli userscript?"
+    },
+    "Do_you_need_help_working_with_Tampermonkey_": {
+        "description": "Una domanda posta dal bot di servizio",
+        "message": "Hai bisogno di aiuto per lavorare con Tampermonkey?"
+    },
+    "Do_you_need_help_installing_new_scripts_to_Tampermonkey_": {
+        "description": "Una domanda posta dal bot di servizio",
+        "message": "Hai bisogno di aiuto per installare nuovi script su Tampermonkey?"
+    },
+    "Would_you_like_to_know_how_to_overwrite_or_extend_a_script_s_includes_and_or_excludes_": {
+        "description": "Una domanda posta dal bot di servizio",
+        "message": "Vuoi sapere come sovrascrivere o estendere le inclusioni e/o le esclusioni di uno script?"
+    },
+    "Do_you_need_help_syncing_all_your_installed_scripts_to_another_browser_": {
+        "description": "Una domanda posta dal bot di servizio",
+        "message": "Hai bisogno di aiuto per sincronizzare tutti gli script installati in un altro browser?"
+    },
+    "Would_you_like_to_learn_how_to_export_and_import_your_scripts_": {
+        "description": "Una domanda posta dal bot di servizio",
+        "message": "Vuoi imparare come esportare e importare i tuoi script?"
+    },
+    "Do_you_want_to_know_how_to_allow_Tampermonkey_access_to_local_file_URIs_": {
+        "description": "Una domanda posta dal bot di servizio",
+        "message": "Vuoi sapere come consentire a Tampermonkey di accedere agli URI dei file locali?"
+    },
+    "One_of_your_scripts_is_blacklisted__Would_you_like_to_know_why_": {
+        "description": "Una domanda posta dal bot di servizio",
+        "message": "Uno degli script è nella lista nera. Vuoi sapere perché?"
+    },
+    "Do_you_need_help_viewing_and_editing_values_stored_by_a_userscript_": {
+        "description": "Una domanda posta dal bot di servizio",
+        "message": "Hai bisogno di aiuto per visualizzare e modificare i valori memorizzati da uno script utente?"
+    },
+    "Do_you_want_to_use_an_external_editor_to_edit_your_scripts__nWould_you_like_to_know_how_to_set_this_up_": {
+        "description": "Una domanda posta dal bot di servizio",
+        "message": "Vuoi usre un editor esterno per modificare i tuoi script?\nVuoi sapere come impostarlo?"
+    },
+    "Are_you_unsure_about_what__sandbox_value_to_use_": {
+        "description": "Una domanda posta dal bot di servizio",
+        "message": "Non sei sicuro di quale valore @sandbox usare?"
+    },
+    "Do_you_need_help_finding_Tampermonkey_s_console_output_": {
+        "description": "Una domanda posta dal bot di servizio",
+        "message": "Hai bisogno di aiuto per trovare l'output della console di Tampermonkey?"
     },
     "Aborted_by_user": {
         "message": "Interrotto da utente"
@@ -1539,6 +1595,10 @@
     },
     "Tabs": {
         "message": "Tabulazioni"
+    },
+    "Tam": {
+        "message": "Tam",
+        "description": "Nome bot di servizio"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + versione script"
