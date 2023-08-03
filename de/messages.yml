@@ -661,6 +661,8 @@ Original_includes:
   message: Original Include
 Original_matches:
   message: Original Match
+Overwrite:
+  message: Überschreiben
 Page_Filter_Mode:
   message: Filtere Seiten nach
 Password:
@@ -901,6 +903,12 @@ The_script_was_successfully_deleted_:
   message: Das Script wurde erfolgreich gelöscht.
 The_script_was_successfully_moved_to_the_trash_:
   message: Das Script wurde erfolgreich in den Papierkorb verschoben.
+The_script_was_modified_locally_on_0date0__Updating_it_will_overwrite_your_changes_:
+  message: Das Script wurde am $date$ lokal modifiziert. Ein Update wird diese Änderungen überschreiben!
+  placeholders:
+    date: $1
+Modifying_a_script_will_disable_automatic_script_updates_:
+  message: "Das Bearbeiten des Scripts deaktiviert die automatischen Updates!"
 The_update_url_has_changed_from_0oldurl0_to__0newurl0:
   message: |
     Die Update-URL hat sich von:
@@ -948,6 +956,8 @@ This_script_does_not_provide_any__include_information_:
   message: Dieses Userscript beinhaltet keine @include-Informationen.
 This_script_does_not_require_any_special_powers_:
   message: Dieses Script verlangt keine besonderen Rechte.
+This_script_has_local_modifications_and_needs_to_be_updated_manually:
+  message: Dieses Script wurde lokal modifiziert und muss manuell aktualisiert werden!
 This_script_has_access_to_https_pages:
   message: Dieses Element hat Zugriff auf verschlüsselte Seiten.
 This_script_has_full_web_access:

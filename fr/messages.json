@@ -1,16 +1,4 @@
 {
-    "extName": {
-        "message": "Tampermonkey"
-    },
-    "extNameBeta": {
-        "message": "Tampermonkey BETA"
-    },
-    "extShortName": {
-        "message": "Tampermonkey"
-    },
-    "extShortNameBeta": {
-        "message": "TM BETA"
-    },
     "extDescription": {
         "message": "Changez le web à volonté avec des userscripts"
     },
