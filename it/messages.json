@@ -1216,6 +1216,9 @@
     "Original_matches": {
         "message": "Corrispondenze originali"
     },
+    "Overwrite": {
+        "message": "Sovrascrivi"
+    },
     "Page_Filter_Mode": {
         "message": "Modo filtro pagina"
     },
@@ -1657,6 +1660,17 @@
     "The_script_was_successfully_moved_to_the_trash_": {
         "message": "Lo script è stato correttamente spostato nel cestino."
     },
+    "Modifying_a_script_will_disable_automatic_script_updates_": {
+        "message": "Modifying a script will disable automatic script updates!"
+    },
+    "The_script_was_modified_locally_on_0date0__Updating_it_will_overwrite_your_changes_": {
+        "message": "Lo script è stato modificato localmente in data $date$.\nL'aggiornamento sovrascriverà le modifiche!",
+        "placeholders": {
+            "date": {
+                "content": "$1"
+            }
+        }
+    },
     "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
         "message": "L'URL per l'aggiornamento è cambiata da:\n    '$oldurl$'\n    a:\n    '$newurl$'\n",
         "placeholders": {
@@ -1714,6 +1728,9 @@
     },
     "This_script_has_full_web_access": {
         "message": "Questo script ha pieno accesso a internet."
+    },
+    "This_script_has_local_modifications_and_needs_to_be_updated_manually": {
+        "message": "Questo script ha modifiche locali e deve essere aggiornato manualmente!"
     },
     "This_script_is_blacklisted_": {
         "message": "Questo script è nell'elenco vietati!"
