@@ -82,6 +82,14 @@
             }
         }
     },
+    "0name0_Your_service_bot": {
+        "message": "$name$ - あなたのサービス ボット",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "15_Seconds": {
         "message": "15 秒"
     },
@@ -116,6 +124,54 @@
     },
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
         "message": "UserScript がオリジン間リソースへのアクセスを要求しています。"
+    },
+    "There_are_no_active_scripts__Do_you_want_to_search_for_userscripts_": {
+        "description": "A question asked by the service bot",
+        "message": "アクティブなスクリプトはありません。UserScript を検索しますか?"
+    },
+    "Do_you_need_help_working_with_Tampermonkey_": {
+        "description": "A question asked by the service bot",
+        "message": "Tampermonkey の使い方についてお手伝いが必要ですか?"
+    },
+    "Do_you_need_help_installing_new_scripts_to_Tampermonkey_": {
+        "description": "A question asked by the service bot",
+        "message": "Tampermonkey に新しいスクリプトをインストールする際にお手伝いが必要ですか?"
+    },
+    "Would_you_like_to_know_how_to_overwrite_or_extend_a_script_s_includes_and_or_excludes_": {
+        "description": "A question asked by the service bot",
+        "message": "スクリプトの include や exclude を上書き/拡張する方法を知りたいですか?"
+    },
+    "Do_you_need_help_syncing_all_your_installed_scripts_to_another_browser_": {
+        "description": "A question asked by the service bot",
+        "message": "インストール済みスクリプトを別のブラウザーにすべて同期させる際にお手伝いが必要ですか?"
+    },
+    "Would_you_like_to_learn_how_to_export_and_import_your_scripts_": {
+        "description": "A question asked by the service bot",
+        "message": "スクリプトをエクスポート/インポートする方法を学びたいですか?"
+    },
+    "Do_you_want_to_know_how_to_allow_Tampermonkey_access_to_local_file_URIs_": {
+        "description": "A question asked by the service bot",
+        "message": "Tampermonkey にローカル ファイルの URI へのアクセスを許可する方法を知りたいですか?"
+    },
+    "One_of_your_scripts_is_blacklisted__Would_you_like_to_know_why_": {
+        "description": "A question asked by the service bot",
+        "message": "あなたのスクリプトの 1 つがブラックリストに登録されています。その理由を知りたいですか?"
+    },
+    "Do_you_need_help_viewing_and_editing_values_stored_by_a_userscript_": {
+        "description": "A question asked by the service bot",
+        "message": "UserScript によって保管された値を表示/編集する際にお手伝いが必要ですか?"
+    },
+    "Do_you_want_to_use_an_external_editor_to_edit_your_scripts__nWould_you_like_to_know_how_to_set_this_up_": {
+        "description": "A question asked by the service bot",
+        "message": "外部エディターでスクリプトを編集したいですか? これを設定する方法を知りたいですか?"
+    },
+    "Are_you_unsure_about_what__sandbox_value_to_use_": {
+        "description": "A question asked by the service bot",
+        "message": "@sandbox のどの値を使用すべきか不明ですか?
+    },
+    "Do_you_need_help_finding_Tampermonkey_s_console_output_": {
+        "description": "A question asked by the service bot",
+        "message": "Tampermonkey のコンソール出力を見つける際にお手伝いが必要ですか?"
     },
     "Aborted_by_user": {
         "message": "ユーザーにより中止されました"
@@ -1127,6 +1183,9 @@
     "Original_matches": {
         "message": "元の match"
     },
+    "Overwrite": {
+        "message": "上書き"
+    },
     "Page_Filter_Mode": {
         "message": "ページ フィルターのモード"
     },
@@ -1492,6 +1551,10 @@
     "Tabs": {
         "message": "タブ"
     },
+    "Tam": {
+        "message": "Tam",
+        "description": "サービス ボットの名前"
+    },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + スクリプトのバージョン"
     },
@@ -1548,6 +1611,17 @@
     },
     "The_script_was_successfully_moved_to_the_trash_": {
         "message": "スクリプトをごみ箱に移動しました。"
+    },
+    "Modifying_a_script_will_disable_automatic_script_updates_": {
+        "message": "スクリプトを変更すると、スクリプトの自動更新が無効になります!"
+    },
+    "The_script_was_modified_locally_on_0date0__Updating_it_will_overwrite_your_changes_": {
+        "message": "スクリプトはローカルで $date$ に変更されました。更新するとあなたの変更内容は上書きされます!",
+        "placeholders": {
+            "date": {
+                "content": "$1"
+            }
+        }
     },
     "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
         "message": "更新 URL が変更されました。変更前:\n    「$oldurl$」\n    変更後:\n    「$newurl$」\n",
@@ -1606,6 +1680,9 @@
     },
     "This_script_has_full_web_access": {
         "message": "このスクリプトはインターネットに完全なアクセスをします。"
+    },
+    "This_script_has_local_modifications_and_needs_to_be_updated_manually": {
+        "message": "このスクリプトにはローカルでの変更点があり、手動で更新する必要があります。"
     },
     "This_script_is_blacklisted_": {
         "message": "このスクリプトはブラックリストに入っています!"
@@ -1744,7 +1821,7 @@
         "message": "更新"
     },
     "Update_Notification": {
-        "message": "Tampermonkey の更新通知の表示"
+        "message": "更新の通知の表示"
     },
     "Update_URL_": {
         "message": "更新 URL"
