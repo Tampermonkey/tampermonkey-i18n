@@ -1,4 +1,19 @@
 {
+    "extName": {
+        "message": "Tampermonkey"
+    },
+    "extNameBeta": {
+        "message": "Tampermonkey BETA"
+    },
+    "extShortName": {
+        "message": "Tampermonkey"
+    },
+    "extShortNameBeta": {
+        "message": "TM BETA"
+    },
+    "extDescription": {
+        "message": "Mude a web à vontade com userscripts"
+    },
     "1": {
         "message": "1"
     },
@@ -67,20 +82,28 @@
             }
         }
     },
+    "0name0_Your_service_bot": {
+        "message": "$name$ - Seu bot de serviço",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "15_Seconds": {
         "message": "15 segundos"
     },
     "1_Hour": {
-        "message": "1 Hora"
+        "message": "1 hora"
     },
     "1_Minute": {
-        "message": "1 Minuto"
+        "message": "1 minuto"
     },
     "30_Seconds": {
-        "message": "30 Segundos"
+        "message": "30 segundos"
     },
     "5_Minutes": {
-        "message": "5 Minutos"
+        "message": "5 minutos"
     },
     "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
         "message": "Uma nova verificação das opções de compatibilidade do GreaseMonkey/FF talvez seja necessária para executar este script."
@@ -102,6 +125,54 @@
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
         "message": "Um userscript quer acessar um recurso de origem cruzada."
     },
+    "There_are_no_active_scripts__Do_you_want_to_search_for_userscripts_": {
+        "description": "A question asked by the service bot",
+        "message": "Não há scripts ativos. Gostaria de pesquisar por userscripts?"
+    },
+    "Do_you_need_help_working_with_Tampermonkey_": {
+        "description": "A question asked by the service bot",
+        "message": "Você precisa de ajuda com o Tampermonkey?"
+    },
+    "Do_you_need_help_installing_new_scripts_to_Tampermonkey_": {
+        "description": "A question asked by the service bot",
+        "message": "Você precisa de ajuda para instalar scripts no Tampermonkey?"
+    },
+    "Would_you_like_to_know_how_to_overwrite_or_extend_a_script_s_includes_and_or_excludes_": {
+        "description": "A question asked by the service bot",
+        "message": "Você gostaria de saber como substituir ou estender inclusões e/ou exclusões do script?"
+    },
+    "Do_you_need_help_syncing_all_your_installed_scripts_to_another_browser_": {
+        "description": "A question asked by the service bot",
+        "message": "Você precisa de ajuda para sincronizar  todos os seus scripts instalados com outro navegador?"
+    },
+    "Would_you_like_to_learn_how_to_export_and_import_your_scripts_": {
+        "description": "A question asked by the service bot",
+        "message": "Você gostaria de aprender como exportar e importar os seus scripts?"
+    },
+    "Do_you_want_to_know_how_to_allow_Tampermonkey_access_to_local_file_URIs_": {
+        "description": "A question asked by the service bot",
+        "message": "Você gostaria de saber como permitir o Tampermonkey acessar URIs de arquivos locais?"
+    },
+    "One_of_your_scripts_is_blacklisted__Would_you_like_to_know_why_": {
+        "description": "A question asked by the service bot",
+        "message": "Um dos seus scripts está na lista negra. Você gostaria de saber o por quê?"
+    },
+    "Do_you_need_help_viewing_and_editing_values_stored_by_a_userscript_": {
+        "description": "A question asked by the service bot",
+        "message": "Você precisa de ajuda para visualizar e editar valores armazenados por um userscript?"
+    },
+    "Do_you_want_to_use_an_external_editor_to_edit_your_scripts__nWould_you_like_to_know_how_to_set_this_up_": {
+        "description": "A question asked by the service bot",
+        "message": "Deseja usar um editor externo para editar seus scripts?\nGostaria de saber como configurar isso?"
+    },
+    "Are_you_unsure_about_what__sandbox_value_to_use_": {
+        "description": "A question asked by the service bot",
+        "message": "Você não tem certeza qual valor usar para @sandbox?"
+    },
+    "Do_you_need_help_finding_Tampermonkey_s_console_output_": {
+        "description": "A question asked by the service bot",
+        "message": "Você precisa de ajuda para encontrar a saída do console do Tampermonkey?"
+    },
     "Aborted_by_user": {
         "message": "Abortado pelo usuário"
     },
@@ -119,6 +190,9 @@
     },
     "Add": {
         "message": "Adicionar"
+    },
+    "Add_GM_functions_to_this_or_window": {
+        "message": "Adicione funções do GM a esta ou janela"
     },
     "Add_Selection_Above": {
         "message": "Adicionar seleção acima"
@@ -148,6 +222,9 @@
     },
     "Advanced": {
         "message": "Avançado"
+    },
+    "All": {
+        "message": "Todos"
     },
     "All_local_files": {
         "message": "Todos os arquivos locais"
@@ -407,7 +484,16 @@
         "message": "Comentar"
     },
     "Config_Mode": {
-        "message": "Modo de configurações"
+        "message": "Modo de configuração"
+    },
+    "Configures_which_sandbox_values_are_valid": {
+        "message": "Configura quais valores @sandbox são válidos"
+    },
+    "Content_Script": {
+        "message": "Script de conteúdo"
+    },
+    "Content_Script_API": {
+        "message": "API do script de conteúdo"
     },
     "Context_Menu": {
         "message": "Menu de Contexto"
@@ -428,7 +514,7 @@
         "message": "Cursor"
     },
     "Custom_CSS": {
-        "message": "CSS do usuário"
+        "message": "CSS personalizado"
     },
     "Custom_Linter_Config": {
         "message": "Configuração Linter Personalizada"
@@ -596,6 +682,14 @@
     "Enabled": {
         "message": "Ativado"
     },
+    "Enabling_this_makes_it_easy_for_scripts_to_leak_it_s_granted_powers_to_the_page_Therefore__off__is_the_safest_option_": {
+        "message": "Habilitar isso torna muito fácil para os userscripts vazarem seus poderes concedidos para a página. Portanto, \"$off$\" é a opção mais segura, mas pode causar problemas de compatibilidade.",
+        "placeholders": {
+            "off": {
+                "content": "$1"
+            }
+        }
+    },
     "Enforce": {
         "message": "Forçar"
     },
@@ -639,6 +733,39 @@
     },
     "Export": {
         "message": "Exportar"
+    },
+    "Export_script_0name0_0uuid0": {
+        "message": "Exportar script \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Export_script_meta_data_of_0name0": {
+        "message": "Exportar metadados do script \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Export_script_source_of_0name0": {
+        "message": "Exportar fonte do script \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
     },
     "Externals": {
         "message": "Externos"
@@ -699,6 +826,15 @@
     },
     "Forbid_once": {
         "message": "Proibir uma vez"
+    },
+    "Force_DOM": {
+        "message": "Forçar DOM"
+    },
+    "Force_JavaScript": {
+        "message": "Forçar JavaScript"
+    },
+    "Force_Raw": {
+        "message": "Forçar Raw"
     },
     "Found_0count0_available_scripts": {
         "message": "Encontrados $count$ scripts disponíveis",
@@ -785,6 +921,14 @@
     },
     "Import_from_file": {
         "message": "Importar do arquivo"
+    },
+    "Import_remote_script_0uuid0": {
+        "message": "Importar script remoto ($uuid$)",
+        "placeholders": {
+            "uuid": {
+                "content": "$1"
+            }
+        }
     },
     "Imported": {
         "message": "Importado"
@@ -875,6 +1019,9 @@
     "Invalid_UserScript_name__Sry_": {
         "message": "Nome de Script inválido. Desculpe!"
     },
+    "JavaScript_and_DOM": {
+        "message": "JavaScript+DOM"
+    },
     "Join_Lines": {
         "message": "Juntar linhas"
     },
@@ -925,6 +1072,17 @@
     },
     "Login": {
         "message": "Login"
+    },
+    "Lookup_remote_script_0uuid0": {
+        "message": "Consultar script remoto ($uuid$)",
+        "placeholders": {
+            "uuid": {
+                "content": "$1"
+            }
+        }
+    },
+    "Lookup_remote_script_list": {
+        "message": "Consultar lista de script remoto"
     },
     "Lower_Case": {
         "message": "minúsculas"
@@ -1058,6 +1216,9 @@
     "Original_matches": {
         "message": "Correspondências originais"
     },
+    "Overwrite": {
+        "message": "Sobrescrever"
+    },
     "Page_Filter_Mode": {
         "message": "Modo de Filtro de Página"
     },
@@ -1097,7 +1258,13 @@
         "message": "Marcador anterior"
     },
     "Process_with_Chrome": {
-        "message": "Processar com Chrome"
+        "message": "Processar com o navegador"
+    },
+    "Raw_and_JavaScript": {
+        "message": "Raw e JavaScript"
+    },
+    "DOM_mode_is_unsecure__Scripts_can_install_new_scripts_": {
+        "message": O modo sandbox "\"DOM\" é inseguro. Executar userscripts têm permissões de extensão quase completas e podem até modificar e instalar novos userscripts."
     },
     "Really_delete_0name0__": {
         "message": "Você deseja realmente excluir '$name$'?",
@@ -1125,6 +1292,9 @@
     "Really_restore_all_userscripts_": {
         "message": "Você realmente deseja restaurar todos os userscripts?"
     },
+    "Recent_Sync_Log": {
+        "message": "Registro de sincronização recente"
+    },
     "Redo": {
         "message": "Refazer"
     },
@@ -1145,6 +1315,28 @@
     },
     "Remove__possibly_unsecure_": {
         "message": "Remover totalmente (possivelmente não seguro)"
+    },
+    "Remove_local_script_0name0_0uuid0": {
+        "message": "Remover script local \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Remove_remote_script_0name0_0uuid0": {
+        "message": "Remover script remoto \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
     },
     "Replace": {
         "message": "Substituir"
@@ -1200,6 +1392,9 @@
     "Running_scripts": {
         "message": "Executando instâncias de scripts"
     },
+    "Sandbox_Mode": {
+        "message": "Modo Sandbox"
+    },
     "Save": {
         "message": "Salvar"
     },
@@ -1216,6 +1411,9 @@
     },
     "Script_Blacklist_Source": {
         "message": "Fonte de Lista Negra de Scripts"
+    },
+    "Script_Include_Mode": {
+        "message": "Modo @include do userscript"
     },
     "Script_Sync": {
         "message": "TESLA"
@@ -1401,6 +1599,10 @@
     "Tabs": {
         "message": "Guias"
     },
+    "Tam": {
+        "message": "Tam",
+        "description": "Nome do bot de serviço"
+    },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + versão do script"
     },
@@ -1451,6 +1653,23 @@
     },
     "The_origin_of_this_script_cant_be_determined_": {
         "message": "Aviso: A origem deste script não pôde ser determinada.\nOu ele foi instalado maliciosamente por terceiros para roubar seus dados privados ou algumas configurações básicas do navegador, seu sistema operacional ou hardware foi alterado!\n\nPor favor, abra, revise e salve o script para habilitá-lo."
+    },
+    "The_script_was_successfully_deleted_": {
+        "message": "O script foi removido com sucesso."
+    },
+    "The_script_was_successfully_moved_to_the_trash_": {
+        "message": "O script foi movido para a lixeira com sucesso."
+    },
+    "Modifying_a_script_will_disable_automatic_script_updates_": {
+        "message": "Modificar um script irá desativar a atualização automática do script!"
+    },
+    "The_script_was_modified_locally_on_0date0__Updating_it_will_overwrite_your_changes_": {
+        "message": "O script foi modificado localmente em $date$. Atualizá-lo irá substituir as suas alterações!",
+        "placeholders": {
+            "date": {
+                "content": "$1"
+            }
+        }
     },
     "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
         "message": "O URL de atualização mudou:\n '$oldurl$'\n para:\n '$newurl$'\n",
@@ -1509,6 +1728,9 @@
     },
     "This_script_has_full_web_access": {
         "message": "Este script tem acesso total à Internet."
+    },
+    "This_script_has_local_modifications_and_needs_to_be_updated_manually": {
+        "message": "Este script possui modificações locais e precisa ser atualizado manualmente!"
     },
     "This_script_is_blacklisted_": {
         "message": "Este script está na lista negra!"
@@ -1578,10 +1800,13 @@
         "message": "Inverter posição"
     },
     "Trash": {
-        "message": "🗑"
+        "message": "?"
     },
     "Trash_Mode": {
         "message": "Modo Lixeira"
+    },
+    "Treat_like__match": {
+        "message": "Tratar como @match"
     },
     "Trigger_Update": {
         "message": "Iniciar busca de atualização"
@@ -1640,6 +1865,9 @@
             }
         }
     },
+    "Unsafe": {
+        "message": "Inseguro"
+    },
     "Update": {
         "message": "Atualizar"
     },
@@ -1655,6 +1883,17 @@
     "Update_interval": {
         "message": "Intervalo de atualizações"
     },
+    "Update_local_script_0name0_0uuid0": {
+        "message": "Atualizar script local \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
     "Updated_to__0version0": {
         "message": "Atualizado para: $version$",
         "placeholders": {
@@ -1668,6 +1907,9 @@
     },
     "Upper_Case": {
         "message": "MAIÚSCULAS"
+    },
+    "UserScripts_API": {
+        "message": "API dos UserScripts"
     },
     "User_domain_blacklist": {
         "message": "lista negra de domínio do usuário"
@@ -1695,6 +1937,26 @@
     },
     "Userscripts": {
         "message": "Userscripts"
+    },
+    "Using__include_is_potentially_unsafe_and_may_be_obsolete_soon___0off0_disables__include_completely__0match0__is_safe__but_may_not_compatible_the_script_developers_intention__0unsafe0__mostly_keeps_the_legacy_behavior_0default0__means__0used_default0": {
+        "message": "Usar @include é potencialmente inseguro e pode ser obsoleto em Manifest v3 no início de 2023. Esta configuração permite que você configure o modo como @include é interpretado. '$off$' desativa @include completamente, '$match$' é seguro, mas pode não ser compatível com a intenção dos desenvolvedores do script. '$unsafe$' principalmente mantém o comportamento herdado e '$default$' significa '$used_default$' por enquanto.",
+        "placeholders": {
+            "off": {
+                "content": "$1"
+            },
+            "match": {
+                "content": "$2"
+            },
+            "unsafe": {
+                "content": "$3"
+            },
+            "default": {
+                "content": "$4"
+            },
+            "used_default": {
+                "content": "$5"
+            }
+        }
     },
     "Utilities": {
         "message": "Utilitários"
