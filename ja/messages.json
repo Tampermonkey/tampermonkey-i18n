@@ -72,7 +72,7 @@
         }
     },
     "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
-        "message": "$name$ $version$ を利用できます。\n更新を開始するにはブラウザーを再起動してください!",
+        "message": "$name$ $version$ があります。\n更新するにはブラウザーを再起動してください!",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -83,7 +83,7 @@
         }
     },
     "0name0_Your_service_bot": {
-        "message": "$name$ - あなたのサービス ボット",
+        "message": "$name$ - サービス ボット",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -106,7 +106,7 @@
         "message": "5 分"
     },
     "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-        "message": "GreaseMonkey/FF 互換性オプションを再確認してください。このスクリプトの実行に必要である可能性があります。"
+        "message": "GreaseMonkey/FF 互換性オプションを再確認してください。このスクリプトの実行に必要な可能性があります。"
     },
     "A_reload_is_required": {
         "message": "再読み込みが必要です: \n保存していない変更はすべて失われます!"
@@ -310,7 +310,7 @@
         "message": "選択したスクリプトすべてにこの操作を適用"
     },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
-        "message": "Tampermonkey がブラウザーによって更新される際、同時に再起動もされます。残念ですが、これにより実行中のスクリプトが壊れる場合があります!\n\n更新を通知しないように設定してよろしいですか?"
+        "message": "Tampermonkey がブラウザーによって更新される際、同時に再起動もされます。残念ですが、これにより実行中のスクリプトが壊れる場合があります!\n\n更新を通知しないように設定しますか?"
     },
     "Ask_if_unknown": {
         "message": "不明な場合は確認"
@@ -437,7 +437,7 @@
         "message": "すべて消去"
     },
     "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
-        "message": "Tampermonkey による以下のホストへのアクセスを許可するため OK をクリックしてください:\n\n$host_list$",
+        "message": "Tampermonkey による以下のホストへのアクセスを許可するため OK を押してください:\n\n$host_list$",
         "placeholders": {
             "host_list": {
                 "content": "$1"
@@ -445,7 +445,7 @@
         }
     },
     "Click_here_to_allow_TM_to_start_downloads": {
-        "message": "Tampermonkey がインスタント ダウンロードを開始できるようにするには OK をクリックしてください。"
+        "message": "Tampermonkey がダウンロードを開始するには OK を押してください。"
     },
     "Click_here_to_install_it_": {
         "message": "インストールするにはここをクリックしてください。"
@@ -523,16 +523,16 @@
         "message": "デコード中..."
     },
     "Default": {
-        "message": "既定"
+        "message": "標準"
     },
     "Default_Dark": {
-        "message": "既定 - 暗い"
+        "message": "標準 - ダーク"
     },
     "Default_Darker": {
-        "message": "既定 - もっと暗い"
+        "message": "標準 - もっとダーク"
     },
     "Default_Light": {
-        "message": "既定 - 明るい"
+        "message": "標準 - ライト"
     },
     "Default_tab_types_to_run_scripts_in": {
         "message": "スクリプトを実行する既定のタブの種類"
@@ -583,7 +583,7 @@
         "message": "無効"
     },
     "Do_you_really_want_to_store_fixed_code_": {
-        "message": "オプション「$option$」が有効です!\n\n修正されたソースを保存してよろしいですか?",
+        "message": "オプション「$option$」が有効です!\n\n修正されたソースを保存しますか?",
         "placeholders": {
             "option": {
                 "content": "$1"
@@ -954,7 +954,7 @@
         "message": "情報"
     },
     "Inject_Mode": {
-        "message": "注入モード"
+        "message": "挿入方法"
     },
     "Insert_Line_After": {
         "message": "下に行を挿入"
@@ -978,7 +978,7 @@
         "message": "インストール済み UserScript"
     },
     "Instant": {
-        "message": "即席"
+        "message": "即時"
     },
     "Invalid_UserScript__Sry_": {
         "message": "UserScript が無効です。すみません!"
@@ -1115,7 +1115,7 @@
         "message": "インストール済のスクリプトはありません"
     },
     "No_script_is_running": {
-        "message": "実行中のスクリプトはありません"
+        "message": "実行中のスクリプトなし"
     },
     "No_syntax_errors_were_found_": {
         "message": "構文エラーは見つかりませんでした。"
@@ -1234,7 +1234,7 @@
         "message": "「DOM」サンドボックス モードはセキュアではありません。実行中の UserScript には拡張機能のほぼ完全な権限があり、UserScript を変更/新規インストールすることもさえできます。"
     },
     "Really_delete_0name0__": {
-        "message": "「$name$」を削除してよろしいですか?",
+        "message": "「$name$」を削除しますか?",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1242,25 +1242,25 @@
         }
     },
     "Really_delete_all_userscripts_": {
-        "message": "UserScript をすべて完全に削除してよろしいですか?"
+        "message": "UserScript をすべて完全に削除しますか?"
     },
     "Really_delete_the_selected_items_": {
-        "message": "選択した項目を削除してよろしいですか?"
+        "message": "選択項目を削除しますか?"
     },
     "Really_factory_reset_the_selected_items_": {
-        "message": "選択した項目を初期化してよろしいですか?"
+        "message": "選択した項目を初期化しますか?"
     },
     "Really_factory_reset_this_script_": {
-        "message": "このスクリプトを初期化してよろしいですか?"
+        "message": "このスクリプトを初期化しますか?"
     },
     "Really_reset_all_changes_": {
-        "message": "すべての変更をリセットしてよろしいですか?"
+        "message": "すべての変更をリセットしますか?"
     },
     "Really_restore_all_userscripts_": {
-        "message": "UserScript をすべて復元してよろしいですか?"
+        "message": "UserScript をすべて復元しますか?"
     },
     "Recent_Sync_Log": {
-        "message": "Recent Sync Log"
+        "message": "最近の同期ログ"
     },
     "Redo": {
         "message": "やり直し"
@@ -1559,13 +1559,13 @@
         "message": "Tampermonkey + スクリプトのバージョン"
     },
     "Tampermonkey_has_no_access_to_this_page": {
-        "message": "Tampermonkey のこのページへのアクセスが許可されていません"
+        "message": "Tampermonkey はこのページへのアクセス権なし"
     },
     "Tampermonkey_has_no_file_access_permission_": {
-        "message": "Tampermonkey のローカル ファイルへのアクセスが許可されていません!"
+        "message": "Tampermonkey にパソコン内ファイルへのアクセス権なし"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
-        "message": "これを無効にすると、安全ではないコンテキスト (unsafeWindow、ページの関数や変数) へのアクセスを Tampermonkey が提供できなくなります。"
+        "message": "無効にすると、安全ではない場合 (unsafeWindow、ページの関数や変数) へのアクセスを Tampermonkey が提供できなくなります。"
     },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
         "message": "この変更を適用するには、Tampermonkeyを再起動する必要があります。\n\n続行しますか?"
@@ -1598,7 +1598,7 @@
         "message": "ブラウザー API モードには特別な許可が必要です。"
     },
     "The_diff_for_this_script_is_too_large_to_render": {
-        "message": "このスクリプトの差分(diff)は大きすぎてレンダリングできません"
+        "message": "このスクリプトの差分(diff)は大きすぎて描画できません"
     },
     "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
         "message": "ダウングレードされたスクリプトが格納されたデータを読み取ることで問題点が発生する場合があります!"
@@ -1652,7 +1652,7 @@
         "message": "この外部リソースは自動更新されません! 再度更新を有効にするには削除してください。"
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
-        "message": "この操作によりこのスクリプトにあらゆるウェブページにデータを送受信する権限を与えることになります。これは潜在的に危険です!\n\n続行してよろしいですか?"
+        "message": "この操作によりこのスクリプトにあらゆるウェブページにデータを送受信する権限を与えることになります。これは潜在的に危険です!\n\n続行しますか?"
     },
     "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
         "message": "このスクリプトの出所を特定できません。\n第三者が非公開データまたは一部の基本的なブラウザー設定を盗むためにインストールしたか、またはオペレーティング システムまたはハードウェアが変更されました。\nこの変更により、スクリプトが有効になります!"
@@ -1719,13 +1719,13 @@
         "message": "この操作により、グローバル設定が上書きされます!"
     },
     "This_will_remove_all_remote_data_from_sync_Ok_": {
-        "message": "Sync からすべてのデータを除去してよろしいですか?"
+        "message": "Sync からすべてのデータを除去しますか?"
     },
     "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
-        "message": "すべてのスクリプトの除去とすべての設定のリセットの両方を実行してよろしいですか?"
+        "message": "すべてのスクリプトの除去とすべての設定のリセットの両方を実行しますか?"
     },
     "This_will_restart_Tampermonkey_Ok_": {
-        "message": "Tampermonkey を再起動してよろしいですか?"
+        "message": "Tampermonkey を再起動しますか?"
     },
     "Today": {
         "message": "今日"
