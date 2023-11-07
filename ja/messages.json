@@ -194,11 +194,17 @@
     "Add_GM_functions_to_this_or_window": {
         "message": "this または window に GM 関数を追加"
     },
+    "Add_Selection_Above": {
+        "message": "Add Selection Above"
+    },
+    "Add_Selection_Below": {
+        "message": "Add Selection Below"
+    },
     "Add_TM_to_CSP": {
-        "message": "サイトのコンテンツ セキュリティ ポリシー (CSP) がある場合は、その CSP に Tampermonkey を追加する"
+        "message": "既存のコンテンツ セキュリティ ポリシー (CSP) を修正する"
     },
     "Add_Tampermonkey_to_the_site_s_content_csp": {
-        "message": "Tampermonkey をサイトのコンテンツ CSP に追加"
+        "message": "Tampermonkey を HTML の CSP に追加"
     },
     "Add_as_0clude0": {
         "message": "$clude$ として追加",
@@ -233,7 +239,7 @@
         "message": "すべてのタブ"
     },
     "Allow_Tampermonkey_to_collect_anonymous_statistics": {
-        "message": "Tampermonkey がセルフホストの Matomo インストレーションを介して匿名の統計を収集できるようにします。この統計は、作者が Tampermonkey を改良するのに役立ち、どの部分の開発に集中すべきかの判断材料としても役立ちます。協力したくない場合は無効にしてください。"
+        "message": "Tampermonkey が自己ホスト型の Matomo を介して匿名の統計を収集できるようにします。この統計は、作者が Tampermonkey を改良するのに役立ち、どの部分の開発に集中すべきかの判断材料としても役立ちます。協力したくない場合は無効にしてください。"
     },
     "Allow_communication_with_cooperate_pages": {
         "message": "協力ページとの通信を許可する"
@@ -289,13 +295,13 @@
         "message": "広告"
     },
     "Antifeature_miner": {
-        "message": "暗号マイニング"
+        "message": "暗号通貨の採掘"
     },
     "Antifeature_no_details": {
-        "message": "詳細はありません"
+        "message": "説明なし"
     },
     "Antifeature_other": {
-        "message": "対策機能"
+        "message": "アンチ機能"
     },
     "Antifeature_tracking": {
         "message": "追跡"
@@ -310,7 +316,7 @@
         "message": "選択したスクリプトすべてにこの操作を適用"
     },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
-        "message": "Tampermonkey がブラウザーによって更新される際、同時に再起動もされます。残念ですが、これにより実行中のスクリプトが壊れる場合があります!\n\n更新を通知しないように設定しますか?"
+        "message": "Tampermonkey がブラウザーによって更新される際、同時に再起動もされます。残念ですが、これにより実行中のスクリプトが壊れる場合があります!\n\n本当に更新を通知しないように設定しますか?"
     },
     "Ask_if_unknown": {
         "message": "不明な場合は確認"
@@ -403,6 +409,12 @@
     "Cancel": {
         "message": "キャンセル"
     },
+    "Casual": {
+        "message": "寛容"
+    },
+    "Center_Cursor": {
+        "message": "カーソル行を中央に"
+    },
     "Changelog": {
         "message": "更新履歴"
     },
@@ -410,7 +422,7 @@
         "message": "変更"
     },
     "Changes_the_number_of_visible_config_options": {
-        "message": "設定オプションの表示される個数を変更します"
+        "message": "設定の表示項目数が変わります"
     },
     "Check_disabled_scripts": {
         "message": "無効化されているスクリプトを更新する"
@@ -431,7 +443,7 @@
         "message": "クラシック"
     },
     "Clean_after_session": {
-        "message": "セッション後にクリーン"
+        "message": "セッション後に空にする"
     },
     "Clear_All": {
         "message": "すべて消去"
@@ -505,7 +517,7 @@
         "message": "カスタム CSS"
     },
     "Custom_Linter_Config": {
-        "message": "カスタム構文解析 (linter) の設定"
+        "message": "構文解析 (linter) のカスタム設定"
     },
     "Cut": {
         "message": "切り取り"
@@ -558,6 +570,9 @@
     "Delete_to_Previous_Word_Boundary": {
         "message": "前の単語境界まで削除"
     },
+    "Delete_to_Sublime_Mark": {
+        "message": "Sublime マークから削除"
+    },
     "Deleted_on": {
         "message": "削除日"
     },
@@ -574,7 +589,7 @@
         "message": "詳細"
     },
     "Developer": {
-        "message": "デベロッパー"
+        "message": "開発用"
     },
     "Disable": {
         "message": "無効にする"
@@ -583,7 +598,7 @@
         "message": "無効"
     },
     "Do_you_really_want_to_store_fixed_code_": {
-        "message": "オプション「$option$」が有効です!\n\n修正されたソースを保存しますか?",
+        "message": "オプション「$option$」が有効です!\n\n修正されたソースを本当に保存しますか?",
         "placeholders": {
             "option": {
                 "content": "$1"
@@ -638,7 +653,7 @@
         "message": "エディター"
     },
     "Editor_reset": {
-        "message": "エディターの内容をリセット"
+        "message": "変更内容を破棄"
     },
     "Emacs": {
         "message": "Emacs"
@@ -647,7 +662,7 @@
         "message": "有効にする"
     },
     "Enable_Editor": {
-        "message": "高度なエディターを有効にする"
+        "message": "高機能なエディターを有効にする"
     },
     "Enable_Script_Sync": {
         "message": "UserScript 同期を有効にする"
@@ -674,6 +689,9 @@
                 "content": "$1"
             }
         }
+    },
+    "Enforce": {
+        "message": "強制的に検証"
     },
     "Enter_the_new_rule": {
         "message": "新規ルールを入力"
@@ -753,7 +771,7 @@
         "message": "外部"
     },
     "Factory_Reset": {
-        "message": "初期化"
+        "message": "完全に初期化"
     },
     "Fast": {
         "message": "高速"
@@ -773,11 +791,20 @@
     "Find": {
         "message": "検索"
     },
+    "Find_All_Under": {
+        "message": "カーソルの文字列検索 全"
+    },
     "Find_Next": {
         "message": "次を検索"
     },
     "Find_Previous": {
         "message": "前を検索"
+    },
+    "Find_Under": {
+        "message": "カーソルの文字列検索 次"
+    },
+    "Find_Under_Previous": {
+        "message": "カーソルの文字列検索 前"
     },
     "Fix_wrappedJSObject_property_access": {
         "message": "wrappedJSObject プロパティのアクセスを修正する"
@@ -847,6 +874,12 @@
     "Google_Drive": {
         "message": "Google Drive"
     },
+    "Group_Left": {
+        "message": "前のまとまり"
+    },
+    "Group_Right": {
+        "message": "次のまとまり"
+    },
     "Help": {
         "message": "ヘルプ"
     },
@@ -857,7 +890,7 @@
         "message": "通知を隠すまでの時間"
     },
     "Highlight_selection_matches": {
-        "message": "選択との一致を強調表示する"
+        "message": "選択箇所と一致する文字列を強調表示する"
     },
     "Highlight_trailing_whitespace": {
         "message": "末尾の空白を強調表示する"
@@ -924,7 +957,7 @@
         "message": "外部のスクリプト リソースを含める"
     },
     "Include_script_storage": {
-        "message": "スクリプトのストレージを含める"
+        "message": "スクリプトの保存データを含める"
     },
     "Includes_Excludes": {
         "message": "include/exclude"
@@ -1023,7 +1056,7 @@
         "message": "前の行"
     },
     "Line_break": {
-        "message": "改行"
+        "message": "右端で折り返す"
     },
     "Lines": {
         "message": "行"
@@ -1064,7 +1097,7 @@
         "message": "UserScript と @require のブラックリストの手動指定"
     },
     "Matching_URL": {
-        "message": "一致する URL"
+        "message": "一致させたい URL"
     },
     "Modify": {
         "message": "変更"
@@ -1234,7 +1267,7 @@
         "message": "「DOM」サンドボックス モードはセキュアではありません。実行中の UserScript には拡張機能のほぼ完全な権限があり、UserScript を変更/新規インストールすることもさえできます。"
     },
     "Really_delete_0name0__": {
-        "message": "「$name$」を削除しますか?",
+        "message": "「$name$」を本当に削除しますか?",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1242,22 +1275,22 @@
         }
     },
     "Really_delete_all_userscripts_": {
-        "message": "UserScript をすべて完全に削除しますか?"
+        "message": "すべての UserScript を本当に完全に削除しますか?"
     },
     "Really_delete_the_selected_items_": {
-        "message": "選択項目を削除しますか?"
+        "message": "選択項目を本当に削除しますか?"
     },
     "Really_factory_reset_the_selected_items_": {
-        "message": "選択した項目を初期化しますか?"
+        "message": "選択項目を本当に初期化しますか?"
     },
     "Really_factory_reset_this_script_": {
-        "message": "このスクリプトを初期化しますか?"
+        "message": "このスクリプトを本当に初期化しますか?"
     },
     "Really_reset_all_changes_": {
-        "message": "すべての変更をリセットしますか?"
+        "message": "すべての変更を本当に元に戻しますか?"
     },
     "Really_restore_all_userscripts_": {
-        "message": "UserScript をすべて復元しますか?"
+        "message": "すべての UserScript を本当に復元しますか?"
     },
     "Recent_Sync_Log": {
         "message": "最近の同期ログ"
@@ -1333,7 +1366,7 @@
         "message": "require 指定"
     },
     "Reset_Section": {
-        "message": "リセット"
+        "message": "初期化"
     },
     "Resources": {
         "message": "リソース"
@@ -1447,11 +1480,17 @@
     "Select_between_Brackets": {
         "message": "中括弧内の内側を選択"
     },
+    "Select_to_Sublime_Mark": {
+        "message": "Sublime マークから選択"
+    },
     "Selection": {
         "message": "選択"
     },
     "Server_And_Manual": {
         "message": "リモート + 手動"
+    },
+    "Set_Sublime_Mark": {
+        "message": "Sublime マークを設定"
     },
     "Settings": {
         "message": "設定"
@@ -1507,7 +1546,7 @@
         "message": "停止"
     },
     "Storage": {
-        "message": "ストレージ"
+        "message": "保存データ"
     },
     "Store_data_in_incognito_mode": {
         "message": "シークレット モードでもデータを保管する"
@@ -1515,8 +1554,17 @@
     "Strict": {
         "message": "厳格"
     },
+    "Sublime": {
+        "message": "Sublime Text"
+    },
+    "Sublime_Mark": {
+        "message": "Sublime マーク"
+    },
     "Subresource_Integrity": {
         "message": "サブリソースの整合性"
+    },
+    "Swap_with_Sublime_Mark": {
+        "message": "Sublime マークを入れ替え"
     },
     "Sync_Now": {
         "message": "今すぐ実行"
@@ -1553,7 +1601,7 @@
     },
     "Tam": {
         "message": "Tam",
-        "description": "サービス ボットの名前"
+        "description": "Name of the service bot"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + スクリプトのバージョン"
@@ -1562,7 +1610,7 @@
         "message": "Tampermonkey はこのページへのアクセス権なし"
     },
     "Tampermonkey_has_no_file_access_permission_": {
-        "message": "Tampermonkey にパソコン内ファイルへのアクセス権なし"
+        "message": "Tampermonkey にローカル ファイルへのアクセス権なし"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "無効にすると、安全ではない場合 (unsafeWindow、ページの関数や変数) へのアクセスを Tampermonkey が提供できなくなります。"
@@ -1638,7 +1686,7 @@
         "message": "テーマ"
     },
     "There_are_unsaved_changed_": {
-        "message": "保存されていない変更があります。\nエディターを閉じてよろしいですか?"
+        "message": "保存されていない変更があります。\n本当にエディターを閉じますか?"
     },
     "There_is_an_update_for_0name0_avaiable_": {
         "message": "「$name$」の更新を利用できます。 :)",
@@ -1652,7 +1700,7 @@
         "message": "この外部リソースは自動更新されません! 再度更新を有効にするには削除してください。"
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
-        "message": "この操作によりこのスクリプトにあらゆるウェブページにデータを送受信する権限を与えることになります。これは潜在的に危険です!\n\n続行しますか?"
+        "message": "この操作によりこのスクリプトにあらゆるウェブページにデータを送受信する権限を与えることになります。これは潜在的に危険です!\n\n本当に続行しますか?"
     },
     "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
         "message": "このスクリプトの出所を特定できません。\n第三者が非公開データまたは一部の基本的なブラウザー設定を盗むためにインストールしたか、またはオペレーティング システムまたはハードウェアが変更されました。\nこの変更により、スクリプトが有効になります!"
@@ -1719,13 +1767,13 @@
         "message": "この操作により、グローバル設定が上書きされます!"
     },
     "This_will_remove_all_remote_data_from_sync_Ok_": {
-        "message": "Sync からすべてのデータを除去しますか?"
+        "message": "本当に Sync からすべてのデータを除去しますか?"
     },
     "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
-        "message": "すべてのスクリプトの除去とすべての設定のリセットの両方を実行しますか?"
+        "message": "本当にすべてのスクリプトを除去しすべての設定も初期化しますか?"
     },
     "This_will_restart_Tampermonkey_Ok_": {
-        "message": "Tampermonkey を再起動しますか?"
+        "message": "本当に Tampermonkey を再起動しますか?"
     },
     "Today": {
         "message": "今日"
@@ -1748,17 +1796,20 @@
     "Trace": {
         "message": "トレース"
     },
+    "Transpose": {
+        "message": "Transpose"
+    },
     "Trash": {
         "message": "🗑"
     },
     "Trash_Mode": {
-        "message": "ごみ箱モード"
+        "message": "ごみ箱の動作"
     },
     "Treat_like__match": {
         "message": "@match と同様に扱う"
     },
     "Trigger_Update": {
-        "message": "更新を引き起こす"
+        "message": "更新を確認"
     },
     "Trim_trailing_whitespace_from_modified_lines": {
         "message": "変更した行から末尾の空白を削除する"
@@ -1958,6 +2009,9 @@
     "Yandex_Disk": {
         "message": "Yandex.Disk"
     },
+    "Yank_Sublime_Mark": {
+        "message": "Sublime マーク ヤンク"
+    },
     "Yes": {
         "message": "はい"
     },
@@ -2044,5 +2098,8 @@
     },
     "strict_mode": {
         "message": "厳格モード"
+    },
+    "top_level_await": {
+        "message": "Top-level await"
     }
 }
