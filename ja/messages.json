@@ -987,7 +987,7 @@
         "message": "情報"
     },
     "Inject_Mode": {
-        "message": "挿入方法"
+        "message": "注入方法"
     },
     "Insert_Line_After": {
         "message": "下に行を挿入"
@@ -1287,7 +1287,7 @@
         "message": "このスクリプトを本当に初期化しますか?"
     },
     "Really_reset_all_changes_": {
-        "message": "すべての変更を本当に元に戻しますか?"
+        "message": "すべての変更を本当に破棄しますか?"
     },
     "Really_restore_all_userscripts_": {
         "message": "すべての UserScript を本当に復元しますか?"
@@ -1311,13 +1311,13 @@
         "message": "後で知らせる"
     },
     "Remove": {
-        "message": "除去"
+        "message": "削除"
     },
     "Remove__possibly_unsecure_": {
-        "message": "完全に除去 (おそらくセキュアではありません)"
+        "message": "完全に削除 (おそらくセキュアではありません)"
     },
     "Remove_local_script_0name0_0uuid0": {
-        "message": "ローカル スクリプト「$name$」($uuid$) を除去",
+        "message": "ローカル スクリプト「$name$」($uuid$) を削除",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1328,7 +1328,7 @@
         }
     },
     "Remove_remote_script_0name0_0uuid0": {
-        "message": "リモート スクリプト「$name$」($uuid$) を除去",
+        "message": "リモート スクリプト「$name$」($uuid$) を削除",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1767,10 +1767,10 @@
         "message": "この操作により、グローバル設定が上書きされます!"
     },
     "This_will_remove_all_remote_data_from_sync_Ok_": {
-        "message": "本当に Sync からすべてのデータを除去しますか?"
+        "message": "本当に Sync からすべてのデータを削除しますか?"
     },
     "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
-        "message": "本当にすべてのスクリプトを除去しすべての設定も初期化しますか?"
+        "message": "本当にすべてのスクリプトを削除しすべての設定も初期化しますか?"
     },
     "This_will_restart_Tampermonkey_Ok_": {
         "message": "本当に Tampermonkey を再起動しますか?"
@@ -1797,7 +1797,7 @@
         "message": "トレース"
     },
     "Transpose": {
-        "message": "Transpose"
+        "message": "1文字入れ替え"
     },
     "Trash": {
         "message": "🗑"
