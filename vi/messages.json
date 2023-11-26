@@ -1,4 +1,7 @@
 {
+    "extDescription": {
+        "message": "Thay đổi trang web theo ý muốn bằng tập lệnh người dùng"
+    },
     "0count0_changes_exported": {
         "message": "Đã xuất $count$ thay đổi",
         "placeholders": {
@@ -31,6 +34,14 @@
             },
             "version": {
                 "content": "$2"
+            }
+        }
+    },
+    "0name0_Your_service_bot": {
+        "message": "$name$ - Bot dịch vụ của bạn",
+        "placeholders": {
+            "name": {
+                "content": "$1"
             }
         }
     },
@@ -69,6 +80,57 @@
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
         "message": "Một tâp lệnh người dùng muốn truy cập một tài nguyên xuyên nguồn gốc."
     },
+    "There_are_no_active_scripts__Do_you_want_to_search_for_userscripts_": {
+        "description": "A question asked by the service bot",
+        "message": "Không có tập lệnh nào đang hoạt động. Bạn có muốn tìm thêm tập lệnh người dùng không?"
+    },
+    "Do_you_need_help_working_with_Tampermonkey_": {
+        "description": "A question asked by the service bot",
+        "message": "Bạn có cần trợ giúp việc sử dụng Tampermonkey không?"
+    },
+    "Do_you_need_help_installing_new_scripts_to_Tampermonkey_": {
+        "description": "A question asked by the service bot",
+        "message": "Bạn có cần trợ giúp việc cài đặt tập lệnh mới vào Tampermonkey không?"
+    },
+    "Would_you_like_to_know_how_to_overwrite_or_extend_a_script_s_includes_and_or_excludes_": {
+        "description": "A question asked by the service bot",
+        "message": "Bạn có muốn biết làm cách nào để ghi đè hay mở rộng phần bao gồm hoặc loại trừ của một tập lệnh không?"
+    },
+    "Do_you_need_help_syncing_all_your_installed_scripts_to_another_browser_": {
+        "description": "A question asked by the service bot",
+        "message": "Bạn có cần trợ giúp việc đồng bộ tất cả các tập lệnh đã cài sang trình duyệt khác không?"
+    },
+    "Would_you_like_to_learn_how_to_export_and_import_your_scripts_": {
+        "description": "A question asked by the service bot",
+        "message": "Bạn có muốn tìm hiểu cách nhập và xuất các tập lệnh của bạn không?"
+    },
+    "Do_you_want_to_know_how_to_allow_Tampermonkey_access_to_local_file_URIs_": {
+        "description": "A question asked by the service bot",
+        "message": "Bạn có muốn biết cách cho phép Tampermonkey truy cập vào các URI tệp cục bộ không?"
+    },
+    "One_of_your_scripts_is_blacklisted__Would_you_like_to_know_why_": {
+        "description": "A question asked by the service bot",
+        "message": "Một trong số các tập lệnh của bạn bị cho vào danh sách đen. Bạn có muốn biết lí do không?"
+    },
+    "Do_you_need_help_viewing_and_editing_values_stored_by_a_userscript_": {
+        "description": "A question asked by the service bot",
+        "message": "Bạn có cần trợ giúp về việc xem và sửa các giá trị được lưu trữ bởi một tập lệnh người dùng không?"
+    },
+    "Do_you_want_to_use_an_external_editor_to_edit_your_scripts__nWould_you_like_to_know_how_to_set_this_up_": {
+        "description": "A question asked by the service bot",
+        "message": "Bạn có muốn sử dụng một trình soạn thảo bên ngoài để sửa tập lệnh của mình không?\nBạn có muốn biết làm thế nào để thiết lập không?"
+    },
+    "Are_you_unsure_about_what__sandbox_value_to_use_": {
+        "description": "A question asked by the service bot",
+        "message": "Bạn có không chắc nên dùng giá trị @sandbox nào hay không?"
+    },
+    "Do_you_need_help_finding_Tampermonkey_s_console_output_": {
+        "description": "A question asked by the service bot",
+        "message": "Bạn có cần trợ giúp về việc tìm đầu ra console của Tampermonkey không?"
+    },
+    "Aborted_by_user": {
+        "message": "Bị người dùng huỷ bỏ"
+    },
     "Action": {
         "message": "Hành động"
     },
@@ -83,6 +145,9 @@
     },
     "Add": {
         "message": "Thêm"
+    },
+    "Add_GM_functions_to_this_or_window": {
+        "message": "Thêm các hàm GM vào this hoặc window"
     },
     "Add_Selection_Above": {
         "message": "Thêm phần đươc chọn bên trên"
@@ -113,6 +178,9 @@
     "Advanced": {
         "message": "Nâng cao"
     },
+    "All": {
+        "message": "Tất cả"
+    },
     "All_local_files": {
         "message": "Tất cả các tệp cục bộ"
     },
@@ -121,6 +189,9 @@
     },
     "All_script_settings_will_be_reset_": {
         "message": "Tất cả thiết đặt tập lệnh sẽ được đặt lại!"
+    },
+    "All_tabs": {
+        "message": "Tất cả các thẻ"
     },
     "Allow_Tampermonkey_to_collect_anonymous_statistics": {
         "message": "Cho phép Tampermonkey thu thập dữ liệu ẩn danh thông qua cài đặt Matomo tự lưu trữ. Nó sẽ giúp tôi cải thiện Tampermonkey và xác định những mục tiêu mà tôi nên tập trung vào phát triển. Chỉ tắt đi nếu bạn không thích."
@@ -323,6 +394,9 @@
     "Classic": {
         "message": "Cổ điển"
     },
+    "Clean_after_session": {
+        "message": "Dọn sạch sau mỗi phiên"
+    },
     "Clear_All": {
         "message": "Dọn hết"
     },
@@ -364,6 +438,9 @@
     "Config_Mode": {
         "message": "Chế độ cấu hình"
     },
+    "Configures_which_sandbox_values_are_valid": {
+        "message": "Cấu hình xem giá trị @sandbox nào là hợp lệ"
+    },
     "Context_Menu": {
         "message": "Bảng chọn ngữ cảnh"
     },
@@ -400,6 +477,9 @@
     "Debug_scripts": {
         "message": "Gỡ lỗi các tâp lệnh"
     },
+    "Decoding": {
+        "message": "Đang giải mã..."
+    },
     "Default": {
         "message": "Mặc định"
     },
@@ -411,6 +491,9 @@
     },
     "Default_Light": {
         "message": "Mặc định - Sáng"
+    },
+    "Default_tab_types_to_run_scripts_in": {
+        "message": "Kiểu thẻ mặc định để chạy tập lệnh"
     },
     "Delete": {
         "message": "Xoá"
@@ -432,6 +515,12 @@
     },
     "Delete_to_Previous_Word_Boundary": {
         "message": "Xoá đến ranh giới từ trước đó"
+    },
+    "Delete_to_Sublime_Mark": {
+        "message": "Xoá đến Sublime Mark"
+    },
+    "Deleted_on": {
+        "message": "Xoá trên"
     },
     "Description": {
         "message": "Mô tả"
@@ -468,6 +557,9 @@
     "Document_Start": {
         "message": "Đầu tài liệu"
     },
+    "Does_not_run_in_incognito_tabs": {
+        "message": "Không chạy trong thẻ ẩn danh"
+    },
     "Dont_ask_again": {
         "message": "Đừng hỏi lại"
     },
@@ -495,7 +587,7 @@
         "message": "Nhân đôi các dòng"
     },
     "Edit": {
-        "message": "Chỉnh sửa"
+        "message": "Sửa"
     },
     "Editor": {
         "message": "Trình chỉnh sửa"
@@ -526,6 +618,14 @@
     },
     "Enabled": {
         "message": "Đã bật"
+    },
+    "Enabling_this_makes_it_easy_for_scripts_to_leak_it_s_granted_powers_to_the_page_Therefore__off__is_the_safest_option_": {
+        "message": "Bật cái này lên sẽ làm các tập lệnh người dùng dễ dàng để lộ sức mạnh được ban tặng cho trang này. Vì vậy \"$off$\" là lựa chọn an toàn nhất, nhưng có gây vấn đề về tính tương thích.",
+        "placeholders": {
+            "off": {
+                "content": "$1"
+            }
+        }
     },
     "Enforce": {
         "message": "Ép buộc"
@@ -570,6 +670,39 @@
     },
     "Export": {
         "message": "Xuất"
+    },
+    "Export_script_0name0_0uuid0": {
+        "message": "Xuất tập lệnh \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Export_script_meta_data_of_0name0": {
+        "message": "Xuất siêu dữ liệu của \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Export_script_source_of_0name0": {
+        "message": "Xuất nguồn tập lệnh của \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
     },
     "Externals": {
         "message": "Bên ngoài"
@@ -630,6 +763,15 @@
     },
     "Forbid_once": {
         "message": "Cấm một lần"
+    },
+    "Force_DOM": {
+        "message": "Ép buộc DOM"
+    },
+    "Force_JavaScript": {
+        "message": "Ép buộc JavaScript"
+    },
+    "Force_Raw": {
+        "message": "Ép buộc thô"
     },
     "Found_0count0_available_scripts": {
         "message": "Tìm thấy $count$ tập lệnh có sẵn",
@@ -711,6 +853,14 @@
     "Import_from_file": {
         "message": "Nhập"
     },
+    "Import_remote_script_0uuid0": {
+        "message": "Nhập tập lệnh từ xa ($uuid$)",
+        "placeholders": {
+            "uuid": {
+                "content": "$1"
+            }
+        }
+    },
     "Imported": {
         "message": "Đã nhập"
     },
@@ -742,6 +892,9 @@
     },
     "Includes_Excludes": {
         "message": "Bao gồm / loại trừ"
+    },
+    "Incognito_tabs": {
+        "message": "Thẻ ẩn danh"
     },
     "Incremental_Find": {
         "message": "Tìm tăng dần"
@@ -839,11 +992,25 @@
     "Lines_Menu": {
         "message": "Các dòng"
     },
+    "Loading": {
+        "message": "Đang tải..."
+    },
     "LogLevel": {
         "message": "Cập độ ghi nhật kí"
     },
     "Login": {
         "message": "Đăng nhập"
+    },
+    "Lookup_remote_script_0uuid0": {
+        "message": "Tìm tập lệnh từ xa ($uuid$)",
+        "placeholders": {
+            "uuid": {
+                "content": "$1"
+            }
+        }
+    },
+    "Lookup_remote_script_list": {
+        "message": "Tìm trong danh sách tập lệnh từ xa"
     },
     "Lower_Case": {
         "message": "Chữ thường"
@@ -920,6 +1087,9 @@
     "Normal": {
         "message": "Bình thường"
     },
+    "Normal_tabs": {
+        "message": "Thẻ thông thường"
+    },
     "Note": {
         "message": "Ghi chú"
     },
@@ -933,7 +1103,7 @@
         "message": "Bật"
     },
     "On_Action_Menu": {
-        "message": "Trên bảng chọn hành động<"
+        "message": "Trên bảng chọn hành động"
     },
     "On_Click": {
         "message": "Khi bấm vào"
@@ -967,6 +1137,9 @@
     },
     "Original_matches": {
         "message": "Giống tên miền gốc"
+    },
+    "Overwrite": {
+        "message": "Ghi đè"
     },
     "Page_Filter_Mode": {
         "message": "Chế độ lọc trang"
@@ -1009,6 +1182,12 @@
     "Process_with_Chrome": {
         "message": "Xử lí bằng trình duyệt"
     },
+    "Raw_and_JavaScript": {
+        "message": "Thô và JavaScript"
+    },
+    "DOM_mode_is_unsecure__Scripts_can_install_new_scripts_": {
+        "message": "Chế độ hộp cát \"DOM\" là không bảo mật. Những tập lệnh người dùng đang chạy sẽ có gần như mọi quyền mở rộng và còn có thể sửa đổi và cài đặt các tập lệnh người dùng khác."
+    },
     "Really_delete_0name0__": {
         "message": "Bạn có thực sự muốn xoá '$name$' không?",
         "placeholders": {
@@ -1035,6 +1214,9 @@
     "Really_restore_all_userscripts_": {
         "message": "Bạn có thực sự muốn khôi phục tất cả tập lệnh người dùng không?"
     },
+    "Recent_Sync_Log": {
+        "message": "Nhật kí đồng bộ gần đây"
+    },
     "Redo": {
         "message": "Làm lại"
     },
@@ -1055,6 +1237,28 @@
     },
     "Remove__possibly_unsecure_": {
         "message": "Loại bỏ hoàn toàn (có thể không bảo mật)"
+    },
+    "Remove_local_script_0name0_0uuid0": {
+        "message": "Loại bỏ tập lệnh cục bộ \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Remove_remote_script_0name0_0uuid0": {
+        "message": "Loại bỏ tập lệnh từ xa \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
     },
     "Replace": {
         "message": "Thay thế"
@@ -1110,6 +1314,9 @@
     "Running_scripts": {
         "message": "Các thực thể tập lệnh đang chạy"
     },
+    "Sandbox_Mode": {
+        "message": "Chế độ hộp cát"
+    },
     "Save": {
         "message": "Lưu"
     },
@@ -1126,6 +1333,9 @@
     },
     "Script_Blacklist_Source": {
         "message": "Nguồn danh sách tập lệnh người dúng đen"
+    },
+    "Script_Include_Mode": {
+        "message": "Chế độ @include tập lệnh người dùng"
     },
     "Script_Sync": {
         "message": "Đồng bộ tập lệnh"
@@ -1192,11 +1402,17 @@
     "Select_between_Brackets": {
         "message": "Chọn trong dấu ngoặc"
     },
+    "Select_to_Sublime_Mark": {
+        "message": "Chọn đến Sublime Mark"
+    },
     "Selection": {
         "message": "Phần được chọn"
     },
     "Server_And_Manual": {
         "message": "Từ xa + thủ công"
+    },
+    "Set_Sublime_Mark": {
+        "message": "Đặt Sublime Mark"
     },
     "Settings": {
         "message": "Thiết đặt"
@@ -1260,6 +1476,15 @@
     "Strict": {
         "message": "Nghiêm khắc"
     },
+    "Subresource_Integrity": {
+        "message": "Sự toàn vẹn tài nguyên phụ"
+    },
+    "Swap_with_Sublime_Mark": {
+        "message": "Hoán đổi với Sublime Mark"
+    },
+    "Sync_Now": {
+        "message": "Chạy ngay đi"
+    },
     "Sync_Reset": {
         "message": "Đặt lại đồng bộ"
     },
@@ -1275,11 +1500,17 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Đồng bộ hoá các tập lệnh của bạn"
     },
+    "TabMode": {
+        "message": "Chế độ thẻ"
+    },
     "Tab_Size": {
         "message": "Kích cỡ Tab"
     },
     "Tab_URL": {
         "message": "URL thẻ"
+    },
+    "Tab_types": {
+        "message": "Loại thẻ (tab)"
     },
     "Tabs": {
         "message": "Các thẻ"
@@ -1335,6 +1566,23 @@
     "The_origin_of_this_script_cant_be_determined_": {
         "message": "Cảnh báo: nguồn gốc của tập lệnh này không thể được xác định.\nCó thể nó đã được cài đặt bởi một bên thứ ba ác ý để lấy cắp dữ liệu cá nhân của bạn hoặc một số thiết đặt trình duyệt cơ bản, hệ điều hành hoặc phần cứng của bạn đã thay đổi! \n\nXin hãy mở, xem lại và lưu lại tập lệnh để kích hoạt nó."
     },
+    "The_script_was_successfully_deleted_": {
+        "message": "Tập lệnh đã bị xoá thành công."
+    },
+    "The_script_was_successfully_moved_to_the_trash_": {
+        "message": "Tập lệnh đã được đưa thành công vào thùng rác."
+    },
+    "Modifying_a_script_will_disable_automatic_script_updates_": {
+        "message": "Sửa đổi một tập lệnh sẽ vô hiệu hoá cập nhật tập lệnh tự động!"
+    },
+    "The_script_was_modified_locally_on_0date0__Updating_it_will_overwrite_your_changes_": {
+        "message": "Tập lệnh đã được sửa đổi cục bộ vào $date$. Cập nhật nó sẽ ghi đè các thay đổi của bạn!",
+        "placeholders": {
+            "date": {
+                "content": "$1"
+            }
+        }
+    },
     "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
         "message": "URL cập nhật đã được thay đổi từ:\n    '$oldurl$'\n    thành:\n    '$newurl$'\n",
         "placeholders": {
@@ -1384,11 +1632,17 @@
     "This_script_does_not_provide_any__include_information_": {
         "message": "Tập lệnh này không cung cấp bất kì thông tin @include nào."
     },
+    "This_script_does_not_require_any_special_powers_": {
+        "message": "Tập lệnh này không yêu cầu bất cứ sức mạnh đặc biệt nào cả."
+    },
     "This_script_has_access_to_https_pages": {
         "message": "Tập lệnh này có quyền truy cập vào các trang https."
     },
     "This_script_has_full_web_access": {
         "message": "Tập lệnh này có toàn quyền truy cập web"
+    },
+    "This_script_has_local_modifications_and_needs_to_be_updated_manually": {
+        "message": "Tập lệnh có những sửa đổi cục bộ và cần được cập nhật thủ công!"
     },
     "This_script_is_blacklisted_": {
         "message": "Tập lệnh nãy bị cho vào danh sách đen!"
@@ -1460,6 +1714,12 @@
     "Trash": {
         "message": "Thùng rác"
     },
+    "Trash_Mode": {
+        "message": "Chế độ thùng rác"
+    },
+    "Treat_like__match": {
+        "message": "Coi như @match"
+    },
     "Trigger_Update": {
         "message": "Khởi động cập nhật"
     },
@@ -1511,6 +1771,9 @@
             }
         }
     },
+    "Unsafe": {
+        "message": "Không an toàn"
+    },
     "Update": {
         "message": "Cập nhật"
     },
@@ -1525,6 +1788,17 @@
     },
     "Update_interval": {
         "message": "Khoảng thời gian cập nhật"
+    },
+    "Update_local_script_0name0_0uuid0": {
+        "message": "Cập nhật tập lệnh cục bộ \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
     },
     "Updated_to__0version0": {
         "message": "Đã cập nhật lên: $version$",
@@ -1567,6 +1841,26 @@
     "Userscripts": {
         "message": "Các tập lệnh người dùng"
     },
+    "Using__include_is_potentially_unsafe_and_may_be_obsolete_soon___0off0_disables__include_completely__0match0__is_safe__but_may_not_compatible_the_script_developers_intention__0unsafe0__mostly_keeps_the_legacy_behavior_0default0__means__0used_default0": {
+        "message": "Sử dụng @include nhiều khả năng là không an toàn và sẽ trở nên lỗi thời trong Manifest v3 vào đầu năm 2023. Thiết đặt này cho phép bạn cấu hình cách mà @include được hiểu. '$off$' sẽ hoàn toàn vô hiệu hoá @include, '$match$' tuy an toàn nhưng có thể sẽ không phù hợp với ý định của nhà phát triển tập lệnh. '$unsafe$' sẽ giữ lại phần lớn hành vi trước đó và '$default$' không khác gì '$used_default$' vào lúc này.",
+        "placeholders": {
+            "off": {
+                "content": "$1"
+            },
+            "match": {
+                "content": "$2"
+            },
+            "unsafe": {
+                "content": "$3"
+            },
+            "default": {
+                "content": "$4"
+            },
+            "used_default": {
+                "content": "$5"
+            }
+        }
+    },
     "Utilities": {
         "message": "Các tiện ích"
     },
@@ -1581,6 +1875,9 @@
     },
     "Version": {
         "message": "Phiên bản"
+    },
+    "View": {
+        "message": "Xem"
     },
     "Waiting_for_sync_to_finish": {
         "message": "Đang chờ cho việc đồng bộ được hoàn tất"
@@ -1599,6 +1896,12 @@
     },
     "Whitelisted_Pages": {
         "message": "Các trang trong danh sách trắng"
+    },
+    "XHR_Security": {
+        "message": "Bảo mật XHR"
+    },
+    "Yank_Sublime_Mark": {
+        "message": "Dán Sublime Mark"
     },
     "Yes": {
         "message": "Có"
