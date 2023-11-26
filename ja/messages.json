@@ -167,7 +167,7 @@
     },
     "Are_you_unsure_about_what__sandbox_value_to_use_": {
         "description": "A question asked by the service bot",
-        "message": "@sandbox のどの値を使用すべきか不明ですか?
+        "message": "@sandbox のどの値を使用すべきか不明ですか?"
     },
     "Do_you_need_help_finding_Tampermonkey_s_console_output_": {
         "description": "A question asked by the service bot",
