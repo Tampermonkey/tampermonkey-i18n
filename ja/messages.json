@@ -194,12 +194,6 @@
     "Add_GM_functions_to_this_or_window": {
         "message": "this または window に GM 関数を追加"
     },
-    "Add_Selection_Above": {
-        "message": "Add Selection Above"
-    },
-    "Add_Selection_Below": {
-        "message": "Add Selection Below"
-    },
     "Add_TM_to_CSP": {
         "message": "既存のコンテンツ セキュリティ ポリシー (CSP) を修正する"
     },
@@ -624,7 +618,7 @@
         "message": "ダウングレード"
     },
     "Download_Mode": {
-        "message": "ダウンロードのモード"
+        "message": "ダウンロード方法"
     },
     "Downloaded_from_0url0": {
         "message": "ダウンロード元: $url$",
@@ -1570,7 +1564,7 @@
         "message": "今すぐ実行"
     },
     "Sync_Reset": {
-        "message": "リセット"
+        "message": "消去"
     },
     "Sync_Type": {
         "message": "種類"
@@ -1585,7 +1579,7 @@
         "message": "ブラウザーとオペレーティング システムの間でスクリプトを同期する"
     },
     "TabMode": {
-        "message": "タブのモード"
+        "message": "タブの入力方式"
     },
     "Tab_Size": {
         "message": "タブ サイズ"
@@ -1767,7 +1761,7 @@
         "message": "この操作により、グローバル設定が上書きされます!"
     },
     "This_will_remove_all_remote_data_from_sync_Ok_": {
-        "message": "本当に Sync からすべてのデータを削除しますか?"
+        "message": "本当に同期先からすべてのデータを削除しますか?"
     },
     "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
         "message": "本当にすべてのスクリプトを削除しすべての設定も初期化しますか?"
