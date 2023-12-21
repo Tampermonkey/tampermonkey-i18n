@@ -498,6 +498,20 @@
     "Context_Menu": {
         "message": "右鍵選單"
     },
+    "Controls_how_deleted_scripts_are_handled__0enabled0_moves_scripts_to_a_virtual_trash__0disabled0_permanently_deletes_scripts__0cleanAfterSession0_automatically_deletes_all_on_session_end_": {
+        "message": "控制已刪除腳本的處理方式。'$enabled$' 將腳本移至虛擬垃圾桶以便可能恢復。'$disabled$' 在確認後永久刪除腳本。'$cleanAfterSession$' 在瀏覽器會話結束後自動清空垃圾桶。",
+        "placeholders": {
+            "enabled": {
+                "content": "$1"
+            },
+            "disabled": {
+                "content": "$2"
+            },
+            "cleanAfterSession": {
+                "content": "$3"
+            }
+        }
+    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "轉換 CDATA sections 為 Chrome 相容的格式"
     },
@@ -1239,6 +1253,9 @@
     "Please_consider_a_contribution": {
         "message": "歡迎贊助"
     },
+    "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
+        "message": "請啟用匿名統計並幫助優化此擴充功能。只收集技術和擴充功能互動數據。點擊這裡瞭解有關數據的更多資訊。"
+    },
     "Please_select_a_file": {
         "message": "請選取一個檔案"
     },
@@ -1782,8 +1799,8 @@
     "Transpose": {
         "message": "重新排列"
     },
-    "Trash": {
-        "message": "🗑"
+    "Trash_bin": {
+        "message": "垃圾桶"
     },
     "Trash_Mode": {
         "message": "回收模式"

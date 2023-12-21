@@ -487,6 +487,20 @@
     "Context_Menu": {
         "message": "Menu contextuel"
     },
+    "Controls_how_deleted_scripts_are_handled__0enabled0_moves_scripts_to_a_virtual_trash__0disabled0_permanently_deletes_scripts__0cleanAfterSession0_automatically_deletes_all_on_session_end_": {
+        "message": "Gère le traitement des scripts supprimés. '$enabled$' déplace les scripts dans une corbeille virtuelle pour une récupération éventuelle. '$disabled$' supprime définitivement les scripts après confirmation. '$cleanAfterSession$' vide automatiquement la corbeille à la fin de la session du navigateur.",
+        "placeholders": {
+            "enabled": {
+                "content": "$1"
+            },
+            "disabled": {
+                "content": "$2"
+            },
+            "cleanAfterSession": {
+                "content": "$3"
+            }
+        }
+    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Convertir les sections CDATA dans un format compatible au navigateur"
     },
@@ -1228,6 +1242,9 @@
     "Please_consider_a_contribution": {
         "message": "Merci d'envoyer un don"
     },
+    "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
+        "message": "Veuillez activer les statistiques anonymes et aider à optimiser cette extension. Seules les données techniques et les données d'interaction avec l'extension sont collectées. Cliquez ici pour plus d'informations sur les données."
+    },
     "Please_select_a_file": {
         "message": "Veuillez sélectionner un fichier"
     },
@@ -1771,8 +1788,8 @@
     "Transpose": {
         "message": "Transposer"
     },
-    "Trash": {
-        "message": "🗑"
+    "Trash_bin": {
+        "message": "Corbeille"
     },
     "Trash_Mode": {
         "message": "Mode corbeille"

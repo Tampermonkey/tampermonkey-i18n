@@ -633,6 +633,9 @@
     "Please_consider_a_contribution": {
         "message": "Zvažte prosím příspěvek vývojářům!"
     },
+    "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
+        "message": "Prosím, povolte anonymní statistiky a pomozte vylepšit toto rozšíření. Sbírají se pouze technická data a data o interakci s rozšířením. Klikněte sem pro více informací o datech."
+    },
     "Please_wait___": {
         "message": "Prosím čekejte..."
     },

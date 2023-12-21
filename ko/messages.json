@@ -657,6 +657,9 @@
     "Please_consider_a_contribution": {
         "message": "기부를 고려해 주세요"
     },
+    "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
+        "message": "익명 통계를 활성화하여 이 확장 기능을 최적화하는 데 도움을 주세요. 기술적 데이터와 확장 기능과의 상호 작용 데이터만 수집됩니다. 데이터에 대한 자세한 정보는 여기를 클릭하세요."
+    },
     "Please_select_a_file": {
         "message": "파일을 선택해 주세요"
     },

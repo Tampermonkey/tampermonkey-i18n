@@ -427,6 +427,20 @@
     "Context_Menu": {
         "message": "上下文菜单"
     },
+    "Controls_how_deleted_scripts_are_handled__0enabled0_moves_scripts_to_a_virtual_trash__0disabled0_permanently_deletes_scripts__0cleanAfterSession0_automatically_deletes_all_on_session_end_": {
+        "message": "控制已删除脚本的处理方式。'$enabled$' 将脚本移至虚拟垃圾桶以便可能恢复。'$disabled$' 在确认后永久删除脚本。'$cleanAfterSession$' 在浏览器会话结束后自动清空垃圾桶。",
+        "placeholders": {
+            "enabled": {
+                "content": "$1"
+            },
+            "disabled": {
+                "content": "$2"
+            },
+            "cleanAfterSession": {
+                "content": "$3"
+            }
+        }
+    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "转换 CDATA 部分为 Chrome 兼容的格式"
     },
@@ -1096,6 +1110,9 @@
     "Please_consider_a_contribution": {
         "message": "欢迎捐助"
     },
+    "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
+        "message": "请启用匿名统计并帮助优化此扩展。只收集技术和扩展交互数据。点击这里了解有关数据的更多信息。"
+    },
     "Please_select_a_file": {
         "message": "请选择一个文件"
     },
@@ -1592,8 +1609,8 @@
     "Transpose": {
         "message": "变换"
     },
-    "Trash": {
-        "message": "🗑"
+    "Trash_bin": {
+        "message": "垃圾箱"
     },
     "Trash_Mode": {
         "message": "垃圾箱模式"

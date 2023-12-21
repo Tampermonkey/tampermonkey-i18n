@@ -422,6 +422,9 @@
     "Please_consider_a_contribution": {
         "message": "Pertimbangkan memberi sumbangan."
     },
+    "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
+        "message": "Silakan aktifkan statistik anonim dan bantu optimalkan ekstensi ini. Hanya data teknis dan interaksi ekstensi yang dikumpulkan. Klik di sini untuk info lebih lanjut tentang data tersebut."
+    },
     "Please_select_a_file": {
         "message": "Silakan pilih berkas"
     },

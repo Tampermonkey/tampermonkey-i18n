@@ -498,6 +498,20 @@
     "Context_Menu": {
         "message": "Context Menu"
     },
+    "Controls_how_deleted_scripts_are_handled__0enabled0_moves_scripts_to_a_virtual_trash__0disabled0_permanently_deletes_scripts__0cleanAfterSession0_automatically_deletes_all_on_session_end_": {
+        "message": "Controls how deleted scripts are handled. '$enabled$' moves scripts to a virtual trash for potential recovery. '$disabled$' permanently deletes scripts after confirmation. '$cleanAfterSession$' automatically clears the trash after the browser session ends.",
+        "placeholders": {
+            "enabled": {
+                "content": "$1"
+            },
+            "disabled": {
+                "content": "$2"
+            },
+            "cleanAfterSession": {
+                "content": "$3"
+            }
+        }
+    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Convert CDATA sections into a browser compatible format"
     },
@@ -591,6 +605,9 @@
     "Developer": {
         "message": "Developer"
     },
+    "Developer_Mode": {
+        "message": "Developer Mode"
+    },
     "Disable": {
         "message": "Disable"
     },
@@ -653,7 +670,7 @@
         "message": "Editor"
     },
     "Editor_reset": {
-        "message": "Editor reset"
+        "message": "Discard changes"
     },
     "Emacs": {
         "message": "Emacs"
@@ -1242,6 +1259,12 @@
     "Please_consider_a_contribution": {
         "message": "Please send a donation"
     },
+    "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
+        "message": "Please enable anonymous statistics and help optimize this extension. Only technical and extension interaction data is collected. Click here for more info about the data."
+    },
+    "Please_enable_developer_mode_to_allow_userscript_injection_": {
+        "message": "Please enable developer mode to allow userscript injection. Click here for more info how to do this."
+    },
     "Please_select_a_file": {
         "message": "Please select a file"
     },
@@ -1287,7 +1310,7 @@
         "message": "Do you really want to factory reset this script?"
     },
     "Really_reset_all_changes_": {
-        "message": "Really reset all changes?"
+        "message": "Really discard changes?"
     },
     "Really_restore_all_userscripts_": {
         "message": "Do you really want to restore all userscripts?"
@@ -1317,7 +1340,7 @@
         "message": "Remove entirely (possibly unsecure)"
     },
     "Remove_local_script_0name0_0uuid0": {
-        "message": "Remove local script \"$name$\" ($uuid$)",
+        "message": "Delete local script \"$name$\" ($uuid$)",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1328,7 +1351,7 @@
         }
     },
     "Remove_remote_script_0name0_0uuid0": {
-        "message": "Remove remote script \"$name$\" ($uuid$)",
+        "message": "Delete remote script \"$name$\" ($uuid$)",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1767,10 +1790,10 @@
         "message": "This will overwrite your global settings!"
     },
     "This_will_remove_all_remote_data_from_sync_Ok_": {
-        "message": "Do you really want to remove all data from Sync?"
+        "message": "Do you really want to delete all data from Sync?"
     },
     "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
-        "message": "Do you really want to remove all scripts and reset all settings?"
+        "message": "Do you really want to delete all scripts and reset all settings?"
     },
     "This_will_restart_Tampermonkey_Ok_": {
         "message": "Do you really want to restart Tampermonkey?"
@@ -1799,8 +1822,8 @@
     "Transpose": {
         "message": "Transpose"
     },
-    "Trash": {
-        "message": "🗑"
+    "Trash_bin": {
+        "message": "Trash Bin"
     },
     "Trash_Mode": {
         "message": "Trash Mode"
@@ -1910,6 +1933,9 @@
     },
     "UserScripts_API": {
         "message": "UserScripts API"
+    },
+    "UserScripts_API_Dynamic": {
+        "message": "UserScripts API Dynamic"
     },
     "User_domain_blacklist": {
         "message": "User domain blacklist"

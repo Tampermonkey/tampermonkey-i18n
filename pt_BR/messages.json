@@ -1,16 +1,4 @@
 {
-    "extName": {
-        "message": "Tampermonkey"
-    },
-    "extNameBeta": {
-        "message": "Tampermonkey BETA"
-    },
-    "extShortName": {
-        "message": "Tampermonkey"
-    },
-    "extShortNameBeta": {
-        "message": "TM BETA"
-    },
     "extDescription": {
         "message": "Mude a web à vontade com userscripts"
     },
@@ -497,6 +485,20 @@
     },
     "Context_Menu": {
         "message": "Menu de Contexto"
+    },
+    "Controls_how_deleted_scripts_are_handled__0enabled0_moves_scripts_to_a_virtual_trash__0disabled0_permanently_deletes_scripts__0cleanAfterSession0_automatically_deletes_all_on_session_end_": {
+        "message": "Controla como os scripts excluídos são tratados. '$enabled$' move os scripts para uma lixeira virtual para recuperação potencial. '$disabled$' exclui permanentemente os scripts após confirmação. '$cleanAfterSession$' limpa automaticamente a lixeira após o término da sessão do navegador.",
+        "placeholders": {
+            "enabled": {
+                "content": "$1"
+            },
+            "disabled": {
+                "content": "$2"
+            },
+            "cleanAfterSession": {
+                "content": "$3"
+            }
+        }
     },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Converter seções CDATA em formato compatível com Chrome"
@@ -1242,6 +1244,9 @@
     "Please_consider_a_contribution": {
         "message": "Por favor, considere uma doação"
     },
+    "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
+        "message": "Por favor, habilite estatísticas anônimas e ajude a otimizar esta extensão. São coletados apenas dados técnicos e dados de interação com a extensão. Clique aqui para mais informações sobre os dados."
+    },
     "Please_select_a_file": {
         "message": "Por favor, selecione um arquivo"
     },
@@ -1264,7 +1269,7 @@
         "message": "Raw e JavaScript"
     },
     "DOM_mode_is_unsecure__Scripts_can_install_new_scripts_": {
-        "message": O modo sandbox "\"DOM\" é inseguro. Executar userscripts têm permissões de extensão quase completas e podem até modificar e instalar novos userscripts."
+        "message": "O modo sandbox \"DOM\" é inseguro. Executar userscripts têm permissões de extensão quase completas e podem até modificar e instalar novos userscripts."
     },
     "Really_delete_0name0__": {
         "message": "Você deseja realmente excluir '$name$'?",
@@ -1799,8 +1804,8 @@
     "Transpose": {
         "message": "Inverter posição"
     },
-    "Trash": {
-        "message": "?"
+    "Trash_bin": {
+        "message": "Lixeira"
     },
     "Trash_Mode": {
         "message": "Modo Lixeira"

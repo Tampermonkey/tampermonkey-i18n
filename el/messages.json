@@ -1081,6 +1081,9 @@
     "Please_consider_a_contribution": {
         "message": "Κάντε μια δωρεά"
     },
+    "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
+        "message": "Παρακαλούμε ενεργοποιήστε τα ανώνυμα στατιστικά και βοηθήστε στη βελτίωση αυτής της επέκτασης. Συλλέγονται μόνο τεχνικά δεδομένα και δεδομένα αλληλεπίδρασης με την επέκταση. Κάντε κλικ εδώ για περισσότερες πληροφορίες σχετικά με τα δεδομένα."
+    },
     "Please_select_a_file": {
         "message": "Επιλέξτε ένα αρχείο"
     },
@@ -1577,8 +1580,8 @@
     "Transpose": {
         "message": "Μετατόπιση"
     },
-    "Trash": {
-        "message": "🗑"
+    "Trash_bin": {
+        "message": "Κάδος απορριμμάτων"
     },
     "Trash_Mode": {
         "message": "Λειτουργία Κάδου Ανακύκλωσης"

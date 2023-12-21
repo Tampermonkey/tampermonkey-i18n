@@ -276,6 +276,20 @@
     "Config_Mode": {
         "message": "Tryb konfiguracji"
     },
+    "Controls_how_deleted_scripts_are_handled__0enabled0_moves_scripts_to_a_virtual_trash__0disabled0_permanently_deletes_scripts__0cleanAfterSession0_automatically_deletes_all_on_session_end_": {
+        "message": "Kontroluje, jak są traktowane usunięte skrypty. '%enabled%' przenosi skrypty do wirtualnego kosza na możliwą odzyskanie. '%disabled%' trwale usuwa skrypty po potwierdzeniu. '%cleanAfterSession%' automatycznie czyści kosz po zakończeniu sesji przeglądarki.",
+        "placeholders": {
+            "enabled": {
+                "content": "$1"
+            },
+            "disabled": {
+                "content": "$2"
+            },
+            "cleanAfterSession": {
+                "content": "$3"
+            }
+        }
+    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Zamień sekcje CDATA na format zgodny z przeglądarką"
     },
@@ -695,6 +709,9 @@
     },
     "Please_consider_a_contribution": {
         "message": "Wyślij datek na dalszy rozwój rozszerzenia"
+    },
+    "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
+        "message": "Proszę włączyć anonimowe statystyki i pomóc zoptymalizować to rozszerzenie. Zbierane są tylko dane techniczne i dane dotyczące interakcji z rozszerzeniem. Kliknij tutaj, aby uzyskać więcej informacji na temat danych."
     },
     "Please_select_a_file": {
         "message": "Wybierz plik"

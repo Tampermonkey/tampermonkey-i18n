@@ -660,6 +660,9 @@
     "Please_consider_a_contribution": {
         "message": "Tenk gjerne over om du vil donere"
     },
+    "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
+        "message": "Vennligst aktiver anonym statistikk og hjelp til med å optimalisere denne utvidelsen. Det samles kun tekniske data og data om interaksjon med utvidelsen. Klikk her for mer informasjon om dataene."
+    },
     "Please_select_a_file": {
         "message": "Vennligst velg en fil"
     },

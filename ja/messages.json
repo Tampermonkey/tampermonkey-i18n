@@ -492,6 +492,20 @@
     "Context_Menu": {
         "message": "コンテキスト メニュー"
     },
+    "Controls_how_deleted_scripts_are_handled__0enabled0_moves_scripts_to_a_virtual_trash__0disabled0_permanently_deletes_scripts__0cleanAfterSession0_automatically_deletes_all_on_session_end_": {
+        "message": "削除されたスクリプトの扱いを制御します。'%enabled%' はスクリプトを仮想ゴミ箱に移動して、可能な回復のために保持します。'%disabled%' は確認後にスクリプトを完全に削除します。'%cleanAfterSession%' はブラウザのセッションが終了した後にゴミ箱を自動的にクリアします。",
+        "placeholders": {
+            "enabled": {
+                "content": "$1"
+            },
+            "disabled": {
+                "content": "$2"
+            },
+            "cleanAfterSession": {
+                "content": "$3"
+            }
+        }
+    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "CDATA セクションをブラウザー互換形式に変換する"
     },
@@ -1236,6 +1250,9 @@
     "Please_consider_a_contribution": {
         "message": "寄付をお願いいたします"
     },
+    "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
+        "message": "匿名統計を有効にして、この拡張機能の最適化にご協力ください。技術的なデータおよび拡張機能との相互作用のデータのみが収集されます。データに関する詳細はこちらをクリックしてください。"
+    },
     "Please_select_a_file": {
         "message": "ファイルを選択してください"
     },
@@ -1793,8 +1810,8 @@
     "Transpose": {
         "message": "1文字入れ替え"
     },
-    "Trash": {
-        "message": "🗑"
+    "Trash_bin": {
+        "message": "ごみ箱"
     },
     "Trash_Mode": {
         "message": "ごみ箱の動作"

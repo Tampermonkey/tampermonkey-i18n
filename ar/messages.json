@@ -968,6 +968,9 @@
     "Please_consider_a_contribution": {
         "message": "تبرع لنا من فضلك"
     },
+    "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
+        "message": "يرجى تفعيل الإحصائيات المجهولة والمساعدة في تحسين هذه الإضافة. يتم جمع البيانات الفنية وبيانات التفاعل مع الإضافة فقط. انقر هنا لمزيد من المعلومات حول البيانات."
+    },
     "Please_select_a_file": {
         "message": "من فضلك إختر ملفاً"
     },

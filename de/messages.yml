@@ -268,6 +268,15 @@ Content_Script_API:
   message: Content-Script-API
 Context_Menu:
   message: Context Menü
+Controls_how_deleted_scripts_are_handled__0enabled0_moves_scripts_to_a_virtual_trash__0disabled0_permanently_deletes_scripts__0cleanAfterSession0_automatically_deletes_all_on_session_end_:
+  message: Steuert, wie gelöschte Userscripts behandelt werden. '$enabled$' verschiebt sie in einen virtuellen Mülleimer zur möglichen Wiederherstellung. '$disabled$' löscht sie dauerhaft nach Bestätigung. '$cleanAfterSession$' leert den Mülleimer automatisch nach Ende der Browsersitzung.
+  placeholders:
+    enabled:
+      content: $1
+    disabled:
+      content: $2
+    cleanAfterSession:
+      content: $3
 Convert_CDATA_sections_into_a_chrome_compatible_format:
   message: CDATA-Abschnitte in ein Browser-kompatibles Format konvertieren
 Cross_Origin_Request_Permission:
@@ -674,6 +683,8 @@ Please_check_the_0editor0_documentation_for_more_details_:
       content: $1
 Please_consider_a_contribution:
   message: Unterstütze die Entwicklung
+Please_enable_anonymous_statistics_and_help_to_improve_this_extension_:
+  message: Bitte aktivieren Sie die anonyme Statistik für die Optimierung dieser Erweiterung. Es werden technische Daten und Informationen zur Interaktion mit der Erweiterung gesammelt. Klicken Sie hier für mehr Infos zu den Daten.
 Please_select_a_file:
   message: Bitte wählen Sie eine Datei aus
 Please_wait___:
@@ -906,7 +917,8 @@ The_script_was_successfully_moved_to_the_trash_:
 The_script_was_modified_locally_on_0date0__Updating_it_will_overwrite_your_changes_:
   message: Das Script wurde am $date$ lokal modifiziert. Ein Update wird diese Änderungen überschreiben!
   placeholders:
-    date: $1
+    date:
+      content: $1
 Modifying_a_script_will_disable_automatic_script_updates_:
   message: "Das Bearbeiten des Scripts deaktiviert die automatischen Updates!"
 The_update_url_has_changed_from_0oldurl0_to__0newurl0:
@@ -996,8 +1008,8 @@ Toggle_Enable:
   message: Aktivierung umschalten
 Trace:
   message: Alles
-Trash:
-  message: 🗑
+Trash_bin:
+  message: Papierkorb
 Trash_Mode:
   message: Papierkorb-Funktion
 Treat_like__match:

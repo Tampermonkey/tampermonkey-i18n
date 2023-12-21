@@ -858,6 +858,9 @@
     "Please_consider_a_contribution": {
         "message": "Uzmite u obzir da donirate!"
     },
+    "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
+        "message": "Molimo omogućite anonimnu statistiku i pomozite optimizirati ovaj dodatak. Prikupljaju se samo tehnički podaci i podaci o interakciji s dodatkom. Kliknite ovdje za više informacija o podacima."
+    },
     "Please_select_a_file": {
         "message": "Molimo odaberite fajl"
     },

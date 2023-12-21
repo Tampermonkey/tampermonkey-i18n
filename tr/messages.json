@@ -1081,6 +1081,9 @@
     "Please_consider_a_contribution": {
         "message": "Lütfen bağış yapmayı düşünün"
     },
+    "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
+        "message": "Lütfen anonim istatistikleri etkinleştirin ve bu uzantıyı optimize etmeye yardımcı olun. Sadece teknik veriler ve uzantı etkileşim verileri toplanır. Veriler hakkında daha fazla bilgi için buraya tıklayın."
+    },
     "Please_select_a_file": {
         "message": "Lütfen dosya seçiniz"
     },
@@ -1577,8 +1580,8 @@
     "Transpose": {
         "message": "Yerini değiştir"
     },
-    "Trash": {
-        "message": "🗑"
+    "Trash_bin": {
+        "message": "Çöp Kutusu"
     },
     "Trash_Mode": {
         "message": "Çöp Modu"

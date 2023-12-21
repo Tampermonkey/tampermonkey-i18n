@@ -522,6 +522,9 @@
     "Please_consider_a_contribution": {
         "message": "Kérlek, fontold meg a támogatást"
     },
+    "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
+        "message": "Kérjük, engedélyezze az anonim statisztikákat és segítsen optimalizálni ezt a kiterjesztést. Csak műszaki adatokat és a kiterjesztéssel való interakciós adatokat gyűjtünk. Kattintson ide a további adatokkal kapcsolatos információkért."
+    },
     "Please_wait___": {
         "message": "Kérlek várj..."
     },

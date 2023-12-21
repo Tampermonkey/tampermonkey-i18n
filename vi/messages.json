@@ -1164,6 +1164,9 @@
     "Please_consider_a_contribution": {
         "message": "Vui lòng gửi một khoản đóng góp"
     },
+    "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
+        "message": "Vui lòng bật thống kê ẩn danh và giúp tối ưu hóa tiện ích mở rộng này. Chỉ thu thập dữ liệu kỹ thuật và tương tác với tiện ích mở rộng. Nhấn vào đây để biết thêm thông tin về dữ liệu."
+    },
     "Please_select_a_file": {
         "message": "Vui lòng chọn một tập tin"
     },
@@ -1711,7 +1714,7 @@
     "Transpose": {
         "message": "Chuyển vị"
     },
-    "Trash": {
+    "Trash_bin": {
         "message": "Thùng rác"
     },
     "Trash_Mode": {

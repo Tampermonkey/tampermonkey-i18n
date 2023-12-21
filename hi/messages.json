@@ -855,6 +855,9 @@
     "Please_consider_a_contribution": {
         "message": "कृपया दान भेजें"
     },
+    "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
+        "message": "कृपया गुमनाम आंकड़े सक्षम करें और इस एक्सटेंशन को बेहतर बनाने में मदद करें। केवल तकनीकी और एक्सटेंशन सहभागिता डेटा एकत्रित किया जाता है। डेटा के बारे में अधिक जानकारी के लिए यहां क्लिक करें।"
+    },
     "Please_select_a_file": {
         "message": "कृपया फ़ाइल चुनें"
     },

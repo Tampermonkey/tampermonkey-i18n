@@ -256,6 +256,20 @@
     "Config_Mode": {
         "message": "Modo de configuración"
     },
+    "Controls_how_deleted_scripts_are_handled__0enabled0_moves_scripts_to_a_virtual_trash__0disabled0_permanently_deletes_scripts__0cleanAfterSession0_automatically_deletes_all_on_session_end_": {
+        "message": "Controla cómo se manejan los scripts eliminados. '$enabled$' mueve los scripts a una papelera virtual para su posible recuperación. '$disabled$' elimina permanentemente los scripts tras confirmación. '$cleanAfterSession$' limpia automáticamente la papelera al finalizar la sesión del navegador.",
+        "placeholders": {
+            "enabled": {
+                "content": "$1"
+            },
+            "disabled": {
+                "content": "$2"
+            },
+            "cleanAfterSession": {
+                "content": "$3"
+            }
+        }
+    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Convertir segmentos CDATA a formato compatible con Chrome"
     },
@@ -633,6 +647,9 @@
     },
     "Please_consider_a_contribution": {
         "message": "Por favor considera una donación"
+    },
+    "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
+        "message": "Por favor, active las estadísticas anónimas y ayude a optimizar esta extensión. Solo se recopilan datos técnicos y de interacción con la extensión. Haga clic aquí para más información sobre los datos."
     },
     "Please_select_a_file": {
         "message": "Por favor selecciona un archivo"
