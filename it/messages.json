@@ -605,6 +605,9 @@
     "Developer": {
         "message": "Sviluppatore"
     },
+    "Developer_Mode": {
+        "message": "Modo sviluppatore"
+    },
     "Disable": {
         "message": "Disabilita"
     },
@@ -1258,6 +1261,9 @@
     },
     "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
         "message": "Si prega di abilitare le statistiche anonime e aiutare a ottimizzare questa estensione. Vengono raccolti solo dati tecnici e dati di interazione con l'estensione. Clicca qui per maggiori informazioni sui dati."
+    },
+    "Please_enable_developer_mode_to_allow_userscript_injection_": {
+        "message": "Abilita la modalità sviluppatore per consentire l'inserimento di script utente. Fai clic qui per ulteriori informazioni su come eseguire questa operazione."
     },
     "Please_select_a_file": {
         "message": "Seleziona un file"
@@ -1927,6 +1933,9 @@
     },
     "UserScripts_API": {
         "message": "API script utente"
+    },
+    "UserScripts_API_Dynamic": {
+        "message": "API UserScripts dinamica"
     },
     "User_domain_blacklist": {
         "message": "Elenco utente domini vietati"
