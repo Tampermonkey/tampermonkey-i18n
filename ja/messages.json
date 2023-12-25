@@ -493,7 +493,7 @@
         "message": "コンテキスト メニュー"
     },
     "Controls_how_deleted_scripts_are_handled__0enabled0_moves_scripts_to_a_virtual_trash__0disabled0_permanently_deletes_scripts__0cleanAfterSession0_automatically_deletes_all_on_session_end_": {
-        "message": "削除されたスクリプトの扱いを制御します。'%enabled%' はスクリプトを仮想ゴミ箱に移動して、可能な回復のために保持します。'%disabled%' は確認後にスクリプトを完全に削除します。'%cleanAfterSession%' はブラウザのセッションが終了した後にゴミ箱を自動的にクリアします。",
+        "message": "削除されたスクリプトの扱いを制御します。「%enabled%」はスクリプトを仮想ごみ箱に移動して、復元可能な状態で保持します。「%disabled%」は確認後にスクリプトを完全に削除します。「%cleanAfterSession%」はブラウザーのセッション終了後にごみ箱を自動的に空にします。",
         "placeholders": {
             "enabled": {
                 "content": "$1"
@@ -598,6 +598,9 @@
     },
     "Developer": {
         "message": "開発用"
+    },
+    "Developer_Mode": {
+        "message": "開発用モード"
     },
     "Disable": {
         "message": "無効にする"
@@ -1251,7 +1254,10 @@
         "message": "寄付をお願いいたします"
     },
     "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
-        "message": "匿名統計を有効にして、この拡張機能の最適化にご協力ください。技術的なデータおよび拡張機能との相互作用のデータのみが収集されます。データに関する詳細はこちらをクリックしてください。"
+        "message": "匿名統計を有効にして、この拡張機能の最適化にご協力ください。技術的なデータおよび拡張機能との相互作用のデータのみが収集されます。データにの詳細はこちらをクリックしてください。"
+    },
+    "Please_enable_developer_mode_to_allow_userscript_injection_": {
+        "message": "UserScript の注入を許可するには、開発用モードを有効にしてください。詳細はこちらをクリックしてください。"
     },
     "Please_select_a_file": {
         "message": "ファイルを選択してください"
@@ -1657,7 +1663,7 @@
         "message": "ブラウザー API モードには特別な許可が必要です。"
     },
     "The_diff_for_this_script_is_too_large_to_render": {
-        "message": "このスクリプトの差分(diff)は大きすぎて描画できません"
+        "message": "このスクリプトの差分 (diff) は大きすぎて描画できません"
     },
     "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
         "message": "ダウングレードされたスクリプトが格納されたデータを読み取ることで問題点が発生する場合があります!"
@@ -1920,7 +1926,10 @@
         "message": "大文字に変換"
     },
     "UserScripts_API": {
-        "message": "UserScript API"
+        "message": "UserScripts API"
+    },
+    "UserScripts_API_Dynamic": {
+        "message": "UserScripts API Dynamic"
     },
     "User_domain_blacklist": {
         "message": "ユーザーによるドメイン ブラックリスト"
@@ -2015,7 +2024,7 @@
         "message": "Windows"
     },
     "XHR_Security": {
-        "message": "XHRセキュリティ"
+        "message": "XHR セキュリティ"
     },
     "Yandex_Disk": {
         "message": "Yandex.Disk"
@@ -2111,6 +2120,6 @@
         "message": "厳格モード"
     },
     "top_level_await": {
-        "message": "Top-level await"
+        "message": "top-level await"
     }
 }
