@@ -98,7 +98,7 @@
         "message": "5分钟"
     },
     "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-        "message": "为了运行当前脚本，需要开启 GreaseMonkey/FireFox 兼容性选项。"
+        "message": "您可能需要复查调整其 GreaseMonkey/FF 兼容选项，才能顺利运行此脚本。"
     },
     "A_reload_is_required": {
         "message": "需要刷新：\n所有未保存的数据将会丢失！"
