@@ -68,19 +68,19 @@
         }
     },
     "15_Seconds": {
-        "message": "15 Sekunder"
+        "message": "15 sekunder"
     },
     "1_Hour": {
-        "message": "1 Time"
+        "message": "1 time"
     },
     "1_Minute": {
-        "message": "1 Minut"
+        "message": "1 minut"
     },
     "30_Seconds": {
-        "message": "30 Sekunder"
+        "message": "30 sekunder"
     },
     "5_Minutes": {
-        "message": "5 Minutter"
+        "message": "5 minutter"
     },
     "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
         "message": "En genkontrol af GreaseMonkey/FF-kompatibilitetsindstillingerne kan være påkrævet for at køre dette script."
@@ -89,7 +89,7 @@
         "message": "En genindlæsning er påkrævet: \nAlle ikke-gemte ændringer vil gå tabt!"
     },
     "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
-        "message": "En anmodning om en cross origin ressource er ikke usædvanlig.\nDu skal bare kontrollere, om dette script har en god grund til at få adgang til dette domæne.\nFor eksempel er der kun meget få grunde til, at et userscript skal kontakte din bank.\n\nBemærk, at forfattere af usercripts kan undgå denne dialog ved at tilføje [url=$connect$]@connect tags[/url] til deres scripts.\n\nUanset hvordan du beslutter dig, kan du ændre din mening når som helst på scriptets [url=$settings$]fane til indstillinger[/url].",
+        "message": "En anmodning om en cross-origin-ressource er ikke usædvanlig.\nDu skal bare kontrollere, om dette script har en god grund til at få adgang til dette domæne.\nFor eksempel er der kun meget få grunde til, at et userscript skal kontakte din bank.\n\nBemærk, at forfattere af usercripts kan undgå denne dialog ved at tilføje [url=$connect$]@connect tags[/url] til deres scripts.\n\nUanset hvordan du beslutter dig, kan du ændre din mening når som helst på scriptets [url=$settings$]fane til indstillinger[/url].",
         "placeholders": {
             "connect": {
                 "content": "$1"
@@ -100,7 +100,7 @@
         }
     },
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
-        "message": "Et brugerskript ønsker at få adgang til et cross-origin ressource."
+        "message": "Et brugerskript ønsker at få adgang til en cross-origin-ressource."
     },
     "Action": {
         "message": "Handling"
@@ -118,10 +118,10 @@
         "message": "Tilføj"
     },
     "Add_Selection_Above": {
-        "message": "Tilføj Valg Ovenfor"
+        "message": "Tilføj valg ovenfor"
     },
     "Add_Selection_Below": {
-        "message": "Tilføj Valg Nedenfor"
+        "message": "Tilføj valg nedenfor"
     },
     "Add_TM_to_CSP": {
         "message": "Rediger eksisterende content security policy (CSP) headers"
@@ -141,7 +141,7 @@
         "message": "Opret et nyt script..."
     },
     "Advanced": {
-        "message": "Advanceret"
+        "message": "Avanceret"
     },
     "All_local_files": {
         "message": "Alle lokale filer"
@@ -153,7 +153,7 @@
         "message": "Alle scriptindstillinger nulstilles!"
     },
     "Allow_Tampermonkey_to_collect_anonymous_statistics": {
-        "message": "Tillad Tampermonkey at indsamle anonyme statistikker via en selvhostet Matomo-installation.. Dette hjælper mig med at forbedre Tampermonkey og bestemme, hvilke kriterier jeg skal fokusere på i min udvikling. Deaktiver bare dette, hvis du ikke kan lide det."
+        "message": "Tillad Tampermonkey at indsamle anonyme statistikker via en selvhostet Matomo-installation. Dette hjælper mig med at forbedre Tampermonkey og bestemme, hvilke kriterier jeg skal fokusere på i min udvikling. Deaktiver bare dette, hvis du ikke kan lide det."
     },
     "Allow_communication_with_cooperate_pages": {
         "message": "Tillad kommunikation med samarbejdsvillige sider"
@@ -189,7 +189,7 @@
         "message": "Der opstod en fejl under importen."
     },
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
-        "message": "Der opstod en intern fejl. Hvis dette problem vedvarer, selv efter en genstart af browseren, skal du trykke på OK og rapportere dette problem i forumet.\n\nVil du besøge Tampermonkey-forummet?"
+        "message": "Der opstod en intern fejl. Hvis dette problem vedvarer, selv efter en genstart af browseren, skal du trykke på OK og rapportere dette problem i forummet.\n\nVil du besøge Tampermonkey-forummet?"
     },
     "Anonymous_statistics": {
         "message": "Anonyme statistikker"
@@ -198,7 +198,7 @@
         "message": "Udseende"
     },
     "Apply_compatibility_options_to_required_script_too": {
-        "message": "Anvend også kompatibilitetsindstillinger på @require scripts"
+        "message": "Anvend også kompatibilitetsindstillinger på @require-scripts"
     },
     "Apply_this_action_to_the_selected_scripts": {
         "message": "Anvend dette på alle valgte scripts"
@@ -210,16 +210,16 @@
         "message": "Spørg hvis det er ukendt"
     },
     "At_least_one_new_connect_statement_was_added_": {
-        "message": "Mindst én ny @connect statement blev tilføjet."
+        "message": "Mindst ét nyt @connect-statement blev tilføjet."
     },
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
-        "message": "Mindst én @include, @match eller @exclude statement blev ændret."
+        "message": "Mindst ét @include-, @match- eller @exclude-statement blev ændret."
     },
     "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
         "message": "Mindst én del af denne side er angivet under indstillingen 'forbudte sider'!"
     },
     "Attention_Can_not_display_all_excludes_": {
-        "message": "OBS: Inkluderingslisten blev forkortet.\nKontrollér den manuelt!"
+        "message": "OBS: Ekskluderingslisten blev forkortet.\nKontrollér den manuelt!"
     },
     "Attention_Can_not_display_all_includes_": {
         "message": "OBS: Inkluderingslisten blev forkortet.\nKontrollér den manuelt!"
@@ -255,13 +255,21 @@
         "message": "BlackCheck"
     },
     "Blacklist": {
-        "message": "Blackliste"
+        "message": "Sortliste"
+    },
+    "Blacklist_0domain0": {
+        "message": "Kør ikke på $domain$",
+        "placeholders": {
+            "domain": {
+                "content": "$1"
+            }
+        }
     },
     "Blacklist_Severity": {
         "message": "Bloker fra alvorlighedsniveau"
     },
     "Blacklisted_Pages": {
-        "message": "Blacklistede Sider"
+        "message": "Sortlistede sider"
     },
     "Bookmarks": {
         "message": "Bogmærker"
@@ -296,7 +304,7 @@
         "message": "Centermarkør"
     },
     "Changelog": {
-        "message": "Changelog"
+        "message": "Ændringslog"
     },
     "Changes": {
         "message": "Ændringer"
@@ -314,7 +322,7 @@
         "message": "Kontroller for opdateringer af usercript"
     },
     "Check_interval": {
-        "message": "Kontrollerings Interval"
+        "message": "Kontrolleringsinterval"
     },
     "Check_only_scripts_up_to_this_size_automatically_": {
         "message": "Kontroller kun scripts op til denne størrelse automatisk."
@@ -322,8 +330,11 @@
     "Classic": {
         "message": "Klassisk"
     },
+    "Clean_after_session": {
+        "message": "Ryd efter session"
+    },
     "Clear_All": {
-        "message": "Ryd Alle"
+        "message": "Ryd alle"
     },
     "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
         "message": "Klik på OK for at give Tampermonkey adgang til følgende værter:\n\n$host_list$",
@@ -349,7 +360,7 @@
         "message": "Luk"
     },
     "Closing_Bracket": {
-        "message": "Lukkende Parentes"
+        "message": "Afsluttende parentes"
     },
     "Cloud": {
         "message": "Cloud"
@@ -363,6 +374,33 @@
     "Config_Mode": {
         "message": "Konfigurationstilstand"
     },
+    "Configures_which_sandbox_values_are_valid": {
+        "message": "Konfigurerer hvilke @sandbox-værdier der er gyldige"
+    },
+    "Content_Script": {
+        "message": "Indholdsscript"
+    },
+    "Content_Script_API": {
+        "message": "API for indholdsscript"
+    },
+    "Context_Menu": {
+        "message": "Kontekstmenu"
+    },
+    "Controls_how_deleted_scripts_are_handled__0enabled0_moves_scripts_to_a_virtual_trash__0disabled0_permanently_deletes_scripts__0cleanAfterSession0_automatically_deletes_all_on_session_end_": {
+        "message": "Styrer hvordan slettede scripts håndteres. '$enabled$' flytter scripts til en virtuel papirkurv for potentiel genskabelse. '$disabled$' sletter scripts permanent efter bekræftelse. '$cleanAfterSession$' tømmer automatisk papirkurven efter browsersessionen slutter.",
+        "placeholders": {
+            "enabled": {
+                "content": "$1"
+            },
+            "disabled": {
+                "content": "$2"
+            },
+            "cleanAfterSession": {
+                "content": "$3"
+            }
+        }
+    },
+
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Konverter CDATA-sektioner til et browserkompatibelt format"
     },
@@ -373,13 +411,13 @@
         "message": "Cross Origin Request Permission"
     },
     "Current_Version": {
-        "message": "Nuværende Version"
+        "message": "Nuværende version"
     },
     "Custom_CSS": {
         "message": "Brugerdefineret CSS"
     },
     "Custom_Linter_Config": {
-        "message": "Brugerdefineret Linter Konfiguration"
+        "message": "Brugerdefineret linter-konfiguration"
     },
     "Cut": {
         "message": "Klip"
@@ -393,38 +431,44 @@
     "Debug_scripts": {
         "message": "Fejlfind scripts"
     },
+    "Decoding": {
+        "message": "Afkoder..."
+    },
     "Default": {
         "message": "Standard"
     },
     "Default_Dark": {
-        "message": "Standard - Mørk"
+        "message": "Standard - mørk"
     },
     "Default_Darker": {
-        "message": "Standard - Mørkere"
+        "message": "Standard - mørkere"
     },
     "Default_Light": {
-        "message": "Standard - Lys"
+        "message": "Standard - lys"
+    },
+    "Default_tab_types_to_run_scripts_in": {
+        "message": "Standard fanetyper som scripts skal køre i"
     },
     "Delete": {
         "message": "Slet"
     },
     "Delete_Line": {
-        "message": "Slet Linje"
+        "message": "Slet linje"
     },
     "Delete_Line_Left": {
-        "message": "Slet Linje Til Venstre"
+        "message": "Slet linje mod venstre"
     },
     "Delete_Line_Right": {
-        "message": "Slet Linje Til Højre"
+        "message": "Slet linje mod højre"
     },
     "Delete_all": {
         "message": "Slet alt"
     },
     "Delete_to_Next_Word_Boundary": {
-        "message": "Slet til Next Ordgrænse"
+        "message": "Slet til næste ordgrænse"
     },
     "Delete_to_Previous_Word_Boundary": {
-        "message": "Slet til Forrige Ordgrænse"
+        "message": "Slet til forrige ordgrænse"
     },
     "Delete_to_Sublime_Mark": {
         "message": "Slet til Sublime Mark"
@@ -447,6 +491,9 @@
     "Developer": {
         "message": "Udvikler"
     },
+    "Developer_Mode": {
+        "message": "Udviklertilstand"
+    },
     "Disable": {
         "message": "Deaktivér"
     },
@@ -462,10 +509,13 @@
         }
     },
     "Document_End": {
-        "message": "Dokument Slut"
+        "message": "Dokument slut"
     },
     "Document_Start": {
-        "message": "Dokument Start"
+        "message": "Dokument start"
+    },
+    "Does_not_run_in_incognito_tabs": {
+        "message": "Kører ikke i incognito-faner"
     },
     "Dont_ask_again": {
         "message": "Spørg ikke igen"
@@ -477,7 +527,7 @@
         "message": "Nedgradér"
     },
     "Download_Mode": {
-        "message": "Download Tilstand"
+        "message": "Downloadtilstand"
     },
     "Downloaded_from_0url0": {
         "message": "Downloadet fra: $url$",
@@ -497,7 +547,7 @@
         "message": "DuckDuckGo"
     },
     "Duplicate_Lines": {
-        "message": "Dupliserede Linjer"
+        "message": "Duplikerede linjer"
     },
     "Edit": {
         "message": "Redigér"
@@ -506,7 +556,7 @@
         "message": "Kodeeditor"
     },
     "Editor_reset": {
-        "message": "Kodeeditor nulstilling"
+        "message": "Kassér ændringer"
     },
     "Emacs": {
         "message": "Emacs"
@@ -523,14 +573,25 @@
     "Enable_autoSave": {
         "message": "Gem indhold, når kodeeditoren mister fokus"
     },
+    "Enable_context_menu": {
+        "message": "Aktivér kontekstmenu"
+    },
     "Enable_easySave": {
-        "message": "Vis ikke bekræftelsesdialogboksen ved gem"
+        "message": "Vis ikke bekræftelsesdialog når der gemmes"
     },
     "Enable_this_option_to_automatically_check_the_code_on_typing_": {
         "message": "Aktivér denne mulighed for automatisk at kontrollere koden ved indtastning."
     },
     "Enabled": {
         "message": "Aktiveret"
+    },
+    "Enabling_this_makes_it_easy_for_scripts_to_leak_it_s_granted_powers_to_the_page_Therefore__off__is_the_safest_option_": {
+        "message": "Aktivering af dette gør det meget nemt for userscripts at lække deres tildelte rettigheder til siden. Derfor er \"$off$\" den sikreste valgmulighed, men det kan forårsage kompabilitetsproblemer.",
+        "placeholders": {
+            "off": {
+                "content": "$1"
+            }
+        }
     },
     "Enforce": {
         "message": "Håndhæv"
@@ -542,22 +603,22 @@
         "message": "Fejl"
     },
     "Every_12_Hour": {
-        "message": "Hver 12. Time"
+        "message": "Hver 12. time"
     },
     "Every_6_Hours": {
-        "message": "Hver Sjette Time"
+        "message": "Hver 6. time"
     },
     "Every_Day": {
-        "message": "Hver Dag"
+        "message": "Hver dag"
     },
     "Every_Hour": {
-        "message": "Hver Time"
+        "message": "Hver time"
     },
     "Every_Month": {
-        "message": "Hver Måned"
+        "message": "Hver måned"
     },
     "Every_Week": {
-        "message": "Hver Uge"
+        "message": "Hver uge"
     },
     "Exclude_0domain0": {
         "message": "Ekskluder $domain$",
@@ -568,13 +629,46 @@
         }
     },
     "Exclude_s__": {
-        "message": "Ekskluder(er)"
+        "message": "Ekskluderinger"
     },
     "Experimental": {
         "message": "Eksperimentel"
     },
     "Export": {
         "message": "Eksportér"
+    },
+    "Export_script_0name0_0uuid0": {
+        "message": "Eksporter script \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Export_script_meta_data_of_0name0": {
+        "message": "Eksporter script-metadata for \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Export_script_source_of_0name0": {
+        "message": "Eksporter script-kildekode for \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
     },
     "Externals": {
         "message": "Eksterne"
@@ -586,7 +680,7 @@
         "message": "Hurtig"
     },
     "Favicon_Service": {
-        "message": "Favicon Service"
+        "message": "Favicon-tjeneste"
     },
     "Features": {
         "message": "Funktioner"
@@ -601,31 +695,31 @@
         "message": "Find"
     },
     "Find_All_Under": {
-        "message": "Find Alle Under"
+        "message": "Find alle under"
     },
     "Find_Next": {
-        "message": "Find Næste"
+        "message": "Find næste"
     },
     "Find_Previous": {
-        "message": "Find Forrige"
+        "message": "Find forrige"
     },
     "Find_Under": {
-        "message": "Find Under"
+        "message": "Find under"
     },
     "Find_Under_Previous": {
-        "message": "Find Under Forrige"
+        "message": "Find under forrige"
     },
     "Fix_wrappedJSObject_property_access": {
-        "message": "Ret wrappedJSObject property access"
+        "message": "Ret wrappedJSObject egenskabstilgang (property access)"
     },
     "Focus_tab": {
-        "message": "Fokuskildefane"
+        "message": "Fokuser kildefane"
     },
     "Fold": {
         "message": "Fold"
     },
     "Fold_All": {
-        "message": "Fold Alle"
+        "message": "Fold alle"
     },
     "Folding": {
         "message": "Foldning"
@@ -636,11 +730,28 @@
     "Forbid_once": {
         "message": "Forbyd én gang"
     },
+    "Force_DOM": {
+        "message": "Gennemtving DOM"
+    },
+    "Force_JavaScript": {
+        "message": "Gennemtving JavaScript"
+    },
+    "Force_Raw": {
+        "message": "Gennemtving rå (raw)"
+    },
+    "Found_0count0_available_scripts": {
+        "message": "Fandt $count$ tilgængelige scripts",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
     "Full_reset": {
         "message": "Fabriksnulstil"
     },
     "GM_compat_options_": {
-        "message": "GM/FF kompatibilitetsindstillinger"
+        "message": "GM/FF-kompatibilitetsindstillinger"
     },
     "General": {
         "message": "Generelt"
@@ -667,10 +778,10 @@
         "message": "Google Drev"
     },
     "Group_Left": {
-        "message": "Group Venstre"
+        "message": "Gruppér venstre"
     },
     "Group_Right": {
-        "message": "Group Højre"
+        "message": "Gruppér højre"
     },
     "Help": {
         "message": "Hjælp"
@@ -681,11 +792,14 @@
     "Hide_notification_after": {
         "message": "Skjul notifikation efter"
     },
+    "Highlight_selection_matches": {
+        "message": "Fremhæv tekst der matcher markeret tekst"
+    },
     "Highlight_trailing_whitespace": {
-        "message": "Fremhæv efterfølgende mellemrum"
+        "message": "Fremhæv afsluttende mellemrum"
     },
     "Homepage": {
-        "message": "Startside"
+        "message": "Hjemmeside"
     },
     "I_contributed_already": {
         "message": "Jeg har allerede doneret"
@@ -694,13 +808,13 @@
         "message": "Jeg vil ikke donere"
     },
     "Icon_badge_color": {
-        "message": "Ikonbadge Farve"
+        "message": "Farve på ikonbadge"
     },
     "Icon_badge_info": {
-        "message": "Ikonbadge info"
+        "message": "Info om ikonbadge"
     },
     "Icon_badge_text_color": {
-        "message": "Ikonbadge Tekstfarve"
+        "message": "Tekstfarve på ikonbadge"
     },
     "Import": {
         "message": "Importér"
@@ -711,14 +825,36 @@
     "Import_from_file": {
         "message": "Importér fra fil"
     },
+    "Import_remote_script_0uuid0": {
+        "message": "Importer fjernscript ($uuid$)",
+        "placeholders": {
+            "uuid": {
+                "content": "$1"
+            }
+        }
+    },
     "Imported": {
         "message": "Importeret"
+    },
+    "In_order_to_search_for_userscripts__0on_action_menu0__and__0icon_badge_number0__automatically_transfer_the_tab_s_url_to_the_search_website__0on_click0_opens_the_search_page_on_click_Please_click_at_this_icon_to_open_the_privacy_policy_": {
+        "message": "I tilstanden \"$icon_badge_number$\" bliver fanens URL automatisk\noverført til søgewebsiten og brugt som søgeværdi.\n\nI tilstanden \"$on_action_menu$\" foretages en søgning med URL'en kun\nnår aktionsmenuen bliver åbnet.\n\n\"$on_click$\" åbner kun søgewebsiten når der klikkes på elementet på aktionsmenuen.\n\nKlik her for at åbne søgesidens privatlivspolitik.",
+        "placeholders": {
+            "icon_badge_number": {
+                "content": "$1"
+            },
+            "on_action_menu": {
+                "content": "$2"
+            },
+            "on_click": {
+                "content": "$3"
+            }
+        }
     },
     "Include_TM_settings": {
         "message": "Inkludér Tampermonkey-indstillinger"
     },
     "Include_s__": {
-        "message": "Inkluder(er)"
+        "message": "Inkluderinger"
     },
     "Include_script_externals": {
         "message": "Inkludér eksterne script-ressourcer"
@@ -727,19 +863,22 @@
         "message": "Inkludér scriptlagring"
     },
     "Includes_Excludes": {
-        "message": "Inkluderer/ekskluderer"
+        "message": "Inkluderinger/ekskluderinger"
+    },
+    "Incognito_tabs": {
+        "message": "Incognitofaner"
     },
     "Incremental_Find": {
-        "message": "Trinvis Find"
+        "message": "Trinvis (inkrementel) find"
     },
     "Indent": {
         "message": "Indryk"
     },
     "Indent_Less": {
-        "message": "Indryk Mindre"
+        "message": "Indryk mindre"
     },
     "Indent_More": {
-        "message": "Indryk Mere"
+        "message": "Indryk mere"
     },
     "Indent_with": {
         "message": "Indryk med"
@@ -754,10 +893,10 @@
         "message": "Injiceringstilstand"
     },
     "Insert_Line_After": {
-        "message": "Indsæt Linje Efter"
+        "message": "Indsæt linje efter"
     },
     "Insert_Line_Before": {
-        "message": "Indsæt Linje Før"
+        "message": "Indsæt linje før"
     },
     "Insert_constructor": {
         "message": "Indsæt constructor"
@@ -769,7 +908,7 @@
         "message": "Installér dette script"
     },
     "Installed_Version_": {
-        "message": "Installeret Version"
+        "message": "Installeret version"
     },
     "Installed_userscripts": {
         "message": "Installerede userscripts"
@@ -778,19 +917,22 @@
         "message": "Øjeblikkelig"
     },
     "Invalid_UserScript__Sry_": {
-        "message": "Ugyldig UserScript. Sry!"
+        "message": "Ugyldigt userscript. Beklager!"
     },
     "Invalid_UserScript_name__Sry_": {
-        "message": "Ugyldig UserScript navn. Sry!"
+        "message": "Ugyldigt userscriptnavn. Beklager!"
+    },
+    "JavaScript_and_DOM": {
+        "message": "JavaScript+DOM"
     },
     "Join_Lines": {
-        "message": "Saml Linjer"
+        "message": "Saml linjer"
     },
     "Jump_to_line": {
         "message": "Hop til linje"
     },
     "Just_another_service_provided_by_your_friendly_script_updater_": {
-        "message": "Bare endnu en service leveret af din venlige scriptopdaterer"
+        "message": "Bare endnu en tjeneste leveret af din venlige scriptopdaterer"
     },
     "Key_Mapping": {
         "message": "Kortlægning af tastaturgenveje"
@@ -805,19 +947,19 @@
         "message": "Layout"
     },
     "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
-        "message": "Begrænsede runtime host tilladelser kan ødelægge nogle Tampermonkey-funktioner som script opdatering, GM_xmlhttpRequest og andre!"
+        "message": "Begrænsede runtime-værtstilladelser kan ødelægge nogle Tampermonkey-funktioner såsom scriptopdatering, GM_xmlhttpRequest og andre!"
     },
     "Line_Case_Insensitive": {
-        "message": "Linje Case Insensitive"
+        "message": "Line Case Insensitive (ignorer forskel på store og små bogstaver)"
     },
     "Line_Down": {
-        "message": "Linje Ned"
+        "message": "Linje ned"
     },
     "Line_Up": {
-        "message": "Linje Op"
+        "message": "Linje op"
     },
     "Line_break": {
-        "message": "Linjeskift"
+        "message": "Linjeombrydning"
     },
     "Lines": {
         "message": "Linjer"
@@ -825,23 +967,37 @@
     "Lines_Menu": {
         "message": "Linjer"
     },
+    "Loading": {
+        "message": "Indlæser..."
+    },
     "LogLevel": {
         "message": "Logningsniveau"
     },
     "Login": {
         "message": "Login"
     },
+    "Lookup_remote_script_0uuid0": {
+        "message": "Slå fjernscript op ($uuid$)",
+        "placeholders": {
+            "uuid": {
+                "content": "$1"
+            }
+        }
+    },
+    "Lookup_remote_script_list": {
+        "message": "Slå fjernscriptliste op"
+    },
     "Lower_Case": {
-        "message": "Små Bogstaver"
+        "message": "Små bogstaver"
     },
     "MIME_Type": {
-        "message": "MIME Type"
+        "message": "MIME-type"
     },
     "Malicious_scripts_can_violate_your_privacy_": {
         "message": "Ondsindede scripts kan krænke dit privatliv og handle på dine vegne!\nDu bør kun installere scripts fra kilder, som du stoler på."
     },
     "Manual_Script_Blacklist": {
-        "message": "Manual Userscript og @require Blacklist"
+        "message": "Manuel userscript- og @require-sortliste"
     },
     "Matching_URL": {
         "message": "Matchende URL"
@@ -850,10 +1006,10 @@
         "message": "Rediger"
     },
     "Move_Line_Down": {
-        "message": "Flyt Linje Ned"
+        "message": "Flyt linje ned"
     },
     "Move_Line_Up": {
-        "message": "Flyt Linje Op"
+        "message": "Flyt linje op"
     },
     "Name": {
         "message": "Navn"
@@ -868,19 +1024,22 @@
         "message": "Ny Version"
     },
     "New_script_template_": {
-        "message": "Nyt userscript skabelon"
+        "message": "Skabelon for nyt userscript"
     },
     "New_userscript": {
         "message": "<Nyt userscript>"
     },
     "Next_Bookmark": {
-        "message": "Næste Bogmærke"
+        "message": "Næste bogmærke"
     },
     "No": {
         "message": "Nej"
     },
+    "No_available_scripts": {
+        "message": "No available scripts"
+    },
     "No_backups_found": {
-        "message": "Ingen sikkerhedskopieringer fundet"
+        "message": "Ingen sikkerhedskopier fundet"
     },
     "No_entry_found": {
         "message": "Ingen angivelse fundet"
@@ -898,10 +1057,13 @@
         "message": "Ingen syntaksfejl blev fundet."
     },
     "No_update_found__sry_": {
-        "message": "Ingen opdatering fundet, sry!"
+        "message": "Ingen opdatering fundet, beklager!"
     },
     "Normal": {
         "message": "Normal"
+    },
+    "Normal_tabs": {
+        "message": "Normale faner"
     },
     "Note": {
         "message": "Note"
@@ -913,10 +1075,17 @@
         "message": "Fra"
     },
     "Ok": {
-        "message": "Ok"
+        "message": "OK"
     },
     "On": {
-        "message": "På"
+        "message": "Til"
+    },
+    "On_Action_Menu": {
+        "message": "På aktionsmenuen",
+        "translation_comment": "'On action menu' could also mean 'Når aktionsmenuen åbnes'"
+    },
+    "On_Click": {
+        "message": "Ved klik"
     },
     "OneDrive": {
         "message": "OneDrive"
@@ -925,10 +1094,10 @@
         "message": "Der blev fundet en fejl eller et tip."
     },
     "One_or_more_compatibility_options_are_set": {
-        "message": "En eller flere indstillinger for kompatibilitet er indstillet. Du vil måske/bør gennemgå dem."
+        "message": "En eller flere indstillinger for kompatibilitet er aktiveret. Du bør nok gennemgå dem."
     },
     "Only_Manual": {
-        "message": "Kun manuel"
+        "message": "Kun manuelt"
     },
     "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
         "message": "Kun filer med disse udvidelser kan gemmes på harddisken.\nVær forsigtig med ikke at tillade filtypenavne, der repræsenterer eksekverbare filer i dit operativsystem!"
@@ -940,7 +1109,7 @@
         "message": "Handlingen blev gennemført med succes"
     },
     "Original_domain_whitelist": {
-        "message": "Original domæne whitelist"
+        "message": "Hvidliste for originaldomæner"
     },
     "Original_excludes": {
         "message": "Original ekskluderer"
@@ -950,6 +1119,9 @@
     },
     "Original_matches": {
         "message": "Original matcher"
+    },
+    "Overwrite": {
+        "message": "Overskriv"
     },
     "Page_Filter_Mode": {
         "message": "Sidefiltertilstand"
@@ -964,7 +1136,7 @@
         "message": "Permanent"
     },
     "Please_check_the_0editor0_documentation_for_more_details_": {
-        "message": "Tjek $editor$ dokumentationen for flere detaljer.",
+        "message": "Tjek venligst $editor$-dokumentationen for flere detaljer.",
         "placeholders": {
             "editor": {
                 "content": "$1"
@@ -986,11 +1158,20 @@
     "Position_": {
         "message": "Position"
     },
+    "Press_ctrl_to_toggle_all_checkboxes": {
+        "message": "Tryk Ctrl/Cmd for at omskifte alle checkbokse"
+    },
     "Prev_Bookmark": {
-        "message": "Forrige Bogmærke"
+        "message": "Forrige bogmærke"
     },
     "Process_with_Chrome": {
-        "message": "Process med browseren"
+        "message": "Lad browseren håndtere"
+    },
+    "Raw_and_JavaScript": {
+        "message": "Rå og JavaScript"
+    },
+    "DOM_mode_is_unsecure__Scripts_can_install_new_scripts_": {
+        "message": "\"DOM\"-sandkassetilstand er usikker. Kørsel af userscripts har næsten fuldstændige udvidelsesrettigheder og kan tilmed ændre og installere nye userscripts."
     },
     "Really_delete_0name0__": {
         "message": "Vil du virkelig slette '$name$'?",
@@ -1000,8 +1181,11 @@
             }
         }
     },
+    "Really_delete_all_userscripts_": {
+        "message": "Vil du virkelig slette alle userscripts permanent?"
+    },
     "Really_delete_the_selected_items_": {
-        "message": "Vil du virkelig slette alle valgte elementer?"
+        "message": "Vil du virkelig slette alle de valgte elementer?"
     },
     "Really_factory_reset_the_selected_items_": {
         "message": "Vil du virkelig nulstille alle valgte elementer til fabriksindstillingerne?"
@@ -1010,16 +1194,25 @@
         "message": "Vil du virkelig nulstille dette script til fabriksindstillingerne?"
     },
     "Really_reset_all_changes_": {
-        "message": "Nulstiller du virkelig alle ændringer?"
+        "message": "Vil du virkelig kassere alle ændringerne?"
+    },
+    "Really_restore_all_userscripts_": {
+        "message": "Vil du virkelig gendanne alle userscripts?"
+    },
+    "Recent_Sync_Log": {
+        "message": "Seneste synkroniseringslog"
     },
     "Redo": {
         "message": "Gentag"
     },
     "Reindent_on_typing": {
-        "message": "Genindrykning ved indtastning"
+        "message": "Genindryk ved indtastning"
     },
     "Reinstall": {
         "message": "Geninstaller"
+    },
+    "Reload": {
+        "message": "Genindlæs"
     },
     "Remind_me_later": {
         "message": "Påmind mig senere"
@@ -1028,7 +1221,29 @@
         "message": "Fjern"
     },
     "Remove__possibly_unsecure_": {
-        "message": "Fjern helt (muligvis usikker)"
+        "message": "Fjern helt (muligvis usikkert)"
+    },
+    "Remove_local_script_0name0_0uuid0": {
+        "message": "Slet lokalt script \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Remove_remote_script_0name0_0uuid0": {
+        "message": "Slet fjernscript \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
     },
     "Replace": {
         "message": "Erstat"
@@ -1037,13 +1252,13 @@
         "message": "Erstat?"
     },
     "Replace_All": {
-        "message": "Erstat Alle"
+        "message": "Erstat alle"
     },
     "Replace_all_with": {
         "message": "Erstat alle"
     },
     "Replace_for_each_statements": {
-        "message": "Erstat 'for each' udsagn"
+        "message": "Erstat 'for each'-udsagn"
     },
     "Replace_with": {
         "message": "Erstat med"
@@ -1084,6 +1299,9 @@
     "Running_scripts": {
         "message": "Kørende scripts"
     },
+    "Sandbox_Mode": {
+        "message": "Sandkassetilstand"
+    },
     "Save": {
         "message": "Gem"
     },
@@ -1099,22 +1317,28 @@
         }
     },
     "Script_Blacklist_Source": {
-        "message": "Kilde til Script Blackliste"
+        "message": "Kilde til script-sortliste"
+    },
+    "Script_Include_Mode": {
+        "message": "Userscript @include-tilstand"
     },
     "Script_Sync": {
-        "message": "Script Synkronisering"
+        "message": "Userscript-synkronisering"
     },
     "Script_URL_detection": {
         "message": "Registrering af script-URL"
     },
     "Script_Update": {
-        "message": "Scriptopdatering"
+        "message": "Opdatering af userscript"
     },
     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
         "message": "Scriptforfattere kan sikre eksterne ressourcer ved at tilføje en SRI-hash til kildens URL."
     },
     "Script_local_files_access": {
         "message": "Tillad scripts at få adgang til lokale filer"
+    },
+    "Script_menu_commands": {
+        "message": "Userscript-menukommandoer"
     },
     "Script_name_0name0": {
         "message": "Scriptnavn: $name$",
@@ -1125,7 +1349,7 @@
         }
     },
     "Script_order": {
-        "message": "Script rækkefølge"
+        "message": "Rækkefølge på usercripts"
     },
     "Search": {
         "message": "Søg"
@@ -1133,23 +1357,29 @@
     "Search_for": {
         "message": "Søg efter"
     },
+    "Search_for_userscripts_for_this_tab": {
+        "message": "Søg efter userscripts for denne side"
+    },
+    "Searching_for_userscripts_for_this_tab": {
+        "message": "Søger efter userscripts..."
+    },
     "Security": {
         "message": "Sikkerhed"
     },
     "Select_All": {
-        "message": "Markér Alt"
+        "message": "Markér alt"
     },
     "Select_Bookmarks": {
-        "message": "Markér Bogmærker"
+        "message": "Markér bogmærker"
     },
     "Select_Line": {
-        "message": "Markér Linje"
+        "message": "Markér linje"
     },
     "Select_Next_Occurrence": {
         "message": "Markér næste forekomst"
     },
     "Select_Scope": {
-        "message": "Markér Omfang"
+        "message": "Markér omfang"
     },
     "Select_between_Brackets": {
         "message": "Markér mellem parenteser"
@@ -1161,7 +1391,7 @@
         "message": "Markering"
     },
     "Server_And_Manual": {
-        "message": "Remote + Manual"
+        "message": "Fjernt + manuelt"
     },
     "Set_Sublime_Mark": {
         "message": "Placér Sublime Mark"
@@ -1170,7 +1400,7 @@
         "message": "Indstillinger"
     },
     "Show_backups": {
-        "message": "Vis sikkerhedskopieringer"
+        "message": "Vis sikkerhedskopier"
     },
     "Show_fixed_source": {
         "message": "Vis fast kilde"
@@ -1179,13 +1409,13 @@
         "message": "Vis notifikation"
     },
     "Sites": {
-        "message": "Sider"
+        "message": "Steder"
     },
     "Size": {
         "message": "Størrelse"
     },
     "Skip_timeout__0seconds0_seconds_": {
-        "message": "Spring timeout over ($seconds$ sekunder)",
+        "message": "Stop timeout ($seconds$ sekunder)",
         "placeholders": {
             "seconds": {
                 "content": "$1"
@@ -1193,7 +1423,7 @@
         }
     },
     "Smart": {
-        "message": "Smart"
+        "message": "Intelligent"
     },
     "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
         "message": "Nogle scripts kan blive blokeret af JavaScript-indstillingerne for denne side eller en scriptblokker!"
@@ -1208,10 +1438,10 @@
         "message": "Kildekode"
     },
     "Spaces": {
-        "message": "Mellemrum"
+        "message": "Mellemrumstegn"
     },
     "Split_into_Lines": {
-        "message": "Opdel i Linjer"
+        "message": "Opdel i linjer"
     },
     "Start": {
         "message": "Start"
@@ -1235,10 +1465,10 @@
         "message": "Sublime Mark"
     },
     "Subresource_Integrity": {
-        "message": "Subresource Integrity"
+        "message": "Underressource-integritet"
     },
     "Swap_with_Sublime_Mark": {
-        "message": "Byt med Sublime Mark"
+        "message": "Udskift med Sublime Mark"
     },
     "Sync_Reset": {
         "message": "Nulstil synkronisering"
@@ -1256,25 +1486,35 @@
         "message": "Synkroniser dine scripts på tværs af browsere og operativsystemer"
     },
     "TabMode": {
-        "message": "FaneTilstand"
+        "message": "Fanetilstand"
     },
     "Tab_Size": {
-        "message": "Fane Størrelse"
+        "message": "Fanestørrelse"
     },
     "Tab_URL": {
-        "message": "Fane URL"
+        "message": "Fane-URL"
+    },
+    "Tab_types": {
+        "message": "Fanetyper"
     },
     "Tabs": {
         "message": "Faner"
     },
+    "Tam": {
+        "message": "Tam",
+        "description": "Navn på servicebotten"
+    },
     "Tampermonkey_and_script_version": {
-        "message": "Tampermonkey + script version"
+        "message": "Tampermonkey + scriptversion"
+    },
+    "Tampermonkey_has_no_access_to_this_page": {
+        "message": "Tampermonkey har ikke adgang til denne side"
     },
     "Tampermonkey_has_no_file_access_permission_": {
-        "message": "Tampermonkey har ingen tilladelse til at få adgang til lokale filer!"
+        "message": "Tampermonkey har ingen tilladelse til at tilgå lokale filer!"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
-        "message": "Tampermonkey mkan muligvis ikke give adgang til den usikre kontekst (unsafeWindow, sidens funktioner og variabler) når dette er deaktiveret."
+        "message": "Tampermonkey er muligvis ikke i stand til at give adgang til den usikre kontekst (unsafeWindow, sidens funktioner og variabler) når dette er deaktiveret."
     },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
         "message": "Tampermonkey skal genstartes for at gøre denne ændring gældende.\n\nVil du fortsætte?"
@@ -1292,31 +1532,48 @@
         "message": "Midlertidig"
     },
     "Temporary_domain_whitelist": {
-        "message": "Midlertidig domæne whitelist"
+        "message": "Midlertidig domæne-hvidliste"
     },
     "Text": {
         "message": "Tekst"
     },
     "TextArea": {
-        "message": "TekstOmråde"
+        "message": "Tekstområde (TextArea)"
     },
     "Thank_you_very_much_": {
-        "message": "Mange Tak!"
+        "message": "Mange tak!"
     },
     "The_Browser_API_mode_requires_a_special_permission_": {
         "message": "Browser API-tilstanden kræver en særlig tilladelse."
     },
     "The_diff_for_this_script_is_too_large_to_render": {
-        "message": "Forskellen fpr dette script er for stor til at gengive"
+        "message": "Forskellen (diffen) for dette script er for stor til at gengive"
     },
     "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
-        "message": "Det nedgraderede script kan have problemer med at læse dets lagrede data!"
+        "message": "Det nedgraderede script kan have problemer med at læse sine lagrede data!"
     },
     "The_origin_of_this_script_cant_be_determined_": {
-        "message": "Advarsel: Oprindelsen af ​​dette script kan ikke bestemmes.\nEnten blev det installeret af en ondsindet tredjepart for at stjæle dine private data eller nogle basale browserindstillinger, dit operativsystem eller hardware har ændret på!\n\nÅbn, gennemgå og gem scriptet for at aktivere det."
+        "message": "Advarsel: Oprindelsen af ​​dette script kan ikke bestemmes.\nEnten blev det installeret af en ondsindet tredjepart for at stjæle dine private data eller nogle grundlæggende browserindstillinger, eller også er dit operativsystem eller hardware blevet ændret!\n\nÅbn, gennemgå og gem scriptet for at aktivere det."
+    },
+    "The_script_was_successfully_deleted_": {
+        "message": "Scriptet blev slettet."
+    },
+    "The_script_was_successfully_moved_to_the_trash_": {
+        "message": "Scriptet blev smidt i papirkurven."
+    },
+    "Modifying_a_script_will_disable_automatic_script_updates_": {
+        "message": "Ændring af et script vil deaktivere automatiske opdateringer af scriptet!"
+    },
+    "The_script_was_modified_locally_on_0date0__Updating_it_will_overwrite_your_changes_": {
+        "message": "Scriptet blev ændret lokalt $date$. Opdatering af det vil overskrive dine ændringer!",
+        "placeholders": {
+            "date": {
+                "content": "$1"
+            }
+        }
     },
     "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
-        "message": "Opdaterings webadressen er ændret fra:\n    '$oldurl$'\n    til:\n    '$newurl$'\n",
+        "message": "Opdateringswebadressen er ændret fra:\n    '$oldurl$'\n    til:\n    '$newurl$'\n",
         "placeholders": {
             "oldurl": {
                 "content": "$1"
@@ -1330,10 +1587,10 @@
         "message": "Tema"
     },
     "There_are_unsaved_changed_": {
-        "message": "Der er ikke gemte ændringer.\nVil du virkelig lukke kodeeditoren?"
+        "message": "Der er ændringer, der ikke er gemt.\nVil du virkelig lukke kodeeditoren?"
     },
     "There_is_an_update_for_0name0_avaiable_": {
-        "message": "Der er en opdatering for '$name$' tilgængelig. :)",
+        "message": "Der er en tilgængelig opdatering til '$name$'. :)",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1347,10 +1604,10 @@
         "message": "Dette giver dette script tilladelse til at hente og sende data fra og til hver webside. Dette er potentielt usikkert!\n\nEr du sikker på, at du vil fortsætte?"
     },
     "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
-        "message": "Oprindelsen af ​​dette script kan ikke bestemmes.\nEnten blev det installeret af en tredjepart for at stjæle dine private data eller nogle basale browserindstillinger, dit operativsystem eller hardware har ændret på.\nDenne ændring vil aktivere det!"
+        "message": "Oprindelsen af ​​dette script kan ikke bestemmes.\nEnten blev det installeret af en tredjepart for at stjæle dine private data eller nogle basale browserindstillinger, eller også er dit operativsystem eller hardware blevet ændret.\nDenne modificering vil aktivere det!"
     },
     "This_is_a_system_script": {
-        "message": "Dette er et system script."
+        "message": "Dette er et systemscript."
     },
     "This_is_a_userscript": {
         "message": "Dette er et userscript skrevet i Javascript"
@@ -1359,25 +1616,34 @@
         "message": "Denne indstilling tillader Tampermonkey-hjemmesiden og nogle script-hosting-sider at bestemme Tampermonkey-versionen og nogle grundlæggende scriptoplysninger (installeret, version, aktiveret)."
     },
     "This_page_is_blacklisted_at_the_security_settings": {
-        "message": "Blacklisted af sikkerhedsindstillinger"
+        "message": "Sortlistet pga. sikkerhedsindstillinger"
     },
     "This_script_does_not_provide_any__include_information_": {
-        "message": "Dette script giver ingen @include information."
+        "message": "Dette script giver ingen @include-information."
+    },
+    "This_script_does_not_require_any_special_powers_": {
+        "message": "Dette script kræver ingen særlige rettigheder."
     },
     "This_script_has_access_to_https_pages": {
-        "message": "Dette element har fuld adgang til https-sider."
+        "message": "Dette element har adgang til https-sider."
     },
     "This_script_has_full_web_access": {
         "message": "Dette script har fuld internetadgang."
     },
+    "This_script_has_local_modifications_and_needs_to_be_updated_manually": {
+        "message": "Dette script har lokale ændringer og skal opdateres manuelt!"
+    },
     "This_script_is_blacklisted_": {
-        "message": "Dette script er blacklisted!"
+        "message": "Dette script er sortlistet!"
     },
     "This_script_stores_data": {
         "message": "Dette script gemmer data til Tampermonkey."
     },
     "This_script_was_deleted": {
         "message": "Dette script blev slettet"
+    },
+    "This_script_was_deleted_by_the_hoster_": {
+        "message": "Dette script blev slettet af værten"
     },
     "This_script_was_executed_0count0_times": {
         "message": "Dette script blev kørt $count$ gang(e)",
@@ -1388,7 +1654,7 @@
         }
     },
     "This_script_was_executed_0count0_times_but_is_not_active_anymore": {
-        "message": "Dette script blev kørt $count$ gang(e) men er ikke aktivt mere",
+        "message": "Dette script blev kørt $count$ gang(e), men er ikke aktivt længere",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -1396,13 +1662,13 @@
         }
     },
     "This_script_was_not_executed_yet": {
-        "message": "Dette script blev ikke kørt endnu"
+        "message": "Dette script er ikke blevet kørt endnu"
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "Dette overskriver dine globale indstillinger!"
     },
     "This_will_remove_all_remote_data_from_sync_Ok_": {
-        "message": "Vil du virkelig fjerne alt data fra Sync?"
+        "message": "Vil du virkelig fjerne alle data fra Sync?"
     },
     "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
         "message": "Vil du virkelig fjerne alle scripts og nulstille alle indstillinger?"
@@ -1417,16 +1683,16 @@
         "message": "Toggle"
     },
     "Toggle_Block_Comment": {
-        "message": "Toggle Bloker Kommentar"
+        "message": "Toggle blokkommentar"
     },
     "Toggle_Comment": {
-        "message": "Toggle Kommentar"
+        "message": "Toggle kommentar"
     },
     "Toggle_Comment_Indented": {
-        "message": "Toggle Kommentar Indrykket"
+        "message": "Toggle kommentar indrykket"
     },
     "Toggle_Enable": {
-        "message": "Toggle Aktiver"
+        "message": "Toggle aktiver"
     },
     "Trace": {
         "message": "Spor"
@@ -1435,10 +1701,10 @@
         "message": "Transponer"
     },
     "Trigger_Update": {
-        "message": "Trigger Opdatering"
+        "message": "Udløs opdatering"
     },
     "Trim_trailing_whitespace_from_modified_lines": {
-        "message": "Trim efterfølgende mellemrum fra ændrede linjer"
+        "message": "Fjern afsluttende mellemrum fra ændrede linjer"
     },
     "Try_to_install_as_script": {
         "message": "Prøv at installere som script"
@@ -1461,7 +1727,7 @@
         }
     },
     "Unable_to_parse_0name0": {
-        "message": "Kan ikke parse $name$",
+        "message": "Kan ikke fortolke $name$",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1469,7 +1735,7 @@
         }
     },
     "Unable_to_parse_this_": {
-        "message": "Kan ikke parse dette! :("
+        "message": "Kan ikke fortolke dette! :("
     },
     "Undo": {
         "message": "Fortryd"
@@ -1478,10 +1744,10 @@
         "message": "Udfold"
     },
     "Unfold_All": {
-        "message": "Udfold Alle"
+        "message": "Udfold alle"
     },
     "Unique_running_scripts": {
-        "message": "Unik kørende scripts"
+        "message": "Unikke kørende scripts"
     },
     "Unknown_method_0name0": {
         "message": "Ukendt metode $name$",
@@ -1491,23 +1757,37 @@
             }
         }
     },
+    "Unsafe": {
+        "message": "Usikker"
+    },
     "Update": {
-        "message": "Update"
+        "message": "Opdatering"
     },
     "Update_Notification": {
-        "message": "Hvis TM opdaterings notifikation"
+        "message": "Vis opdateringsnotifikation"
     },
     "Update_URL_": {
-        "message": "Opdaterings webadresse"
+        "message": "Opdateringswebadresse"
     },
     "Update_check_is_disabled": {
-        "message": "Script opdaterings tjek er enten slået fra eller ikke mulig"
+        "message": "Scriptopdateringstjek er enten slået fra eller ikke mulig"
     },
     "Update_interval": {
-        "message": "Opdaterings Interval"
+        "message": "Opdateringsinterval"
+    },
+    "Update_local_script_0name0_0uuid0": {
+        "message": "Opdater lokalt script \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
     },
     "Updated_to__0version0": {
-        "message": "Updaterede til: $version$",
+        "message": "Opdaterede til: $version$",
         "placeholders": {
             "version": {
                 "content": "$1"
@@ -1518,28 +1798,60 @@
         "message": "Opdateringer"
     },
     "Upper_Case": {
-        "message": "Store Bogstaver"
+        "message": "Store bogstaver"
+    },
+    "UserScripts_API": {
+        "message": "UserScripts API"
+    },
+    "UserScripts_API_Dynamic": {
+        "message": "UserScripts API dynamisk"
     },
     "User_domain_blacklist": {
-        "message": "Blacklist af brugerdomæne"
+        "message": "Bruger-domænesortliste"
     },
     "User_domain_whitelist": {
-        "message": "Whitelist af brugerdomæne"
+        "message": "Bruger-domænehvidliste"
     },
     "User_excludes": {
-        "message": "Bruger ekskluderer"
+        "message": "Bruger-ekskluderinger"
     },
     "User_includes": {
-        "message": "Bruger inkluderer"
+        "message": "Bruger-inkluderinger"
     },
     "User_matches": {
-        "message": "Bruger matcher"
+        "message": "Bruger-matches"
     },
     "User_modified": {
         "message": "Ændret"
     },
+    "Userscript_Search": {
+        "message": "Userscript-søgning"
+    },
+    "Userscript_search_integration_mode": {
+        "message": "Userscript-søgeintegration"
+    },
     "Userscripts": {
         "message": "Brugerscripts"
+    },
+    "Using__include_is_potentially_unsafe_and_may_be_obsolete_soon___0off0_disables__include_completely__0match0__is_safe__but_may_not_compatible_the_script_developers_intention__0unsafe0__mostly_keeps_the_legacy_behavior_0default0__means__0used_default0": {
+        "message": "Brug af @include er potentielt usikkert og kan blive forældet i Manifest v3, som snart kommer. Denne indstilling tillader dig at konfigurere den måde @include fortolkes. '$off$' deaktiverer @include fuldstændig, '$match$' er sikker, men er måske ikke kompatibel med scriptudviklernes intention. '$unsafe$' beholder for det meste den gamle opførsel og '$default$' betyder '$used_default$' indtil videre.",
+        "placeholders": {
+            "off": {
+                "content": "$1"
+            },
+            "match": {
+                "content": "$2"
+            },
+            "unsafe": {
+                "content": "$3"
+            },
+            "default": {
+                "content": "$4"
+            },
+            "used_default": {
+                "content": "$5"
+            }
+        }
     },
     "Utilities": {
         "message": "Hjælpeprogrammer"
@@ -1556,11 +1868,14 @@
     "Version": {
         "message": "Version"
     },
+    "View": {
+        "message": "Vis"
+    },
     "Vim": {
         "message": "Vim"
     },
     "Waiting_for_sync_to_finish": {
-        "message": "Venter på, at synkronisering er afsluttet"
+        "message": "Venter på, at synkroniseringen slutter"
     },
     "Warning": {
         "message": "Advarsel"
@@ -1575,16 +1890,16 @@
         "message": "Whitelist"
     },
     "Whitelisted_File_Extensions": {
-        "message": "Whitelistede Filtypenavne"
+        "message": "Hvidlistede filtypenavne"
     },
     "Whitelisted_Pages": {
-        "message": "Whitelistede Sider"
+        "message": "Hvidlistede sider"
     },
     "Windows": {
         "message": "Windows"
     },
     "XHR_Security": {
-        "message": "XHR Security"
+        "message": "XHR-sikkerhed"
     },
     "Yandex_Disk": {
         "message": "Yandex.Disk"
@@ -1611,7 +1926,7 @@
         "message": "Opdatering af userscript"
     },
     "You_can_add_your_custom_CSS_rules_here_": {
-        "message": "Du kan tilføje dine egne CSS-regler for Tampermonkey UI her. Hvis dette ødelægger noget, kan du få standardlayoutet ved at tilføje ?layout=reset til valgmulighedssidens webadresse."
+        "message": "Du kan tilføje dine egne CSS-regler for Tampermonkey-brugergrænsefladen her. Hvis dette ødelægger noget, kan du få standardlayoutet ved at tilføje ?layout=reset til indstillingssidens webadresse."
     },
     "You_can_add_your_custom_linter_config_here_": {
         "message": "Du kan tilføje din brugerdefinerede linter-konfiguration her."
@@ -1620,7 +1935,7 @@
         "message": "Er dit sprog ikke understøttet?\nKlik her for at få intruktioner til hvordan du oversætter Tampermonkey."
     },
     "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
-        "message": "Din whitelistede ser ud til at indeholde eksekverbare filer!\nDet betyder at dine userscripts kan downloade malware eller spyware til din harddisk!!"
+        "message": "Din hvidliste ser ud til at indeholde eksekverbare filer!\nDet betyder at dine userscripts kan downloade malware eller spyware til din harddisk!!"
     },
     "Zip": {
         "message": "Zip"
@@ -1629,7 +1944,7 @@
         "message": "-- Vælg en mulighed --"
     },
     "_not_set_": {
-        "message": "<ikke sat>"
+        "message": "<ikke indstillet>"
     },
     "connect_mode": {
         "message": "Tjek @connect"
@@ -1678,5 +1993,8 @@
     },
     "strict_mode": {
         "message": "streng tilstand"
+    },
+    "top_level_await": {
+        "message": "topniveau-await"
     }
 }
