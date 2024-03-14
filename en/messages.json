@@ -1726,7 +1726,7 @@
         "message": "This gives this script permission to retrieve and send data from and to every webpage. This is potentially unsafe!\n\nAre you sure you want to continue?"
     },
     "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
-        "message": "The origin of this script can't be determined.\nEither it was installed by a third party to steal you private data or some basic browser settings, your operation system or hardware has changed.\nThis modification will enable it!"
+        "message": "The origin of this script can't be determined.\nEither it was installed by a third party to steal you private data or some basic browser settings, or your operation system or hardware has changed.\nThis modification will enable it!"
     },
     "This_is_a_system_script": {
         "message": "This is a system script."
