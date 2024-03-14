@@ -127,7 +127,7 @@
     },
     "There_are_no_active_scripts__Do_you_want_to_search_for_userscripts_": {
         "description": "Una domanda posta dal bot di servizio",
-        "message": "Non ci sono script attivi. Vuoi cercare gli userscript?"
+        "message": "Non ci sono script attivi.\nVuoi cercare gli userscript?"
     },
     "Do_you_need_help_working_with_Tampermonkey_": {
         "description": "Una domanda posta dal bot di servizio",
@@ -155,7 +155,7 @@
     },
     "One_of_your_scripts_is_blacklisted__Would_you_like_to_know_why_": {
         "description": "Una domanda posta dal bot di servizio",
-        "message": "Uno degli script è nella lista nera. Vuoi sapere perché?"
+        "message": "Uno degli script è nella lista nera.\nVuoi sapere perché?"
     },
     "Do_you_need_help_viewing_and_editing_values_stored_by_a_userscript_": {
         "description": "Una domanda posta dal bot di servizio",
@@ -239,13 +239,13 @@
         "message": "Tutte le schede"
     },
     "Allow_Tampermonkey_to_collect_anonymous_statistics": {
-        "message": "Permette a Tampermonkey di collezionare statistiche anonime tramite un'installazione Matomo self-hosted. Questo aiuta l'autore di Tamperminkey a migliorarlo e a determinare su quali criteri concentrare lo sviluppo. Se non ti piace, basta disabilitarlo."
+        "message": "Permette a Tampermonkey di collezionare statistiche anonime tramite un'installazione Matomo self-hosted.\nQuesto aiuta l'autore di Tamperminkey a migliorarlo e a determinare su quali criteri concentrare lo sviluppo.\nSe non ti piace, basta disabilitarlo."
     },
     "Allow_communication_with_cooperate_pages": {
         "message": "Permetti comunicazione con pagine cooperative"
     },
     "Allow_headers_to_be_modified_by_scripts": {
-        "message": "Permetti agli script di modificare le inetstazioni HTTP"
+        "message": "Permetti agli script di modificare le intestazioni HTTP"
     },
     "Allow_once": {
         "message": "Permetti una volta"
@@ -301,7 +301,7 @@
         "message": "Nessun dettaglio fornito"
     },
     "Antifeature_other": {
-        "message": "una antifunzione"
+        "message": "una anti-funzione"
     },
     "Antifeature_tracking": {
         "message": "Tracciatura"
@@ -346,7 +346,7 @@
         "message": "Rientro automatico tutto"
     },
     "Auto_reload_on_script_enabled": {
-        "message": "Ricarica automaticamnete pagine"
+        "message": "Ricarica automaticamente pagine"
     },
     "Auto_reload_on_script_enabled_desc": {
         "message": "Ricarica le pagine influenzate se uno script viene abilitato/disabilitato"
@@ -370,7 +370,7 @@
         "message": "Elenco vietati"
     },
     "Blacklist_0domain0": {
-        "message": "Elenco non autorizzati $domain$",
+        "message": "Elenco $domain$ non autorizzati",
         "placeholders": {
             "domain": {
                 "content": "$1"
@@ -393,7 +393,7 @@
         "message": "API browser"
     },
     "Browser_API_Downloads": {
-        "message": "Downlaod API browser"
+        "message": "Download API browser"
     },
     "Browser_Sync": {
         "message": "Sincronizzazione browser"
@@ -422,7 +422,7 @@
         "message": "Modifiche"
     },
     "Changes_the_number_of_visible_config_options": {
-        "message": "Modifica il numero di opzioni di configurazione visibili"
+        "message": "Modifica numero opzioni configurazione visibili"
     },
     "Check_disabled_scripts": {
         "message": "Aggiorna script disabilitati"
@@ -449,7 +449,7 @@
         "message": "Azzera tutto"
     },
     "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
-        "message": "Fai click su OK per permettere a TamperMonkey di accedere ai seguenti host:\n\n$host_list$",
+        "message": "Seleziona 'OK' per permettere a TamperMonkey di accedere ai seguenti host:\n\n$host_list$",
         "placeholders": {
             "host_list": {
                 "content": "$1"
@@ -457,7 +457,7 @@
         }
     },
     "Click_here_to_allow_TM_to_start_downloads": {
-        "message": "Fai clic su 'OK' per permettere a Tampermonkey di avviare download immediati."
+        "message": "Seleziona 'OK' per permettere a Tampermonkey di avviare download immediati."
     },
     "Click_here_to_install_it_": {
         "message": "Fai clic qui per installarlo."
@@ -466,7 +466,7 @@
         "message": "Fai clic qui per spostare questo script"
     },
     "Click_here_to_see_the_recent_changes": {
-        "message": "Fai cli qui per visalizzare le modifiche recenti"
+        "message": "Fai cli qui per visualizzare le modifiche recenti"
     },
     "Close": {
         "message": "Chiudi"
@@ -499,7 +499,7 @@
         "message": "Menu contestuale"
     },
     "Controls_how_deleted_scripts_are_handled__0enabled0_moves_scripts_to_a_virtual_trash__0disabled0_permanently_deletes_scripts__0cleanAfterSession0_automatically_deletes_all_on_session_end_": {
-        "message": "Controlla come vengono gestiti gli script eliminati. '%enabled%' sposta gli script in un cestino virtuale per un'eventuale recupero. '%disabled%' elimina definitivamente gli script dopo conferma. '%cleanAfterSession%' svuota automaticamente il cestino al termine della sessione del browser.",
+        "message": "Controlla come vengono gestiti gli script eliminati.\n'%enabled%' sposta gli script in un cestino virtuale per un'eventuale recupero.\n'%disabled%' elimina definitivamente gli script dopo conferma.\n'%cleanAfterSession%' svuota automaticamente il cestino al termine della sessione del browser.",
         "placeholders": {
             "enabled": {
                 "content": "$1"
@@ -700,7 +700,7 @@
         "message": "Abilitato"
     },
     "Enabling_this_makes_it_easy_for_scripts_to_leak_it_s_granted_powers_to_the_page_Therefore__off__is_the_safest_option_": {
-        "message": "Abilitando questo rende molto facile per gli script utente garantirsi i diritti concessi alla pagina.\nPertanto \"$off$\" è l'opzione più sicura, ma potrebbe causare problemi di compatibilità.",
+        "message": "Abilitando questo rende molto facile per gli script utente garantirsi i diritti concessi alla pagina.\nPertanto '$off$' è l'opzione più sicura, ma potrebbe causare problemi di compatibilità.",
         "placeholders": {
             "off": {
                 "content": "$1"
@@ -752,7 +752,7 @@
         "message": "Esporta"
     },
     "Export_script_0name0_0uuid0": {
-        "message": "Esporta script \"$name$\" ($uuid$)",
+        "message": "Esporta script '$name$' ($uuid$)",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -763,7 +763,7 @@
         }
     },
     "Export_script_meta_data_of_0name0": {
-        "message": "Esporta meta dati script di \"$name$\" ($uuid$)",
+        "message": "Esporta meta dati script di '$name$' ($uuid$)",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -774,7 +774,7 @@
         }
     },
     "Export_script_source_of_0name0": {
-        "message": "Esporta sorgente script di \"$name$\" ($uuid$)",
+        "message": "Esporta sorgente script di '$name$' ($uuid$)",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -951,7 +951,7 @@
         "message": "Importato"
     },
     "In_order_to_search_for_userscripts__0on_action_menu0__and__0icon_badge_number0__automatically_transfer_the_tab_s_url_to_the_search_website__0on_click0_opens_the_search_page_on_click_Please_click_at_this_icon_to_open_the_privacy_policy_": {
-        "message": "Nella modalità \"$icon_badge_number$\" l'URL della scheda è automaticamente\ntrasferito al sito di ricerca e usato come valore ricerca.\n\nNella modalità \"$on_action_menu$\" viene effettuata una ricerca usando l'URL solo\nquando il menu azioni è aperto.\n\n\"$on_click$\" apre solo il sito di ricerca con un clic sull'elemento del menu azioni.\n\nFai clic qui per aprire la policy della privacy per il sito di ricerca.",
+        "message": "Nella modalità '$icon_badge_number$' l'URL della scheda è automaticamente\ntrasferito al sito di ricerca e usato come valore ricerca.\n\nNella modalità '$on_action_menu$' viene effettuata una ricerca usando l'URL solo\nquando il menu azioni è aperto.\n\n'$on_click$' apre solo il sito di ricerca con un clic sull'elemento del menu azioni.\n\nFai clic qui per aprire la policy della privacy per il sito di ricerca.",
         "placeholders": {
             "icon_badge_number": {
                 "content": "$1"
@@ -965,7 +965,7 @@
         }
     },
     "Include_TM_settings": {
-        "message": "Includi impostazioni  Tampermonkey"
+        "message": "Includi impostazioni Tampermonkey"
     },
     "Include_s__": {
         "message": "Incluso/i"
@@ -1028,7 +1028,7 @@
         "message": "Script installati"
     },
     "Instant": {
-        "message": "Instantaneo"
+        "message": "Istantaneo"
     },
     "Invalid_UserScript__Sry_": {
         "message": "Script non valido."
@@ -1064,7 +1064,7 @@
         "message": "I permessi limitati di accesso agli host possono non far funzionare alcune funzioni Tampermonkey come aggiornamento script, GM_xmlhttpRequest e altro!"
     },
     "Line_Case_Insensitive": {
-        "message": "Linea non sensibile maisucolo/minuscolo"
+        "message": "Linea non sensibile maiuscolo/minuscolo"
     },
     "Line_Down": {
         "message": "Linea sotto"
@@ -1260,10 +1260,10 @@
         "message": "Fai una donazione"
     },
     "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
-        "message": "Si prega di abilitare le statistiche anonime e aiutare a ottimizzare questa estensione. Vengono raccolti solo dati tecnici e dati di interazione con l'estensione. Clicca qui per maggiori informazioni sui dati."
+        "message": "Abilitare le statistiche anonime e aiutare a ottimizzare questa estensione.\nVengono raccolti solo dati tecnici e dati di interazione con l'estensione.\nClic qui per maggiori informazioni sui dati."
     },
     "Please_enable_developer_mode_to_allow_userscript_injection_": {
-        "message": "Abilita la modalità sviluppatore per consentire l'inserimento di script utente. Fai clic qui per ulteriori informazioni su come eseguire questa operazione."
+        "message": "Abilita la modalità sviluppatore per consentire l'inserimento di script utente.\nFai clic qui per ulteriori informazioni su come eseguire questa operazione."
     },
     "Please_select_a_file": {
         "message": "Seleziona un file"
@@ -1287,7 +1287,7 @@
         "message": "Raw and JavaScript"
     },
     "DOM_mode_is_unsecure__Scripts_can_install_new_scripts_": {
-        "message": "Il modo sandbox \"DOM\" non è sicuro.\nGli script utente in esecuzione hanno autorizzazioni di estensione quasi complete e possono persino modificare e installare nuovi script utente."
+        "message": "Il modo sandbox 'DOM' non è sicuro.\nGli script utente in esecuzione hanno autorizzazioni di estensione quasi complete e possono persino modificare e installare nuovi script utente."
     },
     "Really_delete_0name0__": {
         "message": "Vuoi davvero eliminare '$name$'?",
@@ -1340,7 +1340,7 @@
         "message": "Rimuovi interamente (possibile non sicuro)"
     },
     "Remove_local_script_0name0_0uuid0": {
-        "message": "Rimuovi script locale \"$name$\" ($uuid$)",
+        "message": "Rimuovi script locale '$name$' ($uuid$)",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1351,7 +1351,7 @@
         }
     },
     "Remove_remote_script_0name0_0uuid0": {
-        "message": "Rimuovi script remoto \"$name$\" ($uuid$)",
+        "message": "Rimuovi script remoto '$name$' ($uuid$)",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1365,7 +1365,7 @@
         "message": "Sostituisci"
     },
     "Replace_": {
-        "message": "Vuoi sostiuire?"
+        "message": "Vuoi sostituire?"
     },
     "Replace_All": {
         "message": "Sostituisci tutto"
@@ -1488,6 +1488,9 @@
     "Select_All": {
         "message": "Seleziona tutto"
     },
+    "Select_All_Occurrences": {
+        "message": "Seleziona tutte le occorrenze"
+    },
     "Select_Bookmarks": {
         "message": "Seleziona segnalibri"
     },
@@ -1598,6 +1601,9 @@
     "Sync_Type": {
         "message": "Tipo"
     },
+    "Sync_failed": {
+        "message": "Sincronizzazione fallita"
+    },
     "Sync_finished": {
         "message": "Sincronizzazione completata"
     },
@@ -1636,7 +1642,7 @@
         "message": "Tampermonkey non ha il permesso di accedere ai file locali!"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
-        "message": "Tampermonkey potrebbe non essere in grado di fornire accesso al contesto non sicuro (unsafeWindow, funzioni e variabli della pagina) quando questa è disabilitata."
+        "message": "Tampermonkey potrebbe non essere in grado di fornire accesso al contesto non sicuro (unsafeWindow, funzioni e variabili della pagina) quando questa è disabilitata."
     },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
         "message": "Per applicare le modifiche Tampermonkey deve essere riavviato.\n\nVuoi continuare?"
@@ -1648,7 +1654,7 @@
         "message": "Modelli"
     },
     "Temporarily_allow": {
-        "message": "Permetti temporneamente"
+        "message": "Permetti temporaneamente"
     },
     "Temporary": {
         "message": "Temporaneamente"
@@ -1672,7 +1678,7 @@
         "message": "Le differenze per questo script sono troppo grandi da renderizzare"
     },
     "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
-        "message": "L'installazione di uno script di versione precedente protrebbe causare problemi nella lettura dei dati salvati!"
+        "message": "L'installazione di uno script di versione precedente potrebbe causare problemi nella lettura dei dati salvati!"
     },
     "The_origin_of_this_script_cant_be_determined_": {
         "message": "Attenzione: l'origine di questo script non può essere determinata.\nPotrebbe essere stato installato da un plugin malevolo di terze parti per catturare i tuoi dati privati o alcune impostazioni base del browser.\nIl sistema operativo o l'hardware sono stati modificati.!\n\nApri, verifica e salva lo script per abilitarlo."
@@ -1684,7 +1690,7 @@
         "message": "Lo script è stato correttamente spostato nel cestino."
     },
     "Modifying_a_script_will_disable_automatic_script_updates_": {
-        "message": "Modifying a script will disable automatic script updates!"
+        "message": "La modifica di uno script disabiliterà gli aggiornamenti automatici degli script!"
     },
     "The_script_was_modified_locally_on_0date0__Updating_it_will_overwrite_your_changes_": {
         "message": "Lo script è stato modificato localmente in data $date$.\nL'aggiornamento sovrascriverà le modifiche!",
@@ -1720,13 +1726,13 @@
         }
     },
     "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
-        "message": "Questa risorsa esterna non verrà aggiornata automaticamente!\nPer abilitare nuovamente l'aggiornameto prima eliminala."
+        "message": "Questa risorsa esterna non verrà aggiornata automaticamente!\nPer abilitare nuovamente l'aggiornamento prima eliminala."
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
         "message": "Questo darà allo script il permssso di recuperare e inviare dati da e ad ogni pagina web.\nQuesto è potenzialmente rischioso!\n\nSei sicuro di voler continuare?"
     },
     "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
-        "message": "L'origine di questo script non può essere determinata.\nPotrebbe essere stato installato da una terza parte per catturare i tuoi dati privati o alcune impostazioni base del browser.\nIl sistema operativo o l'hardware sono stati modificati.\nQuesta modifica lo abiliterà!"
+        "message": "L'origine di questo script non può essere determinata.\nPotrebbe essere stato installato da una terza parte per catturare i dati privati o alcune impostazioni base del browser.\nIl sistema operativo o l'hardware sono stati modificati.\nQuesta modifica lo abiliterà!"
     },
     "This_is_a_system_script": {
         "message": "Questo è uno script di sistema."
@@ -1907,7 +1913,7 @@
         "message": "Intervallo aggiornamento"
     },
     "Update_local_script_0name0_0uuid0": {
-        "message": "Aggiorna script locale \"$name$\" ($uuid$)",
+        "message": "Aggiorna script locale '$name$' ($uuid$)",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1986,6 +1992,9 @@
     },
     "Utilities": {
         "message": "Utilità"
+    },
+    "VSCode": {
+        "message": "VSCode"
     },
     "Validate_if_given": {
         "message": "Validato se fornito"
