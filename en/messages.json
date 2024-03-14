@@ -1488,6 +1488,9 @@
     "Select_All": {
         "message": "Select All"
     },
+    "Select_All_Occurrences": {
+        "message": "Select All Occurrences"
+    },
     "Select_Bookmarks": {
         "message": "Select Bookmarks"
     },
@@ -1598,6 +1601,9 @@
     "Sync_Type": {
         "message": "Type"
     },
+    "Sync_failed": {
+        "message": "Sync failed"
+    },
     "Sync_finished": {
         "message": "Sync finished"
     },
@@ -1675,7 +1681,7 @@
         "message": "The downgraded script might have problems to read its stored data!"
     },
     "The_origin_of_this_script_cant_be_determined_": {
-        "message": "Warning: The origin of this script can't be determined.\nEither it was installed by a malicious third party to steal you private data or some basic browser settings, or your operation system or hardware has changed!\n\nPlease open, review and save the script to enable it."
+        "message": "Warning: The origin of this script can't be determined.\nEither it was installed by a malicious third party to steal your private data or some basic browser settings, or your operating system or hardware has changed!\n\nPlease open, review and save the script to enable it."
     },
     "The_script_was_successfully_deleted_": {
         "message": "The script was successfully deleted."
@@ -1986,6 +1992,9 @@
     },
     "Utilities": {
         "message": "Utilities"
+    },
+    "VSCode": {
+        "message": "VSCode"
     },
     "Validate_if_given": {
         "message": "Validate if given"

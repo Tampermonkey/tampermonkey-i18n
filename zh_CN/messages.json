@@ -1299,6 +1299,9 @@
     "Select_All": {
         "message": "选择全部"
     },
+    "Select_All_Occurrences": {
+        "message": "选择所有出现"
+    },
     "Select_Bookmarks": {
         "message": "选择书签"
     },

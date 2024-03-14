@@ -1479,6 +1479,9 @@
     "Select_All": {
         "message": "選取全部"
     },
+    "Select_All_Occurrences": {
+        "message": "選擇所有出現的地方"
+    },
     "Select_Bookmarks": {
         "message": "選取書籤"
     },

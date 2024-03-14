@@ -400,7 +400,6 @@
             }
         }
     },
-
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Konverter CDATA-sektioner til et browserkompatibelt format"
     },

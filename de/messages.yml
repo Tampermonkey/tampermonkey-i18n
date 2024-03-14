@@ -857,6 +857,8 @@ Sync_Reset:
   message: Zurücksetzen
 Sync_Type:
   message: Typ
+Sync_failed:
+  message: Synchronisation fehlgeschlagen
 Sync_finished:
   message: Synchronisation beendet
 Sync_is_running:
