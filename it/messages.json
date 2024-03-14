@@ -147,7 +147,7 @@
     },
     "Would_you_like_to_learn_how_to_export_and_import_your_scripts_": {
         "description": "Una domanda posta dal bot di servizio",
-        "message": "Vuoi imparare come esportare e importare i tuoi script?"
+        "message": "Vuoi imparare come esportare e importare glii script?"
     },
     "Do_you_want_to_know_how_to_allow_Tampermonkey_access_to_local_file_URIs_": {
         "description": "Una domanda posta dal bot di servizio",
@@ -163,7 +163,7 @@
     },
     "Do_you_want_to_use_an_external_editor_to_edit_your_scripts__nWould_you_like_to_know_how_to_set_this_up_": {
         "description": "Una domanda posta dal bot di servizio",
-        "message": "Vuoi usre un editor esterno per modificare i tuoi script?\nVuoi sapere come impostarlo?"
+        "message": "Vuoi usre un editor esterno per modificare gli script?\nVuoi sapere come impostarlo?"
     },
     "Are_you_unsure_about_what__sandbox_value_to_use_": {
         "description": "Una domanda posta dal bot di servizio",
@@ -1681,7 +1681,7 @@
         "message": "L'installazione di uno script di versione precedente potrebbe causare problemi nella lettura dei dati salvati!"
     },
     "The_origin_of_this_script_cant_be_determined_": {
-        "message": "Attenzione: l'origine di questo script non può essere determinata.\nPotrebbe essere stato installato da un plugin malevolo di terze parti per catturare i tuoi dati privati o alcune impostazioni base del browser.\nIl sistema operativo o l'hardware sono stati modificati.!\n\nApri, verifica e salva lo script per abilitarlo."
+        "message": "Attenzione: l'origine di questo script non può essere determinata.\nPotrebbe essere stato installato da un plugin malevolo di terze parti per catturare i dati privati o alcune impostazioni base del browser.\nIl sistema operativo o l'hardware sono stati modificati.!\n\nApri, verifica e salva lo script per abilitarlo."
     },
     "The_script_was_successfully_deleted_": {
         "message": "Lo script è stato correttamente eliminato."
@@ -2075,7 +2075,7 @@
         "message": "La tua lingua non è supportata?\nFai clic qui per sapere come tradurre Tampermonkey"
     },
     "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
-        "message": "Il tuo elenco autorizzati sembra includere file eseguibili!\nCiò significa che i tuoi script utente potrebbero scaricare malware o spyware nel tuo disco fisso!!"
+        "message": "Il tuo elenco autorizzati sembra includere file eseguibili!\nCiò significa che gli script utente potrebbero scaricare malware o spyware nel tuo disco fisso!!"
     },
     "Zip": {
         "message": "ZIP"
