@@ -1482,6 +1482,9 @@
     "Select_All": {
         "message": "すべて選択"
     },
+    "Select_All_Occurrences": {
+        "message": "出現箇所をすべて選択"
+    },
     "Select_Bookmarks": {
         "message": "ブックマークを選択"
     },
@@ -1591,6 +1594,9 @@
     },
     "Sync_Type": {
         "message": "種類"
+    },
+    "Sync_failed": {
+        "message": "同期が失敗しました"
     },
     "Sync_finished": {
         "message": "同期が完了しました"
@@ -1980,6 +1986,9 @@
     },
     "Utilities": {
         "message": "ユーティリティ"
+    },
+    "VSCode": {
+        "message": "VSCode"
     },
     "Validate_if_given": {
         "message": "指定された場合に検証"
