@@ -1,4 +1,16 @@
 {
+    "extName": {
+        "message": "Tampermonkey"
+    },
+    "extNameBeta": {
+        "message": "Tampermonkey BETA"
+    },
+    "extShortName": {
+        "message": "Tampermonkey"
+    },
+    "extShortNameBeta": {
+        "message": "TM BETA"
+    },
     "extDescription": {
         "message": "Mude a web à vontade com userscripts"
     },
@@ -484,7 +496,7 @@
         "message": "API do script de conteúdo"
     },
     "Context_Menu": {
-        "message": "Menu de Contexto"
+        "message": "Menu de contexto"
     },
     "Controls_how_deleted_scripts_are_handled__0enabled0_moves_scripts_to_a_virtual_trash__0disabled0_permanently_deletes_scripts__0cleanAfterSession0_automatically_deletes_all_on_session_end_": {
         "message": "Controla como os scripts excluídos são tratados. '$enabled$' move os scripts para uma lixeira virtual para recuperação potencial. '$disabled$' exclui permanentemente os scripts após confirmação. '$cleanAfterSession$' limpa automaticamente a lixeira após o término da sessão do navegador.",
@@ -592,6 +604,9 @@
     },
     "Developer": {
         "message": "Desenvolvedor"
+    },
+    "Developer_Mode": {
+        "message": "Modo de desenvolvedor"
     },
     "Disable": {
         "message": "Desativar"
@@ -1245,7 +1260,10 @@
         "message": "Por favor, considere uma doação"
     },
     "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
-        "message": "Por favor, habilite estatísticas anônimas e ajude a otimizar esta extensão. São coletados apenas dados técnicos e dados de interação com a extensão. Clique aqui para mais informações sobre os dados."
+        "message": "Por favor, habilite as estatísticas anônimas e ajude a otimizar esta extensão. São coletados apenas dados técnicos e dados de interação com a extensão. Clique aqui para mais informações sobre os dados."
+    },
+    "Please_enable_developer_mode_to_allow_userscript_injection_": {
+        "message": "Por favor, habilite o modo de desenvolvedor para permitir a aplicação de userscript. Clique aqui para mais informações de como fazer isto."
     },
     "Please_select_a_file": {
         "message": "Por favor, selecione um arquivo"
@@ -1470,6 +1488,9 @@
     "Select_All": {
         "message": "Selecionar tudo"
     },
+    "Select_All_Occurrences": {
+        "message": "Selecionar todas as ocorrências"
+    },
     "Select_Bookmarks": {
         "message": "Selecionar marcadores"
     },
@@ -1579,6 +1600,9 @@
     },
     "Sync_Type": {
         "message": "Tipo"
+    },
+    "Sync_failed": {
+        "message": "Falha na sincronia"
     },
     "Sync_finished": {
         "message": "Sincronização concluída"
@@ -1916,6 +1940,9 @@
     "UserScripts_API": {
         "message": "API dos UserScripts"
     },
+    "UserScripts_API_Dynamic": {
+        "message": "API dinâmico do UserScripts"
+    },
     "User_domain_blacklist": {
         "message": "lista negra de domínio do usuário"
     },
@@ -1965,6 +1992,9 @@
     },
     "Utilities": {
         "message": "Utilitários"
+    },
+    "VSCode": {
+        "message": "VSCode"
     },
     "Validate_if_given": {
         "message": "Validar se determinado"
