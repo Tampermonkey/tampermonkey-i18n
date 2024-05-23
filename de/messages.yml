@@ -564,9 +564,9 @@ Installed_Version_:
 Installed_userscripts:
   message: Installierte Userscripte
 Invalid_UserScript__Sry_:
-  message: Ungültiges Userscript. Sorry!
+  message: Ungültiges Userscript!
 Invalid_UserScript_name__Sry_:
-  message: Ungültiger Userscript-Name. Sorry!
+  message: Ungültiger Userscript-Name!
 JavaScript_and_DOM:
   message: JavaScript- und DOM-Modus
 Jump_to_line:
@@ -579,6 +579,8 @@ Language:
   message: Sprache
 Last_updated:
   message: Letzte Aktualisierung
+Legacy:
+  message: Altmodisch
 Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_:
   message: Das Reduzieren von Laufzeit-Rechten kann Probleme beim Userscript-Update, GM_xmlhttpRequest und weiteren Funktionen verursachen!
 Line_break:
@@ -967,7 +969,7 @@ This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_de
 This_page_is_blacklisted_at_the_security_settings:
   message: Durch Sicherheitsoptionen geblockt
 This_script_does_not_provide_any__include_information_:
-  message: Dieses Userscript beinhaltet keine @include-Informationen.
+  message: Dieses Userscript beinhaltet keine @include- oder @match-Informationen.
 This_script_does_not_require_any_special_powers_:
   message: Dieses Script verlangt keine besonderen Rechte.
 This_script_has_local_modifications_and_needs_to_be_updated_manually:
@@ -1173,3 +1175,17 @@ severity_10:
   message: 10 (unsicherer)
 some_secs:
   message: einigen
+Grant_all:
+  message: Alle gewähren
+Grant_selected:
+  message: Ausgewählte gewähren
+Host_permissions_denied_by_user_:
+  message: 'Vom Benutzer abgelehnte Host-Berechtigungen:'
+No_previously_denied_runtime_host_permissions_found:
+  message: Keine zuvor abgelehnten Laufzeit-Host-Berechtigungen gefunden
+Requested_Host_Permissions:
+  message: Angeforderte Host-Berechtigungen
+Reset_list:
+  message: Liste zurücksetzen
+Runtime_Host_Permissions:
+  message: Laufzeit-Host-Berechtigungen

@@ -2136,5 +2136,26 @@
     },
     "top_level_await": {
         "message": "espera de nível superior"
+    },
+    "Grant_all": {
+        "message": "Conceder Tudo"
+    },
+    "Grant_selected": {
+        "message": "Conceder Selecionado"
+    },
+    "Host_permissions_denied_by_user_": {
+        "message": "Permissões do host negadas pelo usuário:"
+    },
+    "No_previously_denied_runtime_host_permissions_found": {
+        "message": "Nenhuma permissão de host de execução negada anteriormente encontrada"
+    },
+    "Requested_Host_Permissions": {
+        "message": "Permissões do Host Solicitadas"
+    },
+    "Reset_list": {
+        "message": "Redefinir Lista"
+    },
+    "Runtime_Host_Permissions": {
+        "message": "Permissões do Host de Execução"
     }
 }

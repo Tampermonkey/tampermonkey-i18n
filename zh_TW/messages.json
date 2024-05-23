@@ -2104,5 +2104,26 @@
     },
     "top_level_await": {
         "message": "最高層級 await"
+    },
+    "Grant_all": {
+        "message": "全部授予"
+    },
+    "Grant_selected": {
+        "message": "授予所選"
+    },
+    "Host_permissions_denied_by_user_": {
+        "message": "使用者拒絕的主機權限："
+    },
+    "No_previously_denied_runtime_host_permissions_found": {
+        "message": "未找到先前被拒絕的運行時主機權限"
+    },
+    "Requested_Host_Permissions": {
+        "message": "請求的主機權限"
+    },
+    "Reset_list": {
+        "message": "重設列表"
+    },
+    "Runtime_Host_Permissions": {
+        "message": "運行時主機權限"
     }
 }

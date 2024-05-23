@@ -1031,10 +1031,10 @@
         "message": "Instant"
     },
     "Invalid_UserScript__Sry_": {
-        "message": "Invalid Userscript. Sry!"
+        "message": "Invalid Userscript!"
     },
     "Invalid_UserScript_name__Sry_": {
-        "message": "Invalid Userscript name. Sry!"
+        "message": "Invalid Userscript name!"
     },
     "JavaScript_and_DOM": {
         "message": "JavaScript+DOM"
@@ -1059,6 +1059,9 @@
     },
     "Layout": {
         "message": "Layout"
+    },
+    "Legacy": {
+        "message": "Legacy"
     },
     "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
         "message": "Limited runtime host permissions might break some Tampermonkey features like script update, GM_xmlhttpRequest and others!"
@@ -1747,7 +1750,7 @@
         "message": "Blacklisted by security settings"
     },
     "This_script_does_not_provide_any__include_information_": {
-        "message": "This script does not provide any @include information."
+        "message": "This script does not provide any @include or @match information."
     },
     "This_script_does_not_require_any_special_powers_": {
         "message": "This script does not require any special powers."
@@ -2136,5 +2139,26 @@
     },
     "top_level_await": {
         "message": "top-level await"
+    },
+    "Grant_all": {
+        "message": "Grant All"
+    },
+    "Grant_selected": {
+        "message": "Grant Selected"
+    },
+    "Host_permissions_denied_by_user_": {
+        "message": "Host permissions denied by user:"
+    },
+    "No_previously_denied_runtime_host_permissions_found": {
+        "message": "No previously denied runtime host permissions found"
+    },
+    "Requested_Host_Permissions": {
+        "message": "Requested Host Permissions"
+    },
+    "Reset_list": {
+        "message": "Reset List"
+    },
+    "Runtime_Host_Permissions": {
+        "message": "Runtime Host Permissions"
     }
 }

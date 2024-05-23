@@ -2106,5 +2106,26 @@
     },
     "top_level_await": {
         "message": "ожидание верхнего уровня"
+    },
+    "Grant_all": {
+        "message": "Предоставить все"
+    },
+    "Grant_selected": {
+        "message": "Предоставить выбранное"
+    },
+    "Host_permissions_denied_by_user_": {
+        "message": "Разрешения хоста отклонены пользователем:"
+    },
+    "No_previously_denied_runtime_host_permissions_found": {
+        "message": "Ранее отклоненных разрешений хоста во время выполнения не найдено"
+    },
+    "Requested_Host_Permissions": {
+        "message": "Запрошенные разрешения хоста"
+    },
+    "Reset_list": {
+        "message": "Сбросить список"
+    },
+    "Runtime_Host_Permissions": {
+        "message": "Разрешения хоста во время выполнения"
     }
 }

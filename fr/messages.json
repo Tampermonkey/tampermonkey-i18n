@@ -2090,5 +2090,26 @@
     },
     "top_level_await": {
         "message": "top-level await"
+    },
+    "Grant_all": {
+        "message": "Accorder tout"
+    },
+    "Grant_selected": {
+        "message": "Accorder la sélection"
+    },
+    "Host_permissions_denied_by_user_": {
+        "message": "Permissions de l'hôte refusées par l'utilisateur:"
+    },
+    "No_previously_denied_runtime_host_permissions_found": {
+        "message": "Aucune permission d'hôte d'exécution précédemment refusée trouvée"
+    },
+    "Requested_Host_Permissions": {
+        "message": "Permissions de l'hôte demandées"
+    },
+    "Reset_list": {
+        "message": "Réinitialiser la liste"
+    },
+    "Runtime_Host_Permissions": {
+        "message": "Permissions de l'hôte d'exécution"
     }
 }

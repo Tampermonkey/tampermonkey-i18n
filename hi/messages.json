@@ -1473,5 +1473,26 @@
     },
     "strict_mode": {
         "message": "सख्त मोड"
+    },
+    "Grant_all": {
+        "message": "सभी को अनुदान दें"
+    },
+    "Grant_selected": {
+        "message": "चयनित अनुदान"
+    },
+    "Host_permissions_denied_by_user_": {
+        "message": "होस्ट अनुमतियाँ उपयोगकर्ता द्वारा अस्वीकृत:"
+    },
+    "No_previously_denied_runtime_host_permissions_found": {
+        "message": "कोई पहले से अस्वीकृत रनटाइम होस्ट अनुमतियाँ नहीं मिलीं"
+    },
+    "Requested_Host_Permissions": {
+        "message": "अनुरोधित होस्ट अनुमतियाँ"
+    },
+    "Reset_list": {
+        "message": "सूची रीसेट करें"
+    },
+    "Runtime_Host_Permissions": {
+        "message": "रनटाइम होस्ट अनुमतियाँ"
     }
 }

@@ -1097,5 +1097,26 @@
     },
     "severity_9": {
         "message": "9<"
+    },
+    "Grant_all": {
+        "message": "Conceder Todo"
+    },
+    "Grant_selected": {
+        "message": "Conceder Seleccionado"
+    },
+    "Host_permissions_denied_by_user_": {
+        "message": "Permisos del host denegados por el usuario:"
+    },
+    "No_previously_denied_runtime_host_permissions_found": {
+        "message": "No se encontraron permisos del host en tiempo de ejecución denegados previamente"
+    },
+    "Requested_Host_Permissions": {
+        "message": "Permisos del Host Solicitados"
+    },
+    "Reset_list": {
+        "message": "Restablecer Lista"
+    },
+    "Runtime_Host_Permissions": {
+        "message": "Permisos del Host en Tiempo de Ejecución"
     }
 }

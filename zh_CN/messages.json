@@ -1874,5 +1874,26 @@
     },
     "top_level_await": {
         "message": "top-level await"
+    },
+    "Grant_all": {
+        "message": "全部授予"
+    },
+    "Grant_selected": {
+        "message": "授予所选"
+    },
+    "Host_permissions_denied_by_user_": {
+        "message": "用户拒绝的主机权限："
+    },
+    "No_previously_denied_runtime_host_permissions_found": {
+        "message": "未找到以前被拒绝的运行时主机权限"
+    },
+    "Requested_Host_Permissions": {
+        "message": "请求的主机权限"
+    },
+    "Reset_list": {
+        "message": "重置列表"
+    },
+    "Runtime_Host_Permissions": {
+        "message": "运行时主机权限"
     }
 }
