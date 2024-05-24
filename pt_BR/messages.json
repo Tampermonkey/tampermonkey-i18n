@@ -1031,10 +1031,10 @@
         "message": "Instantâneo"
     },
     "Invalid_UserScript__Sry_": {
-        "message": "Script inválido. Desculpe!"
+        "message": "Userscript inválido!"
     },
     "Invalid_UserScript_name__Sry_": {
-        "message": "Nome de Script inválido. Desculpe!"
+        "message": "Nome do Userscript inválido!"
     },
     "JavaScript_and_DOM": {
         "message": "JavaScript+DOM"
@@ -1059,6 +1059,9 @@
     },
     "Layout": {
         "message": "Layout"
+    },
+    "Legacy": {
+        "message": "Herdado"
     },
     "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
         "message": "Permissões de host de tempo de execução limitado podem quebrar alguns recursos do Tampermonkey, como a atualização de script, GM_xmlhttpRequest e outros!"
@@ -1747,7 +1750,7 @@
         "message": "Listado pelas opções de segurança"
     },
     "This_script_does_not_provide_any__include_information_": {
-        "message": "Este script não possui nenhuma informação @include."
+        "message": "Este script não possui nenhuma informação @include ou @match."
     },
     "This_script_does_not_require_any_special_powers_": {
         "message": "Este script não requer nenhum poder especial."
@@ -2138,10 +2141,10 @@
         "message": "espera de nível superior"
     },
     "Grant_all": {
-        "message": "Conceder Tudo"
+        "message": "Conceder tudo"
     },
     "Grant_selected": {
-        "message": "Conceder Selecionado"
+        "message": "Conceder selecionado"
     },
     "Host_permissions_denied_by_user_": {
         "message": "Permissões do host negadas pelo usuário:"
