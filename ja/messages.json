@@ -2132,24 +2132,24 @@
         "message": "top-level await"
     },
     "Grant_all": {
-        "message": "すべて許可する"
+        "message": "すべて許可"
     },
     "Grant_selected": {
-        "message": "選択したものを許可する"
+        "message": "選択したものを許可"
     },
     "Host_permissions_denied_by_user_": {
-        "message": "ユーザーによって拒否されたホストの権限:"
+        "message": "ユーザーにより拒否されたホストの権限:"
     },
     "No_previously_denied_runtime_host_permissions_found": {
-        "message": "以前に拒否されたランタイムホストの権限は見つかりませんでした"
+        "message": "以前に拒否された実行時ホスト権限は見つかりませんでした"
     },
     "Requested_Host_Permissions": {
         "message": "要求されたホストの権限"
     },
     "Reset_list": {
-        "message": "リストをリセットする"
+        "message": "リストをリセット"
     },
     "Runtime_Host_Permissions": {
-        "message": "ランタイムホストの権限"
+        "message": "実行時ホスト権限"
     }
 }
