@@ -138,7 +138,7 @@
         "message": "Створити новий скрипт..."
     },
     "Advanced": {
-        "message": "Передові"
+        "message": "Продвинутий"
     },
     "All_local_files": {
         "message": "Всі локальні файли"
@@ -150,7 +150,7 @@
         "message": "Всі налаштування скрипта будуть скинуті!"
     },
     "Allow_Tampermonkey_to_collect_anonymous_statistics": {
-        "message": "Дозвольте Tampermonkey збирати анонімні дані за допомогою власної установки Matomo. Це допомагає мені ліпшити Tampermonkey і визначити за якими критеріями мушу зосередити розвиток. Просто вимкніть цього, якщо не подобається."
+        "message": "Дозвольте Tampermonkey збирати анонімні дані за допомогою власного сервера Matomo. Це допомагає мені поліпшити Tampermonkey і визначити за якими критеріями необхідно зосередити розвиток. Просто вимкніть цю опцію, якщо вам не подобається."
     },
     "Allow_communication_with_cooperate_pages": {
         "message": "Дозволити взаємодію з повʼязаними сторінками"
@@ -171,13 +171,13 @@
         "message": "Завжди дозволяти всім доменам"
     },
     "Always_allow_domain": {
-        "message": "Завжди дозволяти домен"
+        "message": "Завжди дозволяти домену"
     },
     "Always_ask": {
         "message": "Завжди питати"
     },
     "Always_forbid": {
-        "message": "Завжди забороняє"
+        "message": "Завжди забороняти"
     },
     "Always_forbid_domain": {
         "message": "Завжди забороняти домен"
@@ -231,7 +231,7 @@
         "message": "Автовідступ для всіх"
     },
     "Auto_reload_on_script_enabled": {
-        "message": "Автоматичне перезарядки сторінок"
+        "message": "Автоматичне оновлення сторінок"
     },
     "Auto_reload_on_script_enabled_desc": {
         "message": "Перезавантажити сторінки, на яких цей скрипт був включений або вимкнений"
@@ -243,10 +243,10 @@
         "message": "Автоматична перевірка синтаксису при введенні тексту"
     },
     "Automatically_added_user_includes_for_compatibility_reasons_": {
-        "message": "Деякі користувацькі @include-я будуть застосовані автоматично для забезпечення сумісності!"
+        "message": "Деякі користувацькі @include-и будуть застосовані автоматично для забезпечення сумісності!"
     },
     "Beginner": {
-        "message": "Початківців"
+        "message": "Початківець"
     },
     "BlackCheck": {
         "message": "Перевірка наявності в чорному списку"
@@ -284,16 +284,16 @@
         }
     },
     "Cancel": {
-        "message": "Скасування"
+        "message": "Скасувати"
     },
     "Casual": {
         "message": "Випадково"
     },
     "Center_Cursor": {
-        "message": "Центр курсору"
+        "message": "Курсор у центр"
     },
     "Changelog": {
-        "message": "Змінити список"
+        "message": "Перелік змін"
     },
     "Changes": {
         "message": "Зміна"
@@ -323,7 +323,7 @@
         "message": "Видалити всі"
     },
     "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
-        "message": "Будь ласка, натисніть OK, щоб Tampermonkey міг отримати доступ до наступних хостам:\n\n$host_list$",
+        "message": "Будь ласка, натисніть OK, щоб Tampermonkey міг отримати доступ до наступних хостів:\n\n$host_list$",
         "placeholders": {
             "host_list": {
                 "content": "$1"
@@ -343,7 +343,7 @@
         "message": "Натисніть тут, щоб побачити останні зміни"
     },
     "Close": {
-        "message": "Заплющити"
+        "message": "Закрити"
     },
     "Closing_Bracket": {
         "message": "Завершальні дужки"
@@ -403,7 +403,7 @@
         "message": "Видалити рядок"
     },
     "Delete_Line_Left": {
-        "message": "Видалити частину рядка зліва"
+        "message": "Видалити частину рядка ліворуч"
     },
     "Delete_Line_Right": {
         "message": "Видалити частину рядка праворуч"
@@ -433,7 +433,7 @@
         "message": "Розробник"
     },
     "Disable": {
-        "message": "Вимикати"
+        "message": "Вимкнути"
     },
     "Disabled": {
         "message": "Вимкнуто"
@@ -456,7 +456,7 @@
         "message": "Не запитувати"
     },
     "Dont_ask_me_for_simple_script_updates": {
-        "message": "Не питай мене для невеликих змін в скрипті"
+        "message": "Не запитувати при невеликих змінах в скрипті"
     },
     "Downgrade": {
         "message": "Відкотити"
@@ -488,7 +488,7 @@
         "message": "Редактор"
     },
     "Editor_reset": {
-        "message": "Скидання змін"
+        "message": "Скинути зміни"
     },
     "Emacs": {
         "message": "Emacs"
@@ -512,7 +512,7 @@
         "message": "Увімкніть цю опцію, щоб автоматично перевірити код при наборі."
     },
     "Enabled": {
-        "message": "Включені"
+        "message": "Включено"
     },
     "Enforce": {
         "message": "Перевизначити"
@@ -559,7 +559,7 @@
         "message": "Експорт"
     },
     "Externals": {
-        "message": "Зовнішніх"
+        "message": "Зовнішні"
     },
     "Factory_Reset": {
         "message": "Скидання до заводських налаштувань"
@@ -586,7 +586,7 @@
         "message": "Знайти все до"
     },
     "Find_Next": {
-        "message": "Знайти більш"
+        "message": "Знайти далі"
     },
     "Find_Previous": {
         "message": "Знайти попереднє"
@@ -646,7 +646,7 @@
         "message": "Google"
     },
     "Group_Left": {
-        "message": "Група зліва"
+        "message": "Група ліворуч"
     },
     "Group_Right": {
         "message": "Група праворуч"
@@ -661,7 +661,7 @@
         "message": "Приховувати повідомлення через"
     },
     "Highlight_trailing_whitespace": {
-        "message": "Підсвічуватися пробіли в кінці рядка"
+        "message": "Підсвічувати пробіли в кінці рядка"
     },
     "Homepage": {
         "message": "Домашня сторінка"
@@ -736,7 +736,7 @@
         "message": "Вставити рядок перед"
     },
     "Insert_constructor": {
-        "message": "Конструктор вставляємо"
+        "message": "Вставити конструктор"
     },
     "Install": {
         "message": "Встановити"
@@ -748,7 +748,7 @@
         "message": "Встановлена версія"
     },
     "Installed_userscripts": {
-        "message": "Установлені скрипти"
+        "message": "Встановлені скрипти"
     },
     "Instant": {
         "message": "Миттєвий"
@@ -769,7 +769,7 @@
         "message": "Інший сервис для оновлення ваших скриптів"
     },
     "Key_Mapping": {
-        "message": "Зіставлення клавіш"
+        "message": "Комбінації клавіш"
     },
     "Language": {
         "message": "Мова"
@@ -784,22 +784,22 @@
         "message": "Обмежені дозволи на хост під час виконання можуть порушити деякі функції Tampermonkey, такі як оновлення сценарію, GM_xmlhttpRequest та інші!"
     },
     "Line_Case_Insensitive": {
-        "message": "Лінії без урахування регістру"
+        "message": "Рядки без урахування регістру"
     },
     "Line_Down": {
-        "message": "На лінії нижче"
+        "message": "На рядок нижче"
     },
     "Line_Up": {
-        "message": "На лінії вище"
+        "message": "На рядок вище"
     },
     "Line_break": {
         "message": "Розрив рядка"
     },
     "Lines": {
-        "message": "Лінії"
+        "message": "Рядки"
     },
     "Lines_Menu": {
-        "message": "Лінії"
+        "message": "Рядки"
     },
     "LogLevel": {
         "message": "Рівень ведення журналу"
@@ -883,7 +883,7 @@
         "message": "Примітка"
     },
     "Novice": {
-        "message": "Новий"
+        "message": "Новачок"
     },
     "Off": {
         "message": "Відключений"
@@ -1010,7 +1010,7 @@
         "message": "Замінити всі"
     },
     "Replace_all_with": {
-        "message": "Замінити всі"
+        "message": "Замінити всі на"
     },
     "Replace_for_each_statements": {
         "message": "Замінювати вирази 'for each'"
@@ -1095,10 +1095,13 @@
         "message": "Шукати"
     },
     "Security": {
-        "message": "Безпеки"
+        "message": "Безпека"
     },
     "Select_All": {
         "message": "Виділити всі"
+    },
+    "Select_All_Occurrences": {
+        "message": "Вибрати всі входження"
     },
     "Select_Bookmarks": {
         "message": "Виділити закладки"
@@ -1122,7 +1125,7 @@
         "message": "Виділення"
     },
     "Server_And_Manual": {
-        "message": "Дистанційне + Ручний"
+        "message": "Дистанційний + Ручний"
     },
     "Set_Sublime_Mark": {
         "message": "Встановити підвищений знак"
@@ -1338,7 +1341,7 @@
         "message": "Цей сценарій видалено"
     },
     "This_script_was_executed_0count0_times": {
-        "message": "Цей скрипт був виконаний $count$ один раз",
+        "message": "Цей скрипт був виконаний $count$ раз(и)",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -1396,7 +1399,7 @@
         "message": "Оновлення тригера"
     },
     "Trim_trailing_whitespace_from_modified_lines": {
-        "message": "Обрізати прогалини з кінців модифікованих рядків"
+        "message": "Обрізати пробіли з кінців модифікованих рядків"
     },
     "Try_to_install_as_script": {
         "message": "Спробуйте встановити, як скрипт"
@@ -1456,7 +1459,7 @@
         "message": "Показати сповіщення про оновлення Tampermonkey"
     },
     "Update_URL_": {
-        "message": "URL поновлення"
+        "message": "URL оновлення"
     },
     "Update_check_is_disabled": {
         "message": "Перевірка сценарію вимкнута або неможлива"
@@ -1485,19 +1488,19 @@
         "message": "Користувальницький білий список доменів"
     },
     "User_excludes": {
-        "message": "Користувача @excludes"
+        "message": "Користувацькі @excludes"
     },
     "User_includes": {
-        "message": "Користувача @includes"
+        "message": "Користувацькі @includes"
     },
     "User_matches": {
-        "message": "Користувача @matches"
+        "message": "Користувацькі @matches"
     },
     "User_modified": {
         "message": "Змінив"
     },
     "Userscripts": {
-        "message": "Користувацьких сценаріїв"
+        "message": "Користувацькі сценарії"
     },
     "Utilities": {
         "message": "Утиліти"
@@ -1524,7 +1527,7 @@
         "message": "Попередження"
     },
     "Warning_unsafe_site_warnings_might_appear_": {
-        "message": "Увага: можуть зʼявлятися попередження про ненадійного сайті, якщо скрипт містить потенційно небезпечні URL."
+        "message": "Увага: можуть зʼявлятися попередження про ненадійний сайт, якщо скрипт містить потенційно небезпечні URL."
     },
     "Whitelist": {
         "message": "Білий список"
