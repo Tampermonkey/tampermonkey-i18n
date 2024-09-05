@@ -1,3 +1,5 @@
+extDescription:
+  message: Verändere das Web mit Userscripts nach deinen Wünschen
 0count0_changes_exported:
   message: $count$ Änderung(en) exportiert
   placeholders:
@@ -74,6 +76,10 @@ Add_GM_functions_to_this_or_window:
   message: GM-API an das "this"- oder "window"-Objekt binden
 Add_TM_to_CSP:
   message: Modifikation empfangener Content-Security-Policy-Header (CSP)
+Add_Tag:
+  message: Tag hinzufügen
+Add_Tag_to_System:
+  message: Tag zur Systemliste hinzufügen
 Add_Tampermonkey_to_the_site_s_content_csp:
   message: Tampermonkey zur Content Security Policy (CSP) im Quelltext hinzufügen
 Add_as_0clude0:
@@ -89,6 +95,8 @@ Advanced:
   message: Experte
 All:
   message: Alle
+All_but_HttpOnly:
+  message: Alle außer gesicherte Cookies (HttpOnly)
 All_local_files:
   message: Alle lokalen Dateien
 All_modifications_are_only_kept_until_this_incognito_session_is_closed_:
@@ -105,6 +113,10 @@ Allow_headers_to_be_modified_by_scripts:
   message: Modifikation der HTTP-Header durch Userscripte erlauben
 Allow_once:
   message: Einmal erlauben
+Allow_scripts_to_run_scripts_in:
+  message: Art der Tabs in denen Scripts standardmäßig ausgeführt werden
+Alltime_running_instances:
+  message: Alle ausgeführten Userscripte
 Always:
   message: Immer
 Always_allow:
@@ -165,6 +177,8 @@ At_least_one_new_connect_statement_was_added_:
   message: Mindestens eine @connect-Anweisung wurde hinzugefügt.
 At_least_one_of_the_include_match_or_exclude_statements_was_changed_:
   message: Mindestens eine der @include-, @match- oder @exclude-Anweisungen wurde modifiziert.
+At_least_one_part_of_this_page_is_forbidden_by_a_setting_:
+  message: Mindestens ein Teil der Seite ist durch eine Einstellung für die Script-Ausführung blockiert.
 Attention_Can_not_display_all_excludes_:
   message: |-
     Achtung: Es werden nicht alle Seiten angezeigt!
@@ -234,6 +248,14 @@ Check_only_scripts_up_to_this_size_automatically_:
   message: Userscripte werden nur bis zu dieser Länge automatisch überprüft.
 Clean_after_session:
   message: Nach der Sitzung leeren
+Click_here_to_allow_TM_to_access_the_following_hosts_0hostlist0:
+  message: |-
+    Klicken Sie bitte OK um Tampermonkey Zugriff auf folgende Seiten zu gewähren:
+
+    $hostlist$
+  placeholders:
+    hostlist:
+      content: $1
 Click_here_to_allow_TM_to_start_downloads:
   message: Ein Klick auf 'OK' erlaubt Tampermonkey bzw. den Userscripts sofort startende Downloads.
 Click_here_to_install_it_:
@@ -309,6 +331,12 @@ Destination_domain:
   message: Anfrageziel-Domain
 Disable:
   message: Deaktivieren
+Disable_all_remaining_scripts_of_this_tag:
+  message: Klicken Sie hier, um alle verbleibenden Skripte dieses Tags zu deaktivieren
+Disable_all_scripts_of_this_tag:
+  message: Klicken Sie hier, um alle Skripte dieses Tags zu deaktivieren
+Disable_Updates:
+  message: Updates deaktivieren
 Disabled:
   message: Deaktiviert
 Do_you_need_help_finding_Tampermonkey_s_console_output_:
@@ -344,6 +372,8 @@ Do_you_want_to_use_an_external_editor_to_edit_your_scripts__nWould_you_like_to_k
     Möchten Sie wissen, wie Sie dies einrichten können?
 Does_not_run_in_incognito_tabs:
   message: Wird nicht in Inkognito-Tabs ausgeführt
+Does_not_run_in_normal_tabs:
+  message: Wird nicht in normalen Tabs ausgeführt
 Dont_ask_again:
   message: Nicht mehr nachfragen
 Dont_ask_me_for_simple_script_updates:
@@ -365,6 +395,10 @@ Enable_Editor:
   message: Erweiterten Editor aktivieren
 Enable_Script_Sync:
   message: Userscript-Synchronisierung aktivieren
+Enable_Tags:
+  message: Tags aktivieren
+Enable_all_scripts_of_this_tag:
+  message: Klicken Sie hier, um alle Skripte dieses Tags zu aktivieren
 Enable_autoSave:
   message: Automatisch speichern, wenn der Editor den Fokus verliert
 Enable_context_menu:
@@ -465,6 +499,15 @@ GM_compat_options_:
   message: GM/FF Kompatibilitäts-Optionen
 General:
   message: Allgemein
+Get_0tm0_on_0os0_via_0browser0:
+  message: $tm$ für $os$ + $browser$
+  placeholders:
+    tm:
+      content: $1
+    os:
+      content: $2
+    browser:
+      content: $3
 Get_new_scripts___:
   message: Neue Userscripte suchen
 Get_some_scripts___:
@@ -608,6 +651,8 @@ Native:
   message: Nativ
 Never:
   message: Nie
+New_Tag:
+  message: Neuer Tag
 New_Version:
   message: Neue Version
 New_script_template_:
@@ -727,6 +772,8 @@ Remind_me_later:
   message: Später erinneren
 Remove:
   message: Entfernen
+Remove_Tag:
+  message: Tag entfernen
 Remove__possibly_unsecure_:
   message: Komplett entfernen (möglicherweise unsicher)
 Remove_local_script_0name0_0uuid0:
@@ -773,6 +820,8 @@ Revoke_Access_Token:
   message: Zugangsberechtigung widerrufen
 Run_at:
   message: Starte wenn
+Run_in:
+  message: Ausführen in
 Run_syntax_check:
   message: Syntax-Überprüfung starten
 Running_scripts:
@@ -794,10 +843,14 @@ Script_Blacklist_Source:
   message: Quelle der Userscript-Negativliste
 Script_Include_Mode:
   message: Userscript-@include-Modus
+Script_Tags:
+  message: Userscript-Tags
 Script_URL_detection:
   message: Userscript-URL-Erkennung
 Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_:
   message: Userscript-Autoren können externe Ressourcen mittels eines SRI Hashes absichern.
+Script_cookies_access:
+  message: Cookie-Zugriff durch Userscripte
 Script_local_files_access:
   message: Das Lesen von lokale Dateien durch Userscripte erlauben
 Script_menu_commands:
@@ -874,8 +927,14 @@ Sync_is_running:
   message: Synchronisation läuft
 Synchronize_your_scripts_across_browsers_and_operation_systems:
   message: Userscript-Synchronisierung über Browser- und Betriebssystemgrenzen hinweg
+System_Tags:
+  message: System-Tags
 Tab_Size:
   message: Breite eines Tabulatorzeichens
+Tag_Already_Exists:
+  message: Dieser Tag existiert bereits
+Tags:
+  message: Tags
 Tam:
   description: Name des Service-Bots
   message: Tam
@@ -885,6 +944,13 @@ Tampermonkey_has_no_access_to_this_page:
   message: Tampermonkey hat keinen Zugriff auf diese Seite
 Tampermonkey_has_no_file_access_permission_:
   message: Tampermonkey hat keinen Zugriff auf das lokale Dateisystem!
+Tampermonkey_is_available_on_0os0_via_0browser0:
+  message: Tampermonkey ist für $os$ + $browser$ verfügbar
+  placeholders:
+    os:
+      content: $1
+    browser:
+      content: $2
 Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled:
   message: Tampermonkey kann ohne diese Option möglicherweise keinen Zugriff auf den unsicheren Kontext (unsafeWindow, globale Funktionen und Variablen) bereitstellen
 Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_:
@@ -894,6 +960,8 @@ Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_cont
     Sind Sie sicher, dass sie fortfahren möchten??
 Tampermonkey_version:
   message: Tampermonkey Version
+Tampermonkey_won_t_inject_into_other_tab_types_anymore_:
+  message: Tampermonkey wird Userscripte nicht mehr in anderen Tab-Typen ausführen!
 Temporarily_allow:
   message: Temporär erlauben
 Temporary:
@@ -998,6 +1066,8 @@ This_script_was_executed_0count0_times_but_is_not_active_anymore:
       content: $1
 This_script_was_not_executed_yet:
   message: Dieses Userscript wurde noch nicht ausgeführt
+This_tag_is_not_part_of_the_system_tag_list_:
+  message: Dieser Tag ist nicht Teil der System-Tag-Liste
 This_will_overwrite_your_global_settings_:
   message: Das wird die globalen Tampermonkey-Einstellungen überschreiben
 This_will_remove_all_remote_data_from_sync_Ok_:

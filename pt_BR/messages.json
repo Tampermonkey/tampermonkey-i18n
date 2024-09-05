@@ -1,16 +1,4 @@
 {
-    "extName": {
-        "message": "Tampermonkey"
-    },
-    "extNameBeta": {
-        "message": "Tampermonkey BETA"
-    },
-    "extShortName": {
-        "message": "Tampermonkey"
-    },
-    "extShortNameBeta": {
-        "message": "TM BETA"
-    },
     "extDescription": {
         "message": "Mude a web à vontade com userscripts"
     },
@@ -155,6 +143,12 @@
     "Add_TM_to_CSP": {
         "message": "Adicionar o Tampermonkey à política de segurança de conteúdo (CSP) do site, se existir"
     },
+    "Add_Tag": {
+        "message": "Adicionar tag"
+    },
+    "Add_Tag_to_System": {
+        "message": "Adicionar tag à lista do sistema"
+    },
     "Add_Tampermonkey_to_the_site_s_content_csp": {
         "message": "Adicionar o Tampermonkey à política de segurança de conteúdo (CSP) do ste"
     },
@@ -177,6 +171,9 @@
     },
     "All": {
         "message": "Todos"
+    },
+    "All_but_HttpOnly": {
+        "message": "Todos exceto HttpOnly"
     },
     "All_local_files": {
         "message": "Todos os arquivos locais"
@@ -201,6 +198,12 @@
     },
     "Allow_once": {
         "message": "Permitir uma vez"
+    },
+    "Allow_scripts_to_run_scripts_in": {
+        "message": "Tipos de guia padrão para executar scripts"
+    },
+    "Alltime_running_instances": {
+        "message": "Instâncias em execução"
     },
     "Always": {
         "message": "Sempre"
@@ -282,6 +285,9 @@
     },
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Pelo menos uma das declarações @include, @match ou @exclude foi alterada."
+    },
+    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
+        "message": "Pelo menos uma parte desta página está listada na opção 'Páginas proibidas'"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Atenção: A lista de exclusões foi encurtada.\nPor favor, cheque manualmente!"
@@ -400,6 +406,14 @@
     },
     "Clear_All": {
         "message": "Limpar tudo"
+    },
+    "Click_here_to_allow_TM_to_access_the_following_hosts_0hostlist0": {
+        "message": "Por favor, clique em OK para permitir que o Tampermonkey acesse os seguintes hosts:\n\n$hostlist$",
+        "placeholders": {
+            "hostlist": {
+                "content": "$1"
+            }
+        }
     },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Clique em OK para permitir que o Tampermonkey inicie os downloads instantaneamente."
@@ -556,6 +570,15 @@
     "Disable": {
         "message": "Desativar"
     },
+    "Disable_all_remaining_scripts_of_this_tag": {
+        "message": "Clique para desativar todos os scripts restantes desta tag"
+    },
+    "Disable_all_scripts_of_this_tag": {
+        "message": "Clique para desativar todos os scripts desta tag"
+    },
+    "Disable_Updates": {
+        "message": "Desativar atualizações"
+    },
     "Disabled": {
         "message": "Desativado"
     },
@@ -603,6 +626,9 @@
     },
     "Does_not_run_in_incognito_tabs": {
         "message": "Não funciona em guias anônimas"
+    },
+    "Does_not_run_in_normal_tabs": {
+        "message": "Não funciona em guias normais"
     },
     "Dont_ask_again": {
         "message": "Não perguntar novamente"
@@ -656,6 +682,12 @@
     },
     "Enable_Script_Sync": {
         "message": "Habilitar Sincronizar Scripts"
+    },
+    "Enable_Tags": {
+        "message": "Ativar tags"
+    },
+    "Enable_all_scripts_of_this_tag": {
+        "message": "Clique para ativar todos os scripts desta tag"
     },
     "Enable_autoSave": {
         "message": "Salvar conteúdo quando o editor perder o foco"
@@ -1122,6 +1154,9 @@
     "Never": {
         "message": "Nunca"
     },
+    "New_Tag": {
+        "message": "Nova tag"
+    },
     "New_Version": {
         "message": "Nova versão"
     },
@@ -1328,6 +1363,9 @@
     "Remove": {
         "message": "Remover"
     },
+    "Remove_Tag": {
+        "message": "Remover tag"
+    },
     "Remove__possibly_unsecure_": {
         "message": "Remover totalmente (possivelmente não seguro)"
     },
@@ -1405,7 +1443,10 @@
         "message": "Revogar Token de Acesso"
     },
     "Run_at": {
-        "message": "Executar em:"
+        "message": "Executar em"
+    },
+    "Run_in": {
+        "message": "Executar dentro"
     },
     "Run_syntax_check": {
         "message": "Executar verificação de sintaxe"
@@ -1442,6 +1483,9 @@
     "Script_Sync": {
         "message": "TESLA"
     },
+    "Script_Tags": {
+        "message": "Tags de script"
+    },
     "Script_URL_detection": {
         "message": "Detecção do URL do script."
     },
@@ -1450,6 +1494,9 @@
     },
     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
         "message": "Autores de scripts externos podem proteger seus recursos externos adicionando um hash SRI ao URL."
+    },
+    "Script_cookies_access": {
+        "message": "Permitir que scripts acessem cookies"
     },
     "Script_local_files_access": {
         "message": "Permitir que scripts acessem arquivos locais"
@@ -1614,6 +1661,9 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Tampermonkey External Script List Access (Lista de Acesso de Scripts Externos do Tampermonkey)"
     },
+    "System_Tags": {
+        "message": "Tags do sistema"
+    },
     "TabMode": {
         "message": "Tabulação"
     },
@@ -1625,6 +1675,12 @@
     },
     "Tabs": {
         "message": "Guias"
+    },
+    "Tag_Already_Exists": {
+        "message": "Esta tag já existe"
+    },
+    "Tags": {
+        "message": "Tags"
     },
     "Tam": {
         "message": "Tam",
@@ -1647,6 +1703,9 @@
     },
     "Tampermonkey_version": {
         "message": "Somente versão do Tampermonkey"
+    },
+    "Tampermonkey_won_t_inject_into_other_tab_types_anymore_": {
+        "message": "O Tampermonkey não injetará em outros tipos de guias!"
     },
     "Templates": {
         "message": "Modelos"
@@ -1790,6 +1849,9 @@
     },
     "This_script_was_not_executed_yet": {
         "message": "Este script ainda não foi executado"
+    },
+    "This_tag_is_not_part_of_the_system_tag_list_": {
+        "message": "Esta tag não está na lista de tags do sistema"
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "Isto irá sobrescrever suas configurações globais!"

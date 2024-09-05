@@ -126,6 +126,12 @@
     "Add_TM_to_CSP": {
         "message": "Rediger eksisterende content security policy (CSP) headers"
     },
+    "Add_Tag": {
+        "message": "Tilføj tag"
+    },
+    "Add_Tag_to_System": {
+        "message": "Tilføj tag til systemets liste"
+    },
     "Add_Tampermonkey_to_the_site_s_content_csp": {
         "message": "Føj Tampermonkey til HTML'ens CSP"
     },
@@ -142,6 +148,9 @@
     },
     "Advanced": {
         "message": "Avanceret"
+    },
+    "All_but_HttpOnly": {
+        "message": "Alle undtagen HttpOnly"
     },
     "All_local_files": {
         "message": "Alle lokale filer"
@@ -163,6 +172,12 @@
     },
     "Allow_once": {
         "message": "Tillad én gang"
+    },
+    "Allow_scripts_to_run_scripts_in": {
+        "message": "Standard fanetyper som scripts skal køre i"
+    },
+    "Alltime_running_instances": {
+        "message": "Kører altid"
     },
     "Always": {
         "message": "Altid"
@@ -214,6 +229,9 @@
     },
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Mindst ét @include-, @match- eller @exclude-statement blev ændret."
+    },
+    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
+        "message": "Mindst én del af denne side er angivet under indstillingen 'forbudte sider'!"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "OBS: Ekskluderingslisten blev forkortet.\nKontrollér den manuelt!"
@@ -332,6 +350,14 @@
     },
     "Clear_All": {
         "message": "Ryd alle"
+    },
+    "Click_here_to_allow_TM_to_access_the_following_hosts_0hostlist0": {
+        "message": "Klik på OK for at give Tampermonkey adgang til følgende værter:\n\n$hostlist$",
+        "placeholders": {
+            "hostlist": {
+                "content": "$1"
+            }
+        }
     },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Klik på OK for at tillade Tampermonkey at starte øjeblikkelige downloads."
@@ -485,6 +511,15 @@
     "Disable": {
         "message": "Deaktivér"
     },
+    "Disable_all_remaining_scripts_of_this_tag": {
+        "message": "Klik for at deaktivere alle resterende scripts af dette tag"
+    },
+    "Disable_all_scripts_of_this_tag": {
+        "message": "Klik for at deaktivere alle scripts af dette tag"
+    },
+    "Disable_Updates": {
+        "message": "Deaktiver opdateringer"
+    },
     "Disabled": {
         "message": "Deaktiveret"
     },
@@ -557,6 +592,12 @@
     },
     "Enable_Script_Sync": {
         "message": "Aktivér synkronisering af script"
+    },
+    "Enable_Tags": {
+        "message": "Aktivér tags"
+    },
+    "Enable_all_scripts_of_this_tag": {
+        "message": "Klik for at aktivere alle scripts af dette tag"
     },
     "Enable_autoSave": {
         "message": "Gem indhold, når kodeeditoren mister fokus"
@@ -1011,6 +1052,9 @@
     "Never": {
         "message": "Aldrig"
     },
+    "New_Tag": {
+        "message": "Nyt tag"
+    },
     "New_Version": {
         "message": "Ny Version"
     },
@@ -1208,6 +1252,9 @@
     "Remove": {
         "message": "Fjern"
     },
+    "Remove_Tag": {
+        "message": "Fjern tag"
+    },
     "Remove__possibly_unsecure_": {
         "message": "Fjern helt (muligvis usikkert)"
     },
@@ -1281,6 +1328,9 @@
     "Run_at": {
         "message": "Kør ved"
     },
+    "Run_in": {
+        "message": "Kør i"
+    },
     "Run_syntax_check": {
         "message": "Kør syntakstjek"
     },
@@ -1313,6 +1363,9 @@
     "Script_Sync": {
         "message": "Userscript-synkronisering"
     },
+    "Script_Tags": {
+        "message": "Script tags"
+    },
     "Script_URL_detection": {
         "message": "Registrering af script-URL"
     },
@@ -1321,6 +1374,9 @@
     },
     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
         "message": "Scriptforfattere kan sikre eksterne ressourcer ved at tilføje en SRI-hash til kildens URL."
+    },
+    "Script_cookies_access": {
+        "message": "Tillad scripts at få adgang til cookies"
     },
     "Script_local_files_access": {
         "message": "Tillad scripts at få adgang til lokale filer"
@@ -1473,6 +1529,9 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Synkroniser dine scripts på tværs af browsere og operativsystemer"
     },
+    "System_Tags": {
+        "message": "System tags"
+    },
     "TabMode": {
         "message": "Fanetilstand"
     },
@@ -1484,6 +1543,12 @@
     },
     "Tabs": {
         "message": "Faner"
+    },
+    "Tag_Already_Exists": {
+        "message": "Dette tag findes allerede"
+    },
+    "Tags": {
+        "message": "Tags"
     },
     "Tam": {
         "message": "Tam",
@@ -1506,6 +1571,9 @@
     },
     "Tampermonkey_version": {
         "message": "Kun Tampermonkey-version"
+    },
+    "Tampermonkey_won_t_inject_into_other_tab_types_anymore_": {
+        "message": "Tampermonkey vil ikke længere injicere i andre fane-typer!"
     },
     "Templates": {
         "message": "Skabeloner"
@@ -1645,6 +1713,9 @@
     },
     "This_script_was_not_executed_yet": {
         "message": "Dette script er ikke blevet kørt endnu"
+    },
+    "This_tag_is_not_part_of_the_system_tag_list_": {
+        "message": "Dette tag er ikke en del af systemets tagliste"
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "Dette overskriver dine globale indstillinger!"

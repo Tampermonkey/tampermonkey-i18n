@@ -110,6 +110,12 @@
     "Add_TM_to_CSP": {
         "message": "Chỉnh sửa các phần đầu về chính sách bảo mật nội dụng (CSP) hiện tại"
     },
+    "Add_Tag": {
+        "message": "Thêm thẻ"
+    },
+    "Add_Tag_to_System": {
+        "message": "Thêm thẻ vào danh sách hệ thống"
+    },
     "Add_Tampermonkey_to_the_site_s_content_csp": {
         "message": "Thêm Tampermonkey vào CSP của HTML"
     },
@@ -132,6 +138,9 @@
     },
     "All": {
         "message": "Tất cả"
+    },
+    "All_but_HttpOnly": {
+        "message": "Tất cả trừ HttpOnly"
     },
     "All_local_files": {
         "message": "Tất cả các tệp cục bộ"
@@ -156,6 +165,12 @@
     },
     "Allow_once": {
         "message": "Cho phép một lần"
+    },
+    "Allow_scripts_to_run_scripts_in": {
+        "message": "Kiểu thẻ mặc định để chạy tập lệnh"
+    },
+    "Alltime_running_instances": {
+        "message": "Tất cả các phiên chạy"
     },
     "Always": {
         "message": "Luôn luôn"
@@ -237,6 +252,9 @@
     },
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Ít nhất một câu lệnh @include, @match hoặc @exclude được thay đổi."
+    },
+    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
+        "message": "Ít nhất một phần của trang này được liệt kê tại thiêt đặt 'các trang bị cấm'!"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Chú ý: danh sách loại trừ đã được rút ngắn lại.\nHãy kiểm tra một cách thủ công!"
@@ -352,6 +370,14 @@
     },
     "Clear_All": {
         "message": "Dọn hết"
+    },
+    "Click_here_to_allow_TM_to_access_the_following_hosts_0hostlist0": {
+        "message": "Hãy nháy OK để cho phép Tampermonkey truy cập các máy lưu trữ sau:\n\n$hostlist$",
+        "placeholders": {
+            "hostlist": {
+                "content": "$1"
+            }
+        }
     },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Nháy OK để cho phép Tampermonkey tải xuống ngay lập tức."
@@ -485,6 +511,15 @@
     "Disable": {
         "message": "Tắt"
     },
+    "Disable_all_remaining_scripts_of_this_tag": {
+        "message": "Nhấn để vô hiệu hóa tất cả các tập lệnh còn lại của thẻ này"
+    },
+    "Disable_all_scripts_of_this_tag": {
+        "message": "Nhấn để vô hiệu hóa tất cả các tập lệnh của thẻ này"
+    },
+    "Disable_Updates": {
+        "message": "Tắt cập nhật"
+    },
     "Disabled": {
         "message": "Đã tắt"
     },
@@ -533,6 +568,9 @@
     "Does_not_run_in_incognito_tabs": {
         "message": "Không chạy trong thẻ ẩn danh"
     },
+    "Does_not_run_in_normal_tabs": {
+        "message": "Không chạy trong thẻ bình thường"
+    },
     "Dont_ask_again": {
         "message": "Đừng hỏi lại"
     },
@@ -576,6 +614,12 @@
     },
     "Enable_Script_Sync": {
         "message": "Bật đồng bộ tập lệnh"
+    },
+    "Enable_Tags": {
+        "message": "Kích hoạt thẻ"
+    },
+    "Enable_all_scripts_of_this_tag": {
+        "message": "Nhấn để kích hoạt tất cả các tập lệnh của thẻ này"
     },
     "Enable_autoSave": {
         "message": "Lưu nội dung khi trình chỉnh sửa mất tập trung"
@@ -1021,6 +1065,9 @@
     "Never": {
         "message": "Không bao giờ"
     },
+    "New_Tag": {
+        "message": "Thẻ mới"
+    },
     "New_Version": {
         "message": "Phiên bản mới"
     },
@@ -1215,6 +1262,9 @@
     "Remove": {
         "message": "Loại bỏ"
     },
+    "Remove_Tag": {
+        "message": "Xóa thẻ"
+    },
     "Remove__possibly_unsecure_": {
         "message": "Loại bỏ hoàn toàn (có thể không bảo mật)"
     },
@@ -1288,6 +1338,9 @@
     "Run_at": {
         "message": "Chạy tại"
     },
+    "Run_in": {
+        "message": "Chạy trong"
+    },
     "Run_syntax_check": {
         "message": "Chạy kiểm tra cú pháp"
     },
@@ -1320,6 +1373,9 @@
     "Script_Sync": {
         "message": "Đồng bộ tập lệnh"
     },
+    "Script_Tags": {
+        "message": "Thẻ tập lệnh"
+    },
     "Script_URL_detection": {
         "message": "Phát hiện URL tập lệnh người dùng"
     },
@@ -1328,6 +1384,9 @@
     },
     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
         "message": "Tác giả tập lệnh có thể bảo mật các tài nguyên bên ngoài bằng cách thêm mã băm SRI vào URL nguồn."
+    },
+    "Script_cookies_access": {
+        "message": "Cho phép tập lệnh truy cập cookie"
     },
     "Script_local_files_access": {
         "message": "Cho phép các tập lệnh truy cập các tệp cục bộ"
@@ -1480,6 +1539,9 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Đồng bộ hoá các tập lệnh của bạn"
     },
+    "System_Tags": {
+        "message": "Thẻ hệ thống"
+    },
     "TabMode": {
         "message": "Chế độ thẻ"
     },
@@ -1491,6 +1553,12 @@
     },
     "Tabs": {
         "message": "Các thẻ"
+    },
+    "Tag_Already_Exists": {
+        "message": "Thẻ này đã tồn tại"
+    },
+    "Tags": {
+        "message": "Thẻ"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + phiên bản tập lệnh"
@@ -1509,6 +1577,9 @@
     },
     "Tampermonkey_version": {
         "message": "Chỉ phiên bản Tampermonkey"
+    },
+    "Tampermonkey_won_t_inject_into_other_tab_types_anymore_": {
+        "message": "Tampermonkey sẽ không xen vào các loại thẻ khác nữa!"
     },
     "Templates": {
         "message": "Các bản mẫu"
@@ -1652,6 +1723,9 @@
     },
     "This_script_was_not_executed_yet": {
         "message": "Tập lệnh này chưa từng được chạy"
+    },
+    "This_tag_is_not_part_of_the_system_tag_list_": {
+        "message": "Thẻ này không có trong danh sách thẻ hệ thống"
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "Thao tác này sẽ ghi đè thiết đặt toàn cục của bạn!"

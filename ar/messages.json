@@ -126,6 +126,12 @@
     "Add_TM_to_CSP": {
         "message": "تعديل رؤوس سياسة أمن المحتوى الحالية (CSP)"
     },
+    "Add_Tag": {
+        "message": "إضافة وسم"
+    },
+    "Add_Tag_to_System": {
+        "message": "إضافة وسم إلى قائمة النظام"
+    },
     "Add_Tampermonkey_to_the_site_s_content_csp": {
         "message": "أضف Tampermonkey إلى CSP الخاص بـ HTML"
     },
@@ -142,6 +148,9 @@
     },
     "Advanced": {
         "message": "متقدم"
+    },
+    "All_but_HttpOnly": {
+        "message": "كل شيء إلا HttpOnly"
     },
     "All_local_files": {
         "message": "جميع الملفات المحلية"
@@ -163,6 +172,9 @@
     },
     "Allow_once": {
         "message": "إسمح مرة واحدة"
+    },
+    "Alltime_running_instances": {
+        "message": "جميع النسخ الحالية"
     },
     "Always": {
         "message": "دائماً"
@@ -214,6 +226,9 @@
     },
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "تم تغيير عبارة @include أو @match أو @exclude واحدة على الأقل."
+    },
+    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
+        "message": "تم إدراج جزء واحد على الأقل من هذه الصفحة في إعدادات \"الصفحات المحظورة\"!"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": ".تنبيه: قائمة الاستبعاد تم تقصيرها\n!من فضلك إفحصها يدوياً"
@@ -321,6 +336,14 @@
     },
     "Clear_All": {
         "message": "مسح الكل"
+    },
+    "Click_here_to_allow_TM_to_access_the_following_hosts_0hostlist0": {
+        "message": "الرجاء النقر فوق \"موافق\" للسماح لـ Tampermonkey بالوصول إلى المضيفات التالية:\n\n$hostlist$",
+        "placeholders": {
+            "hostlist": {
+                "content": "$1"
+            }
+        }
     },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "انقر فوق \"موافق\" للسماح لـ Tampermonkey ببدء التنزيلات الفورية."
@@ -433,6 +456,15 @@
     "Disable": {
         "message": "تعطيل"
     },
+    "Disable_all_remaining_scripts_of_this_tag": {
+        "message": "انقر لتعطيل جميع النصوص المتبقية لهذا الوسم"
+    },
+    "Disable_all_scripts_of_this_tag": {
+        "message": "انقر لتعطيل جميع النصوص لهذا الوسم"
+    },
+    "Disable_Updates": {
+        "message": "تعطيل التحديثات"
+    },
     "Disabled": {
         "message": "معطّـل"
     },
@@ -449,6 +481,12 @@
     },
     "Document_Start": {
         "message": "بداية المستند"
+    },
+    "Does_not_run_in_incognito_tabs": {
+        "message": "لا يعمل في علامات التبويب المتخفية"
+    },
+    "Does_not_run_in_normal_tabs": {
+        "message": "لا يعمل في علامات التبويب العادية"
     },
     "Dont_ask_again": {
         "message": "لا تسأل مرة أخرى"
@@ -502,6 +540,12 @@
     },
     "Enable_Script_Sync": {
         "message": "تمكين تزامن البرامج النصية"
+    },
+    "Enable_Tags": {
+        "message": "تمكين الوسوم"
+    },
+    "Enable_all_scripts_of_this_tag": {
+        "message": "انقر لتمكين جميع النصوص لهذا الوسم"
     },
     "Enable_autoSave": {
         "message": "حفظ المحتوى عندما يفقد المحرر التركيز"
@@ -847,6 +891,9 @@
     "Never": {
         "message": "أبدا"
     },
+    "New_Tag": {
+        "message": "وسم جديد"
+    },
     "New_Version": {
         "message": "نسخة جديدة"
     },
@@ -1010,6 +1057,9 @@
     "Remove": {
         "message": "إزالة"
     },
+    "Remove_Tag": {
+        "message": "إزالة الوسم"
+    },
     "Remove__possibly_unsecure_": {
         "message": "إزالة بالكامل (ربما تكون غير آمنة)"
     },
@@ -1055,6 +1105,9 @@
     "Run_at": {
         "message": "تشغيل عند"
     },
+    "Run_in": {
+        "message": "تشغيل في"
+    },
     "Run_syntax_check": {
         "message": "قم بتشغيل فحص بناء الجملة"
     },
@@ -1081,6 +1134,9 @@
     "Script_Sync": {
         "message": "مزامنة البرنامج النصي"
     },
+    "Script_Tags": {
+        "message": "وسوم النصوص"
+    },
     "Script_URL_detection": {
         "message": "حذف رابط البرنامج النصي"
     },
@@ -1089,6 +1145,9 @@
     },
     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
         "message": "يستطيع كاتب النص البرمجي من تأمين المصادر الخارجية عن طريق إضافة هاش SRI للرابط الآمن."
+    },
+    "Script_cookies_access": {
+        "message": "السماح للبرامج النصية من الوصول إلى الكوكيز"
     },
     "Script_local_files_access": {
         "message": "السماح للبرامج النصية من الوصول الى الملفات المحلية"
@@ -1232,6 +1291,9 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "مزامنة البرامج النصية الخاصة بك عبر المتصفحات وأنظمة التشغيل"
     },
+    "System_Tags": {
+        "message": "وسوم النظام"
+    },
     "TabMode": {
         "message": "وضعية التبويب"
     },
@@ -1243,6 +1305,12 @@
     },
     "Tabs": {
         "message": "التبويبات"
+    },
+    "Tag_Already_Exists": {
+        "message": "هذا الوسم موجود بالفعل"
+    },
+    "Tags": {
+        "message": "وسوم"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey ونسخة البرنامج النصي"
@@ -1258,6 +1326,9 @@
     },
     "Tampermonkey_version": {
         "message": "نسخة Tampermonkey فقط"
+    },
+    "Tampermonkey_won_t_inject_into_other_tab_types_anymore_": {
+        "message": "Tampermonkey لن يقوم بالحقن في أنواع التبويب الأخرى بعد الآن!"
     },
     "Templates": {
         "message": "نماذج"
@@ -1374,6 +1445,9 @@
     },
     "This_script_was_not_executed_yet": {
         "message": "هذا البرنامج النصي لم يتم تنفيذه بعد"
+    },
+    "This_tag_is_not_part_of_the_system_tag_list_": {
+        "message": "هذا الوسم ليس جزءًا من قائمة وسوم النظام"
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "!سيتم استبدال إعداداتك العامة"

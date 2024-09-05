@@ -68,6 +68,12 @@
     "Add_TM_to_CSP": {
         "message": "Legg til Tampermonkey i sidens retningslinjeliste for innholdssikkerhet (CSP) hvis den finnes"
     },
+    "Add_Tag": {
+        "message": "Legg til tag"
+    },
+    "Add_Tag_to_System": {
+        "message": "Legg til tag i systemets liste"
+    },
     "Add_as_0clude0": {
         "message": "Legg til som $clude$",
         "placeholders": {
@@ -81,6 +87,9 @@
     },
     "Advanced": {
         "message": "Avansert"
+    },
+    "All_but_HttpOnly": {
+        "message": "Alle unntatt beskyttede informasjonskapsler (HttpOnly)"
     },
     "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
         "message": "Alle endringer blir kun beholdt frem til denne inkognito-økten blir lukket!"
@@ -99,6 +108,9 @@
     },
     "Allow_once": {
         "message": "Tillat én gang"
+    },
+    "Alltime_running_instances": {
+        "message": "Kjørende instanser"
     },
     "Always": {
         "message": "Alltid"
@@ -144,6 +156,9 @@
     },
     "Ask_if_unknown": {
         "message": "Spør hvis det er ukjent"
+    },
+    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
+        "message": "Minst én del av denne siden er listet oppi 'Forbudte sider'-innstillingene!"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Advarsel: Ekskluderingslisten har blitt forkortet.\nVennligst sjekk den manuelt!"
@@ -297,6 +312,15 @@
     "Disable": {
         "message": "Deaktiver"
     },
+    "Disable_all_remaining_scripts_of_this_tag": {
+        "message": "Klikk for å deaktivere alle gjenværende skript for denne taggen"
+    },
+    "Disable_all_scripts_of_this_tag": {
+        "message": "Klikk for å deaktivere alle skript for denne taggen"
+    },
+    "Disable_Updates": {
+        "message": "Deaktiver oppdateringer"
+    },
     "Disabled": {
         "message": "Deaktivert"
     },
@@ -307,6 +331,12 @@
                 "content": "$1"
             }
         }
+    },
+    "Does_not_run_in_incognito_tabs": {
+        "message": "Kjører ikke i inkognitofaner"
+    },
+    "Does_not_run_in_normal_tabs": {
+        "message": "Kjører ikke i normale faner"
     },
     "Dont_ask_again": {
         "message": "Aldri spør igjen"
@@ -348,6 +378,12 @@
     },
     "Enable_Script_Sync": {
         "message": "Aktiver TESLA"
+    },
+    "Enable_Tags": {
+        "message": "Aktiver tags"
+    },
+    "Enable_all_scripts_of_this_tag": {
+        "message": "Klikk for å aktivere alle skript for denne taggen"
     },
     "Enable_autoSave": {
         "message": "Lagre innholdet når redigereren mister fokus"
@@ -571,6 +607,9 @@
     "Never": {
         "message": "Aldri"
     },
+    "New_Tag": {
+        "message": "Ny tag"
+    },
     "New_script_template_": {
         "message": "Ny brukerskriptmal"
     },
@@ -704,6 +743,9 @@
     "Remove": {
         "message": "Fjern"
     },
+    "Remove_Tag": {
+        "message": "Fjern tag"
+    },
     "Replace": {
         "message": "Erstatt"
     },
@@ -738,6 +780,9 @@
         "message": "Start Tampermonkey på nytt"
     },
     "Run_at": {
+        "message": "Kjør ved"
+    },
+    "Run_in": {
         "message": "Kjør i"
     },
     "Run_syntax_check": {
@@ -755,6 +800,9 @@
     "Script_Blacklist_Source": {
         "message": "Skriptets svartelistekilder"
     },
+    "Script_Tags": {
+        "message": "Skripttagger"
+    },
     "Script_URL_detection": {
         "message": "Oppdaging av skriptnettadresse"
     },
@@ -763,6 +811,9 @@
     },
     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
         "message": "Skriptskapere kan sikre eksterne ressurser ved å legge til en SRI-hash til kildenettadressen."
+    },
+    "Script_cookies_access": {
+        "message": "Tillat skript å få tilgang til informasjonskapsler"
     },
     "Script_name_0name0": {
         "message": "Skriptets navn: $name$",
@@ -843,6 +894,9 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Skriptsynkronisering (Tampermonkey-tilgang til eksterne skriptlister)"
     },
+    "System_Tags": {
+        "message": "Systemtagger"
+    },
     "TabMode": {
         "message": "Fanemodus"
     },
@@ -851,6 +905,12 @@
     },
     "Tabs": {
         "message": "Faner"
+    },
+    "Tag_Already_Exists": {
+        "message": "Denne taggen finnes allerede"
+    },
+    "Tags": {
+        "message": "Tagger"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + skriptversjon"
@@ -866,6 +926,9 @@
     },
     "Tampermonkey_version": {
         "message": "Kun Tampermonkey-versjonen"
+    },
+    "Tampermonkey_won_t_inject_into_other_tab_types_anymore_": {
+        "message": "Tampermonkey vil ikke lenger injisere skript i andre fanetyper!"
     },
     "Temporarily_allow": {
         "message": "Tillat midlertidig"
@@ -942,6 +1005,9 @@
     },
     "This_script_stores_data": {
         "message": "Dette skriptet lagrer data til Tampermonkey."
+    },
+    "This_tag_is_not_part_of_the_system_tag_list_": {
+        "message": "Denne taggen er ikke en del av systemets tagliste"
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "Dette vil overskrive dine utvidelsesinnstillinger!"

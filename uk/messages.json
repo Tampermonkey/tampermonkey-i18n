@@ -123,6 +123,12 @@
     "Add_TM_to_CSP": {
         "message": "Додати Tampermonkey в політику безпеки сайту (CSP), якщо потребується"
     },
+    "Add_Tag": {
+        "message": "Додати тег"
+    },
+    "Add_Tag_to_System": {
+        "message": "Додати тег до системного списку"
+    },
     "Add_Tampermonkey_to_the_site_s_content_csp": {
         "message": "Додати Tampermonkey до контенту сайту CSP"
     },
@@ -139,6 +145,9 @@
     },
     "Advanced": {
         "message": "Продвинутий"
+    },
+    "All_but_HttpOnly": {
+        "message": "Всі, крім HttpOnly"
     },
     "All_local_files": {
         "message": "Всі локальні файли"
@@ -160,6 +169,9 @@
     },
     "Allow_once": {
         "message": "Дозволити один раз"
+    },
+    "Alltime_running_instances": {
+        "message": "Всі запущені екземпляри"
     },
     "Always": {
         "message": "Завжди"
@@ -211,6 +223,9 @@
     },
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Принаймні один з виразів @include, @match або @exclude було змінено."
+    },
+    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
+        "message": "Принаймні одна частина цієї сторінки вказана в налаштуванні 'заборонені сторінки'!"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Увага: список винятків був скорочений.\nПеревірте його вручну!"
@@ -319,6 +334,14 @@
     "Clear_All": {
         "message": "Видалити всі"
     },
+    "Click_here_to_allow_TM_to_access_the_following_hosts_0hostlist0": {
+        "message": "Будь ласка, натисніть OK, щоб Tampermonkey міг отримати доступ до наступних хостів:\n\n$hostlist$",
+        "placeholders": {
+            "hostlist": {
+                "content": "$1"
+            }
+        }
+    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Натисніть ОК, щоб підтвердити свою згоду Tampermonkey завантажувати файли без запиту."
     },
@@ -424,6 +447,15 @@
     "Disable": {
         "message": "Вимкнути"
     },
+    "Disable_all_remaining_scripts_of_this_tag": {
+        "message": "Натисніть, щоб відключити всі залишкові скрипти цього тегу"
+    },
+    "Disable_all_scripts_of_this_tag": {
+        "message": "Натисніть, щоб відключити всі скрипти цього тегу"
+    },
+    "Disable_Updates": {
+        "message": "Вимкнути оновлення"
+    },
     "Disabled": {
         "message": "Вимкнуто"
     },
@@ -440,6 +472,12 @@
     },
     "Document_Start": {
         "message": "На початок скрипта"
+    },
+    "Does_not_run_in_incognito_tabs": {
+        "message": "Не запускати в режимі інкогніто"
+    },
+    "Does_not_run_in_normal_tabs": {
+        "message": "Не запускати в звичайних вкладках"
     },
     "Dont_ask_again": {
         "message": "Не запитувати"
@@ -490,6 +528,12 @@
     },
     "Enable_Script_Sync": {
         "message": "Увімкнути синхронізацію скриптів"
+    },
+    "Enable_Tags": {
+        "message": "Увімкнути теги"
+    },
+    "Enable_all_scripts_of_this_tag": {
+        "message": "Натисніть, щоб увімкнути всі скрипти цього тегу"
     },
     "Enable_autoSave": {
         "message": "Автоматично зберігати вміст, коли редактор втрачає фокус"
@@ -829,6 +873,9 @@
     "Never": {
         "message": "Ніколи"
     },
+    "New_Tag": {
+        "message": "Новий тег"
+    },
     "New_Version": {
         "message": "Нова версія"
     },
@@ -989,6 +1036,9 @@
     "Remove": {
         "message": "Видалити"
     },
+    "Remove_Tag": {
+        "message": "Видалити тег"
+    },
     "Replace": {
         "message": "Замінити"
     },
@@ -1028,6 +1078,9 @@
     "Run_at": {
         "message": "Запускати в"
     },
+    "Run_in": {
+        "message": "Запускати всередині"
+    },
     "Run_syntax_check": {
         "message": "Запустити перевірку синтаксису"
     },
@@ -1054,6 +1107,9 @@
     "Script_Sync": {
         "message": "Синхронізація скриптів"
     },
+    "Script_Tags": {
+        "message": "Скриптові теги"
+    },
     "Script_URL_detection": {
         "message": "Визначення URL скрипту"
     },
@@ -1062,6 +1118,9 @@
     },
     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
         "message": "Автори сценаріїв можуть захистити зовнішні ресурси, додавши SРІ хеш до вихідної URL."
+    },
+    "Script_cookies_access": {
+        "message": "Дозволити сценаріям доступ до cookies"
     },
     "Script_local_files_access": {
         "message": "Дозволити сценарії доступу до локальних файлів"
@@ -1208,6 +1267,9 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Синхронізація скриптів між браузерами та операційними системами"
     },
+    "System_Tags": {
+        "message": "Системні теги"
+    },
     "TabMode": {
         "message": "Режим табуляції"
     },
@@ -1216,6 +1278,12 @@
     },
     "Tabs": {
         "message": "Табуляція"
+    },
+    "Tag_Already_Exists": {
+        "message": "Цей тег вже існує"
+    },
+    "Tags": {
+        "message": "Теги"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + версія скрипта"
@@ -1231,6 +1299,9 @@
     },
     "Tampermonkey_version": {
         "message": "Тільки версія Tampermonkey"
+    },
+    "Tampermonkey_won_t_inject_into_other_tab_types_anymore_": {
+        "message": "Tampermonkey не буде вбудовувати в інші типи вкладок!"
     },
     "Templates": {
         "message": "Шаблони"
@@ -1347,6 +1418,9 @@
     },
     "This_script_was_not_executed_yet": {
         "message": "Цей скрипт ще не виконаний"
+    },
+    "This_tag_is_not_part_of_the_system_tag_list_": {
+        "message": "Цей тег не є частиною системного списку тегів"
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "Це перезапише ваші глобальні налаштування!"

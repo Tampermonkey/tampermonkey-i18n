@@ -68,6 +68,12 @@
     "Add_TM_to_CSP": {
         "message": "Dodaj Tampermonkey do polityki bezpieczeństwa zawartości strony (CSP), jeżeli taka istnieje."
     },
+    "Add_Tag": {
+        "message": "Dodaj tag"
+    },
+    "Add_Tag_to_System": {
+        "message": "Dodaj tag do listy systemowej"
+    },
     "Add_as_0clude0": {
         "message": "Dodaj do '$clude$'",
         "placeholders": {
@@ -81,6 +87,9 @@
     },
     "Advanced": {
         "message": "Ekspert"
+    },
+    "All_but_HttpOnly": {
+        "message": "Wszystkie oprócz chronionych ciasteczek (HttpOnly)"
     },
     "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
         "message": "Wszystkie modyfikacje są tylko zachowywane do zamknięcia sesji prywatnej!"
@@ -99,6 +108,9 @@
     },
     "Allow_once": {
         "message": "Zezwól raz"
+    },
+    "Alltime_running_instances": {
+        "message": "Wszystkie uruchomione instancje"
     },
     "Always": {
         "message": "Zawsze"
@@ -150,6 +162,9 @@
     },
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Co najmniej jedna z deklaracji @include, @match lub @exclude została zmieniona."
+    },
+    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
+        "message": "Co najmniej jedna część tej strony jest wymieniona w ustawieniu 'zakazane strony'!"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Uwaga: Lista @exclude została skrócona.\nProszę o ręczne sprawdzenie!"
@@ -326,6 +341,15 @@
     "Disable": {
         "message": "Wyłącz"
     },
+    "Disable_all_remaining_scripts_of_this_tag": {
+        "message": "Kliknij, aby wyłączyć wszystkie pozostałe skrypty tego tagu"
+    },
+    "Disable_all_scripts_of_this_tag": {
+        "message": "Kliknij, aby wyłączyć wszystkie skrypty tego tagu"
+    },
+    "Disable_Updates": {
+        "message": "Wyłącz aktualizacje"
+    },
     "Disabled": {
         "message": "Wyłączone"
     },
@@ -336,6 +360,12 @@
                 "content": "$1"
             }
         }
+    },
+    "Does_not_run_in_incognito_tabs": {
+        "message": "Nie działa w trybie incognito"
+    },
+    "Does_not_run_in_normal_tabs": {
+        "message": "Nie działa w normalnych kartach"
     },
     "Dont_ask_again": {
         "message": "Nie pytaj ponownie"
@@ -377,6 +407,12 @@
     },
     "Enable_Script_Sync": {
         "message": "Włącz TESLA"
+    },
+    "Enable_Tags": {
+        "message": "Włącz tagi"
+    },
+    "Enable_all_scripts_of_this_tag": {
+        "message": "Kliknij, aby włączyć wszystkie skrypty tego tagu"
     },
     "Enable_autoSave": {
         "message": "Zapisuj zawartość, kiedy edytor przestaje być aktywny"
@@ -612,6 +648,9 @@
     "Never": {
         "message": "Nigdy"
     },
+    "New_Tag": {
+        "message": "Nowy tag"
+    },
     "New_Version": {
         "message": "Nowa wersja"
     },
@@ -754,6 +793,9 @@
     "Remove": {
         "message": "Usuń"
     },
+    "Remove_Tag": {
+        "message": "Usuń tag"
+    },
     "Replace": {
         "message": "Zamień"
     },
@@ -787,6 +829,9 @@
     "Run_at": {
         "message": "Uruchom po"
     },
+    "Run_in": {
+        "message": "Uruchom w"
+    },
     "Run_syntax_check": {
         "message": "Uruchom sprawdzanie składni"
     },
@@ -802,6 +847,9 @@
     "Script_Blacklist_Source": {
         "message": "Źródło czarnej listy skryptów"
     },
+    "Script_Tags": {
+        "message": "Tagi skryptów"
+    },
     "Script_URL_detection": {
         "message": "Wykrywanie adresu URL skryptu"
     },
@@ -810,6 +858,9 @@
     },
     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
         "message": "Autorzy skryptu mogą zabezpieczyć zewnętrzne zasoby, dodając hash SRI do źródłowego adresu URL."
+    },
+    "Script_cookies_access": {
+        "message": "Dostęp do ciasteczek skryptów"
     },
     "Script_name_0name0": {
         "message": "Nazwa skryptu: $name$",
@@ -899,6 +950,9 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Synchronizacja skryptu (Zewnętrzny dostęp do listy skryptu Tampermonkey)"
     },
+    "System_Tags": {
+        "message": "Tagi systemowe"
+    },
     "TabMode": {
         "message": "Rodzaj wcięcia"
     },
@@ -907,6 +961,12 @@
     },
     "Tabs": {
         "message": "Tabulatory"
+    },
+    "Tag_Already_Exists": {
+        "message": "Ten tag już istnieje"
+    },
+    "Tags": {
+        "message": "Tagi"
     },
     "Tampermonkey_and_script_version": {
         "message": "Wersja rozszerzenia Tampermonkey i skryptu"
@@ -922,6 +982,9 @@
     },
     "Tampermonkey_version": {
         "message": "Tylko wersja rozszerzenia Tampermonkey"
+    },
+    "Tampermonkey_won_t_inject_into_other_tab_types_anymore_": {
+        "message": "Tampermonkey nie będzie już wstrzykiwać skryptów w innych typach kart!"
     },
     "Temporarily_allow": {
         "message": "Tymczasowo zezwól"
@@ -998,6 +1061,9 @@
     },
     "This_script_stores_data": {
         "message": "Ten skrypt zapisuje dane w Tampermonkey."
+    },
+    "This_tag_is_not_part_of_the_system_tag_list_": {
+        "message": "Ten tag nie jest częścią listy tagów systemowych"
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "To nadpisze twoje ustawienia globalne!"

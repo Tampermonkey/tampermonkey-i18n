@@ -5,11 +5,17 @@
     "extNameBeta": {
         "message": "Tampermonkey BETA"
     },
+    "extNameLegacy": {
+        "message": "Tampermonkey Legacy"
+    },
     "extShortName": {
         "message": "Tampermonkey"
     },
     "extShortNameBeta": {
         "message": "TM BETA"
+    },
+    "extShortNameLegacy": {
+        "message": "TM Legacy"
     },
     "extDescription": {
         "message": "Change the web at will with userscripts"
@@ -155,6 +161,12 @@
     "Add_TM_to_CSP": {
         "message": "Modify existing content security policy (CSP) headers"
     },
+    "Add_Tag": {
+        "message": "Add Tag"
+    },
+    "Add_Tag_to_System": {
+        "message": "Add Tag to the system's list"
+    },
     "Add_Tampermonkey_to_the_site_s_content_csp": {
         "message": "Add Tampermonkey to the HTML's CSP"
     },
@@ -177,6 +189,9 @@
     },
     "All": {
         "message": "All"
+    },
+    "All_but_HttpOnly": {
+        "message": "All but protected cookies (HttpOnly)"
     },
     "All_local_files": {
         "message": "All local files"
@@ -201,6 +216,12 @@
     },
     "Allow_once": {
         "message": "Allow once"
+    },
+    "Allow_scripts_to_run_scripts_in": {
+        "message": "Default tab types to run scripts in"
+    },
+    "Alltime_running_instances": {
+        "message": "All-time running instances"
     },
     "Always": {
         "message": "Always"
@@ -228,6 +249,9 @@
     },
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "An internal error occurred. If this problem persists even after a restart of the browser, please press OK and report this issue at the forum.\n\nDo you want to visit the Tampermonkey forum?"
+    },
+    "Android": {
+        "message": "Android"
     },
     "Anonymous_statistics": {
         "message": "Anonymous statistics"
@@ -282,6 +306,9 @@
     },
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "At least one @include, @match or @exclude statement was changed."
+    },
+    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
+        "message": "At least one part of this page is forbidden by a setting!"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Attention: The exclude list was shortened.\nPlease check it manually!"
@@ -400,6 +427,14 @@
     },
     "Clear_All": {
         "message": "Clear All"
+    },
+    "Click_here_to_allow_TM_to_access_the_following_hosts_0hostlist0": {
+        "message": "Please click OK in order to allow Tampermonkey to access the following hosts:\n\n$hostlist$",
+        "placeholders": {
+            "hostlist": {
+                "content": "$1"
+            }
+        }
     },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Click OK to allow Tampermonkey to start instant downloads."
@@ -556,6 +591,15 @@
     "Disable": {
         "message": "Disable"
     },
+    "Disable_all_remaining_scripts_of_this_tag": {
+        "message": "Click to disable all remaining scripts of this tag"
+    },
+    "Disable_all_scripts_of_this_tag": {
+        "message": "Click to disable all scripts of this tag"
+    },
+    "Disable_Updates": {
+        "message": "Disable Updates"
+    },
     "Disabled": {
         "message": "Disabled"
     },
@@ -603,6 +647,9 @@
     },
     "Does_not_run_in_incognito_tabs": {
         "message": "Does not run in incognito tabs"
+    },
+    "Does_not_run_in_normal_tabs": {
+        "message": "Does not run in normal tabs"
     },
     "Dont_ask_again": {
         "message": "Don't ask again"
@@ -656,6 +703,12 @@
     },
     "Enable_Script_Sync": {
         "message": "Enable Userscript Sync"
+    },
+    "Enable_Tags": {
+        "message": "Enable Tags"
+    },
+    "Enable_all_scripts_of_this_tag": {
+        "message": "Click to enable all scripts of this tag"
     },
     "Enable_autoSave": {
         "message": "Save content when editor loses focus"
@@ -796,6 +849,9 @@
     "Find_Under_Previous": {
         "message": "Find Under Previous"
     },
+    "Firefox": {
+        "message": "Firefox"
+    },
     "Fix_wrappedJSObject_property_access": {
         "message": "Fix wrappedJSObject property access"
     },
@@ -842,6 +898,20 @@
     },
     "General": {
         "message": "General"
+    },
+    "Get_0tm0_on_0os0_via_0browser0": {
+        "message": "Get $tm$ on $os$ + $browser$",
+        "placeholders": {
+            "tm": {
+                "content": "$1"
+            },
+            "os": {
+                "content": "$2"
+            },
+            "browser": {
+                "content": "$3"
+            }
+        }
     },
     "Get_new_scripts___": {
         "message": "Find new scripts..."
@@ -1101,6 +1171,9 @@
     "Matching_URL": {
         "message": "Matching URL"
     },
+    "Microsoft_Edge": {
+        "message": "Microsoft Edge"
+    },
     "Modify": {
         "message": "Modify"
     },
@@ -1121,6 +1194,9 @@
     },
     "Never": {
         "message": "Never"
+    },
+    "New_Tag": {
+        "message": "New Tag"
     },
     "New_Version": {
         "message": "New Version"
@@ -1328,6 +1404,9 @@
     "Remove": {
         "message": "Remove"
     },
+    "Remove_Tag": {
+        "message": "Remove Tag"
+    },
     "Remove__possibly_unsecure_": {
         "message": "Remove entirely (possibly unsecure)"
     },
@@ -1407,6 +1486,9 @@
     "Run_at": {
         "message": "Run at"
     },
+    "Run_in": {
+        "message": "Run in"
+    },
     "Run_syntax_check": {
         "message": "Run syntax check"
     },
@@ -1415,6 +1497,9 @@
     },
     "Runtime_Host_Permissions": {
         "message": "Runtime Host Permissions"
+    },
+    "Safari": {
+        "message": "Safari"
     },
     "Sandbox_Mode": {
         "message": "Sandbox Mode"
@@ -1442,6 +1527,9 @@
     "Script_Sync": {
         "message": "Userscript Sync"
     },
+    "Script_Tags": {
+        "message": "Script Tags"
+    },
     "Script_URL_detection": {
         "message": "Userscript URL detection"
     },
@@ -1450,6 +1538,9 @@
     },
     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
         "message": "Script authors can secure external resources by adding a SRI hash to the source URL."
+    },
+    "Script_cookies_access": {
+        "message": "Allow scripts to access cookies"
     },
     "Script_local_files_access": {
         "message": "Allow scripts to access local files"
@@ -1614,6 +1705,9 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Synchronize your scripts across browsers and operation systems"
     },
+    "System_Tags": {
+        "message": "System Tags"
+    },
     "TabMode": {
         "message": "TabMode"
     },
@@ -1625,6 +1719,12 @@
     },
     "Tabs": {
         "message": "Tabs"
+    },
+    "Tag_Already_Exists": {
+        "message": "This tag already exists"
+    },
+    "Tags": {
+        "message": "Tags"
     },
     "Tam": {
         "message": "Tam",
@@ -1639,6 +1739,17 @@
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey has no permission to access local files!"
     },
+    "Tampermonkey_is_available_on_0os0_via_0browser0": {
+        "message": "Tampermonkey is available on $os$ + $browser$",
+        "placeholders": {
+            "os": {
+                "content": "$1"
+            },
+            "browser": {
+                "content": "$2"
+            }
+        }
+    },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Tampermonkey might not be able to provide access to the unsafe context (unsafeWindow, page's functions and variables) when this is disabled."
     },
@@ -1647,6 +1758,9 @@
     },
     "Tampermonkey_version": {
         "message": "Tampermonkey version only"
+    },
+    "Tampermonkey_won_t_inject_into_other_tab_types_anymore_": {
+        "message": "Tampermonkey won't inject into other tab types anymore!"
     },
     "Templates": {
         "message": "Templates"
@@ -1790,6 +1904,9 @@
     },
     "This_script_was_not_executed_yet": {
         "message": "This script was not executed yet"
+    },
+    "This_tag_is_not_part_of_the_system_tag_list_": {
+        "message": "This tag is not part of the system tag list "
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "This will overwrite your global settings!"
@@ -2098,6 +2215,9 @@
     },
     "fatal_error": {
         "message": "fatal error"
+    },
+    "iOS": {
+        "message": "iOS"
     },
     "overwritten_by_user": {
         "message": "overwritten by user setting"

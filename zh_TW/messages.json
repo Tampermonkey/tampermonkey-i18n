@@ -155,6 +155,12 @@
     "Add_TM_to_CSP": {
         "message": "將篡改猴加入到網站的內容安全策略（CSP）（如果有的話）"
     },
+    "Add_Tag": {
+        "message": "添加標籤"
+    },
+    "Add_Tag_to_System": {
+        "message": "將標籤添加到系統列表"
+    },
     "Add_Tampermonkey_to_the_site_s_content_csp": {
         "message": "將篡改猴加入到網站的內容 CSP"
     },
@@ -177,6 +183,9 @@
     },
     "All": {
         "message": "全部"
+    },
+    "All_but_HttpOnly": {
+        "message": "除了受保護的 cookies (HttpOnly)"
     },
     "All_local_files": {
         "message": "所有本機檔案"
@@ -201,6 +210,12 @@
     },
     "Allow_once": {
         "message": "允許一次"
+    },
+    "Allow_scripts_to_run_scripts_in": {
+        "message": "要執行腳本的預設分頁類型"
+    },
+    "Alltime_running_instances": {
+        "message": "一直執行的實例"
     },
     "Always": {
         "message": "永遠"
@@ -282,6 +297,9 @@
     },
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "至少變更一個 @include、@match 或 @exclude 聲明。"
+    },
+    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
+        "message": "此網頁至少有一部分被列在「禁止的網頁」設定清單上！"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "注意：排除 URL(s) 列表變化。\n請手動檢查！"
@@ -400,6 +418,14 @@
     },
     "Clear_All": {
         "message": "全部清除"
+    },
+    "Click_here_to_allow_TM_to_access_the_following_hosts_0hostlist0": {
+        "message": "請點按「OK」以同意篡改猴存取以下的 hosts：\n\n$hostlist$",
+        "placeholders": {
+            "hostlist": {
+                "content": "$1"
+            }
+        }
     },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "點按此處以允許篡改猴開始下載。"
@@ -553,6 +579,15 @@
     "Disable": {
         "message": "停用"
     },
+    "Disable_all_remaining_scripts_of_this_tag": {
+        "message": "點擊禁用該標籤的所有剩餘腳本"
+    },
+    "Disable_all_scripts_of_this_tag": {
+        "message": "點擊禁用該標籤的所有腳本"
+    },
+    "Disable_Updates": {
+        "message": "停用更新"
+    },
     "Disabled": {
         "message": "已停用"
     },
@@ -600,6 +635,9 @@
     },
     "Does_not_run_in_incognito_tabs": {
         "message": "不會在無痕分頁中執行"
+    },
+    "Does_not_run_in_normal_tabs": {
+        "message": "不會在一般分頁中執行"
     },
     "Dont_ask_again": {
         "message": "不再詢問"
@@ -653,6 +691,12 @@
     },
     "Enable_Script_Sync": {
         "message": "啟用腳本同步"
+    },
+    "Enable_Tags": {
+        "message": "啟用標籤"
+    },
+    "Enable_all_scripts_of_this_tag": {
+        "message": "點擊啟用該標籤的所有腳本"
     },
     "Enable_autoSave": {
         "message": "失去滑鼠焦點時儲存內容"
@@ -1113,6 +1157,9 @@
     "Never": {
         "message": "從不"
     },
+    "New_Tag": {
+        "message": "新標籤"
+    },
     "New_Version": {
         "message": "新版本"
     },
@@ -1313,6 +1360,9 @@
     "Remove": {
         "message": "移除"
     },
+    "Remove_Tag": {
+        "message": "移除標籤"
+    },
     "Remove__possibly_unsecure_": {
         "message": "徹底移除 (可能不安全)"
     },
@@ -1390,7 +1440,10 @@
         "message": "撤銷存取權杖 (Token)"
     },
     "Run_at": {
-        "message": "執行於："
+        "message": "執行於"
+    },
+    "Run_in": {
+        "message": "執行於"
     },
     "Run_syntax_check": {
         "message": "執行語法檢查"
@@ -1427,6 +1480,9 @@
     "Script_Sync": {
         "message": "腳本同步"
     },
+    "Script_Tags": {
+        "message": "腳本標籤"
+    },
     "Script_URL_detection": {
         "message": "腳本 URL 偵測"
     },
@@ -1435,6 +1491,9 @@
     },
     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
         "message": "腳本作者可以透過在原始 URL 加上 SRI 雜湊的方式來確保外部資源安全。"
+    },
+    "Script_cookies_access": {
+        "message": "允許腳本存取 cookies"
     },
     "Script_local_files_access": {
         "message": "允許腳本存取本機檔案"
@@ -1596,6 +1655,9 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "腳本同步 (篡改猴External Script List Access)"
     },
+    "System_Tags": {
+        "message": "系統標籤"
+    },
     "TabMode": {
         "message": "Tab 模式"
     },
@@ -1607,6 +1669,12 @@
     },
     "Tabs": {
         "message": "Tab"
+    },
+    "Tag_Already_Exists": {
+        "message": "該標籤已存在"
+    },
+    "Tags": {
+        "message": "標籤"
     },
     "Tam": {
         "message": "Tam",
@@ -1629,6 +1697,9 @@
     },
     "Tampermonkey_version": {
         "message": "僅限篡改猴版本"
+    },
+    "Tampermonkey_won_t_inject_into_other_tab_types_anymore_": {
+        "message": "篡改猴將不再注入其他分頁類型！"
     },
     "Templates": {
         "message": "模板"
@@ -1761,6 +1832,9 @@
     },
     "This_script_was_not_executed_yet": {
         "message": "此腳本尚未執行過"
+    },
+    "This_tag_is_not_part_of_the_system_tag_list_": {
+        "message": "該標籤不在系統標籤列表中"
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "這將覆蓋您的全域設定！"

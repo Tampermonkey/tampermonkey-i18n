@@ -132,6 +132,12 @@
     "Add_TM_to_CSP": {
         "message": "Смени ги постоечките заглавија на CSP"
     },
+    "Add_Tag": {
+        "message": "Додај ознака"
+    },
+    "Add_Tag_to_System": {
+        "message": "Додај ознака на системската листа"
+    },
     "Add_Tampermonkey_to_the_site_s_content_csp": {
         "message": "Додади го Tampermonkey во CSP на HTML-то"
     },
@@ -154,6 +160,9 @@
     },
     "All": {
         "message": "Сите"
+    },
+    "All_but_HttpOnly": {
+        "message": "Сите освен HttpOnly"
     },
     "All_local_files": {
         "message": "Сите локални датотеки"
@@ -178,6 +187,12 @@
     },
     "Allow_once": {
         "message": "Дозволете еднаш"
+    },
+    "Allow_scripts_to_run_scripts_in": {
+        "message": "Стандардни типови на табови во кои да се извршуваат скриптовите"
+    },
+    "Alltime_running_instances": {
+        "message": "Инстанци кои се извршуваат секогаш"
     },
     "Always": {
         "message": "Секогаш"
@@ -255,6 +270,9 @@
     },
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Барем една @include, @match или @exclude линија беше сменета."
+    },
+    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
+        "message": "Барем еден дел од оваа страна е во делот на поставката „забранети страни“!"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Внимание: Листата за исклучуванје беше скратена.\nВе молиме проверете ја!"
@@ -373,6 +391,14 @@
     },
     "Clear_All": {
         "message": "Избриши сѐ"
+    },
+    "Click_here_to_allow_TM_to_access_the_following_hosts_0hostlist0": {
+        "message": "Ве молиме кликнете OK за да дозволите на Tampermonkey да има пристап до следниве хостови:\n\n$hostlist$",
+        "placeholders": {
+            "hostlist": {
+                "content": "$1"
+            }
+        }
     },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Кликнете OK да дозволите Tampermonkey да почнува инстантни преземања."
@@ -512,6 +538,15 @@
     "Disable": {
         "message": "Исклучи"
     },
+    "Disable_all_remaining_scripts_of_this_tag": {
+        "message": "Кликнете за да ги оневозможите сите преостанати скрипти на оваа ознака"
+    },
+    "Disable_all_scripts_of_this_tag": {
+        "message": "Кликнете за да ги оневозможите сите скрипти на оваа ознака"
+    },
+    "Disable_Updates": {
+        "message": "Исклучи ажурирања"
+    },
     "Disabled": {
         "message": "Исклучено"
     },
@@ -531,6 +566,9 @@
     },
     "Does_not_run_in_incognito_tabs": {
         "message": "Не работи во инкогнито табови"
+    },
+    "Does_not_run_in_normal_tabs": {
+        "message": "Не работи во нормални табови"
     },
     "Dont_ask_again": {
         "message": "Не прашувај пак"
@@ -584,6 +622,12 @@
     },
     "Enable_Script_Sync": {
         "message": "Уклучи синхронизација на скриптови"
+    },
+    "Enable_Tags": {
+        "message": "Овозможи ознаки"
+    },
+    "Enable_all_scripts_of_this_tag": {
+        "message": "Кликнете за да ги овозможите сите скрипти на оваа ознака"
     },
     "Enable_autoSave": {
         "message": "Зачувај кога уредувачот нема да биде селектиран"
@@ -1035,6 +1079,9 @@
     "Never": {
         "message": "Никогаш"
     },
+    "New_Tag": {
+        "message": "Нова ознака"
+    },
     "New_Version": {
         "message": "Нова верзија"
     },
@@ -1228,6 +1275,9 @@
     "Remove": {
         "message": "Избриши"
     },
+    "Remove_Tag": {
+        "message": "Отстрани ознака"
+    },
     "Remove__possibly_unsecure_": {
         "message": "Избриши целосно"
     },
@@ -1301,6 +1351,9 @@
     "Run_at": {
         "message": "Работи на"
     },
+    "Run_in": {
+        "message": "Работи во"
+    },
     "Run_syntax_check": {
         "message": "Провери ја синтаксата"
     },
@@ -1333,6 +1386,9 @@
     "Script_Sync": {
         "message": "Синхронизација на скриптови"
     },
+    "Script_Tags": {
+        "message": "Ознаки на скрипти"
+    },
     "Script_URL_detection": {
         "message": "Детекција на URL на скрипт"
     },
@@ -1341,6 +1397,9 @@
     },
     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
         "message": "Авторите на скриптовите може да ги обезбедат екстерните ресурси со додавање на SRI на URL-то."
+    },
+    "Script_cookies_access": {
+        "message": "Дозволи на скриптовите да пристапуваат до колачиња"
     },
     "Script_local_files_access": {
         "message": "Дозволи на скриптовите да работат со локални датотеки"
@@ -1499,6 +1558,9 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Синхронизирај ги Вашите скриптови низ пребарувачи и оперативни системи"
     },
+    "System_Tags": {
+        "message": "Системски ознаки"
+    },
     "TabMode": {
         "message": "TabMode"
     },
@@ -1510,6 +1572,12 @@
     },
     "Tabs": {
         "message": "Табови"
+    },
+    "Tag_Already_Exists": {
+        "message": "Оваа ознака веќе постои"
+    },
+    "Tags": {
+        "message": "Ознаки"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + верзија на скриптови"
@@ -1528,6 +1596,9 @@
     },
     "Tampermonkey_version": {
         "message": "Само верзија на Tampermonkey"
+    },
+    "Tampermonkey_won_t_inject_into_other_tab_types_anymore_": {
+        "message": "Tampermonkey нема да инјектира во други типови на табови повеќе!"
     },
     "Templates": {
         "message": "Шаблони"
@@ -1650,6 +1721,9 @@
     },
     "This_script_was_not_executed_yet": {
         "message": "Овој скрипт не бил извршен до сега"
+    },
+    "This_tag_is_not_part_of_the_system_tag_list_": {
+        "message": "Оваа ознака не е дел од системската листа на ознаки"
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "Ова ке ви ги промени Вашите глобални подесувања!"

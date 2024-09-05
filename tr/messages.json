@@ -129,6 +129,12 @@
     "Add_TM_to_CSP": {
         "message": "Mevcut içerik güvenliği ilkesi (CSP) üst bilgilerini düzenle"
     },
+    "Add_Tag": {
+        "message": "Etiket Ekle"
+    },
+    "Add_Tag_to_System": {
+        "message": "Etiketi sistem listesine ekle"
+    },
     "Add_Tampermonkey_to_the_site_s_content_csp": {
         "message": "HTML'in CSP'sine Tampermonkey'i ekle"
     },
@@ -148,6 +154,9 @@
     },
     "Advanced": {
         "message": "Gelişmiş"
+    },
+    "All_but_HttpOnly": {
+        "message": "HttpOnly dışındakiler"
     },
     "All_local_files": {
         "message": "Tüm yerel dosyalar"
@@ -172,6 +181,12 @@
     },
     "Allow_once": {
         "message": "Bir kez izin ver"
+    },
+    "Allow_scripts_to_run_scripts_in": {
+        "message": "Betiklerin çalıştırılacağı varsayılan sekme türleri"
+    },
+    "Alltime_running_instances": {
+        "message": "Tüm zamanlar için çalışan örnekler"
     },
     "Always": {
         "message": "Her zaman"
@@ -249,6 +264,9 @@
     },
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "@include, @match veya @exclude ifadelerinden en az biri değiştirildi."
+    },
+    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
+        "message": "Bu sayfanın en az bir kısmı 'yasak sayfalar' ayarında listelenmiştir!"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Dikkat: Hariç tutulanlar listesi kısaltıldı.\nLütfen elle kontrol edin!"
@@ -367,6 +385,14 @@
     },
     "Clear_All": {
         "message": "Tümünü temizle"
+    },
+    "Click_here_to_allow_TM_to_access_the_following_hosts_0hostlist0": {
+        "message": "Lütfen Tamam'a tıklayarak Tampermonkey'in şu sunuculara erişmesine izin verin:\n\n$hostlist$",
+        "placeholders": {
+            "hostlist": {
+                "content": "$1"
+            }
+        }
     },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Tampermonkey'in anında indirmeye başlamasına izin vermek için Tamam'a tıklayın."
@@ -494,6 +520,15 @@
     "Disable": {
         "message": "Devre dışı bırak"
     },
+    "Disable_all_remaining_scripts_of_this_tag": {
+        "message": "Bu etiketin kalan tüm komut dosyalarını devre dışı bırakmak için tıklayın"
+    },
+    "Disable_all_scripts_of_this_tag": {
+        "message": "Bu etiketin tüm komut dosyalarını devre dışı bırakmak için tıklayın"
+    },
+    "Disable_Updates": {
+        "message": "Güncellemeleri devre dışı bırak"
+    },
     "Disabled": {
         "message": "Devre dışı"
     },
@@ -513,6 +548,9 @@
     },
     "Does_not_run_in_incognito_tabs": {
         "message": "Gizli sekmelerde çalışmaz"
+    },
+    "Does_not_run_in_normal_tabs": {
+        "message": "Normal sekmelerde çalışmaz"
     },
     "Dont_ask_again": {
         "message": "Tekrar sorma"
@@ -566,6 +604,12 @@
     },
     "Enable_Script_Sync": {
         "message": "Betik eşitlemeyi etkinleştir"
+    },
+    "Enable_Tags": {
+        "message": "Etiketleri Etkinleştir"
+    },
+    "Enable_all_scripts_of_this_tag": {
+        "message": "Bu etiketin tüm komut dosyalarını etkinleştirmek için tıklayın"
     },
     "Enable_autoSave": {
         "message": "Düzenleyici odaktan çıktığında içeriği kaydet"
@@ -945,6 +989,9 @@
     "Never": {
         "message": "Asla"
     },
+    "New_Tag": {
+        "message": "Yeni Etiket"
+    },
     "New_Version": {
         "message": "Yeni Sürüm"
     },
@@ -1132,6 +1179,9 @@
     "Remove": {
         "message": "Kaldır"
     },
+    "Remove_Tag": {
+        "message": "Etiketi Kaldır"
+    },
     "Remove__possibly_unsecure_": {
         "message": "Tamamen kaldır (güvenilir olmayabilir)"
     },
@@ -1183,6 +1233,9 @@
     "Run_at": {
         "message": "Çalıştır"
     },
+    "Run_in": {
+        "message": "İçinde çalıştır"
+    },
     "Run_syntax_check": {
         "message": "Söz dizimi denetimini çalıştır"
     },
@@ -1209,6 +1262,9 @@
     "Script_Sync": {
         "message": "Betik Senkronizasyonu"
     },
+    "Script_Tags": {
+        "message": "Komut Dosyası Etiketleri"
+    },
     "Script_URL_detection": {
         "message": "Betik URL algılama"
     },
@@ -1217,6 +1273,9 @@
     },
     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
         "message": "Betik geliştiriciler, kaynak URL'ye bir SRI hash'i ekleyerek dış kaynakları güvence altına alabilir."
+    },
+    "Script_cookies_access": {
+        "message": "Betiklerin çerezlere erişmesine izin ver"
     },
     "Script_local_files_access": {
         "message": "Betiklerin yerel dosyalara erişmesine izin ver"
@@ -1375,6 +1434,9 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Betiklerinizi farklı tarayıcılar ve işletim sistemleri arasında senkronize edin"
     },
+    "System_Tags": {
+        "message": "Sistem Etiketleri"
+    },
     "TabMode": {
         "message": "Sekme Modu"
     },
@@ -1386,6 +1448,12 @@
     },
     "Tabs": {
         "message": "Sekmeler"
+    },
+    "Tag_Already_Exists": {
+        "message": "Bu etiket zaten mevcut"
+    },
+    "Tags": {
+        "message": "Etiketler"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + betik sürümü"
@@ -1404,6 +1472,9 @@
     },
     "Tampermonkey_version": {
         "message": "Yalnızca Tampermonkey sürümü"
+    },
+    "Tampermonkey_won_t_inject_into_other_tab_types_anymore_": {
+        "message": "Tampermonkey artık diğer sekme türlerine enjekte edilmeyecek!"
     },
     "Templates": {
         "message": "Şablonlar"
@@ -1526,6 +1597,9 @@
     },
     "This_script_was_not_executed_yet": {
         "message": "Bu betik henüz çalıştırılmadı"
+    },
+    "This_tag_is_not_part_of_the_system_tag_list_": {
+        "message": "Bu etiket sistem etiket listesinde yer almıyor"
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "Bu işlem, genel ayarlarınızı değiştirecektir!"

@@ -87,6 +87,12 @@
     "Add_TM_to_CSP": {
         "message": "Dodaj Tampermonkey u sigurnosne polise sadržaja sajta (CSP) ako jedna već ne postoji"
     },
+    "Add_Tag": {
+        "message": "Dodaj oznaku"
+    },
+    "Add_Tag_to_System": {
+        "message": "Dodaj oznaku na sistemsku listu"
+    },
     "Add_as_0clude0": {
         "message": "Dodaj kao $clude$",
         "placeholders": {
@@ -100,6 +106,9 @@
     },
     "Advanced": {
         "message": "Napredni"
+    },
+    "All_but_HttpOnly": {
+        "message": "Svi osim HttpOnly"
     },
     "All_local_files": {
         "message": "Svi lokalni fajlovi"
@@ -121,6 +130,9 @@
     },
     "Allow_once": {
         "message": "Dozvoli jednom"
+    },
+    "Alltime_running_instances": {
+        "message": "Instanci koje rade stalno"
     },
     "Always": {
         "message": "Uvek"
@@ -172,6 +184,9 @@
     },
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Najmanje jedan od @include, @match ili @exclude iskaza je promenjen."
+    },
+    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
+        "message": "Jedan ili više deo/delova ove stranice je na listi 'nesigurnih stranica' u podešavanjima!"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Upozorenje: Lista (Isključeni) je smanjena.\nMolimo vas proverite ručno!"
@@ -370,6 +385,15 @@
     "Disable": {
         "message": "Onemogući"
     },
+    "Disable_all_remaining_scripts_of_this_tag": {
+        "message": "Klikni da onemogućiš sve preostale skripte ove oznake"
+    },
+    "Disable_all_scripts_of_this_tag": {
+        "message": "Klikni da onemogućiš sve skripte ove oznake"
+    },
+    "Disable_Updates": {
+        "message": "Onemogući ažuriranja"
+    },
     "Disabled": {
         "message": "Onemogućeno"
     },
@@ -386,6 +410,12 @@
     },
     "Document_Start": {
         "message": "Početak Dokumenta"
+    },
+    "Does_not_run_in_incognito_tabs": {
+        "message": "Ne pokreće se u inkognito tabovima"
+    },
+    "Does_not_run_in_normal_tabs": {
+        "message": "Ne pokreće se u normalnim tabovima"
     },
     "Dont_ask_again": {
         "message": "Ne pitaj ponovo"
@@ -430,6 +460,12 @@
     },
     "Enable_Script_Sync": {
         "message": "Omogući TESLA"
+    },
+    "Enable_Tags": {
+        "message": "Omogući oznake"
+    },
+    "Enable_all_scripts_of_this_tag": {
+        "message": "Klikni da omogućiš sve skripte ove oznake"
     },
     "Enable_autoSave": {
         "message": "Sačuvaj sadržaj kada uredjivač izadje iz fokusa"
@@ -754,6 +790,9 @@
     "Never": {
         "message": "Nikad"
     },
+    "New_Tag": {
+        "message": "Nova oznaka"
+    },
     "New_Version": {
         "message": "Nova Verzija"
     },
@@ -908,6 +947,9 @@
     "Remove": {
         "message": "Ukloni"
     },
+    "Remove_Tag": {
+        "message": "Ukloni oznaku"
+    },
     "Replace": {
         "message": "Zameni"
     },
@@ -944,6 +986,9 @@
     "Run_at": {
         "message": "Pokreni u"
     },
+    "Run_in": {
+        "message": "Pokreni unutar"
+    },
     "Run_syntax_check": {
         "message": "Provera sintakse"
     },
@@ -967,6 +1012,9 @@
     "Script_Blacklist_Source": {
         "message": "Skripta Lista(nedozvoljenih) Izvora"
     },
+    "Script_Tags": {
+        "message": "Oznake skripti"
+    },
     "Script_URL_detection": {
         "message": "Skripta URL detekcije"
     },
@@ -975,6 +1023,9 @@
     },
     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
         "message": "Autori skripte mogu osigurati eksterne resourse dodajući SRI hash izvoru URL-a."
+    },
+    "Script_cookies_access": {
+        "message": "Dozvoli skriptama pristup kolačićima"
     },
     "Script_local_files_access": {
         "message": "Dozvoli skriptama lokalni pristup"
@@ -1115,6 +1166,9 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Sinhronizacija skripte (Tampermonkey Eksterna Pristupna Lista)"
     },
+    "System_Tags": {
+        "message": "Sistemske oznake"
+    },
     "TabMode": {
         "message": "Tad-Mod"
     },
@@ -1123,6 +1177,12 @@
     },
     "Tabs": {
         "message": "Tabovi"
+    },
+    "Tag_Already_Exists": {
+        "message": "Ova oznaka već postoji"
+    },
+    "Tags": {
+        "message": "Oznake"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + skripta verzija"
@@ -1138,6 +1198,9 @@
     },
     "Tampermonkey_version": {
         "message": "Tampermonkey samo verzija"
+    },
+    "Tampermonkey_won_t_inject_into_other_tab_types_anymore_": {
+        "message": "Tampermonkey više neće ubacivati u druge tipove tabova (prozora)"
     },
     "Templates": {
         "message": "Obrazac"
@@ -1240,6 +1303,9 @@
     },
     "This_script_was_not_executed_yet": {
         "message": "Ova skripta nije nikad bila pokrenuta"
+    },
+    "This_tag_is_not_part_of_the_system_tag_list_": {
+        "message": "Ova oznaka nije deo sistemske liste oznaka"
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "Ovo će izmeniti vaša globalna podešavanja."

@@ -68,6 +68,12 @@
     "Add_TM_to_CSP": {
         "message": "Pridať Tampermonkey do content security policy (CSP) stránky, ak existuje"
     },
+    "Add_Tag": {
+        "message": "Pridať značku"
+    },
+    "Add_Tag_to_System": {
+        "message": "Pridať značku do zoznamu systému"
+    },
     "Add_as_0clude0": {
         "message": "Pridať ako $clude$",
         "placeholders": {
@@ -81,6 +87,9 @@
     },
     "Advanced": {
         "message": "Pokročilý"
+    },
+    "All_but_HttpOnly": {
+        "message": "Všetko okrem HttpOnly"
     },
     "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
         "message": "Zmeny sú uložené len do ukončenia prehliadania v režime inkognito!"
@@ -96,6 +105,9 @@
     },
     "Allow_once": {
         "message": "Povoliť raz"
+    },
+    "Alltime_running_instances": {
+        "message": "Bežiace inštancie"
     },
     "Always": {
         "message": "Vždy"
@@ -141,6 +153,9 @@
     },
     "Ask_if_unknown": {
         "message": "Opýtať sa ak je neznámy"
+    },
+    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
+        "message": "Aspoň jedna časť stránky je v nastaveniach uvedená pod 'zakázanými stránkami'!"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Pozor: exclude list sa skrátil.\nProsím, prekontrolujte ho ručne!"
@@ -282,6 +297,15 @@
     "Disable": {
         "message": "Vypnúť"
     },
+    "Disable_all_remaining_scripts_of_this_tag": {
+        "message": "Kliknite pre deaktiváciu všetkých zostávajúcich skriptov tejto značky"
+    },
+    "Disable_all_scripts_of_this_tag": {
+        "message": "Kliknite pre deaktiváciu všetkých skriptov tejto značky"
+    },
+    "Disable_Updates": {
+        "message": "Vypnúť aktualizácie"
+    },
     "Disabled": {
         "message": "Vypnuté"
     },
@@ -292,6 +316,12 @@
                 "content": "$1"
             }
         }
+    },
+    "Does_not_run_in_incognito_tabs": {
+        "message": "Nebude spustené v režime inkognito"
+    },
+    "Does_not_run_in_normal_tabs": {
+        "message": "Nebude spustené v normálnych kartách"
     },
     "Dont_ask_again": {
         "message": "Viac sa nepýtať"
@@ -330,6 +360,12 @@
     },
     "Enable_Script_Sync": {
         "message": "Zapnúť TESLA"
+    },
+    "Enable_Tags": {
+        "message": "Povoliť značky"
+    },
+    "Enable_all_scripts_of_this_tag": {
+        "message": "Kliknite pre aktiváciu všetkých skriptov tejto značky"
     },
     "Enable_autoSave": {
         "message": "Uložit obsah pri ukončení úprav v editore"
@@ -541,6 +577,9 @@
     "Never": {
         "message": "Nikdy"
     },
+    "New_Tag": {
+        "message": "Nová značka"
+    },
     "New_script_template_": {
         "message": "Nová šablóna skriptu"
     },
@@ -671,6 +710,9 @@
     "Remove": {
         "message": "Zmazať"
     },
+    "Remove_Tag": {
+        "message": "Odstrániť značku"
+    },
     "Replace": {
         "message": "Nahradiť"
     },
@@ -707,6 +749,9 @@
     "Run_at": {
         "message": "Spustiť pri"
     },
+    "Run_in": {
+        "message": "Spustiť v"
+    },
     "Run_syntax_check": {
         "message": "Skontrolovať syntax"
     },
@@ -722,6 +767,9 @@
     "Script_Blacklist_Source": {
         "message": "Zdroj script blacklistu"
     },
+    "Script_Tags": {
+        "message": "Skriptové značky"
+    },
     "Script_URL_detection": {
         "message": "Detekcia URL skriptu"
     },
@@ -730,6 +778,9 @@
     },
     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
         "message": "Autori skriptu môžu zabezpečiť externé zdroje pridaním SRI hash-u do zdrojovej URL."
+    },
+    "Script_cookies_access": {
+        "message": "Povoliť skriptom prístup k cookies"
     },
     "Script_name_0name0": {
         "message": "Názov skriptu: $name$",
@@ -816,6 +867,9 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Synchronizácia skriptov (Tampermonkey External Script List Access)"
     },
+    "System_Tags": {
+        "message": "Systémové značky"
+    },
     "TabMode": {
         "message": "Typ odsadenia"
     },
@@ -825,6 +879,12 @@
     "Tabs": {
         "message": "Tabulátora"
     },
+    "Tag_Already_Exists": {
+        "message": "Táto značka už existuje"
+    },
+    "Tags": {
+        "message": "Značky"
+    },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey nemá oprávnenie pristupovať k lokálnym súborom!"
     },
@@ -833,6 +893,9 @@
     },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
         "message": "Ak chcete aplikovať túto zmenu Tampermonkey sa musí reštartovať.\n\nChceťe pokračovať?"
+    },
+    "Tampermonkey_won_t_inject_into_other_tab_types_anymore_": {
+        "message": "Tampermonkey už nebude injektovať do iných typov kariet!"
     },
     "Temporarily_allow": {
         "message": "Povoliť dočasne"
@@ -906,6 +969,9 @@
     },
     "This_script_stores_data": {
         "message": "Tento skript ukladá dáta v Tampermonkey."
+    },
+    "This_tag_is_not_part_of_the_system_tag_list_": {
+        "message": "Táto značka nie je súčasťou zoznamu systémových značiek"
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "Toto prepíše globálne nastavenia!"

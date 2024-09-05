@@ -143,6 +143,12 @@
     "Add_TM_to_CSP": {
         "message": "Добавить TM в политику безопасности CSP"
     },
+    "Add_Tag": {
+        "message": "Добавить тег"
+    },
+    "Add_Tag_to_System": {
+        "message": "Добавить тег в список системы"
+    },
     "Add_Tampermonkey_to_the_site_s_content_csp": {
         "message": "Добавить Tampermonkey в HTML CSP"
     },
@@ -165,6 +171,9 @@
     },
     "All": {
         "message": "Все"
+    },
+    "All_but_HttpOnly": {
+        "message": "Все, кроме защищённых (HttpOnly)"
     },
     "All_local_files": {
         "message": "Все локальные файлы"
@@ -189,6 +198,12 @@
     },
     "Allow_once": {
         "message": "Разрешить один раз"
+    },
+    "Allow_scripts_to_run_scripts_in": {
+        "message": "Типы вкладок по умолчанию для запуска скриптов"
+    },
+    "Alltime_running_instances": {
+        "message": "Всегда запущенные экземпляры"
     },
     "Always": {
         "message": "Всегда"
@@ -270,6 +285,9 @@
     },
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Как минимум одно из выражений @include, @match или @exclude было изменено."
+    },
+    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
+        "message": "Как минимум одна часть этой страницы указана в настройке 'запрещённые страницы'!"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Внимание: список исключений был сокращён.\nПроверьте его вручную!"
@@ -388,6 +406,14 @@
     },
     "Clear_All": {
         "message": "Удалить все"
+    },
+    "Click_here_to_allow_TM_to_access_the_following_hosts_0hostlist0": {
+        "message": "Нажмите OK, чтобы разрешить Tampermonkey доступ к следующим хостам:\n\n$hostlist$",
+        "placeholders": {
+            "hostlist": {
+                "content": "$1"
+            }
+        }
     },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Нажмите ОК, чтобы разрешить Tampermonkey загружать файлы без запроса."
@@ -541,6 +567,16 @@
     "Disable": {
         "message": "Отключить"
     },
+    "Disable_all_remaining_scripts_of_this_tag": {
+        "message": "Нажмите, чтобы отключить все оставшиеся скрипты этого тега"
+    },
+    "Disable_all_scripts_of_this_tag": {
+        "message": "Нажмите, чтобы отключить все скрипты этого тега"
+
+    },
+    "Disable_Updates": {
+        "message": "Отключить обновления"
+    },
     "Disabled": {
         "message": "Отключено"
     },
@@ -588,6 +624,9 @@
     },
     "Does_not_run_in_incognito_tabs": {
         "message": "Не запускать в приватных вкладках"
+    },
+    "Does_not_run_in_normal_tabs": {
+        "message": "Не запускать в обычных вкладках"
     },
     "Dont_ask_again": {
         "message": "Больше не спрашивать"
@@ -641,6 +680,12 @@
     },
     "Enable_Script_Sync": {
         "message": "Включить синхронизацию скриптов"
+    },
+    "Enable_Tags": {
+        "message": "Включить теги"
+    },
+    "Enable_all_scripts_of_this_tag": {
+        "message": "Нажмите, чтобы включить все скрипты этого тега"
     },
     "Enable_autoSave": {
         "message": "Сохранять содержимое, когда редактор теряет фокус"
@@ -1104,6 +1149,9 @@
     "Never": {
         "message": "Никогда"
     },
+    "New_Tag": {
+        "message": "Новый тег"
+    },
     "New_Version": {
         "message": "Новая версия"
     },
@@ -1307,6 +1355,9 @@
     "Remove": {
         "message": "Удалить"
     },
+    "Remove_Tag": {
+        "message": "Удалить тег"
+    },
     "Remove__possibly_unsecure_": {
         "message": "Удалить полностью (может быть небезопасно)"
     },
@@ -1386,6 +1437,9 @@
     "Run_at": {
         "message": "Запускать в"
     },
+    "Run_in": {
+        "message": "Запускать внутри"
+    },
     "Run_syntax_check": {
         "message": "Проверить синтаксис"
     },
@@ -1421,6 +1475,9 @@
     "Script_Sync": {
         "message": "Синхронизация пользовательских скриптов"
     },
+    "Script_Tags": {
+        "message": "Скрипт теги"
+    },
     "Script_URL_detection": {
         "message": "Обнаружение URL скриптов"
     },
@@ -1429,6 +1486,9 @@
     },
     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
         "message": "Авторы сценариев могут защитить внешние ресурсы, добавив хэш SRI к исходному URL."
+    },
+    "Script_cookies_access": {
+        "message": "Доступ скриптов к cookies"
     },
     "Script_local_files_access": {
         "message": "Доступ скриптов к локальным файлам"
@@ -1587,6 +1647,9 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Синхронизируйте свои скрипты между браузерами и операционными системами"
     },
+    "System_Tags": {
+        "message": "Системные теги"
+    },
     "TabMode": {
         "message": "Режим табуляции"
     },
@@ -1598,6 +1661,12 @@
     },
     "Tabs": {
         "message": "Табуляций"
+    },
+    "Tag_Already_Exists": {
+        "message": "Этот тег уже существует"
+    },
+    "Tags": {
+        "message": "Теги"
     },
     "Tam": {
         "message": "Тэм",
@@ -1620,6 +1689,9 @@
     },
     "Tampermonkey_version": {
         "message": "Только версия Tampermonkey"
+    },
+    "Tampermonkey_won_t_inject_into_other_tab_types_anymore_": {
+        "message": "Tampermonkey больше не будет встраиваться в другие типы вкладок!"
     },
     "Templates": {
         "message": "Шаблоны"
@@ -1763,6 +1835,9 @@
     },
     "This_script_was_not_executed_yet": {
         "message": "Ещё не выполнялся"
+    },
+    "This_tag_is_not_part_of_the_system_tag_list_": {
+        "message": "Этот тег не входит в список системных тегов"
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "Будут перезаписаны ваши глобальные настройки!"

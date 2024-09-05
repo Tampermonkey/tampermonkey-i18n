@@ -42,11 +42,20 @@
     "Add_TM_to_CSP": {
         "message": "Tambahkan Tampermonkey dengan kebijakan keamanan konten situs (CSP) jika ada"
     },
+    "Add_Tag": {
+        "message": "Tambah Tag"
+    },
+    "Add_Tag_to_System": {
+        "message": "Tambahkan tag ke daftar sistem"
+    },
     "Add_new_script___": {
         "message": "Buat sebuah skrip..."
     },
     "Advanced": {
         "message": "Lanjutan"
+    },
+    "All_but_HttpOnly": {
+        "message": "Semua kecuali HttpOnly"
     },
     "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
         "message": "Semua modifikasi hanya disimpan hingga sesi penyamaran ini telah ditutup!"
@@ -188,6 +197,15 @@
     "Details": {
         "message": "Detail"
     },
+    "Disable_all_remaining_scripts_of_this_tag": {
+        "message": "Klik untuk menonaktifkan semua skrip yang tersisa dari tag ini"
+    },
+    "Disable_all_scripts_of_this_tag": {
+        "message": "Klik untuk menonaktifkan semua skrip dari tag ini"
+    },
+    "Disable_Updates": {
+        "message": "Nonaktifkan Pembaruan"
+    },
     "Disabled": {
         "message": "Nonaktif"
     },
@@ -198,6 +216,12 @@
                 "content": "$1"
             }
         }
+    },
+    "Does_not_run_in_incognito_tabs": {
+        "message": "Tak berjalan di tab penyamaran"
+    },
+    "Does_not_run_in_normal_tabs": {
+        "message": "Tak berjalan di tab normal"
     },
     "Dont_ask_again": {
         "message": "Jangan tanya lagi"
@@ -218,6 +242,12 @@
     },
     "Edit": {
         "message": "Sunting"
+    },
+    "Enable_Tags": {
+        "message": "Aktifkan Tag"
+    },
+    "Enable_all_scripts_of_this_tag": {
+        "message": "Klik untuk mengaktifkan semua skrip dari tag ini"
     },
     "Enable_autoSave": {
         "message": "Menyimpan konten ketika Editor kehilangan fokus"
@@ -375,6 +405,9 @@
     "Never": {
         "message": "Tak pernah"
     },
+    "New_Tag": {
+        "message": "Tag Baru"
+    },
     "No": {
         "message": "Tidak"
     },
@@ -466,6 +499,9 @@
     "Remove": {
         "message": "Hapus"
     },
+    "Remove_Tag": {
+        "message": "Hapus Tag"
+    },
     "Replace": {
         "message": "Ganti"
     },
@@ -490,14 +526,26 @@
     "Restart_Tampermonkey": {
         "message": "Jalankan ulang Tampermonkey"
     },
+    "Run_at": {
+        "message": "Jalankan pada"
+    },
+    "Run_in": {
+        "message": "Jalankan di"
+    },
     "Save": {
         "message": "Simpan"
     },
     "Script_Blacklist_Source": {
         "message": "Sumber Daftar-Hitam skrip"
     },
+    "Script_Tags": {
+        "message": "Tag Skrip"
+    },
     "Script_Update": {
         "message": "Pembaruan skrip"
+    },
+    "Script_cookies_access": {
+        "message": "Akses cookie skrip"
     },
     "Script_name_0name0": {
         "message": "Nama skrip: $name$",
@@ -548,8 +596,20 @@
     "Sync_Type": {
         "message": "Tipe"
     },
+    "System_Tags": {
+        "message": "Tag Sistem"
+    },
+    "Tag_Already_Exists": {
+        "message": "Tag ini sudah ada"
+    },
+    "Tags": {
+        "message": "Tag"
+    },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
         "message": "Tampermonkey perlu mulai kembali untuk menyimpan perubahan.\n\nLanjutkan?"
+    },
+    "Tampermonkey_won_t_inject_into_other_tab_types_anymore_": {
+        "message": "Tampermonkey tidak akan menyuntikkan lagi pada jenis tab lain!"
     },
     "Temporarily_allow": {
         "message": "Izinkan sementara"
@@ -603,6 +663,9 @@
     },
     "This_script_stores_data": {
         "message": "Skrip ini menyimpan data ke Tampermonkey."
+    },
+    "This_tag_is_not_part_of_the_system_tag_list_": {
+        "message": "Tag ini tidak ada dalam daftar tag sistem"
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "Ini akan menimpa Pengaturan Global Anda!"

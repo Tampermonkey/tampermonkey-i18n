@@ -68,6 +68,12 @@
     "Add_TM_to_CSP": {
         "message": "Adicionar Tampermonkey ao conteúdo de política de segurança (CSP) do site, se existir"
     },
+    "Add_Tag": {
+        "message": "Adicionar etiqueta"
+    },
+    "Add_Tag_to_System": {
+        "message": "Adicionar etiqueta à lista do sistema"
+    },
     "Add_as_0clude0": {
         "message": "Adicionar como $clude$",
         "placeholders": {
@@ -81,6 +87,9 @@
     },
     "Advanced": {
         "message": "Avançado"
+    },
+    "All_but_HttpOnly": {
+        "message": "Todos exceto HttpOnly"
     },
     "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
         "message": "Todas as modificações serão apenas guardadas até esta sessão em modo incógnito ser encerrada!"
@@ -96,6 +105,9 @@
     },
     "Allow_once": {
         "message": "Permitir uma vez"
+    },
+    "Alltime_running_instances": {
+        "message": "Instâncias em execução"
     },
     "Always": {
         "message": "Sempre"
@@ -141,6 +153,9 @@
     },
     "Ask_if_unknown": {
         "message": "Pergunte se não conhece."
+    },
+    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
+        "message": "Pelo menos uma parte desta página está listada nas definições de Páginas Proíbidas"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Atenção: A lista de exclusões não pode ser apresentada na sua totalidade.\nPor favor, verifique manualmente!"
@@ -270,6 +285,15 @@
     "Disable": {
         "message": "Desactivar"
     },
+    "Disable_all_remaining_scripts_of_this_tag": {
+        "message": "Clique para desativar todos os scripts restantes desta etiqueta"
+    },
+    "Disable_all_scripts_of_this_tag": {
+        "message": "Clique para desativar todos os scripts desta etiqueta"
+    },
+    "Disable_Updates": {
+        "message": "Desativar actualizações"
+    },
     "Disabled": {
         "message": "Desactivado"
     },
@@ -280,6 +304,12 @@
                 "content": "$1"
             }
         }
+    },
+    "Does_not_run_in_incognito_tabs": {
+        "message": "Não corre em tabs incógnitas"
+    },
+    "Does_not_run_in_normal_tabs": {
+        "message": "Não corre em tabs normais"
     },
     "Dont_ask_again": {
         "message": "Não perguntar novamente"
@@ -304,6 +334,12 @@
     },
     "Enable_Script_Sync": {
         "message": "Habilitar TESLA"
+    },
+    "Enable_Tags": {
+        "message": "Ativar etiquetas"
+    },
+    "Enable_all_scripts_of_this_tag": {
+        "message": "Clique para ativar todos os scripts desta etiqueta"
     },
     "Enable_autoSave": {
         "message": "Habilitar Gravação automática"
@@ -512,6 +548,9 @@
     "Never": {
         "message": "Nunca"
     },
+    "New_Tag": {
+        "message": "Nova etiqueta"
+    },
     "New_script_template_": {
         "message": "Novo template de Userscript"
     },
@@ -642,6 +681,9 @@
     "Remove": {
         "message": "Remover"
     },
+    "Remove_Tag": {
+        "message": "Remover etiqueta"
+    },
     "Replace": {
         "message": "Substituir"
     },
@@ -676,7 +718,10 @@
         "message": "Reiniciar o Tampermonkey"
     },
     "Run_at": {
-        "message": "Executar em:"
+        "message": "Executar em"
+    },
+    "Run_in": {
+        "message": "Executar dentro"
     },
     "Run_syntax_check": {
         "message": "Executar validação de sintaxe"
@@ -693,6 +738,9 @@
     "Script_Blacklist_Source": {
         "message": "Fonte de Blacklist de Scripts"
     },
+    "Script_Tags": {
+        "message": "Etiquetas de script"
+    },
     "Script_URL_detection": {
         "message": "Detecção do URL do script."
     },
@@ -701,6 +749,9 @@
     },
     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
         "message": "Os autores de scripts externos podem assegurar recursos externos ao adicionar um hash SRI ao URL."
+    },
+    "Script_cookies_access": {
+        "message": "Permitir que os scripts acedam a cookies"
     },
     "Script_name_0name0": {
         "message": "Nome do script: $name$",
@@ -778,8 +829,17 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Tampermonkey External Script List Access (Lista de Acesso de Scripts Externos Tampermonkey)"
     },
+    "System_Tags": {
+        "message": "Etiquetas do sistema"
+    },
     "Tab_URL": {
         "message": "URL da tab"
+    },
+    "Tag_Already_Exists": {
+        "message": "Esta etiqueta já existe"
+    },
+    "Tags": {
+        "message": "Etiquetas"
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "O Tampermonkey não tem permissões para aceder aos arquivos locais!"
@@ -789,6 +849,9 @@
     },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
         "message": "O Tampermonkey precisa de ser reiniciado para que esta alteração tenha efeito.\n\nDeseja continuar?"
+    },
+    "Tampermonkey_won_t_inject_into_other_tab_types_anymore_": {
+        "message": "O Tampermonkey não irá injectar em outros tipos de tab."
     },
     "Temporarily_allow": {
         "message": "Permitir temporariamente"
@@ -862,6 +925,9 @@
     },
     "This_script_stores_data": {
         "message": "Este script guarda informação no Tampermonkey."
+    },
+    "This_tag_is_not_part_of_the_system_tag_list_": {
+        "message": "Esta etiqueta não está na lista de etiquetas do sistema"
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "Isto irá substituir as suas configurações globais!"

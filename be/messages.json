@@ -123,6 +123,12 @@
     "Add_TM_to_CSP": {
         "message": "Дадаць Tampermonkey ў палітыку бяспекі сайта (CSP), калі патрабуецца"
     },
+    "Add_Tag": {
+        "message": "Дадаць тэг"
+    },
+    "Add_Tag_to_System": {
+        "message": "Дадаць тэг у спіс сістэмы"
+    },
     "Add_Tampermonkey_to_the_site_s_content_csp": {
         "message": "Дадаць Tampermonkey да кантэнту сайта CSP"
     },
@@ -139,6 +145,9 @@
     },
     "Advanced": {
         "message": "Прасунуты"
+    },
+    "All_but_HttpOnly": {
+        "message": "Усе, аднак абароненыя кукі (HttpOnly)"
     },
     "All_local_files": {
         "message": "Усе лакальныя файлы"
@@ -160,6 +169,9 @@
     },
     "Allow_once": {
         "message": "Дазволіць адзін раз"
+    },
+    "Alltime_running_instances": {
+        "message": "Усёчныя экзэмпляры"
     },
     "Always": {
         "message": "Заўсёды"
@@ -211,6 +223,9 @@
     },
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Як мінімум адно з выразаў @include, @match або @exclude было зменена."
+    },
+    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
+        "message": "Па меншай меры адна частка гэтай старонкі ўказаны ў наладзе 'забароненыя старонкі'!"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Увага: спіс выключэнняў быў скарочаны.\nПраверце яго ўручную!"
@@ -319,6 +334,14 @@
     "Clear_All": {
         "message": "Выдаліць усе"
     },
+    "Click_here_to_allow_TM_to_access_the_following_hosts_0hostlist0": {
+        "message": "Калі ласка, націсніце OK, каб Tampermonkey мог атрымаць доступ да наступных хастам:\n\n$hostlist$",
+        "placeholders": {
+            "hostlist": {
+                "content": "$1"
+            }
+        }
+    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Націсніце ОК, каб дазволіць Tampermonkey загружаць файлы без запыту."
     },
@@ -424,6 +447,15 @@
     "Disable": {
         "message": "Адключыць"
     },
+    "Disable_all_remaining_scripts_of_this_tag": {
+        "message": "Націсніце, каб адключыць усе астатнія скрыпты гэтага тэга"
+    },
+    "Disable_all_scripts_of_this_tag": {
+        "message": "Націсніце, каб адключыць усе скрыпты гэтага тэга"
+    },
+    "Disable_Updates": {
+        "message": "Адключыць абнаўленні"
+    },
     "Disabled": {
         "message": "Адключаны"
     },
@@ -440,6 +472,12 @@
     },
     "Document_Start": {
         "message": "У пачатак скрыпту"
+    },
+    "Does_not_run_in_incognito_tabs": {
+        "message": "Не запускаецца ў інкагніта-ўкладках"
+    },
+    "Does_not_run_in_normal_tabs": {
+        "message": "Не запускаецца ў звычайных ўкладках"
     },
     "Dont_ask_again": {
         "message": "Больш не пытацца"
@@ -490,6 +528,12 @@
     },
     "Enable_Script_Sync": {
         "message": "Уключыць сінхранізацыю скрыптоў"
+    },
+    "Enable_Tags": {
+        "message": "Уключыць тэгі"
+    },
+    "Enable_all_scripts_of_this_tag": {
+        "message": "Націсніце, каб уключыць усе скрыпты гэтага тэга"
     },
     "Enable_autoSave": {
         "message": "Аўтаматычна захоўваць змесціва, калі рэдактар губляе фокус"
@@ -829,6 +873,9 @@
     "Never": {
         "message": "Ніколі"
     },
+    "New_Tag": {
+        "message": "Новы тэг"
+    },
     "New_Version": {
         "message": "Новая версія"
     },
@@ -989,6 +1036,9 @@
     "Remove": {
         "message": "Выдаліць"
     },
+    "Remove_Tag": {
+        "message": "Выдаліць тэг"
+    },
     "Replace": {
         "message": "Замяніць"
     },
@@ -1028,6 +1078,9 @@
     "Run_at": {
         "message": "Запускаць у"
     },
+    "Run_in": {
+        "message": "Запускаць у"
+    },
     "Run_syntax_check": {
         "message": "Запусціць праверку сінтаксісу"
     },
@@ -1054,6 +1107,9 @@
     "Script_Sync": {
         "message": "Сінхранізацыя скрыптоў"
     },
+    "Script_Tags": {
+        "message": "Скрыпты тэгаў"
+    },
     "Script_URL_detection": {
         "message": "Вызначэнне URL скрыпту"
     },
@@ -1062,6 +1118,9 @@
     },
     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
         "message": "Аўтары сцэнарыяў могуць абараніць знешнія рэсурсы, дадаўшы хэш SRI да зыходнага URL."
+    },
+    "Script_cookies_access": {
+        "message": "Дазволіць скрыптам доступ да кукі"
     },
     "Script_local_files_access": {
         "message": "Дазволіць скрыптам доступ да лакальных файлаў"
@@ -1205,6 +1264,9 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Сінхранізацыя скрыптоў паміж браўзэрамі і аперацыйнымі сістэмамі"
     },
+    "System_Tags": {
+        "message": "Сістэмныя тэгі"
+    },
     "TabMode": {
         "message": "Рэжым табуляцыі"
     },
@@ -1213,6 +1275,12 @@
     },
     "Tabs": {
         "message": "Табуляцыі"
+    },
+    "Tag_Already_Exists": {
+        "message": "Гэты тэг ужо існуе"
+    },
+    "Tags": {
+        "message": "Тэгі"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + версія скрыпту"
@@ -1228,6 +1296,9 @@
     },
     "Tampermonkey_version": {
         "message": "Толькі версія Tampermonkey"
+    },
+    "Tampermonkey_won_t_inject_into_other_tab_types_anymore_": {
+        "message": "Tampermonkey больш не ўбудоўваецца ў іншыя тыпы ўкладак!"
     },
     "Templates": {
         "message": "Шаблоны"
@@ -1344,6 +1415,9 @@
     },
     "This_script_was_not_executed_yet": {
         "message": "Гэты скрыпт яшчэ не быў выкананы"
+    },
+    "This_tag_is_not_part_of_the_system_tag_list_": {
+        "message": "Гэты тэг не ўваходзіць у спіс сістэмных тэгаў"
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "Гэта перазапіша вашы глабальныя налады!"

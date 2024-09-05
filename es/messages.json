@@ -95,6 +95,12 @@
     "Add": {
         "message": "Agregar"
     },
+    "Add_Tag": {
+        "message": "Agregar etiqueta"
+    },
+    "Add_Tag_to_System": {
+        "message": "Agregar etiqueta a la lista del sistema"
+    },
     "Add_as_0clude0": {
         "message": "Agregar como $clude$",
         "placeholders": {
@@ -108,6 +114,9 @@
     },
     "Advanced": {
         "message": "Avanzado"
+    },
+    "All_but_HttpOnly": {
+        "message": "Todos menos HttpOnly"
     },
     "All_local_files": {
         "message": "Todos los archivos locales"
@@ -123,6 +132,9 @@
     },
     "Allow_once": {
         "message": "Permitir una vez"
+    },
+    "Alltime_running_instances": {
+        "message": "Instancias en ejecución"
     },
     "Always": {
         "message": "Siempre"
@@ -315,6 +327,15 @@
     "Disable": {
         "message": "Deshabilitar"
     },
+    "Disable_all_remaining_scripts_of_this_tag": {
+        "message": "Haz clic para desactivar todos los scripts restantes de esta etiqueta"
+    },
+    "Disable_all_scripts_of_this_tag": {
+        "message": "Haz clic para desactivar todos los scripts de esta etiqueta"
+    },
+    "Disable_Updates": {
+        "message": "Deshabilitar actualizaciones"
+    },
     "Disabled": {
         "message": "Desactivado"
     },
@@ -331,6 +352,12 @@
     },
     "Document_Start": {
         "message": "Inicio del documento"
+    },
+    "Does_not_run_in_incognito_tabs": {
+        "message": "No se ejecuta en pestañas de incógnito"
+    },
+    "Does_not_run_in_normal_tabs": {
+        "message": "No se ejecuta en pestañas normales"
     },
     "Dont_ask_again": {
         "message": "No preguntar de nuevo"
@@ -369,6 +396,12 @@
     },
     "Enable_Editor": {
         "message": "Activar editor avanzado"
+    },
+    "Enable_Tags": {
+        "message": "Activar etiquetas"
+    },
+    "Enable_all_scripts_of_this_tag": {
+        "message": "Haz clic para activar todos los scripts de esta etiqueta"
     },
     "Enable_easySave": {
         "message": "No mostrar el diálogo de confirmación al guardar"
@@ -580,6 +613,9 @@
     "Never": {
         "message": "Nunca"
     },
+    "New_Tag": {
+        "message": "Nueva etiqueta"
+    },
     "New_Version": {
         "message": "Nueva versión"
     },
@@ -710,6 +746,9 @@
     "Remove": {
         "message": "Eliminar"
     },
+    "Remove_Tag": {
+        "message": "Eliminar etiqueta"
+    },
     "Replace": {
         "message": "Reemplazar"
     },
@@ -752,6 +791,9 @@
     "Run_at": {
         "message": "Ejecutar en"
     },
+    "Run_in": {
+        "message": "Ejecutar dentro"
+    },
     "Running_scripts": {
         "message": "Instancias de scripts en ejecución"
     },
@@ -772,8 +814,14 @@
             }
         }
     },
+    "Script_Tags": {
+        "message": "Etiquetas de script"
+    },
     "Script_Update": {
         "message": "Actualización de Script"
+    },
+    "Script_cookies_access": {
+        "message": "Permitir a los scripts acceder a las cookies"
     },
     "Script_local_files_access": {
         "message": "Permitir a los scripts acceder a archivos locales"
@@ -851,8 +899,17 @@
     "Sync_Type": {
         "message": "Tipo"
     },
+    "System_Tags": {
+        "message": "Etiquetas del sistema"
+    },
     "TabMode": {
         "message": "Tabulado"
+    },
+    "Tag_Already_Exists": {
+        "message": "Esta etiqueta ya existe"
+    },
+    "Tags": {
+        "message": "Etiquetas"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + versión del script"
@@ -865,6 +922,9 @@
     },
     "Tampermonkey_version": {
         "message": "Sólo versión de Tampermonkey"
+    },
+    "Tampermonkey_won_t_inject_into_other_tab_types_anymore_": {
+        "message": "¡Tampermonkey no inyectará en otros tipos de pestañas!"
     },
     "Temporarily_allow": {
         "message": "Permitir temporalmente"
@@ -950,6 +1010,9 @@
     },
     "This_script_was_deleted": {
         "message": "Este script fue eliminado"
+    },
+    "This_tag_is_not_part_of_the_system_tag_list_": {
+        "message": "Esta etiqueta no está en la lista de etiquetas del sistema"
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "¡Esto sobreescribirá tus ajustes globales!"

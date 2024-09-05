@@ -68,6 +68,12 @@
     "Add_TM_to_CSP": {
         "message": "사이트에 만약 콘텐츠 보안 정책(CSP)가 있다면 거기에 Tampermonkey 추가"
     },
+    "Add_Tag": {
+        "message": "태그 추가"
+    },
+    "Add_Tag_to_System": {
+        "message": "태그를 시스템 목록에 추가"
+    },
     "Add_as_0clude0": {
         "message": "$clude$(으)로 추가",
         "placeholders": {
@@ -81,6 +87,9 @@
     },
     "Advanced": {
         "message": "상급자"
+    },
+    "All_but_HttpOnly": {
+        "message": "HttpOnly를 제외한 모든 쿠키"
     },
     "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
         "message": "모든 변경 사항은 시크릿 모드가 닫히기 전까지만 유지됩니다!"
@@ -99,6 +108,9 @@
     },
     "Allow_once": {
         "message": "한 번 허용"
+    },
+    "Alltime_running_instances": {
+        "message": "항상 실행 중인 인스턴스"
     },
     "Always": {
         "message": "항상"
@@ -144,6 +156,9 @@
     },
     "Ask_if_unknown": {
         "message": "모를 때 물어보기"
+    },
+    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
+        "message": "이 페이지의 적어도 한 부분이 '금지된 페이지' 설정에 올라 있습니다!"
     },
     "Author": {
         "message": "작성자"
@@ -285,6 +300,15 @@
     "Disable": {
         "message": "비활성화"
     },
+    "Disable_all_remaining_scripts_of_this_tag": {
+        "message": "이 태그의 나머지 모든 스크립트를 비활성화하려면 클릭하세요"
+    },
+    "Disable_all_scripts_of_this_tag": {
+        "message": "이 태그의 모든 스크립트를 비활성화하려면 클릭하세요"
+    },
+    "Disable_Updates": {
+        "message": "업데이트 비활성화"
+    },
     "Disabled": {
         "message": "비활성화됨"
     },
@@ -295,6 +319,12 @@
                 "content": "$1"
             }
         }
+    },
+    "Does_not_run_in_incognito_tabs": {
+        "message": "시크릿 모드 탭에서는 실행되지 않음"
+    },
+    "Does_not_run_in_normal_tabs": {
+        "message": "일반 탭에서는 실행되지 않음"
     },
     "Dont_ask_again": {
         "message": "다시 묻지 않기"
@@ -336,6 +366,12 @@
     },
     "Enable_Script_Sync": {
         "message": "TESLA 활성화"
+    },
+    "Enable_Tags": {
+        "message": "태그 활성화"
+    },
+    "Enable_all_scripts_of_this_tag": {
+        "message": "이 태그의 모든 스크립트를 활성화하려면 클릭하세요"
     },
     "Enable_autoSave": {
         "message": "에디터가 포커스를 잃었을 경우 자동 저장"
@@ -559,6 +595,9 @@
     "Never": {
         "message": "안 함"
     },
+    "New_Tag": {
+        "message": "새 태그"
+    },
     "New_script_template_": {
         "message": "새 유저 스크립트 템플릿"
     },
@@ -701,6 +740,9 @@
     "Remove": {
         "message": "제거"
     },
+    "Remove_Tag": {
+        "message": "태그 제거"
+    },
     "Replace": {
         "message": "찾아 바꾸기"
     },
@@ -737,6 +779,9 @@
     "Run_at": {
         "message": "실행 시점"
     },
+    "Run_in": {
+        "message": "실행 위치"
+    },
     "Run_syntax_check": {
         "message": "문법 검사 실행"
     },
@@ -752,6 +797,9 @@
     "Script_Blacklist_Source": {
         "message": "스크립트 블랙리스트 출처"
     },
+    "Script_Tags": {
+        "message": "스크립트 태그"
+    },
     "Script_URL_detection": {
         "message": "스크립트 URL 감지"
     },
@@ -760,6 +808,9 @@
     },
     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
         "message": "스크립트 제작자는 출처 URL에 SRI 해시를 더함으로써 외부 리소스를 안전하게 할 수 있습니다."
+    },
+    "Script_cookies_access": {
+        "message": "스크립트 쿠키 접근"
     },
     "Script_name_0name0": {
         "message": "스크립트 이름: $name$",
@@ -846,6 +897,9 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "스크립트 동기화 (Tampermonkey External Script List Access)"
     },
+    "System_Tags": {
+        "message": "시스템 태그"
+    },
     "TabMode": {
         "message": "탭 모드"
     },
@@ -854,6 +908,12 @@
     },
     "Tabs": {
         "message": "탭"
+    },
+    "Tag_Already_Exists": {
+        "message": "이 태그는 이미 존재합니다"
+    },
+    "Tags": {
+        "message": "태그"
     },
     "Tampermonkey_and_script_version": {
         "message": "Tampermonkey + 스크립트 버전"
@@ -869,6 +929,9 @@
     },
     "Tampermonkey_version": {
         "message": "Tampermonkey 버전만"
+    },
+    "Tampermonkey_won_t_inject_into_other_tab_types_anymore_": {
+        "message": "Tampermonkey가 다른 탭 유형에 주입되지 않습니다!"
     },
     "Temporarily_allow": {
         "message": "임시 허용"
@@ -945,6 +1008,9 @@
     },
     "This_script_stores_data": {
         "message": "이 스크립트는 Tampermonkey에 데이터를 저장합니다."
+    },
+    "This_tag_is_not_part_of_the_system_tag_list_": {
+        "message": "이 태그는 시스템 태그 목록에 포함되지 않습니다"
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "이는 현재 전체 설정을 덮어씌울 것입니다!"

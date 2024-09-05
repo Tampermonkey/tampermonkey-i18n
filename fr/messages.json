@@ -143,6 +143,12 @@
     "Add_TM_to_CSP": {
         "message": "Modifier les en-têtes de politique de sécurité de contenu (CSP) existants"
     },
+    "Add_Tag": {
+        "message": "Ajouter un tag"
+    },
+    "Add_Tag_to_System": {
+        "message": "Ajouter le tag à la liste du système"
+    },
     "Add_Tampermonkey_to_the_site_s_content_csp": {
         "message": "Ajouter Tampermonkey CSP de l'HTML"
     },
@@ -165,6 +171,9 @@
     },
     "All": {
         "message": "Tous"
+    },
+    "All_but_HttpOnly": {
+        "message": "Tous sauf HttpOnly"
     },
     "All_local_files": {
         "message": "Tous les fichiers locaux"
@@ -189,6 +198,12 @@
     },
     "Allow_once": {
         "message": "Autoriser une fois"
+    },
+    "Allow_scripts_to_run_scripts_in": {
+        "message": "Types d'onglets par défaut pour exécuter des scripts"
+    },
+    "Alltime_running_instances": {
+        "message": "Instances en cours d'exécution"
     },
     "Always": {
         "message": "Toujours"
@@ -270,6 +285,9 @@
     },
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Au moins l'une des instructions @include, @match ou @exclude a été modifiée."
+    },
+    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
+        "message": "Au moins une partie de cette page est dans le paramétrage 'Pages interdites' !"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Attention : La liste d'exclusion a été réduite.\nVeuillez la vérifier manuellement !"
@@ -388,6 +406,14 @@
     },
     "Clear_All": {
         "message": "Tout effacer"
+    },
+    "Click_here_to_allow_TM_to_access_the_following_hosts_0hostlist0": {
+        "message": "Veuillez cliquer sur OK afin d'autoriser Tampermonkey à accéder aux hébergeurs suivants :\n\n$hostlist$",
+        "placeholders": {
+            "hostlist": {
+                "content": "$1"
+            }
+        }
     },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Cliquez sur OK pour autoriser Tampermonkey à lancer des téléchargements instantanés."
@@ -541,6 +567,15 @@
     "Disable": {
         "message": "Désactiver"
     },
+    "Disable_all_remaining_scripts_of_this_tag": {
+        "message": "Cliquez pour désactiver tous les scripts restants de ce tag"
+    },
+    "Disable_all_scripts_of_this_tag": {
+        "message": "Cliquez pour désactiver tous les scripts de ce tag"
+    },
+    "Disable_Updates": {
+        "message": "Désactiver les mises à jour"
+    },
     "Disabled": {
         "message": "Désactivé"
     },
@@ -588,6 +623,9 @@
     },
     "Does_not_run_in_incognito_tabs": {
         "message": "Ne s'exécute pas en navigation privée"
+    },
+    "Does_not_run_in_normal_tabs": {
+        "message": "Ne s'exécute pas en onglets normaux"
     },
     "Dont_ask_again": {
         "message": "Ne plus demander"
@@ -641,6 +679,12 @@
     },
     "Enable_Script_Sync": {
         "message": "Activer la synchronisation des userscripts"
+    },
+    "Enable_Tags": {
+        "message": "Activer les tags"
+    },
+    "Enable_all_scripts_of_this_tag": {
+        "message": "Cliquez pour activer tous les scripts de ce tag"
     },
     "Enable_autoSave": {
         "message": "Activer l'enregistrement automatique"
@@ -1101,6 +1145,9 @@
     "Never": {
         "message": "Jamais"
     },
+    "New_Tag": {
+        "message": "Nouveau tag"
+    },
     "New_Version": {
         "message": "Nouvelle version"
     },
@@ -1301,6 +1348,9 @@
     "Remove": {
         "message": "Enlever"
     },
+    "Remove_Tag": {
+        "message": "Supprimer le tag"
+    },
     "Remove__possibly_unsecure_": {
         "message": "Enlever complètement (probablement non sécurisé)"
     },
@@ -1378,7 +1428,10 @@
         "message": "Révoquer le token d'accès"
     },
     "Run_at": {
-        "message": "Démarrer à :"
+        "message": "Démarrer à"
+    },
+    "Run_in": {
+        "message": "Exécuter dans"
     },
     "Run_syntax_check": {
         "message": "Démarrer une vérification de syntaxe"
@@ -1415,6 +1468,9 @@
     "Script_Sync": {
         "message": "Synchronisation du userscript"
     },
+    "Script_Tags": {
+        "message": "Tags de script"
+    },
     "Script_URL_detection": {
         "message": "Détection d'URL de userscript"
     },
@@ -1423,6 +1479,9 @@
     },
     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
         "message": "Les auteurs de scripts peuvent sécuriser des ressources externes en ajoutant un hachage SRI à l'URL source."
+    },
+    "Script_cookies_access": {
+        "message": "Autoriser les scripts à accéder aux cookies"
     },
     "Script_local_files_access": {
         "message": "Autoriser les scripts à accéder aux fichiers locaux"
@@ -1581,6 +1640,9 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Synchronisez vos scripts entre navigateurs et systèmes d'exploitation"
     },
+    "System_Tags": {
+        "message": "Tags système"
+    },
     "TabMode": {
         "message": "Mode onglet"
     },
@@ -1592,6 +1654,12 @@
     },
     "Tabs": {
         "message": "Tabulations"
+    },
+    "Tag_Already_Exists": {
+        "message": "Ce tag existe déjà"
+    },
+    "Tags": {
+        "message": "Tags"
     },
     "Tam": {
         "message": "Tam",
@@ -1614,6 +1682,9 @@
     },
     "Tampermonkey_version": {
         "message": "Version Tampermonkey seulement"
+    },
+    "Tampermonkey_won_t_inject_into_other_tab_types_anymore_": {
+        "message": "Tampermonkey n'injectera plus dans d'autres types d'onglets !"
     },
     "Templates": {
         "message": "Modèles"
@@ -1746,6 +1817,9 @@
     },
     "This_script_was_not_executed_yet": {
         "message": "Ce script n'a pas encore été exécuté"
+    },
+    "This_tag_is_not_part_of_the_system_tag_list_": {
+        "message": "Ce tag ne fait pas partie de la liste des tags système"
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "Ceci va écraser vos paramètres globaux!"

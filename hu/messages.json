@@ -43,6 +43,12 @@
     "Add_TM_to_CSP": {
         "message": "Add hozzá a Tampermonkey-t az oldal tartalmi biztonság irányelvéhez (TBI), ha van ilyen"
     },
+    "Add_Tag": {
+        "message": "Címke hozzáadása"
+    },
+    "Add_Tag_to_System": {
+        "message": "Címke hozzáadása a rendszer listájához"
+    },
     "Add_as_0clude0": {
         "message": "Adj meg egy $clude$",
         "placeholders": {
@@ -57,6 +63,9 @@
     "Advanced": {
         "message": "Haladó"
     },
+    "All_but_HttpOnly": {
+        "message": "Minden kivéve a védett sütik (HttpOnly)"
+    },
     "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
         "message": "Minden módosítás csak addig van tárolva, amíg ez az inkognitó mód be nem zárul!"
     },
@@ -68,6 +77,9 @@
     },
     "Allow_headers_to_be_modified_by_scripts": {
         "message": "HTTP fejlécek szkript általi módosításának engedélyezése"
+    },
+    "Alltime_running_instances": {
+        "message": "Futó példányok"
     },
     "Always": {
         "message": "Mindig"
@@ -92,6 +104,9 @@
     },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Amikor a böngésződ a Tampermonkey-t frissíti akkor újra az újra is indítja. Sajnos, ez lehet, hogy elrontja az éppen futó szkripteket! \n\n Tehát biztos, hogy nem akarsz értesülni a frissítésekről?"
+    },
+    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
+        "message": "Az oldal legalább egy része a 'tiltott oldalak' beállítások alatt szerepel!"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Figyelem: A kizáró lista megrövidült.\nKérlek, ellenőrizd manuálisan!"
@@ -215,6 +230,15 @@
     "Disable": {
         "message": "Kikapcsolva"
     },
+    "Disable_all_remaining_scripts_of_this_tag": {
+        "message": "Kattintson ide az összes megmaradt szkript letiltásához ehhez a címkéhez"
+    },
+    "Disable_all_scripts_of_this_tag": {
+        "message": "Kattintson ide az összes szkript letiltásához ehhez a címkéhez"
+    },
+    "Disable_Updates": {
+        "message": "Frissítések kikapcsolása"
+    },
     "Disabled": {
         "message": "Kikapcsolva "
     },
@@ -225,6 +249,12 @@
                 "content": "$1"
             }
         }
+    },
+    "Does_not_run_in_incognito_tabs": {
+        "message": "Nem fut inkognitó tabulátorokban"
+    },
+    "Does_not_run_in_normal_tabs": {
+        "message": "Nem fut normál tabulátorokban"
     },
     "Dont_ask_me_for_simple_script_updates": {
         "message": "Egyszerű szkript frissítésekről ne kérdezz "
@@ -263,6 +293,12 @@
     },
     "Enable_Script_Sync": {
         "message": "KSLH bekapcsolása"
+    },
+    "Enable_Tags": {
+        "message": "Címkék engedélyezése"
+    },
+    "Enable_all_scripts_of_this_tag": {
+        "message": "Kattintson ide az összes szkript engedélyezéséhez ehhez a címkéhez"
     },
     "Enable_autoSave": {
         "message": "Tartalom mentése, ha a szerkesztő ki kerül a fókuszból "
@@ -450,6 +486,9 @@
     "Never": {
         "message": "Soha"
     },
+    "New_Tag": {
+        "message": "Új címke"
+    },
     "New_script_template_": {
         "message": "Új userscript sablon"
     },
@@ -557,6 +596,9 @@
     "Remove": {
         "message": "Töröl"
     },
+    "Remove_Tag": {
+        "message": "Címke eltávolítása"
+    },
     "Replace": {
         "message": "Lecserél"
     },
@@ -584,6 +626,9 @@
     "Run_at": {
         "message": "Futtasd ekkor"
     },
+    "Run_in": {
+        "message": "Futtasd ebben"
+    },
     "Run_syntax_check": {
         "message": "Szintakszis ellenőrzés"
     },
@@ -602,11 +647,17 @@
     "Script_Sync": {
         "message": "KSLH"
     },
+    "Script_Tags": {
+        "message": "Szkript címkék"
+    },
     "Script_URL_detection": {
         "message": "Szkript URL felismerés"
     },
     "Script_Update": {
         "message": "Szkript frissítés"
+    },
+    "Script_cookies_access": {
+        "message": "Szkript sütik hozzáférés"
     },
     "Script_name_0name0": {
         "message": "Szkript neve: $name$",
@@ -670,17 +721,29 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "Szkript szinkronizáció (Tampermonkey Külső Szkript Lista Hozzáférés)"
     },
+    "System_Tags": {
+        "message": "Rendszer címkék"
+    },
     "TabMode": {
         "message": "Tabulátor-mód"
     },
     "Tabs": {
         "message": "Tabulátort"
     },
+    "Tag_Already_Exists": {
+        "message": "Ez a címke már létezik"
+    },
+    "Tags": {
+        "message": "Címkék"
+    },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "A Tampermonkey –nak nincs jogosultsága a helyi fájlokhoz!"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "A Tampermonkey lehet hogy nem tud hozzáférést nyújtani nem biztonságos kontextushoz (unsafeWindow, oldal funkciók és változók) ha ez ki van kapcsolva."
+    },
+    "Tampermonkey_won_t_inject_into_other_tab_types_anymore_": {
+        "message": "A Tampermonkey nem fog beinjektálni más tabulátor típusokba!"
     },
     "Temporary": {
         "message": "Idéglenesen"
@@ -742,6 +805,9 @@
     },
     "This_script_stores_data": {
         "message": "Ez a szkript adatokat tárol."
+    },
+    "This_tag_is_not_part_of_the_system_tag_list_": {
+        "message": "Ez a címke nem része a rendszer címkelistájának"
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "Ez felül fogja írni a globális beállításokat!"

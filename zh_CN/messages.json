@@ -144,6 +144,12 @@
     "Add_TM_to_CSP": {
         "message": "修改内容安全策略（CSP）头信息"
     },
+    "Add_Tag": {
+        "message": "添加标签"
+    },
+    "Add_Tag_to_System": {
+        "message": "将标签添加到系统列表"
+    },
     "Add_Tampermonkey_to_the_site_s_content_csp": {
         "message": "篡改猴加入到 HTML 的内容安全策略（CSP）中"
     },
@@ -163,6 +169,9 @@
     },
     "Advanced": {
         "message": "高级"
+    },
+    "All_but_HttpOnly": {
+        "message": "除了 HttpOnly"
     },
     "All_local_files": {
         "message": "所有本地文件"
@@ -187,6 +196,12 @@
     },
     "Allow_once": {
         "message": "允许一次"
+    },
+    "Allow_scripts_to_run_scripts_in": {
+        "message": "默认的执行脚本的标签类型"
+    },
+    "Alltime_running_instances": {
+        "message": "运行实例"
     },
     "Always": {
         "message": "总是"
@@ -264,6 +279,9 @@
     },
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "至少有一个 @include、@match 或 @exclude 语句被更改。"
+    },
+    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
+        "message": "此页面的一部分已被列入“禁止页面”设置！"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "注意：排除 URL 列表被折叠显示。请手动确认！"
@@ -382,6 +400,14 @@
     },
     "Clear_All": {
         "message": "清除全部"
+    },
+    "Click_here_to_allow_TM_to_access_the_following_hosts_0hostlist0": {
+        "message": "请点击“确定”来允许篡改猴访问以下站点：\n\n$hostlist$",
+        "placeholders": {
+            "hostlist": {
+                "content": "$1"
+            }
+        }
     },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "点击“确定”允许篡改猴立即开始下载。"
@@ -523,6 +549,15 @@
     "Disable": {
         "message": "禁用"
     },
+    "Disable_all_remaining_scripts_of_this_tag": {
+        "message": "点击禁用该标签的所有剩余脚本"
+    },
+    "Disable_all_scripts_of_this_tag": {
+        "message": "点击禁用该标签的所有脚本"
+    },
+    "Disable_Updates": {
+        "message": "禁用更新"
+    },
     "Disabled": {
         "message": "已禁用"
     },
@@ -542,6 +577,9 @@
     },
     "Does_not_run_in_incognito_tabs": {
         "message": "不在隐身模式标签内执行"
+    },
+    "Does_not_run_in_normal_tabs": {
+        "message": "不在普通标签内执行"
     },
     "Dont_ask_again": {
         "message": "不再询问"
@@ -595,6 +633,12 @@
     },
     "Enable_Script_Sync": {
         "message": "启用脚本同步"
+    },
+    "Enable_Tags": {
+        "message": "启用标签"
+    },
+    "Enable_all_scripts_of_this_tag": {
+        "message": "点击启用该标签的所有脚本"
     },
     "Enable_autoSave": {
         "message": "编辑器失去焦点时保存内容"
@@ -983,6 +1027,9 @@
     "Never": {
         "message": "从不"
     },
+    "New_Tag": {
+        "message": "新标签"
+    },
     "New_Version": {
         "message": "新版本"
     },
@@ -1173,6 +1220,9 @@
     "Remove": {
         "message": "删除"
     },
+    "Remove_Tag": {
+        "message": "移除标签"
+    },
     "Remove__possibly_unsecure_": {
         "message": "全部移除（可能不安全）"
     },
@@ -1230,6 +1280,9 @@
     "Run_at": {
         "message": "运行时期"
     },
+    "Run_in": {
+        "message": "运行于"
+    },
     "Run_syntax_check": {
         "message": "运行语法检查"
     },
@@ -1259,6 +1312,9 @@
     "Script_Sync": {
         "message": "同步脚本"
     },
+    "Script_Tags": {
+        "message": "脚本标签"
+    },
     "Script_URL_detection": {
         "message": "脚本URL检测"
     },
@@ -1267,6 +1323,9 @@
     },
     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
         "message": "脚本作者可通过添加 SRI hash 到源 URL 来保证外部资源的安全性。"
+    },
+    "Script_cookies_access": {
+        "message": "允许脚本访问 Cookie"
     },
     "Script_local_files_access": {
         "message": "允许脚本访问本地文件"
@@ -1428,6 +1487,9 @@
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
         "message": "在不同的操作系统和浏览器间同步你的脚本"
     },
+    "System_Tags": {
+        "message": "系统标签"
+    },
     "TabMode": {
         "message": "标签类型"
     },
@@ -1438,6 +1500,12 @@
         "message": "标签 URL"
     },
     "Tabs": {
+        "message": "标签"
+    },
+    "Tag_Already_Exists": {
+        "message": "该标签已存在"
+    },
+    "Tags": {
         "message": "标签"
     },
     "Tampermonkey_and_script_version": {
@@ -1457,6 +1525,9 @@
     },
     "Tampermonkey_version": {
         "message": "仅篡改猴版本"
+    },
+    "Tampermonkey_won_t_inject_into_other_tab_types_anymore_": {
+        "message": "篡改猴将不再注入其他标签类型！"
     },
     "Templates": {
         "message": "模板"
@@ -1579,6 +1650,9 @@
     },
     "This_script_was_not_executed_yet": {
         "message": "此脚本还未被执行"
+    },
+    "This_tag_is_not_part_of_the_system_tag_list_": {
+        "message": "该标签不在系统标签列表中"
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "这将覆盖您的全局设置！"
