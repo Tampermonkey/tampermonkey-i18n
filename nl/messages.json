@@ -209,9 +209,6 @@
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Minstens één van de @include-, @match- of @exclude-verklaringen zijn gewijzigd."
     },
-    "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-        "message": "Minstens een deel van deze pagina is in de verboden pagina's-instelling!"
-    },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Let op: De exclude-lijst is ingekort.\nControleer hem alstub,ieft handmatig!"
     },

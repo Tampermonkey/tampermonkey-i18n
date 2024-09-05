@@ -93,9 +93,6 @@
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Amikor a böngésződ a Tampermonkey-t frissíti akkor újra az újra is indítja. Sajnos, ez lehet, hogy elrontja az éppen futó szkripteket! \n\n Tehát biztos, hogy nem akarsz értesülni a frissítésekről?"
     },
-    "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-        "message": "Az oldal legalább egy része a 'tiltott oldalak' beállítások alatt szerepel!"
-    },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Figyelem: A kizáró lista megrövidült.\nKérlek, ellenőrizd manuálisan!"
     },

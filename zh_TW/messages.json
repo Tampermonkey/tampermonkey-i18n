@@ -125,54 +125,6 @@
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
         "message": "使用者腳本需要取得跨網域資源。"
     },
-    "There_are_no_active_scripts__Do_you_want_to_search_for_userscripts_": {
-        "description": "服務機器人詢問的問題",
-        "message": "沒有使用中的腳本。您要搜尋使用者腳本嗎？"
-    },
-    "Do_you_need_help_working_with_Tampermonkey_": {
-        "description": "服務機器人詢問的問題",
-        "message": "您需要關於使用竄改猴的協助嗎？"
-    },
-    "Do_you_need_help_installing_new_scripts_to_Tampermonkey_": {
-        "description": "服務機器人詢問的問題",
-        "message": "您需要關於在竄改猴安裝新腳本的協助嗎？"
-    },
-    "Would_you_like_to_know_how_to_overwrite_or_extend_a_script_s_includes_and_or_excludes_": {
-        "description": "服務機器人詢問的問題",
-        "message": "您想了解如何覆寫或擴充腳本的 ncludes 或 excludes 嗎？"
-    },
-    "Do_you_need_help_syncing_all_your_installed_scripts_to_another_browser_": {
-        "description": "服務機器人詢問的問題",
-        "message": "您需要關於同步已安裝腳本到其他瀏覽器的協助嗎？"
-    },
-    "Would_you_like_to_learn_how_to_export_and_import_your_scripts_": {
-        "description": "服務機器人詢問的問題",
-        "message": "您想了解如何匯出和匯入您的腳本嗎？"
-    },
-    "Do_you_want_to_know_how_to_allow_Tampermonkey_access_to_local_file_URIs_": {
-        "description": "服務機器人詢問的問題",
-        "message": "您想了解如何允許竄改猴存取本機檔案路徑嗎？"
-    },
-    "One_of_your_scripts_is_blacklisted__Would_you_like_to_know_why_": {
-        "description": "服務機器人詢問的問題",
-        "message": "您的其中一個腳本被列入黑名單了。您想知道為什麼嗎？"
-    },
-    "Do_you_need_help_viewing_and_editing_values_stored_by_a_userscript_": {
-        "description": "服務機器人詢問的問題",
-        "message": "您需要關於檢視或編輯由腳本儲存的數值的協助嗎？"
-    },
-    "Do_you_want_to_use_an_external_editor_to_edit_your_scripts__nWould_you_like_to_know_how_to_set_this_up_": {
-        "description": "服務機器人詢問的問題",
-        "message": "您是否想使用外部編輯器來編輯您的腳本？\n您想了解如何設定嗎？"
-    },
-    "Are_you_unsure_about_what__sandbox_value_to_use_": {
-        "description": "服務機器人詢問的問題",
-        "message": "您是否不確定要使用哪個 @sandbox 數值？"
-    },
-    "Do_you_need_help_finding_Tampermonkey_s_console_output_": {
-        "description": "服務機器人詢問的問題",
-        "message": "您需要關於尋找竄改猴的終端機輸出的協助嗎？"
-    },
     "Aborted_by_user": {
         "message": "遭使用者中止"
     },
@@ -318,6 +270,10 @@
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "篡改猴在瀏覽器更新後同時也重新啟動。這將會阻斷正在執行的腳本！\n\n您確定不要再提示更新嗎？"
     },
+    "Are_you_unsure_about_what__sandbox_value_to_use_": {
+        "description": "服務機器人詢問的問題",
+        "message": "您是否不確定要使用哪個 @sandbox 數值？"
+    },
     "Ask_if_unknown": {
         "message": "未知時才詢問我"
     },
@@ -326,9 +282,6 @@
     },
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "至少變更一個 @include、@match 或 @exclude 聲明。"
-    },
-    "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-        "message": "此網頁至少有一部分被列在「禁止的網頁」設定清單上！"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "注意：排除 URL(s) 列表變化。\n請手動檢查！"
@@ -448,14 +401,6 @@
     "Clear_All": {
         "message": "全部清除"
     },
-    "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
-        "message": "請點按「OK」以同意篡改猴存取以下的 hosts：\n\n$host_list$",
-        "placeholders": {
-            "host_list": {
-                "content": "$1"
-            }
-        }
-    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "點按此處以允許篡改猴開始下載。"
     },
@@ -536,6 +481,9 @@
     "Cut": {
         "message": "剪下"
     },
+    "DOM_mode_is_unsecure__Scripts_can_install_new_scripts_": {
+        "message": "\"DOM\" 沙盒模式不安全。執行中的腳本幾乎擁有所有擴充功能權限，甚至可以修改或安裝新腳本。"
+    },
     "Dashboard": {
         "message": "控制台 (Dashboard)"
     },
@@ -559,9 +507,6 @@
     },
     "Default_Light": {
         "message": "預設 - 淺色"
-    },
-    "Default_tab_types_to_run_scripts_in": {
-        "message": "要執行腳本的預設分頁類型"
     },
     "Delete": {
         "message": "刪除"
@@ -611,6 +556,26 @@
     "Disabled": {
         "message": "已停用"
     },
+    "Do_you_need_help_finding_Tampermonkey_s_console_output_": {
+        "description": "服務機器人詢問的問題",
+        "message": "您需要關於尋找竄改猴的終端機輸出的協助嗎？"
+    },
+    "Do_you_need_help_installing_new_scripts_to_Tampermonkey_": {
+        "description": "服務機器人詢問的問題",
+        "message": "您需要關於在竄改猴安裝新腳本的協助嗎？"
+    },
+    "Do_you_need_help_syncing_all_your_installed_scripts_to_another_browser_": {
+        "description": "服務機器人詢問的問題",
+        "message": "您需要關於同步已安裝腳本到其他瀏覽器的協助嗎？"
+    },
+    "Do_you_need_help_viewing_and_editing_values_stored_by_a_userscript_": {
+        "description": "服務機器人詢問的問題",
+        "message": "您需要關於檢視或編輯由腳本儲存的數值的協助嗎？"
+    },
+    "Do_you_need_help_working_with_Tampermonkey_": {
+        "description": "服務機器人詢問的問題",
+        "message": "您需要關於使用竄改猴的協助嗎？"
+    },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "選項 '$option$' 已啟用！\n\n真的要儲存修正過的原始碼嗎？",
         "placeholders": {
@@ -618,6 +583,14 @@
                 "content": "$1"
             }
         }
+    },
+    "Do_you_want_to_know_how_to_allow_Tampermonkey_access_to_local_file_URIs_": {
+        "description": "服務機器人詢問的問題",
+        "message": "您想了解如何允許竄改猴存取本機檔案路徑嗎？"
+    },
+    "Do_you_want_to_use_an_external_editor_to_edit_your_scripts__nWould_you_like_to_know_how_to_set_this_up_": {
+        "description": "服務機器人詢問的問題",
+        "message": "您是否想使用外部編輯器來編輯您的腳本？\n您想了解如何設定嗎？"
     },
     "Document_End": {
         "message": "文件結尾"
@@ -888,6 +861,12 @@
     "Google_Drive": {
         "message": "Google 雲端硬碟"
     },
+    "Grant_all": {
+        "message": "全部授予"
+    },
+    "Grant_selected": {
+        "message": "授予所選"
+    },
     "Group_Left": {
         "message": "上一個分界線"
     },
@@ -911,6 +890,9 @@
     },
     "Homepage": {
         "message": "首頁"
+    },
+    "Host_permissions_denied_by_user_": {
+        "message": "使用者拒絕的主機權限："
     },
     "I_contributed_already": {
         "message": "已經贊助"
@@ -1158,6 +1140,9 @@
     "No_frames": {
         "message": "只在最上層頁框執行"
     },
+    "No_previously_denied_runtime_host_permissions_found": {
+        "message": "未找到先前被拒絕的運行時主機權限"
+    },
     "No_script_is_installed": {
         "message": "無安裝任何的腳本"
     },
@@ -1202,6 +1187,10 @@
     },
     "One_error_or_hint_was_found_": {
         "message": "發現一個錯誤或提示。"
+    },
+    "One_of_your_scripts_is_blacklisted__Would_you_like_to_know_why_": {
+        "description": "服務機器人詢問的問題",
+        "message": "您的其中一個腳本被列入黑名單了。您想知道為什麼嗎？"
     },
     "One_or_more_compatibility_options_are_set": {
         "message": "此腳本已開啟一個或多個 Chrome 相容選項。您可以（應當）詳細檢查。"
@@ -1276,9 +1265,6 @@
     },
     "Raw_and_JavaScript": {
         "message": "Raw 和 JavaScript"
-    },
-    "DOM_mode_is_unsecure__Scripts_can_install_new_scripts_": {
-        "message": "\"DOM\" 沙盒模式不安全。執行中的腳本幾乎擁有所有擴充功能權限，甚至可以修改或安裝新腳本。"
     },
     "Really_delete_0name0__": {
         "message": "您確定要刪除 '$name$'？",
@@ -1376,11 +1362,17 @@
     "Report_an_issue_to_the_script_hoster_": {
         "message": "回報為垃圾或惡意腳本\n（可能需要登入）"
     },
+    "Requested_Host_Permissions": {
+        "message": "請求的主機權限"
+    },
     "Requires": {
         "message": "要求"
     },
     "Reset_Section": {
         "message": "重設"
+    },
+    "Reset_list": {
+        "message": "重設列表"
     },
     "Resources": {
         "message": "資源"
@@ -1405,6 +1397,9 @@
     },
     "Running_scripts": {
         "message": "執行中的腳本"
+    },
+    "Runtime_Host_Permissions": {
+        "message": "運行時主機權限"
     },
     "Sandbox_Mode": {
         "message": "沙盒模式"
@@ -1610,9 +1605,6 @@
     "Tab_URL": {
         "message": "Tab URL"
     },
-    "Tab_types": {
-        "message": "Tab 類型"
-    },
     "Tabs": {
         "message": "Tab"
     },
@@ -1690,6 +1682,10 @@
     },
     "Theme": {
         "message": "主題"
+    },
+    "There_are_no_active_scripts__Do_you_want_to_search_for_userscripts_": {
+        "description": "服務機器人詢問的問題",
+        "message": "沒有使用中的腳本。您要搜尋使用者腳本嗎？"
     },
     "There_are_unsaved_changed_": {
         "message": "還有未儲存的變更！\n確定要關閉編輯器嗎？"
@@ -1802,11 +1798,11 @@
     "Transpose": {
         "message": "重新排列"
     },
-    "Trash_bin": {
-        "message": "垃圾桶"
-    },
     "Trash_Mode": {
         "message": "回收模式"
+    },
+    "Trash_bin": {
+        "message": "垃圾桶"
     },
     "Treat_like__match": {
         "message": "視為 @match"
@@ -2006,6 +2002,14 @@
     "Windows": {
         "message": "Windows"
     },
+    "Would_you_like_to_know_how_to_overwrite_or_extend_a_script_s_includes_and_or_excludes_": {
+        "description": "服務機器人詢問的問題",
+        "message": "您想了解如何覆寫或擴充腳本的 ncludes 或 excludes 嗎？"
+    },
+    "Would_you_like_to_learn_how_to_export_and_import_your_scripts_": {
+        "description": "服務機器人詢問的問題",
+        "message": "您想了解如何匯出和匯入您的腳本嗎？"
+    },
     "XHR_Security": {
         "message": "XHR 安全性"
     },
@@ -2104,26 +2108,5 @@
     },
     "top_level_await": {
         "message": "最高層級 await"
-    },
-    "Grant_all": {
-        "message": "全部授予"
-    },
-    "Grant_selected": {
-        "message": "授予所選"
-    },
-    "Host_permissions_denied_by_user_": {
-        "message": "使用者拒絕的主機權限："
-    },
-    "No_previously_denied_runtime_host_permissions_found": {
-        "message": "未找到先前被拒絕的運行時主機權限"
-    },
-    "Requested_Host_Permissions": {
-        "message": "請求的主機權限"
-    },
-    "Reset_list": {
-        "message": "重設列表"
-    },
-    "Runtime_Host_Permissions": {
-        "message": "運行時主機權限"
     }
 }

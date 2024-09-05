@@ -80,54 +80,6 @@
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
         "message": "Một tâp lệnh người dùng muốn truy cập một tài nguyên xuyên nguồn gốc."
     },
-    "There_are_no_active_scripts__Do_you_want_to_search_for_userscripts_": {
-        "description": "A question asked by the service bot",
-        "message": "Không có tập lệnh nào đang hoạt động. Bạn có muốn tìm thêm tập lệnh người dùng không?"
-    },
-    "Do_you_need_help_working_with_Tampermonkey_": {
-        "description": "A question asked by the service bot",
-        "message": "Bạn có cần trợ giúp việc sử dụng Tampermonkey không?"
-    },
-    "Do_you_need_help_installing_new_scripts_to_Tampermonkey_": {
-        "description": "A question asked by the service bot",
-        "message": "Bạn có cần trợ giúp việc cài đặt tập lệnh mới vào Tampermonkey không?"
-    },
-    "Would_you_like_to_know_how_to_overwrite_or_extend_a_script_s_includes_and_or_excludes_": {
-        "description": "A question asked by the service bot",
-        "message": "Bạn có muốn biết làm cách nào để ghi đè hay mở rộng phần bao gồm hoặc loại trừ của một tập lệnh không?"
-    },
-    "Do_you_need_help_syncing_all_your_installed_scripts_to_another_browser_": {
-        "description": "A question asked by the service bot",
-        "message": "Bạn có cần trợ giúp việc đồng bộ tất cả các tập lệnh đã cài sang trình duyệt khác không?"
-    },
-    "Would_you_like_to_learn_how_to_export_and_import_your_scripts_": {
-        "description": "A question asked by the service bot",
-        "message": "Bạn có muốn tìm hiểu cách nhập và xuất các tập lệnh của bạn không?"
-    },
-    "Do_you_want_to_know_how_to_allow_Tampermonkey_access_to_local_file_URIs_": {
-        "description": "A question asked by the service bot",
-        "message": "Bạn có muốn biết cách cho phép Tampermonkey truy cập vào các URI tệp cục bộ không?"
-    },
-    "One_of_your_scripts_is_blacklisted__Would_you_like_to_know_why_": {
-        "description": "A question asked by the service bot",
-        "message": "Một trong số các tập lệnh của bạn bị cho vào danh sách đen. Bạn có muốn biết lí do không?"
-    },
-    "Do_you_need_help_viewing_and_editing_values_stored_by_a_userscript_": {
-        "description": "A question asked by the service bot",
-        "message": "Bạn có cần trợ giúp về việc xem và sửa các giá trị được lưu trữ bởi một tập lệnh người dùng không?"
-    },
-    "Do_you_want_to_use_an_external_editor_to_edit_your_scripts__nWould_you_like_to_know_how_to_set_this_up_": {
-        "description": "A question asked by the service bot",
-        "message": "Bạn có muốn sử dụng một trình soạn thảo bên ngoài để sửa tập lệnh của mình không?\nBạn có muốn biết làm thế nào để thiết lập không?"
-    },
-    "Are_you_unsure_about_what__sandbox_value_to_use_": {
-        "description": "A question asked by the service bot",
-        "message": "Bạn có không chắc nên dùng giá trị @sandbox nào hay không?"
-    },
-    "Do_you_need_help_finding_Tampermonkey_s_console_output_": {
-        "description": "A question asked by the service bot",
-        "message": "Bạn có cần trợ giúp về việc tìm đầu ra console của Tampermonkey không?"
-    },
     "Aborted_by_user": {
         "message": "Bị người dùng huỷ bỏ"
     },
@@ -273,6 +225,10 @@
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Khi Tampermonkey được cập nhật bởi trình duyệt của bạn, nó cũng sẽ khởi động lại. Không may là nó cỏ thể phá hỏng các tập lệnh đang chạy!\n\nBạn có chắc là bạn không muốn được thông báo về các cập nhật không?"
     },
+    "Are_you_unsure_about_what__sandbox_value_to_use_": {
+        "description": "A question asked by the service bot",
+        "message": "Bạn có không chắc nên dùng giá trị @sandbox nào hay không?"
+    },
     "Ask_if_unknown": {
         "message": "Hỏi nếu không biết"
     },
@@ -281,9 +237,6 @@
     },
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Ít nhất một câu lệnh @include, @match hoặc @exclude được thay đổi."
-    },
-    "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-        "message": "Ít nhất một phần của trang này được liệt kê tại thiêt đặt 'các trang bị cấm'!"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Chú ý: danh sách loại trừ đã được rút ngắn lại.\nHãy kiểm tra một cách thủ công!"
@@ -400,14 +353,6 @@
     "Clear_All": {
         "message": "Dọn hết"
     },
-    "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
-        "message": "Hãy nháy OK để cho phép Tampermonkey truy cập các máy lưu trữ sau:\n\n$host_list$",
-        "placeholders": {
-            "host_list": {
-                "content": "$1"
-            }
-        }
-    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Nháy OK để cho phép Tampermonkey tải xuống ngay lập tức."
     },
@@ -468,6 +413,9 @@
     "Cut": {
         "message": "Cắt"
     },
+    "DOM_mode_is_unsecure__Scripts_can_install_new_scripts_": {
+        "message": "Chế độ hộp cát \"DOM\" là không bảo mật. Những tập lệnh người dùng đang chạy sẽ có gần như mọi quyền mở rộng và còn có thể sửa đổi và cài đặt các tập lệnh người dùng khác."
+    },
     "Dashboard": {
         "message": "Bảng tổng quan"
     },
@@ -491,9 +439,6 @@
     },
     "Default_Light": {
         "message": "Mặc định - Sáng"
-    },
-    "Default_tab_types_to_run_scripts_in": {
-        "message": "Kiểu thẻ mặc định để chạy tập lệnh"
     },
     "Delete": {
         "message": "Xoá"
@@ -543,6 +488,26 @@
     "Disabled": {
         "message": "Đã tắt"
     },
+    "Do_you_need_help_finding_Tampermonkey_s_console_output_": {
+        "description": "A question asked by the service bot",
+        "message": "Bạn có cần trợ giúp về việc tìm đầu ra console của Tampermonkey không?"
+    },
+    "Do_you_need_help_installing_new_scripts_to_Tampermonkey_": {
+        "description": "A question asked by the service bot",
+        "message": "Bạn có cần trợ giúp việc cài đặt tập lệnh mới vào Tampermonkey không?"
+    },
+    "Do_you_need_help_syncing_all_your_installed_scripts_to_another_browser_": {
+        "description": "A question asked by the service bot",
+        "message": "Bạn có cần trợ giúp việc đồng bộ tất cả các tập lệnh đã cài sang trình duyệt khác không?"
+    },
+    "Do_you_need_help_viewing_and_editing_values_stored_by_a_userscript_": {
+        "description": "A question asked by the service bot",
+        "message": "Bạn có cần trợ giúp về việc xem và sửa các giá trị được lưu trữ bởi một tập lệnh người dùng không?"
+    },
+    "Do_you_need_help_working_with_Tampermonkey_": {
+        "description": "A question asked by the service bot",
+        "message": "Bạn có cần trợ giúp việc sử dụng Tampermonkey không?"
+    },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "Tuỳ chọn '$option$' đã được bật!\n\nBạn có thực sự muốn lưu trữ mã nguồn đã được sửa không?",
         "placeholders": {
@@ -550,6 +515,14 @@
                 "content": "$1"
             }
         }
+    },
+    "Do_you_want_to_know_how_to_allow_Tampermonkey_access_to_local_file_URIs_": {
+        "description": "A question asked by the service bot",
+        "message": "Bạn có muốn biết cách cho phép Tampermonkey truy cập vào các URI tệp cục bộ không?"
+    },
+    "Do_you_want_to_use_an_external_editor_to_edit_your_scripts__nWould_you_like_to_know_how_to_set_this_up_": {
+        "description": "A question asked by the service bot",
+        "message": "Bạn có muốn sử dụng một trình soạn thảo bên ngoài để sửa tập lệnh của mình không?\nBạn có muốn biết làm thế nào để thiết lập không?"
     },
     "Document_End": {
         "message": "Cuối tài liệu"
@@ -1030,6 +1003,9 @@
     "Modify": {
         "message": "Chỉnh sửa"
     },
+    "Modifying_a_script_will_disable_automatic_script_updates_": {
+        "message": "Sửa đổi một tập lệnh sẽ vô hiệu hoá cập nhật tập lệnh tự động!"
+    },
     "Move_Line_Down": {
         "message": "Chuyển dòng xuống"
     },
@@ -1111,6 +1087,10 @@
     "One_error_or_hint_was_found_": {
         "message": "Một lỗi hoặc gợi ý đã được tìm thấy."
     },
+    "One_of_your_scripts_is_blacklisted__Would_you_like_to_know_why_": {
+        "description": "A question asked by the service bot",
+        "message": "Một trong số các tập lệnh của bạn bị cho vào danh sách đen. Bạn có muốn biết lí do không?"
+    },
     "One_or_more_compatibility_options_are_set": {
         "message": "Một hoặc nhiều tùy chọn tương thích được thiết lập. Bạn có thể muốn/nên xem lại chúng."
     },
@@ -1187,9 +1167,6 @@
     },
     "Raw_and_JavaScript": {
         "message": "Thô và JavaScript"
-    },
-    "DOM_mode_is_unsecure__Scripts_can_install_new_scripts_": {
-        "message": "Chế độ hộp cát \"DOM\" là không bảo mật. Những tập lệnh người dùng đang chạy sẽ có gần như mọi quyền mở rộng và còn có thể sửa đổi và cài đặt các tập lệnh người dùng khác."
     },
     "Really_delete_0name0__": {
         "message": "Bạn có thực sự muốn xoá '$name$' không?",
@@ -1512,9 +1489,6 @@
     "Tab_URL": {
         "message": "URL thẻ"
     },
-    "Tab_types": {
-        "message": "Loại thẻ (tab)"
-    },
     "Tabs": {
         "message": "Các thẻ"
     },
@@ -1569,15 +1543,6 @@
     "The_origin_of_this_script_cant_be_determined_": {
         "message": "Cảnh báo: nguồn gốc của tập lệnh này không thể được xác định.\nCó thể nó đã được cài đặt bởi một bên thứ ba ác ý để lấy cắp dữ liệu cá nhân của bạn hoặc một số thiết đặt trình duyệt cơ bản, hệ điều hành hoặc phần cứng của bạn đã thay đổi! \n\nXin hãy mở, xem lại và lưu lại tập lệnh để kích hoạt nó."
     },
-    "The_script_was_successfully_deleted_": {
-        "message": "Tập lệnh đã bị xoá thành công."
-    },
-    "The_script_was_successfully_moved_to_the_trash_": {
-        "message": "Tập lệnh đã được đưa thành công vào thùng rác."
-    },
-    "Modifying_a_script_will_disable_automatic_script_updates_": {
-        "message": "Sửa đổi một tập lệnh sẽ vô hiệu hoá cập nhật tập lệnh tự động!"
-    },
     "The_script_was_modified_locally_on_0date0__Updating_it_will_overwrite_your_changes_": {
         "message": "Tập lệnh đã được sửa đổi cục bộ vào $date$. Cập nhật nó sẽ ghi đè các thay đổi của bạn!",
         "placeholders": {
@@ -1585,6 +1550,12 @@
                 "content": "$1"
             }
         }
+    },
+    "The_script_was_successfully_deleted_": {
+        "message": "Tập lệnh đã bị xoá thành công."
+    },
+    "The_script_was_successfully_moved_to_the_trash_": {
+        "message": "Tập lệnh đã được đưa thành công vào thùng rác."
     },
     "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
         "message": "URL cập nhật đã được thay đổi từ:\n    '$oldurl$'\n    thành:\n    '$newurl$'\n",
@@ -1599,6 +1570,10 @@
     },
     "Theme": {
         "message": "Chủ đề"
+    },
+    "There_are_no_active_scripts__Do_you_want_to_search_for_userscripts_": {
+        "description": "A question asked by the service bot",
+        "message": "Không có tập lệnh nào đang hoạt động. Bạn có muốn tìm thêm tập lệnh người dùng không?"
     },
     "There_are_unsaved_changed_": {
         "message": "Vẫn còn thay đổi chưa được lưu.\nBạn có thực sự muốn đóng trình chỉnh sửa?"
@@ -1714,11 +1689,11 @@
     "Transpose": {
         "message": "Chuyển vị"
     },
-    "Trash_bin": {
-        "message": "Thùng rác"
-    },
     "Trash_Mode": {
         "message": "Chế độ thùng rác"
+    },
+    "Trash_bin": {
+        "message": "Thùng rác"
     },
     "Treat_like__match": {
         "message": "Coi như @match"
@@ -1899,6 +1874,14 @@
     },
     "Whitelisted_Pages": {
         "message": "Các trang trong danh sách trắng"
+    },
+    "Would_you_like_to_know_how_to_overwrite_or_extend_a_script_s_includes_and_or_excludes_": {
+        "description": "A question asked by the service bot",
+        "message": "Bạn có muốn biết làm cách nào để ghi đè hay mở rộng phần bao gồm hoặc loại trừ của một tập lệnh không?"
+    },
+    "Would_you_like_to_learn_how_to_export_and_import_your_scripts_": {
+        "description": "A question asked by the service bot",
+        "message": "Bạn có muốn tìm hiểu cách nhập và xuất các tập lệnh của bạn không?"
     },
     "XHR_Security": {
         "message": "Bảo mật XHR"

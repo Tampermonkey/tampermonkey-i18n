@@ -215,9 +215,6 @@
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Mindst ét @include-, @match- eller @exclude-statement blev ændret."
     },
-    "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-        "message": "Mindst én del af denne side er angivet under indstillingen 'forbudte sider'!"
-    },
     "Attention_Can_not_display_all_excludes_": {
         "message": "OBS: Ekskluderingslisten blev forkortet.\nKontrollér den manuelt!"
     },
@@ -336,14 +333,6 @@
     "Clear_All": {
         "message": "Ryd alle"
     },
-    "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
-        "message": "Klik på OK for at give Tampermonkey adgang til følgende værter:\n\n$host_list$",
-        "placeholders": {
-            "host_list": {
-                "content": "$1"
-            }
-        }
-    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Klik på OK for at tillade Tampermonkey at starte øjeblikkelige downloads."
     },
@@ -421,6 +410,9 @@
     "Cut": {
         "message": "Klip"
     },
+    "DOM_mode_is_unsecure__Scripts_can_install_new_scripts_": {
+        "message": "\"DOM\"-sandkassetilstand er usikker. Kørsel af userscripts har næsten fuldstændige udvidelsesrettigheder og kan tilmed ændre og installere nye userscripts."
+    },
     "Dashboard": {
         "message": "Instrumentpanel"
     },
@@ -444,9 +436,6 @@
     },
     "Default_Light": {
         "message": "Standard - lys"
-    },
-    "Default_tab_types_to_run_scripts_in": {
-        "message": "Standard fanetyper som scripts skal køre i"
     },
     "Delete": {
         "message": "Slet"
@@ -1004,6 +993,9 @@
     "Modify": {
         "message": "Rediger"
     },
+    "Modifying_a_script_will_disable_automatic_script_updates_": {
+        "message": "Ændring af et script vil deaktivere automatiske opdateringer af scriptet!"
+    },
     "Move_Line_Down": {
         "message": "Flyt linje ned"
     },
@@ -1168,9 +1160,6 @@
     },
     "Raw_and_JavaScript": {
         "message": "Rå og JavaScript"
-    },
-    "DOM_mode_is_unsecure__Scripts_can_install_new_scripts_": {
-        "message": "\"DOM\"-sandkassetilstand er usikker. Kørsel af userscripts har næsten fuldstændige udvidelsesrettigheder og kan tilmed ændre og installere nye userscripts."
     },
     "Really_delete_0name0__": {
         "message": "Vil du virkelig slette '$name$'?",
@@ -1493,9 +1482,6 @@
     "Tab_URL": {
         "message": "Fane-URL"
     },
-    "Tab_types": {
-        "message": "Fanetyper"
-    },
     "Tabs": {
         "message": "Faner"
     },
@@ -1554,15 +1540,6 @@
     "The_origin_of_this_script_cant_be_determined_": {
         "message": "Advarsel: Oprindelsen af ​​dette script kan ikke bestemmes.\nEnten blev det installeret af en ondsindet tredjepart for at stjæle dine private data eller nogle grundlæggende browserindstillinger, eller også er dit operativsystem eller hardware blevet ændret!\n\nÅbn, gennemgå og gem scriptet for at aktivere det."
     },
-    "The_script_was_successfully_deleted_": {
-        "message": "Scriptet blev slettet."
-    },
-    "The_script_was_successfully_moved_to_the_trash_": {
-        "message": "Scriptet blev smidt i papirkurven."
-    },
-    "Modifying_a_script_will_disable_automatic_script_updates_": {
-        "message": "Ændring af et script vil deaktivere automatiske opdateringer af scriptet!"
-    },
     "The_script_was_modified_locally_on_0date0__Updating_it_will_overwrite_your_changes_": {
         "message": "Scriptet blev ændret lokalt $date$. Opdatering af det vil overskrive dine ændringer!",
         "placeholders": {
@@ -1570,6 +1547,12 @@
                 "content": "$1"
             }
         }
+    },
+    "The_script_was_successfully_deleted_": {
+        "message": "Scriptet blev slettet."
+    },
+    "The_script_was_successfully_moved_to_the_trash_": {
+        "message": "Scriptet blev smidt i papirkurven."
     },
     "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
         "message": "Opdateringswebadressen er ændret fra:\n    '$oldurl$'\n    til:\n    '$newurl$'\n",

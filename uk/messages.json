@@ -212,9 +212,6 @@
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Принаймні один з виразів @include, @match або @exclude було змінено."
     },
-    "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-        "message": "Принаймні одна частина цієї сторінки вказана в налаштуванні 'заборонені сторінки'!"
-    },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Увага: список винятків був скорочений.\nПеревірте його вручну!"
     },
@@ -321,14 +318,6 @@
     },
     "Clear_All": {
         "message": "Видалити всі"
-    },
-    "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
-        "message": "Будь ласка, натисніть OK, щоб Tampermonkey міг отримати доступ до наступних хостів:\n\n$host_list$",
-        "placeholders": {
-            "host_list": {
-                "content": "$1"
-            }
-        }
     },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Натисніть ОК, щоб підтвердити свою згоду Tampermonkey завантажувати файли без запиту."

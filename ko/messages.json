@@ -145,9 +145,6 @@
     "Ask_if_unknown": {
         "message": "모를 때 물어보기"
     },
-    "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-        "message": "이 페이지의 적어도 한 부분이 '금지된 페이지' 설정에 올라 있습니다!"
-    },
     "Author": {
         "message": "작성자"
     },

@@ -265,9 +265,6 @@
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "至少有一个 @include、@match 或 @exclude 语句被更改。"
     },
-    "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-        "message": "此页面的一部分已被列入“禁止页面”设置！"
-    },
     "Attention_Can_not_display_all_excludes_": {
         "message": "注意：排除 URL 列表被折叠显示。请手动确认！"
     },
@@ -386,14 +383,6 @@
     "Clear_All": {
         "message": "清除全部"
     },
-    "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
-        "message": "请点击“确定”来允许篡改猴访问以下站点：\n\n$host_list$",
-        "placeholders": {
-            "host_list": {
-                "content": "$1"
-            }
-        }
-    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "点击“确定”允许篡改猴立即开始下载。"
     },
@@ -488,9 +477,6 @@
     },
     "Default_Light": {
         "message": "默认 - 亮色"
-    },
-    "Default_tab_types_to_run_scripts_in": {
-        "message": "默认的执行脚本的标签类型"
     },
     "Delete": {
         "message": "删除"
@@ -767,6 +753,12 @@
     "Google_Drive": {
         "message": "Google Drive"
     },
+    "Grant_all": {
+        "message": "全部授予"
+    },
+    "Grant_selected": {
+        "message": "授予所选"
+    },
     "Group_Left": {
         "message": "单词左侧"
     },
@@ -790,6 +782,9 @@
     },
     "Homepage": {
         "message": "主页"
+    },
+    "Host_permissions_denied_by_user_": {
+        "message": "用户拒绝的主机权限："
     },
     "I_contributed_already": {
         "message": "我已支持"
@@ -1015,6 +1010,9 @@
     "No_frames": {
         "message": "仅在顶层页面（框架）运行"
     },
+    "No_previously_denied_runtime_host_permissions_found": {
+        "message": "未找到以前被拒绝的运行时主机权限"
+    },
     "No_script_is_installed": {
         "message": "没有安装任何脚本"
     },
@@ -1202,11 +1200,17 @@
     "Report_an_issue_to_the_script_hoster_": {
         "message": "问题反馈。\n（可能需要注册一个账户）"
     },
+    "Requested_Host_Permissions": {
+        "message": "请求的主机权限"
+    },
     "Requires": {
         "message": "要求"
     },
     "Reset_Section": {
         "message": "重置"
+    },
+    "Reset_list": {
+        "message": "重置列表"
     },
     "Resources": {
         "message": "资源"
@@ -1231,6 +1235,9 @@
     },
     "Running_scripts": {
         "message": "运行的脚本实例"
+    },
+    "Runtime_Host_Permissions": {
+        "message": "运行时主机权限"
     },
     "Save": {
         "message": "保存"
@@ -1430,9 +1437,6 @@
     "Tab_URL": {
         "message": "标签 URL"
     },
-    "Tab_types": {
-        "message": "标签类型"
-    },
     "Tabs": {
         "message": "标签"
     },
@@ -1612,11 +1616,11 @@
     "Transpose": {
         "message": "变换"
     },
-    "Trash_bin": {
-        "message": "垃圾箱"
-    },
     "Trash_Mode": {
         "message": "垃圾箱模式"
+    },
+    "Trash_bin": {
+        "message": "垃圾箱"
     },
     "Trigger_Update": {
         "message": "触发一次更新"
@@ -1874,26 +1878,5 @@
     },
     "top_level_await": {
         "message": "top-level await"
-    },
-    "Grant_all": {
-        "message": "全部授予"
-    },
-    "Grant_selected": {
-        "message": "授予所选"
-    },
-    "Host_permissions_denied_by_user_": {
-        "message": "用户拒绝的主机权限："
-    },
-    "No_previously_denied_runtime_host_permissions_found": {
-        "message": "未找到以前被拒绝的运行时主机权限"
-    },
-    "Requested_Host_Permissions": {
-        "message": "请求的主机权限"
-    },
-    "Reset_list": {
-        "message": "重置列表"
-    },
-    "Runtime_Host_Permissions": {
-        "message": "运行时主机权限"
     }
 }

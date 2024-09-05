@@ -113,54 +113,6 @@
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
         "message": "Пользовательский скрипт хочет получить доступ к стороннему ресурсу."
     },
-    "There_are_no_active_scripts__Do_you_want_to_search_for_userscripts_": {
-        "description": "Вопрос, заданный сервисным ботом",
-        "message": "Активных скриптов нет. Вы хотите выполнить поиск по пользовательским скриптам?"
-    },
-    "Do_you_need_help_working_with_Tampermonkey_": {
-        "description": "Вопрос, заданный сервисным ботом",
-        "message": "Вам нужна помощь в работе с Tampermonkey?"
-    },
-    "Do_you_need_help_installing_new_scripts_to_Tampermonkey_": {
-        "description": "Вопрос, заданный сервисным ботом",
-        "message": "Вам нужна помощь в установке новых скриптов в Tampermonkey?"
-    },
-    "Would_you_like_to_know_how_to_overwrite_or_extend_a_script_s_includes_and_or_excludes_": {
-        "description": "Вопрос, заданный сервисным ботом",
-        "message": "Хотели бы вы знать, как перезаписать или расширить список включений и/или исключений скрипта?"
-    },
-    "Do_you_need_help_syncing_all_your_installed_scripts_to_another_browser_": {
-        "description": "Вопрос, заданный сервисным ботом",
-        "message": "Вам нужна помощь в синхронизации всех установленных вами скриптов с другим браузером?"
-    },
-    "Would_you_like_to_learn_how_to_export_and_import_your_scripts_": {
-        "description": "Вопрос, заданный сервисным ботом",
-        "message": "Хотели бы вы узнать, как экспортировать и импортировать ваши скрипты?"
-    },
-    "Do_you_want_to_know_how_to_allow_Tampermonkey_access_to_local_file_URIs_": {
-        "description": "Вопрос, заданный сервисным ботом",
-        "message": "Вы хотите знать, как разрешить Tampermonkey доступ к локальным файловым URI (унифицированный идентификатор ресурса)?"
-    },
-    "One_of_your_scripts_is_blacklisted__Would_you_like_to_know_why_": {
-        "description": "Вопрос, заданный сервисным ботом",
-        "message": "Один из ваших скриптов занесён в чёрный список. Хотите знать, почему?"
-    },
-    "Do_you_need_help_viewing_and_editing_values_stored_by_a_userscript_": {
-        "description": "Вопрос, заданный сервисным ботом",
-        "message": "Вам нужна помощь в просмотре и правке значений, сохранённых пользовательским скриптом?"
-    },
-    "Do_you_want_to_use_an_external_editor_to_edit_your_scripts__nWould_you_like_to_know_how_to_set_this_up_": {
-        "description": "Вопрос, заданный сервисным ботом",
-        "message": "Вы хотите использовать внешний редактор для правки своих скриптов?\nХотите узнать, как это настроить?"
-    },
-    "Are_you_unsure_about_what__sandbox_value_to_use_": {
-        "description": "Вопрос, заданный сервисным ботом",
-        "message": "Вы не уверены в том, какое значение @sandbox использовать?"
-    },
-    "Do_you_need_help_finding_Tampermonkey_s_console_output_": {
-        "description": "Вопрос, заданный сервисным ботом",
-        "message": "Вам нужна помощь в поиске вывода консоли Tampermonkey?"
-    },
     "Aborted_by_user": {
         "message": "Прервано пользователем"
     },
@@ -306,6 +258,10 @@
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Когда Tampermonkey обновится, он будет перезапущен. Во время перезапуска скрипты временно не будут работать!\n\nВы уверены, что не хотите получать уведомления об обновлениях?"
     },
+    "Are_you_unsure_about_what__sandbox_value_to_use_": {
+        "description": "Вопрос, заданный сервисным ботом",
+        "message": "Вы не уверены в том, какое значение @sandbox использовать?"
+    },
     "Ask_if_unknown": {
         "message": "Спросить, если неизвестно"
     },
@@ -314,9 +270,6 @@
     },
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Как минимум одно из выражений @include, @match или @exclude было изменено."
-    },
-    "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-        "message": "Как минимум одна часть этой страницы указана в настройке 'запрещённые страницы'!"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Внимание: список исключений был сокращён.\nПроверьте его вручную!"
@@ -436,14 +389,6 @@
     "Clear_All": {
         "message": "Удалить все"
     },
-    "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
-        "message": "Нажмите OK, чтобы разрешить Tampermonkey доступ к следующим хостам:\n\n$host_list$",
-        "placeholders": {
-            "host_list": {
-                "content": "$1"
-            }
-        }
-    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Нажмите ОК, чтобы разрешить Tampermonkey загружать файлы без запроса."
     },
@@ -524,6 +469,9 @@
     "Cut": {
         "message": "Вырезать"
     },
+    "DOM_mode_is_unsecure__Scripts_can_install_new_scripts_": {
+        "message": "Режим песочницы \"DOM\" незащищён. Запущенные пользовательские скрипты имеют почти полные права на расширение и могут даже изменять и устанавливать новые пользовательские скрипты."
+    },
     "Dashboard": {
         "message": "Панель управления"
     },
@@ -547,9 +495,6 @@
     },
     "Default_Light": {
         "message": "По умолчанию - Светлая"
-    },
-    "Default_tab_types_to_run_scripts_in": {
-        "message": "Типы вкладок по умолчанию для запуска скриптов"
     },
     "Delete": {
         "message": "Удалить"
@@ -599,6 +544,26 @@
     "Disabled": {
         "message": "Отключено"
     },
+    "Do_you_need_help_finding_Tampermonkey_s_console_output_": {
+        "description": "Вопрос, заданный сервисным ботом",
+        "message": "Вам нужна помощь в поиске вывода консоли Tampermonkey?"
+    },
+    "Do_you_need_help_installing_new_scripts_to_Tampermonkey_": {
+        "description": "Вопрос, заданный сервисным ботом",
+        "message": "Вам нужна помощь в установке новых скриптов в Tampermonkey?"
+    },
+    "Do_you_need_help_syncing_all_your_installed_scripts_to_another_browser_": {
+        "description": "Вопрос, заданный сервисным ботом",
+        "message": "Вам нужна помощь в синхронизации всех установленных вами скриптов с другим браузером?"
+    },
+    "Do_you_need_help_viewing_and_editing_values_stored_by_a_userscript_": {
+        "description": "Вопрос, заданный сервисным ботом",
+        "message": "Вам нужна помощь в просмотре и правке значений, сохранённых пользовательским скриптом?"
+    },
+    "Do_you_need_help_working_with_Tampermonkey_": {
+        "description": "Вопрос, заданный сервисным ботом",
+        "message": "Вам нужна помощь в работе с Tampermonkey?"
+    },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "Параметр '$option$' включён!\n\nСохранить изменения в коде?",
         "placeholders": {
@@ -606,6 +571,14 @@
                 "content": "$1"
             }
         }
+    },
+    "Do_you_want_to_know_how_to_allow_Tampermonkey_access_to_local_file_URIs_": {
+        "description": "Вопрос, заданный сервисным ботом",
+        "message": "Вы хотите знать, как разрешить Tampermonkey доступ к локальным файловым URI (унифицированный идентификатор ресурса)?"
+    },
+    "Do_you_want_to_use_an_external_editor_to_edit_your_scripts__nWould_you_like_to_know_how_to_set_this_up_": {
+        "description": "Вопрос, заданный сервисным ботом",
+        "message": "Вы хотите использовать внешний редактор для правки своих скриптов?\nХотите узнать, как это настроить?"
     },
     "Document_End": {
         "message": "В конец документа"
@@ -876,6 +849,12 @@
     "Google_Drive": {
         "message": "Google Диск"
     },
+    "Grant_all": {
+        "message": "Предоставить все"
+    },
+    "Grant_selected": {
+        "message": "Предоставить выбранное"
+    },
     "Group_Left": {
         "message": "Слева от группы"
     },
@@ -899,6 +878,9 @@
     },
     "Homepage": {
         "message": "Ссылки"
+    },
+    "Host_permissions_denied_by_user_": {
+        "message": "Разрешения хоста отклонены пользователем:"
     },
     "I_contributed_already": {
         "message": "Уже поддержал"
@@ -1104,6 +1086,9 @@
     "Modify": {
         "message": "Изменить"
     },
+    "Modifying_a_script_will_disable_automatic_script_updates_": {
+        "message": "Изменение скрипта приведёт к отключению автоматического обновления скрипта!"
+    },
     "Move_Line_Down": {
         "message": "Переместить ниже"
     },
@@ -1145,6 +1130,9 @@
     },
     "No_frames": {
         "message": "Запускать только в верхнем фрейме"
+    },
+    "No_previously_denied_runtime_host_permissions_found": {
+        "message": "Ранее отклоненных разрешений хоста во время выполнения не найдено"
     },
     "No_script_is_installed": {
         "message": "Скрипт не установлен"
@@ -1190,6 +1178,10 @@
     },
     "One_error_or_hint_was_found_": {
         "message": "Найдена одна ошибка или предупреждение."
+    },
+    "One_of_your_scripts_is_blacklisted__Would_you_like_to_know_why_": {
+        "description": "Вопрос, заданный сервисным ботом",
+        "message": "Один из ваших скриптов занесён в чёрный список. Хотите знать, почему?"
     },
     "One_or_more_compatibility_options_are_set": {
         "message": "Один или несколько параметров совместимости установлены. Взгляните на них."
@@ -1267,9 +1259,6 @@
     },
     "Raw_and_JavaScript": {
         "message": "Raw и JavaScript"
-    },
-    "DOM_mode_is_unsecure__Scripts_can_install_new_scripts_": {
-        "message": "Режим песочницы \"DOM\" незащищён. Запущенные пользовательские скрипты имеют почти полные права на расширение и могут даже изменять и устанавливать новые пользовательские скрипты."
     },
     "Really_delete_0name0__": {
         "message": "Удалить '$name$'?",
@@ -1367,11 +1356,17 @@
     "Report_an_issue_to_the_script_hoster_": {
         "message": "Сообщить о нарушении.\n(Может потребоваться аккаунт)"
     },
+    "Requested_Host_Permissions": {
+        "message": "Запрошенные разрешения хоста"
+    },
     "Requires": {
         "message": "Требования"
     },
     "Reset_Section": {
         "message": "Сброс"
+    },
+    "Reset_list": {
+        "message": "Сбросить список"
     },
     "Resources": {
         "message": "Ресурсы"
@@ -1396,6 +1391,9 @@
     },
     "Running_scripts": {
         "message": "Число запущенных скриптов"
+    },
+    "Runtime_Host_Permissions": {
+        "message": "Разрешения хоста во время выполнения"
     },
     "Sandbox_Mode": {
         "message": "Режим песочницы"
@@ -1598,9 +1596,6 @@
     "Tab_URL": {
         "message": "URL вкладки"
     },
-    "Tab_types": {
-        "message": "Типы вкладок"
-    },
     "Tabs": {
         "message": "Табуляций"
     },
@@ -1659,15 +1654,6 @@
     "The_origin_of_this_script_cant_be_determined_": {
         "message": "Предупреждение: Невозможно определить происхождение этого скрипта.\nВозможно он был установлен злоумышленником для кражи ваших личных данных, либо изменились некоторые базовые настройки браузера, вашей операционной системы или аппаратного обеспечения.\n\nОткройте и изучите скрипт, затем сохраните его, чтобы включить."
     },
-    "The_script_was_successfully_deleted_": {
-        "message": "Скрипт был успешно удалён."
-    },
-    "The_script_was_successfully_moved_to_the_trash_": {
-        "message": "Скрипт был успешно перемещён в корзину."
-    },
-    "Modifying_a_script_will_disable_automatic_script_updates_": {
-        "message": "Изменение скрипта приведёт к отключению автоматического обновления скрипта!"
-    },
     "The_script_was_modified_locally_on_0date0__Updating_it_will_overwrite_your_changes_": {
         "message": "Скрипт был изменён локально $date$. При обновлении ваши изменения будут перезаписаны!",
         "placeholders": {
@@ -1675,6 +1661,12 @@
                 "content": "$1"
             }
         }
+    },
+    "The_script_was_successfully_deleted_": {
+        "message": "Скрипт был успешно удалён."
+    },
+    "The_script_was_successfully_moved_to_the_trash_": {
+        "message": "Скрипт был успешно перемещён в корзину."
     },
     "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
         "message": "URL-адрес обновления изменился с:\n    '$oldurl$'\n    на:\n    '$newurl$'\n",
@@ -1689,6 +1681,10 @@
     },
     "Theme": {
         "message": "Тема"
+    },
+    "There_are_no_active_scripts__Do_you_want_to_search_for_userscripts_": {
+        "description": "Вопрос, заданный сервисным ботом",
+        "message": "Активных скриптов нет. Вы хотите выполнить поиск по пользовательским скриптам?"
     },
     "There_are_unsaved_changed_": {
         "message": "Имеются несохранённые изменения.\nВсё равно закрыть редактор?"
@@ -1804,11 +1800,11 @@
     "Transpose": {
         "message": "Транспонировать"
     },
-    "Trash_bin": {
-        "message": "Мусорная корзина"
-    },
     "Trash_Mode": {
         "message": "Режим мусорной корзины"
+    },
+    "Trash_bin": {
+        "message": "Мусорная корзина"
     },
     "Treat_like__match": {
         "message": "Действовать как @match"
@@ -2008,6 +2004,14 @@
     "Windows": {
         "message": "Windows"
     },
+    "Would_you_like_to_know_how_to_overwrite_or_extend_a_script_s_includes_and_or_excludes_": {
+        "description": "Вопрос, заданный сервисным ботом",
+        "message": "Хотели бы вы знать, как перезаписать или расширить список включений и/или исключений скрипта?"
+    },
+    "Would_you_like_to_learn_how_to_export_and_import_your_scripts_": {
+        "description": "Вопрос, заданный сервисным ботом",
+        "message": "Хотели бы вы узнать, как экспортировать и импортировать ваши скрипты?"
+    },
     "XHR_Security": {
         "message": "Безопасность XHR"
     },
@@ -2106,26 +2110,5 @@
     },
     "top_level_await": {
         "message": "ожидание верхнего уровня"
-    },
-    "Grant_all": {
-        "message": "Предоставить все"
-    },
-    "Grant_selected": {
-        "message": "Предоставить выбранное"
-    },
-    "Host_permissions_denied_by_user_": {
-        "message": "Разрешения хоста отклонены пользователем:"
-    },
-    "No_previously_denied_runtime_host_permissions_found": {
-        "message": "Ранее отклоненных разрешений хоста во время выполнения не найдено"
-    },
-    "Requested_Host_Permissions": {
-        "message": "Запрошенные разрешения хоста"
-    },
-    "Reset_list": {
-        "message": "Сбросить список"
-    },
-    "Runtime_Host_Permissions": {
-        "message": "Разрешения хоста во время выполнения"
     }
 }

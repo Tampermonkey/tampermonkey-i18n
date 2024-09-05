@@ -129,7 +129,7 @@ An_internal_error_occured_Do_you_want_to_visit_the_forum_:
 Anonymous_statistics:
   message: Anonyme Statistiken
 Antifeature__0name0__0description0:
-  message: 'Enthält $name$: $description$'
+  message: "Enthält $name$: $description$"
   placeholders:
     description:
       content: $2
@@ -165,8 +165,6 @@ At_least_one_new_connect_statement_was_added_:
   message: Mindestens eine @connect-Anweisung wurde hinzugefügt.
 At_least_one_of_the_include_match_or_exclude_statements_was_changed_:
   message: Mindestens eine der @include-, @match- oder @exclude-Anweisungen wurde modifiziert.
-At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_:
-  message: Mindestens ein Teil der Seite ist in der „Verbotene Seiten“-Einstellung gelistet
 Attention_Can_not_display_all_excludes_:
   message: |-
     Achtung: Es werden nicht alle Seiten angezeigt!
@@ -236,14 +234,6 @@ Check_only_scripts_up_to_this_size_automatically_:
   message: Userscripte werden nur bis zu dieser Länge automatisch überprüft.
 Clean_after_session:
   message: Nach der Sitzung leeren
-Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0:
-  message: |-
-    Klicken Sie bitte OK um Tampermonkey Zugriff auf folgende Seiten zu gewähren:
-
-    $host_list$
-  placeholders:
-    host_list:
-      content: $1
 Click_here_to_allow_TM_to_start_downloads:
   message: Ein Klick auf 'OK' erlaubt Tampermonkey bzw. den Userscripts sofort startende Downloads.
 Click_here_to_install_it_:
@@ -305,8 +295,6 @@ Default_Darker:
   message: Standard - Dunkler
 Default_Light:
   message: Standard - Hell
-Default_tab_types_to_run_scripts_in:
-  message: Art der Tabs in denen Scripts standardmäßig ausgeführt werden
 Delete:
   message: Löschen
 Delete_all:
@@ -363,7 +351,7 @@ Dont_ask_me_for_simple_script_updates:
 Download_Mode:
   message: Download-Modus
 Downloaded_from_0url0:
-  message: 'Heruntergeladen von: $url$'
+  message: "Heruntergeladen von: $url$"
   placeholders:
     url:
       content: $1
@@ -390,7 +378,7 @@ Enabled:
 Enabling_this_makes_it_easy_for_scripts_to_leak_it_s_granted_powers_to_the_page_Therefore__off__is_the_safest_option_:
   message: Wenn diese Option aktiviert ist, ist es für Userscripts sehr einfach die gewährten Berechtigungen versehentlich der Webseite zur Verfügung zu stellen. "$off$" ist daher die sicherste Option, kann aber zu Kompatibiltätsproblemen führen.
   placeholders:
-    'off':
+    off:
       content: $1
 Enforce:
   message: Erzwingen
@@ -485,6 +473,10 @@ Global_Settings:
   message: Globale Einstellungen
 Global_settings_import:
   message: Import der globalen Einstellungen
+Grant_all:
+  message: Alle gewähren
+Grant_selected:
+  message: Ausgewählte gewähren
 Help:
   message: Hilfe
 Hide_disabled_scripts:
@@ -495,6 +487,8 @@ Highlight_selection_matches:
   message: Textauswahlübereinstimmungen markieren
 Highlight_trailing_whitespace:
   message: Leerzeichen am Ende der Zeile markieren
+Host_permissions_denied_by_user_:
+  message: "Vom Benutzer abgelehnte Host-Berechtigungen:"
 I_contributed_already:
   message: Ich habe schon beigetragen
 I_dont_want_to_contribute:
@@ -608,6 +602,8 @@ Matching_URL:
   message: Übereinstimmende URLs
 Modify:
   message: Modifizieren
+Modifying_a_script_will_disable_automatic_script_updates_:
+  message: Das Bearbeiten des Scripts deaktiviert die automatischen Updates!
 Native:
   message: Nativ
 Never:
@@ -618,7 +614,7 @@ New_script_template_:
   message: Maske für neue Userscripte
 New_userscript:
   message: <Neues Userscript>
-'No':
+No:
   message: Nein
 No_available_scripts:
   message: Keine Userscripte verfügbar
@@ -628,6 +624,8 @@ No_entry_found:
   message: Kein Eintrag gefunden
 No_frames:
   message: Nur im Haupt-Frame ausführen
+No_previously_denied_runtime_host_permissions_found:
+  message: Keine zuvor abgelehnten Laufzeit-Host-Berechtigungen gefunden
 No_script_is_installed:
   message: Es ist kein Userscript installiert
 No_script_is_running:
@@ -642,9 +640,9 @@ Note:
   message: Achtung
 Novice:
   message: Anfänger
-'Off':
+Off:
   message: Aus
-'On':
+On:
   message: An
 On_Action_Menu:
   message: Im Aktionsmenü
@@ -652,6 +650,9 @@ On_Click:
   message: Mittels Klick
 One_error_or_hint_was_found_:
   message: Es wurde ein Syntax-Fehler gefunden.
+One_of_your_scripts_is_blacklisted__Would_you_like_to_know_why_:
+  description: Eine Frage, die vom Service-Bot gestellt wird
+  message: Eines Ihrer Scripts steht auf der Blacklist. Möchten Sie wissen, warum?
 One_or_more_compatibility_options_are_set:
   message: Eine oder mehrere Kompatibilitätsoptionen sind aktiviert.
 Only_Manual:
@@ -758,6 +759,10 @@ Report_an_issue_to_the_script_hoster_:
   message: |-
     Ein Problem an die verteilende Seite melden.
     (Dazu brauchen Sie möglicherweise ein Benutzerkonto.)
+Requested_Host_Permissions:
+  message: Angeforderte Host-Berechtigungen
+Reset_list:
+  message: Liste zurücksetzen
 Restart_Tampermonkey:
   message: Neustart
 Restore:
@@ -772,6 +777,8 @@ Run_syntax_check:
   message: Syntax-Überprüfung starten
 Running_scripts:
   message: Aktive Userscript-Instanzen
+Runtime_Host_Permissions:
+  message: Laufzeit-Host-Berechtigungen
 Sandbox_Mode:
   message: Sandbox-Modus
 Save:
@@ -796,7 +803,7 @@ Script_local_files_access:
 Script_menu_commands:
   message: Userscript Menü-Kommandos
 Script_name_0name0:
-  message: 'Userscript-Name: $name$'
+  message: "Userscript-Name: $name$"
   placeholders:
     name:
       content: $1
@@ -869,8 +876,6 @@ Synchronize_your_scripts_across_browsers_and_operation_systems:
   message: Userscript-Synchronisierung über Browser- und Betriebssystemgrenzen hinweg
 Tab_Size:
   message: Breite eines Tabulatorzeichens
-Tab_types:
-  message: Art der Tabs in denen das Script ausgeführt wird
 Tam:
   description: Name des Service-Bots
   message: Tam
@@ -887,9 +892,6 @@ Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_cont
     Tampermonkey muss neu gestartet werden um diese Änderung anzuwenden.
 
     Sind Sie sicher, dass sie fortfahren möchten??
-One_of_your_scripts_is_blacklisted__Would_you_like_to_know_why_:
-  description: Eine Frage, die vom Service-Bot gestellt wird
-  message: Eines Ihrer Scripts steht auf der Blacklist. Möchten Sie wissen, warum?
 Tampermonkey_version:
   message: Tampermonkey Version
 Temporarily_allow:
@@ -903,7 +905,7 @@ TextArea:
 Thank_you_very_much_:
   message: Vielen Dank!
 The_Browser_API_mode_requires_a_special_permission_:
-  message: '''Browser-API'' benötigt eine spezielle Berechtigung.'
+  message: "'Browser-API' benötigt eine spezielle Berechtigung."
 The_diff_for_this_script_is_too_large_to_render:
   message: Die Liste der Änderungen ist zu groß, um sie anzuzeigen
 The_downgraded_script_might_have_problems_to_read_its_stored_data_:
@@ -914,17 +916,15 @@ The_origin_of_this_script_cant_be_determined_:
     Entweder es wurde durch eine fremde Software installiert um Ihre privaten Daten zu stehlen oder eine grundlegende Browser-Einstellung, Ihr Betriebssystem oder Ihre Hardware hat sich geändert.
 
     Bitte öffnen, prüfen und speichern Sie das Userscript, um es zu aktivieren.
-The_script_was_successfully_deleted_:
-  message: Das Script wurde erfolgreich gelöscht.
-The_script_was_successfully_moved_to_the_trash_:
-  message: Das Script wurde erfolgreich in den Papierkorb verschoben.
 The_script_was_modified_locally_on_0date0__Updating_it_will_overwrite_your_changes_:
   message: Das Script wurde am $date$ lokal modifiziert. Ein Update wird diese Änderungen überschreiben!
   placeholders:
     date:
       content: $1
-Modifying_a_script_will_disable_automatic_script_updates_:
-  message: "Das Bearbeiten des Scripts deaktiviert die automatischen Updates!"
+The_script_was_successfully_deleted_:
+  message: Das Script wurde erfolgreich gelöscht.
+The_script_was_successfully_moved_to_the_trash_:
+  message: Das Script wurde erfolgreich in den Papierkorb verschoben.
 The_update_url_has_changed_from_0oldurl0_to__0newurl0:
   message: |
     Die Update-URL hat sich von:
@@ -972,12 +972,12 @@ This_script_does_not_provide_any__include_information_:
   message: Dieses Userscript beinhaltet keine @include- oder @match-Informationen.
 This_script_does_not_require_any_special_powers_:
   message: Dieses Script verlangt keine besonderen Rechte.
-This_script_has_local_modifications_and_needs_to_be_updated_manually:
-  message: Dieses Script wurde lokal modifiziert und muss manuell aktualisiert werden!
 This_script_has_access_to_https_pages:
   message: Dieses Element hat Zugriff auf verschlüsselte Seiten.
 This_script_has_full_web_access:
   message: Dieses Userscript hat vollen Internet-Zugang.
+This_script_has_local_modifications_and_needs_to_be_updated_manually:
+  message: Dieses Script wurde lokal modifiziert und muss manuell aktualisiert werden!
 This_script_is_blacklisted_:
   message: Dieses Userscript steht in der Negativliste!
 This_script_stores_data:
@@ -1012,10 +1012,10 @@ Toggle_Enable:
   message: Aktivierung umschalten
 Trace:
   message: Alles
-Trash_bin:
-  message: Papierkorb
 Trash_Mode:
   message: Papierkorb-Funktion
+Trash_bin:
+  message: Papierkorb
 Treat_like__match:
   message: Als @match interpretieren
 Trigger_Update:
@@ -1088,13 +1088,13 @@ Userscript_search_integration_mode:
 Userscripts:
   message: Userscripte
 Using__include_is_potentially_unsafe_and_may_be_obsolete_soon___0off0_disables__include_completely__0match0__is_safe__but_may_not_compatible_the_script_developers_intention__0unsafe0__mostly_keeps_the_legacy_behavior_0default0__means__0used_default0:
-  message: '@include-Anweisungen können unsicher sein und eventuell durch das neue Erweiterungsformat Manifest v3 komplett unbrauchbar werden. Diese Einstellung erlaubt die Konfiguration, wie @include interpretiert wird. ''$off$'' deaktiviert @include komplett, ''$match$'' interpretiert die Anweisungen wie @match. Das kann aber Probleme verursachen. ''$unsafe$'' behält weitestgehend das bisherige Verhalten bei. Und ''$default$'' steht zur Zeit für die Einstellung ''$used_default$'''
+  message: "@include-Anweisungen können unsicher sein und eventuell durch das neue Erweiterungsformat Manifest v3 komplett unbrauchbar werden. Diese Einstellung erlaubt die Konfiguration, wie @include interpretiert wird. '$off$' deaktiviert @include komplett, '$match$' interpretiert die Anweisungen wie @match. Das kann aber Probleme verursachen. '$unsafe$' behält weitestgehend das bisherige Verhalten bei. Und '$default$' steht zur Zeit für die Einstellung '$used_default$'"
   placeholders:
     default:
       content: $4
     match:
       content: $2
-    'off':
+    off:
       content: $1
     unsafe:
       content: $3
@@ -1115,7 +1115,7 @@ Waiting_for_sync_to_finish:
 Warning:
   message: Warnung
 Warning_unsafe_site_warnings_might_appear_:
-  message: 'Achtung: es können Warnungen wegen unsicherem Inhalt angezeigt werden, wenn ein Userscript eine potentiell schädliche Seite in einer seiner @include-Direktiven auflistet.'
+  message: "Achtung: es können Warnungen wegen unsicherem Inhalt angezeigt werden, wenn ein Userscript eine potentiell schädliche Seite in einer seiner @include-Direktiven auflistet."
 Whitelist:
   message: Positivliste
 Whitelisted_File_Extensions:
@@ -1130,7 +1130,7 @@ Would_you_like_to_learn_how_to_export_and_import_your_scripts_:
   message: Möchten Sie lernen, wie Sie Ihre Scripts exportieren und importieren können?
 XHR_Security:
   message: XHR-Sicherheit
-'Yes':
+Yes:
   message: Ja
 You_are_about_to_downgrade_a_UserScript:
   message: Achtung! Downgrade des Userscripts
@@ -1156,13 +1156,11 @@ Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may
 
     Das bedeutet, dass Userscripte Viren und Trojaner auf der Festplatte speichern dürfen!
 __Please_choose__:
-  message: '-- Bitte wählen Sie eine Aktion aus --'
+  message: -- Bitte wählen Sie eine Aktion aus --
 _not_set_:
   message: <unbekannt>
 connect_mode:
-  message: '@connect-Überprüfung'
-extDescription:
-  message: Verändere das Web mit Userscripts nach deinen Wünschen
+  message: "@connect-Überprüfung"
 fatal_error:
   message: Schwerer Fehler
 overwritten_by_user:
@@ -1175,17 +1173,3 @@ severity_10:
   message: 10 (unsicherer)
 some_secs:
   message: einigen
-Grant_all:
-  message: Alle gewähren
-Grant_selected:
-  message: Ausgewählte gewähren
-Host_permissions_denied_by_user_:
-  message: 'Vom Benutzer abgelehnte Host-Berechtigungen:'
-No_previously_denied_runtime_host_permissions_found:
-  message: Keine zuvor abgelehnten Laufzeit-Host-Berechtigungen gefunden
-Requested_Host_Permissions:
-  message: Angeforderte Host-Berechtigungen
-Reset_list:
-  message: Liste zurücksetzen
-Runtime_Host_Permissions:
-  message: Laufzeit-Host-Berechtigungen

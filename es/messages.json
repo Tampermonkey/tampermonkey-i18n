@@ -469,6 +469,12 @@
     "Google": {
         "message": "Google"
     },
+    "Grant_all": {
+        "message": "Conceder Todo"
+    },
+    "Grant_selected": {
+        "message": "Conceder Seleccionado"
+    },
     "Help": {
         "message": "Ayuda"
     },
@@ -480,6 +486,9 @@
     },
     "Homepage": {
         "message": "Página Web"
+    },
+    "Host_permissions_denied_by_user_": {
+        "message": "Permisos del host denegados por el usuario:"
     },
     "I_contributed_already": {
         "message": "Ya he contribuido"
@@ -585,6 +594,9 @@
     },
     "No_backups_found": {
         "message": "No se encontraron copias de seguridad"
+    },
+    "No_previously_denied_runtime_host_permissions_found": {
+        "message": "No se encontraron permisos del host en tiempo de ejecución denegados previamente"
     },
     "No_script_is_installed": {
         "message": "No hay scripts instalados"
@@ -722,8 +734,14 @@
     "Report_an_issue_to_the_script_hoster_": {
         "message": "Reportar abuso.\n(Una cuenta de usuario puede ser requerida)"
     },
+    "Requested_Host_Permissions": {
+        "message": "Permisos del Host Solicitados"
+    },
     "Reset_Section": {
         "message": "Restablecer"
+    },
+    "Reset_list": {
+        "message": "Restablecer Lista"
     },
     "Resources": {
         "message": "Recursos"
@@ -736,6 +754,9 @@
     },
     "Running_scripts": {
         "message": "Instancias de scripts en ejecución"
+    },
+    "Runtime_Host_Permissions": {
+        "message": "Permisos del Host en Tiempo de Ejecución"
     },
     "Save": {
         "message": "Guardar"
@@ -1097,26 +1118,5 @@
     },
     "severity_9": {
         "message": "9<"
-    },
-    "Grant_all": {
-        "message": "Conceder Todo"
-    },
-    "Grant_selected": {
-        "message": "Conceder Seleccionado"
-    },
-    "Host_permissions_denied_by_user_": {
-        "message": "Permisos del host denegados por el usuario:"
-    },
-    "No_previously_denied_runtime_host_permissions_found": {
-        "message": "No se encontraron permisos del host en tiempo de ejecución denegados previamente"
-    },
-    "Requested_Host_Permissions": {
-        "message": "Permisos del Host Solicitados"
-    },
-    "Reset_list": {
-        "message": "Restablecer Lista"
-    },
-    "Runtime_Host_Permissions": {
-        "message": "Permisos del Host en Tiempo de Ejecución"
     }
 }

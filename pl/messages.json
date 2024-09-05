@@ -151,9 +151,6 @@
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Co najmniej jedna z deklaracji @include, @match lub @exclude została zmieniona."
     },
-    "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-        "message": "Co najmniej jedna część tej strony jest wymieniona w ustawieniu 'zakazane strony'!"
-    },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Uwaga: Lista @exclude została skrócona.\nProszę o ręczne sprawdzenie!"
     },

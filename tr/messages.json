@@ -250,9 +250,6 @@
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "@include, @match veya @exclude ifadelerinden en az biri değiştirildi."
     },
-    "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-        "message": "Bu sayfanın en az bir kısmı 'yasak sayfalar' ayarında listelenmiştir!"
-    },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Dikkat: Hariç tutulanlar listesi kısaltıldı.\nLütfen elle kontrol edin!"
     },
@@ -371,14 +368,6 @@
     "Clear_All": {
         "message": "Tümünü temizle"
     },
-    "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
-        "message": "Lütfen Tamam'a tıklayarak Tampermonkey'in şu sunuculara erişmesine izin verin:\n\n$host_list$",
-        "placeholders": {
-            "host_list": {
-                "content": "$1"
-            }
-        }
-    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Tampermonkey'in anında indirmeye başlamasına izin vermek için Tamam'a tıklayın."
     },
@@ -459,9 +448,6 @@
     },
     "Default_Light": {
         "message": "Varsayılan - Açık"
-    },
-    "Default_tab_types_to_run_scripts_in": {
-        "message": "Betiklerin çalıştırılacağı varsayılan sekme türleri"
     },
     "Delete": {
         "message": "Sil"
@@ -1398,9 +1384,6 @@
     "Tab_URL": {
         "message": "Sekme URL'si"
     },
-    "Tab_types": {
-        "message": "Sekme türleri"
-    },
     "Tabs": {
         "message": "Sekmeler"
     },
@@ -1580,11 +1563,11 @@
     "Transpose": {
         "message": "Yerini değiştir"
     },
-    "Trash_bin": {
-        "message": "Çöp Kutusu"
-    },
     "Trash_Mode": {
         "message": "Çöp Modu"
+    },
+    "Trash_bin": {
+        "message": "Çöp Kutusu"
     },
     "Trigger_Update": {
         "message": "Güncellemeyi tetikle"

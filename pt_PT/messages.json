@@ -142,9 +142,6 @@
     "Ask_if_unknown": {
         "message": "Pergunte se não conhece."
     },
-    "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-        "message": "Pelo menos uma parte desta página está listada nas definições de Páginas Proíbidas"
-    },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Atenção: A lista de exclusões não pode ser apresentada na sua totalidade.\nPor favor, verifique manualmente!"
     },

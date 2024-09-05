@@ -173,9 +173,6 @@
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Najmanje jedan od @include, @match ili @exclude iskaza je promenjen."
     },
-    "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-        "message": "Jedan ili više deo/delova ove stranice je na listi 'nesigurnih stranica' u podešavanjima!"
-    },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Upozorenje: Lista (Isključeni) je smanjena.\nMolimo vas proverite ručno!"
     },

@@ -250,9 +250,6 @@
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Τουλάχιστον μια δήλωση @include, @match ή @exclude έχει αλλάξει."
     },
-    "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-        "message": "Τουλάχιστον ένα τμήμα αυτής της σελίδας βρίσκεται στη λίστα της ρύθμισης «απαγορευμένων σελίδων»!"
-    },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Προσοχή: Η λίστα εξαιρέσεων έχει μικρύνει.\nΕλέγξτε τη χειροκίνητα!"
     },
@@ -370,14 +367,6 @@
     },
     "Clear_All": {
         "message": "Εκκαθάριση Όλων"
-    },
-    "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
-        "message": "Πατήστε Εντάξει ώστε να επιτρέπεται στο Tampermonkey να έχει πρόσβαση στα ακόλουθα:\n\n$host_list$",
-        "placeholders": {
-            "host_list": {
-                "content": "$1"
-            }
-        }
     },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Πατήστε Εντάξει ώστε να επιτρέπεται στο Tampermonkey να εκκινεί τις άμεσες λήψεις."
@@ -498,9 +487,6 @@
     },
     "Details": {
         "message": "Λεπτομέρειες"
-    },
-    "Default_tab_types_to_run_scripts_in": {
-        "message": "Προεπιλογή τύπων καρτέλας για εκτέλεση κωδίκων σε"
     },
     "Developer": {
         "message": "Δημιουργός"
@@ -1398,9 +1384,6 @@
     "Tab_URL": {
         "message": "URL Καρτέλας"
     },
-    "Tab_types": {
-        "message": "Τύποι Καρτέλας"
-    },
     "Tabs": {
         "message": "Καρτέλες"
     },
@@ -1580,11 +1563,11 @@
     "Transpose": {
         "message": "Μετατόπιση"
     },
-    "Trash_bin": {
-        "message": "Κάδος απορριμμάτων"
-    },
     "Trash_Mode": {
         "message": "Λειτουργία Κάδου Ανακύκλωσης"
+    },
+    "Trash_bin": {
+        "message": "Κάδος απορριμμάτων"
     },
     "Trigger_Update": {
         "message": "Έναρξη Ενημέρωσης"

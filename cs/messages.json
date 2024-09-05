@@ -142,9 +142,6 @@
     "Ask_if_unknown": {
         "message": "Dotázat se při neznámém"
     },
-    "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-        "message": "Alespoň jedna část stránky je uvedena v nastavení pod 'zakázanými stránkami'!"
-    },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Pozor: exclude seznam byl zkrácen.\nProsím překontrolujte ho ručně!"
     },

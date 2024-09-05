@@ -256,9 +256,6 @@
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Барем една @include, @match или @exclude линија беше сменета."
     },
-    "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-        "message": "Барем еден дел од оваа страна е во делот на поставката „забранети страни“!"
-    },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Внимание: Листата за исклучуванје беше скратена.\nВе молиме проверете ја!"
     },
@@ -377,14 +374,6 @@
     "Clear_All": {
         "message": "Избриши сѐ"
     },
-    "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
-        "message": "Ве молиме кликнете OK за да дозволите на Tampermonkey да има пристап до следниве хостови:\n\n$host_list$",
-        "placeholders": {
-            "host_list": {
-                "content": "$1"
-            }
-        }
-    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Кликнете OK да дозволите Tampermonkey да почнува инстантни преземања."
     },
@@ -451,6 +440,9 @@
     "Cut": {
         "message": "Исечи"
     },
+    "DOM_mode_is_unsecure__Scripts_can_install_new_scripts_": {
+        "message": "\"DOM\" sandbox модот не е безбеден. Скриптовите што работат ги имаат скоро сите дозволи на Tampermonkey и дури можат да менуваат и да инсталираат нови скриптови."
+    },
     "Dashboard": {
         "message": "Главна страна"
     },
@@ -474,9 +466,6 @@
     },
     "Default_Light": {
         "message": "Стандардно-светло"
-    },
-    "Default_tab_types_to_run_scripts_in": {
-        "message": "Стандардни типови на табови во кои да се извршуваат скриптовите"
     },
     "Delete": {
         "message": "Избриши"
@@ -1192,9 +1181,6 @@
     "Raw_and_JavaScript": {
         "message": "Текст и JavaScript"
     },
-    "DOM_mode_is_unsecure__Scripts_can_install_new_scripts_": {
-        "message": "\"DOM\" sandbox модот не е безбеден. Скриптовите што работат ги имаат скоро сите дозволи на Tampermonkey и дури можат да менуваат и да инсталираат нови скриптови."
-    },
     "Really_delete_0name0__": {
         "message": "Дали навистина сакате да го избришете „$name$“?",
         "placeholders": {
@@ -1522,9 +1508,6 @@
     "Tab_URL": {
         "message": "URL на таб"
     },
-    "Tab_types": {
-        "message": "Типови на таб"
-    },
     "Tabs": {
         "message": "Табови"
     },
@@ -1704,11 +1687,11 @@
     "Transpose": {
         "message": "Транспозирај"
     },
-    "Trash_bin": {
-        "message": "Корпа"
-    },
     "Trash_Mode": {
         "message": "Корпа мод"
+    },
+    "Trash_bin": {
+        "message": "Корпа"
     },
     "Treat_like__match": {
         "message": "Работи како да е @match"

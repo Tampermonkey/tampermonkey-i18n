@@ -125,54 +125,6 @@
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
         "message": "UserScript がオリジン間リソースへのアクセスを要求しています。"
     },
-    "There_are_no_active_scripts__Do_you_want_to_search_for_userscripts_": {
-        "description": "A question asked by the service bot",
-        "message": "アクティブなスクリプトはありません。UserScript を検索しますか?"
-    },
-    "Do_you_need_help_working_with_Tampermonkey_": {
-        "description": "A question asked by the service bot",
-        "message": "Tampermonkey の使い方についてお手伝いが必要ですか?"
-    },
-    "Do_you_need_help_installing_new_scripts_to_Tampermonkey_": {
-        "description": "A question asked by the service bot",
-        "message": "Tampermonkey に新しいスクリプトをインストールする際にお手伝いが必要ですか?"
-    },
-    "Would_you_like_to_know_how_to_overwrite_or_extend_a_script_s_includes_and_or_excludes_": {
-        "description": "A question asked by the service bot",
-        "message": "スクリプトの include や exclude を上書き/拡張する方法を知りたいですか?"
-    },
-    "Do_you_need_help_syncing_all_your_installed_scripts_to_another_browser_": {
-        "description": "A question asked by the service bot",
-        "message": "インストール済みスクリプトを別のブラウザーにすべて同期させる際にお手伝いが必要ですか?"
-    },
-    "Would_you_like_to_learn_how_to_export_and_import_your_scripts_": {
-        "description": "A question asked by the service bot",
-        "message": "スクリプトをエクスポート/インポートする方法を学びたいですか?"
-    },
-    "Do_you_want_to_know_how_to_allow_Tampermonkey_access_to_local_file_URIs_": {
-        "description": "A question asked by the service bot",
-        "message": "Tampermonkey にローカル ファイルの URI へのアクセスを許可する方法を知りたいですか?"
-    },
-    "One_of_your_scripts_is_blacklisted__Would_you_like_to_know_why_": {
-        "description": "A question asked by the service bot",
-        "message": "あなたのスクリプトの 1 つがブラックリストに登録されています。その理由を知りたいですか?"
-    },
-    "Do_you_need_help_viewing_and_editing_values_stored_by_a_userscript_": {
-        "description": "A question asked by the service bot",
-        "message": "UserScript によって保管された値を表示/編集する際にお手伝いが必要ですか?"
-    },
-    "Do_you_want_to_use_an_external_editor_to_edit_your_scripts__nWould_you_like_to_know_how_to_set_this_up_": {
-        "description": "A question asked by the service bot",
-        "message": "外部エディターでスクリプトを編集したいですか? これを設定する方法を知りたいですか?"
-    },
-    "Are_you_unsure_about_what__sandbox_value_to_use_": {
-        "description": "A question asked by the service bot",
-        "message": "@sandbox のどの値を使用すべきか不明ですか?"
-    },
-    "Do_you_need_help_finding_Tampermonkey_s_console_output_": {
-        "description": "A question asked by the service bot",
-        "message": "Tampermonkey のコンソール出力を見つける際にお手伝いが必要ですか?"
-    },
     "Aborted_by_user": {
         "message": "ユーザーにより中止されました"
     },
@@ -312,6 +264,10 @@
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Tampermonkey がブラウザーによって更新される際、同時に再起動もされます。残念ですが、これにより実行中のスクリプトが壊れる場合があります!\n\n本当に更新を通知しないように設定しますか?"
     },
+    "Are_you_unsure_about_what__sandbox_value_to_use_": {
+        "description": "A question asked by the service bot",
+        "message": "@sandbox のどの値を使用すべきか不明ですか?"
+    },
     "Ask_if_unknown": {
         "message": "不明な場合は確認"
     },
@@ -320,9 +276,6 @@
     },
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "@include、@matchまたは@exclude文の少なくとも1つが変更されました。"
-    },
-    "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-        "message": "このページは、「禁止ページ」設定の一覧に載っている要素を 1 個以上含んでいます!"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "注意: exclude リストを短縮しました。\n手作業で確認してください!"
@@ -442,14 +395,6 @@
     "Clear_All": {
         "message": "すべて消去"
     },
-    "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
-        "message": "Tampermonkey による以下のホストへのアクセスを許可するため OK を押してください:\n\n$host_list$",
-        "placeholders": {
-            "host_list": {
-                "content": "$1"
-            }
-        }
-    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Tampermonkey がダウンロードを開始するには OK を押してください。"
     },
@@ -530,6 +475,9 @@
     "Cut": {
         "message": "切り取り"
     },
+    "DOM_mode_is_unsecure__Scripts_can_install_new_scripts_": {
+        "message": "「DOM」サンドボックス モードはセキュアではありません。実行中の UserScript には拡張機能のほぼ完全な権限があり、UserScript を変更/新規インストールすることもさえできます。"
+    },
     "Dashboard": {
         "message": "ダッシュボード"
     },
@@ -553,9 +501,6 @@
     },
     "Default_Light": {
         "message": "標準 - ライト"
-    },
-    "Default_tab_types_to_run_scripts_in": {
-        "message": "スクリプトを実行する既定のタブの種類"
     },
     "Delete": {
         "message": "削除"
@@ -608,6 +553,26 @@
     "Disabled": {
         "message": "無効"
     },
+    "Do_you_need_help_finding_Tampermonkey_s_console_output_": {
+        "description": "A question asked by the service bot",
+        "message": "Tampermonkey のコンソール出力を見つける際にお手伝いが必要ですか?"
+    },
+    "Do_you_need_help_installing_new_scripts_to_Tampermonkey_": {
+        "description": "A question asked by the service bot",
+        "message": "Tampermonkey に新しいスクリプトをインストールする際にお手伝いが必要ですか?"
+    },
+    "Do_you_need_help_syncing_all_your_installed_scripts_to_another_browser_": {
+        "description": "A question asked by the service bot",
+        "message": "インストール済みスクリプトを別のブラウザーにすべて同期させる際にお手伝いが必要ですか?"
+    },
+    "Do_you_need_help_viewing_and_editing_values_stored_by_a_userscript_": {
+        "description": "A question asked by the service bot",
+        "message": "UserScript によって保管された値を表示/編集する際にお手伝いが必要ですか?"
+    },
+    "Do_you_need_help_working_with_Tampermonkey_": {
+        "description": "A question asked by the service bot",
+        "message": "Tampermonkey の使い方についてお手伝いが必要ですか?"
+    },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "オプション「$option$」が有効です!\n\n修正されたソースを本当に保存しますか?",
         "placeholders": {
@@ -615,6 +580,14 @@
                 "content": "$1"
             }
         }
+    },
+    "Do_you_want_to_know_how_to_allow_Tampermonkey_access_to_local_file_URIs_": {
+        "description": "A question asked by the service bot",
+        "message": "Tampermonkey にローカル ファイルの URI へのアクセスを許可する方法を知りたいですか?"
+    },
+    "Do_you_want_to_use_an_external_editor_to_edit_your_scripts__nWould_you_like_to_know_how_to_set_this_up_": {
+        "description": "A question asked by the service bot",
+        "message": "外部エディターでスクリプトを編集したいですか? これを設定する方法を知りたいですか?"
     },
     "Document_End": {
         "message": "文書の末尾"
@@ -885,6 +858,12 @@
     "Google_Drive": {
         "message": "Google Drive"
     },
+    "Grant_all": {
+        "message": "すべて許可"
+    },
+    "Grant_selected": {
+        "message": "選択したものを許可"
+    },
     "Group_Left": {
         "message": "前のまとまり"
     },
@@ -908,6 +887,9 @@
     },
     "Homepage": {
         "message": "ホームページ"
+    },
+    "Host_permissions_denied_by_user_": {
+        "message": "ユーザーにより拒否されたホストの権限:"
     },
     "I_contributed_already": {
         "message": "私は既に貢献しました"
@@ -1113,6 +1095,9 @@
     "Modify": {
         "message": "変更"
     },
+    "Modifying_a_script_will_disable_automatic_script_updates_": {
+        "message": "スクリプトを変更すると、スクリプトの自動更新が無効になります!"
+    },
     "Move_Line_Down": {
         "message": "行を下に移動"
     },
@@ -1154,6 +1139,9 @@
     },
     "No_frames": {
         "message": "最上位フレーム (top) のみで実行する"
+    },
+    "No_previously_denied_runtime_host_permissions_found": {
+        "message": "以前に拒否された実行時ホスト権限は見つかりませんでした"
     },
     "No_script_is_installed": {
         "message": "インストール済のスクリプトはありません"
@@ -1199,6 +1187,10 @@
     },
     "One_error_or_hint_was_found_": {
         "message": "1つのエラーまたはヒントが見つかりました。"
+    },
+    "One_of_your_scripts_is_blacklisted__Would_you_like_to_know_why_": {
+        "description": "A question asked by the service bot",
+        "message": "あなたのスクリプトの 1 つがブラックリストに登録されています。その理由を知りたいですか?"
     },
     "One_or_more_compatibility_options_are_set": {
         "message": "互換性オプションが 1 つ以上設定されています。これらを再確認する必要がある可能性があります。"
@@ -1279,9 +1271,6 @@
     },
     "Raw_and_JavaScript": {
         "message": "Raw と JavaScript"
-    },
-    "DOM_mode_is_unsecure__Scripts_can_install_new_scripts_": {
-        "message": "「DOM」サンドボックス モードはセキュアではありません。実行中の UserScript には拡張機能のほぼ完全な権限があり、UserScript を変更/新規インストールすることもさえできます。"
     },
     "Really_delete_0name0__": {
         "message": "「$name$」を本当に削除しますか?",
@@ -1379,11 +1368,17 @@
     "Report_an_issue_to_the_script_hoster_": {
         "message": "不正行為を報告。\n(ユーザー アカウントが必要な場合があります)"
     },
+    "Requested_Host_Permissions": {
+        "message": "要求されたホストの権限"
+    },
     "Requires": {
         "message": "require 指定"
     },
     "Reset_Section": {
         "message": "初期化"
+    },
+    "Reset_list": {
+        "message": "リストをリセット"
     },
     "Resources": {
         "message": "リソース"
@@ -1408,6 +1403,9 @@
     },
     "Running_scripts": {
         "message": "実行中のスクリプトのインスタンス数"
+    },
+    "Runtime_Host_Permissions": {
+        "message": "実行時ホスト権限"
     },
     "Sandbox_Mode": {
         "message": "サンドボックス モード"
@@ -1616,9 +1614,6 @@
     "Tab_URL": {
         "message": "タブの URL"
     },
-    "Tab_types": {
-        "message": "タブの種類"
-    },
     "Tabs": {
         "message": "タブ"
     },
@@ -1677,15 +1672,6 @@
     "The_origin_of_this_script_cant_be_determined_": {
         "message": "警告: このスクリプトの出所を特定できません。\n悪意がある第三者が非公開データや一部の基本的なブラウザー設定を盗むためにインストールしたか、またはオペレーティング システムまたはハードウェアが変更されました!\n\n有効にするには、開いて確認してからスクリプトを保存してください。"
     },
-    "The_script_was_successfully_deleted_": {
-        "message": "スクリプトを削除しました。"
-    },
-    "The_script_was_successfully_moved_to_the_trash_": {
-        "message": "スクリプトをごみ箱に移動しました。"
-    },
-    "Modifying_a_script_will_disable_automatic_script_updates_": {
-        "message": "スクリプトを変更すると、スクリプトの自動更新が無効になります!"
-    },
     "The_script_was_modified_locally_on_0date0__Updating_it_will_overwrite_your_changes_": {
         "message": "スクリプトはローカルで $date$ に変更されました。更新するとあなたの変更内容は上書きされます!",
         "placeholders": {
@@ -1693,6 +1679,12 @@
                 "content": "$1"
             }
         }
+    },
+    "The_script_was_successfully_deleted_": {
+        "message": "スクリプトを削除しました。"
+    },
+    "The_script_was_successfully_moved_to_the_trash_": {
+        "message": "スクリプトをごみ箱に移動しました。"
     },
     "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
         "message": "更新 URL が変更されました。変更前:\n    「$oldurl$」\n    変更後:\n    「$newurl$」\n",
@@ -1707,6 +1699,10 @@
     },
     "Theme": {
         "message": "テーマ"
+    },
+    "There_are_no_active_scripts__Do_you_want_to_search_for_userscripts_": {
+        "description": "A question asked by the service bot",
+        "message": "アクティブなスクリプトはありません。UserScript を検索しますか?"
     },
     "There_are_unsaved_changed_": {
         "message": "保存されていない変更があります。\n本当にエディターを閉じますか?"
@@ -1822,11 +1818,11 @@
     "Transpose": {
         "message": "1文字入れ替え"
     },
-    "Trash_bin": {
-        "message": "ごみ箱"
-    },
     "Trash_Mode": {
         "message": "ごみ箱の動作"
+    },
+    "Trash_bin": {
+        "message": "ごみ箱"
     },
     "Treat_like__match": {
         "message": "@match と同様に扱う"
@@ -2032,6 +2028,14 @@
     "Windows": {
         "message": "Windows"
     },
+    "Would_you_like_to_know_how_to_overwrite_or_extend_a_script_s_includes_and_or_excludes_": {
+        "description": "A question asked by the service bot",
+        "message": "スクリプトの include や exclude を上書き/拡張する方法を知りたいですか?"
+    },
+    "Would_you_like_to_learn_how_to_export_and_import_your_scripts_": {
+        "description": "A question asked by the service bot",
+        "message": "スクリプトをエクスポート/インポートする方法を学びたいですか?"
+    },
     "XHR_Security": {
         "message": "XHR セキュリティ"
     },
@@ -2130,26 +2134,5 @@
     },
     "top_level_await": {
         "message": "top-level await"
-    },
-    "Grant_all": {
-        "message": "すべて許可"
-    },
-    "Grant_selected": {
-        "message": "選択したものを許可"
-    },
-    "Host_permissions_denied_by_user_": {
-        "message": "ユーザーにより拒否されたホストの権限:"
-    },
-    "No_previously_denied_runtime_host_permissions_found": {
-        "message": "以前に拒否された実行時ホスト権限は見つかりませんでした"
-    },
-    "Requested_Host_Permissions": {
-        "message": "要求されたホストの権限"
-    },
-    "Reset_list": {
-        "message": "リストをリセット"
-    },
-    "Runtime_Host_Permissions": {
-        "message": "実行時ホスト権限"
     }
 }

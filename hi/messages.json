@@ -160,9 +160,6 @@
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "@include, @match या @exclude स्टेटमेंट में से कम से कम एक को बदल दिया गया।"
     },
-    "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-        "message": "इस पेज का कम से कम एक हिस्सा 'forbidden pages' सेटिंग में सूचीबद्ध किया गया है!"
-    },
     "Attention_Can_not_display_all_excludes_": {
         "message": "ध्यान दें: समावेश सूची छोटी कर दी गई है।\nकृपया इसे स्वतः जाँच लें!"
     },
@@ -571,6 +568,12 @@
     "Google": {
         "message": "Google"
     },
+    "Grant_all": {
+        "message": "सभी को अनुदान दें"
+    },
+    "Grant_selected": {
+        "message": "चयनित अनुदान"
+    },
     "Group_Left": {
         "message": "बायाँ समूह"
     },
@@ -591,6 +594,9 @@
     },
     "Homepage": {
         "message": "मुखपृष्ठ"
+    },
+    "Host_permissions_denied_by_user_": {
+        "message": "होस्ट अनुमतियाँ उपयोगकर्ता द्वारा अस्वीकृत:"
     },
     "I_contributed_already": {
         "message": "मैंने पहले ही दान दे दिया"
@@ -775,6 +781,9 @@
     "No_frames": {
         "message": "केवल शीर्ष फ़्रेम में चलाएँ"
     },
+    "No_previously_denied_runtime_host_permissions_found": {
+        "message": "कोई पहले से अस्वीकृत रनटाइम होस्ट अनुमतियाँ नहीं मिलीं"
+    },
     "No_script_is_installed": {
         "message": "कोई स्क्रिप्ट इनस्टॉल नहीं की गई है"
     },
@@ -932,11 +941,17 @@
     "Report_an_issue_to_the_script_hoster_": {
         "message": "दुरुपयोग होने की सूचना दें।\n(उपयोगकर्ता खाते की जरुरत हो सकती है)"
     },
+    "Requested_Host_Permissions": {
+        "message": "अनुरोधित होस्ट अनुमतियाँ"
+    },
     "Requires": {
         "message": "आवश्यक"
     },
     "Reset_Section": {
         "message": "रीसेट"
+    },
+    "Reset_list": {
+        "message": "सूची रीसेट करें"
     },
     "Resources": {
         "message": "साधन"
@@ -952,6 +967,9 @@
     },
     "Running_scripts": {
         "message": "स्क्रिप्ट घटनाएँ चल रही हैं"
+    },
+    "Runtime_Host_Permissions": {
+        "message": "रनटाइम होस्ट अनुमतियाँ"
     },
     "Save": {
         "message": "सेव करें"
@@ -1473,26 +1491,5 @@
     },
     "strict_mode": {
         "message": "सख्त मोड"
-    },
-    "Grant_all": {
-        "message": "सभी को अनुदान दें"
-    },
-    "Grant_selected": {
-        "message": "चयनित अनुदान"
-    },
-    "Host_permissions_denied_by_user_": {
-        "message": "होस्ट अनुमतियाँ उपयोगकर्ता द्वारा अस्वीकृत:"
-    },
-    "No_previously_denied_runtime_host_permissions_found": {
-        "message": "कोई पहले से अस्वीकृत रनटाइम होस्ट अनुमतियाँ नहीं मिलीं"
-    },
-    "Requested_Host_Permissions": {
-        "message": "अनुरोधित होस्ट अनुमतियाँ"
-    },
-    "Reset_list": {
-        "message": "सूची रीसेट करें"
-    },
-    "Runtime_Host_Permissions": {
-        "message": "रनटाइम होस्ट अनुमतियाँ"
     }
 }

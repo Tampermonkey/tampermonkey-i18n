@@ -125,54 +125,6 @@
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
         "message": "Uno script utente vuole accedere ad una risorsa multiorigine."
     },
-    "There_are_no_active_scripts__Do_you_want_to_search_for_userscripts_": {
-        "description": "Una domanda posta dal bot di servizio",
-        "message": "Non ci sono script attivi.\nVuoi cercare gli userscript?"
-    },
-    "Do_you_need_help_working_with_Tampermonkey_": {
-        "description": "Una domanda posta dal bot di servizio",
-        "message": "Hai bisogno di aiuto per lavorare con Tampermonkey?"
-    },
-    "Do_you_need_help_installing_new_scripts_to_Tampermonkey_": {
-        "description": "Una domanda posta dal bot di servizio",
-        "message": "Hai bisogno di aiuto per installare nuovi script su Tampermonkey?"
-    },
-    "Would_you_like_to_know_how_to_overwrite_or_extend_a_script_s_includes_and_or_excludes_": {
-        "description": "Una domanda posta dal bot di servizio",
-        "message": "Vuoi sapere come sovrascrivere o estendere le inclusioni e/o le esclusioni di uno script?"
-    },
-    "Do_you_need_help_syncing_all_your_installed_scripts_to_another_browser_": {
-        "description": "Una domanda posta dal bot di servizio",
-        "message": "Hai bisogno di aiuto per sincronizzare tutti gli script installati in un altro browser?"
-    },
-    "Would_you_like_to_learn_how_to_export_and_import_your_scripts_": {
-        "description": "Una domanda posta dal bot di servizio",
-        "message": "Vuoi imparare come esportare e importare glii script?"
-    },
-    "Do_you_want_to_know_how_to_allow_Tampermonkey_access_to_local_file_URIs_": {
-        "description": "Una domanda posta dal bot di servizio",
-        "message": "Vuoi sapere come consentire a Tampermonkey di accedere agli URI dei file locali?"
-    },
-    "One_of_your_scripts_is_blacklisted__Would_you_like_to_know_why_": {
-        "description": "Una domanda posta dal bot di servizio",
-        "message": "Uno degli script è nella lista nera.\nVuoi sapere perché?"
-    },
-    "Do_you_need_help_viewing_and_editing_values_stored_by_a_userscript_": {
-        "description": "Una domanda posta dal bot di servizio",
-        "message": "Hai bisogno di aiuto per visualizzare e modificare i valori memorizzati da uno script utente?"
-    },
-    "Do_you_want_to_use_an_external_editor_to_edit_your_scripts__nWould_you_like_to_know_how_to_set_this_up_": {
-        "description": "Una domanda posta dal bot di servizio",
-        "message": "Vuoi usre un editor esterno per modificare gli script?\nVuoi sapere come impostarlo?"
-    },
-    "Are_you_unsure_about_what__sandbox_value_to_use_": {
-        "description": "Una domanda posta dal bot di servizio",
-        "message": "Non sei sicuro di quale valore @sandbox usare?"
-    },
-    "Do_you_need_help_finding_Tampermonkey_s_console_output_": {
-        "description": "Una domanda posta dal bot di servizio",
-        "message": "Hai bisogno di aiuto per trovare l'output della console di Tampermonkey?"
-    },
     "Aborted_by_user": {
         "message": "Interrotto da utente"
     },
@@ -318,6 +270,10 @@
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Quando Tampermonkey viene aggiornato dal browser, esso viene anche riavviato.\nPurtroppo questo potrebbe danneggiare gli script attualmente in esecuzione!\n\nQuindi, sei sicuro di non voler essere avvisato per gli aggiornamenti?"
     },
+    "Are_you_unsure_about_what__sandbox_value_to_use_": {
+        "description": "Una domanda posta dal bot di servizio",
+        "message": "Non sei sicuro di quale valore @sandbox usare?"
+    },
     "Ask_if_unknown": {
         "message": "Chiedi se sconosciuto"
     },
@@ -326,9 +282,6 @@
     },
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "È stata modificata almeno una delle istruzioni @include, @match o @exclude."
-    },
-    "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
-        "message": "Almeno una parte di questa pagina è presente nell'impostazione delle 'pagine vietate'!"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Attenzione: l'elenco di esclusione è stato ridotto.\nControllalo manualmente!"
@@ -448,14 +401,6 @@
     "Clear_All": {
         "message": "Azzera tutto"
     },
-    "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
-        "message": "Seleziona 'OK' per permettere a TamperMonkey di accedere ai seguenti host:\n\n$host_list$",
-        "placeholders": {
-            "host_list": {
-                "content": "$1"
-            }
-        }
-    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Seleziona 'OK' per permettere a Tampermonkey di avviare download immediati."
     },
@@ -536,6 +481,9 @@
     "Cut": {
         "message": "Taglia"
     },
+    "DOM_mode_is_unsecure__Scripts_can_install_new_scripts_": {
+        "message": "Il modo sandbox 'DOM' non è sicuro.\nGli script utente in esecuzione hanno autorizzazioni di estensione quasi complete e possono persino modificare e installare nuovi script utente."
+    },
     "Dashboard": {
         "message": "Pannello di controllo"
     },
@@ -559,9 +507,6 @@
     },
     "Default_Light": {
         "message": "Predefinito - Chiaro"
-    },
-    "Default_tab_types_to_run_scripts_in": {
-        "message": "Tipi predefiniti schede in cui eseguire lo script"
     },
     "Delete": {
         "message": "Elimina"
@@ -614,6 +559,26 @@
     "Disabled": {
         "message": "Disabilitato"
     },
+    "Do_you_need_help_finding_Tampermonkey_s_console_output_": {
+        "description": "Una domanda posta dal bot di servizio",
+        "message": "Hai bisogno di aiuto per trovare l'output della console di Tampermonkey?"
+    },
+    "Do_you_need_help_installing_new_scripts_to_Tampermonkey_": {
+        "description": "Una domanda posta dal bot di servizio",
+        "message": "Hai bisogno di aiuto per installare nuovi script su Tampermonkey?"
+    },
+    "Do_you_need_help_syncing_all_your_installed_scripts_to_another_browser_": {
+        "description": "Una domanda posta dal bot di servizio",
+        "message": "Hai bisogno di aiuto per sincronizzare tutti gli script installati in un altro browser?"
+    },
+    "Do_you_need_help_viewing_and_editing_values_stored_by_a_userscript_": {
+        "description": "Una domanda posta dal bot di servizio",
+        "message": "Hai bisogno di aiuto per visualizzare e modificare i valori memorizzati da uno script utente?"
+    },
+    "Do_you_need_help_working_with_Tampermonkey_": {
+        "description": "Una domanda posta dal bot di servizio",
+        "message": "Hai bisogno di aiuto per lavorare con Tampermonkey?"
+    },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "L'opzione '$option$' è abilitata!\n\nVuoi davvero salvare il sorgente corretto?",
         "placeholders": {
@@ -621,6 +586,14 @@
                 "content": "$1"
             }
         }
+    },
+    "Do_you_want_to_know_how_to_allow_Tampermonkey_access_to_local_file_URIs_": {
+        "description": "Una domanda posta dal bot di servizio",
+        "message": "Vuoi sapere come consentire a Tampermonkey di accedere agli URI dei file locali?"
+    },
+    "Do_you_want_to_use_an_external_editor_to_edit_your_scripts__nWould_you_like_to_know_how_to_set_this_up_": {
+        "description": "Una domanda posta dal bot di servizio",
+        "message": "Vuoi usre un editor esterno per modificare gli script?\nVuoi sapere come impostarlo?"
     },
     "Document_End": {
         "message": "Fine documento"
@@ -891,6 +864,12 @@
     "Google_Drive": {
         "message": "Google Drive"
     },
+    "Grant_all": {
+        "message": "Concedi tutto"
+    },
+    "Grant_selected": {
+        "message": "Concedi selezionati"
+    },
     "Group_Left": {
         "message": "Gruppo a sinistra"
     },
@@ -914,6 +893,9 @@
     },
     "Homepage": {
         "message": "Pagina home"
+    },
+    "Host_permissions_denied_by_user_": {
+        "message": "Autorizzazioni host negate dall'utente:"
     },
     "I_contributed_already": {
         "message": "Ho già contribuito."
@@ -1122,6 +1104,9 @@
     "Modify": {
         "message": "Modifica"
     },
+    "Modifying_a_script_will_disable_automatic_script_updates_": {
+        "message": "La modifica di uno script disabiliterà gli aggiornamenti automatici degli script!"
+    },
     "Move_Line_Down": {
         "message": "Sposta linea giù"
     },
@@ -1163,6 +1148,9 @@
     },
     "No_frames": {
         "message": "Esegui solo nel frame principale"
+    },
+    "No_previously_denied_runtime_host_permissions_found": {
+        "message": "Non è stata trovata alcuna autorizzazione host runtime negata in precedenza"
     },
     "No_script_is_installed": {
         "message": "Nessuno script installato"
@@ -1208,6 +1196,10 @@
     },
     "One_error_or_hint_was_found_": {
         "message": "Uno o più errori o hit trovati."
+    },
+    "One_of_your_scripts_is_blacklisted__Would_you_like_to_know_why_": {
+        "description": "Una domanda posta dal bot di servizio",
+        "message": "Uno degli script è nella lista nera.\nVuoi sapere perché?"
     },
     "One_or_more_compatibility_options_are_set": {
         "message": "Sono attive una o più opzioni di compatibilità.\nPotresti/dovresti controllarle."
@@ -1288,9 +1280,6 @@
     },
     "Raw_and_JavaScript": {
         "message": "Raw and JavaScript"
-    },
-    "DOM_mode_is_unsecure__Scripts_can_install_new_scripts_": {
-        "message": "Il modo sandbox 'DOM' non è sicuro.\nGli script utente in esecuzione hanno autorizzazioni di estensione quasi complete e possono persino modificare e installare nuovi script utente."
     },
     "Really_delete_0name0__": {
         "message": "Vuoi davvero eliminare '$name$'?",
@@ -1388,11 +1377,17 @@
     "Report_an_issue_to_the_script_hoster_": {
         "message": "Segnala abuso\n(potrebbe essere necessario un account utente)"
     },
+    "Requested_Host_Permissions": {
+        "message": "Autorizzazioni host richieste"
+    },
     "Requires": {
         "message": "Richieste"
     },
     "Reset_Section": {
         "message": "Ripristina"
+    },
+    "Reset_list": {
+        "message": "Reimposta elenco"
     },
     "Resources": {
         "message": "Risorse"
@@ -1417,6 +1412,9 @@
     },
     "Running_scripts": {
         "message": "Istanze script in esecuzione"
+    },
+    "Runtime_Host_Permissions": {
+        "message": "Autorizzazioni host runtime"
     },
     "Sandbox_Mode": {
         "message": "Modo sandbox"
@@ -1625,9 +1623,6 @@
     "Tab_URL": {
         "message": "Scheda URL"
     },
-    "Tab_types": {
-        "message": "Tipi scheda"
-    },
     "Tabs": {
         "message": "Tabulazioni"
     },
@@ -1686,15 +1681,6 @@
     "The_origin_of_this_script_cant_be_determined_": {
         "message": "Attenzione: l'origine di questo script non può essere determinata.\nPotrebbe essere stato installato da un plugin malevolo di terze parti per catturare i dati privati o alcune impostazioni base del browser.\nIl sistema operativo o l'hardware sono stati modificati.!\n\nApri, verifica e salva lo script per abilitarlo."
     },
-    "The_script_was_successfully_deleted_": {
-        "message": "Lo script è stato correttamente eliminato."
-    },
-    "The_script_was_successfully_moved_to_the_trash_": {
-        "message": "Lo script è stato correttamente spostato nel cestino."
-    },
-    "Modifying_a_script_will_disable_automatic_script_updates_": {
-        "message": "La modifica di uno script disabiliterà gli aggiornamenti automatici degli script!"
-    },
     "The_script_was_modified_locally_on_0date0__Updating_it_will_overwrite_your_changes_": {
         "message": "Lo script è stato modificato localmente in data $date$.\nL'aggiornamento sovrascriverà le modifiche!",
         "placeholders": {
@@ -1702,6 +1688,12 @@
                 "content": "$1"
             }
         }
+    },
+    "The_script_was_successfully_deleted_": {
+        "message": "Lo script è stato correttamente eliminato."
+    },
+    "The_script_was_successfully_moved_to_the_trash_": {
+        "message": "Lo script è stato correttamente spostato nel cestino."
     },
     "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
         "message": "L'URL per l'aggiornamento è cambiata da:\n    '$oldurl$'\n    a:\n    '$newurl$'\n",
@@ -1716,6 +1708,10 @@
     },
     "Theme": {
         "message": "Tema"
+    },
+    "There_are_no_active_scripts__Do_you_want_to_search_for_userscripts_": {
+        "description": "Una domanda posta dal bot di servizio",
+        "message": "Non ci sono script attivi.\nVuoi cercare gli userscript?"
     },
     "There_are_unsaved_changed_": {
         "message": "Ci sono modifiche non salvate.\nVuoi davvero chiudere l'editor?"
@@ -1831,11 +1827,11 @@
     "Transpose": {
         "message": "Transponi"
     },
-    "Trash_bin": {
-        "message": "Cestino"
-    },
     "Trash_Mode": {
         "message": "Modo Cestino"
+    },
+    "Trash_bin": {
+        "message": "Cestino"
     },
     "Treat_like__match": {
         "message": "Tratta come @match"
@@ -2041,6 +2037,14 @@
     "Windows": {
         "message": "Finestre"
     },
+    "Would_you_like_to_know_how_to_overwrite_or_extend_a_script_s_includes_and_or_excludes_": {
+        "description": "Una domanda posta dal bot di servizio",
+        "message": "Vuoi sapere come sovrascrivere o estendere le inclusioni e/o le esclusioni di uno script?"
+    },
+    "Would_you_like_to_learn_how_to_export_and_import_your_scripts_": {
+        "description": "Una domanda posta dal bot di servizio",
+        "message": "Vuoi imparare come esportare e importare glii script?"
+    },
     "XHR_Security": {
         "message": "Sicurezza XHR"
     },
@@ -2139,26 +2143,5 @@
     },
     "top_level_await": {
         "message": "attesa livello superiore"
-    },
-    "Grant_all": {
-        "message": "Concedi tutto"
-    },
-    "Grant_selected": {
-        "message": "Concedi selezionati"
-    },
-    "Host_permissions_denied_by_user_": {
-        "message": "Autorizzazioni host negate dall'utente:"
-    },
-    "No_previously_denied_runtime_host_permissions_found": {
-        "message": "Non è stata trovata alcuna autorizzazione host runtime negata in precedenza"
-    },
-    "Requested_Host_Permissions": {
-        "message": "Autorizzazioni host richieste"
-    },
-    "Reset_list": {
-        "message": "Reimposta elenco"
-    },
-    "Runtime_Host_Permissions": {
-        "message": "Autorizzazioni host runtime"
     }
 }
