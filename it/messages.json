@@ -1,4 +1,22 @@
 {
+    "extName": {
+        "message": "Tampermonkey"
+    },
+    "extNameBeta": {
+        "message": "Tampermonkey BETA"
+    },
+    "extNameLegacy": {
+        "message": "Tampermonkey Legacy"
+    },
+    "extShortName": {
+        "message": "Tampermonkey"
+    },
+    "extShortNameBeta": {
+        "message": "TM BETA"
+    },
+    "extShortNameLegacy": {
+        "message": "TM Legacy"
+    },
     "extDescription": {
         "message": "Cambia il web a piacimento con gli userscript"
     },
@@ -231,6 +249,9 @@
     },
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "Si è verificato un errore interno.\nSe il problema persiste anche dopo un riavvio dl browser, seleziona OK e segnala questo problema nel forum.\n\nVuoi visitare il forum di Tampermonkey?"
+    },
+    "Android": {
+        "message": "Android"
     },
     "Anonymous_statistics": {
         "message": "Statistiche anonime"
@@ -828,6 +849,9 @@
     "Find_Under_Previous": {
         "message": "Trova sotto precedente"
     },
+    "Firefox": {
+        "message": "Firefox"
+    },
     "Fix_wrappedJSObject_property_access": {
         "message": "Correggi accesso alla proprietà wrappedJSObject"
     },
@@ -874,6 +898,20 @@
     },
     "General": {
         "message": "Generale"
+    },
+    "Get_0tm0_on_0os0_via_0browser0": {
+        "message": "Ottieni $tm$ su $os$ + $browser$",
+        "placeholders": {
+            "tm": {
+                "content": "$1"
+            },
+            "os": {
+                "content": "$2"
+            },
+            "browser": {
+                "content": "$3"
+            }
+        }
     },
     "Get_new_scripts___": {
         "message": "Trova nuovi script..."
@@ -1132,6 +1170,9 @@
     },
     "Matching_URL": {
         "message": "URL corrispondenti"
+    },
+    "Microsoft_Edge": {
+        "message": "Microsoft Edge"
     },
     "Modify": {
         "message": "Modifica"
@@ -1457,6 +1498,9 @@
     "Runtime_Host_Permissions": {
         "message": "Autorizzazioni host runtime"
     },
+    "Safari": {
+        "message": "Safari"
+    },
     "Sandbox_Mode": {
         "message": "Modo sandbox"
     },
@@ -1694,6 +1738,17 @@
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey non ha il permesso di accedere ai file locali!"
+    },
+    "Tampermonkey_is_available_on_0os0_via_0browser0": {
+        "message": "Tampermonkey è disponibile su $os$ + $browser$",
+        "placeholders": {
+            "os": {
+                "content": "$1"
+            },
+            "browser": {
+                "content": "$2"
+            }
+        }
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Tampermonkey potrebbe non essere in grado di fornire accesso al contesto non sicuro (unsafeWindow, funzioni e variabili della pagina) quando questa è disabilitata."
@@ -2160,6 +2215,9 @@
     },
     "fatal_error": {
         "message": "errore fatale"
+    },
+    "iOS": {
+        "message": "iOS"
     },
     "overwritten_by_user": {
         "message": "sovrascritta dalle impostazioni utente"
