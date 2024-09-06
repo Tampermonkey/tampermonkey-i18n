@@ -1,4 +1,22 @@
 {
+    "extName": {
+        "message": "Tampermonkey"
+    },
+    "extNameBeta": {
+        "message": "Tampermonkey BETA"
+    },
+    "extNameLegacy": {
+        "message": "Tampermonkey Legacy"
+    },
+    "extShortName": {
+        "message": "Tampermonkey"
+    },
+    "extShortNameBeta": {
+        "message": "TM BETA"
+    },
+    "extShortNameLegacy": {
+        "message": "TM Legacy"
+    },
     "extDescription": {
         "message": "Mude a web à vontade com userscripts"
     },
@@ -173,7 +191,7 @@
         "message": "Todos"
     },
     "All_but_HttpOnly": {
-        "message": "Todos exceto HttpOnly"
+        "message": "Todos, exceto cookies protegidos (HttpOnly)"
     },
     "All_local_files": {
         "message": "Todos os arquivos locais"
@@ -200,10 +218,10 @@
         "message": "Permitir uma vez"
     },
     "Allow_scripts_to_run_scripts_in": {
-        "message": "Tipos de guia padrão para executar scripts"
+        "message": "Tipos de guias padrão para executar scripts"
     },
     "Alltime_running_instances": {
-        "message": "Instâncias em execução"
+        "message": "Instâncias em execução constante"
     },
     "Always": {
         "message": "Sempre"
@@ -231,6 +249,9 @@
     },
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "Um erro interno ocorreu. Se este problema persistir mesmo após reiniciar o Chrome, pressione OK e reporte este problema no fórum.\n\nVocê deseja visitar o fórum do TamperMonkey?"
+    },
+    "Android": {
+        "message": "Android"
     },
     "Anonymous_statistics": {
         "message": "Estatísticas anônimas"
@@ -286,7 +307,7 @@
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Pelo menos uma das declarações @include, @match ou @exclude foi alterada."
     },
-    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
+    "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
         "message": "Pelo menos uma parte desta página está listada na opção 'Páginas proibidas'"
     },
     "Attention_Can_not_display_all_excludes_": {
@@ -407,10 +428,10 @@
     "Clear_All": {
         "message": "Limpar tudo"
     },
-    "Click_here_to_allow_TM_to_access_the_following_hosts_0hostlist0": {
-        "message": "Por favor, clique em OK para permitir que o Tampermonkey acesse os seguintes hosts:\n\n$hostlist$",
+    "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
+        "message": "Por favor, clique em OK para permitir que o Tampermonkey acesse os seguintes hosts:\n\n$host_list$",
         "placeholders": {
-            "hostlist": {
+            "host_list": {
                 "content": "$1"
             }
         }
@@ -684,10 +705,10 @@
         "message": "Habilitar Sincronizar Scripts"
     },
     "Enable_Tags": {
-        "message": "Ativar tags"
+        "message": "Habilitar tags"
     },
     "Enable_all_scripts_of_this_tag": {
-        "message": "Clique para ativar todos os scripts desta tag"
+        "message": "Clique para habilitar todos os scripts desta tag"
     },
     "Enable_autoSave": {
         "message": "Salvar conteúdo quando o editor perder o foco"
@@ -828,6 +849,9 @@
     "Find_Under_Previous": {
         "message": "Localizar sob anterior"
     },
+    "Firefox": {
+        "message": "Firefox"
+    },
     "Fix_wrappedJSObject_property_access": {
         "message": "Corrigir acesso de propriedade wrappedJSObject"
     },
@@ -875,6 +899,20 @@
     "General": {
         "message": "Geral"
     },
+    "Get_0tm0_on_0os0_via_0browser0": {
+        "message": "Obter $tm$ no $os$ + $browser$",
+        "placeholders": {
+            "tm": {
+                "content": "$1"
+            },
+            "os": {
+                "content": "$2"
+            },
+            "browser": {
+                "content": "$3"
+            }
+        }
+    },
     "Get_new_scripts___": {
         "message": "Obter novos scripts..."
     },
@@ -897,10 +935,10 @@
         "message": "Google Drive"
     },
     "Grant_all": {
-        "message": "Conceder tudo"
+        "message": "Conceder todos"
     },
     "Grant_selected": {
-        "message": "Conceder selecionado"
+        "message": "Conceder selecionados"
     },
     "Group_Left": {
         "message": "Grupo esquerdo"
@@ -927,7 +965,7 @@
         "message": "Pagina Inicial"
     },
     "Host_permissions_denied_by_user_": {
-        "message": "Permissões do host negadas pelo usuário:"
+        "message": "Permissões de host negadas pelo usuário:"
     },
     "I_contributed_already": {
         "message": "Eu já contribui."
@@ -1045,10 +1083,10 @@
         "message": "Instantâneo"
     },
     "Invalid_UserScript__Sry_": {
-        "message": "Userscript inválido!"
+        "message": "Script inválido. Desculpe!"
     },
     "Invalid_UserScript_name__Sry_": {
-        "message": "Nome do Userscript inválido!"
+        "message": "Nome de Script inválido. Desculpe!"
     },
     "JavaScript_and_DOM": {
         "message": "JavaScript+DOM"
@@ -1132,6 +1170,9 @@
     },
     "Matching_URL": {
         "message": "URL correspondente"
+    },
+    "Microsoft_Edge": {
+        "message": "Microsoft Edge"
     },
     "Modify": {
         "message": "Modificar"
@@ -1416,7 +1457,7 @@
         "message": "Reporte um problema ao criador do script.\n(Uma conta de usuário é necessária.)"
     },
     "Requested_Host_Permissions": {
-        "message": "Permissões do Host Solicitadas"
+        "message": "Permissões de host solicitadas"
     },
     "Requires": {
         "message": "Necessário"
@@ -1425,7 +1466,7 @@
         "message": "Redefinir"
     },
     "Reset_list": {
-        "message": "Redefinir Lista"
+        "message": "Redefinir lista"
     },
     "Resources": {
         "message": "Recursos"
@@ -1443,10 +1484,10 @@
         "message": "Revogar Token de Acesso"
     },
     "Run_at": {
-        "message": "Executar em"
+        "message": "Executar às"
     },
     "Run_in": {
-        "message": "Executar dentro"
+        "message": "Executar em"
     },
     "Run_syntax_check": {
         "message": "Executar verificação de sintaxe"
@@ -1455,7 +1496,10 @@
         "message": "Executando instâncias de scripts"
     },
     "Runtime_Host_Permissions": {
-        "message": "Permissões do Host de Execução"
+        "message": "Permissões de host de tempo de execução"
+    },
+    "Safari": {
+        "message": "Safari"
     },
     "Sandbox_Mode": {
         "message": "Modo Sandbox"
@@ -1481,10 +1525,10 @@
         "message": "Modo @include do userscript"
     },
     "Script_Sync": {
-        "message": "TESLA"
+        "message": "Sincronizar Userscript"
     },
     "Script_Tags": {
-        "message": "Tags de script"
+        "message": "Tags do script"
     },
     "Script_URL_detection": {
         "message": "Detecção do URL do script."
@@ -1659,7 +1703,7 @@
         "message": "Sincronização em andamento"
     },
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
-        "message": "Tampermonkey External Script List Access (Lista de Acesso de Scripts Externos do Tampermonkey)"
+        "message": "Sincronize seus scripts entre navegadores e sistemas operacionais"
     },
     "System_Tags": {
         "message": "Tags do sistema"
@@ -1676,11 +1720,11 @@
     "Tabs": {
         "message": "Guias"
     },
-    "Tag_Already_Exists": {
-        "message": "Esta tag já existe"
+    "Tab_types": {
+        "message": "Tipos de guias"
     },
-    "Tags": {
-        "message": "Tags"
+    "Tabs": {
+        "message": "Guias"
     },
     "Tam": {
         "message": "Tam",
@@ -1694,6 +1738,17 @@
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "O Tampermonkey não tem permissão para acessar arquivos locais!"
+    },
+    "Tampermonkey_is_available_on_0os0_via_0browser0": {
+        "message": "O Tampermonkey está disponível no $os$ + $browser$",
+        "placeholders": {
+            "os": {
+                "content": "$1"
+            },
+            "browser": {
+                "content": "$2"
+            }
+        }
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "O Tampermonkey talvez não possa ter acesso ao unsafe context (unsafeWindow, variáveis e funções da página) quando isto estiver desativado."
@@ -1805,7 +1860,7 @@
         "message": "Listado pelas opções de segurança"
     },
     "This_script_does_not_provide_any__include_information_": {
-        "message": "Este script não possui nenhuma informação @include ou @match."
+        "message": "Este script não possui nenhuma informação @include."
     },
     "This_script_does_not_require_any_special_powers_": {
         "message": "Este script não requer nenhum poder especial."
@@ -1887,7 +1942,7 @@
         "message": "Traço"
     },
     "Transpose": {
-        "message": "Inverter posição"
+        "message": "Transpor"
     },
     "Trash_Mode": {
         "message": "Modo Lixeira"
@@ -2160,6 +2215,9 @@
     },
     "fatal_error": {
         "message": "erro fatal"
+    },
+    "iOS": {
+        "message": "iOS"
     },
     "overwritten_by_user": {
         "message": "sobrescrito por opções do usuário"
