@@ -300,14 +300,14 @@
     "Disable": {
         "message": "Zakázat"
     },
+    "Disable_Updates": {
+        "message": "Zakázat aktualizace"
+    },
     "Disable_all_remaining_scripts_of_this_tag": {
         "message": "Klikněte pro deaktivaci všech zbývajících skriptů tohoto štítku"
     },
     "Disable_all_scripts_of_this_tag": {
         "message": "Klikněte pro deaktivaci všech skriptů tohoto štítku"
-    },
-    "Disable_Updates": {
-        "message": "Zakázat aktualizace"
     },
     "Disabled": {
         "message": "Vypnuto"
@@ -559,6 +559,9 @@
     "Layout": {
         "message": "Rozvržení"
     },
+    "Learn_more": {
+        "message": "Více informací"
+    },
     "LogLevel": {
         "message": "Úroveň logování"
     },
@@ -761,6 +764,9 @@
     "Save_to_disk": {
         "message": "Uložit na disk"
     },
+    "Scan_the_QR_code_to_use_Tampermonkey_on_your_phone_or_tablet_": {
+        "message": "Naskenujte QR kód pro použití Tampermonkey na vašem telefonu nebo tabletu."
+    },
     "Script_Blacklist_Source": {
         "message": "Zdroj blacklistu skriptů"
     },
@@ -878,6 +884,9 @@
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey nemá oprávnění pro přístup k lokálním souborům!"
+    },
+    "Tampermonkey_is_available_on_mobile_platforms": {
+        "message": "Tampermonkey je k dispozici na mobilních platformách"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Tampermonkey možná nebude moci přistupovat k nezabezpečenému obsahu (unsafeWindow, funkce a proměnné stránky), pokud je toto zakázáno."

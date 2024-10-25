@@ -567,14 +567,14 @@
     "Disable": {
         "message": "Désactiver"
     },
+    "Disable_Updates": {
+        "message": "Désactiver les mises à jour"
+    },
     "Disable_all_remaining_scripts_of_this_tag": {
         "message": "Cliquez pour désactiver tous les scripts restants de ce tag"
     },
     "Disable_all_scripts_of_this_tag": {
         "message": "Cliquez pour désactiver tous les scripts de ce tag"
-    },
-    "Disable_Updates": {
-        "message": "Désactiver les mises à jour"
     },
     "Disabled": {
         "message": "Désactivé"
@@ -1071,6 +1071,9 @@
     "Layout": {
         "message": "Disposition"
     },
+    "Learn_more": {
+        "message": "En savoir plus"
+    },
     "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
         "message": "Des autorisations d'hôte d'exécution limitées peuvent empêcher certaines fonctionnalités de Tampermonkey telles que la mise à jour de script, GM_xmlhttpRequest et autres.!"
     },
@@ -1451,6 +1454,9 @@
     "Save_to_disk": {
         "message": "Enregistrer sur le disque"
     },
+    "Scan_the_QR_code_to_use_Tampermonkey_on_your_phone_or_tablet_": {
+        "message": "Scannez le code QR pour utiliser Tampermonkey sur votre téléphone ou tablette."
+    },
     "Script_0name0_is_slowing_down_some_page_loads_": {
         "message": "Le script '$name$' ralentit le chargement de la page",
         "placeholders": {
@@ -1673,6 +1679,9 @@
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey n'a pas l'autorisation d'accéder aux fichiers locaux !"
+    },
+    "Tampermonkey_is_available_on_mobile_platforms": {
+        "message": "Tampermonkey est disponible sur les plateformes mobiles"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Tampermonkey ne peut peut-être pas donner accès au contenu non sécurisé (les fonctions/variables unsafeWindow) quand ceci est désactivé."

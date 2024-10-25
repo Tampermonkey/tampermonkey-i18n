@@ -511,14 +511,14 @@
     "Disable": {
         "message": "Tắt"
     },
+    "Disable_Updates": {
+        "message": "Tắt cập nhật"
+    },
     "Disable_all_remaining_scripts_of_this_tag": {
         "message": "Nhấn để vô hiệu hóa tất cả các tập lệnh còn lại của thẻ này"
     },
     "Disable_all_scripts_of_this_tag": {
         "message": "Nhấn để vô hiệu hóa tất cả các tập lệnh của thẻ này"
-    },
-    "Disable_Updates": {
-        "message": "Tắt cập nhật"
     },
     "Disabled": {
         "message": "Đã tắt"
@@ -988,6 +988,9 @@
     "Layout": {
         "message": "Bố cục"
     },
+    "Learn_more": {
+        "message": "Tìm hiểu thêm"
+    },
     "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
         "message": "Giới hạn chạy nền có thể phá vỡ một số tính năng của Tampermonkey như cập nhật tập lệnh, GM_xmlhttpRequest và các tính năng khác!"
     },
@@ -1356,6 +1359,9 @@
     "Save_to_disk": {
         "message": "Lưu vào ổ đĩa"
     },
+    "Scan_the_QR_code_to_use_Tampermonkey_on_your_phone_or_tablet_": {
+        "message": "Quét mã QR để sử dụng Tampermonkey trên điện thoại hoặc máy tính bảng của bạn."
+    },
     "Script_0name0_is_slowing_down_some_page_loads_": {
         "message": "Tập lệnh '$name$' đang làm chậm việc tải trang của bạn",
         "placeholders": {
@@ -1568,6 +1574,9 @@
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey không có quyền truy cập các tệp cục bộ!"
+    },
+    "Tampermonkey_is_available_on_mobile_platforms": {
+        "message": "Tampermonkey có sẵn trên các nền tảng di động"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Tampermonkey có thể không cung cấp quyền truy cập vào ngữ cảnh không an toàn (unsafeWindow, các hàm và biến của trang) khi tính năng này bị tắt"

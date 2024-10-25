@@ -385,14 +385,14 @@
     "Disable": {
         "message": "Onemogući"
     },
+    "Disable_Updates": {
+        "message": "Onemogući ažuriranja"
+    },
     "Disable_all_remaining_scripts_of_this_tag": {
         "message": "Klikni da onemogućiš sve preostale skripte ove oznake"
     },
     "Disable_all_scripts_of_this_tag": {
         "message": "Klikni da onemogućiš sve skripte ove oznake"
-    },
-    "Disable_Updates": {
-        "message": "Onemogući ažuriranja"
     },
     "Disabled": {
         "message": "Onemogućeno"
@@ -736,6 +736,9 @@
     "Layout": {
         "message": "Raspored"
     },
+    "Learn_more": {
+        "message": "Saznaj više"
+    },
     "Line_Case_Insensitive": {
         "message": "Linija nije zavisna od velikog i malog slova"
     },
@@ -1001,6 +1004,9 @@
     "Save_to_disk": {
         "message": "Sačuvaj na disk-u"
     },
+    "Scan_the_QR_code_to_use_Tampermonkey_on_your_phone_or_tablet_": {
+        "message": "Skenirajte QR kod da koristite Tampermonkey na vašem telefonu ili tabletu."
+    },
     "Script_0name0_is_slowing_down_some_page_loads_": {
         "message": "Skripta '$name$' vam usporava učitavanje stranice",
         "placeholders": {
@@ -1189,6 +1195,9 @@
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey nema dozvolu da pristupi lokalnim fajlovima!"
+    },
+    "Tampermonkey_is_available_on_mobile_platforms": {
+        "message": "Tampermonkey je dostupan i na mobilnim platformama"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Tampermonkey možda nije u mogućnosti da dozvoli pristup nesigurnom kontekstu (nesigurni prozori, funkcije i promenljive stranice) kada je ovo onemogućeno."

@@ -511,14 +511,14 @@
     "Disable": {
         "message": "Deaktivér"
     },
+    "Disable_Updates": {
+        "message": "Deaktiver opdateringer"
+    },
     "Disable_all_remaining_scripts_of_this_tag": {
         "message": "Klik for at deaktivere alle resterende scripts af dette tag"
     },
     "Disable_all_scripts_of_this_tag": {
         "message": "Klik for at deaktivere alle scripts af dette tag"
-    },
-    "Disable_Updates": {
-        "message": "Deaktiver opdateringer"
     },
     "Disabled": {
         "message": "Deaktiveret"
@@ -975,6 +975,9 @@
     "Layout": {
         "message": "Layout"
     },
+    "Learn_more": {
+        "message": "Læs mere"
+    },
     "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
         "message": "Begrænsede runtime-værtstilladelser kan ødelægge nogle Tampermonkey-funktioner såsom scriptopdatering, GM_xmlhttpRequest og andre!"
     },
@@ -1346,6 +1349,9 @@
     "Save_to_disk": {
         "message": "Gem på disk"
     },
+    "Scan_the_QR_code_to_use_Tampermonkey_on_your_phone_or_tablet_": {
+        "message": "Scan QR-koden for at bruge Tampermonkey på din telefon eller tablet."
+    },
     "Script_0name0_is_slowing_down_some_page_loads_": {
         "message": "Script '$name$' nedsætter hastigheden på dine sideindlæsninger",
         "placeholders": {
@@ -1562,6 +1568,9 @@
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey har ingen tilladelse til at tilgå lokale filer!"
+    },
+    "Tampermonkey_is_available_on_mobile_platforms": {
+        "message": "Tampermonkey er tilgængelig på mobile platforme"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Tampermonkey er muligvis ikke i stand til at give adgang til den usikre kontekst (unsafeWindow, sidens funktioner og variabler) når dette er deaktiveret."

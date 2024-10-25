@@ -567,15 +567,14 @@
     "Disable": {
         "message": "Отключить"
     },
+    "Disable_Updates": {
+        "message": "Отключить обновления"
+    },
     "Disable_all_remaining_scripts_of_this_tag": {
         "message": "Нажмите, чтобы отключить все оставшиеся скрипты этого тега"
     },
     "Disable_all_scripts_of_this_tag": {
         "message": "Нажмите, чтобы отключить все скрипты этого тега"
-
-    },
-    "Disable_Updates": {
-        "message": "Отключить обновления"
     },
     "Disabled": {
         "message": "Отключено"
@@ -1072,6 +1071,9 @@
     "Layout": {
         "message": "Тема"
     },
+    "Learn_more": {
+        "message": "Узнать больше"
+    },
     "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
         "message": "Ограниченные разрешения хоста во время выполнения могут нарушить некоторые функции Tampermonkey, такие как обновление скрипта, GM_xmlhttpRequest и другие!"
     },
@@ -1458,6 +1460,9 @@
     "Save_to_disk": {
         "message": "Сохранить на диск"
     },
+    "Scan_the_QR_code_to_use_Tampermonkey_on_your_phone_or_tablet_": {
+        "message": "Отсканируйте QR-код, чтобы использовать Tampermonkey на своём телефоне или планшете."
+    },
     "Script_0name0_is_slowing_down_some_page_loads_": {
         "message": "Скрипт '$name$' замедляет загрузку вашей страницы",
         "placeholders": {
@@ -1680,6 +1685,9 @@
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "У Tampermonkey нет разрешения на доступ к локальным файлам!"
+    },
+    "Tampermonkey_is_available_on_mobile_platforms": {
+        "message": "Tampermonkey доступен на мобильных платформах"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Если отключено, Tampermonkey не сможет предоставить доступ к небезопасному контексту (unsafeWindow, функциям и переменным страницы)."

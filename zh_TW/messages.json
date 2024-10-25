@@ -579,14 +579,14 @@
     "Disable": {
         "message": "停用"
     },
+    "Disable_Updates": {
+        "message": "停用更新"
+    },
     "Disable_all_remaining_scripts_of_this_tag": {
         "message": "點擊禁用該標籤的所有剩餘腳本"
     },
     "Disable_all_scripts_of_this_tag": {
         "message": "點擊禁用該標籤的所有腳本"
-    },
-    "Disable_Updates": {
-        "message": "停用更新"
     },
     "Disabled": {
         "message": "已停用"
@@ -1083,6 +1083,9 @@
     "Layout": {
         "message": "介面設定"
     },
+    "Learn_more": {
+        "message": "了解更多"
+    },
     "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
         "message": "執行期宿主的權限受限可能會導致一些篡改猴的功能無法運作，例如腳本更新、GM_xmlhttpRequest...等。"
     },
@@ -1463,6 +1466,9 @@
     "Save_to_disk": {
         "message": "儲存到磁碟"
     },
+    "Scan_the_QR_code_to_use_Tampermonkey_on_your_phone_or_tablet_": {
+        "message": "掃描 QR 碼在您的手機或平板電腦上使用篡改猴"
+    },
     "Script_0name0_is_slowing_down_some_page_loads_": {
         "message": "腳本 '$name$' 正在拖慢你的頁面載入速度",
         "placeholders": {
@@ -1688,6 +1694,9 @@
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "篡改猴沒有存取本地檔案的權限！"
+    },
+    "Tampermonkey_is_available_on_mobile_platforms": {
+        "message": "篡改猴在移動平台上可用"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "當此選項停用時，篡改猴將無法提供存取 unsafe context（unsafeWindow，網頁的函式和變數）。"

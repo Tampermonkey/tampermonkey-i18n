@@ -1,22 +1,4 @@
 {
-    "extName": {
-        "message": "Tampermonkey"
-    },
-    "extNameBeta": {
-        "message": "Tampermonkey BETA"
-    },
-    "extNameLegacy": {
-        "message": "Tampermonkey Legacy"
-    },
-    "extShortName": {
-        "message": "Tampermonkey"
-    },
-    "extShortNameBeta": {
-        "message": "TM BETA"
-    },
-    "extShortNameLegacy": {
-        "message": "TM Legacy"
-    },
     "extDescription": {
         "message": "Змінюйте веб на свій розсуд за допомогою користувацьких скриптів"
     },
@@ -249,9 +231,6 @@
     },
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "Сталася внутрішня помилка. Якщо ця проблема зберігається навіть після перезапуску браузера, натисніть ОК і повідомте про це на форумі.\n\nВи хочете відвідати форум Tampermonkey?"
-    },
-    "Android": {
-        "message": "Android"
     },
     "Anonymous_statistics": {
         "message": "Анонімна статистика"
@@ -591,14 +570,14 @@
     "Disable": {
         "message": "Вимкнути"
     },
+    "Disable_Updates": {
+        "message": "Вимкнути оновлення"
+    },
     "Disable_all_remaining_scripts_of_this_tag": {
         "message": "Натисніть, щоб вимкнути всі залишкові скрипти цього тега"
     },
     "Disable_all_scripts_of_this_tag": {
         "message": "Натисніть, щоб вимкнути всі скрипти цього тега"
-    },
-    "Disable_Updates": {
-        "message": "Вимкнути оновлення"
     },
     "Disabled": {
         "message": "Вимкнено"
@@ -849,9 +828,6 @@
     "Find_Under_Previous": {
         "message": "Знайти до попереднім"
     },
-    "Firefox": {
-        "message": "Firefox"
-    },
     "Fix_wrappedJSObject_property_access": {
         "message": "Виправити доступ до властивостей wrappedJSObject"
     },
@@ -898,20 +874,6 @@
     },
     "General": {
         "message": "Загальні"
-    },
-    "Get_0tm0_on_0os0_via_0browser0": {
-        "message": "Отримайте $tm$ на $os$ + $browser$",
-        "placeholders": {
-            "tm": {
-                "content": "$1"
-            },
-            "os": {
-                "content": "$2"
-            },
-            "browser": {
-                "content": "$3"
-            }
-        }
     },
     "Get_new_scripts___": {
         "message": "Знайти нові скрипти..."
@@ -1112,6 +1074,9 @@
     "Layout": {
         "message": "Макет"
     },
+    "Learn_more": {
+        "message": "Дізнатися більше"
+    },
     "Legacy": {
         "message": "Спадщина"
     },
@@ -1170,9 +1135,6 @@
     },
     "Matching_URL": {
         "message": "URL, що відповідає"
-    },
-    "Microsoft_Edge": {
-        "message": "Microsoft Edge"
     },
     "Modify": {
         "message": "Змінити"
@@ -1498,9 +1460,6 @@
     "Runtime_Host_Permissions": {
         "message": "Дозволи хоста під час виконання"
     },
-    "Safari": {
-        "message": "Safari"
-    },
     "Sandbox_Mode": {
         "message": "Режим пісочниці"
     },
@@ -1509,6 +1468,9 @@
     },
     "Save_to_disk": {
         "message": "Зберегти на диск"
+    },
+    "Scan_the_QR_code_to_use_Tampermonkey_on_your_phone_or_tablet_": {
+        "message": "Скануйте QR-код, щоб використовувати Tampermonkey на своєму телефоні або планшеті."
     },
     "Script_0name0_is_slowing_down_some_page_loads_": {
         "message": "Користувацький скрипт '$name$' уповільнює завантаження сторінки",
@@ -1739,16 +1701,8 @@
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey не має дозволу на доступ до локальних файлів!"
     },
-    "Tampermonkey_is_available_on_0os0_via_0browser0": {
-        "message": "Tampermonkey доступний на $os$ + $browser$",
-        "placeholders": {
-            "os": {
-                "content": "$1"
-            },
-            "browser": {
-                "content": "$2"
-            }
-        }
+    "Tampermonkey_is_available_on_mobile_platforms": {
+        "message": "Tampermonkey доступний на мобільних платформах"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Tampermonkey може не мати можливості надати доступ до небезпечного контексту (unsafeWindow, функції та змінні сторінки), коли це вимкнено."
@@ -2215,9 +2169,6 @@
     },
     "fatal_error": {
         "message": "фатальна помилка"
-    },
-    "iOS": {
-        "message": "iOS"
     },
     "overwritten_by_user": {
         "message": "перезаписано налаштуваннями користувача"

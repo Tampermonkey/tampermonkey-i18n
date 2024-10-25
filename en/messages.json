@@ -250,9 +250,6 @@
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
         "message": "An internal error occurred. If this problem persists even after a restart of the browser, please press OK and report this issue at the forum.\n\nDo you want to visit the Tampermonkey forum?"
     },
-    "Android": {
-        "message": "Android"
-    },
     "Anonymous_statistics": {
         "message": "Anonymous statistics"
     },
@@ -591,14 +588,14 @@
     "Disable": {
         "message": "Disable"
     },
+    "Disable_Updates": {
+        "message": "Disable Updates"
+    },
     "Disable_all_remaining_scripts_of_this_tag": {
         "message": "Click to disable all remaining scripts of this tag"
     },
     "Disable_all_scripts_of_this_tag": {
         "message": "Click to disable all scripts of this tag"
-    },
-    "Disable_Updates": {
-        "message": "Disable Updates"
     },
     "Disabled": {
         "message": "Disabled"
@@ -849,9 +846,6 @@
     "Find_Under_Previous": {
         "message": "Find Under Previous"
     },
-    "Firefox": {
-        "message": "Firefox"
-    },
     "Fix_wrappedJSObject_property_access": {
         "message": "Fix wrappedJSObject property access"
     },
@@ -898,20 +892,6 @@
     },
     "General": {
         "message": "General"
-    },
-    "Get_0tm0_on_0os0_via_0browser0": {
-        "message": "Get $tm$ on $os$ + $browser$",
-        "placeholders": {
-            "tm": {
-                "content": "$1"
-            },
-            "os": {
-                "content": "$2"
-            },
-            "browser": {
-                "content": "$3"
-            }
-        }
     },
     "Get_new_scripts___": {
         "message": "Find new scripts..."
@@ -1112,6 +1092,9 @@
     "Layout": {
         "message": "Layout"
     },
+    "Learn_more": {
+        "message": "Learn more"
+    },
     "Legacy": {
         "message": "Legacy"
     },
@@ -1170,9 +1153,6 @@
     },
     "Matching_URL": {
         "message": "Matching URL"
-    },
-    "Microsoft_Edge": {
-        "message": "Microsoft Edge"
     },
     "Modify": {
         "message": "Modify"
@@ -1498,9 +1478,6 @@
     "Runtime_Host_Permissions": {
         "message": "Runtime Host Permissions"
     },
-    "Safari": {
-        "message": "Safari"
-    },
     "Sandbox_Mode": {
         "message": "Sandbox Mode"
     },
@@ -1509,6 +1486,9 @@
     },
     "Save_to_disk": {
         "message": "Save to disk"
+    },
+    "Scan_the_QR_code_to_use_Tampermonkey_on_your_phone_or_tablet_": {
+        "message": "Scan the QR code to use Tampermonkey on your phone or tablet."
     },
     "Script_0name0_is_slowing_down_some_page_loads_": {
         "message": "Userscript '$name$' is slowing down your page loads",
@@ -1739,16 +1719,8 @@
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey has no permission to access local files!"
     },
-    "Tampermonkey_is_available_on_0os0_via_0browser0": {
-        "message": "Tampermonkey is available on $os$ + $browser$",
-        "placeholders": {
-            "os": {
-                "content": "$1"
-            },
-            "browser": {
-                "content": "$2"
-            }
-        }
+    "Tampermonkey_is_available_on_mobile_platforms": {
+        "message": "Tampermonkey is available on mobile platforms"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Tampermonkey might not be able to provide access to the unsafe context (unsafeWindow, page's functions and variables) when this is disabled."
@@ -2215,9 +2187,6 @@
     },
     "fatal_error": {
         "message": "fatal error"
-    },
-    "iOS": {
-        "message": "iOS"
     },
     "overwritten_by_user": {
         "message": "overwritten by user setting"

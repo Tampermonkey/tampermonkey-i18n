@@ -197,14 +197,14 @@
     "Details": {
         "message": "Detail"
     },
+    "Disable_Updates": {
+        "message": "Nonaktifkan Pembaruan"
+    },
     "Disable_all_remaining_scripts_of_this_tag": {
         "message": "Klik untuk menonaktifkan semua skrip yang tersisa dari tag ini"
     },
     "Disable_all_scripts_of_this_tag": {
         "message": "Klik untuk menonaktifkan semua skrip dari tag ini"
-    },
-    "Disable_Updates": {
-        "message": "Nonaktifkan Pembaruan"
     },
     "Disabled": {
         "message": "Nonaktif"
@@ -384,6 +384,9 @@
     "Last_updated": {
         "message": "Terakhir diperbarui"
     },
+    "Learn_more": {
+        "message": "Pelajari lebih lanjut"
+    },
     "Line_break": {
         "message": "Baris Jeda"
     },
@@ -535,6 +538,9 @@
     "Save": {
         "message": "Simpan"
     },
+    "Scan_the_QR_code_to_use_Tampermonkey_on_your_phone_or_tablet_": {
+        "message": "Pindai kode QR untuk menggunakan Tampermonkey di ponsel atau tablet Anda."
+    },
     "Script_Blacklist_Source": {
         "message": "Sumber Daftar-Hitam skrip"
     },
@@ -604,6 +610,9 @@
     },
     "Tags": {
         "message": "Tag"
+    },
+    "Tampermonkey_is_available_on_mobile_platforms": {
+        "message": "Tampermonkey tersedia di platform seluler"
     },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
         "message": "Tampermonkey perlu mulai kembali untuk menyimpan perubahan.\n\nLanjutkan?"

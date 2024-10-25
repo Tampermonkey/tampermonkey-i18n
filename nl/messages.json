@@ -433,14 +433,14 @@
     "Disable": {
         "message": "Uitschakelen"
     },
+    "Disable_Updates": {
+        "message": "Updates uitschakelen"
+    },
     "Disable_all_remaining_scripts_of_this_tag": {
         "message": "Klik om alle resterende scripts van deze tag uit te schakelen"
     },
     "Disable_all_scripts_of_this_tag": {
         "message": "Klik om alle scripts van deze tag uit te schakelen"
-    },
-    "Disable_Updates": {
-        "message": "Updates uitschakelen"
     },
     "Disabled": {
         "message": "Uitgeschakeld"
@@ -796,6 +796,9 @@
     "Layout": {
         "message": "Layout"
     },
+    "Learn_more": {
+        "message": "Meer informatie"
+    },
     "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
         "message": "Beperkte runtime host-rechten zouden sommige Tampermonkey-functionaliteiten zoals automatische script-updates, GM_xmlhttpRequest en anderen kapot kunnen maken!"
     },
@@ -1076,6 +1079,9 @@
     "Save_to_disk": {
         "message": "Naar schijf opslaan"
     },
+    "Scan_the_QR_code_to_use_Tampermonkey_on_your_phone_or_tablet_": {
+        "message": "Scan de QR-code om Tampermonkey op uw telefoon of tablet te gebruiken!"
+    },
     "Script_0name0_is_slowing_down_some_page_loads_": {
         "message": "Het script '$name$' vertraagt het laden van pagina's",
         "placeholders": {
@@ -1270,6 +1276,9 @@
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey heeft geen recht op toegang tot lokale bestanden!"
+    },
+    "Tampermonkey_is_available_on_mobile_platforms": {
+        "message": "Tampermonkey is beschikbaar op mobiele platforms"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Het zou kunnen dat Tampermonkey geen toegang kan geven tot de onveilige context (unsafeWindow, functies en variabeles van pagina's) als dit uitgeschakeld is."

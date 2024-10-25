@@ -341,14 +341,14 @@
     "Disable": {
         "message": "Wyłącz"
     },
+    "Disable_Updates": {
+        "message": "Wyłącz aktualizacje"
+    },
     "Disable_all_remaining_scripts_of_this_tag": {
         "message": "Kliknij, aby wyłączyć wszystkie pozostałe skrypty tego tagu"
     },
     "Disable_all_scripts_of_this_tag": {
         "message": "Kliknij, aby wyłączyć wszystkie skrypty tego tagu"
-    },
-    "Disable_Updates": {
-        "message": "Wyłącz aktualizacje"
     },
     "Disabled": {
         "message": "Wyłączone"
@@ -621,6 +621,9 @@
     "Layout": {
         "message": "Układ"
     },
+    "Learn_more": {
+        "message": "Dowiedz się więcej"
+    },
     "Line_break": {
         "message": "Koniec linii"
     },
@@ -844,6 +847,9 @@
     "Save_to_disk": {
         "message": "Zapisz na dysk"
     },
+    "Scan_the_QR_code_to_use_Tampermonkey_on_your_phone_or_tablet_": {
+        "message": "Zeskanuj kod QR, by używać Tampermonkey na swoim telefonie lub tablecie."
+    },
     "Script_Blacklist_Source": {
         "message": "Źródło czarnej listy skryptów"
     },
@@ -973,6 +979,9 @@
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey nie ma uprawnień dostępu do lokalnych plików!"
+    },
+    "Tampermonkey_is_available_on_mobile_platforms": {
+        "message": "Tampermonkey jest dostępny na platformach mobilnych"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Tampermonkey może nie mieć możliwości, by udzielić dostęp do niebezpiecznego kontekstu (unsafeWindow, funkcje i zmienne strony), kiedy to jest wyłączone."

@@ -230,14 +230,14 @@
     "Disable": {
         "message": "Kikapcsolva"
     },
+    "Disable_Updates": {
+        "message": "Frissítések kikapcsolása"
+    },
     "Disable_all_remaining_scripts_of_this_tag": {
         "message": "Kattintson ide az összes megmaradt szkript letiltásához ehhez a címkéhez"
     },
     "Disable_all_scripts_of_this_tag": {
         "message": "Kattintson ide az összes szkript letiltásához ehhez a címkéhez"
-    },
-    "Disable_Updates": {
-        "message": "Frissítések kikapcsolása"
     },
     "Disabled": {
         "message": "Kikapcsolva "
@@ -465,6 +465,9 @@
     "Layout": {
         "message": "Elrendezés"
     },
+    "Learn_more": {
+        "message": "További információ"
+    },
     "LogLevel": {
         "message": "Naplózási szint"
     },
@@ -641,6 +644,9 @@
     "Save_to_disk": {
         "message": "Lemezre ment"
     },
+    "Scan_the_QR_code_to_use_Tampermonkey_on_your_phone_or_tablet_": {
+        "message": "Olvasd be a QR kódot a Tampermonkey használatához a telefonodon vagy táblagépeden!"
+    },
     "Script_Blacklist_Source": {
         "message": "Szkript feketelista forrás"
     },
@@ -738,6 +744,9 @@
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "A Tampermonkey –nak nincs jogosultsága a helyi fájlokhoz!"
+    },
+    "Tampermonkey_is_available_on_mobile_platforms": {
+        "message": "A Tampermonkey elérhető mobil platformokon is!"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "A Tampermonkey lehet hogy nem tud hozzáférést nyújtani nem biztonságos kontextushoz (unsafeWindow, oldal funkciók és változók) ha ez ki van kapcsolva."

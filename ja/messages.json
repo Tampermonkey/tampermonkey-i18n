@@ -1,12 +1,6 @@
 {
-    "extName": {
-        "message": "Tampermonkey"
-    },
     "extNameBeta": {
         "message": "Tampermonkey ベータ版"
-    },
-    "extShortName": {
-        "message": "Tampermonkey"
     },
     "extShortNameBeta": {
         "message": "TM ベータ"
@@ -576,14 +570,14 @@
     "Disable": {
         "message": "無効にする"
     },
+    "Disable_Updates": {
+        "message": "更新を無効にする"
+    },
     "Disable_all_remaining_scripts_of_this_tag": {
         "message": "クリックしてこのタグの残りのすべてのスクリプトを無効化"
     },
     "Disable_all_scripts_of_this_tag": {
         "message": "クリックしてこのタグのすべてのスクリプトを無効化"
-    },
-    "Disable_Updates": {
-        "message": "更新を無効にする"
     },
     "Disabled": {
         "message": "無効"
@@ -1080,6 +1074,9 @@
     "Layout": {
         "message": "レイアウト"
     },
+    "Learn_more": {
+        "message": "詳細"
+    },
     "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
         "message": "実行時ホスト権限を制限すると、スクリプト更新、GM_xmlhttpRequest などのような Tampermonkey の一部の機能が動作しないおそれがあります!"
     },
@@ -1469,6 +1466,9 @@
     "Save_to_disk": {
         "message": "ディスクに保存"
     },
+    "Scan_the_QR_code_to_use_Tampermonkey_on_your_phone_or_tablet_": {
+        "message": "QR コードをスキャンして、スマートフォンやタブレットで Tampermonkey を使用"
+    },
     "Script_0name0_is_slowing_down_some_page_loads_": {
         "message": "UserScript '$name$' がページの読み込みを低速化させています",
         "placeholders": {
@@ -1697,6 +1697,9 @@
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey にローカル ファイルへのアクセス権なし"
+    },
+    "Tampermonkey_is_available_on_mobile_platforms": {
+        "message": "Tampermonkey はモバイル プラットフォームで利用可能です"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "無効にすると、安全ではない場合 (unsafeWindow、ページの関数や変数) へのアクセスを Tampermonkey が提供できなくなります。"

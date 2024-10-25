@@ -381,14 +381,14 @@
     "Disable": {
         "message": "अक्षम करें"
     },
+    "Disable_Updates": {
+        "message": "अपडेट अक्षम करें"
+    },
     "Disable_all_remaining_scripts_of_this_tag": {
         "message": "इस टैग की सभी शेष स्क्रिप्ट्स को अक्षम करने के लिए क्लिक करें"
     },
     "Disable_all_scripts_of_this_tag": {
         "message": "इस टैग की सभी स्क्रिप्ट्स को अक्षम करने के लिए क्लिक करें"
-    },
-    "Disable_Updates": {
-        "message": "अपडेट अक्षम करें"
     },
     "Disabled": {
         "message": "असक्रिय किया गया"
@@ -742,6 +742,9 @@
     "Layout": {
         "message": "लेआउट"
     },
+    "Learn_more": {
+        "message": "और अधिक जानें"
+    },
     "Line_Case_Insensitive": {
         "message": "रेखा केस संवेदी"
     },
@@ -1022,6 +1025,9 @@
     "Save_to_disk": {
         "message": "डिस्क में सहेजें"
     },
+    "Scan_the_QR_code_to_use_Tampermonkey_on_your_phone_or_tablet_": {
+        "message": "अपने फोन या टैबलेट पर Tampermonkey का उपयोग करने के लिए QR कोड स्कैन करें।"
+    },
     "Script_Blacklist_Source": {
         "message": "स्क्रिप्ट ब्लैकलिस्ट स्रोत"
     },
@@ -1196,6 +1202,9 @@
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey को स्थानीय फ़ाइलों का उपयोग करने की अनुमति नहीं है!"
+    },
+    "Tampermonkey_is_available_on_mobile_platforms": {
+        "message": "Tampermonkey मोबाइल प्लेटफार्म पर उपलब्ध है"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Tampermonkey अक्षम किए जाने पर असुरक्षित संदर्भ (unsafeWindow, पेज के कार्यों और वैरिएबल) को प्रदान करने में अक्षम हो सकता है।"

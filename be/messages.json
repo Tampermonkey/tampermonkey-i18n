@@ -447,14 +447,14 @@
     "Disable": {
         "message": "Адключыць"
     },
+    "Disable_Updates": {
+        "message": "Адключыць абнаўленні"
+    },
     "Disable_all_remaining_scripts_of_this_tag": {
         "message": "Націсніце, каб адключыць усе астатнія скрыпты гэтага тэга"
     },
     "Disable_all_scripts_of_this_tag": {
         "message": "Націсніце, каб адключыць усе скрыпты гэтага тэга"
-    },
-    "Disable_Updates": {
-        "message": "Адключыць абнаўленні"
     },
     "Disabled": {
         "message": "Адключаны"
@@ -813,6 +813,9 @@
     "Layout": {
         "message": "Дызайн"
     },
+    "Learn_more": {
+        "message": "Даведацца больш"
+    },
     "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
         "message": "Абмежаваныя дазволу хаста падчас выканання могуць парушыць некаторыя функцыі Tampermonkey, такія як абнаўленне скрыпту, GM_xmlhttpRequest і іншыя!"
     },
@@ -1093,6 +1096,9 @@
     "Save_to_disk": {
         "message": "Захаваць на дыск"
     },
+    "Scan_the_QR_code_to_use_Tampermonkey_on_your_phone_or_tablet_": {
+        "message": "Скануйце QR-код, каб выкарыстоўваць Tampermonkey на вашым смартфоне або планшэце."
+    },
     "Script_0name0_is_slowing_down_some_page_loads_": {
         "message": "Скрыпт '$name$' запавольвае загрузку вашай старонкі",
         "placeholders": {
@@ -1287,6 +1293,9 @@
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "У Tampermonkey няма правоў доступу да лакальных файлаў!"
+    },
+    "Tampermonkey_is_available_on_mobile_platforms": {
+        "message": "Tampermonkey даступны на мабільных платформах"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Без гэтай опцыі Tampermonkey можа забараняць доступ да небяспечнага кантэнту (unsafeWindow, функцыі і зменныя старонкі)"

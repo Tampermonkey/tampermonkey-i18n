@@ -312,14 +312,14 @@
     "Disable": {
         "message": "Deaktiver"
     },
+    "Disable_Updates": {
+        "message": "Deaktiver oppdateringer"
+    },
     "Disable_all_remaining_scripts_of_this_tag": {
         "message": "Klikk for å deaktivere alle gjenværende skript for denne taggen"
     },
     "Disable_all_scripts_of_this_tag": {
         "message": "Klikk for å deaktivere alle skript for denne taggen"
-    },
-    "Disable_Updates": {
-        "message": "Deaktiver oppdateringer"
     },
     "Disabled": {
         "message": "Deaktivert"
@@ -580,6 +580,9 @@
     "Layout": {
         "message": "Oppsett"
     },
+    "Learn_more": {
+        "message": "Lær mer"
+    },
     "Line_break": {
         "message": "Linjebryting"
     },
@@ -797,6 +800,9 @@
     "Save_to_disk": {
         "message": "Lagre til disk"
     },
+    "Scan_the_QR_code_to_use_Tampermonkey_on_your_phone_or_tablet_": {
+        "message": "Skan QR-koden for å bruke Tampermonkey på telefonen eller nettbrettet ditt."
+    },
     "Script_Blacklist_Source": {
         "message": "Skriptets svartelistekilder"
     },
@@ -917,6 +923,9 @@
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey har ikke adgang til de lokale filene!"
+    },
+    "Tampermonkey_is_available_on_mobile_platforms": {
+        "message": "Tampermonkey er tilgjengelig på mobile plattformer"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Tampermonkey kan muligens ikke skaffe tilgang til den usikre sammenhengen ('unsafeWindow', en sides funksjoner, og variablene) dersom dette er deaktivert."

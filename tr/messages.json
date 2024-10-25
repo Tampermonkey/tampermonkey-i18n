@@ -520,14 +520,14 @@
     "Disable": {
         "message": "Devre dışı bırak"
     },
+    "Disable_Updates": {
+        "message": "Güncellemeleri devre dışı bırak"
+    },
     "Disable_all_remaining_scripts_of_this_tag": {
         "message": "Bu etiketin kalan tüm komut dosyalarını devre dışı bırakmak için tıklayın"
     },
     "Disable_all_scripts_of_this_tag": {
         "message": "Bu etiketin tüm komut dosyalarını devre dışı bırakmak için tıklayın"
-    },
-    "Disable_Updates": {
-        "message": "Güncellemeleri devre dışı bırak"
     },
     "Disabled": {
         "message": "Devre dışı"
@@ -926,6 +926,9 @@
     "Layout": {
         "message": "Düzen"
     },
+    "Learn_more": {
+        "message": "Daha fazla bilgi"
+    },
     "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
         "message": "Sınırlı çalışma zamanı sunucu izinleri, betik güncellemesi ve GM_xmlhttpRequest gibi bazı Tampermonkey özelliklerini bozabilir!"
     },
@@ -1248,6 +1251,9 @@
     "Save_to_disk": {
         "message": "Diske kaydet"
     },
+    "Scan_the_QR_code_to_use_Tampermonkey_on_your_phone_or_tablet_": {
+        "message": "Tampermonkey'i telefonunuzda veya tabletinizde kullanmak için QR kodunu tarayın"
+    },
     "Script_0name0_is_slowing_down_some_page_loads_": {
         "message": "'$name$' betiği sayfalarınızın yüklenmesini yavaşlatıyor",
         "placeholders": {
@@ -1463,6 +1469,9 @@
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey'in yerel dosyalara erişme izni yok!"
+    },
+    "Tampermonkey_is_available_on_mobile_platforms": {
+        "message": "Tampermonkey mobil platformlarda da kullanılabilir"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Bu devre dışı bırakıldığında Tampermonkey güvenli olmayan içeriklere (unsafeWindow, sayfanın işlevleri ve değişkenleri) erişemeyebilir."

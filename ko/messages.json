@@ -300,14 +300,14 @@
     "Disable": {
         "message": "비활성화"
     },
+    "Disable_Updates": {
+        "message": "업데이트 비활성화"
+    },
     "Disable_all_remaining_scripts_of_this_tag": {
         "message": "이 태그의 나머지 모든 스크립트를 비활성화하려면 클릭하세요"
     },
     "Disable_all_scripts_of_this_tag": {
         "message": "이 태그의 모든 스크립트를 비활성화하려면 클릭하세요"
-    },
-    "Disable_Updates": {
-        "message": "업데이트 비활성화"
     },
     "Disabled": {
         "message": "비활성화됨"
@@ -568,6 +568,9 @@
     "Layout": {
         "message": "레이아웃"
     },
+    "Learn_more": {
+        "message": "더 알아보기"
+    },
     "Line_break": {
         "message": "줄 바꿈"
     },
@@ -794,6 +797,9 @@
     "Save_to_disk": {
         "message": "저장"
     },
+    "Scan_the_QR_code_to_use_Tampermonkey_on_your_phone_or_tablet_": {
+        "message": "QR 코드를 스캔하여 Tampermonkey를 당신의 스마트폰이나 태블릿에서 사용하세요!"
+    },
     "Script_Blacklist_Source": {
         "message": "스크립트 블랙리스트 출처"
     },
@@ -920,6 +926,9 @@
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey가 로컬 파일에 접근하기 위한 권한이 없습니다!"
+    },
+    "Tampermonkey_is_available_on_mobile_platforms": {
+        "message": "Tampermonkey는 모바일 플랫폼에서 사용 가능합니다."
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "이것이 비활성화되어 있다면 Tampermonkey가 안전하지 않은 것(unsafeWindow, 페이지의 함수와 변수)에 접근하지 못할 수 있습니다."

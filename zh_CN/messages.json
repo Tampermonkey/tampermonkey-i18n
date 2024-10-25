@@ -549,14 +549,14 @@
     "Disable": {
         "message": "禁用"
     },
+    "Disable_Updates": {
+        "message": "禁用更新"
+    },
     "Disable_all_remaining_scripts_of_this_tag": {
         "message": "点击禁用该标签的所有剩余脚本"
     },
     "Disable_all_scripts_of_this_tag": {
         "message": "点击禁用该标签的所有脚本"
-    },
-    "Disable_Updates": {
-        "message": "禁用更新"
     },
     "Disabled": {
         "message": "已禁用"
@@ -964,6 +964,9 @@
     "Layout": {
         "message": "布局"
     },
+    "Learn_more": {
+        "message": "了解更多"
+    },
     "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
         "message": "在权限受限的执行环境中可能会影响脚本升级、 GM_xmlhttpRequest 以及其他篡改猴功能！"
     },
@@ -1298,6 +1301,9 @@
     "Save_to_disk": {
         "message": "保存到磁盘"
     },
+    "Scan_the_QR_code_to_use_Tampermonkey_on_your_phone_or_tablet_": {
+        "message": "扫描二维码在您的手机或平板上使用篡改猴"
+    },
     "Script_0name0_is_slowing_down_some_page_loads_": {
         "message": "'$name$' 脚本正在减慢你的页面加载速度",
         "placeholders": {
@@ -1516,6 +1522,9 @@
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "篡改猴没有访问本地文件的权限！"
+    },
+    "Tampermonkey_is_available_on_mobile_platforms": {
+        "message": "篡改猴在移动平台上可用"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "在此选项被禁用时，篡改猴可能无法提供对不安全上下文的访问（unsafeWindow、页面的函数和变量）。"

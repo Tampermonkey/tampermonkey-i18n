@@ -331,12 +331,12 @@ Destination_domain:
   message: Anfrageziel-Domain
 Disable:
   message: Deaktivieren
+Disable_Updates:
+  message: Updates deaktivieren
 Disable_all_remaining_scripts_of_this_tag:
   message: Klicken Sie hier, um alle verbleibenden Skripte dieses Tags zu deaktivieren
 Disable_all_scripts_of_this_tag:
   message: Klicken Sie hier, um alle Skripte dieses Tags zu deaktivieren
-Disable_Updates:
-  message: Updates deaktivieren
 Disabled:
   message: Deaktiviert
 Do_you_need_help_finding_Tampermonkey_s_console_output_:
@@ -499,15 +499,6 @@ GM_compat_options_:
   message: GM/FF Kompatibilitäts-Optionen
 General:
   message: Allgemein
-Get_0tm0_on_0os0_via_0browser0:
-  message: $tm$ für $os$ + $browser$
-  placeholders:
-    tm:
-      content: $1
-    os:
-      content: $2
-    browser:
-      content: $3
 Get_new_scripts___:
   message: Neue Userscripte suchen
 Get_some_scripts___:
@@ -616,6 +607,8 @@ Language:
   message: Sprache
 Last_updated:
   message: Letzte Aktualisierung
+Learn_more:
+  message: Mehr erfahren
 Legacy:
   message: Altmodisch
 Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_:
@@ -834,6 +827,8 @@ Save:
   message: Speichern
 Save_to_disk:
   message: Auf die Festplatte speichern
+Scan_the_QR_code_to_use_Tampermonkey_on_your_phone_or_tablet_:
+  message: Scannen Sie den QR-Code, um Tampermonkey auf Ihrem Handy oder Tablet zu verwenden.
 Script_0name0_is_slowing_down_some_page_loads_:
   message: Das Userscript '$name$' verzögert das Laden Ihrer Web-Seiten
   placeholders:
@@ -944,13 +939,8 @@ Tampermonkey_has_no_access_to_this_page:
   message: Tampermonkey hat keinen Zugriff auf diese Seite
 Tampermonkey_has_no_file_access_permission_:
   message: Tampermonkey hat keinen Zugriff auf das lokale Dateisystem!
-Tampermonkey_is_available_on_0os0_via_0browser0:
-  message: Tampermonkey ist für $os$ + $browser$ verfügbar
-  placeholders:
-    os:
-      content: $1
-    browser:
-      content: $2
+Tampermonkey_is_available_on_mobile_platforms:
+  message: Tampermonkey ist auch für mobile Plattformen verfügbar
 Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled:
   message: Tampermonkey kann ohne diese Option möglicherweise keinen Zugriff auf den unsicheren Kontext (unsafeWindow, globale Funktionen und Variablen) bereitstellen
 Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_:

@@ -327,14 +327,14 @@
     "Disable": {
         "message": "Deshabilitar"
     },
+    "Disable_Updates": {
+        "message": "Deshabilitar actualizaciones"
+    },
     "Disable_all_remaining_scripts_of_this_tag": {
         "message": "Haz clic para desactivar todos los scripts restantes de esta etiqueta"
     },
     "Disable_all_scripts_of_this_tag": {
         "message": "Haz clic para desactivar todos los scripts de esta etiqueta"
-    },
-    "Disable_Updates": {
-        "message": "Deshabilitar actualizaciones"
     },
     "Disabled": {
         "message": "Desactivado"
@@ -595,6 +595,9 @@
     "Last_updated": {
         "message": "Última Actualización"
     },
+    "Learn_more": {
+        "message": "Más información"
+    },
     "Login": {
         "message": "Iniciar sesión"
     },
@@ -806,6 +809,9 @@
     "Save_to_disk": {
         "message": "Guardar al disco"
     },
+    "Scan_the_QR_code_to_use_Tampermonkey_on_your_phone_or_tablet_": {
+        "message": "Escanee el código QR para usar Tampermonkey en su teléfono o tableta."
+    },
     "Script_0name0_is_slowing_down_some_page_loads_": {
         "message": "El script '$name$' está ralentizando la carga de las páginas web",
         "placeholders": {
@@ -916,6 +922,9 @@
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "¡Tampermonkey no tiene permisos para acceder a archivos locales!"
+    },
+    "Tampermonkey_is_available_on_mobile_platforms": {
+        "message": "Tampermonkey está disponible en plataformas móviles"
     },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
         "message": "Tampermonkey necesita reiniciarse para aplicar estos cambios.\n\n¿Quieres continuar?"

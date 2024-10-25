@@ -285,14 +285,14 @@
     "Disable": {
         "message": "Desactivar"
     },
+    "Disable_Updates": {
+        "message": "Desativar actualizações"
+    },
     "Disable_all_remaining_scripts_of_this_tag": {
         "message": "Clique para desativar todos os scripts restantes desta etiqueta"
     },
     "Disable_all_scripts_of_this_tag": {
         "message": "Clique para desativar todos os scripts desta etiqueta"
-    },
-    "Disable_Updates": {
-        "message": "Desativar actualizações"
     },
     "Disabled": {
         "message": "Desactivado"
@@ -524,6 +524,9 @@
     "Last_updated": {
         "message": "Actualizado pela última vez:"
     },
+    "Learn_more": {
+        "message": "Saiba mais"
+    },
     "Line_break": {
         "message": "Quebra de linha."
     },
@@ -735,6 +738,9 @@
     "Save_to_disk": {
         "message": "Gravar no disco"
     },
+    "Scan_the_QR_code_to_use_Tampermonkey_on_your_phone_or_tablet_": {
+        "message": "Escanee o código QR para usar o Tampermonkey no seu telemóvel ou tablet."
+    },
     "Script_Blacklist_Source": {
         "message": "Fonte de Blacklist de Scripts"
     },
@@ -843,6 +849,9 @@
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "O Tampermonkey não tem permissões para aceder aos arquivos locais!"
+    },
+    "Tampermonkey_is_available_on_mobile_platforms": {
+        "message": "O Tampermonkey está disponível em plataformas móveis"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "O Tampermonkey pode não ter acesso ao unsafe context (unsafeWindow, variáveis e funções da página) quando esta opção estiver desactivada."

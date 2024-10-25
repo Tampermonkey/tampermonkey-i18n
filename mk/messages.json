@@ -538,14 +538,14 @@
     "Disable": {
         "message": "Исклучи"
     },
+    "Disable_Updates": {
+        "message": "Исклучи ажурирања"
+    },
     "Disable_all_remaining_scripts_of_this_tag": {
         "message": "Кликнете за да ги оневозможите сите преостанати скрипти на оваа ознака"
     },
     "Disable_all_scripts_of_this_tag": {
         "message": "Кликнете за да ги оневозможите сите скрипти на оваа ознака"
-    },
-    "Disable_Updates": {
-        "message": "Исклучи ажурирања"
     },
     "Disabled": {
         "message": "Исклучено"
@@ -1005,6 +1005,9 @@
     "Layout": {
         "message": "Распоред"
     },
+    "Learn_more": {
+        "message": "Научи повеќе"
+    },
     "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
         "message": "Дозволи за ограничено работно време може да расипат некои Tampermonkey функции, на пример ажурирања на скриптови, GM_xmlhttpRequest и други!"
     },
@@ -1369,6 +1372,9 @@
     "Save_to_disk": {
         "message": "Зачувај на диск"
     },
+    "Scan_the_QR_code_to_use_Tampermonkey_on_your_phone_or_tablet_": {
+        "message": "Скенирајте го QR кодот за да го користите Tampermonkey на Вашиот телефон или таблет."
+    },
     "Script_0name0_is_slowing_down_some_page_loads_": {
         "message": "Скриптот „$name$“ ви ги успорува лоадирањата на веб-страните",
         "placeholders": {
@@ -1587,6 +1593,9 @@
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Tampermonkey нема дозволи да достапи до локални датотеки!"
+    },
+    "Tampermonkey_is_available_on_mobile_platforms": {
+        "message": "Tampermonkey е достапен на мобилни платформи"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Tampermonkey можеби нема да може да добие достап до небезбедниот контекст (unsafeWindow, функции и променливи на веб-страната) кога ова е исклучено."

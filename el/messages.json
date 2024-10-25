@@ -520,14 +520,14 @@
     "Disable": {
         "message": "Απενεργοποίηση"
     },
+    "Disable_Updates": {
+        "message": "Απενεργοποίηση Ενημερώσεων"
+    },
     "Disable_all_remaining_scripts_of_this_tag": {
         "message": "Κάντε κλικ για να απενεργοποιήσετε όλα τα υπόλοιπα scripts αυτής της ετικέτας"
     },
     "Disable_all_scripts_of_this_tag": {
         "message": "Κάντε κλικ για να απενεργοποιήσετε όλα τα scripts αυτής της ετικέτας"
-    },
-    "Disable_Updates": {
-        "message": "Απενεργοποίηση Ενημερώσεων"
     },
     "Disabled": {
         "message": "Απενεργοποιημένο"
@@ -926,6 +926,9 @@
     "Layout": {
         "message": "Διάταξη"
     },
+    "Learn_more": {
+        "message": "Μάθετε περισσότερα"
+    },
     "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
         "message": "Η περιορισμένη αδειοδότηση εκτέλεσης μπορεί να μην επιτρέπει την απρόσκοπτη λειτουργία ορισμένων χαρακτηριστικών του Tampermonkey όπως την ενημέρωση κώδικα, το GM_xmlhttpRequest και άλλα!"
     },
@@ -1248,6 +1251,9 @@
     "Save_to_disk": {
         "message": "Αποθήκευση στο δίσκο"
     },
+    "Scan_the_QR_code_to_use_Tampermonkey_on_your_phone_or_tablet_": {
+        "message": "Σαρώστε τον κωδικό QR για να χρησιμοποιήσετε το Tampermonkey στο τηλέφωνο ή το tablet σας."
+    },
     "Script_0name0_is_slowing_down_some_page_loads_": {
         "message": "Ο κώδικας χρήστη «$name$» καθυστερεί τη φόρτωση των σελίδων σας",
         "placeholders": {
@@ -1463,6 +1469,9 @@
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "Το Tampermonkey δεν έχει πρόσβαση σε τοπιά αρχεία!"
+    },
+    "Tampermonkey_is_available_on_mobile_platforms": {
+        "message": "Το Tampermonkey είναι διαθέσιμο σε κινητές πλατφόρμες"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "Το Tampermonkey ίσως να μην μπορεί να παρέχει πρόσβαση σε μη ασφαλές περιεχόμενο (unsafeWindow, συναρτήσεις σελίδας και μεταβλητές) όταν αυτό είναι απενεργοποιημένο."
