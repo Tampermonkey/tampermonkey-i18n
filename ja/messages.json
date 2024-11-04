@@ -1,9 +1,21 @@
 {
+    "extName": {
+        "message": "Tampermonkey"
+    },
     "extNameBeta": {
         "message": "Tampermonkey ベータ版"
     },
+    "extNameLegacy": {
+        "message": "Tampermonkey レガシ"
+    },
+    "extShortName": {
+        "message": "Tampermonkey"
+    },
     "extShortNameBeta": {
         "message": "TM ベータ"
+    },
+    "extShortNameLegacy": {
+        "message": "TM レガシ"
     },
     "extDescription": {
         "message": "ユーザースクリプトでウェブを書き換える"
@@ -173,10 +185,10 @@
         "message": "すべて"
     },
     "All_but_HttpOnly": {
-        "message": "HttpOnly 以外のすべて"
+        "message": "保護された Cookie 以外すべて (HttpOnly)"
     },
     "All_local_files": {
-        "message": "すべてのローカルファイル"
+        "message": "すべてのローカル ファイル"
     },
     "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
         "message": "すべての変更点は、このシークレット モードが閉じられた際に失われます!"
@@ -284,10 +296,10 @@
         "message": "少なくとも1つの新しい@connect文が追加されました。"
     },
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
-        "message": "@include、@matchまたは@exclude文の少なくとも1つが変更されました。"
+        "message": "@include、@match、@exclude 文の少なくとも1つが変更されました。"
     },
     "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
-        "message": "このページは、「禁止ページ」設定の一覧に載っている要素を 1 個以上含んでいます!"
+        "message": "このページは、設定で禁止されている要素を少なくとも1つ含んでいます!"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "注意: exclude リストを短縮しました。\n手作業で確認してください!"
@@ -684,7 +696,7 @@
         "message": "UserScript 同期を有効にする"
     },
     "Enable_Tags": {
-        "message": "タグを有効化"
+        "message": "タグを有効にする"
     },
     "Enable_all_scripts_of_this_tag": {
         "message": "クリックしてこのタグのすべてのスクリプトを有効化"
@@ -1279,7 +1291,7 @@
         "message": "永続的"
     },
     "Please_check_the_0editor0_documentation_for_more_details_": {
-        "message": "詳細については、$editor$のドキュメントを確認してください。",
+        "message": "詳細については、$editor$ のドキュメントを確認してください。",
         "placeholders": {
             "editor": {
                 "content": "$1"
@@ -1487,7 +1499,7 @@
         "message": "UserScript 同期"
     },
     "Script_Tags": {
-        "message": "スクリプトタグ"
+        "message": "スクリプト タグ"
     },
     "Script_URL_detection": {
         "message": "UserScript URL の検出"
@@ -1499,7 +1511,7 @@
         "message": "スクリプト作成者は、ソース URL に SRI ハッシュを追加することで、外部リソースを保護できます。"
     },
     "Script_cookies_access": {
-        "message": "スクリプトによるクッキーへのアクセスを許可する"
+        "message": "スクリプトによる Cookie へのアクセスを許可する"
     },
     "Script_local_files_access": {
         "message": "スクリプトによるローカル ファイルへのアクセスを許可する"
@@ -1665,7 +1677,7 @@
         "message": "ブラウザーとオペレーティング システムの間でスクリプトを同期する"
     },
     "System_Tags": {
-        "message": "システムタグ"
+        "message": "システム タグ"
     },
     "TabMode": {
         "message": "タブの入力方式"
@@ -1680,7 +1692,7 @@
         "message": "タブ"
     },
     "Tag_Already_Exists": {
-        "message": "このタグはすでに存在します"
+        "message": "このタグは既に存在します"
     },
     "Tags": {
         "message": "タグ"
@@ -1705,13 +1717,13 @@
         "message": "無効にすると、安全ではない場合 (unsafeWindow、ページの関数や変数) へのアクセスを Tampermonkey が提供できなくなります。"
     },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
-        "message": "この変更を適用するには、Tampermonkeyを再起動する必要があります。\n\n続行しますか?"
+        "message": "この変更を適用するには、Tampermonkey を再起動する必要があります。\n\n続行しますか?"
     },
     "Tampermonkey_version": {
         "message": "Tampermonkeyのバージョンのみ"
     },
     "Tampermonkey_won_t_inject_into_other_tab_types_anymore_": {
-        "message": "Tampermonkey は他のタブ タイプにはもう注入されません!"
+        "message": "今後、Tampermonkey は他の種類のタブには注入されません!"
     },
     "Templates": {
         "message": "テンプレート"
@@ -1805,7 +1817,7 @@
         "message": "これは JavaScript で書かれた UserScript です"
     },
     "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
-        "message": "このオプションを使用すると、Tampermonkeyのホームページといくつかのスクリプト配布ページで、Tampermonkeyのバージョンと基本的なスクリプトの情報を取得できます (インストール済み、バージョン、有効/無効)。"
+        "message": "このオプションを使用すると、Tampermonkey のホームページといくつかのスクリプト配布ページで、Tampermonkey のバージョンと基本的なスクリプトの情報を取得できます (インストール済み、バージョン、有効/無効)。"
     },
     "This_page_is_blacklisted_at_the_security_settings": {
         "message": "セキュリティ設定でブラックリストに入っています"
@@ -1860,7 +1872,7 @@
         "message": "このスクリプトはまだ実行されていません\n\n可能な理由: ページが読み込まれたとき... \n1. Tampermonkey が準備できていない。\n2. スクリプトが存在しないか無効化されている。\n3. URL が一致しない (URL が JavaScript によって変更されるシングルページ アプリケーションで一般的)\n\n有効化して/またはタブを再読み込みするか、より一般的な `@match` を使用して `window.onurlchange` で URL の変更を検出してください。"
     },
     "This_tag_is_not_part_of_the_system_tag_list_": {
-        "message": "このタグはシステムタグリストに含まれていません"
+        "message": "このタグはシステム タグのリストに含まれていません"
     },
     "This_will_overwrite_your_global_settings_": {
         "message": "この操作により、グローバル設定が上書きされます!"
@@ -2091,7 +2103,7 @@
         "message": "警告"
     },
     "Warning_unsafe_site_warnings_might_appear_": {
-        "message": "警告: スクリプトに潜在的に危険なURLが含まれていると、安全でないサイトの警告が表示されることがあります。"
+        "message": "警告: スクリプトに潜在的に危険な URL が含まれていると、安全でないサイトの警告が表示されることがあります。"
     },
     "WebDAV": {
         "message": "WebDAV"
@@ -2144,7 +2156,7 @@
         "message": "UserScript の更新"
     },
     "You_can_add_your_custom_CSS_rules_here_": {
-        "message": "Tampermonkey UI 用の 独自 CSS ルールをここに追加できます。表示が崩れた場合は、オプション ページのURLに \"?layout=reset\" を追加することで、デフォルトのレイアウトに戻せます。"
+        "message": "Tampermonkey UI 用の 独自 CSS ルールをここに追加できます。表示が崩れた場合は、オプション ページの URL に「?layout=reset」を追加することで、デフォルトのレイアウトに戻せます。"
     },
     "You_can_add_your_custom_linter_config_here_": {
         "message": "ここに構文解析のカスタム設定を追加できます。"
