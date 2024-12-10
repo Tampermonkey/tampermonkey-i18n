@@ -5,14 +5,20 @@
     "extNameBeta": {
         "message": "篡改猴測試版"
     },
+    "extNameLegacy": {
+        "message": "舊版篡改猴"
+    },
     "extShortName": {
         "message": "篡改猴"
     },
     "extShortNameBeta": {
         "message": "篡改猴測試版"
     },
+    "extShortNameLegacy": {
+        "message": "舊版篡改猴"
+    },
     "extDescription": {
-        "message": "使用使用者腳本自由改變網路"
+        "message": "透過使用者腳本自由改變網頁"
     },
     "1": {
         "message": "1"
@@ -106,7 +112,7 @@
         "message": "5 分鐘"
     },
     "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-        "message": "執行目前的腳本需要開啟 GreaseMonkey/FF 相容性選項。"
+        "message": "可能需要重新檢查 GreaseMonkey/Firefox 的相容性選項才能執行這個腳本。"
     },
     "A_reload_is_required": {
         "message": "需要重新載入：\n所有尚未儲存的變更都會遺失！"
@@ -144,7 +150,7 @@
         "message": "新增"
     },
     "Add_GM_functions_to_this_or_window": {
-        "message": "將 GM 函數新增至此或視窗"
+        "message": "將 GM 函式新增至此或視窗"
     },
     "Add_Selection_Above": {
         "message": "在上方新增選取項目"
@@ -156,10 +162,10 @@
         "message": "將篡改猴加入到網站的內容安全策略（CSP）（如果有的話）"
     },
     "Add_Tag": {
-        "message": "添加標籤"
+        "message": "新增標籤"
     },
     "Add_Tag_to_System": {
-        "message": "將標籤添加到系統列表"
+        "message": "將標籤新增到系統列表"
     },
     "Add_Tampermonkey_to_the_site_s_content_csp": {
         "message": "將篡改猴加入到網站的內容 CSP"
@@ -191,7 +197,7 @@
         "message": "所有本機檔案"
     },
     "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-        "message": "所有修改將只在此無痕模式工作階段關閉後留存！"
+        "message": "所有修改將只會保留到這個無痕工作階段關閉"
     },
     "All_script_settings_will_be_reset_": {
         "message": "全部的腳本設定都將會重設！"
@@ -200,7 +206,7 @@
         "message": "所有分頁"
     },
     "Allow_Tampermonkey_to_collect_anonymous_statistics": {
-        "message": "允許篡改猴通過自託管的 Matomo 安裝收集匿名統計信息。這能協助我們改進篡改猴並決定開發的重點策略。若您不喜歡可將其關閉。"
+        "message": "允許篡改猴透過自行架設的 Matomo 系統收集匿名統計資訊。這能協助我們改進篡改猴，並決定未來的開發方向。若您不喜歡，可以關閉這個選項。"
     },
     "Allow_communication_with_cooperate_pages": {
         "message": "允許透過協作頁面通訊"
@@ -242,7 +248,7 @@
         "message": "匯入時發生錯誤。"
     },
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
-        "message": "發生內部錯誤。若問題持續，請點按「OK」並向論壇回報此問題。\n\n想去篡改猴論壇嗎？"
+        "message": "發生內部錯誤。若問題持續，請點選「OK」並在論壇中回報此問題。\n\n您想前往篡改猴論壇嗎？"
     },
     "Anonymous_statistics": {
         "message": "匿名統計資料"
@@ -262,7 +268,7 @@
         "message": "廣告"
     },
     "Antifeature_miner": {
-        "message": "挖礦"
+        "message": "虛擬貨幣挖礦"
     },
     "Antifeature_no_details": {
         "message": "無詳細資料"
@@ -302,10 +308,10 @@
         "message": "此網頁至少有一部分被列在「禁止的網頁」設定清單上！"
     },
     "Attention_Can_not_display_all_excludes_": {
-        "message": "注意：排除 URL(s) 列表變化。\n請手動檢查！"
+        "message": "注意：排除 URL(s) 列表發生變化。\n請手動檢查！"
     },
     "Attention_Can_not_display_all_includes_": {
-        "message": "注意：收錄 URL(s) 列表變化。\n請手動檢查！"
+        "message": "注意：收錄 URL(s) 列表發生變化。\n請手動檢查！"
     },
     "Author": {
         "message": "作者"
@@ -349,7 +355,7 @@
         }
     },
     "Blacklist_Severity": {
-        "message": "照嚴重等級禁用"
+        "message": "照嚴重等級停用"
     },
     "Blacklisted_Pages": {
         "message": "黑名單上的網頁"
@@ -420,7 +426,7 @@
         "message": "全部清除"
     },
     "Click_here_to_allow_TM_to_access_the_following_hosts_0hostlist0": {
-        "message": "請點按「OK」以同意篡改猴存取以下的 hosts：\n\n$hostlist$",
+        "message": "請點選「OK」以同意篡改猴存取以下的 hosts：\n\n$hostlist$",
         "placeholders": {
             "hostlist": {
                 "content": "$1"
@@ -428,16 +434,16 @@
         }
     },
     "Click_here_to_allow_TM_to_start_downloads": {
-        "message": "點按此處以允許篡改猴開始下載。"
+        "message": "點選此處以允許篡改猴開始下載。"
     },
     "Click_here_to_install_it_": {
-        "message": "點按此處以安裝。"
+        "message": "點選此處以安裝。"
     },
     "Click_here_to_move_this_script": {
-        "message": "點按此處以移動這個腳本"
+        "message": "點選此處以移動這個腳本"
     },
     "Click_here_to_see_the_recent_changes": {
-        "message": "點按此處以查看最近的更改"
+        "message": "點選此處以查看最近的更改"
     },
     "Close": {
         "message": "關閉"
@@ -493,7 +499,7 @@
         "message": "跨來源要求權限"
     },
     "Current_Version": {
-        "message": "當前版本"
+        "message": "目前版本"
     },
     "Cursor": {
         "message": "游標"
@@ -576,6 +582,9 @@
     "Developer": {
         "message": "開發人員"
     },
+    "Developer_Mode": {
+        "message": "開發者模式"
+    },
     "Disable": {
         "message": "停用"
     },
@@ -583,10 +592,10 @@
         "message": "停用更新"
     },
     "Disable_all_remaining_scripts_of_this_tag": {
-        "message": "點擊禁用該標籤的所有剩餘腳本"
+        "message": "點選停用該標籤的所有剩餘腳本"
     },
     "Disable_all_scripts_of_this_tag": {
-        "message": "點擊禁用該標籤的所有腳本"
+        "message": "點選停用該標籤的所有腳本"
     },
     "Disabled": {
         "message": "已停用"
@@ -696,7 +705,7 @@
         "message": "啟用標籤"
     },
     "Enable_all_scripts_of_this_tag": {
-        "message": "點擊啟用該標籤的所有腳本"
+        "message": "點選啟用該標籤的所有腳本"
     },
     "Enable_autoSave": {
         "message": "失去滑鼠焦點時儲存內容"
@@ -841,7 +850,7 @@
         "message": "修正 wrappedJSObject 屬性存取"
     },
     "Focus_tab": {
-        "message": "重點來源欄標"
+        "message": "聚焦來源分頁"
     },
     "Fold": {
         "message": "摺疊"
@@ -939,7 +948,7 @@
         "message": "使用者拒絕的主機權限："
     },
     "I_contributed_already": {
-        "message": "已經贊助"
+        "message": "我已經贊助過了"
     },
     "I_dont_want_to_contribute": {
         "message": "我不想贊助"
@@ -957,10 +966,10 @@
         "message": "匯入"
     },
     "Import_from_URL": {
-        "message": "自 URL 安裝"
+        "message": "從網址匯入"
     },
     "Import_from_file": {
-        "message": "匯入"
+        "message": "從檔案匯入"
     },
     "Import_remote_script_0uuid0": {
         "message": "匯入遠端腳本 ($uuid$)",
@@ -974,7 +983,7 @@
         "message": "已匯入"
     },
     "In_order_to_search_for_userscripts__0on_action_menu0__and__0icon_badge_number0__automatically_transfer_the_tab_s_url_to_the_search_website__0on_click0_opens_the_search_page_on_click_Please_click_at_this_icon_to_open_the_privacy_policy_": {
-        "message": "在 \"$icon_badge_number$\" 模式下，分頁的網址將自動\n傳送到搜尋頁面並搜尋。\n\n在 \"$on_action_menu$\" 模式下，只有開啟動作選單\n才會使用網址搜尋。\n\n\"$on_click$\" 只會在點擊動作選單的項目後才開啟搜尋頁面。\n\n點擊這裡以閱讀搜尋網站的隱私政策。",
+        "message": "在 \"$icon_badge_number$\" 模式下，分頁的網址將自動\n傳送到搜尋頁面並搜尋。\n\n在 \"$on_action_menu$\" 模式下，只有開啟動作選單\n才會使用網址搜尋。\n\n\"$on_click$\" 只會在點選動作選單的項目後才開啟搜尋頁面。\n\n點選這裡以閱讀搜尋網站的隱私政策。",
         "placeholders": {
             "icon_badge_number": {
                 "content": "$1"
@@ -1086,6 +1095,9 @@
     "Learn_more": {
         "message": "了解更多"
     },
+    "Legacy": {
+        "message": "舊版"
+    },
     "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
         "message": "執行期宿主的權限受限可能會導致一些篡改猴的功能無法運作，例如腳本更新、GM_xmlhttpRequest...等。"
     },
@@ -1145,6 +1157,9 @@
     "Modify": {
         "message": "修改"
     },
+    "Modifying_a_script_will_disable_automatic_script_updates_": {
+        "message": "修改腳本將停用自動腳本更新！"
+    },
     "Move_Line_Down": {
         "message": "下移一行"
     },
@@ -1191,7 +1206,7 @@
         "message": "只在最上層頁框執行"
     },
     "No_previously_denied_runtime_host_permissions_found": {
-        "message": "未找到先前被拒絕的運行時主機權限"
+        "message": "未找到先前被拒絕的執行時主機權限"
     },
     "No_script_is_installed": {
         "message": "無安裝任何的腳本"
@@ -1230,7 +1245,7 @@
         "message": "開啟動作選單時"
     },
     "On_Click": {
-        "message": "點擊時"
+        "message": "點選時"
     },
     "OneDrive": {
         "message": "OneDrive"
@@ -1269,6 +1284,9 @@
     "Original_matches": {
         "message": "原始 matches"
     },
+    "Overwrite": {
+        "message": "覆蓋"
+    },
     "Page_Filter_Mode": {
         "message": "網頁過濾模式"
     },
@@ -1293,7 +1311,10 @@
         "message": "歡迎贊助"
     },
     "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
-        "message": "請啟用匿名統計並幫助優化此擴充功能。只收集技術和擴充功能互動數據。點擊這裡瞭解有關數據的更多資訊。"
+        "message": "請啟用匿名統計並幫助改善此擴充功能。只收集技術和擴充功能互動資料。點選這裡瞭解有關資料的更多資訊。"
+    },
+    "Please_enable_developer_mode_to_allow_userscript_injection_": {
+        "message": "請啟用開發人員模式以允許使用者腳本插入。點選此處以了解如何進行設定。"
     },
     "Please_select_a_file": {
         "message": "請選取一個檔案"
@@ -1455,7 +1476,7 @@
         "message": "執行中的腳本"
     },
     "Runtime_Host_Permissions": {
-        "message": "運行時主機權限"
+        "message": "執行時主機權限"
     },
     "Sandbox_Mode": {
         "message": "沙盒模式"
@@ -1632,7 +1653,7 @@
         "message": "嚴格"
     },
     "Sublime": {
-        "message": "Sublime 文字"
+        "message": "Sublime Text"
     },
     "Sublime_Mark": {
         "message": "Sublime 標記"
@@ -1647,10 +1668,13 @@
         "message": "立刻執行"
     },
     "Sync_Reset": {
-        "message": "同步重設"
+        "message": "重設"
     },
     "Sync_Type": {
         "message": "同步類型"
+    },
+    "Sync_failed": {
+        "message": "同步失敗"
     },
     "Sync_finished": {
         "message": "已完成同步"
@@ -1659,22 +1683,22 @@
         "message": "正在同步"
     },
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
-        "message": "腳本同步 (篡改猴External Script List Access)"
+        "message": "腳本同步 (篡改猴 External Script List Access)"
     },
     "System_Tags": {
         "message": "系統標籤"
     },
     "TabMode": {
-        "message": "Tab 模式"
+        "message": "分頁模式"
     },
     "Tab_Size": {
-        "message": "Tab 大小"
+        "message": "分頁大小"
     },
     "Tab_URL": {
-        "message": "Tab URL"
+        "message": "分頁網址"
     },
     "Tabs": {
-        "message": "Tab"
+        "message": "分頁"
     },
     "Tag_Already_Exists": {
         "message": "該標籤已存在"
@@ -1693,10 +1717,10 @@
         "message": "篡改猴沒有存取此頁面的權限"
     },
     "Tampermonkey_has_no_file_access_permission_": {
-        "message": "篡改猴沒有存取本地檔案的權限！"
+        "message": "篡改猴沒有存取本機檔案的權限！"
     },
     "Tampermonkey_is_available_on_mobile_platforms": {
-        "message": "篡改猴在移動平台上可用"
+        "message": "篡改猴在移動平臺上可用"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "當此選項停用時，篡改猴將無法提供存取 unsafe context（unsafeWindow，網頁的函式和變數）。"
@@ -1708,10 +1732,10 @@
         "message": "僅限篡改猴版本"
     },
     "Tampermonkey_won_t_inject_into_other_tab_types_anymore_": {
-        "message": "篡改猴將不再注入其他分頁類型！"
+        "message": "篡改猴將不再插入其他分頁類型！"
     },
     "Templates": {
-        "message": "模板"
+        "message": "樣板"
     },
     "Temporarily_allow": {
         "message": "暫時允許"
@@ -1735,13 +1759,21 @@
         "message": "瀏覽器 API 模式需要特別權限。"
     },
     "The_diff_for_this_script_is_too_large_to_render": {
-        "message": "此腳本的 diff 過大，無法轉譯"
+        "message": "此腳本的差異過大，無法顯示"
     },
     "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
         "message": "降級的腳本可能會在讀取已儲存資料時發生問題！"
     },
     "The_origin_of_this_script_cant_be_determined_": {
         "message": "警告：無法判斷此腳本的來源。\n可能有惡意第三方安裝此腳本以竊取您的隱私資料，或是某些基本瀏覽器設定、您的作業系統或硬體已變更！\n\n請開啟、檢查並儲存腳本來啟用它。"
+    },
+    "The_script_was_modified_locally_on_0date0__Updating_it_will_overwrite_your_changes_": {
+        "message": "此腳本已於 $date$ 在被本機修改。更新將會覆蓋您的修改！",
+        "placeholders": {
+            "date": {
+                "content": "$1"
+            }
+        }
     },
     "The_script_was_successfully_deleted_": {
         "message": "已成功刪除腳本。"
@@ -1810,6 +1842,9 @@
     },
     "This_script_has_full_web_access": {
         "message": "此腳本可完全存取網際網路。"
+    },
+    "This_script_has_local_modifications_and_needs_to_be_updated_manually": {
+        "message": "此腳本已在本機被修改，需要手動進行更新！"
     },
     "This_script_is_blacklisted_": {
         "message": "此腳本已列入黑名單！"
@@ -1928,10 +1963,10 @@
         "message": "無法對此解析！ :("
     },
     "Undo": {
-        "message": "還原"
+        "message": "復原"
     },
     "Unfold": {
-        "message": "取消展開"
+        "message": "展開"
     },
     "Unfold_All": {
         "message": "全部展開"
@@ -1960,7 +1995,7 @@
         "message": "更新網址"
     },
     "Update_check_is_disabled": {
-        "message": "腳本更新檢查已停用或不可用"
+        "message": "腳本更新檢查已停用或無法使用"
     },
     "Update_interval": {
         "message": "更新週期"
@@ -1993,6 +2028,9 @@
     "UserScripts_API": {
         "message": "使用者腳本 API"
     },
+    "UserScripts_API_Dynamic": {
+        "message": "使用者腳本 API 動態"
+    },
     "User_domain_blacklist": {
         "message": "自訂網域黑名單"
     },
@@ -2021,7 +2059,7 @@
         "message": "使用者腳本"
     },
     "Using__include_is_potentially_unsafe_and_may_be_obsolete_soon___0off0_disables__include_completely__0match0__is_safe__but_may_not_compatible_the_script_developers_intention__0unsafe0__mostly_keeps_the_legacy_behavior_0default0__means__0used_default0": {
-        "message": "使用 @include 有潛在風險，且在 2023 年初的 Manifest v3 中可能已經過時。此設置允許您設定對 @include 的解譯方式。'$off$' 將完全禁用 @include，'$match$' 是安全的，但可能與腳本開發者的意圖不相容。'$unsafe$' 主要保留了舊版行為，而 '$default$' 目前表示 '$used_default$'。",
+        "message": "使用 @include 有潛在風險，且在 2023 年初的 Manifest v3 中可能已經過時。此設定允許您設定對 @include 的解譯方式。'$off$' 將完全停用 @include，'$match$' 是安全的，但可能與腳本開發者的意圖不相容。'$unsafe$' 主要保留了舊版行為，而 '$default$' 目前表示 '$used_default$'。",
         "placeholders": {
             "off": {
                 "content": "$1"
@@ -2041,7 +2079,10 @@
         }
     },
     "Utilities": {
-        "message": "匯入匯出工具"
+        "message": "工具"
+    },
+    "VSCode": {
+        "message": "VSCode"
     },
     "Validate_if_given": {
         "message": "驗證是否給出"
@@ -2121,7 +2162,7 @@
         "message": "使用者腳本更新"
     },
     "You_can_add_your_custom_CSS_rules_here_": {
-        "message": "您可以在這裡為篡改猴的使用者介面新增自己的 CSS 規則。若損壞頁面，您可以在選項頁 URL 後加上 ?layout=reset 來回復預設佈局。"
+        "message": "您可以在這裡為篡改猴的使用者介面新增自己的 CSS 規則。若損壞頁面，您可以在選項頁 URL 後加上 ?layout=reset 來回復預設配置。"
     },
     "You_can_add_your_custom_linter_config_here_": {
         "message": "您可以在這裡新增自訂 linter 設定檔。"
