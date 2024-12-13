@@ -1874,8 +1874,11 @@
             }
         }
     },
+    "This_script_was_not_executed": {
+        "message": "此腳本尚未執行"
+    },
     "This_script_was_not_executed_yet": {
-        "message": "此腳本尚未執行過"
+        "message": "此腳本尚未執行過\n\n可能的原因：當頁面載入時...\n1. 篡改猴尚未準備好。\n2. 腳本不存在或已停用。\n3. URL 不符合（常見於單頁應用程式，透過 JavaScript 修改 URL）\n\n啟用並/或重新載入分頁，或使用更通用的 `@match` 並透過 `window.onurlchange` 偵測 URL 變更。"
     },
     "This_tag_is_not_part_of_the_system_tag_list_": {
         "message": "該標籤不在系統標籤列表中"

@@ -1730,8 +1730,11 @@
             }
         }
     },
+    "This_script_was_not_executed": {
+        "message": "Tập lệnh này chưa được thực thi"
+    },
     "This_script_was_not_executed_yet": {
-        "message": "Tập lệnh này chưa từng được chạy"
+        "message": "Tập lệnh này chưa từng được chạy\n\nLý do có thể là: Khi trang được tải...\n1. Tampermonkey chưa sẵn sàng.\n2. tập lệnh không tồn tại hoặc bị tắt.\n3. URL không khớp (thường xảy ra trong các ứng dụng trang duy nhất, mà thay đổi URL thông qua JavaScript)\n\nKích hoạt và/hoặc tải lại thẻ hoặc sử dụng `@match` và phát hiện thay đổi URL với `window.onurlchange`."
     },
     "This_tag_is_not_part_of_the_system_tag_list_": {
         "message": "Thẻ này không có trong danh sách thẻ hệ thống"

@@ -1310,8 +1310,11 @@
             }
         }
     },
+    "This_script_was_not_executed": {
+        "message": "Ova skripta nije pokrenuta"
+    },
     "This_script_was_not_executed_yet": {
-        "message": "Ova skripta nije nikad bila pokrenuta"
+        "message": "Ova skripta nije nikad bila pokrenuta\n\nMogući razlozi: Kada je stranica učitana... \n1. Tampermonkey nije bio spreman.\n2. skripta nije postojala ili je bila onemogućena.\n3. URL nije odgovarao (uobičajeno kod jednostraničnih aplikacija, koje menjaju URL putem JavaScript-a)\n\nOmogućite i/ili ponovo učitajte tab ili koristite opšti `@match` i detektujte promene URL-a sa `window.onurlchange`."
     },
     "This_tag_is_not_part_of_the_system_tag_list_": {
         "message": "Ova oznaka nije deo sistemske liste oznaka"

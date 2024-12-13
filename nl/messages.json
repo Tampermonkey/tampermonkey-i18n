@@ -1391,8 +1391,12 @@
             }
         }
     },
+    "This_script_was_not_executed": {
+        "description": "This script was not executed",
+        "message": "Dit script is niet uitgevoerd"
+    },
     "This_script_was_not_executed_yet": {
-        "message": "Dit script is nog niet uitgevoerd"
+        "message": "Dit script is nog niet uitgevoerd\n\nMogelijke redenen: Toen de pagina werd geladen... \n1. Tampermonkey was nog niet klaar.\n2. het script bestond niet of was uitgeschakeld.\n3. de URL kwam niet overeen (komt vaak voor in single-page apps, die de URL wijzigen via JavaScript)\n\nSchakel in en/of herlaad het tabblad of gebruik een algemenere `@match` en detecteer URL-wijzigingen met `window.onurlchange`."
     },
     "This_tag_is_not_part_of_the_system_tag_list_": {
         "message": "Deze tag maakt geen deel uit van de systeemtagslijst"

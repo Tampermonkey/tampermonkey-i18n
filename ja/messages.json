@@ -1853,8 +1853,11 @@
             }
         }
     },
+    "This_script_was_not_executed": {
+        "message": "このスクリプトは実行されませんでした"
+    },
     "This_script_was_not_executed_yet": {
-        "message": "このスクリプトはまだ実行されていません"
+        "message": "このスクリプトはまだ実行されていません\n\n可能な理由: ページが読み込まれたとき... \n1. Tampermonkey が準備できていない。\n2. スクリプトが存在しないか無効化されている。\n3. URL が一致しない (URL が JavaScript によって変更されるシングルページ アプリケーションで一般的)\n\n有効化して/またはタブを再読み込みするか、より一般的な `@match` を使用して `window.onurlchange` で URL の変更を検出してください。"
     },
     "This_tag_is_not_part_of_the_system_tag_list_": {
         "message": "このタグはシステムタグリストに含まれていません"

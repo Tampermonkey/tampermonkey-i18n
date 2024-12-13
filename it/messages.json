@@ -1856,8 +1856,11 @@
             }
         }
     },
+    "This_script_was_not_executed": {
+        "message": "Questo script non è stato eseguito"
+    },
     "This_script_was_not_executed_yet": {
-        "message": "Questo script non è ancora stato eseguito"
+        "message": "Questo script non è ancora stato eseguito\n\nPossibili motivi: Quando la pagina è stata caricata... \n1. Tampermonkey non era pronto.\n2. lo script non esisteva o era disabilitato.\n3. l'URL non corrispondeva (comune nelle app a singola pagina, che modificano l'URL tramite JavaScript)\n\nAbilita e/o ricarica la scheda o usa un `@match` più generico e rileva i cambiamenti dell'URL con `window.onurlchange`."
     },
     "This_tag_is_not_part_of_the_system_tag_list_": {
         "message": "Questo tag non fa parte dell'elenco dei tag di sistema"

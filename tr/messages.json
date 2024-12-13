@@ -1604,8 +1604,11 @@
             }
         }
     },
+    "This_script_was_not_executed": {
+        "message": "Bu betik çalıştırılmadı"
+    },
     "This_script_was_not_executed_yet": {
-        "message": "Bu betik henüz çalıştırılmadı"
+        "message": "Bu betik henüz çalıştırılmadı\n\nMuhtemel nedenler: Sayfa yüklendiğinde... \n1. Tampermonkey hazır değildi.\n2. betik mevcut değildi veya devre dışı bırakıldı.\n3. URL eşleşmedi (JavaScript aracılığıyla URL'yi değiştiren tek sayfa uygulamalarında yaygındır)\n\nSekmeyi etkinleştirin ve/veya yeniden yükleyin veya daha genel bir `@match` kullanın ve URL değişikliklerini `window.onurlchange` ile algılayın."
     },
     "This_tag_is_not_part_of_the_system_tag_list_": {
         "message": "Bu etiket sistem etiket listesinde yer almıyor"

@@ -1720,8 +1720,11 @@
             }
         }
     },
+    "This_script_was_not_executed": {
+        "message": "Dette script blev ikke kørt"
+    },
     "This_script_was_not_executed_yet": {
-        "message": "Dette script er ikke blevet kørt endnu"
+        "message": "Dette script er ikke blevet kørt endnu\n\nMulige årsager: Da siden blev indlæst... \n1. Tampermonkey var ikke klar.\n2. scriptet eksisterede ikke eller var deaktiveret.\n3. URL'en passede ikke (almindeligt i single-page apps, som ændrer URL'en via JavaScript)\n\nAktivér og/eller genindlæs fanen eller brug en mere generisk `@match` og detekter URL-ændringer med `window.onurlchange`."
     },
     "This_tag_is_not_part_of_the_system_tag_list_": {
         "message": "Dette tag er ikke en del af systemets tagliste"

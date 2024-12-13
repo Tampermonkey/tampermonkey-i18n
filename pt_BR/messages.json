@@ -1856,8 +1856,11 @@
             }
         }
     },
+    "This_script_was_not_executed": {
+        "message": "Este script não foi executado"
+    },
     "This_script_was_not_executed_yet": {
-        "message": "Este script ainda não foi executado"
+        "message": "Este script ainda não foi executado\n\nPossíveis razões: Quando a página carregou... \n1. O Tampermonkey não estava pronto.\n2. O script não existia ou estava desativado.\n3. O URL não correspondeu (comum em aplicativos de página única, que modificam o URL via JavaScript)\n\nAtive e/ou recarregue a guia ou use um `@match` mais genérico e detecte alterações de URL com `window.onurlchange`."
     },
     "This_tag_is_not_part_of_the_system_tag_list_": {
         "message": "Esta tag não está na lista de tags do sistema"

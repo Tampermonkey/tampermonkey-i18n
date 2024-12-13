@@ -1054,8 +1054,18 @@ This_script_was_executed_0count0_times_but_is_not_active_anymore:
   placeholders:
     count:
       content: $1
+This_script_was_not_executed:
+  message: Dieses Userscript wurde nicht ausgeführt
 This_script_was_not_executed_yet:
-  message: Dieses Userscript wurde noch nicht ausgeführt
+  message: >-
+    Dieses Userscript wurde noch nicht ausgeführt
+
+    Mögliche Gründe: Als die Seite geladen wurde...
+    1. war Tampermonkey noch nicht bereit.
+    2. das Script existierte nicht oder war deaktiviert.
+    3. die URL passte nicht (üblich bei Single-Page-Apps, die die URL per JavaScript ändern)
+
+    Aktivieren und/oder neu laden Sie den Tab oder verwenden Sie ein allgemeineres `@match` und erkennen Sie URL-Änderungen mit `window.onurlchange`.
 This_tag_is_not_part_of_the_system_tag_list_:
   message: Dieser Tag ist nicht Teil der System-Tag-Liste
 This_will_overwrite_your_global_settings_:

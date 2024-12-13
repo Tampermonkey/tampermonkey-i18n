@@ -1161,6 +1161,9 @@
     "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
         "message": "请启用匿名统计并帮助优化此扩展。只收集技术和扩展交互数据。点击这里了解有关数据的更多信息。"
     },
+    "Please_enable_developer_mode_to_allow_userscript_injection_": {
+        "message": "请启用开发者模式以允许用户脚本注入。点击这里了解如何操作。"
+    },
     "Please_select_a_file": {
         "message": "请选择一个文件"
     },
@@ -1657,8 +1660,11 @@
             }
         }
     },
+    "This_script_was_not_executed": {
+        "message": "此脚本未被执行"
+    },
     "This_script_was_not_executed_yet": {
-        "message": "此脚本还未被执行"
+        "message": "此脚本还未被执行\n\n可能的原因：\n1. 篡改猴尚未准备好。\n2. 脚本不存在或被禁用。\n3. URL 不匹配（常见于单页应用，通过 JavaScript 修改 URL）\n\n启用并/或重新加载标签页，或使用更通用的 `@match` 并使用 `window.onurlchange` 检测 URL 变化。"
     },
     "This_tag_is_not_part_of_the_system_tag_list_": {
         "message": "该标签不在系统标签列表中"
