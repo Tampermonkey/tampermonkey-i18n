@@ -1,4 +1,28 @@
 {
+    "extName": {
+        "message": "Tampermonkey"
+    },
+    "extNameBeta": {
+        "message": "Tampermonkey BETA"
+    },
+    "extNameLegacy": {
+        "message": "Tampermonkey Legacy"
+    },
+    "extNameClassic": {
+        "message": "Tampermonkey Classic"
+    },
+    "extShortName": {
+        "message": "Tampermonkey"
+    },
+    "extShortNameBeta": {
+        "message": "TM BETA"
+    },
+    "extShortNameLegacy": {
+        "message": "TM Legacy"
+    },
+    "extShortNameClassic": {
+        "message": "TM Classic"
+    },
     "extDescription": {
         "message": "Mude a web à vontade com userscripts"
     },
@@ -286,7 +310,7 @@
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Pelo menos uma das declarações @include, @match ou @exclude foi alterada."
     },
-    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
+    "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
         "message": "Pelo menos uma parte desta página está listada na opção 'Páginas proibidas'"
     },
     "Attention_Can_not_display_all_excludes_": {
@@ -407,10 +431,10 @@
     "Clear_All": {
         "message": "Limpar tudo"
     },
-    "Click_here_to_allow_TM_to_access_the_following_hosts_0hostlist0": {
-        "message": "Por favor, clique em OK para permitir que o Tampermonkey acesse os seguintes hosts:\n\n$hostlist$",
+    "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
+        "message": "Por favor, clique em OK para permitir que o Tampermonkey acesse os seguintes hosts:\n\n$host_list$",
         "placeholders": {
-            "hostlist": {
+            "host_list": {
                 "content": "$1"
             }
         }
@@ -1470,7 +1494,7 @@
         "message": "Salvar no disco"
     },
     "Scan_the_QR_code_to_use_Tampermonkey_on_your_phone_or_tablet_": {
-        "message": "Escanear o código QR para usar o Tampermonkey no seu celular ou tablet."
+        "message": "Escaneie o QR code para usar o Tampermonkey no seu celular ou tablet."
     },
     "Script_0name0_is_slowing_down_some_page_loads_": {
         "message": "O script '$name$' está deixando o carregamento da página lento",
@@ -1682,11 +1706,11 @@
     "Tabs": {
         "message": "Guias"
     },
-    "Tag_Already_Exists": {
-        "message": "A tag já existe"
+    "Tab_types": {
+        "message": "Tipos de guias"
     },
-    "Tags": {
-        "message": "Tags"
+    "Tabs": {
+        "message": "Guias"
     },
     "Tam": {
         "message": "Tam",
@@ -1701,8 +1725,8 @@
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "O Tampermonkey não tem permissão para acessar arquivos locais!"
     },
-    "Tampermonkey_is_available_on_mobile_platforms": {
-        "message": "O Tampermonkey está disponível em plataformas móveis"
+    "Tampermonkey_is_available_on_0os0_via_0browser0": {
+        "message": "O Tampermonkey está disponível para plataformas móveis",
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "O Tampermonkey talvez não possa ter acesso ao unsafe context (unsafeWindow, variáveis e funções da página) quando isto estiver desativado."
@@ -1860,7 +1884,7 @@
         "message": "Este script não foi executado"
     },
     "This_script_was_not_executed_yet": {
-        "message": "Este script ainda não foi executado\n\nPossíveis razões: Quando a página carregou... \n1. O Tampermonkey não estava pronto.\n2. O script não existia ou estava desativado.\n3. O URL não correspondeu (comum em aplicativos de página única, que modificam o URL via JavaScript)\n\nAtive e/ou recarregue a guia ou use um `@match` mais genérico e detecte alterações de URL com `window.onurlchange`."
+        "message": "Este script ainda não foi executado"
     },
     "This_tag_is_not_part_of_the_system_tag_list_": {
         "message": "Esta tag não está na lista de tags do sistema"
