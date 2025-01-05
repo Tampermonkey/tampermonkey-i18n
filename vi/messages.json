@@ -415,6 +415,20 @@
     "Context_Menu": {
         "message": "Bảng chọn ngữ cảnh"
     },
+    "Controls_how_deleted_scripts_are_handled__0enabled0_moves_scripts_to_a_virtual_trash__0disabled0_permanently_deletes_scripts__0cleanAfterSession0_automatically_deletes_all_on_session_end_": {
+        "message": "Điều khiển cách xử lí các tập lệnh bị xoá. '$enabled$' sẽ di chuyển tập lệnh vào một thùng rác ảo để có thể tìm lại. '$disabled$' sẽ xoá vĩnh viễn tập lệnh sau khi xác nhận. '$cleanAfterSession$' tự động dọn sạch thùng rác sau khi phiên trình duyệt kết thúc.",
+        "placeholders": {
+            "enabled": {
+                "content": "$1"
+            },
+            "disabled": {
+                "content": "$2"
+            },
+            "cleanAfterSession": {
+                "content": "$3"
+            }
+        }
+    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
         "message": "Chuyển đổi các phân đoạn CDATA thành một định dạng tương thích với trình duyệt"
     },
@@ -507,6 +521,9 @@
     },
     "Developer": {
         "message": "Nhà phát triển"
+    },
+    "Developer_Mode": {
+        "message": "Chế độ cho nhà phát triển"
     },
     "Disable": {
         "message": "Tắt"
@@ -822,6 +839,12 @@
     "GoTo": {
         "message": "Đi đến"
     },
+    "Grant_all": {
+        "message": "Cấp cho tất cả"
+    },
+    "Grant_selected": {
+        "message": "Cấp cho được chọn"
+    },
     "Group_Left": {
         "message": "Nhóm bên trái"
     },
@@ -845,6 +868,9 @@
     },
     "Homepage": {
         "message": "Trang nhà"
+    },
+    "Host_permissions_denied_by_user_": {
+        "message": "Quyền của chủ (host permission) bị người dùng từ chối:"
     },
     "I_contributed_already": {
         "message": "Tôi đã đóng góp rồi"
@@ -990,6 +1016,9 @@
     },
     "Learn_more": {
         "message": "Tìm hiểu thêm"
+},
+    "Legacy": {
+        "message": "Di sản"
     },
     "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
         "message": "Giới hạn chạy nền có thể phá vỡ một số tính năng của Tampermonkey như cập nhật tập lệnh, GM_xmlhttpRequest và các tính năng khác!"
@@ -1097,6 +1126,9 @@
     },
     "No_frames": {
         "message": "Chỉ chạy trong khung trên cùng"
+            },
+    "No_previously_denied_runtime_host_permissions_found": {
+        "message": "Không tìm thấy bất kì quyền làm chủ (host permission) thời-gian-chạy bị từ chối trước đó"
     },
     "No_script_is_installed": {
         "message": "Không có tập lệnh nào được cài"
@@ -1317,6 +1349,9 @@
     "Report_an_issue_to_the_script_hoster_": {
         "message": "Báo cáo lạm dụng.\n(Một tài khoản người dùng có thể là càn thiết)"
     },
+    "Requested_Host_Permissions": {
+        "message": "Yêu cầu quyền của chủ"
+    },
     "Requires": {
         "message": "Yêu cầu"
     },
@@ -1349,6 +1384,9 @@
     },
     "Running_scripts": {
         "message": "Các thực thể tập lệnh đang chạy"
+    },
+    "Runtime_Host_Permissions": {
+        "message": "Quyền của chủ thời-gian-chạy"
     },
     "Sandbox_Mode": {
         "message": "Chế độ hộp cát"
@@ -1431,6 +1469,9 @@
     },
     "Select_All": {
         "message": "Chọn hết"
+    },
+    "Select_All_Occurrences": {
+        "message": "Chọn tất cả trường hợp"
     },
     "Select_Bookmarks": {
         "message": "Chọn dấu trang"
@@ -1535,6 +1576,9 @@
     },
     "Sync_Type": {
         "message": "Loại"
+    },
+    "Sync_failed": {
+        "message": "Đồng bộ thất bại"
     },
     "Sync_finished": {
         "message": "Đã hoàn thành việc đồng bộ"
@@ -1659,7 +1703,7 @@
         "message": "Vẫn còn thay đổi chưa được lưu.\nBạn có thực sự muốn đóng trình chỉnh sửa?"
     },
     "There_is_an_update_for_0name0_avaiable_": {
-        "message": "Có sẵn một câph nhật cho '$name$'. :)",
+        "message": "Hiện đang có một bản cập nhật cho '$name$'. :)",
         "placeholders": {
             "name": {
                 "content": "$1"
