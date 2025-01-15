@@ -1779,7 +1779,7 @@
     },
     "There_are_no_active_scripts__Do_you_want_to_search_for_userscripts_": {
         "description": "Una domanda posta dal bot di servizio",
-        "message": "Non ci sono script attivi.\nVuoi cercare gli userscript?"
+        "message": "Non ci sono script attivi.\nVuoi cercare degli userscript?"
     },
     "There_are_unsaved_changed_": {
         "message": "Ci sono modifiche non salvate.\nVuoi davvero chiudere l'editor?"
@@ -1796,10 +1796,10 @@
         "message": "Questa risorsa esterna non verrà aggiornata automaticamente!\nPer abilitare nuovamente l'aggiornamento prima eliminala."
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
-        "message": "Questo darà allo script il permssso di recuperare e inviare dati da e ad ogni pagina web.\nQuesto è potenzialmente rischioso!\n\nSei sicuro di voler continuare?"
+        "message": "Questo darà allo script il permesso di recuperare e inviare dati da e ad ogni pagina web.\nQuesto è potenzialmente rischioso!\n\nVuoi continuare?"
     },
     "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
-        "message": "L'origine di questo script non può essere determinata.\nPotrebbe essere stato installato da una terza parte per catturare i dati privati o alcune impostazioni base del browser.\nIl sistema operativo o l'hardware sono stati modificati.\nQuesta modifica lo abiliterà!"
+        "message": "Non è possibile determinare l'origine di questo script.\nPotrebbe essere stato installato da una terza parte per catturare i dati privati o alcune impostazioni base del browser.\nIl sistema operativo o l'hardware sono stati modificati.\nQuesta modifica lo abiliterà!"
     },
     "This_is_a_system_script": {
         "message": "Questo è uno script di sistema."
@@ -1869,7 +1869,7 @@
         "message": "Questo sovrascriverà le impostazioni globali!"
     },
     "This_will_remove_all_remote_data_from_sync_Ok_": {
-        "message": "Vuoi veramente rimuovere tutti dati dalla sincronizzazione?"
+        "message": "Vuoi rimuovere tutti dati dalla sincronizzazione?"
     },
     "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
         "message": "Vuoi veramente rimuovere tutti gli script e ripristinare tutte le impostazioni?"
@@ -1899,7 +1899,7 @@
         "message": "Traccia"
     },
     "Transpose": {
-        "message": "Transponi"
+        "message": "Trasponi"
     },
     "Trash_Mode": {
         "message": "Modo Cestino"
@@ -1914,7 +1914,7 @@
         "message": "Esegui aggiornamento"
     },
     "Trim_trailing_whitespace_from_modified_lines": {
-        "message": "Taglia spazi inziali finali dalle linee modificate"
+        "message": "Taglia dalle linee modificate gli spazi iniziali e finali"
     },
     "Try_to_install_as_script": {
         "message": "Prova ad installarlo come script"
@@ -1948,7 +1948,7 @@
         "message": "Impossibile analizzare questo! :("
     },
     "Undo": {
-        "message": "Annula modifica"
+        "message": "Annulla modifica"
     },
     "Unfold": {
         "message": "Espandi"
