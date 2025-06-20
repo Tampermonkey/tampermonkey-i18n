@@ -57,7 +57,7 @@
         }
     },
     "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
-        "message": "Η έκδοση $version$ του κώδικα $name$ είναι διαθέσιμα.\nΕπανεκκινήστε τον φυλλομετρητή σας για την εκκίνηση της ενημέρωσης!",
+        "message": "Η έκδοση $version$ του κώδικα $name$ είναι διαθέσιμη.\nΕπανεκκινήστε τον φυλλομετρητή σας για την εκκίνηση της ενημέρωσης!",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -86,7 +86,7 @@
         "message": "Ίσως να απαιτείται επανέλεγχος των ρυθμίσεων συμβατότητας του GreaseMonkey/FF για την εκτέλεση αυτού του κώδικα."
     },
     "A_reload_is_required": {
-        "message": "Απαιτείται επαναφόρτωση: \nΌλες οι μη αποθηκευμένες αλλαγές θα χαθούν!"
+        "message": "Απαιτείται επαναφόρτωση:\nΌλες οι μη αποθηκευμένες αλλαγές θα χαθούν!"
     },
     "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
         "message": "Ένα αίτημα σε πηγή διασταυρωμένης προέλευσης δεν είναι κάτι το ασυνήθιστο.\nΑπλώς πρέπει να ελέγξετε αν αυτός ο κώδικας έχει κάποιο καλό λόγο για να αιτείται πρόσβαση στο συγκεκριμένο domain.\nΠαραδείγματος χάριν, υπάρχουν πολύ λίγες αιτίες για έναν κώδικα να έχει πρόσβαση στην τράπεζά σας.\n\nΣημειώστε ότι οι δημιουργοί των κωδίκων μπορούν να αποφύγουν αυτό το παράθυρο προσθέτοντας το [url=$connect$]@connect tags[/url] στους κώδικές τους.\n\nΌ,τι και αν αποφασίσετε, μπορείτε να αλλάξετε την επιλογή σας οποτεδήποτε στην [url=$settings$]καρτέλα Ρυθμίσεις[/url] του κώδικα.",
@@ -524,10 +524,10 @@
         "message": "Απενεργοποίηση Ενημερώσεων"
     },
     "Disable_all_remaining_scripts_of_this_tag": {
-        "message": "Κάντε κλικ για να απενεργοποιήσετε όλα τα υπόλοιπα scripts αυτής της ετικέτας"
+        "message": "Πατήστε για να απενεργοποιήσετε όλους τους υπόλοιπους κώδικες αυτής της ετικέτας"
     },
     "Disable_all_scripts_of_this_tag": {
-        "message": "Κάντε κλικ για να απενεργοποιήσετε όλα τα scripts αυτής της ετικέτας"
+        "message": "Πατήστε για να απενεργοποιήσετε όλους τους κώδικες αυτής της ετικέτας"
     },
     "Disabled": {
         "message": "Απενεργοποιημένο"
@@ -547,10 +547,10 @@
         "message": "Αρχή Εγγράφου"
     },
     "Does_not_run_in_incognito_tabs": {
-        "message": "Δεν εκτελείται σε καρτέλες ιδιωτικές"
+        "message": "Δεν εκτελείται σε ιδιωτικές καρτέλες"
     },
     "Does_not_run_in_normal_tabs": {
-        "message": "Δεν εκτελείται σε καρτέλες κανονικές"
+        "message": "Δεν εκτελείται σε κανονικές καρτέλες"
     },
     "Dont_ask_again": {
         "message": "Να μην υπάρχει ερώτηση ξανά"
@@ -609,7 +609,7 @@
         "message": "Ενεργοποίηση ετικετών"
     },
     "Enable_all_scripts_of_this_tag": {
-        "message": "Κάντε κλικ για να ενεργοποιήσετε όλα τα scripts αυτής της ετικέτας"
+        "message": "Πατήστε για να ενεργοποιήσετε όλους τους κώδικες αυτής της ετικέτας"
     },
     "Enable_autoSave": {
         "message": "Αποθήκευση περιεχομένου όταν χάνεται η εστίαση του επεξεργαστή"
