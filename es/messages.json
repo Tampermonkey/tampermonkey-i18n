@@ -32,6 +32,108 @@
     "11": {
         "message": "11"
     },
+    "extName": {
+        "message": "Tampermonkey"
+    },
+    "extNameBeta": {
+        "message": "Tampermonkey BETA"
+    },
+    "extNameLegacy": {
+        "message": "Tampermonkey Legacy"
+    },
+    "extNameClassic": {
+        "message": "Tampermonkey Classic"
+    },
+    "extShortName": {
+        "message": "Tampermonkey"
+    },
+    "extShortNameBeta": {
+        "message": "TM BETA"
+    },
+    "extShortNameLegacy": {
+        "message": "TM Legacy"
+    },
+    "extShortNameClassic": {
+        "message": "TM Classic"
+    },
+    "extDescription": {
+        "message": "Modifica la web a tu antojo con userscripts"
+    },
+    "0count0_changes_exported": {
+        "message": "Se exportaron $count$ cambio(s)",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "0count0_changes_imported": {
+        "message": "Se importaron $count$ cambio(s)",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "0name0_Your_service_bot": {
+        "message": "$name$ – Tu bot de servicio",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "Aborted_by_user": {
+        "message": "Cancelado por el usuario"
+    },
+    "Action_Menu": {
+        "message": "Menú de acciones"
+    },
+    "Action_failed": {
+        "message": "La acción falló"
+    },
+    "Add_GM_functions_to_this_or_window": {
+        "message": "Añadir funciones GM a this o window"
+    },
+    "Add_TM_to_CSP": {
+        "message": "Modificar las cabeceras CSP existentes"
+    },
+    "Add_Tampermonkey_to_the_site_s_content_csp": {
+        "message": "Añadir Tampermonkey al CSP del HTML"
+    },
+    "Add_Selection_Above": {
+        "message": "Añadir selección arriba"
+    },
+    "Add_Selection_Below": {
+        "message": "Añadir selección abajo"
+    },
+    "Add_to_icon_badge_text": {
+        "message": "Añadir al texto de la insignia"
+    },
+    "All": {
+        "message": "Todo"
+    },
+    "All_tabs": {
+        "message": "Todas las pestañas"
+    },
+    "Allow_communication_with_cooperate_pages": {
+        "message": "Permitir la comunicación con páginas asociadas"
+    },
+    "Allow_headers_to_be_modified_by_scripts": {
+        "message": "Permitir que los scripts modifiquen cabeceras HTTP"
+    },
+    "Allow_scripts_to_run_scripts_in": {
+        "message": "Tipos de pestaña por defecto en los que ejecutar scripts"
+    },
+    "Apply_compatibility_options_to_required_script_too": {
+        "message": "Aplicar opciones de compatibilidad también a los @require"
+    },
+    "Off": {
+        "message": "Desactivado"
+    },
+    "On": {
+        "message": "Activado"
+    },
     "0count0_errors_or_hints_were_found_": {
         "message": "$count$ errores o consejos fueron encontrados.",
         "placeholders": {
@@ -134,7 +236,7 @@
         "message": "Permitir una vez"
     },
     "Alltime_running_instances": {
-        "message": "Instancias en ejecución"
+        "message": "Instancias ejecutadas históricamente"
     },
     "Always": {
         "message": "Siempre"
@@ -188,10 +290,10 @@
         "message": "Autor"
     },
     "Auto": {
-        "message": "Auto"
+        "message": "Automático"
     },
     "Auto_reload_on_script_enabled": {
-        "message": "Auto recargar páginas"
+        "message": "Recargar páginas automáticamente"
     },
     "Auto_reload_on_script_enabled_desc": {
         "message": "Recargar páginas afectadas si un script se activa o desactiva"
@@ -201,6 +303,9 @@
     },
     "Beginner": {
         "message": "Principiante"
+    },
+    "BlackCheck": {
+        "message": "Verificación lista negra"
     },
     "Blacklist": {
         "message": "Lista negra"
@@ -656,10 +761,10 @@
         "message": "Novato"
     },
     "Ok": {
-        "message": "Ok"
+        "message": "Aceptar"
     },
     "One_error_or_hint_was_found_": {
-        "message": "Un error o consejo fue encontrado."
+        "message": "Se encontró un error o aviso."
     },
     "One_or_more_compatibility_options_are_set": {
         "message": "Una o más opciones de compatibilidad están activadas. Quizás quieras/deberías revisarlas."
