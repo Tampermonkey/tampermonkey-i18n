@@ -102,6 +102,70 @@
             }
         }
     },
+    "0number0_Bytes": {
+        "message": "$number$ Б",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_GB": {
+        "message": "$number$ ГБ",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_KB": {
+        "message": "$number$ КБ",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_MB": {
+        "message": "$number$ МБ",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_TB": {
+        "message": "$number$ ТБ",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_days": {
+        "message": "$number$ д.",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_hours": {
+        "message": "$number$ ч.",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_minutes": {
+        "message": "$number$ мин.",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
     "15_Seconds": {
         "message": "15 секунд"
     },
@@ -184,6 +248,12 @@
             }
         }
     },
+    "Add_cursor_to_next_line": {
+        "message": "Добавить курсор на следующую строку"
+    },
+    "Add_cursor_to_prev_line": {
+        "message": "Добавить курсор на предыдущую строку"
+    },
     "Add_new_script___": {
         "message": "Создать новый скрипт..."
     },
@@ -203,7 +273,7 @@
         "message": "Все локальные файлы"
     },
     "All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_": {
-        "message": "Все изменения сохраняются только на несколько минут. Настройте опцию '$name$', чтобы сохранить их навсегда.",
+        "message": "Все изменения сохраняются только на несколько минут. Настройте параметр «$name$», чтобы сохранить их навсегда.",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -345,8 +415,14 @@
     "Auto_syntax_check_on_typing": {
         "message": "Автопроверка синтаксиса при наборе текста"
     },
+    "Autocomplete": {
+        "message": "Автозаполнение"
+    },
     "Automatically_added_user_includes_for_compatibility_reasons_": {
         "message": "Некоторые пользовательские @include будут применены автоматически для обеспечения совместимости!"
+    },
+    "Back_or_close": {
+        "message": "Назад или закрыть"
     },
     "Beginner": {
         "message": "Начинающий"
@@ -857,6 +933,12 @@
     "Find_Under_Previous": {
         "message": "Найти ниже предыдущего"
     },
+    "Find_incremental": {
+        "message": "Поэтапный поиск"
+    },
+    "Find_incremental_reverse": {
+        "message": "Обратный поэтапный поиск"
+    },
     "Fix_wrappedJSObject_property_access": {
         "message": "Исправить доступ к свойству wrappedJSObject"
     },
@@ -1204,6 +1286,12 @@
     "Next_Problem":  {
         "message": "Следующая проблема"
     },
+    "Next_tab": {
+        "message": "Следующая вкладка"
+    },
+    "Next_theme": {
+        "message": "Следующая тема"
+    },
     "No": {
         "message": "Нет"
     },
@@ -1339,8 +1427,8 @@
     "Please_wait___": {
         "message": "Подождите..."
     },
-    "Position_": {
-        "message": "Позиция"
+    "Position": {
+        "message": "№"
     },
     "Press_ctrl_to_toggle_all_checkboxes": {
         "message": "Нажмите Ctrl/Cmd, чтобы переключить все флажки"
@@ -1349,7 +1437,10 @@
         "message": "Предыдущая закладка"
     },
     "Prev_Problem": {
-        "message": "Предыдущая ошибка или предупреждение"
+        "message": "Предыдущая проблема"
+    },
+    "Previous_tab": {
+        "message": "Предыдущая вкладка"
     },
     "Process_with_Chrome": {
         "message": "Обработка с помощью браузера"
@@ -1628,6 +1719,9 @@
     "Size": {
         "message": "Размер"
     },
+    "Skip_and_select_next_occurrence": {
+        "message": "Пропустить и выбрать следующее вхождение"
+    },
     "Skip_timeout__0seconds0_seconds_": {
         "message": "Пропустить время ожидания ($seconds$ сек.)",
         "placeholders": {
@@ -1638,6 +1732,9 @@
     },
     "Smart": {
         "message": "«Умный»"
+    },
+    "Smart_Backspace": {
+        "message": "«Умный» Backspace"
     },
     "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
         "message": "Некоторые скрипты могут быть заблокированы настройками JavaScript для этой страницы или блокировщиком скриптов!"
@@ -1656,6 +1753,9 @@
     },
     "Split_into_Lines": {
         "message": "Разделить на строки"
+    },
+    "Split_selection_by_line": {
+        "message": "Разделить выделенное по строкам"
     },
     "Start": {
         "message": "Запустить"
@@ -2157,6 +2257,9 @@
         "description": "Вопрос, заданный служебным ботом",
         "message": "Хотели бы вы узнать, как экспортировать и импортировать ваши скрипты?"
     },
+    "Wrap_lines": {
+        "message": "Перенести строки"
+    },
     "XHR_Security": {
         "message": "Безопасность XHR"
     },
@@ -2204,6 +2307,14 @@
     },
     "_not_set_": {
         "message": "<не установлен>"
+    },
+    "by_0name0": {
+        "message": "автор: $name$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
     },
     "connect_mode": {
         "message": "Проверка @connect"
@@ -2255,5 +2366,13 @@
     },
     "top_level_await": {
         "message": "ожидание верхнего уровня"
+    },
+    "v0version0": {
+        "message": "вер. $version$",
+        "placeholders": {
+            "version": {
+                "content": "$1"
+            }
+        }
     }
 }
