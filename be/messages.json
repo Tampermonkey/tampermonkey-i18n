@@ -152,8 +152,13 @@
     "All_local_files": {
         "message": "Усе лакальныя файлы"
     },
-    "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-        "message": "Усе змены захоўваюцца толькі да закрыцця гэтага сеансу інкогніта!"
+    "All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_": {
+        "message": "Усе змены будуць захаваныя толькі на некалькі секунды. Перакласці параметр '$name$' для перапоўнення ўзяламых змен.",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
     },
     "All_script_settings_will_be_reset_": {
         "message": "Усе налады скрыпту будуць скінутыя!"
@@ -891,6 +896,9 @@
     "Next_Bookmark": {
         "message": "Наступная закладка"
     },
+    "Next_Problem":  {
+        "message": "Наступная праблема"
+    },
     "No": {
         "message": "Не"
     },
@@ -911,6 +919,9 @@
     },
     "No_syntax_errors_were_found_": {
         "message": "Сінтаксічных памылак не выяўлена."
+    },
+    "No_text": {
+        "message": "Няма тэксту"
     },
     "No_update_found__sry_": {
         "message": "Абнаўленняў не знойдзена, прабачце!"
@@ -1000,6 +1011,9 @@
     },
     "Prev_Bookmark": {
         "message": "Папярэдняя закладка"
+    },
+    "Prev_Problem": {
+        "message": "Папярэдня памылка"
     },
     "Process_with_Chrome": {
         "message": "Працэс з дапамогай браўзэра"

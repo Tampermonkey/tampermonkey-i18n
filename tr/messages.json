@@ -161,8 +161,13 @@
     "All_local_files": {
         "message": "Tüm yerel dosyalar"
     },
-    "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-        "message": "Tüm değişiklikler yalnızca bu gizli oturum kapatılıncaya kadar saklanır!"
+    "All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_": {
+        "message": "Değişiklikler sadece birkaç dakika tutulur. Bunu kalıcı hale getirmek için '$name$' seçeneğini yeniden yapılandırın.",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
     },
     "All_script_settings_will_be_reset_": {
         "message": "Tüm betik ayarları sıfırlanacaktır!"
@@ -1007,6 +1012,9 @@
     "Next_Bookmark": {
         "message": "Sonraki yer imi"
     },
+    "Next_Problem":  {
+        "message": "Sonraki sorun"
+    },
     "No": {
         "message": "Hayır"
     },
@@ -1030,6 +1038,9 @@
     },
     "No_syntax_errors_were_found_": {
         "message": "Söz dizimi hatası bulunamadı."
+    },
+    "No_text": {
+        "message": "Metin yok"
     },
     "No_update_found__sry_": {
         "message": "Hiç güncelleme bulunamadı."
@@ -1134,6 +1145,9 @@
     },
     "Prev_Bookmark": {
         "message": "Önceki yer imi"
+    },
+    "Prev_Problem": {
+        "message": "Önceki sorun"
     },
     "Process_with_Chrome": {
         "message": "Tarayıcı ile işle"

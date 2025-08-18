@@ -91,8 +91,13 @@
     "All_but_HttpOnly": {
         "message": "Všetko okrem HttpOnly"
     },
-    "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-        "message": "Zmeny sú uložené len do ukončenia prehliadania v režime inkognito!"
+    "All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_": {
+        "message": "Zmeny sa uchovávajú len na chvíľu. Nastavte '$name$' možnosť, aby ste ich mohli trvale uložiť.",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
     },
     "All_script_settings_will_be_reset_": {
         "message": "Všetky nastavenia skriptu budú resetované!"
@@ -606,6 +611,9 @@
     },
     "No_syntax_errors_were_found_": {
         "message": "Nenašli sa žiadne syntaktické chyby."
+    },
+    "No_text": {
+        "message": "Bez textu"
     },
     "No_update_found__sry_": {
         "message": "Žiadne nové aktualizácie"

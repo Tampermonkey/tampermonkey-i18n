@@ -178,8 +178,13 @@
     "All_local_files": {
         "message": "Всі локальні файли"
     },
-    "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-        "message": "Всі зміни зберігаються тільки до закінчення цього сеансу інкогніто!"
+    "All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_": {
+        "message": "Усі зміни будуть збережені лише на короткий час. Переконайтеся, що ви налаштували параметр $name$, щоб зберегти їх надовго.",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
     },
     "All_script_settings_will_be_reset_": {
         "message": "Всі налаштування скрипта будуть скинуті!"
@@ -1172,6 +1177,9 @@
     "Next_Bookmark": {
         "message": "Наступна закладка"
     },
+    "Next_Problem":  {
+        "message": "Наступна проблема"
+    },
     "No": {
         "message": "Ні"
     },
@@ -1198,6 +1206,9 @@
     },
     "No_syntax_errors_were_found_": {
         "message": "Синтаксичних помилок не знайдено."
+    },
+    "No_text": {
+        "message": "Немає тексту"
     },
     "No_update_found__sry_": {
         "message": "Оновлення не знайдено, вибачте!"
@@ -1312,6 +1323,9 @@
     },
     "Prev_Bookmark": {
         "message": "Попередня закладка"
+    },
+    "Prev_Problem": {
+        "message": "Попередня проблема"
     },
     "Process_with_Chrome": {
         "message": "Обробка в браузері"

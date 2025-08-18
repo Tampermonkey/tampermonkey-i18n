@@ -161,8 +161,13 @@
     "All_local_files": {
         "message": "Όλα τα τοπικά αρχεία"
     },
-    "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-        "message": "Όλες οι αλλαγές διατηρούνται έως το κλείσιμο της ιδιωτικής συνεδρίας!"
+    "All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_": {
+        "message": "Οι όλες οι ενημερώσεις κρατούνται μόνο για λίγους δευτερόλεπτους. Επαναδιαμορφώστε την επιλογή $name$ ώστε να αποθηκεύσεται μόνιμα.",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
     },
     "All_script_settings_will_be_reset_": {
         "message": "Όλες οι ρυθμίσεις κώδικα θα επανέλθουν!"
@@ -1007,6 +1012,9 @@
     "Next_Bookmark": {
         "message": "Επόμενος Σελιδοδείκτης"
     },
+    "Next_Problem":  {
+        "message": "Επόμενο πρόβλημα"
+    },
     "No": {
         "message": "Όχι"
     },
@@ -1030,6 +1038,9 @@
     },
     "No_syntax_errors_were_found_": {
         "message": "Δε βρέθηκε κανένα συντακτικό σφάλμα."
+    },
+    "No_text": {
+        "message": "Κανένα Κείμενο"
     },
     "No_update_found__sry_": {
         "message": "Δε βρέθηκε ενημέρωση, συγνώμη!"
@@ -1134,6 +1145,9 @@
     },
     "Prev_Bookmark": {
         "message": "Προηγούμενος Σελιδοδείκτης"
+    },
+    "Prev_Problem": {
+        "message": "Προηγούμενος Πρόβλημα"
     },
     "Process_with_Chrome": {
         "message": "Διαδικασία με τον φυλλομετρητή"

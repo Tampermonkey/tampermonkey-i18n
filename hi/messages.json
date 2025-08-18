@@ -100,8 +100,13 @@
     "All_local_files": {
         "message": "सभी स्थानीय फ़ाइलें"
     },
-    "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-        "message": "सभी संशोधन केवल तब तक रखे जाते हैं जब तक यह अज्ञात सत्र बंद न हो जाए !"
+    "All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_": {
+        "message": "सबकुछ केवल कुछ समय तक बचाया जाएगा। '$name$' विकल्प को प्रत्येक बार सही ढंग से सेट करें, ताकि इसके मैनुअल सेटिंग्स को लागू किए जा सके।",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
     },
     "All_script_settings_will_be_reset_": {
         "message": "सभी स्क्रिप्ट सेटिंग्स को रीसेट कर दिया जाएगा!"
@@ -811,6 +816,9 @@
     "Next_Bookmark": {
         "message": "अगला बुकमार्क"
     },
+    "Next_Problem":  {
+        "message": "अगला समस्या"
+    },
     "No": {
         "message": "नहीं"
     },
@@ -834,6 +842,9 @@
     },
     "No_syntax_errors_were_found_": {
         "message": "कोई सिंटेक्स त्रुटि नहीं पाई गई।"
+    },
+    "No_text": {
+        "message": "कोई मूलपाठ नहीं है"
     },
     "No_update_found__sry_": {
         "message": "कोई अद्यतन नहीं मिला, खेद है!"
@@ -920,6 +931,9 @@
     },
     "Prev_Bookmark": {
         "message": "पिछला बुकमार्क"
+    },
+    "Prev_Problem": {
+        "message": "पिछली समस्या"
     },
     "Process_with_Chrome": {
         "message": "ब्राउज़र के साथ प्रक्रिया"

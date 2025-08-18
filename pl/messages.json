@@ -91,8 +91,13 @@
     "All_but_HttpOnly": {
         "message": "Wszystkie oprócz chronionych ciasteczek (HttpOnly)"
     },
-    "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-        "message": "Wszystkie modyfikacje są tylko zachowywane do zamknięcia sesji prywatnej!"
+    "All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_": {
+        "message": "Zmiany zostaną zachowane tylko przez chwilę. Skonfiguruj opcję '$name$' by trwale je zapisać.",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
     },
     "All_script_settings_will_be_reset_": {
         "message": "Wszystkie ustawienia skryptu zostaną zresetowane!"
@@ -683,6 +688,9 @@
     },
     "No_syntax_errors_were_found_": {
         "message": "Brak błędów w składni."
+    },
+    "No_text": {
+        "message": "Brak tekstu"
     },
     "No_update_found__sry_": {
         "message": "Przepraszam, ale niestety nie ma żadnych aktualizacji!"

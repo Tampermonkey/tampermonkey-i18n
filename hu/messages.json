@@ -66,8 +66,13 @@
     "All_but_HttpOnly": {
         "message": "Minden kivéve a védett sütik (HttpOnly)"
     },
-    "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-        "message": "Minden módosítás csak addig van tárolva, amíg ez az inkognitó mód be nem zárul!"
+    "All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_": {
+        "message": "A módosítások csak rövid ideig tartanak. Konfigurálja a(z) '$name$' opciót, hogy megmaradjanak.",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
     },
     "All_script_settings_will_be_reset_": {
         "message": "Minden szkript beállítás visszaállításra fog kerülni!"
@@ -512,6 +517,9 @@
     },
     "No_script_is_running": {
         "message": "Nem fut egyetlen szkript sem"
+    },
+    "No_text": {
+        "message": "Nincs szöveg"
     },
     "No_update_found__sry_": {
         "message": "Nem találtunk frissítést, bocs!"

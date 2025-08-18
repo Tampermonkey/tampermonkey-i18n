@@ -223,8 +223,13 @@
     "All_local_files": {
         "message": "Todos los archivos locales"
     },
-    "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-        "message": "¡Todas las modificaciones solo se mantienen hasta que la sesión de incógnito es cerrada!"
+    "All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_": {
+        "message": "Todas las modificaciones sólo se mantienen unos momentos. Reconfigura la opción '$name$' para guardarlas permanentemente.",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
     },
     "All_script_settings_will_be_reset_": {
         "message": "¡Todas las configuraciones del script se perderán!"
@@ -747,6 +752,9 @@
     },
     "No_script_is_running": {
         "message": "Ningún script en ejecución"
+    },
+    "No_text": {
+        "message": "Sin texto"
     },
     "No_update_found__sry_": {
         "message": "No se encontraron actualizaciones :("

@@ -113,8 +113,13 @@
     "All_local_files": {
         "message": "Svi lokalni fajlovi"
     },
-    "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-        "message": "Sve promene su samo sačuvane dok se ova incognito sesija ne završi!"
+    "All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_": {
+        "message": "Sve izmene su samo privremeno sačuvane. Ponovno podešavanje opcije '$name$' će ih trajno sačuvati.",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
     },
     "All_script_settings_will_be_reset_": {
         "message": "Sva podešavanja će biti resetovana (vraćena na fabrička podešavanja)!"
@@ -808,6 +813,9 @@
     "Next_Bookmark": {
         "message": "Sledeći Obeleživač"
     },
+    "Next_Problem":  {
+        "message": "Sledeći Problem"
+    },
     "No": {
         "message": "Ne"
     },
@@ -828,6 +836,9 @@
     },
     "No_syntax_errors_were_found_": {
         "message": "Sintaksne greske nisu pronadjene."
+    },
+    "No_text": {
+        "message": "Nema teksta"
     },
     "No_update_found__sry_": {
         "message": "Nema dodatnih ažuriranja!"
@@ -911,6 +922,9 @@
     },
     "Prev_Bookmark": {
         "message": "Prethodni Obeleživač"
+    },
+    "Prev_Problem": {
+        "message": "Prethodni Problem"
     },
     "Process_with_Chrome": {
         "message": "Proces sa pretraživačem."

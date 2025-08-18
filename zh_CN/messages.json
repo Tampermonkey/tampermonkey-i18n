@@ -176,8 +176,13 @@
     "All_local_files": {
         "message": "所有本地文件"
     },
-    "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-        "message": "所有修改只能保存到本次隐身会话结束！"
+    "All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_": {
+        "message": "所有的修改只会在短时间内保存。 重新配置 '$name$' 选项来永久保存它们。",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
     },
     "All_script_settings_will_be_reset_": {
         "message": "即将重置所有脚本的设置！"
@@ -1045,6 +1050,9 @@
     "Next_Bookmark": {
         "message": "下一个书签"
     },
+    "Next_Problem":  {
+        "message": "下一个问题"
+    },
     "No": {
         "message": "否"
     },
@@ -1071,6 +1079,9 @@
     },
     "No_syntax_errors_were_found_": {
         "message": "未发现语法错误。"
+    },
+    "No_text": {
+        "message": "无文本"
     },
     "No_update_found__sry_": {
         "message": "暂时没有更新，等会儿再来吧~"
@@ -1178,6 +1189,9 @@
     },
     "Prev_Bookmark": {
         "message": "上一个书签"
+    },
+    "Prev_Problem": {
+        "message": "上一个问题"
     },
     "Process_with_Chrome": {
         "message": "安装到浏览器"

@@ -202,8 +202,13 @@
     "All_local_files": {
         "message": "Все локальные файлы"
     },
-    "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-        "message": "Все изменения сохраняются только до закрытия этого приватного сеанса!"
+    "All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_": {
+        "message": "Все изменения сохраняются только на несколько минут. Настройте опцию '$name$', чтобы сохранить их навсегда.",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
     },
     "All_script_settings_will_be_reset_": {
         "message": "Все настройки скрипта будут сброшены!"
@@ -1196,6 +1201,9 @@
     "Next_Bookmark": {
         "message": "Следующая закладка"
     },
+    "Next_Problem":  {
+        "message": "Следующая проблема"
+    },
     "No": {
         "message": "Нет"
     },
@@ -1222,6 +1230,9 @@
     },
     "No_syntax_errors_were_found_": {
         "message": "Синтаксических ошибок не обнаружено."
+    },
+    "No_text": {
+        "message": "Нет текста"
     },
     "No_update_found__sry_": {
         "message": "Обновлений не найдено!"
@@ -1336,6 +1347,9 @@
     },
     "Prev_Bookmark": {
         "message": "Предыдущая закладка"
+    },
+    "Prev_Problem": {
+        "message": "Предыдущая ошибка или предупреждение"
     },
     "Process_with_Chrome": {
         "message": "Обработка с помощью браузера"
@@ -2067,7 +2081,7 @@
     "Userscripts": {
         "message": "Пользовательские скрипты"
     },
-    "Using__include_is_potentially_unsafe_and_may_be_obsolete_soon___0off0_disables__include_completely__0match0__is_safe__but_may_not_compatible_the_script_s_intention__0unsafe0__mostly_keeps_the_legacy_behavior_0default0__means__0used_default0": {
+    "Using__include_is_potentially_unsafe_and_may_be_obsolete_soon___0off0_disables__include_completely__0match0__is_safe__but_may_not_compatible_the_script_developers_intention__0unsafe0__mostly_keeps_the_legacy_behavior_0default0__means__0used_default0": {
         "message": "Использование @include потенциально небезопасно и может устареть в Manifest v3 в начале 2023 года. Этот параметр позволяет вам настроить способ интерпретации @include. $off$ – полностью отключает @include, $match$ – безопасен, но может не соответствовать намерениям разработчиков скрипта. $unsafe$ – в основном сохраняет устаревшее поведение, а «$default$» на данный момент означает «$used_default$».",
         "placeholders": {
             "off": {

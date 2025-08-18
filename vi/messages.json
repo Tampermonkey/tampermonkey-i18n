@@ -145,8 +145,13 @@
     "All_local_files": {
         "message": "Tất cả các tệp cục bộ"
     },
-    "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-        "message": "Tất cả chỉnh sửa sẽ chỉ được giữ lại cho đến khi phiên ẩn danh này được đóng lại!"
+    "All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_": {
+        "message": "Các thay đổi chỉ được giữ trong một vài giây. Thiết lập lại tuỳ chọn '$name$' để lưu chúng vĩnh viễn.",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
     },
     "All_script_settings_will_be_reset_": {
         "message": "Tất cả thiết đặt tập lệnh sẽ được đặt lại!"
@@ -1112,6 +1117,9 @@
     "Next_Bookmark": {
         "message": "Dấu trang tiếp theo"
     },
+    "Next_Problem":  {
+        "message": "Vấn đề tiếp theo"
+    },
     "No": {
         "message": "Không"
     },
@@ -1138,6 +1146,9 @@
     },
     "No_syntax_errors_were_found_": {
         "message": "Không tìm thấy lỗi cú pháp nào cả"
+    },
+    "No_text": {
+        "message": "Không có văn bản"
     },
     "No_update_found__sry_": {
         "message": "Chưa có cập nhật nào, xin lỗi!"
@@ -1243,6 +1254,9 @@
     },
     "Prev_Bookmark": {
         "message": "Dấu trang trước đó"
+    },
+    "Prev_Problem": {
+        "message": "Vấn đề trước đó"
     },
     "Process_with_Chrome": {
         "message": "Xử lí bằng trình duyệt"

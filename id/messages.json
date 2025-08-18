@@ -57,8 +57,13 @@
     "All_but_HttpOnly": {
         "message": "Semua kecuali HttpOnly"
     },
-    "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-        "message": "Semua modifikasi hanya disimpan hingga sesi penyamaran ini telah ditutup!"
+    "All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_": {
+        "message": "Modifikasi hanya disimpan beberapa saat. Konfigurasikan opsi '$name$' untuk menyimpannya secara permanen.",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
     },
     "All_script_settings_will_be_reset_": {
         "message": "Semua pengaturan skrip akan diatur ulang!"
@@ -422,6 +427,9 @@
     },
     "No_script_is_running": {
         "message": "Tak ada skrip yang berjalan"
+    },
+    "No_text": {
+        "message": "Tidak ada teks"
     },
     "No_update_found__sry_": {
         "message": "Pembaruan tak ditemukan, maaf!"

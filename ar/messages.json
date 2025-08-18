@@ -155,8 +155,13 @@
     "All_local_files": {
         "message": "جميع الملفات المحلية"
     },
-    "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-        "message": "لا يتم الاحتفاظ بجميع التعديلات حتى يتم إغلاق جلسة التصفح المتخفي هذه!"
+    "All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_": {
+        "message": "كل التعديلات سوف يتم حفظها مؤقتا فقط.إعادة ضبط خيار '$name$' لحفظهم بشكل دائم",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
     },
     "All_script_settings_will_be_reset_": {
         "message": ".سيتم إعادة ضبط جميع إعدادات البرنامج النصي"
@@ -909,6 +914,9 @@
     "Next_Bookmark": {
         "message": "المرجعية التالية"
     },
+    "Next_Problem":  {
+        "message": "المشكلة التالية"
+    },
     "No": {
         "message": "لا"
     },
@@ -929,6 +937,9 @@
     },
     "No_syntax_errors_were_found_": {
         "message": "لم يتم العثور على أخطاء في بناء الجملة."
+    },
+    "No_text": {
+        "message": "لا يوجد نص"
     },
     "No_update_found__sry_": {
         "message": "!لا يوجد تحديث"
@@ -1021,6 +1032,9 @@
     },
     "Prev_Bookmark": {
         "message": "المرجعية السابقة"
+    },
+    "Prev_Problem": {
+        "message": "مشكلة سابقة"
     },
     "Process_with_Chrome": {
         "message": "معالجة باستخدام المتصفح"

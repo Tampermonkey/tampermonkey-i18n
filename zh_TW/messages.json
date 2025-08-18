@@ -196,8 +196,13 @@
     "All_local_files": {
         "message": "所有本機檔案"
     },
-    "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-        "message": "所有修改將只會保留到這個無痕工作階段關閉"
+    "All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_": {
+        "message": "所有的修改僅會暫時保留。重新設定 '$name$' 選項以永久保存。",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
     },
     "All_script_settings_will_be_reset_": {
         "message": "全部的腳本設定都將會重設！"
@@ -1190,6 +1195,9 @@
     "Next_Bookmark": {
         "message": "下一個書籤"
     },
+    "Next_Problem":  {
+        "message": "下一個問題"
+    },
     "No": {
         "message": "否"
     },
@@ -1216,6 +1224,9 @@
     },
     "No_syntax_errors_were_found_": {
         "message": "未發現語法錯誤。"
+    },
+    "No_text": {
+        "message": "無文字"
     },
     "No_update_found__sry_": {
         "message": "沒有發現更新喔，抱歉！"
@@ -1330,6 +1341,9 @@
     },
     "Prev_Bookmark": {
         "message": "上一個書籤"
+    },
+    "Prev_Problem": {
+        "message": "上一個問題"
     },
     "Process_with_Chrome": {
         "message": "用瀏覽器執行"

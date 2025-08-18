@@ -190,8 +190,13 @@
     "All_local_files": {
         "message": "すべてのローカル ファイル"
     },
-    "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-        "message": "すべての変更点は、このシークレット モードが閉じられた際に失われます!"
+    "All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_": {
+        "message": "変更は数秒間だけ保持されます。永続的に保存するには、$name$ オプションを再構成してください。",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
     },
     "All_script_settings_will_be_reset_": {
         "message": "スクリプト設定はすべて失われます!"
@@ -1181,6 +1186,9 @@
     "Next_Bookmark": {
         "message": "次のブックマーク"
     },
+    "Next_Problem":  {
+        "message": "次の問題"
+    },
     "No": {
         "message": "いいえ"
     },
@@ -1207,6 +1215,9 @@
     },
     "No_syntax_errors_were_found_": {
         "message": "構文エラーは見つかりませんでした。"
+    },
+    "No_text": {
+        "message": "テキストなし"
     },
     "No_update_found__sry_": {
         "message": "更新はありません。すみません!"
@@ -1321,6 +1332,9 @@
     },
     "Prev_Bookmark": {
         "message": "前のブックマーク"
+    },
+    "Prev_Problem": {
+        "message": "前のエラーまたはヒント"
     },
     "Process_with_Chrome": {
         "message": "ブラウザーで処理"

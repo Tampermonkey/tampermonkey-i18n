@@ -102,6 +102,70 @@
             }
         }
     },
+    "0number0_Bytes": {
+        "message": "$number$ B",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_GB": {
+        "message": "$number$ GB",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_KB": {
+        "message": "$number$ KB",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_MB": {
+        "message": "$number$ MB",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_TB": {
+        "message": "$number$ TB",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_days": {
+        "message": "$number$ d",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_hours": {
+        "message": "$number$ h",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_minutes": {
+        "message": "$number$ min",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
     "15_Seconds": {
         "message": "15 Seconds"
     },
@@ -184,6 +248,12 @@
             }
         }
     },
+    "Add_cursor_to_next_line": {
+        "message": "Add cursor to next line"
+    },
+    "Add_cursor_to_prev_line": {
+        "message": "Add cursor to previous line"
+    },
     "Add_new_script___": {
         "message": "Create a new script..."
     },
@@ -202,8 +272,13 @@
     "All_local_files": {
         "message": "All local files"
     },
-    "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-        "message": "All modifications are only kept until this incognito session is closed!"
+    "All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_": {
+        "message": "All modifications are only kept a few moments. Re-configure the '$name$' option to save them permanently.",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
     },
     "All_script_settings_will_be_reset_": {
         "message": "All script settings will be reset!"
@@ -340,8 +415,14 @@
     "Auto_syntax_check_on_typing": {
         "message": "Automatic syntax check on typing"
     },
+    "Autocomplete": {
+        "message": "Autocomplete"
+    },
     "Automatically_added_user_includes_for_compatibility_reasons_": {
         "message": "Some user includes were automatically added for compatibility reasons!"
+    },
+    "Back_or_close": {
+        "message": "Back or Close"
     },
     "Beginner": {
         "message": "Beginner"
@@ -852,6 +933,12 @@
     "Find_Under_Previous": {
         "message": "Find Under Previous"
     },
+    "Find_incremental": {
+        "message": "Find incremental"
+    },
+    "Find_incremental_reverse": {
+        "message": "Find incremental reverse"
+    },
     "Fix_wrappedJSObject_property_access": {
         "message": "Fix wrappedJSObject property access"
     },
@@ -1196,6 +1283,15 @@
     "Next_Bookmark": {
         "message": "Next Bookmark"
     },
+    "Next_Problem":  {
+        "message": "Next Problem"
+    },
+    "Next_tab": {
+        "message": "Next Tab"
+    },
+    "Next_theme": {
+        "message": "Next Theme"
+    },
     "No": {
         "message": "No"
     },
@@ -1222,6 +1318,9 @@
     },
     "No_syntax_errors_were_found_": {
         "message": "No syntax errors were found."
+    },
+    "No_text": {
+        "message": "No text"
     },
     "No_update_found__sry_": {
         "message": "No update found, sry!"
@@ -1328,6 +1427,10 @@
     "Please_wait___": {
         "message": "Please wait..."
     },
+    "Position": {
+        "description": "Script table header",
+        "message": "#"
+    },
     "Position_": {
         "message": "Position"
     },
@@ -1335,7 +1438,13 @@
         "message": "Press Ctrl/Cmd to toggle all checkboxes"
     },
     "Prev_Bookmark": {
-        "message": "Prev Bookmark"
+        "message": "Previous Bookmark"
+    },
+    "Prev_Problem": {
+        "message": "Previous Problem"
+    },
+    "Previous_tab": {
+        "message": "Previous Tab"
     },
     "Process_with_Chrome": {
         "message": "Process with the browser"
@@ -1614,6 +1723,9 @@
     "Size": {
         "message": "Size"
     },
+    "Skip_and_select_next_occurrence": {
+        "message": "Skip and select next occurrence"
+    },
     "Skip_timeout__0seconds0_seconds_": {
         "message": "Skip timeout ($seconds$ seconds)",
         "placeholders": {
@@ -1624,6 +1736,9 @@
     },
     "Smart": {
         "message": "Smart"
+    },
+    "Smart_Backspace": {
+        "message": "Smart Backspace"
     },
     "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
         "message": "Some scripts might be blocked by the JavaScript settings for this page or a script blocker!"
@@ -1642,6 +1757,9 @@
     },
     "Split_into_Lines": {
         "message": "Split into Lines"
+    },
+    "Split_selection_by_line": {
+        "message": "Split selection by line"
     },
     "Start": {
         "message": "Start"
@@ -2143,6 +2261,9 @@
         "description": "A question asked by the service bot",
         "message": "Would you like to learn how to export and import your scripts?"
     },
+    "Wrap_lines": {
+        "message": "Wrap  lines"
+    },
     "XHR_Security": {
         "message": "XHR Security"
     },
@@ -2190,6 +2311,14 @@
     },
     "_not_set_": {
         "message": "<not set>"
+    },
+    "by_0name0": {
+        "message": "by $name$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
     },
     "connect_mode": {
         "message": "Check @connect"
@@ -2241,5 +2370,13 @@
     },
     "top_level_await": {
         "message": "top-level await"
+    },
+    "v0version0": {
+        "message": "v$version$",
+        "placeholders": {
+            "version": {
+                "content": "$1"
+            }
+        }
     }
 }

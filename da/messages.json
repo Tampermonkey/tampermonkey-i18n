@@ -155,8 +155,13 @@
     "All_local_files": {
         "message": "Alle lokale filer"
     },
-    "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-        "message": "Alle ændringer holdes kun, indtil denne inkognitosession lukkes!"
+    "All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_": {
+        "message": "Alle ændringer er kun gemt i et par øjeblik. Konfigurer '$name$'-indstillingen for at gemme dem permanent.",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
     },
     "All_script_settings_will_be_reset_": {
         "message": "Alle scriptindstillinger nulstilles!"
@@ -1070,6 +1075,9 @@
     "Next_Bookmark": {
         "message": "Næste bogmærke"
     },
+    "Next_Problem":  {
+        "message": "Næste problem"
+    },
     "No": {
         "message": "Nej"
     },
@@ -1093,6 +1101,9 @@
     },
     "No_syntax_errors_were_found_": {
         "message": "Ingen syntaksfejl blev fundet."
+    },
+    "No_text": {
+        "message": "Ingen tekst"
     },
     "No_update_found__sry_": {
         "message": "Ingen opdatering fundet, beklager!"
@@ -1201,6 +1212,9 @@
     },
     "Prev_Bookmark": {
         "message": "Forrige bogmærke"
+    },
+    "Prev_Problem": {
+        "message": "Forrige problem"
     },
     "Process_with_Chrome": {
         "message": "Lad browseren håndtere"

@@ -59,7 +59,7 @@ A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_
     settings:
       content: $2
 A_userscript_wants_to_access_a_cross_origin_resource_:
-  message: Ein Userscript möchte eine fremde Ressource laden.
+  message: Ein Userscript möchte auf eine fremde Ressource zugreifen.
 Aborted_by_user:
   message: Die Aktion wurde durch den Nutzer abgebrochen
 Action:
@@ -99,8 +99,12 @@ All_but_HttpOnly:
   message: Alle außer gesicherte Cookies (HttpOnly)
 All_local_files:
   message: Alle lokalen Dateien
-All_modifications_are_only_kept_until_this_incognito_session_is_closed_:
-  message: Alle Änderungen werden nur behalten, bis der Inkognito-Modus beendet wird!
+All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_:
+  message:  |-
+    Die Änderungen werden nur kurzfristig gespeichert. Bitte konfigurieren Sie die Option '$name$', um sie dauerhaft zu speichern!
+  placeholders:
+    name:
+      content: $1
 All_script_settings_will_be_reset_:
   message: Alle Userscript-Einstellungen werden zurückgesetzt!
 All_tabs:
@@ -670,6 +674,8 @@ No_script_is_running:
   message: Kein Userscript gestartet
 No_syntax_errors_were_found_:
   message: Es wurden keine Syntax-Fehler gefunden.
+No_text:
+  message: Kein Text
 No_update_found__sry_:
   message: Keine Updates gefunden!
 Normal_tabs:
@@ -1229,6 +1235,11 @@ __Please_choose__:
   message: -- Bitte wählen Sie eine Aktion aus --
 _not_set_:
   message: <unbekannt>
+by_0name0:
+  message: von $name$,
+  placeholders:
+    name:
+      content: $1
 connect_mode:
   message: "@connect-Überprüfung"
 fatal_error:

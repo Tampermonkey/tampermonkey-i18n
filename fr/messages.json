@@ -178,8 +178,13 @@
     "All_local_files": {
         "message": "Tous les fichiers locaux"
     },
-    "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-        "message": "Toutes les modifications ne sont gardées que pendant cette session de navigation privée !"
+    "All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_": {
+        "message": "L'ensemble des modifications ne sont conservées que quelques instants. Ré-configurez l'option '$name$' pour les conserver en permanence.",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
     },
     "All_script_settings_will_be_reset_": {
         "message": "Tous les paramétrages des scripts seront réinitialisés !"
@@ -1163,6 +1168,9 @@
     "Next_Bookmark": {
         "message": "Favoris suivant"
     },
+    "Next_Problem":  {
+        "message": "Problème suivant"
+    },
     "No": {
         "message": "Non"
     },
@@ -1189,6 +1197,9 @@
     },
     "No_syntax_errors_were_found_": {
         "message": "Aucune erreur de syntaxe n'a été trouvée."
+    },
+    "No_text": {
+        "message": "Pas de texte"
     },
     "No_update_found__sry_": {
         "message": "Aucune mise à jour trouvée, désolé!"
@@ -1297,6 +1308,9 @@
     },
     "Prev_Bookmark": {
         "message": "Favoris précédent"
+    },
+    "Prev_Problem": {
+        "message": "Problème précédent"
     },
     "Process_with_Chrome": {
         "message": "Traiter avec le navigateur"

@@ -149,8 +149,13 @@
     "All_local_files": {
         "message": "Alle lokale bestanden"
     },
-    "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-        "message": "Alle wijzigingen worden alleen bewaard totdat deze incognito-sessie wordt gesloten!"
+    "All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_": {
+        "message": "Alle wijzigingen worden slechts een paar ogenblikken bewaard. Configureer de '$name$' optie om ze permanent op te slaan.",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
     },
     "All_script_settings_will_be_reset_": {
         "message": "Alle scriptinstellingen zullen worden gereset!"
@@ -874,6 +879,9 @@
     "Next_Bookmark": {
         "message": "Volgende bladwijzer"
     },
+    "Next_Problem":  {
+        "message": "Volgend probleem"
+    },
     "No": {
         "message": "Nee"
     },
@@ -894,6 +902,9 @@
     },
     "No_syntax_errors_were_found_": {
         "message": "Er zijn geen syntaxisfouten gevonden.."
+    },
+    "No_text": {
+        "message": "Geen tekst"
     },
     "No_update_found__sry_": {
         "message": "Geen updates gevonden, sorry!"
@@ -983,6 +994,9 @@
     },
     "Prev_Bookmark": {
         "message": "Vorige bladwijzer"
+    },
+    "Prev_Problem": {
+        "message": "Vorig probleem"
     },
     "Process_with_Chrome": {
         "message": "Uitvoeren met de browser"

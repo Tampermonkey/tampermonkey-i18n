@@ -167,8 +167,13 @@
     "All_local_files": {
         "message": "Сите локални датотеки"
     },
-    "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-        "message": "Сите модификации се задржани додека оваа инкогнито сесија е затворена!"
+    "All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_": {
+        "message": "Сите промени се само за момент. Поставете го опцијата '$name$' да ја чувате непрекинато.",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
     },
     "All_script_settings_will_be_reset_": {
         "message": "Сите подесувања за скриптовите ќе се ресетираат!"
@@ -1097,6 +1102,9 @@
     "Next_Bookmark": {
         "message": "Нареден букмарк"
     },
+    "Next_Problem":  {
+        "message": "Следна грешка"
+    },
     "No": {
         "message": "Не"
     },
@@ -1120,6 +1128,9 @@
     },
     "No_syntax_errors_were_found_": {
         "message": "Немаше најдени грешки во синтаксата."
+    },
+    "No_text": {
+        "message": "Нема текст"
     },
     "No_update_found__sry_": {
         "message": "Нема нова верзија"
@@ -1224,6 +1235,9 @@
     },
     "Prev_Bookmark": {
         "message": "Претходен букмарк"
+    },
+    "Prev_Problem": {
+        "message": "Предишна грешка"
     },
     "Process_with_Chrome": {
         "message": "Процесирај со пребарувачот"
