@@ -1,4 +1,28 @@
 {
+    "extName": {
+        "message": "Tampermonkey"
+    },
+    "extNameBeta": {
+        "message": "Tampermonkey BETA"
+    },
+    "extNameLegacy": {
+        "message": "Tampermonkey Legacy"
+    },
+    "extNameClassic": {
+        "message": "Tampermonkey Classic"
+    },
+    "extShortName": {
+        "message": "Tampermonkey"
+    },
+    "extShortNameBeta": {
+        "message": "TM BETA"
+    },
+    "extShortNameLegacy": {
+        "message": "TM Legacy"
+    },
+    "extShortNameClassic": {
+        "message": "TM Classic"
+    },
     "extDescription": {
         "message": "Mude a web à vontade com userscripts"
     },
@@ -74,6 +98,70 @@
         "message": "$name$ - Seu bot de serviço",
         "placeholders": {
             "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_Bytes": {
+        "message": "$number$ B",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_GB": {
+        "message": "$number$ GB",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_KB": {
+        "message": "$number$ KB",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_MB": {
+        "message": "$number$ MB",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_TB": {
+        "message": "$number$ TB",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_days": {
+        "message": "$number$ d",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_hours": {
+        "message": "$number$ h",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_minutes": {
+        "message": "$number$ min",
+        "placeholders": {
+            "number": {
                 "content": "$1"
             }
         }
@@ -160,6 +248,12 @@
             }
         }
     },
+    "Add_cursor_to_next_line": {
+        "message": "Adicionar cursor na próxima linha"
+    },
+    "Add_cursor_to_prev_line": {
+        "message": "Adicionar cursor na linha anterior"
+    },
     "Add_new_script___": {
         "message": "Adicionar novo script..."
     },
@@ -178,8 +272,8 @@
     "All_local_files": {
         "message": "Todos os arquivos locais"
     },
-    "All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_": {
-        "message": "Todas as modificações são mantidas apenas por alguns momentos. Reconfigurar a opção '$name$' para salvá-las permanentemente.",
+    "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
+        "message": "Todas as modificações são armazenadas apenas até o final desta sessão em modo incógnito!"
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -291,7 +385,7 @@
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Pelo menos uma das declarações @include, @match ou @exclude foi alterada."
     },
-    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
+    "At_least_one_part_of_this_page_is_listed_at_the_forbidden_pages_setting_": {
         "message": "Pelo menos uma parte desta página está listada na opção 'Páginas proibidas'"
     },
     "Attention_Can_not_display_all_excludes_": {
@@ -321,8 +415,14 @@
     "Auto_syntax_check_on_typing": {
         "message": "Verificação automática de sintaxe ao digitar."
     },
+    "Autocomplete": {
+        "message": "Completar automático"
+    },
     "Automatically_added_user_includes_for_compatibility_reasons_": {
         "message": "Algumas inclusões do usuário foram automaticamente adicionadas por questões de compatibilidade!"
+    },
+    "Back_or_close": {
+        "message": "Voltar ou fechar"
     },
     "Beginner": {
         "message": "Iniciante"
@@ -412,10 +512,10 @@
     "Clear_All": {
         "message": "Limpar tudo"
     },
-    "Click_here_to_allow_TM_to_access_the_following_hosts_0hostlist0": {
-        "message": "Por favor, clique em OK para permitir que o Tampermonkey acesse os seguintes hosts:\n\n$hostlist$",
+    "Click_here_to_allow_TM_to_access_the_following_hosts_0host_list0": {
+        "message": "Por favor, clique em OK para permitir que o Tampermonkey acesse os seguintes hosts:\n\n$host_list$",
         "placeholders": {
-            "hostlist": {
+            "host_list": {
                 "content": "$1"
             }
         }
@@ -833,6 +933,12 @@
     "Find_Under_Previous": {
         "message": "Localizar sob anterior"
     },
+    "Find_incremental": {
+        "message": "Localizar incremental"
+    },
+    "Find_incremental_reverse": {
+        "message": "Localizar incremental reverso"
+    },
     "Fix_wrappedJSObject_property_access": {
         "message": "Corrigir acesso de propriedade wrappedJSObject"
     },
@@ -1178,7 +1284,13 @@
         "message": "Próximo marcador"
     },
     "Next_Problem":  {
-        "message": "Problema seguinte"
+        "message": "Próximo problema"
+    },
+    "Next_tab": {
+        "message": "Próxima aba"
+    },
+    "Next_theme": {
+        "message": "Próximo tema"
     },
     "No": {
         "message": "Não"
@@ -1208,7 +1320,7 @@
         "message": "Não foram encontrados erros de sintaxe."
     },
     "No_text": {
-        "message": "Sem texto"
+        "message": "Nenhum texto"
     },
     "No_update_found__sry_": {
         "message": "Nenhuma atualização encontrada."
@@ -1315,6 +1427,10 @@
     "Please_wait___": {
         "message": "Por favor, aguarde..."
     },
+    "Position": {
+        "description": "Cabeçalho da tebela do script",
+        "message": "#"
+    },
     "Position_": {
         "message": "Posição"
     },
@@ -1326,6 +1442,9 @@
     },
     "Prev_Problem": {
         "message": "Problema anterior"
+    },
+    "Previous_tab": {
+        "message": "Aba anterior"
     },
     "Process_with_Chrome": {
         "message": "Processar com o navegador"
@@ -1604,6 +1723,9 @@
     "Size": {
         "message": "Tamanho"
     },
+    "Skip_and_select_next_occurrence": {
+        "message": "Pular e selecionar próxima ocorrência"
+    },
     "Skip_timeout__0seconds0_seconds_": {
         "message": "Saltar tempo esgotado ($seconds$ segundos)",
         "placeholders": {
@@ -1614,6 +1736,9 @@
     },
     "Smart": {
         "message": "Inteligente"
+    },
+    "Smart_Backspace": {
+        "message": "Backspace Inteligente"
     },
     "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
         "message": "Alguns scripts podem estar bloqueados pelas configurações do javascript desta página ou um bloqueador de scripts!"
@@ -1632,6 +1757,9 @@
     },
     "Split_into_Lines": {
         "message": "Dividir em linhas"
+    },
+    "Split_selection_by_line": {
+        "message": "Dividir seleção por linha"
     },
     "Start": {
         "message": "Iniciar"
@@ -1696,11 +1824,11 @@
     "Tabs": {
         "message": "Guias"
     },
-    "Tag_Already_Exists": {
-        "message": "A tag já existe"
+    "Tab_types": {
+        "message": "Tipos de guias"
     },
-    "Tags": {
-        "message": "Tags"
+    "Tabs": {
+        "message": "Guias"
     },
     "Tam": {
         "message": "Tam",
@@ -1715,8 +1843,8 @@
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "O Tampermonkey não tem permissão para acessar arquivos locais!"
     },
-    "Tampermonkey_is_available_on_mobile_platforms": {
-        "message": "O Tampermonkey está disponível para plataformas móveis"
+    "Tampermonkey_is_available_on_0os0_via_0browser0": {
+        "message": "O Tampermonkey está disponível para plataformas móveis",
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
         "message": "O Tampermonkey talvez não possa ter acesso ao unsafe context (unsafeWindow, variáveis e funções da página) quando isto estiver desativado."
@@ -1874,7 +2002,7 @@
         "message": "Este script não foi executado"
     },
     "This_script_was_not_executed_yet": {
-        "message": "Este script ainda não foi executado\n\nPossíveis razões: Quando a página carregou... \n1. O Tampermonkey não estava pronto.\n2. O script não existia ou estava desativado.\n3. O URL não correspondeu (comum em aplicativos de página única, que modificam o URL via JavaScript)\n\nAtive e/ou recarregue a guia ou use um `@match` mais genérico e detecte alterações de URL com `window.onurlchange`."
+        "message": "Este script ainda não foi executado"
     },
     "This_tag_is_not_part_of_the_system_tag_list_": {
         "message": "Esta tag não está na lista de tags do sistema"
@@ -2133,6 +2261,9 @@
         "description": "A question asked by the service bot",
         "message": "Você gostaria de aprender como exportar e importar os seus scripts?"
     },
+    "Wrap_lines": {
+        "message": "Quebrar linhas"
+    },
     "XHR_Security": {
         "message": "Segurança de XHR"
     },
@@ -2180,6 +2311,14 @@
     },
     "_not_set_": {
         "message": "<não definido>"
+    },
+    "by_0name0": {
+        "message": "by $name$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
     },
     "connect_mode": {
         "message": "modo @connect"
@@ -2231,5 +2370,13 @@
     },
     "top_level_await": {
         "message": "espera de nível superior"
+    },
+    "v0version0": {
+        "message": "v$version$",
+        "placeholders": {
+            "version": {
+                "content": "$1"
+            }
+        }
     }
 }
