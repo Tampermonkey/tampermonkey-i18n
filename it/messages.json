@@ -1,4 +1,28 @@
 {
+    "extName": {
+        "message": "Tampermonkey"
+    },
+    "extNameBeta": {
+        "message": "Tampermonkey BETA"
+    },
+    "extNameLegacy": {
+        "message": "Tampermonkey Legacy"
+    },
+    "extNameClassic": {
+        "message": "Tampermonkey Classic"
+    },
+    "extShortName": {
+        "message": "Tampermonkey"
+    },
+    "extShortNameBeta": {
+        "message": "TM BETA"
+    },
+    "extShortNameLegacy": {
+        "message": "TM Legacy"
+    },
+    "extShortNameClassic": {
+        "message": "TM Classic"
+    },
     "extDescription": {
         "message": "Cambia il web a piacimento con gli userscript"
     },
@@ -60,7 +84,7 @@
         }
     },
     "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
-        "message": "È disponibile $name$ $version$.\nPer iniziare l'aggiornamento ri-avvia il browser!",
+        "message": "È disponibile $name$ $version$.\nPer avviare l'aggiornamento ri-avvia il browser!",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -74,6 +98,70 @@
         "message": "$name$ - Bot di servizio",
         "placeholders": {
             "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_Bytes": {
+        "message": "$number$ B",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_GB": {
+        "message": "$number$ GB",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_KB": {
+        "message": "$number$ KB",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_MB": {
+        "message": "$number$ MB",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_TB": {
+        "message": "$number$ TB",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_days": {
+        "message": "$number$ d",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_hours": {
+        "message": "$number$ h",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_minutes": {
+        "message": "$number$ min",
+        "placeholders": {
+            "number": {
                 "content": "$1"
             }
         }
@@ -159,6 +247,12 @@
                 "content": "$1"
             }
         }
+    },
+    "Add_cursor_to_next_line": {
+        "message": "Aggiungi cursore alla linea successiva"
+    },
+    "Add_cursor_to_prev_line": {
+        "message": "Aggiungi cirsore alla liena precedente"
     },
     "Add_new_script___": {
         "message": "Aggiungi nuovo script..."
@@ -321,8 +415,14 @@
     "Auto_syntax_check_on_typing": {
         "message": "Controllo sintassi automatico durante digitazione"
     },
+    "Autocomplete": {
+        "message": "Completamento automatico"
+    },
     "Automatically_added_user_includes_for_compatibility_reasons_": {
         "message": "Per ragioni di compatibilità alcune inclusioni utente saranno aggiunte automaticamente!"
+    },
+    "Back_or_close": {
+        "message": "Indietro o chiudi"
     },
     "Beginner": {
         "message": "Principiante"
@@ -833,6 +933,12 @@
     "Find_Under_Previous": {
         "message": "Trova sotto precedente"
     },
+    "Find_incremental": {
+        "message": "Trova incrementale"
+    },
+    "Find_incremental_reverse": {
+        "message": "Trova incrementale inverso"
+    },
     "Fix_wrappedJSObject_property_access": {
         "message": "Correggi accesso alla proprietà wrappedJSObject"
     },
@@ -1180,6 +1286,12 @@
     "Next_Problem":  {
         "message": "Problema successivo"
     },
+    "Next_tab": {
+        "message": "Scheda successiva"
+    },
+    "Next_theme": {
+        "message": "Tema successivo"
+    },
     "No": {
         "message": "No"
     },
@@ -1315,6 +1427,10 @@
     "Please_wait___": {
         "message": "Attendi..."
     },
+    "Position": {
+        "description": "Intestazione tabella script",
+        "message": "#"
+    },
     "Position_": {
         "message": "Posizione"
     },
@@ -1327,6 +1443,9 @@
     "Prev_Problem": {
         "message": "Problema precedente"
     },
+    "Previous_tab": {
+        "message": "Scheda precedente"
+    },
     "Process_with_Chrome": {
         "message": "Elabora con il browser"
     },
@@ -1334,7 +1453,7 @@
         "message": "Raw and JavaScript"
     },
     "Really_delete_0name0__": {
-        "message": "Vuoi davvero eliminare '$name$'?",
+        "message": "Vuoi eliminare '$name$'?",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1604,6 +1723,9 @@
     "Size": {
         "message": "Dimensione"
     },
+    "Skip_and_select_next_occurrence": {
+        "message": "Ignora e seleziona occorrenze successive"
+    },
     "Skip_timeout__0seconds0_seconds_": {
         "message": "Ignora timeout ($seconds$ secondi)",
         "placeholders": {
@@ -1614,6 +1736,9 @@
     },
     "Smart": {
         "message": "Intelligente"
+    },
+    "Smart_Backspace": {
+        "message": "Backspace smart"
     },
     "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
         "message": "Alcuni script potrebbero venire bloccati dalle impostazioni di Javascript per questa pagina o da uno script blocker!"
@@ -1632,6 +1757,9 @@
     },
     "Split_into_Lines": {
         "message": "Dividi nelle linee"
+    },
+    "Split_selection_by_line": {
+        "message": "Dividi selezione per linea"
     },
     "Start": {
         "message": "Avvia"
@@ -2133,6 +2261,9 @@
         "description": "Una domanda posta dal bot di servizio",
         "message": "Vuoi imparare come esportare e importare glii script?"
     },
+    "Wrap_lines": {
+        "message": "A capo automatico"
+    },
     "XHR_Security": {
         "message": "Sicurezza XHR"
     },
@@ -2180,6 +2311,14 @@
     },
     "_not_set_": {
         "message": "<non impostato>"
+    },
+    "by_0name0": {
+        "message": "per $name$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
     },
     "connect_mode": {
         "message": "Verifica @connect"
@@ -2231,5 +2370,13 @@
     },
     "top_level_await": {
         "message": "attesa livello superiore"
+    },
+    "v0version0": {
+        "message": "v. $version$",
+        "placeholders": {
+            "version": {
+                "content": "$1"
+            }
+        }
     }
 }
