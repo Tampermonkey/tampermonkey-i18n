@@ -1,4 +1,31 @@
 {
+    "extName": {
+        "message": "Tampermonkey"
+    },
+    "extNameBeta": {
+        "message": "Tampermonkey BETA"
+    },
+    "extNameLegacy": {
+        "message": "Tampermonkey Legacy"
+    },
+    "extNameClassic": {
+        "message": "Tampermonkey Classic"
+    },
+    "extShortName": {
+        "message": "Tampermonkey"
+    },
+    "extShortNameBeta": {
+        "message": "TM BETA"
+    },
+    "extShortNameLegacy": {
+        "message": "TM Legacy"
+    },
+    "extShortNameClassic": {
+        "message": "TM Classic"
+    },
+    "extDescription": {
+        "message": "Змяняйце вэб-старонкі па жаданні з дапамогай карыстальніцкіх скрыптоў"
+    },
     "1": {
         "message": "1"
     },
@@ -33,7 +60,7 @@
         "message": "11"
     },
     "0count0_changes_exported": {
-        "message": "$count$ змены экспартаваныя",
+        "message": "Экспартавана змен: $count$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -41,7 +68,7 @@
         }
     },
     "0count0_changes_imported": {
-        "message": "$count$ змены імпартаваныя",
+        "message": "Імпартавана змен: $count$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -49,7 +76,7 @@
         }
     },
     "0count0_errors_or_hints_were_found_": {
-        "message": "$count$ памылак або папярэджанняў знойдзена.",
+        "message": "Знойдзена памылак або папярэджанняў: $count$.",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -57,7 +84,7 @@
         }
     },
     "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
-        "message": "$name$ $version$ даступная.\nКалі ласка, перазапусціце браўзэр, каб пачаць абнаўленне!",
+        "message": "Даступна $name$ $version$.\nПеразапусціце браўзер, каб пачаць абнаўленне!",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -67,14 +94,86 @@
             }
         }
     },
+    "0name0_Your_service_bot": {
+        "message": "$name$ - ваш сэрвісны бот",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_Bytes": {
+        "message": "$number$ Б",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_GB": {
+        "message": "$number$ ГБ",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_KB": {
+        "message": "$number$ КБ",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_MB": {
+        "message": "$number$ МБ",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_TB": {
+        "message": "$number$ ТБ",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_days": {
+        "message": "$number$ сут",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_hours": {
+        "message": "$number$ гадз",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_minutes": {
+        "message": "$number$ хв",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
     "15_Seconds": {
         "message": "15 секунд"
     },
     "1_Hour": {
-        "message": "1 гадзіну"
+        "message": "1 гадзіна"
     },
     "1_Minute": {
-        "message": "1 хвіліну"
+        "message": "1 хвіліна"
     },
     "30_Seconds": {
         "message": "30 секунд"
@@ -83,13 +182,13 @@
         "message": "5 хвілін"
     },
     "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-        "message": "Для запуску гэтага сцэнарыя можа спатрэбіцца паўторная праверка параметраў сумяшчальнасці GreaseMonkey/Firefox."
+        "message": "Для запуску гэтага скрыпта можа спатрэбіцца паўторная праверка параметраў сумяшчальнасці GreaseMonkey/Firefox."
     },
     "A_reload_is_required": {
-        "message": "Патрабуецца перазагрузка: \nУсе незахаваных змены будуць страчаныя!"
+        "message": "Патрабуецца перазагрузка: \nУсе незахаваныя змены будуць страчаны!"
     },
     "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
-        "message": "Запыт да іншаму рэсурсу не з'яўляецца чымсьці незвычайным.\nВам проста трэба праверыць, ці ёсць у гэтага сцэнара важкі чыннік для доступу да гэтага дамену.\nНапрыклад, у карыстацкага скрыпту ёсць вельмі мала прычын для сувязі з вашым банкам.\n\nКалі ласка, звярніце ўвагу, што аўтары могуць пазбегнуць гэтага дыялогу шляхам дадання тэга [url=$connect$]@connect[/url] да сваіх скрыптам.\n\nНезалежна ад таго, што вы вырашыце, вы ў любы час можаце змяніць сваё рашэнне на [url=$settings$]ўкладцы налад[/url] скрыпту",
+        "message": "Запыт да cross-origin рэсурса - звычайная рэч.\nВам проста трэба праверыць, ці ёсць у гэтага скрыпта важкія падставы для доступу да гэтага дамена.\nНапрыклад, у карыстальніцкага скрыпта ёсць вельмі мала прычын для сувязі з вашым банкам.\n\nЗвярніце ўвагу, што аўтары скрыптоў могуць пазбегнуць гэтага дыялогу, дадаўшы да свайго скрыпта [url=$connect$]@connect tags[/url].\n\nНезалежна ад таго, што вы вырашыце, вы ў любы час можаце змяніць сваё рашэнне на [url=$settings$]ўкладцы налад[/url] скрыпта",
         "placeholders": {
             "connect": {
                 "content": "$1"
@@ -100,7 +199,10 @@
         }
     },
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
-        "message": "Карыстацкі скрыпт хоча атрымаць доступ да іншаму рэсурсу."
+        "message": "Карыстальніцкі скрыпт хоча атрымаць доступ да cross-origin рэсурса."
+    },
+    "Aborted_by_user": {
+        "message": "Скасавана карыстальнікам"
     },
     "Action": {
         "message": "Дзеянне"
@@ -108,11 +210,17 @@
     "Action_Menu": {
         "message": "Меню дзеянняў"
     },
+    "Action_failed": {
+        "message": "Не ўдалося выканаць дзеянне"
+    },
     "Actions": {
         "message": "Дзеянні"
     },
     "Add": {
         "message": "Дадаць"
+    },
+    "Add_GM_functions_to_this_or_window": {
+        "message": "Дадаць функцыі GM"
     },
     "Add_Selection_Above": {
         "message": "Дадаць вылучэнне вышэй"
@@ -121,7 +229,7 @@
         "message": "Дадаць вылучэнне ніжэй"
     },
     "Add_TM_to_CSP": {
-        "message": "Дадаць Tampermonkey ў палітыку бяспекі сайта (CSP), калі патрабуецца"
+        "message": "Змяніць існуючыя загалоўкі палітыкі бяспекі кантэнту (CSP)."
     },
     "Add_Tag": {
         "message": "Дадаць тэг"
@@ -130,30 +238,42 @@
         "message": "Дадаць тэг у спіс сістэмы"
     },
     "Add_Tampermonkey_to_the_site_s_content_csp": {
-        "message": "Дадаць Tampermonkey да кантэнту сайта CSP"
+        "message": "Дадаць Tampermonkey у CSP HTML"
     },
     "Add_as_0clude0": {
-        "message": "Добавить, как $clude$",
+        "message": "Дадаць як $clude$",
         "placeholders": {
             "clude": {
                 "content": "$1"
             }
         }
     },
+    "Add_cursor_to_next_line": {
+        "message": "Дадаць курсор у наступны радок"
+    },
+    "Add_cursor_to_prev_line": {
+        "message": "Дадаць курсор у папярэдні радок"
+    },
     "Add_new_script___": {
         "message": "Стварыць новы скрыпт..."
     },
+    "Add_to_icon_badge_text": {
+        "message": "Дадаць да тэксту значка"
+    },
     "Advanced": {
-        "message": "Прасунуты"
+        "message": "Пашыраныя"
+    },
+    "All": {
+        "message": "Усе"
     },
     "All_but_HttpOnly": {
-        "message": "Усе, аднак абароненыя кукі (HttpOnly)"
+        "message": "Усе файлы cookie, акрамя абароненых (HttpOnly)"
     },
     "All_local_files": {
         "message": "Усе лакальныя файлы"
     },
     "All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_": {
-        "message": "Усе змены будуць захаваныя толькі на некалькі секунды. Перакласці параметр '$name$' для перапоўнення ўзяламых змен.",
+        "message": "Усе змены захоўваюцца толькі некаторы час. Паўторна наладзьце параметр '$name$', каб захаваць іх назаўжды.",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -161,22 +281,28 @@
         }
     },
     "All_script_settings_will_be_reset_": {
-        "message": "Усе налады скрыпту будуць скінутыя!"
+        "message": "Усе налады скрыпта будуць скінуты!"
+    },
+    "All_tabs": {
+        "message": "Усе ўкладкі"
     },
     "Allow_Tampermonkey_to_collect_anonymous_statistics": {
-        "message": "Дазволіць Tampermonkey збіраць ананімную статыстыку з дапамогай Matomo. Гэта дапамагае мне палепшыць Tampermonkey і вызначыць, на якіх крытэрах я павінен засяродзіць сваё развіццё. Проста адключыце гэта, калі вам не падабаецца."
+        "message": "Дазволіць Tampermonkey збіраць ананімную статыстыку праз аўтаномную ўсталёўку Matomo. Гэта дапамагае мне паляпшаць Tampermonkey і вызначаць, на якіх крытэрах я павінен сканцэнтраваць распрацоўку. Проста адключыце гэту функцыю, калі вам гэта не падабаецца."
     },
     "Allow_communication_with_cooperate_pages": {
-        "message": "Дазволіць ўзаемадзеянне са звязанымі старонкамі"
+        "message": "Дазволіць узаемадзеянне са звязанымі старонкамі"
     },
     "Allow_headers_to_be_modified_by_scripts": {
-        "message": "Дазволіць змена загалоўкаў HTTP скрыптамі"
+        "message": "Дазволіць скрыптам змяняць загалоўкі HTTP"
     },
     "Allow_once": {
         "message": "Дазволіць адзін раз"
     },
+    "Allow_scripts_to_run_scripts_in": {
+        "message": "Прадвызначаныя тыпы ўкладак для запуску скрыптоў"
+    },
     "Alltime_running_instances": {
-        "message": "Усёчныя экзэмпляры"
+        "message": "Экзэмпляры, запушчаныя ўвесь час"
     },
     "Always": {
         "message": "Заўсёды"
@@ -188,7 +314,7 @@
         "message": "Заўсёды дазваляць для ўсіх даменаў"
     },
     "Always_allow_domain": {
-        "message": "Заўсёды дазваляць дамену"
+        "message": "Заўсёды дазваляць для дамена"
     },
     "Always_ask": {
         "message": "Заўсёды пытацца"
@@ -197,40 +323,70 @@
         "message": "Заўсёды забараняць"
     },
     "Always_forbid_domain": {
-        "message": "Заўсёды забараняць дамену"
+        "message": "Заўсёды забараняць для дамена"
     },
     "An_error_occured_during_import_": {
         "message": "Адбылася памылка падчас імпарту."
     },
     "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
-        "message": "Узнікла ўнутраная памылка. Калі праблема не ўстараняецца нават пасля перазапуску браўзэра, націсніце ОК і паведаміце аб гэтай праблеме на форуме.\n\nВы хочаце наведаць форум Tampermonkey?"
+        "message": "Узнікла ўнутраная памылка. Калі праблема не знікне нават пасля перазапуску браўзера, націсніце ОК і паведаміце аб гэтай праблеме на форуме.\n\nВы хочаце наведаць форум Tampermonkey?"
     },
     "Anonymous_statistics": {
         "message": "Ананімная статыстыка"
+    },
+    "Antifeature__0name0__0description0": {
+        "message": "Змяшчае $name$: $description$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "description": {
+                "content": "$2"
+            }
+        }
+    },
+    "Antifeature_ads": {
+        "message": "Рэклама"
+    },
+    "Antifeature_miner": {
+        "message": "Майнінг крыптавалют"
+    },
+    "Antifeature_no_details": {
+        "message": "Падрабязнасці не пададзеныя"
+    },
+    "Antifeature_other": {
+        "message": "Антыфункцыя"
+    },
+    "Antifeature_tracking": {
+        "message": "Адсочванне"
     },
     "Appearance": {
         "message": "Знешні выгляд"
     },
     "Apply_compatibility_options_to_required_script_too": {
-        "message": "Ўжываць параметры сумяшчальнасці і да @require скрыптам"
+        "message": "Ужываць параметры сумяшчальнасці і да скрыптоў @require"
     },
     "Apply_this_action_to_the_selected_scripts": {
-        "message": "Ўжыеце гэта да ўсіх абраным скрыптам"
+        "message": "Ужываць да ўсіх выбраных скрыптоў"
     },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
-        "message": "Калі Tampermonkey абновіцца, ён будзе адноўленая. Падчас перазапуску скрыпты часова не будуць працаваць!\n\nВы ўпэўненыя, што не хочаце атрымліваць паведамлення аб абнаўленнях?"
+        "message": "Калі Tampermonkey абнаўляецца браўзерам, яна таксама перазапускаецца. На жаль, гэта можа пашкодзіць працу бягучых скрыптоў!\n\nВы ўпэўнены, што не хочаце атрымліваць апавяшчэнні аб абнаўленнях?"
+    },
+    "Are_you_unsure_about_what__sandbox_value_to_use_": {
+        "description": "Пытанне, зададзенае службовым ботам",
+        "message": "Вы не ведаеце, якое значэнне @sandbox выкарыстоўваць?"
     },
     "Ask_if_unknown": {
         "message": "Спытаць, калі невядома"
     },
     "At_least_one_new_connect_statement_was_added_": {
-        "message": "Быў дададзены, як мінімум адзін новы аператар @connect."
+        "message": "Быў дададзены як мінімум адзін новы аператар @connect."
     },
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
-        "message": "Як мінімум адно з выразаў @include, @match або @exclude было зменена."
+        "message": "Быў зменены як мінімум адзін аператар @include, @match або @exclude."
     },
     "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
-        "message": "Па меншай меры адна частка гэтай старонкі ўказаны ў наладзе 'забароненыя старонкі'!"
+        "message": "Прынамсі адна частка гэтай старонкі забаронена наладамі!"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Увага: спіс выключэнняў быў скарочаны.\nПраверце яго ўручную!"
@@ -245,22 +401,28 @@
         "message": "Аўтаматычна"
     },
     "Auto_Indent_all": {
-        "message": "Прымяніць аўтоводступ"
+        "message": "Аўтаматычны водступ для ўсяго"
     },
     "Auto_reload_on_script_enabled": {
-        "message": "Аўтаматычная перазагрузка старонак"
+        "message": "Аўтаматычна перазагружаць старонкі"
     },
     "Auto_reload_on_script_enabled_desc": {
-        "message": "Перазагрузіце закранутыя старонкі, калі скрыпт быў уключаны або выключаны"
+        "message": "Перазагружаць закранутыя старонкі, калі скрыпт быў уключаны або выключаны"
     },
     "Auto_syntax_check_max_length": {
-        "message": "Максімальны памер скрыпту для аўтаматычнай праверкі сінтаксісу"
+        "message": "Максімальны памер скрыпта для аўтаматычнай праверкі сінтаксісу"
     },
     "Auto_syntax_check_on_typing": {
-        "message": "Аўтаматычная праверка сінтаксісу пры наборы тэксту"
+        "message": "Аўтаматычна правяраць сінтаксіс пры наборы тэксту"
+    },
+    "Autocomplete": {
+        "message": "Аўтазапаўненне"
     },
     "Automatically_added_user_includes_for_compatibility_reasons_": {
-        "message": "Некаторыя карыстацкія @include'я будуць ужытыя аўтаматычна для забеспячэння сумяшчальнасці!"
+        "message": "Некаторыя карыстальніцкія ўключэнні былі аўтаматычна дададзены для забеспячэння сумяшчальнасці!"
+    },
+    "Back_or_close": {
+        "message": "Назад або закрыць"
     },
     "Beginner": {
         "message": "Пачатковец"
@@ -271,11 +433,19 @@
     "Blacklist": {
         "message": "Чорны спіс"
     },
+    "Blacklist_0domain0": {
+        "message": "Не запускаць на $domain$",
+        "placeholders": {
+            "domain": {
+                "content": "$1"
+            }
+        }
+    },
     "Blacklist_Severity": {
-        "message": "Блакаваць ад ўзроўню сур'ёзнасці"
+        "message": "Блакіраваць з узроўню сур'ёзнасці"
     },
     "Blacklisted_Pages": {
-        "message": "Чорны спіс старонак"
+        "message": "Старонкі ў чорным спісе"
     },
     "Bookmarks": {
         "message": "Закладкі"
@@ -284,16 +454,16 @@
         "message": "Абодва"
     },
     "Browser_API": {
-        "message": "API браўзэра"
+        "message": "API браўзера"
     },
     "Browser_API_Downloads": {
-        "message": "API загрузак браўзэра"
+        "message": "Спампоўванні праз API браўзера"
     },
     "Browser_Sync": {
-        "message": "Сінхранізацыя браўзэра"
+        "message": "Сінхранізацыя браўзера"
     },
     "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
-        "message": "КАНФЛІКТ: Гэты сцэнар быў зменены на іншы ўкладцы '$t$' секунд(ы) таму!",
+        "message": "КАНФЛІКТ: Гэты скрыпт быў зменены іншай укладкай '$t$' с таму!",
         "placeholders": {
             "t": {
                 "content": "$1"
@@ -301,19 +471,19 @@
         }
     },
     "Cancel": {
-        "message": "Адмена"
+        "message": "Скасаваць"
     },
     "Casual": {
         "message": "Выпадкова"
     },
     "Center_Cursor": {
-        "message": "Цэнтр курсора"
+        "message": "Курсор у цэнтр"
     },
     "Changelog": {
         "message": "Спіс змен"
     },
     "Changes": {
-        "message": "Змена"
+        "message": "Змены"
     },
     "Changes_the_number_of_visible_config_options": {
         "message": "Змяняе колькасць бачных параметраў канфігурацыі"
@@ -322,25 +492,28 @@
         "message": "Абнаўляць адключаныя скрыпты"
     },
     "Check_for_Updates": {
-        "message": "Правяраць наяўнасць абнаўлення"
+        "message": "Праверыць наяўнасць абнаўленняў"
     },
     "Check_for_userscripts_updates": {
-        "message": "Праверыць абнаўлення скрыптоў"
+        "message": "Праверыць абнаўленні скрыптоў"
     },
     "Check_interval": {
         "message": "Інтэрвал праверкі"
     },
     "Check_only_scripts_up_to_this_size_automatically_": {
-        "message": "Правяраць скрыпты аўтаматычна толькі да гэтага памеру."
+        "message": "Аўтаматычна правяраць скрыпты, не большыя за гэты памер."
     },
     "Classic": {
         "message": "Класічны"
     },
+    "Clean_after_session": {
+        "message": "Ачысціць пасля сеанса"
+    },
     "Clear_All": {
-        "message": "Выдаліць усе"
+        "message": "Ачысціць усе"
     },
     "Click_here_to_allow_TM_to_access_the_following_hosts_0hostlist0": {
-        "message": "Калі ласка, націсніце OK, каб Tampermonkey мог атрымаць доступ да наступных хастам:\n\n$hostlist$",
+        "message": "Націсніце OK, каб дазволіць Tampermonkey доступ да наступных хостаў:\n\n$hostlist$",
         "placeholders": {
             "hostlist": {
                 "content": "$1"
@@ -348,7 +521,7 @@
         }
     },
     "Click_here_to_allow_TM_to_start_downloads": {
-        "message": "Націсніце ОК, каб дазволіць Tampermonkey загружаць файлы без запыту."
+        "message": "Націсніце ОК, каб дазволіць Tampermonkey пачынаць імгненнае спампоўванне"
     },
     "Click_here_to_install_it_": {
         "message": "Націсніце тут, каб усталяваць яго."
@@ -357,61 +530,102 @@
         "message": "Націсніце тут, каб перамясціць гэты скрыпт"
     },
     "Click_here_to_see_the_recent_changes": {
-        "message": "Націсніце тут, каб убачыць апошнія змены"
+        "message": "Націсніце тут, каб праглядзець апошнія змены"
     },
     "Close": {
-        "message": "Зачыніць"
+        "message": "Закрыць"
     },
     "Closing_Bracket": {
-        "message": "Якая зачыняецца дужка"
+        "message": "Закрывальная дужка"
     },
     "Cloud": {
         "message": "Воблака"
     },
     "Columns": {
-        "message": "Калонкі"
+        "message": "Слупкі"
     },
     "Comment": {
-        "message": "Каментар"
+        "message": "Каментарый"
     },
     "Config_Mode": {
         "message": "Рэжым канфігурацыі"
     },
+    "Configures_which_sandbox_values_are_valid": {
+        "message": "Вызначае, якія значэнні @sandbox з'яўляюцца прывільнымі"
+    },
+    "Content_Script": {
+        "message": "Скрыпт змесціва"
+    },
+    "Content_Script_API": {
+        "message": "API скрыпта змесціва"
+    },
+    "Context_Menu": {
+        "message": "Кантэкстнае меню"
+    },
+    "Controls_how_deleted_scripts_are_handled__0enabled0_moves_scripts_to_a_virtual_trash__0disabled0_permanently_deletes_scripts__0cleanAfterSession0_automatically_deletes_all_on_session_end_": {
+        "message": "Кіруе тым, як апрацоўваюцца выдаленыя скрыпты. '$enabled$' перамяшчае скрыпты ў віртуальную сметніцу для магчымага аднаўлення. '$disabled$' назаўжды выдаляе скрыпты пасля пацвярджэння. '$cleanAfterSession$' аўтаматычна ачышчае сметніцу пасля завяршэння сеанса браўзера.",
+        "placeholders": {
+            "enabled": {
+                "content": "$1"
+            },
+            "disabled": {
+                "content": "$2"
+            },
+            "cleanAfterSession": {
+                "content": "$3"
+            }
+        }
+    },
     "Convert_CDATA_sections_into_a_chrome_compatible_format": {
-        "message": "Канвертаваць раздзелы CDATA ў фармат, сумяшчальны з браўзэрам"
+        "message": "Канвертаваць раздзелы CDATA ў фармат, сумяшчальны з браўзерам"
     },
     "Copy": {
         "message": "Капіяваць"
     },
     "Cross_Origin_Request_Permission": {
-        "message": "Запыт каранёвага дазволу"
+        "message": "Дазвол на сross-origin запыт"
     },
     "Current_Version": {
         "message": "Бягучая версія"
     },
+    "Cursor": {
+        "message": "Курсор"
+    },
     "Custom_CSS": {
-        "message": "Карыстацкі CSS"
+        "message": "Карыстальніцкі CSS"
     },
     "Custom_Linter_Config": {
-        "message": "Карыстацкая канфігурацыя Linter"
+        "message": "Карыстальніцкая канфігурацыя Linter"
     },
     "Cut": {
         "message": "Выразаць"
+    },
+    "DOM_mode_is_unsecure__Scripts_can_install_new_scripts_": {
+        "message": "Рэжым пясочніцы \"DOM\" небяспечны. Запуск карыстальніцкіх скрыптоў мае амаль поўныя правы доступу да пашырэння і нават можа змяняць і ўсталёўваць новыя карыстальніцкія скрыпты."
     },
     "Dashboard": {
         "message": "Панэль кіравання"
     },
     "Debug": {
-        "message": "Наладка"
+        "message": "Адладка"
     },
     "Debug_scripts": {
         "message": "Адладка скрыптоў"
     },
+    "Decoding": {
+        "message": "Раскадзіраванне..."
+    },
     "Default": {
-        "message": "Па змаўчанні"
+        "message": "Прадвызначаная"
     },
     "Default_Dark": {
-        "message": "Па змаўчанні - Цёмная"
+        "message": "Прадвызначаная - цёмная"
+    },
+    "Default_Darker": {
+        "message": "Прадвызначаная - цямнейшая"
+    },
+    "Default_Light": {
+        "message": "Прадвызначаная - светлая"
     },
     "Delete": {
         "message": "Выдаліць"
@@ -420,34 +634,43 @@
         "message": "Выдаліць радок"
     },
     "Delete_Line_Left": {
-        "message": "Выдаліць частка радка злева"
+        "message": "Выдаліць частку радка злева"
     },
     "Delete_Line_Right": {
-        "message": "Выдаліць частка радка справа"
+        "message": "Выдаліць частку радка справа"
+    },
+    "Delete_all": {
+        "message": "Выдаліць усё"
     },
     "Delete_to_Next_Word_Boundary": {
-        "message": "Выдаліць да мяжы наступнага слова"
+        "message": "Выдаліць да наступнага слова"
     },
     "Delete_to_Previous_Word_Boundary": {
-        "message": "Выдаліць да мяжы папярэдняга слова"
+        "message": "Выдаліць да папярэдняга слова"
     },
     "Delete_to_Sublime_Mark": {
-        "message": "Выдаліць на узнёслы знак"
+        "message": "Выдаліць, да пазнакі Sublime"
+    },
+    "Deleted_on": {
+        "message": "Выдалена"
     },
     "Description": {
         "message": "Апісанне"
     },
     "Destination_URL": {
-        "message": "URL прызначэння"
+        "message": "URL-адрас прызначэння"
     },
     "Destination_domain": {
         "message": "Дамен прызначэння"
     },
     "Details": {
-        "message": "Падрабязнасць"
+        "message": "Падрабязнасці"
     },
     "Developer": {
         "message": "Распрацоўшчык"
+    },
+    "Developer_Mode": {
+        "message": "Рэжым распрацоўшчыка"
     },
     "Disable": {
         "message": "Адключыць"
@@ -456,30 +679,58 @@
         "message": "Адключыць абнаўленні"
     },
     "Disable_all_remaining_scripts_of_this_tag": {
-        "message": "Націсніце, каб адключыць усе астатнія скрыпты гэтага тэга"
+        "message": "Націсніце, каб адключыць усе астатнія скрыпты з гэтым тэгам"
     },
     "Disable_all_scripts_of_this_tag": {
-        "message": "Націсніце, каб адключыць усе скрыпты гэтага тэга"
+        "message": "Націсніце, каб адключыць усе скрыпты з гэтым тэгам"
     },
     "Disabled": {
         "message": "Адключаны"
     },
+    "Do_you_need_help_finding_Tampermonkey_s_console_output_": {
+        "description": "Пытанне, зададзенае службовым ботам",
+        "message": "Вам патрэбна дапамога ў пошуку кансольнага вываду Tampermonkey?"
+    },
+    "Do_you_need_help_installing_new_scripts_to_Tampermonkey_": {
+        "description": "Пытанне, зададзенае службовым ботам",
+        "message": "Вам патрэбна дапамога ва ўсталяванні новых скрыптоў у Tampermonkey?"
+    },
+    "Do_you_need_help_syncing_all_your_installed_scripts_to_another_browser_": {
+        "description": "Пытанне, зададзенае службовым ботам",
+        "message": "Вам патрэбна дапамога ў сінхранізацыі ўсіх усталяваных скрыптоў з іншым браўзерам?"
+    },
+    "Do_you_need_help_viewing_and_editing_values_stored_by_a_userscript_": {
+        "description": "Пытанне, зададзенае службовым ботам",
+        "message": "Вам патрэбна дапамога ў праглядзе і рэдагаванні значэнняў, якія захоўваюцца ў карыстальніцкім скрыпце?"
+    },
+    "Do_you_need_help_working_with_Tampermonkey_": {
+        "description": "Пытанне, зададзенае службовым ботам",
+        "message": "Вам патрэбна дапамога ў працы з Tampermonkey?"
+    },
     "Do_you_really_want_to_store_fixed_code_": {
-        "message": "Опцыя '$option$' ўключана!\n\nВы сапраўды жадаеце захаваць змены ў кодзе?",
+        "message": "Параметр '$option$' уключаны!\n\nВы сапраўды хочаце захаваць змены ў кодзе?",
         "placeholders": {
             "option": {
                 "content": "$1"
             }
         }
     },
+    "Do_you_want_to_know_how_to_allow_Tampermonkey_access_to_local_file_URIs_": {
+        "description": "Пытанне, зададзенае службовым ботам",
+        "message": "Хочаце ведаць, як дазволіць Tampermonkey доступ да лакальных URI файлаў?"
+    },
+    "Do_you_want_to_use_an_external_editor_to_edit_your_scripts__nWould_you_like_to_know_how_to_set_this_up_": {
+        "description": "Пытанне, зададзенае службовым ботам",
+        "message": "Вы хочаце выкарыстоўваць знешні рэдактар для рэдагавання вашых скрыптоў?\nЦі хацелі б вы ведаць, як гэта наладзіць?"
+    },
     "Document_End": {
-        "message": "У канец скрыпту"
+        "message": "У канец дакумента"
     },
     "Document_Start": {
-        "message": "У пачатак скрыпту"
+        "message": "У пачатак дакумента"
     },
     "Does_not_run_in_incognito_tabs": {
-        "message": "Не запускаецца ў інкагніта-ўкладках"
+        "message": "Не запускаецца ва ўкладках інкогніта"
     },
     "Does_not_run_in_normal_tabs": {
         "message": "Не запускаецца ў звычайных ўкладках"
@@ -491,13 +742,13 @@
         "message": "Не пытацца мяне пры невялікіх зменах у скрыпце"
     },
     "Downgrade": {
-        "message": "Адкаціць"
+        "message": "Панізіць версію"
     },
     "Download_Mode": {
-        "message": "Рэжым загрузкі"
+        "message": "Рэжым спампоўвання"
     },
     "Downloaded_from_0url0": {
-        "message": "Загружаны з: $url$",
+        "message": "Спампаваны з: $url$",
         "placeholders": {
             "url": {
                 "content": "$1"
@@ -505,13 +756,16 @@
         }
     },
     "Downloads": {
-        "message": "Загрузкі"
+        "message": "Спампоўкі"
+    },
+    "Dropbox": {
+        "message": "Dropbox"
     },
     "DuckDuckGo": {
         "message": "DuckDuckGo"
     },
     "Duplicate_Lines": {
-        "message": "Дубляваць вылучанае"
+        "message": "Дубляваць радкі"
     },
     "Edit": {
         "message": "Рэдагаваць"
@@ -529,7 +783,7 @@
         "message": "Уключыць"
     },
     "Enable_Editor": {
-        "message": "Уключыць пашыраны рэдактар"
+        "message": "Уключыць палепшаны рэдактар"
     },
     "Enable_Script_Sync": {
         "message": "Уключыць сінхранізацыю скрыптоў"
@@ -538,22 +792,33 @@
         "message": "Уключыць тэгі"
     },
     "Enable_all_scripts_of_this_tag": {
-        "message": "Націсніце, каб уключыць усе скрыпты гэтага тэга"
+        "message": "Націсніце, каб уключыць усе скрыпты з гэтым тэгам"
     },
     "Enable_autoSave": {
-        "message": "Аўтаматычна захоўваць змесціва, калі рэдактар губляе фокус"
+        "message": "Захоўваць змесціва, калі рэдактар губляе фокус"
+    },
+    "Enable_context_menu": {
+        "message": "Уключыць кантэкстнае меню"
     },
     "Enable_easySave": {
-        "message": "Не паказваць дыялог пацверджання пры захаванні"
+        "message": "Не паказваць дыялог пацвярджэння пры захоўванні"
     },
     "Enable_this_option_to_automatically_check_the_code_on_typing_": {
-        "message": "Уключыце гэтую опцыю, каб аўтаматычна правяраць код пры наборы."
+        "message": "Уключыце гэты параметр, каб аўтаматычна правяраць код пры наборы."
     },
     "Enabled": {
         "message": "Уключаны"
     },
+    "Enabling_this_makes_it_easy_for_scripts_to_leak_it_s_granted_powers_to_the_page_Therefore__off__is_the_safest_option_": {
+        "message": "Уключэнне гэтага параметра вельмі спрашчае перадачу дадзеных скрыпту паўнамоцтваў на старонку. Таму \"$off$\" — найбольш бяспечны варыянт, але ён можа выклікаць праблемы з сумяшчальнасцю.",
+        "placeholders": {
+            "off": {
+                "content": "$1"
+            }
+        }
+    },
     "Enforce": {
-        "message": "Перавызначыць"
+        "message": "Прымусова"
     },
     "Enter_the_new_rule": {
         "message": "Увядзіце новае правіла"
@@ -580,7 +845,7 @@
         "message": "Кожны тыдзень"
     },
     "Exclude_0domain0": {
-        "message": "Дадаць у выключэння $domain$",
+        "message": "Дадаць у выключэнні $domain$",
         "placeholders": {
             "domain": {
                 "content": "$1"
@@ -588,28 +853,61 @@
         }
     },
     "Exclude_s__": {
-        "message": "Exclude(s)"
+        "message": "Выключэнне(-і)"
     },
     "Experimental": {
-        "message": "Эксперыментальна"
+        "message": "Эксперыментальныя"
     },
     "Export": {
         "message": "Экспарт"
     },
+    "Export_script_0name0_0uuid0": {
+        "message": "Экспарт скрыпта \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Export_script_meta_data_of_0name0": {
+        "message": "Экспарт метаданых скрыпта \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Export_script_source_of_0name0": {
+        "message": "Экспарт зыходнага коду скрыпта \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
     "Externals": {
-        "message": "Знешні"
+        "message": "Знешнія рэсурсы"
     },
     "Factory_Reset": {
-        "message": "Скід да завадскіх налад"
+        "message": "Скінуць да завадскіх налад"
     },
     "Fast": {
         "message": "Хуткі"
     },
     "Favicon_Service": {
-        "message": "Favicon-сэрвіс"
+        "message": "Сэрвіс значкоў"
     },
     "Features": {
-        "message": "Дазвол"
+        "message": "Функцыі"
     },
     "File": {
         "message": "Файл"
@@ -624,7 +922,7 @@
         "message": "Знайсці ўсе да"
     },
     "Find_Next": {
-        "message": "Знайсці далей"
+        "message": "Знайсці наступнае"
     },
     "Find_Previous": {
         "message": "Знайсці папярэдняе"
@@ -635,11 +933,17 @@
     "Find_Under_Previous": {
         "message": "Знайсці да папярэдняга"
     },
+    "Find_incremental": {
+        "message": "Інкрэментны пошук"
+    },
+    "Find_incremental_reverse": {
+        "message": "Адваротны інкрэментны пошук"
+    },
     "Fix_wrappedJSObject_property_access": {
         "message": "Выправіць доступ да ўласцівасці wrappedJSObject"
     },
     "Focus_tab": {
-        "message": "Сфакусавацца на ўкладцы крыніцы"
+        "message": "Фокус на ўкладцы крыніцы"
     },
     "Fold": {
         "message": "Згарнуць"
@@ -651,19 +955,36 @@
         "message": "Згортванне"
     },
     "Font_Size": {
-        "message": "Памер шрыфта"
+        "message": "Памер шрыфту"
     },
     "Forbid_once": {
         "message": "Забараніць адзін раз"
     },
+    "Force_DOM": {
+        "message": "Прымусова выкарыстоўваць DOM"
+    },
+    "Force_JavaScript": {
+        "message": "Прымусова выкарыстоўваць JavaScript"
+    },
+    "Force_Raw": {
+        "message": "Прымусова выкарыстоўваць Raw"
+    },
+    "Found_0count0_available_scripts": {
+        "message": "Знойдзена даступных скрыптоў: $count$",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
     "Full_reset": {
-        "message": "Поўны скід"
+        "message": "Скінуць да завадскіх налад"
     },
     "GM_compat_options_": {
         "message": "Параметры сумяшчальнасці GreaseMonkey/Firefox"
     },
     "General": {
-        "message": "Агульны"
+        "message": "Агульныя"
     },
     "Get_new_scripts___": {
         "message": "Знайсці новыя скрыпты..."
@@ -683,26 +1004,41 @@
     "Google": {
         "message": "Google"
     },
+    "Google_Drive": {
+        "message": "Google Drive"
+    },
+    "Grant_all": {
+        "message": "Дазволіць усе"
+    },
+    "Grant_selected": {
+        "message": "Дазволіць выбраныя"
+    },
     "Group_Left": {
-        "message": "Група слева"
+        "message": "Група злева"
     },
     "Group_Right": {
         "message": "Група справа"
     },
     "Help": {
-        "message": "Дапамога"
+        "message": "Даведка"
     },
     "Hide_disabled_scripts": {
         "message": "Схаваць адключаныя скрыпты"
     },
     "Hide_notification_after": {
-        "message": "Хаваць апавяшчэння праз"
+        "message": "Хаваць апавяшчэнне праз"
+    },
+    "Highlight_selection_matches": {
+        "message": "Падсвечваць супадзенні з вылучаным"
     },
     "Highlight_trailing_whitespace": {
-        "message": "Падсвятляць прабелы ў канцы радка"
+        "message": "Падсвечваць прабелы ў канцы радка"
     },
     "Homepage": {
-        "message": "Хатняя старонка"
+        "message": "Дамашняя старонка"
+    },
+    "Host_permissions_denied_by_user_": {
+        "message": "Правы хоста адхілены карыстальнікам:"
     },
     "I_contributed_already": {
         "message": "Я ўжо ахвяраваў"
@@ -714,37 +1050,65 @@
         "message": "Колер значка"
     },
     "Icon_badge_info": {
-        "message": "Значок на панэлі інструментаў"
+        "message": "Інфармацыя на значку"
+    },
+    "Icon_badge_text_color": {
+        "message": "Колер тэксту значка"
     },
     "Import": {
         "message": "Імпарт"
     },
     "Import_from_URL": {
-        "message": "Ўстаноўка праз URL"
+        "message": "Імпарт з URL-адраса"
     },
     "Import_from_file": {
-        "message": "Імпарт"
+        "message": "Імпарт з файла"
+    },
+    "Import_remote_script_0uuid0": {
+        "message": "Імпарт аддаленага скрыпта ($uuid$)",
+        "placeholders": {
+            "uuid": {
+                "content": "$1"
+            }
+        }
     },
     "Imported": {
         "message": "Імпартаваны"
     },
+    "In_order_to_search_for_userscripts__0on_action_menu0__and__0icon_badge_number0__automatically_transfer_the_tab_s_url_to_the_search_website__0on_click0_opens_the_search_page_on_click_Please_click_at_this_icon_to_open_the_privacy_policy_": {
+        "message": "У рэжыме \"$icon_badge_number$\" URL-адрас укладкі аўтаматычна\nперадаецца на сайт пошуку і выкарыстоўваецца ў якасці значэння пошуку.\n\nУ рэжыме \"$on_action_menu$\" пошук з выкарыстаннем URL-адраса выконваецца толькі\nпры адкрыцці меню дзеянняў.\n\n\"$on_click$\" адкрывае сайт пошуку толькі пры націсканні на пункт меню дзеянняў.\n\nНацісніце тут, каб адкрыць палітыку прыватнасці сайта пошуку.",
+        "placeholders": {
+            "icon_badge_number": {
+                "content": "$1"
+            },
+            "on_action_menu": {
+                "content": "$2"
+            },
+            "on_click": {
+                "content": "$3"
+            }
+        }
+    },
     "Include_TM_settings": {
-        "message": "Ўключыць налады Tampermonkey"
+        "message": "Уключыць налады Tampermonkey"
     },
     "Include_s__": {
-        "message": "Include(s)"
+        "message": "Уключэнне(-і)"
     },
     "Include_script_externals": {
-        "message": "Ўключыць знешнія рэсурсы скрыпту"
+        "message": "Уключыць знешнія рэсурсы скрыпта"
     },
     "Include_script_storage": {
         "message": "Уключыць сховішча скрыптоў"
     },
     "Includes_Excludes": {
-        "message": "Includes/Excludes"
+        "message": "Уключэнні/Выключэнні"
+    },
+    "Incognito_tabs": {
+        "message": "Укладкі інкогніта"
     },
     "Incremental_Find": {
-        "message": "Інкрыментны пошук"
+        "message": "Інкрэментны пошук"
     },
     "Indent": {
         "message": "Водступ"
@@ -765,7 +1129,7 @@
         "message": "Інфармацыя"
     },
     "Inject_Mode": {
-        "message": "Рэжым ўбудавання"
+        "message": "Рэжым убудавання"
     },
     "Insert_Line_After": {
         "message": "Уставіць радок пасля"
@@ -780,22 +1144,25 @@
         "message": "Усталяваць"
     },
     "Install_this_script": {
-        "message": "Ўсталяваць гэты скрыпт"
+        "message": "Усталяваць гэты скрыпт"
     },
     "Installed_Version_": {
-        "message": "Устаноўленая версія"
+        "message": "Усталяваная версія"
     },
     "Installed_userscripts": {
-        "message": "Устаноўленыя скрыпты"
+        "message": "Усталяваныя скрыпты"
     },
     "Instant": {
-        "message": "Імгненны"
+        "message": "Імгненна"
     },
     "Invalid_UserScript__Sry_": {
-        "message": "Няправільны скрыпт. Выбачайце!"
+        "message": "Некарэктны скрыпт!"
     },
     "Invalid_UserScript_name__Sry_": {
-        "message": "Некарэктнае імя скрыпту. Выбачайце!"
+        "message": "Некарэктная назва скрыпта!"
+    },
+    "JavaScript_and_DOM": {
+        "message": "JavaScript+DOM"
     },
     "Join_Lines": {
         "message": "Аб'яднаць радкі"
@@ -804,7 +1171,7 @@
         "message": "Перайсці да радка"
     },
     "Just_another_service_provided_by_your_friendly_script_updater_": {
-        "message": "Іншы сэрвіс для абнаўлення вашых скрыптоў"
+        "message": "Яшчэ адзін сэрвіс ад вашай зручнай службы абнаўлення скрыптоў"
     },
     "Key_Mapping": {
         "message": "Супастаўленне клавіш"
@@ -816,67 +1183,87 @@
         "message": "Апошняе абнаўленне"
     },
     "Layout": {
-        "message": "Дызайн"
+        "message": "Тэма"
     },
     "Learn_more": {
         "message": "Даведацца больш"
     },
+    "Legacy": {
+        "message": "Састарэлае"
+    },
     "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
-        "message": "Абмежаваныя дазволу хаста падчас выканання могуць парушыць некаторыя функцыі Tampermonkey, такія як абнаўленне скрыпту, GM_xmlhttpRequest і іншыя!"
+        "message": "Абмежаваныя правы доступу хоста падчас выканання могуць парушаць некаторыя функцыі Tampermonkey, такія як абнаўленне скрыптоў, GM_xmlhttpRequest і іншыя!"
     },
     "Line_Case_Insensitive": {
-        "message": "Лініі без уліку рэгістра"
+        "message": "Радкі без уліку рэгістра"
     },
     "Line_Down": {
-        "message": "На лінію ніжэй"
+        "message": "На радок ніжэй"
     },
     "Line_Up": {
-        "message": "На лінію вышэй"
+        "message": "На радок вышэй"
     },
     "Line_break": {
-        "message": "Разрыў радка"
+        "message": "Перанос слоў"
     },
     "Lines": {
-        "message": "Лініі"
+        "message": "Радкі"
     },
     "Lines_Menu": {
-        "message": "Лініі"
+        "message": "Радкі"
+    },
+    "Loading": {
+        "message": "Загрузка..."
     },
     "LogLevel": {
-        "message": "Ўзровень вядзення часопіса"
+        "message": "Узровень вядзення журнала"
     },
     "Login": {
-        "message": "Аўтарызавацца"
+        "message": "Увайсці"
+    },
+    "Lookup_remote_script_0uuid0": {
+        "message": "Пошук аддаленага скрыпта ($uuid$)",
+        "placeholders": {
+            "uuid": {
+                "content": "$1"
+            }
+        }
+    },
+    "Lookup_remote_script_list": {
+        "message": "Пошук спіса аддаленых скрыптоў"
     },
     "Lower_Case": {
         "message": "Ніжні рэгістр"
     },
     "MIME_Type": {
-        "message": "MIME-тып"
+        "message": "Тып MIME"
     },
     "Malicious_scripts_can_violate_your_privacy_": {
-        "message": "Шкоднасныя скрыпты могуць парушаць вашу канфідэнцыяльнасць і дзейнічаць ад вашага імя!\nЎстанаўлівайце скрыпты толькі з давераных крыніц."
+        "message": "Шкоднасныя скрыпты могуць парушаць вашу прыватнасць і дзейнічаць ад вашага імя!\nУсталёўвайце скрыпты толькі з крыніц, якім вы давяраеце."
     },
     "Manual_Script_Blacklist": {
-        "message": "Ручной чорны спіс карыстацкіх скрыптоў і @require"
+        "message": "Ручны чорны спіс карыстальніцкіх скрыптоў і @require"
     },
     "Matching_URL": {
-        "message": "Адпаведны URL"
+        "message": "Адпаведны URL-адрас"
     },
     "Modify": {
         "message": "Змяніць"
     },
+    "Modifying_a_script_will_disable_automatic_script_updates_": {
+        "message": "Змяненне скрыпта адключыць аўтаматычнае абнаўленне скрыптоў!"
+    },
     "Move_Line_Down": {
-        "message": "На радок ніжэй"
+        "message": "Перамясціць радок ніжэй"
     },
     "Move_Line_Up": {
-        "message": "На радок вышэй"
+        "message": "Перамясціць радок вышэй"
     },
     "Name": {
-        "message": "Імя"
+        "message": "Назва"
     },
     "Native": {
-        "message": "Родны"
+        "message": "Натыўны"
     },
     "Never": {
         "message": "Ніколі"
@@ -888,7 +1275,7 @@
         "message": "Новая версія"
     },
     "New_script_template_": {
-        "message": "Новы шаблон карыстацкага скрыпту"
+        "message": "Новы шаблон карыстальніцкага скрыпта"
     },
     "New_userscript": {
         "message": "<Новы скрыпт>"
@@ -899,8 +1286,17 @@
     "Next_Problem":  {
         "message": "Наступная праблема"
     },
+    "Next_tab": {
+        "message": "Наступная ўкладка"
+    },
+    "Next_theme": {
+        "message": "Наступная тэма"
+    },
     "No": {
         "message": "Не"
+    },
+    "No_available_scripts": {
+        "message": "Няма даступных скрыптоў"
     },
     "No_backups_found": {
         "message": "Рэзервовых копій не знойдзена"
@@ -909,13 +1305,16 @@
         "message": "Запіс не знойдзены"
     },
     "No_frames": {
-        "message": "Запусціць толькі ў верхнім фрэйме"
+        "message": "Запускаць толькі ў верхнім фрэйме"
+    },
+    "No_previously_denied_runtime_host_permissions_found": {
+        "message": "Раней адхіленых дазволаў асяроддзя выканання не знойдзена"
     },
     "No_script_is_installed": {
-        "message": "Скрыпты не ўстаноўлены"
+        "message": "Няма ўсталяваных скрыптоў"
     },
     "No_script_is_running": {
-        "message": "Скрыпт не запушчаны"
+        "message": "Няма запушчаных скрыптоў"
     },
     "No_syntax_errors_were_found_": {
         "message": "Сінтаксічных памылак не выяўлена."
@@ -924,10 +1323,13 @@
         "message": "Няма тэксту"
     },
     "No_update_found__sry_": {
-        "message": "Абнаўленняў не знойдзена, прабачце!"
+        "message": "Абнаўленняў не знойдзена!"
     },
     "Normal": {
-        "message": "Нармальны"
+        "message": "Звычайны"
+    },
+    "Normal_tabs": {
+        "message": "Звычайныя ўкладкі"
     },
     "Note": {
         "message": "Заўвага"
@@ -936,25 +1338,38 @@
         "message": "Неспрактыкаваны"
     },
     "Off": {
-        "message": "Адключаны"
+        "message": "Выкл."
     },
     "Ok": {
-        "message": "Ок"
+        "message": "ОК"
     },
     "On": {
-        "message": "Уключаны"
+        "message": "Укл."
+    },
+    "On_Action_Menu": {
+        "message": "Па меню дзеянняў"
+    },
+    "On_Click": {
+        "message": "Пры націсканні"
+    },
+    "OneDrive": {
+        "message": "OneDrive"
     },
     "One_error_or_hint_was_found_": {
         "message": "Знойдзена адна памылка або папярэджанне."
     },
+    "One_of_your_scripts_is_blacklisted__Would_you_like_to_know_why_": {
+        "description": "Пытанне, зададзенае службовым ботам",
+        "message": "Адзін з вашых скрыптоў у чорным спісе. Хочаце ведаць чаму?"
+    },
     "One_or_more_compatibility_options_are_set": {
-        "message": "Адзін або некалькі параметраў сумяшчальнасці ўстаноўлены. Вам варта іх паглядзець."
+        "message": "Зададзены адзін або некалькі параметраў сумяшчальнасці. Вам варта іх праглядзець."
     },
     "Only_Manual": {
-        "message": "Толькі ручной"
+        "message": "Толькі ручны"
     },
     "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
-        "message": "Толькі файлы з гэтымі пашырэннямі могуць быць захаваны на жорсткі дыск.\nБудзьце асцярожныя і не дазваляйце пашырэння выкананых ў вашай АС файлаў!"
+        "message": "Толькі файлы з гэтымі пашырэннямі могуць быць захаваны на жорсткі дыск.\nБудзьце ўважлівыя і не дазваляйце пашырэнні файлаў, якія прадстаўляюць выканальныя файлы ў вашай аперацыйнай сістэме!"
     },
     "Open_changelog": {
         "message": "Адкрыць спіс змен"
@@ -966,13 +1381,16 @@
         "message": "Арыгінальны белы спіс даменаў"
     },
     "Original_excludes": {
-        "message": "Выкарыстоўваць @excludes"
+        "message": "Арыгінальныя @excludes"
     },
     "Original_includes": {
-        "message": "Выкарыстоўваць @includes"
+        "message": "Арыгінальныя @includes"
     },
     "Original_matches": {
-        "message": "Выкарыстоўваць @matches"
+        "message": "Арыгінальныя @matches"
+    },
+    "Overwrite": {
+        "message": "Перазапісаць"
     },
     "Page_Filter_Mode": {
         "message": "Рэжым фільтра старонкі"
@@ -987,7 +1405,7 @@
         "message": "Пастаянна"
     },
     "Please_check_the_0editor0_documentation_for_more_details_": {
-        "message": "Калі ласка, азнаёмцеся з дакументацыяй $editor$ для атрымання дадатковай інфармацыі.",
+        "message": "Азнаёмцеся з дакументацыяй $editor$ для атрымання дадатковай інфармацыі.",
         "placeholders": {
             "editor": {
                 "content": "$1"
@@ -995,36 +1413,55 @@
         }
     },
     "Please_consider_a_contribution": {
-        "message": "Калі ласка, адпраўце ахвяраванне"
+        "message": "Адпраўце ахвяраванне"
     },
     "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
-        "message": "Калі ласка, уключыце ананімную статыстыку і дапамажыце ўдасканаліць гэтае пашырэнне. Збіраецца толькі тэхнічная інфармацыя і даныя аб узаемадзеянні з пашырэннем. Націсніце тут, каб атрымаць больш інфармацыі пра даныя."
+        "message": "Уключыце ананімную статыстыку і дапамажыце ўдасканаліць гэта пашырэнне. Збіраецца толькі тэхнічная інфармацыя і даныя аб узаемадзеянні з пашырэннем. Націсніце тут, каб атрымаць больш інфармацыі пра даныя."
+    },
+    "Please_enable_developer_mode_to_allow_userscript_injection_": {
+        "message": "Уключыце рэжым распрацоўшчыка, каб дазволіць убудоўванне карыстальніцкіх скрыптоў. Націсніце тут, каб даведацца больш пра тое, як гэта зрабіць."
     },
     "Please_select_a_file": {
-        "message": "Калі ласка, абярыце файл"
+        "message": "Выберыце файл"
     },
     "Please_wait___": {
-        "message": "Калі ласка, пачакайце..."
+        "message": "Пачакайце..."
+    },
+    "Position": {
+        "description": "Загаловак табліцы",
+        "message": "№"
     },
     "Position_": {
         "message": "Пазіцыя"
+    },
+    "Press_ctrl_to_toggle_all_checkboxes": {
+        "message": "Націсніце Ctrl/Cmd, каб пераключыць усе птушкі"
     },
     "Prev_Bookmark": {
         "message": "Папярэдняя закладка"
     },
     "Prev_Problem": {
-        "message": "Папярэдня памылка"
+        "message": "Папярэдняя праблема"
+    },
+    "Previous_tab": {
+        "message": "Папярэдняя ўкладка"
     },
     "Process_with_Chrome": {
-        "message": "Працэс з дапамогай браўзэра"
+        "message": "Апрацаваць з дапамогай браўзера"
+    },
+    "Raw_and_JavaScript": {
+        "message": "Raw і JavaScript"
     },
     "Really_delete_0name0__": {
-        "message": "Вы сапраўды жадаеце выдаліць '$name$'?",
+        "message": "Вы сапраўды хочаце выдаліць '$name$'?",
         "placeholders": {
             "name": {
                 "content": "$1"
             }
         }
+    },
+    "Really_delete_all_userscripts_": {
+        "message": "Вы сапраўды хочаце назаўжды выдаліць усе карыстальніцкія скрыпты?"
     },
     "Really_delete_the_selected_items_": {
         "message": "Вы сапраўды хочаце выдаліць усе выбраныя элементы?"
@@ -1033,13 +1470,19 @@
         "message": "Вы сапраўды хочаце скінуць ўсе выбраныя элементы?"
     },
     "Really_factory_reset_this_script_": {
-        "message": "Вы сапраўды хочаце скінуць налады скрыпту?"
+        "message": "Вы сапраўды хочаце скінуць налады гэтага скрыпта?"
     },
     "Really_reset_all_changes_": {
-        "message": "Вы сапраўды жадаеце адмяніць усе змены?"
+        "message": "Вы сапраўды хочаце адхіліць усе змены?"
+    },
+    "Really_restore_all_userscripts_": {
+        "message": "Вы сапраўды хочаце аднавіць усе карыстальніцкія скрыпты?"
+    },
+    "Recent_Sync_Log": {
+        "message": "Журнал нядаўняй сінхранізацыі"
     },
     "Redo": {
-        "message": "Паўтарыць"
+        "message": "Узнавіць"
     },
     "Reindent_on_typing": {
         "message": "Паўторны водступ пры наборы тэксту"
@@ -1047,14 +1490,42 @@
     "Reinstall": {
         "message": "Пераўсталяваць"
     },
+    "Reload": {
+        "message": "Перазагрузіць"
+    },
     "Remind_me_later": {
-        "message": "Нагадаць мне пазней"
+        "message": "Нагадаць пазней"
     },
     "Remove": {
         "message": "Выдаліць"
     },
     "Remove_Tag": {
         "message": "Выдаліць тэг"
+    },
+    "Remove__possibly_unsecure_": {
+        "message": "Выдаліць цалкам (магчыма, ненадзейна)"
+    },
+    "Remove_local_script_0name0_0uuid0": {
+        "message": "Выдаліць лакальны скрыпт \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Remove_remote_script_0name0_0uuid0": {
+        "message": "Выдаліць аддалены скрыпт \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
     },
     "Replace": {
         "message": "Замяніць"
@@ -1066,7 +1537,7 @@
         "message": "Замяніць усе"
     },
     "Replace_all_with": {
-        "message": "Замяніць усе"
+        "message": "Замяніць усе на"
     },
     "Replace_for_each_statements": {
         "message": "Замяняць выразы 'for each'"
@@ -1078,31 +1549,52 @@
         "message": "Паведаміць пра памылку"
     },
     "Report_an_issue_to_the_script_hoster_": {
-        "message": "Паведаміць аб парушэнні.\n(Можа спатрэбіцца карыстацкі рахунак)"
+        "message": "Паведаміць пра парушэнне.\n(Можа спатрэбіцца ўліковы запіс)"
+    },
+    "Requested_Host_Permissions": {
+        "message": "Запытаныя дазволы хоста"
     },
     "Requires": {
         "message": "Патрабаванні"
     },
     "Reset_Section": {
-        "message": "Скід"
+        "message": "Скінуць"
+    },
+    "Reset_list": {
+        "message": "Скінуць спіс"
     },
     "Resources": {
         "message": "Рэсурсы"
     },
     "Restart_Tampermonkey": {
-        "message": "Перазапуск Tampermonkey"
+        "message": "Перазапусціць Tampermonkey"
+    },
+    "Restore": {
+        "message": "Аднавіць"
+    },
+    "Restore_all": {
+        "message": "Аднавіць усе"
+    },
+    "Revoke_Access_Token": {
+        "message": "Адклікаць токен доступу"
     },
     "Run_at": {
-        "message": "Запускаць у"
+        "message": "Запусціць у"
     },
     "Run_in": {
-        "message": "Запускаць у"
+        "message": "Запусціць у"
     },
     "Run_syntax_check": {
         "message": "Запусціць праверку сінтаксісу"
     },
     "Running_scripts": {
         "message": "Колькасць запушчаных скрыптоў"
+    },
+    "Runtime_Host_Permissions": {
+        "message": "Дазволы хоста падчас выканання"
+    },
+    "Sandbox_Mode": {
+        "message": "Рэжым пясочніцы"
     },
     "Save": {
         "message": "Захаваць"
@@ -1111,10 +1603,10 @@
         "message": "Захаваць на дыск"
     },
     "Scan_the_QR_code_to_use_Tampermonkey_on_your_phone_or_tablet_": {
-        "message": "Скануйце QR-код, каб выкарыстоўваць Tampermonkey на вашым смартфоне або планшэце."
+        "message": "Адсканіруйце QR-код, каб выкарыстоўваць Tampermonkey на сваім смартфоне або планшэце."
     },
     "Script_0name0_is_slowing_down_some_page_loads_": {
-        "message": "Скрыпт '$name$' запавольвае загрузку вашай старонкі",
+        "message": "Скрыпт '$name$' запавольвае загрузку старонкі",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1122,31 +1614,37 @@
         }
     },
     "Script_Blacklist_Source": {
-        "message": "Спіс забароненых крыніц"
+        "message": "Крыніца чорнага спісу скрыптоў"
+    },
+    "Script_Include_Mode": {
+        "message": "Рэжым @include скрыпта"
     },
     "Script_Sync": {
         "message": "Сінхранізацыя скрыптоў"
     },
     "Script_Tags": {
-        "message": "Скрыпты тэгаў"
+        "message": "Тэгі скрыптоў"
     },
     "Script_URL_detection": {
-        "message": "Вызначэнне URL скрыпту"
+        "message": "Выяўленне URL-адрасоў скрыпта"
     },
     "Script_Update": {
-        "message": "Абнаўленне скрыпту"
+        "message": "Абнаўленне скрыпта"
     },
     "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
-        "message": "Аўтары сцэнарыяў могуць абараніць знешнія рэсурсы, дадаўшы хэш SRI да зыходнага URL."
+        "message": "Аўтары скрыптоў могуць абараніць знешнія рэсурсы, дадаўшы хэш SRI да зыходнага URL-адраса."
     },
     "Script_cookies_access": {
-        "message": "Дазволіць скрыптам доступ да кукі"
+        "message": "Дазволіць скрыптам доступ да файлаў cookies"
     },
     "Script_local_files_access": {
         "message": "Дазволіць скрыптам доступ да лакальных файлаў"
     },
+    "Script_menu_commands": {
+        "message": "Каманды меню скрыптоў"
+    },
     "Script_name_0name0": {
-        "message": "Імя скрыпту: $name$",
+        "message": "Назва скрыпта: $name$",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1156,17 +1654,29 @@
     "Script_order": {
         "message": "Парадак скрыптоў"
     },
+    "Scripts_activated_by_context_menu": {
+        "message": "Скрыпты з выкарыстаннем кантэкстнага меню @run-at"
+    },
     "Search": {
-        "message": "Знайсці"
+        "message": "Пошук"
     },
     "Search_for": {
-        "message": "Шукаць"
+        "message": "Пошук"
+    },
+    "Search_for_userscripts_for_this_tab": {
+        "message": "Пошук карыстальніцкіх скрыптоў для гэтай старонкі"
+    },
+    "Searching_for_userscripts_for_this_tab": {
+        "message": "Пошук скрыптоў..."
     },
     "Security": {
         "message": "Бяспека"
     },
     "Select_All": {
         "message": "Вылучыць усё"
+    },
+    "Select_All_Occurrences": {
+        "message": "Вылучыць усе ўваходжанні"
     },
     "Select_Bookmarks": {
         "message": "Вылучыць закладкі"
@@ -1184,19 +1694,19 @@
         "message": "Вылучыць паміж дужкамі"
     },
     "Select_to_Sublime_Mark": {
-        "message": "Выбраць для ўзнёслага знака"
+        "message": "Вылучыць да пазнакі Sublime"
     },
     "Selection": {
-        "message": "Выдзяленьне"
+        "message": "Вылучэнне"
     },
     "Server_And_Manual": {
-        "message": "Аддалены + Ручной"
+        "message": "Аддалены + ручны"
     },
     "Set_Sublime_Mark": {
-        "message": "Ўсталяваць ўзнёслы знак"
+        "message": "Устанавіць пазнаку Sublime"
     },
     "Settings": {
-        "message": "Наладжваньне"
+        "message": "Налады"
     },
     "Show_backups": {
         "message": "Паказаць рэзервовыя копіі"
@@ -1213,8 +1723,11 @@
     "Size": {
         "message": "Памер"
     },
+    "Skip_and_select_next_occurrence": {
+        "message": "Прапусціць і вылучыць наступнае ўваходжанне"
+    },
     "Skip_timeout__0seconds0_seconds_": {
-        "message": "Прапусціць тайм-аўт ($seconds$ seconds)",
+        "message": "Прапусціць час чакання ($seconds$ с)",
         "placeholders": {
             "seconds": {
                 "content": "$1"
@@ -1224,8 +1737,11 @@
     "Smart": {
         "message": "Разумны"
     },
+    "Smart_Backspace": {
+        "message": "Разумны Backspace"
+    },
     "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
-        "message": "Некаторыя сцэнары могуць быць заблакаваныя наладамі JavaScript для гэтай старонкі або блакавальнікі сцэнарыяў!"
+        "message": "Некаторыя скрыпты могуць быць заблакіраваны наладамі JavaScript для гэтай старонкі або блакіроўшчыкам скрыптоў!"
     },
     "Sort": {
         "message": "Сартаванне"
@@ -1242,17 +1758,20 @@
     "Split_into_Lines": {
         "message": "Падзяліць на радкі"
     },
+    "Split_selection_by_line": {
+        "message": "Падзяліць вылучэнне на радкі"
+    },
     "Start": {
         "message": "Запусціць"
     },
     "Stop": {
-        "message": "Стоп"
+        "message": "Спыніць"
     },
     "Storage": {
         "message": "Сховішча"
     },
     "Store_data_in_incognito_mode": {
-        "message": "Захоўваць дадзеныя ў рэжыме інкогніта"
+        "message": "Захоўваць даныя ў рэжыме інкогніта"
     },
     "Strict": {
         "message": "Строгі"
@@ -1261,19 +1780,25 @@
         "message": "Sublime Text"
     },
     "Sublime_Mark": {
-        "message": "Узнёслы знак"
+        "message": "Пазнака Sublime"
     },
     "Subresource_Integrity": {
-        "message": "Пад рэсурсная цэласнасць"
+        "message": "Цэласнасць падрэсурсаў"
     },
     "Swap_with_Sublime_Mark": {
-        "message": "Абмен з узнёслым знакам"
+        "message": "Памяняць месцамі з пазнакай Sublime"
+    },
+    "Sync_Now": {
+        "message": "Запусціць зараз"
     },
     "Sync_Reset": {
-        "message": "Скід сінхранізацыі"
+        "message": "Скінуць"
     },
     "Sync_Type": {
         "message": "Тып"
+    },
+    "Sync_failed": {
+        "message": "Памылка сінхранізацыі"
     },
     "Sync_finished": {
         "message": "Сінхранізацыя завершана"
@@ -1282,7 +1807,7 @@
         "message": "Сінхранізацыя запушчана"
     },
     "Synchronize_your_scripts_across_browsers_and_operation_systems": {
-        "message": "Сінхранізацыя скрыптоў паміж браўзэрамі і аперацыйнымі сістэмамі"
+        "message": "Сінхранізацыя скрыптоў паміж браўзерамі і аперацыйнымі сістэмамі"
     },
     "System_Tags": {
         "message": "Сістэмныя тэгі"
@@ -1290,11 +1815,14 @@
     "TabMode": {
         "message": "Рэжым табуляцыі"
     },
+    "Tab_Size": {
+        "message": "Памер табуляцыі"
+    },
     "Tab_URL": {
-        "message": "URL ўкладкі"
+        "message": "URL-адрас укладкі"
     },
     "Tabs": {
-        "message": "Табуляцыі"
+        "message": "Укладкі"
     },
     "Tag_Already_Exists": {
         "message": "Гэты тэг ужо існуе"
@@ -1302,8 +1830,15 @@
     "Tags": {
         "message": "Тэгі"
     },
+    "Tam": {
+        "message": "Tam",
+        "description": "Назва службавага бота"
+    },
     "Tampermonkey_and_script_version": {
-        "message": "Tampermonkey + версія скрыпту"
+        "message": "Tampermonkey + версія скрыпта"
+    },
+    "Tampermonkey_has_no_access_to_this_page": {
+        "message": "Tampermonkey не мае доступу да гэтай старонкі"
     },
     "Tampermonkey_has_no_file_access_permission_": {
         "message": "У Tampermonkey няма правоў доступу да лакальных файлаў!"
@@ -1312,10 +1847,10 @@
         "message": "Tampermonkey даступны на мабільных платформах"
     },
     "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
-        "message": "Без гэтай опцыі Tampermonkey можа забараняць доступ да небяспечнага кантэнту (unsafeWindow, функцыі і зменныя старонкі)"
+        "message": "Без гэтай опцыі Tampermonkey можа забараняць доступ для небяспечнага кантэксту (unsafeWindow, функцыям і пераменным старонкі)"
     },
     "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
-        "message": "Tampermonkey неабходна перазапусціць, каб змены ўступілі ў сілу.\n\nВы хочаце працягнуць?"
+        "message": "Неабходна перазапусціць Tampermonkey, каб змены ўступілі ў сілу.\n\nХочаце працягнуць?"
     },
     "Tampermonkey_version": {
         "message": "Толькі версія Tampermonkey"
@@ -1345,16 +1880,30 @@
         "message": "Дзякуй вялікі!"
     },
     "The_Browser_API_mode_requires_a_special_permission_": {
-        "message": "Для доступу да API браўзэра патрабуецца спецыяльны дазвол."
+        "message": "Для доступу да API браўзера патрабуецца спецыяльны дазвол."
     },
     "The_diff_for_this_script_is_too_large_to_render": {
-        "message": "Адрозненні для гэтага скрыпту занадта вялікія для візуалізацыі"
+        "message": "Адрозненні для гэтага скрыпта занадта вялікія для візуалізацыі"
     },
     "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
-        "message": "Пасля адкату ў скрыпту могуць узнікаць праблемы з чытаннем захаваных дадзеных!"
+        "message": "Пасля паніжэння версіі ў скрыпта могуць узнікаць праблемы з чытаннем захаваных даных!"
     },
     "The_origin_of_this_script_cant_be_determined_": {
-        "message": "Увага: паходжанне гэтага скрыпту вызначыць немагчыма.\nАльбо ён быў устаноўлены зламысным трэцяй асобай для крадзяжу вашых асабістых дадзеных, альбо для нейкіх базавых налад браўзэра, ваша аперацыйная сістэма або абсталяванне змяніліся.\n\nКалі ласка, адкрыйце, перагледзець іх і захавайце скрыпт, каб уключыць яго."
+        "message": "Увага: немагчыма вызначыць паходжанне гэтага скрыпта.\nАбо ён быў усталяваны шкоднасным трэцім бокам для крадзяжу вашых асабістых даных ці некаторых асноўных налад браўзера, або ваша аперацыйная сістэма ці абсталяванне змяніліся!\n\nАдкрыйце, праглядзіце і захавайце скрыпт, каб уключыць яго."
+    },
+    "The_script_was_modified_locally_on_0date0__Updating_it_will_overwrite_your_changes_": {
+        "message": "Скрыпт быў зменены лакальна $date$. Яго абнаўленне перазапіша вашы змены!",
+        "placeholders": {
+            "date": {
+                "content": "$1"
+            }
+        }
+    },
+    "The_script_was_successfully_deleted_": {
+        "message": "Скрыпт быў паспяхова выдалены."
+    },
+    "The_script_was_successfully_moved_to_the_trash_": {
+        "message": "Скрыпт быў паспяхова перамешчаны ў сметніцу."
     },
     "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
         "message": "URL-адрас абнаўлення змяніўся з:\n    '$oldurl$'\n    на:\n    '$newurl$'\n",
@@ -1370,11 +1919,15 @@
     "Theme": {
         "message": "Тэма"
     },
+    "There_are_no_active_scripts__Do_you_want_to_search_for_userscripts_": {
+        "description": "Пытанне, зададзенае службовым ботам",
+        "message": "Няма актыўных скрыптоў. Хочаце пашукаць карыстальніцкія скрыпты?"
+    },
     "There_are_unsaved_changed_": {
-        "message": "Засталіся незахаваныя змены.\nВы сапраўды жадаеце зачыніць рэдактар?"
+        "message": "Засталіся незахаваныя змены.\nВы сапраўды хочаце закрыць рэдактар?"
     },
     "There_is_an_update_for_0name0_avaiable_": {
-        "message": "Даступныя абнаўлення для '$name$'. :)",
+        "message": "Даступна абнаўленне для '$name$'. :)",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -1382,46 +1935,55 @@
         }
     },
     "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
-        "message": "Гэты знешні рэсурс не будзе аўтаматычна абнаўляцца! Калі ласка, выдаліце яго, каб зноў ўключыць абнаўлення."
+        "message": "Гэты знешні рэсурс не будзе аўтаматычна абнаўляцца! Выдаліце яго, каб зноў уключыць абнаўленні."
     },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
-        "message": "Гэта дае гэтаму сцэнару дазвол на атрыманне і адпраўку дадзеных з кожнай вэб-старонкі. Гэта патэнцыйна небяспечна!\n\nВы ўпэўненыя, што жадаеце працягнуць?"
+        "message": "Гэта дае гэтаму скрыпту дазвол на атрыманне і адпраўку даных з кожнай вэб-старонкі і на яе. Гэта патэнцыйна небяспечна!\n\nВы ўпэўнены, што хочаце працягнуць?"
     },
     "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
-        "message": "Паходжанне гэтага скрыпту вызначыць немагчыма.\nАльбо ён быў устаноўлены зламысным трэцяй асобай для крадзяжу вашых асабістых дадзеных, альбо для нейкіх базавых налад браўзэра, ваша аперацыйная сістэма або абсталяванне змяніліся.\nГэтая мадыфікацыя дазволіць гэта!"
+        "message": "Вызначыць паходжанне гэтага скрыпта немагчыма.\nАбо ён быў усталяваны трэцім бокам для крадзяжу вашых асабістых даных ці некаторых асноўных налад браўзера, або ваша аперацыйная сістэма ці абсталяванне змяніліся.\nГэтая мадыфікацыя ўключыць яго!"
     },
     "This_is_a_system_script": {
         "message": "Гэта сістэмны скрыпт."
     },
     "This_is_a_userscript": {
-        "message": "Гэта карыстацкі скрыпт, напісаны на Javascript"
+        "message": "Гэта карыстальніцкі скрыпт, напісаны на Javascript"
     },
     "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
-        "message": "Гэтая опцыя дазваляе хатняй старонцы Tampermonkey і некаторым скрыптам вызначаць версію Tampermonkey і базавую інфармацыю аб скрыптах (якія ўстаноўлены, іх версіі і ці ўключаны яны)."
+        "message": "Гэты параметр дазваляе дамашняй старонцы Tampermonkey і некаторым скрыптам вызначаць версію Tampermonkey і базавую інфармацыю аб скрыптах (ці ўсталяваны, версію, ці ўключаны)."
     },
     "This_page_is_blacklisted_at_the_security_settings": {
-        "message": "Чорны спіс па параметрах бяспекі"
+        "message": "У чорным спісе паводле налад бяспекі"
     },
     "This_script_does_not_provide_any__include_information_": {
-        "message": "Гэты скрыпт не ўтрымлівае @include выразаў."
+        "message": "Гэты скрыпт не дае ніякай інфармацыі пра @include або @match."
+    },
+    "This_script_does_not_require_any_special_powers_": {
+        "message": "Гэты скрыпт не патрабуе нічога спецыяльнага."
     },
     "This_script_has_access_to_https_pages": {
-        "message": "Гэты скрыпт мае доступ да старонак HTTPS"
+        "message": "Гэты элемент мае доступ да старонак https."
     },
     "This_script_has_full_web_access": {
-        "message": "Гэты скрыпт мае поўны доступ у інтэрнэт."
+        "message": "Гэты скрыпт мае поўны доступ да інтэрнэту."
+    },
+    "This_script_has_local_modifications_and_needs_to_be_updated_manually": {
+        "message": "Гэты скрыпт мае лакальныя змены і патрабуе абнаўлення ўручную!"
     },
     "This_script_is_blacklisted_": {
         "message": "Гэты скрыпт у чорным спісе!"
     },
     "This_script_stores_data": {
-        "message": "Гэты скрыпт захоўвае дадзеныя ў Tampermonkey."
+        "message": "Гэты скрыпт захоўвае даныя ў Tampermonkey."
     },
     "This_script_was_deleted": {
         "message": "Гэты скрыпт быў выдалены"
     },
+    "This_script_was_deleted_by_the_hoster_": {
+        "message": "Гэты скрыпт быў выдалены хостэрам"
+    },
     "This_script_was_executed_0count0_times": {
-        "message": "Гэты скрыпт быў выкананы $count$ адзін раз",
+        "message": "Гэты скрыпт быў выкананы $count$ раз(-оў)",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -1429,7 +1991,7 @@
         }
     },
     "This_script_was_executed_0count0_times_but_is_not_active_anymore": {
-        "message": "Гэты скрыпт быў выкананы $ count $ разоў(ы), але цяпер ён не актыўны",
+        "message": "Гэты скрыпт быў выкананы $count $ раз(-оў), але цяпер ён не актыўны",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -1440,7 +2002,7 @@
         "message": "Гэты скрыпт не быў выкананы"
     },
     "This_script_was_not_executed_yet": {
-        "message": "Гэты скрыпт яшчэ не быў выкананы\n\nМагчымыя прычыны: Калі загружалася старонка... \n1. Tampermonkey не быў гатовы.\n2. скрыпт не існаваў або быў адключаны.\n3. URL не супадаў (частае яўленне ў адзінакавых старонках, якія змяняюць URL праз JavaScript)\n\nУключыце і/або перазагрузіце ўкладку або выкарыстоўвайце больш узагальнены `@match` і вызначайце змены URL з `window.onurlchange`."
+        "message": "Гэты скрыпт яшчэ не запускаўся\n\nМагчымыя прычыны: Калі старонка загрузілася... \n1. Tampermonkey не была гатова.\n2. Скрыпт не існаваў або быў адключаны.\n3. URL-адрас не супадаў (распаўсюджаная з'ява ў аднастаронкавых праграмах, якія змяняюць URL-адрас з дапамогай JavaScript)\n\nУключыце і/або перазагрузіце ўкладку або выкарыстоўвайце больш агульны `@match` і выяўляйце змены URL-адрасоў з дапамогай `window.onurlchange`."
     },
     "This_tag_is_not_part_of_the_system_tag_list_": {
         "message": "Гэты тэг не ўваходзіць у спіс сістэмных тэгаў"
@@ -1449,7 +2011,7 @@
         "message": "Гэта перазапіша вашы глабальныя налады!"
     },
     "This_will_remove_all_remote_data_from_sync_Ok_": {
-        "message": "Вы сапраўды хочаце выдаліць усе дадзеныя з сінхранізацыі?"
+        "message": "Вы сапраўды хочаце выдаліць усе даныя з сінхранізацыі?"
     },
     "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
         "message": "Вы сапраўды хочаце выдаліць усе скрыпты і скінуць ўсе налады?"
@@ -1461,46 +2023,55 @@
         "message": "Сёння"
     },
     "Toggle": {
-        "message": "Уключыць/Выключыць"
+        "message": "Уключыць/выключыць"
     },
     "Toggle_Block_Comment": {
-        "message": "Уключыць/Выключыць шматрадковы каментар"
+        "message": "Уключыць/выключыць шматрадковы каментарый"
     },
     "Toggle_Comment": {
-        "message": "Уключыць/Выключыць каментар"
+        "message": "Уключыць/выключыць каментарый"
     },
     "Toggle_Comment_Indented": {
-        "message": "Уключыць/Выключыць каментар з водступам"
+        "message": "Уключыць/выключыць каментарый з водступам"
     },
     "Toggle_Enable": {
-        "message": "Пераключыць"
+        "message": "Уключыць/выключыць"
     },
     "Trace": {
         "message": "Адсочваць"
     },
     "Transpose": {
-        "message": "Транспонировать"
+        "message": "Транспанаваць"
+    },
+    "Trash_Mode": {
+        "message": "Рэжым сметніцы"
+    },
+    "Trash_bin": {
+        "message": "Сметніцы"
+    },
+    "Treat_like__match": {
+        "message": "Лічыць як @match"
     },
     "Trigger_Update": {
         "message": "Абнаўленне трыгера"
     },
     "Trim_trailing_whitespace_from_modified_lines": {
-        "message": "Абрэзаць прабелы з рэшт мадыфікаваных радкоў"
+        "message": "Выразаць прабелы ў канцы змененых радкоў"
     },
     "Try_to_install_as_script": {
-        "message": "Паспрабуйце ўсталяваць, як скрыпт"
+        "message": "Паспрабуйце ўсталяваць як скрыпт"
     },
     "Type": {
         "message": "Тып"
     },
     "URL": {
-        "message": "URL"
+        "message": "URL-адрас"
     },
     "UUID": {
         "message": "UUID"
     },
     "Unable_to_load_script_from_url_0url0": {
-        "message": "Немагчыма загрузіць скрыпт з URL: \n $url$",
+        "message": "Немагчыма загрузіць скрыпт з URL-адраса: \n $url$",
         "placeholders": {
             "url": {
                 "content": "$1"
@@ -1516,10 +2087,10 @@
         }
     },
     "Unable_to_parse_this_": {
-        "message": "Не ўдаецца прааналізаваць гэта! :("
+        "message": "Немагчыма разабраць гэта! :("
     },
     "Undo": {
-        "message": "Адмяніць"
+        "message": "Адрабіць"
     },
     "Unfold": {
         "message": "Разгарнуць"
@@ -1538,20 +2109,34 @@
             }
         }
     },
+    "Unsafe": {
+        "message": "Небяспечна"
+    },
     "Update": {
         "message": "Абнавіць"
     },
     "Update_Notification": {
-        "message": "Паказаць апавяшчэнне аб абнаўленні Tampermonkey"
+        "message": "Паказаць апавяшчэнне аб абнаўленні"
     },
     "Update_URL_": {
-        "message": "URL абнаўленне"
+        "message": "URL-адрас абнаўлення"
     },
     "Update_check_is_disabled": {
-        "message": "Праверка абнаўлення скрыпту адключаная або немагчымая"
+        "message": "Праверка абнаўлення скрыпта адключана або немагчымая"
     },
     "Update_interval": {
-        "message": "Перыяд абнаўлення"
+        "message": "Інтэрвал абнаўлення"
+    },
+    "Update_local_script_0name0_0uuid0": {
+        "message": "Абнавіць лакальны скрыпт \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
     },
     "Updated_to__0version0": {
         "message": "Абноўлены да: $version$",
@@ -1562,64 +2147,105 @@
         }
     },
     "Updates": {
-        "message": "Абнаўленне"
+        "message": "Абнаўленні"
     },
     "Upper_Case": {
         "message": "Верхні рэгістр"
     },
+    "UserScripts_API": {
+        "message": "API карыстальніцкіх скрыптоў"
+    },
+    "UserScripts_API_Dynamic": {
+        "message": "Дынамічны API карыстальніцкіх скрыптоў"
+    },
     "User_domain_blacklist": {
-        "message": "Карыстацкі чорны спіс даменаў"
+        "message": "Карыстальніцкі чорны спіс даменаў"
     },
     "User_domain_whitelist": {
-        "message": "Карыстацкі белы спіс даменаў"
+        "message": "Карыстальніцкі белы спіс даменаў"
     },
     "User_excludes": {
-        "message": "Прыстасаваныя @excludes"
+        "message": "Карыстальніцкія @excludes"
     },
     "User_includes": {
-        "message": "Прыстасаваныя @includes"
+        "message": "Карыстальніцкія @includes"
     },
     "User_matches": {
-        "message": "Прыстасаваныя @matches"
+        "message": "Карыстальніцкія @matches"
     },
     "User_modified": {
-        "message": "Змяняць"
+        "message": "Зменены"
+    },
+    "Userscript_Search": {
+        "message": "Пошук скрыптоў"
+    },
+    "Userscript_search_integration_mode": {
+        "message": "Інтэграцыя пошуку скрыптоў"
     },
     "Userscripts": {
-        "message": "Прыстасаваныя скрыпты"
+        "message": "Карыстальніцкія скрыпты"
+    },
+    "Using__include_is_potentially_unsafe_and_may_be_obsolete_soon___0off0_disables__include_completely__0match0__is_safe__but_may_not_compatible_the_script_developers_intention__0unsafe0__mostly_keeps_the_legacy_behavior_0default0__means__0used_default0": {
+        "message": "Выкарыстанне @include патэнцыйна небяспечнае і можа быць састарэлым у маніфесце v3 на пачатку 2023 года. Гэты параметр дазваляе наладзіць спосаб інтэрпрэтацыі @include. \"$off$\" цалкам адключае @include, \"$match$\" бяспечны, але можа не адпавядаць намерам распрацоўшчыкаў скрыптоў. \"$unsafe$\" у асноўным захоўвае састарэлыя паводзіны, а \"$default$\" пакуль што азначае \"$used_default$\".",
+        "placeholders": {
+            "off": {
+                "content": "$1"
+            },
+            "match": {
+                "content": "$2"
+            },
+            "unsafe": {
+                "content": "$3"
+            },
+            "default": {
+                "content": "$4"
+            },
+            "used_default": {
+                "content": "$5"
+            }
+        }
     },
     "Utilities": {
         "message": "Утыліты"
     },
+    "VSCode": {
+        "message": "VSCode"
+    },
     "Validate_if_given": {
-        "message": "Праверыць, калі паказана"
+        "message": "Праверыць, калі ўказана"
     },
     "Validate_if_supported": {
         "message": "Праверыць, калі магчыма"
     },
     "Verbose": {
-        "message": "Шматслоўны"
+        "message": "Падрабязна"
     },
     "Version": {
         "message": "Версія"
+    },
+    "View": {
+        "message": "Выгляд"
     },
     "Vim": {
         "message": "Vim"
     },
     "Waiting_for_sync_to_finish": {
-        "message": "Чакаем канчатак сінхранізацыі"
+        "message": "Чакаем заканчэння сінхранізацыі"
     },
     "Warning": {
         "message": "Папярэджанне"
     },
     "Warning_unsafe_site_warnings_might_appear_": {
-        "message": "Увага: могуць з'яўляцца папярэджання аб ненадзейным сайце, калі скрыпт змяшчае патэнцыйна небяспечныя URL"
+        "message": "Увага: могуць з'яўляцца папярэджанні аб ненадзейным сайце, калі скрыпт змяшчае патэнцыйна небяспечныя URL-адрасы"
+    },
+    "WebDAV": {
+        "message": "WebDAV"
     },
     "Whitelist": {
         "message": "Белы спіс"
     },
     "Whitelisted_File_Extensions": {
-        "message": "Белы спіс пашырэньні файлаў"
+        "message": "Белы спіс пашырэнняў файлаў"
     },
     "Whitelisted_Pages": {
         "message": "Белы спіс старонак"
@@ -1627,62 +2253,84 @@
     "Windows": {
         "message": "Windows"
     },
+    "Would_you_like_to_know_how_to_overwrite_or_extend_a_script_s_includes_and_or_excludes_": {
+        "description": "Пытанне, зададзенае службовым ботам",
+        "message": "Хочаце ведаць, як перазапісаць або пашырыць уключаныя і/або выключаныя элементы скрыпта?"
+    },
+    "Would_you_like_to_learn_how_to_export_and_import_your_scripts_": {
+        "description": "Пытанне, зададзенае службовым ботам",
+        "message": "Ці хацелі б вы навучыцца экспартаваць і імпартаваць свае скрыпты?"
+    },
+    "Wrap_lines": {
+        "message": "Пераносіць радкі"
+    },
     "XHR_Security": {
         "message": "Бяспека XHR"
     },
+    "Yandex_Disk": {
+        "message": "Яндекс.Дыск"
+    },
     "Yank_Sublime_Mark": {
-        "message": "Маркер выдзялення Yank"
+        "message": "Выразаць пазнаку Sublime"
     },
     "Yes": {
         "message": "Так"
     },
     "You_are_about_to_downgrade_a_UserScript": {
-        "message": "Увага! Адкат версіі скрыпту"
+        "message": "Увага! Паніжэнне версіі скрыпта"
     },
     "You_are_about_to_install_a_UserScript_": {
-        "message": "Ўстаноўка скрыпту"
+        "message": "Усталяванне скрыпта"
     },
     "You_are_about_to_modify_a_UserScript_": {
-        "message": "Змена скрыпту"
+        "message": "Мадыфікацыя скрыпта"
     },
     "You_are_about_to_reinstall_a_UserScript_": {
-        "message": "Пераўсталёўка скрыпту"
+        "message": "Пераўсталяванне скрыпта"
     },
     "You_are_about_to_update_a_UserScript_": {
-        "message": "Абнаўленне скрыпту"
+        "message": "Абнаўленне скрыпта"
     },
     "You_can_add_your_custom_CSS_rules_here_": {
-        "message": "Вы можаце дадаць свае ўласныя правілы CSS для карыстацкага інтэрфейсу Tampermonkey тут. У выпадку, калі гэта нешта зломіць, перайдзіце да стандартнага афармленню, дадаўшы ?layout=reset да URL."
+        "message": "Тут вы можаце дадаць свае ўласныя правілы CSS для карыстальніцкага інтэрфейсу Tampermonkey. У выпадку, калі гэта нешта парушыць, перайдзіце да стандартнага афармлення, дадаўшы ?layout=reset да URL-адраса."
     },
     "You_can_add_your_custom_linter_config_here_": {
-        "message": "Вы можаце дадаць сваю ўласную канфігурацыю Linter тут."
+        "message": "Тут вы можаце дадаць сваю ўласную канфігурацыю Linter."
     },
     "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
-        "message": "Ваша мова не падтрымліваецца?\nНацісніце тут, каб атрымаць інструкцыі, як перавесці Tampermonkey?"
+        "message": "Ваша мова не падтрымліваецца?\nНацісніце тут, каб даведацца, як перакласці Tampermonkey."
     },
     "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
-        "message": "Ваш белы спіс змяшчае выкананыя файлы!\nГэта азначае, што вашыя прыстасаваныя скрыпты могуць загружаць шкоднасныя або шпіёнскія праграмы на ваш жорсткі дыск!"
+        "message": "Ваш белы спіс змяшчае выканальныя файлы!\nГэта азначае, што вашы карыстальніцкія скрыпты могуць спампоўваць шкоднасныя або шпіёнскія праграмы на ваш жорсткі дыск!"
     },
     "Zip": {
         "message": "Zip"
     },
     "__Please_choose__": {
-        "message": "-- Калі ласка, выберыце опцыю --"
+        "message": "-- Выберыце параметр --"
     },
     "_not_set_": {
-        "message": "<не ўсталяваны>"
+        "message": "<не зададзены>"
+    },
+    "by_0name0": {
+        "message": "аўтар: $name$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
     },
     "connect_mode": {
-        "message": "Праверка @connect"
+        "message": "Праверыць @connect"
     },
     "fatal_error": {
-        "message": "Крытычная памылка"
+        "message": "крытычная памылка"
     },
     "overwritten_by_user": {
-        "message": "перазапісвальны наладамі карыстальніка"
+        "message": "перазапісаны наладамі карыстальніка"
     },
     "require_and_resource": {
-        "message": "Знешні (@require i @resource)"
+        "message": "Знешнія (@require i @resource)"
     },
     "severity_1": {
         "message": "1 (найбольш бяспечны)"
@@ -1715,9 +2363,20 @@
         "message": "9"
     },
     "some_secs": {
-        "message": "некаторы"
+        "message": "некаторы час"
     },
     "strict_mode": {
-        "message": "Строгі рэжым"
+        "message": "строгі рэжым"
+    },
+    "top_level_await": {
+        "message": "чаканне на самым высокім узроўні"
+    },
+    "v0version0": {
+        "message": "v$version$",
+        "placeholders": {
+            "version": {
+                "content": "$1"
+            }
+        }
     }
 }
