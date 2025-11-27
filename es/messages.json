@@ -1418,8 +1418,8 @@
     "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
         "message": "Por favor, habilita las estadísticas anónimas y ayuda a optimizar esta extensión. Solo se recopilan datos técnicos y de interacción con la extensión. Haz clic aquí para más información sobre los datos."
     },
-    "Please_enable_developer_mode_to_allow_userscript_injection_": {
-        "message": "Por favor, habilita el modo de desarrollador para permitir la inyección de userscript. Haz clic aquí para saber cómo hacerlo."
+    "Please_enable_the_allow_userscripts_extension_setting_": {
+        "message": "Por favor, habilita la configuración de extensión `Permitir scripts de usuario`. Haz clic aquí para más información sobre cómo hacerlo."
     },
     "Please_select_a_file": {
         "message": "Por favor, selecciona un archivo"

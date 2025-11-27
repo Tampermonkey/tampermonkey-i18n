@@ -680,6 +680,9 @@
     "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
         "message": "Prosím, povolte anonymnú štatistiku a pomôžte optimalizovať toto rozšírenie. Zbierajú sa len technické údaje a údaje o interakcii s rozšírením. Pre viac informácií o dátach kliknite sem."
     },
+    "Please_enable_the_allow_userscripts_extension_setting_": {
+        "message": "Prosím, povolte nastavenie rozšírenia `Povoliť userskripty`. Kliknite sem pre viac informácií ako to urobiť."
+    },
     "Please_wait___": {
         "message": "Čakajte prosím..."
     },

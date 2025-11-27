@@ -911,6 +911,9 @@
     "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
         "message": "Molimo omogućite anonimnu statistiku i pomozite optimizirati ovaj dodatak. Prikupljaju se samo tehnički podaci i podaci o interakciji s dodatkom. Kliknite ovdje za više informacija o podacima."
     },
+    "Please_enable_the_allow_userscripts_extension_setting_": {
+        "message": "Molimo omogućite `Dozvoli Korisničke Skripte` dodatak podešavanja. Kliknite ovdje za više informacija kako to učiniti."
+    },
     "Please_select_a_file": {
         "message": "Molimo odaberite fajl"
     },

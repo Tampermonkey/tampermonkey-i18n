@@ -760,6 +760,9 @@
     "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
         "message": "Proszę włączyć anonimowe statystyki i pomóc zoptymalizować to rozszerzenie. Zbierane są tylko dane techniczne i dane dotyczące interakcji z rozszerzeniem. Kliknij tutaj, aby uzyskać więcej informacji na temat danych."
     },
+    "Please_enable_the_allow_userscripts_extension_setting_": {
+        "message": "Włącz opcję `Zezwalaj na skrypty użytkownika`. Kliknij tutaj, aby uzyskać więcej informacji jak to zrobić."
+    },
     "Please_select_a_file": {
         "message": "Wybierz plik"
     },

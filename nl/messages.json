@@ -983,6 +983,9 @@
     "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
         "message": "Schakel alstublieft anonieme statistieken in en help deze extensie te optimaliseren. Er worden alleen technische gegevens en gegevens over interactie met de extensie verzameld. Klik hier voor meer informatie over de gegevens."
     },
+    "Please_enable_the_allow_userscripts_extension_setting_": {
+        "message": "Schakel de extensie-instelling `Gebruikersscripts toestaan` in. Klik hier voor meer informatie over hoe u dit kunt doen."
+    },
     "Please_select_a_file": {
         "message": "Selecteer een bestand"
     },

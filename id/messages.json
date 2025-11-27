@@ -469,6 +469,9 @@
     "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
         "message": "Silakan aktifkan statistik anonim dan bantu optimalkan ekstensi ini. Hanya data teknis dan interaksi ekstensi yang dikumpulkan. Klik di sini untuk info lebih lanjut tentang data tersebut."
     },
+    "Please_enable_the_allow_userscripts_extension_setting_": {
+        "message": "Silakan aktifkan pengaturan ekstensi `Izinkan User Scripts`. Klik di sini untuk info lebih lanjut bagaimana melakukannya."
+    },
     "Please_select_a_file": {
         "message": "Silakan pilih berkas"
     },

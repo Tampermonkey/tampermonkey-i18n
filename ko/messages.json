@@ -701,6 +701,9 @@
             }
         }
     },
+    "Please_enable_the_allow_userscripts_extension_setting_": {
+        "message": "`사용자 스크립트 허용` 확장 설정을 활성화하세요. 여기를 클릭하여 어떻게 하는지 알아보세요."
+    },
     "Please_consider_a_contribution": {
         "message": "기부를 고려해 주세요"
     },

@@ -1198,6 +1198,9 @@
     "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
         "message": "Aktiver venligst anonym statistik og hjælp med at optimere denne udvidelse. Der indsamles kun tekniske data og data om interaktion med udvidelsen. Klik her for at få mere info om dataene."
     },
+    "Please_enable_the_allow_userscripts_extension_setting_": {
+        "message": "Aktiver venligst udvidelsesindstillingen 'Tillad brugerscripts'. Klik her for mere info om, hvordan du gør dette."
+    },
     "Please_select_a_file": {
         "message": "Vælg en fil"
     },

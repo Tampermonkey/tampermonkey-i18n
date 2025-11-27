@@ -1315,8 +1315,8 @@
     "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
         "message": "匿名統計を有効にして、この拡張機能の最適化にご協力ください。技術的なデータおよび拡張機能との相互作用のデータのみが収集されます。データにの詳細はこちらをクリックしてください。"
     },
-    "Please_enable_developer_mode_to_allow_userscript_injection_": {
-        "message": "UserScript の注入を許可するには、開発用モードを有効にしてください。詳細はこちらをクリックしてください。"
+    "Please_enable_the_allow_userscripts_extension_setting_": {
+        "message": "ユーザースクリプトを許可設定を有効にしてください。詳細はこちらをクリックしてください。"
     },
     "Please_select_a_file": {
         "message": "ファイルを選択してください"

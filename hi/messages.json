@@ -914,6 +914,9 @@
             }
         }
     },
+    "Please_enable_the_allow_userscripts_extension_setting_": {
+        "message": "एक्सटेंशन की ‘उपयोगकर्ता स्क्रिप्टें अनुमति दें’ सेटिंग को सक्रिय करें। अधिक जानकारी के लिये यहाँ क्लिक करें।"
+    },
     "Please_consider_a_contribution": {
         "message": "कृपया दान भेजें"
     },

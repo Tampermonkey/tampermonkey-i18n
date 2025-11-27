@@ -572,6 +572,9 @@
     "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
         "message": "Kérjük, engedélyezze az anonim statisztikákat és segítsen optimalizálni ezt a kiterjesztést. Csak műszaki adatokat és a kiterjesztéssel való interakciós adatokat gyűjtünk. Kattintson ide a további adatokkal kapcsolatos információkért."
     },
+    "Please_enable_the_allow_userscripts_extension_setting_": {
+        "message": "Kérlek engedélyezd az 'Engedi a userscripteket' kiterjesztés beállítást. Kattints ide, hogy megtudjál hogyan teheted meg."
+    },
     "Please_wait___": {
         "message": "Kérlek várj..."
     },

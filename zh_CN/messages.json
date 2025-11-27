@@ -1172,8 +1172,8 @@
     "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
         "message": "请启用匿名统计并帮助优化此扩展。只收集技术和扩展交互数据。点击这里了解有关数据的更多信息。"
     },
-    "Please_enable_developer_mode_to_allow_userscript_injection_": {
-        "message": "请启用开发者模式以允许用户脚本注入。点击这里了解如何操作。"
+    "Please_enable_the_allow_userscripts_extension_setting_": {
+        "message": "请启用“允许用户脚本”扩展设置。点击这里了解如何操作。"
     },
     "Please_select_a_file": {
         "message": "请选择一个文件"

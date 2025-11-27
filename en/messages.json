@@ -1418,8 +1418,8 @@
     "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
         "message": "Please enable anonymous statistics and help optimize this extension. Only technical and extension interaction data is collected. Click here for more info about the data."
     },
-    "Please_enable_developer_mode_to_allow_userscript_injection_": {
-        "message": "Please enable developer mode to allow userscript injection. Click here for more info how to do this."
+    "Please_enable_the_allow_userscripts_extension_setting_": {
+        "message": "Please enable the `Allow User Scripts` extension setting. Click here for more info how to do this."
     },
     "Please_select_a_file": {
         "message": "Please select a file"

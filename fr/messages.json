@@ -1294,6 +1294,9 @@
     "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
         "message": "Veuillez activer les statistiques anonymes et aider à optimiser cette extension. Seules les données techniques et les données d'interaction avec l'extension sont collectées. Cliquez ici pour plus d'informations sur les données."
     },
+    "Please_enable_the_allow_userscripts_extension_setting_": {
+        "message": "Merci d'activer le paramètre « Autoriser les scripts utilisateur » de l'extension. Cliquez ici pour plus d'informations sur la façon de faire."
+    },
     "Please_select_a_file": {
         "message": "Veuillez sélectionner un fichier"
     },

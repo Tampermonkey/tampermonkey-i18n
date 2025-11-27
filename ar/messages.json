@@ -1021,6 +1021,9 @@
     "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
         "message": "يرجى تفعيل الإحصائيات المجهولة والمساعدة في تحسين هذه الإضافة. يتم جمع البيانات الفنية وبيانات التفاعل مع الإضافة فقط. انقر هنا لمزيد من المعلومات حول البيانات."
     },
+    "Please_enable_the_allow_userscripts_extension_setting_": {
+        "message": "يرجى تمكين خيار «السماح بالسكريبتات» في إعدادات الامتداد؛ اضغط هنا لمعرفة طريقة الإعداد."
+    },
     "Please_select_a_file": {
         "message": "من فضلك إختر ملفاً"
     },

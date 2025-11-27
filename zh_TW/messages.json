@@ -1324,8 +1324,8 @@
     "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
         "message": "請啟用匿名統計並幫助改善此擴充功能。只收集技術和擴充功能互動資料。點選這裡瞭解有關資料的更多資訊。"
     },
-    "Please_enable_developer_mode_to_allow_userscript_injection_": {
-        "message": "請啟用開發人員模式以允許使用者腳本插入。點選此處以了解如何進行設定。"
+    "Please_enable_the_allow_userscripts_extension_setting_": {
+        "message": "請啟用「允許使用者腳本」擴充功能設定。點選這裡瞭解如何執行此操作的更多資訊。"
     },
     "Please_select_a_file": {
         "message": "請選取一個檔案"
