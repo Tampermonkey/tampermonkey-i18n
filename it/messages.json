@@ -1419,7 +1419,7 @@
         "message": "Abilitare le statistiche anonime e aiutare a ottimizzare questa estensione.\nVengono raccolti solo dati tecnici e dati di interazione con l'estensione.\nClic qui per maggiori informazioni sui dati."
     },
     "Please_enable_the_allow_userscripts_extension_setting_": {
-        "message": "Abilita l'impostazione \"Permetti scripts utente\".\nClicca qui per maggiori informazioni su come farlo."
+        "message": "Abilita l'impostazione 'Permetti scripts utente'.\nPer maggiori info su come farlo fai clic qui."
     },
     "Please_select_a_file": {
         "message": "Seleziona un file"
