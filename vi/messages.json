@@ -45,6 +45,14 @@
             }
         }
     },
+    "0number0_minutes": {
+        "message": "$number$ phút",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
     "15_Seconds": {
         "message": "15 giây"
     },
@@ -146,7 +154,7 @@
         "message": "Tất cả các tệp cục bộ"
     },
     "All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_": {
-        "message": "Các thay đổi chỉ được giữ trong một vài giây. Thiết lập lại tuỳ chọn '$name$' để lưu chúng vĩnh viễn.",
+        "message": "Tất cả chỉnh sửa sẽ chỉ được giữ lại một lúc thôi. Hãy cấu hình lại tuỳ chọn '$name$' để lưu vĩnh viễn.",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -288,8 +296,14 @@
     "Auto_syntax_check_on_typing": {
         "message": "Tự động kiểm tra cú pháp khi đánh chữ"
     },
+    "Autocomplete": {
+        "message": "Tự động hoàn thành"
+    },
     "Automatically_added_user_includes_for_compatibility_reasons_": {
         "message": "Một số phần bao gồm của người dùng đã được tự động thêm vào vì lí do tương thích!"
+    },
+    "Back_or_close": {
+        "message": "Quay lại hoặc đóng"
     },
     "Beginner": {
         "message": "Tân thủ"
@@ -327,7 +341,7 @@
         "message": "Đồng bộ trình duyệt"
     },
     "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
-        "message": "XUNG ĐỘT:\nTập lệnh này đã được sửa bởi một thẻ khác $t$ giây trước!",
+        "message": "XUNG ĐỘT:\nTập lệnh này đã được một thẻ khác sửa $t$ giây trước!",
         "placeholders": {
             "t": {
                 "content": "$1"
@@ -417,6 +431,12 @@
     "Configures_which_sandbox_values_are_valid": {
         "message": "Cấu hình xem giá trị @sandbox nào là hợp lệ"
     },
+    "Content_Script": {
+        "message": "Tập lệnh nội dung"
+    },
+    "Content_Script_API": {
+        "message": "API tập lệnh nội dung"
+    },
     "Context_Menu": {
         "message": "Bảng chọn ngữ cảnh"
     },
@@ -459,7 +479,7 @@
         "message": "Cắt"
     },
     "DOM_mode_is_unsecure__Scripts_can_install_new_scripts_": {
-        "message": "Chế độ hộp cát \"DOM\" là không bảo mật. Những tập lệnh người dùng đang chạy sẽ có gần như mọi quyền mở rộng và còn có thể sửa đổi và cài đặt các tập lệnh người dùng khác."
+        "message": "Chế độ hộp cát \"DOM\" thì không bảo mật. Những tập lệnh người dùng đang chạy sẽ có gần như mọi quyền mở rộng và còn có thể sửa đổi và cài đặt các tập lệnh người dùng khác."
     },
     "Dashboard": {
         "message": "Bảng tổng quan"
@@ -537,10 +557,10 @@
         "message": "Tắt cập nhật"
     },
     "Disable_all_remaining_scripts_of_this_tag": {
-        "message": "Nhấn để vô hiệu hóa tất cả các tập lệnh còn lại của thẻ này"
+        "message": "Nhấn để vô hiệu hoá tất cả các tập lệnh còn lại của thẻ này"
     },
     "Disable_all_scripts_of_this_tag": {
-        "message": "Nhấn để vô hiệu hóa tất cả các tập lệnh của thẻ này"
+        "message": "Nhấn để vô hiệu hoá tất cả các tập lệnh của thẻ này"
     },
     "Disabled": {
         "message": "Đã tắt"
@@ -670,7 +690,7 @@
         "message": "Ép buộc"
     },
     "Enter_the_new_rule": {
-        "message": "Vào quy tắc mới"
+        "message": "Nhập quy tắc mới"
     },
     "Error": {
         "message": "Lỗi"
@@ -781,6 +801,12 @@
     },
     "Find_Under_Previous": {
         "message": "Tìm dưới trước đó"
+    },
+    "Find_incremental": {
+        "message": "Tìm dần dần"
+    },
+    "Find_incremental_reverse": {
+        "message": "Tìm đảo hướng dần dần"
     },
     "Fix_wrappedJSObject_property_access": {
         "message": "Sửa truy cập thuộc tính wrappedJSObject"
@@ -1021,7 +1047,7 @@
     },
     "Learn_more": {
         "message": "Tìm hiểu thêm"
-},
+    },
     "Legacy": {
         "message": "Di sản"
     },
@@ -1120,6 +1146,12 @@
     "Next_Problem":  {
         "message": "Vấn đề tiếp theo"
     },
+    "Next_tab": {
+        "message": "Thẻ tiếp theo"
+    },
+    "Next_theme": {
+        "message": "Chủ đề tiếp theo"
+    },
     "No": {
         "message": "Không"
     },
@@ -1134,7 +1166,7 @@
     },
     "No_frames": {
         "message": "Chỉ chạy trong khung trên cùng"
-            },
+    },
     "No_previously_denied_runtime_host_permissions_found": {
         "message": "Không tìm thấy bất kì quyền làm chủ (host permission) thời-gian-chạy bị từ chối trước đó"
     },
@@ -1185,7 +1217,7 @@
         "message": "Một trong số các tập lệnh của bạn bị cho vào danh sách đen. Bạn có muốn biết lí do không?"
     },
     "One_or_more_compatibility_options_are_set": {
-        "message": "Một hoặc nhiều tùy chọn tương thích được thiết lập. Bạn có thể muốn/nên xem lại chúng."
+        "message": "Một hoặc nhiều tuỳ chọn tương thích được thiết lập. Bạn có thể muốn/nên xem lại chúng."
     },
     "Only_Manual": {
         "message": "Chỉ thủ công"
@@ -1238,10 +1270,10 @@
         "message": "Vui lòng gửi một khoản đóng góp"
     },
     "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
-        "message": "Vui lòng bật thống kê ẩn danh và giúp tối ưu hóa tiện ích mở rộng này. Chỉ thu thập dữ liệu kỹ thuật và tương tác với tiện ích mở rộng. Nhấn vào đây để biết thêm thông tin về dữ liệu."
+        "message": "Vui lòng bật thống kê ẩn danh và giúp tối ưu hoá tiện ích mở rộng này. Chỉ thu thập dữ liệu kỹ thuật và tương tác với tiện ích mở rộng. Nhấn vào đây để biết thêm thông tin về dữ liệu."
     },
     "Please_enable_the_allow_userscripts_extension_setting_": {
-        "message": "Vui lòng kích hoạt tùy chọn tiện ích mở rộng `Cho phép tập lệnh người dùng`. Nhấn vào đây để biết thêm thông tin về cách thực hiện."
+        "message": "Vui lòng bật tuỳ chọn `Cho phép tập lệnh người dùng` của phần mở rộng. Nháy vào đây để biết thêm thông tin về cách thực hiện."
     },
     "Please_select_a_file": {
         "message": "Vui lòng chọn một tập tin"
@@ -1260,6 +1292,9 @@
     },
     "Prev_Problem": {
         "message": "Vấn đề trước đó"
+    },
+    "Previous_tab": {
+        "message": "Thẻ trước đó"
     },
     "Process_with_Chrome": {
         "message": "Xử lí bằng trình duyệt"
@@ -1315,7 +1350,7 @@
         "message": "Loại bỏ"
     },
     "Remove_Tag": {
-        "message": "Xóa thẻ"
+        "message": "Xoá thẻ"
     },
     "Remove__possibly_unsecure_": {
         "message": "Loại bỏ hoàn toàn (có thể không bảo mật)"
@@ -1374,6 +1409,9 @@
     },
     "Reset_Section": {
         "message": "Đặt lại"
+    },
+    "Reset_list": {
+        "message": "Đặt lại danh sách"
     },
     "Resources": {
         "message": "Các tài nguyên"
@@ -1535,6 +1573,9 @@
     "Size": {
         "message": "Kích cỡ"
     },
+    "Skip_and_select_next_occurrence": {
+        "message": "Bỏ qua và chọn kết quả kế tiếp"
+    },
     "Skip_timeout__0seconds0_seconds_": {
         "message": "Bỏ qua thời gian chờ ($seconds$ giây)",
         "placeholders": {
@@ -1546,11 +1587,14 @@
     "Smart": {
         "message": "Thông minh"
     },
+    "Smart_Backspace": {
+        "message": "Dấu xoá (backspace) thông minh"
+    },
     "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
         "message": "Một số tập lệnh có thể bị chặn bởi cài đặt JavaScript cho trang này hoặc trình chặn tập lệnh!"
     },
     "Sort": {
-        "message": "Phân loại"
+        "message": "Sắp xếp"
     },
     "Source": {
         "message": "Nguồn"
@@ -1743,7 +1787,7 @@
         "message": "Đây là một tập lệnh người dùng được viết bàng JavaScript."
     },
     "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
-        "message": "Tùy chọn này cho phép trang chủ Tampermonkey và một số trang lưu trữ tập lệnh xác định phiên bản Tampermonkey và một số thông tin tập lệnh cơ bản (đã cài đặt, phiên bản, đã kích hoạt chưa).."
+        "message": "Tuỳ chọn này cho phép trang chủ Tampermonkey và một số trang lưu trữ tập lệnh xác định phiên bản Tampermonkey và một số thông tin tập lệnh cơ bản (đã cài đặt, phiên bản, đã kích hoạt chưa).."
     },
     "This_page_is_blacklisted_at_the_security_settings": {
         "message": "Bị cho vào danh sách đen bởi thiết đặt bảo mật"
@@ -2030,6 +2074,9 @@
         "description": "A question asked by the service bot",
         "message": "Bạn có muốn tìm hiểu cách nhập và xuất các tập lệnh của bạn không?"
     },
+    "Wrap_lines": {
+        "message": "Bọc các dòng"
+    },
     "XHR_Security": {
         "message": "Bảo mật XHR"
     },
@@ -2055,7 +2102,7 @@
         "message": "Cập nhật tập lệnh người dùng"
     },
     "You_can_add_your_custom_CSS_rules_here_": {
-        "message": "Bạn có thể thêm các quy tắc CSS của riêng mình cho giao diện người dùng Tampermonkey tại đây. Trong trường hợp điều này làm hỏng điều gì đó, bạn có thể lấy bố cục mặc định bằng cách thêm ?layout=reset vào đường dẫn trang tùy chọn."
+        "message": "Bạn có thể thêm các quy tắc CSS của riêng mình cho giao diện người dùng Tampermonkey tại đây. Trong trường hợp điều này làm hỏng điều gì đó, bạn có thể lấy bố cục mặc định bằng cách thêm ?layout=reset vào đường dẫn trang tuỳ chọn."
     },
     "You_can_add_your_custom_linter_config_here_": {
         "message": "Bạn có thể thêm cấu hình linter tuỳ chỉnh của bạn vào đây."
@@ -2071,6 +2118,14 @@
     },
     "_not_set_": {
         "message": "<không đặt>"
+    },
+    "by_0name0": {
+        "message": "của $name$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
     },
     "connect_mode": {
         "message": "Kiểm tra @connect"
