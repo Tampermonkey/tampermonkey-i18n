@@ -364,6 +364,9 @@
             }
         }
     },
+    "Click_here_to_allow_TM_to_make_use_of_a_proxy": {
+        "message": "Klik på OK for at give Tampermonkey adgang til en proxy, når GM_xmlhttpRequest kaldes."
+    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Klik på OK for at tillade Tampermonkey at starte øjeblikkelige downloads."
     },
@@ -1221,6 +1224,9 @@
     },
     "Process_with_Chrome": {
         "message": "Lad browseren håndtere"
+    },
+    "Proxy_Permission": {
+        "message": "Proxy tilladelse"
     },
     "Raw_and_JavaScript": {
         "message": "Rå og JavaScript"

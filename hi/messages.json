@@ -287,6 +287,9 @@
     "Clear_All": {
         "message": "सब क्लियर करें"
     },
+    "Click_here_to_allow_TM_to_make_use_of_a_proxy": {
+        "message": "यहाँ क्लिक करें ताकि Tampermonkey एक प्रोक्सी का उपयोग करने में सक्षम हो।"
+    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Tampermonkey तत्काल डाउनलोड शुरू करने की अनुमति देने के लिए क्लिक करें।"
     },
@@ -940,6 +943,9 @@
     },
     "Process_with_Chrome": {
         "message": "ब्राउज़र के साथ प्रक्रिया"
+    },
+    "Proxy_Permission": {
+        "message": "प्रोक्सी प्रवेशदाता"
     },
     "Really_delete_0name0__": {
         "message": "क्या आप वाकई '$name$' को हटाना चाहते हैं?",

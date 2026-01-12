@@ -520,6 +520,9 @@
             }
         }
     },
+    "Click_here_to_allow_TM_to_make_use_of_a_proxy": {
+        "message": "Нажмите OK, чтобы разрешить Tampermonkey использовать прокси при выполнении GM_xmlhttpRequest."
+    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Нажмите ОК, чтобы разрешить Tampermonkey скачивать файлы без запроса."
     },
@@ -1444,6 +1447,9 @@
     },
     "Process_with_Chrome": {
         "message": "Обработка с помощью браузера"
+    },
+    "Proxy_Permission": {
+        "message": "Разрешение на использование прокси"
     },
     "Raw_and_JavaScript": {
         "message": "Raw и JavaScript"

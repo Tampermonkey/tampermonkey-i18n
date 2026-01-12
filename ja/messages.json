@@ -520,6 +520,9 @@
             }
         }
     },
+    "Click_here_to_allow_TM_to_make_use_of_a_proxy": {
+        "message": "Tampermonkey によるプロキシの使用を許可するため OK を押してください。"
+    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Tampermonkey がダウンロードを開始するには OK を押してください。"
     },
@@ -1448,6 +1451,9 @@
     },
     "Process_with_Chrome": {
         "message": "ブラウザーで処理"
+    },
+    "Proxy_Permission": {
+        "message": "プロキシ権限"
     },
     "Raw_and_JavaScript": {
         "message": "Raw と JavaScript"

@@ -294,6 +294,9 @@
     "Clear_All": {
         "message": "Izbriši Sve"
     },
+    "Click_here_to_allow_TM_to_make_use_of_a_proxy": {
+        "message": "Pritisni OK ako želiš da dozvoliš Tampermonkey-u korišćenje proxy-a."
+    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Pritisni OK ako želiš da dozvoliš Tampermonkey-u da automatski pokreće preuzimanja."
     },
@@ -931,6 +934,9 @@
     },
     "Process_with_Chrome": {
         "message": "Proces sa pretraživačem."
+    },
+    "Proxy_Permission": {
+        "message": "Proxy dozvola"
     },
     "Really_delete_0name0__": {
         "message": "Da li ste sigurni da želite da izbrišete '$name$'?",

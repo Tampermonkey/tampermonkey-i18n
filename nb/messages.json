@@ -254,6 +254,9 @@
     "Classic": {
         "message": "Klassisk"
     },
+    "Click_here_to_allow_TM_to_make_use_of_a_proxy": {
+        "message": "Klikk her for å tillate Tampermonkey å bruke en mellomtjener når GM_xmlhttpRequest kalles."
+    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Klikk OK for å tillate Tampermonkey å starte øyeblikkelige nedlastninger."
     },
@@ -724,6 +727,9 @@
     },
     "Process_with_Chrome": {
         "message": "Behandle med nettleseren"
+    },
+    "Proxy_Permission": {
+        "message": "Proxy-tilgangsrettigheter"
     },
     "Really_delete_0name0__": {
         "message": "Vil du virkelig slette '$name$'?",

@@ -398,6 +398,9 @@
             }
         }
     },
+    "Click_here_to_allow_TM_to_make_use_of_a_proxy": {
+        "message": "Nháy OK để cho phép Tampermonkey sử dụng một proxy."
+    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Nháy OK để cho phép Tampermonkey tải xuống ngay lập tức."
     },
@@ -1298,6 +1301,9 @@
     },
     "Process_with_Chrome": {
         "message": "Xử lí bằng trình duyệt"
+    },
+    "Proxy_Permission": {
+        "message": "Quyền làm chủ proxy"
     },
     "Raw_and_JavaScript": {
         "message": "Thô và JavaScript"

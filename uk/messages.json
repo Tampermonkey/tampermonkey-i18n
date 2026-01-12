@@ -420,6 +420,9 @@
             }
         }
     },
+    "Click_here_to_allow_TM_to_make_use_of_a_proxy": {
+        "message": "Натисніть ОК, щоб дозволити Tampermonkey використовувати проксі-сервер при здійсненні запиту GM_xmlhttpRequest."
+    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Натисніть ОК, щоб дозволити Tampermonkey завантажувати файли без запиту."
     },
@@ -1329,6 +1332,9 @@
     },
     "Process_with_Chrome": {
         "message": "Обробка в браузері"
+    },
+    "Proxy_Permission": {
+        "message": "Дозволити проксі"
     },
     "Raw_and_JavaScript": {
         "message": "Raw та JavaScript"

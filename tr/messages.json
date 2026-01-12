@@ -399,6 +399,9 @@
             }
         }
     },
+    "Click_here_to_allow_TM_to_make_use_of_a_proxy": {
+        "message": "Lütfen Tamam'a tıklayarak Tampermonkey'in bir proxy kullanmasına izin verin."
+    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Tampermonkey'in anında indirmeye başlamasına izin vermek için Tamam'a tıklayın."
     },
@@ -1154,6 +1157,9 @@
     },
     "Process_with_Chrome": {
         "message": "Tarayıcı ile işle"
+    },
+    "Proxy_Permission": {
+        "message": "Vekil sunucu izni"
     },
     "Really_delete_0name0__": {
         "message": "'$name$' betiğini silmek istediğinizden emin misiniz?",

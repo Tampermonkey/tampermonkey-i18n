@@ -520,6 +520,9 @@
             }
         }
     },
+    "Click_here_to_allow_TM_to_make_use_of_a_proxy": {
+        "message": "Por favor, haz clic en Aceptar para permitir que Tampermonkey utilice un proxy cuando se haga una llamada a GM_xmlhttpRequest."
+    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Haz clic en Aceptar para permitir que Tampermonkey inicie descargas instantáneas."
     },
@@ -1448,6 +1451,9 @@
     },
     "Process_with_Chrome": {
         "message": "Procesar con el navegador"
+    },
+    "Proxy_Permission": {
+        "message": "Permiso de proxy"
     },
     "Raw_and_JavaScript": {
         "message": "Raw y JavaScript"

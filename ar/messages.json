@@ -350,6 +350,9 @@
             }
         }
     },
+    "Click_here_to_allow_TM_to_make_use_of_a_proxy": {
+        "message": "انقر هنا للسماح لـ Tampermonkey باستخدام وكيل."
+    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "انقر فوق \"موافق\" للسماح لـ Tampermonkey ببدء التنزيلات الفورية."
     },
@@ -1041,6 +1044,9 @@
     },
     "Process_with_Chrome": {
         "message": "معالجة باستخدام المتصفح"
+    },
+    "Proxy_Permission": {
+        "message": "!السماح بالوصول إلى المواقع عبر الوكيل"
     },
     "Really_delete_0name0__": {
         "message": "؟'$name$' أترغب بالتأكيد  من حذف",

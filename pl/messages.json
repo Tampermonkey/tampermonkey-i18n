@@ -266,6 +266,9 @@
     "Classic": {
         "message": "Klasyczne"
     },
+    "Click_here_to_allow_TM_to_make_use_of_a_proxy": {
+        "message": "Kliknij OK, by pozwolić rozszerzeniu Tampermonkey na używanie proxy."
+    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Kliknij OK, by pozwolić rozszerzeniu Tampermonkey na rozpoczynanie natychmiastowych pobierań."
     },
@@ -774,6 +777,9 @@
     },
     "Process_with_Chrome": {
         "message": "Przetwórz z przeglądarką"
+    },
+    "Proxy_Permission": {
+        "message": "Uprawnienia proxy"
     },
     "Really_delete_0name0__": {
         "message": "Czy na pewno chcesz usunąć '$name$' ?",

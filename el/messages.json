@@ -399,6 +399,9 @@
             }
         }
     },
+    "Click_here_to_allow_TM_to_make_use_of_a_proxy": {
+        "message": "Πατήστε Εντάξει ώστε να επιτρέπεται στο Tampermonkey να χρησιμοποιήσει πρώτους."
+    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Πατήστε Εντάξει ώστε να επιτρέπεται στο Tampermonkey να εκκινεί τις άμεσες λήψεις."
     },
@@ -1154,6 +1157,9 @@
     },
     "Process_with_Chrome": {
         "message": "Διαδικασία με τον φυλλομετρητή"
+    },
+    "Proxy_Permission": {
+        "message": "Δίκαιο Πρόξυ"
     },
     "Really_delete_0name0__": {
         "message": "Θέλετε να διαγράψετε το «$name$»;",

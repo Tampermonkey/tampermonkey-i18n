@@ -336,6 +336,9 @@
     "Clear_All": {
         "message": "Alles verwijderen"
     },
+    "Click_here_to_allow_TM_to_make_use_of_a_proxy": {
+        "message": "Klik hier om Tampermonkey toegang te geven tot een proxy bij het uitvoeren van GM_xmlhttpRequest-aanroepen."
+    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Klik op OK om Tampermonkey toe te staan om downloads meteen te starten."
     },
@@ -1003,6 +1006,9 @@
     },
     "Process_with_Chrome": {
         "message": "Uitvoeren met de browser"
+    },
+    "Proxy_Permission": {
+        "message": "Proxy-permissie"
     },
     "Really_delete_0name0__": {
         "message": "Wilt u '$name$' echt verwijderen?",

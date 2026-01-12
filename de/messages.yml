@@ -260,6 +260,9 @@ Click_here_to_allow_TM_to_access_the_following_hosts_0hostlist0:
   placeholders:
     hostlist:
       content: $1
+Click_here_to_allow_TM_to_make_use_of_a_proxy:
+  message: |-
+    Ein Klick auf 'OK' erlaubt Tampermonkey die Nutzung eines Proxys für GM_xmlhttpRequests.
 Click_here_to_allow_TM_to_start_downloads:
   message: Ein Klick auf 'OK' erlaubt Tampermonkey bzw. den Userscripts sofort startende Downloads.
 Click_here_to_install_it_:
@@ -740,6 +743,8 @@ Press_ctrl_to_toggle_all_checkboxes:
   message: Halten Sie Strg/Cmd gedrückt, um alle Kontrollkästchen zu ändern
 Process_with_Chrome:
   message: An den Browser übergeben
+Proxy_Permission:
+  message: Proxy-Berechtigung
 Raw_and_JavaScript:
   message: Raw- und JavaScript-Modus
 Really_delete_0name0__:

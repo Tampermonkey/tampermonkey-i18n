@@ -405,6 +405,9 @@
             }
         }
     },
+    "Click_here_to_allow_TM_to_make_use_of_a_proxy": {
+        "message": "Ве молиме кликнете OK за да дозволите на Tampermonkey да го користи проксиот кога ќе прави GM_xmlhttpRequest повикувања."
+    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Кликнете OK да дозволите Tampermonkey да почнува инстантни преземања."
     },
@@ -1244,6 +1247,9 @@
     },
     "Process_with_Chrome": {
         "message": "Процесирај со пребарувачот"
+    },
+    "Proxy_Permission": {
+        "message": "Прокси дозвола"
     },
     "Raw_and_JavaScript": {
         "message": "Текст и JavaScript"

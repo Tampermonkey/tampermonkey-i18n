@@ -245,6 +245,9 @@
     "Classic": {
         "message": "Klasický"
     },
+    "Click_here_to_allow_TM_to_make_use_of_a_proxy": {
+        "message": "Kliknite sem, aby mohol Tampermonkey použiť proxy server."
+    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Kliknite na OK, aby mohol Tampermonkey okamžite sťahovať súbory."
     },
@@ -691,6 +694,9 @@
     },
     "Process_with_Chrome": {
         "message": "Spracovať Chromom"
+    },
+    "Proxy_Permission": {
+        "message": "Prístup k proxy serveru"
     },
     "Really_delete_0name0__": {
         "message": "Naozaj chcete zmazať '$name$'?",

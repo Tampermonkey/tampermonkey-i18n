@@ -520,6 +520,9 @@
             }
         }
     },
+    "Click_here_to_allow_TM_to_make_use_of_a_proxy": {
+        "message": "Click OK to allow Tampermonkey to make use of a proxy."
+    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Click OK to allow Tampermonkey to start instant downloads."
     },
@@ -1448,6 +1451,9 @@
     },
     "Process_with_Chrome": {
         "message": "Process with the browser"
+    },
+    "Proxy_Permission": {
+        "message": "Proxy Permission"
     },
     "Raw_and_JavaScript": {
         "message": "Raw and JavaScript"

@@ -438,6 +438,9 @@
             }
         }
     },
+    "Click_here_to_allow_TM_to_make_use_of_a_proxy": {
+        "message": "點選「OK」以同意篡改猴使用代理伺服器。"
+    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "點選此處以允許篡改猴開始下載。"
     },
@@ -1347,6 +1350,9 @@
     },
     "Process_with_Chrome": {
         "message": "用瀏覽器執行"
+    },
+    "Proxy_Permission": {
+        "message": "代理權限"
     },
     "Raw_and_JavaScript": {
         "message": "Raw 和 JavaScript"

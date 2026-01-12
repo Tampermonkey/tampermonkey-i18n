@@ -166,6 +166,9 @@
     "Check_interval": {
         "message": "Interval Pemeriksaan"
     },
+    "Click_here_to_allow_TM_to_make_use_of_a_proxy": {
+        "message": "Klik OKE untuk mengizinkan Tampermonkey menggunakan proxy."
+    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Klik OKE untuk mengizinkan Tampermonkey memulai unduh instan."
     },

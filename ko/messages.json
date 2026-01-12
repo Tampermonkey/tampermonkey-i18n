@@ -248,6 +248,9 @@
     "Classic": {
         "message": "클래식"
     },
+    "Click_here_to_allow_TM_to_make_use_of_a_proxy": {
+        "message": "확인을 눌러 Tampermonkey가 프록시를 사용할 수 있도록 허용하세요."
+    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "확인을 눌러 Tampermonkey가 즉시 다운로드를 시작할 수 있도록 허용하세요."
     },
@@ -721,6 +724,9 @@
     },
     "Process_with_Chrome": {
         "message": "Chrome과 함께 실행"
+    },
+    "Proxy_Permission": {
+        "message": "프록시 권한"
     },
     "Really_delete_0name0__": {
         "message": "'$name$'를 정말로 삭제하시겠습니까?",

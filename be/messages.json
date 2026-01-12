@@ -520,6 +520,9 @@
             }
         }
     },
+    "Click_here_to_allow_TM_to_make_use_of_a_proxy": {
+        "message": "Націсніце OK, каб дазволіць Tampermonkey выкарыстоўваць прыстарай сэрвэра."
+    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Націсніце ОК, каб дазволіць Tampermonkey пачынаць імгненнае спампоўванне"
     },
@@ -1448,6 +1451,9 @@
     },
     "Process_with_Chrome": {
         "message": "Апрацаваць з дапамогай браўзера"
+    },
+    "Proxy_Permission": {
+        "message": "Дазволіць проксі"
     },
     "Raw_and_JavaScript": {
         "message": "Raw і JavaScript"

@@ -190,6 +190,9 @@
     "Classic": {
         "message": "Klasszikus"
     },
+    "Click_here_to_allow_TM_to_make_use_of_a_proxy": {
+        "message": "Kattints ide a Tampermonkey proxy használatának engedélyezéséhez."
+    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Az OK-ra kattintás engedélyezi a Tampermonkey instant letöltés funkcióját."
     },
@@ -583,6 +586,9 @@
     },
     "Process_with_Chrome": {
         "message": "Chrome-al való feldolgozás"
+    },
+    "Proxy_Permission": {
+        "message": "Proxy engedélyezés"
     },
     "Really_delete_0name0__": {
         "message": "Biztosan törölni akarod a '$name$' -t?",

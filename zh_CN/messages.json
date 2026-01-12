@@ -414,6 +414,9 @@
             }
         }
     },
+    "Click_here_to_allow_TM_to_make_use_of_a_proxy": {
+        "message": "点击“确定”允许篡改猴使用代理。"
+    },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "点击“确定”允许篡改猴立即开始下载。"
     },
@@ -1195,6 +1198,9 @@
     },
     "Process_with_Chrome": {
         "message": "安装到浏览器"
+    },
+    "Proxy_Permission": {
+        "message": "代理权限"
     },
     "Really_delete_0name0__": {
         "message": "确定删除“$name$”？",
