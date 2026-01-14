@@ -521,7 +521,7 @@
         }
     },
     "Click_here_to_allow_TM_to_make_use_of_a_proxy": {
-        "message": "Seleziona 'OK' per permettere a TamperMonkey di utilizzare un proxy quando viene richiamata la funzione GM_xmlhttpRequest."
+        "message": "Seleziona 'OK' per permettere a TamperMonkey di usare un proxy quando viene richiamata la funzione GM_xmlhttpRequest."
     },
     "Click_here_to_allow_TM_to_start_downloads": {
         "message": "Seleziona 'OK' per permettere a Tampermonkey di avviare download immediati."
