@@ -182,7 +182,7 @@
         "message": "5 דקות"
     },
     "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-        "message": "ייתכן שיידרש בדיקה מחדש של אפשרויות התאימות של GreaseMonkey/FF כדי להריץ סקריפט זה."
+        "message": "ייתכן שתידרש בדיקה מחדש של אפשרויות התאימות של GreaseMonkey/FF כדי להריץ סקריפט זה."
     },
     "A_reload_is_required": {
         "message": "נדרשת טעינה מחדש: \nכל השינויים שלא נשמרו יאבדו!"
@@ -507,7 +507,7 @@
         "message": "קלאסי"
     },
     "Clean_after_session": {
-        "message": "נקה לאחר הפגישה"
+        "message": "נקה לאחר סיום הסשן"
     },
     "Clear_All": {
         "message": "נקה הכל"
@@ -539,7 +539,7 @@
         "message": "סגור"
     },
     "Closing_Bracket": {
-        "message": "סוגר סוגר"
+        "message": "סוגר סגירה"
     },
     "Cloud": {
         "message": "ענן"
@@ -2257,7 +2257,7 @@
         "message": "דפים ברשימה לבנה"
     },
     "Windows": {
-        "message": "חלונות"
+        "message": "Windows"
     },
     "Would_you_like_to_know_how_to_overwrite_or_extend_a_script_s_includes_and_or_excludes_": {
         "description": "A question asked by the service bot",
@@ -2268,7 +2268,7 @@
         "message": "רוצה ללמוד איך לייצא ולייבא את הסקריפטים שלך?"
     },
     "Wrap_lines": {
-        "message": "גלוש שורות"
+        "message": "גלישת שורות"
     },
     "XHR_Security": {
         "message": "אבטחת XHR"
