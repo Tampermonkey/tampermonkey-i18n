@@ -1,0 +1,2388 @@
+{
+    "extName": {
+        "message": "Tampermonkey"
+    },
+    "extNameBeta": {
+        "message": "Tampermonkey BETA"
+    },
+    "extNameLegacy": {
+        "message": "Tampermonkey Legacy"
+    },
+    "extNameClassic": {
+        "message": "Tampermonkey Classic"
+    },
+    "extShortName": {
+        "message": "Tampermonkey"
+    },
+    "extShortNameBeta": {
+        "message": "TM BETA"
+    },
+    "extShortNameLegacy": {
+        "message": "TM Legacy"
+    },
+    "extShortNameClassic": {
+        "message": "TM Classic"
+    },
+    "extDescription": {
+        "message": "שנה את האינטרנט כרצונך עם סקריפטים"
+    },
+    "1": {
+        "message": "1"
+    },
+    "2": {
+        "message": "2"
+    },
+    "3": {
+        "message": "3"
+    },
+    "4": {
+        "message": "4"
+    },
+    "5": {
+        "message": "5"
+    },
+    "6": {
+        "message": "6"
+    },
+    "7": {
+        "message": "7"
+    },
+    "8": {
+        "message": "8"
+    },
+    "9": {
+        "message": "9"
+    },
+    "10": {
+        "message": "10"
+    },
+    "11": {
+        "message": "11"
+    },
+    "0count0_changes_exported": {
+        "message": "$count$ שינויים יוצאו",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "0count0_changes_imported": {
+        "message": "$count$ שינויים יובאו",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "0count0_errors_or_hints_were_found_": {
+        "message": "נמצאו $count$ שגיאות או רמזים.",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
+        "message": "$name$ $version$ זמין.\nאנא הפעל מחדש את הדפדפן כדי לעדכן!",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "version": {
+                "content": "$2"
+            }
+        }
+    },
+    "0name0_Your_service_bot": {
+        "message": "$name$ - הבוט שלך לשירותך",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_Bytes": {
+        "message": "$number$ B",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_GB": {
+        "message": "$number$ GB",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_KB": {
+        "message": "$number$ KB",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_MB": {
+        "message": "$number$ MB",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_TB": {
+        "message": "$number$ TB",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_days": {
+        "message": "$number$ ימים",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_hours": {
+        "message": "$number$ שעות",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_minutes": {
+        "message": "$number$ דקות",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "15_Seconds": {
+        "message": "15 שניות"
+    },
+    "1_Hour": {
+        "message": "שעה אחת"
+    },
+    "1_Minute": {
+        "message": "דקה אחת"
+    },
+    "30_Seconds": {
+        "message": "30 שניות"
+    },
+    "5_Minutes": {
+        "message": "5 דקות"
+    },
+    "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
+        "message": "ייתכן שתידרש בדיקה מחדש של אפשרויות התאימות של GreaseMonkey/FF כדי להריץ סקריפט זה."
+    },
+    "A_reload_is_required": {
+        "message": "נדרשת טעינה מחדש: \nכל השינויים שלא נשמרו יאבדו!"
+    },
+    "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
+        "message": "בקשה למשאב ממקור אחר היא דבר רגיל.\nעליך רק לבדוק האם לסקריפט זה יש סיבה טובה לגשת לדומיין זה.\nלדוגמה, יש מעט מאוד סיבות לסקריפט ליצור קשר עם הבנק שלך.\n\nשים לב שמחברי סקריפטים יכולים למנוע דיאלוג זה על ידי הוספת [url=$connect$]תגיות @connect[/url] לסקריפטים שלהם.\n\nלא משנה מה תחליט, תוכל לשנות את דעתך בכל עת ב[url=$settings$]לשונית ההגדרות[/url] של הסקריפט.",
+        "placeholders": {
+            "connect": {
+                "content": "$1"
+            },
+            "settings": {
+                "content": "$2"
+            }
+        }
+    },
+    "A_userscript_wants_to_access_a_cross_origin_resource_": {
+        "message": "סקריפט מבקש גישה למשאב ממקור אחר."
+    },
+    "Aborted_by_user": {
+        "message": "בוטל על ידי המשתמש"
+    },
+    "Action": {
+        "message": "פעולה"
+    },
+    "Action_Menu": {
+        "message": "תפריט פעולות"
+    },
+    "Action_failed": {
+        "message": "הפעולה נכשלה"
+    },
+    "Actions": {
+        "message": "פעולות"
+    },
+    "Add": {
+        "message": "הוסף"
+    },
+    "Add_GM_functions_to_this_or_window": {
+        "message": "הוסף פונקציות GM ל-this או window"
+    },
+    "Add_Selection_Above": {
+        "message": "הוסף בחירה למעלה"
+    },
+    "Add_Selection_Below": {
+        "message": "הוסף בחירה למטה"
+    },
+    "Add_TM_to_CSP": {
+        "message": "שנה כותרות אבטחת תוכן (CSP) קיימות"
+    },
+    "Add_Tag": {
+        "message": "הוסף תגית"
+    },
+    "Add_Tag_to_System": {
+        "message": "הוסף תגית לרשימת המערכת"
+    },
+    "Add_Tampermonkey_to_the_site_s_content_csp": {
+        "message": "הוסף את Tampermonkey ל-CSP של ה-HTML"
+    },
+    "Add_as_0clude0": {
+        "message": "הוסף כ-$clude$",
+        "placeholders": {
+            "clude": {
+                "content": "$1"
+            }
+        }
+    },
+    "Add_cursor_to_next_line": {
+        "message": "הוסף סמן לשורה הבאה"
+    },
+    "Add_cursor_to_prev_line": {
+        "message": "הוסף סמן לשורה הקודמת"
+    },
+    "Add_new_script___": {
+        "message": "צור סקריפט חדש..."
+    },
+    "Add_to_icon_badge_text": {
+        "message": "הוסף לטקסט תג האייקון"
+    },
+    "Advanced": {
+        "message": "מתקדם"
+    },
+    "All": {
+        "message": "הכל"
+    },
+    "All_but_HttpOnly": {
+        "message": "הכל חוץ מעוגיות מוגנות (HttpOnly)"
+    },
+    "All_local_files": {
+        "message": "כל הקבצים המקומיים"
+    },
+    "All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_": {
+        "message": "כל השינויים נשמרים רק לרגעים ספורים. הגדר מחדש את האפשרות '$name$' כדי לשמור אותם לצמיתות.",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "All_script_settings_will_be_reset_": {
+        "message": "כל הגדרות הסקריפט יאופסו!"
+    },
+    "All_tabs": {
+        "message": "כל הלשוניות"
+    },
+    "Allow_Tampermonkey_to_collect_anonymous_statistics": {
+        "message": "אפשר ל-Tampermonkey לאסוף סטטיסטיקות אנונימיות באמצעות התקנת Matomo עצמאית. זה עוזר לי לשפר את Tampermonkey ולקבוע על אילו קריטריונים עלי להתמקד בפיתוח. פשוט השבת אם אתה לא אוהב את זה."
+    },
+    "Allow_communication_with_cooperate_pages": {
+        "message": "אפשר תקשורת עם דפי שיתוף פעולה"
+    },
+    "Allow_headers_to_be_modified_by_scripts": {
+        "message": "אפשר לסקריפטים לשנות כותרות HTTP"
+    },
+    "Allow_once": {
+        "message": "אפשר פעם אחת"
+    },
+    "Allow_scripts_to_run_scripts_in": {
+        "message": "סוגי לשוניות ברירת מחדל להרצת סקריפטים"
+    },
+    "Alltime_running_instances": {
+        "message": "סה\"כ מופעים שרצו"
+    },
+    "Always": {
+        "message": "תמיד"
+    },
+    "Always_allow": {
+        "message": "אפשר תמיד"
+    },
+    "Always_allow_all_domains": {
+        "message": "אפשר תמיד את כל הדומיינים"
+    },
+    "Always_allow_domain": {
+        "message": "אפשר תמיד דומיין"
+    },
+    "Always_ask": {
+        "message": "שאל תמיד"
+    },
+    "Always_forbid": {
+        "message": "אסור תמיד"
+    },
+    "Always_forbid_domain": {
+        "message": "אסור תמיד דומיין"
+    },
+    "An_error_occured_during_import_": {
+        "message": "אירעה שגיאה במהלך הייבוא."
+    },
+    "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
+        "message": "אירעה שגיאה פנימית. אם הבעיה נמשכת גם לאחר הפעלה מחדש של הדפדפן, לחץ אישור ודווח על הבעיה בפורום.\n\nהאם תרצה לבקר בפורום של Tampermonkey?"
+    },
+    "Anonymous_statistics": {
+        "message": "סטטיסטיקות אנונימיות"
+    },
+    "Antifeature__0name0__0description0": {
+        "message": "מכיל $name$: $description$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "description": {
+                "content": "$2"
+            }
+        }
+    },
+    "Antifeature_ads": {
+        "message": "פרסומות"
+    },
+    "Antifeature_miner": {
+        "message": "כריית קריפטו"
+    },
+    "Antifeature_no_details": {
+        "message": "לא ניתנו פרטים"
+    },
+    "Antifeature_other": {
+        "message": "תכונה לא רצויה"
+    },
+    "Antifeature_tracking": {
+        "message": "מעקב"
+    },
+    "Appearance": {
+        "message": "מראה"
+    },
+    "Apply_compatibility_options_to_required_script_too": {
+        "message": "החל אפשרויות תאימות גם על סקריפטי @require"
+    },
+    "Apply_this_action_to_the_selected_scripts": {
+        "message": "החל על כל הסקריפטים שנבחרו"
+    },
+    "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
+        "message": "כאשר Tampermonkey מתעדכן על ידי הדפדפן הוא גם מופעל מחדש. לצערי זה עלול לשבור סקריפטים פועלים!\n\nאז האם אתה בטוח שאתה לא רוצה לקבל התראות על עדכונים?"
+    },
+    "Are_you_unsure_about_what__sandbox_value_to_use_": {
+        "description": "A question asked by the service bot",
+        "message": "לא בטוח איזה ערך @sandbox להשתמש?"
+    },
+    "Ask_if_unknown": {
+        "message": "שאל אם לא ידוע"
+    },
+    "At_least_one_new_connect_statement_was_added_": {
+        "message": "לפחות הצהרת @connect אחת נוספה."
+    },
+    "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
+        "message": "לפחות הצהרת @include, @match או @exclude אחת שונתה."
+    },
+    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
+        "message": "לפחות חלק אחד מדף זה אסור על ידי הגדרה!"
+    },
+    "Attention_Can_not_display_all_excludes_": {
+        "message": "שים לב: רשימת ההחרגות קוצרה.\nאנא בדוק אותה ידנית!"
+    },
+    "Attention_Can_not_display_all_includes_": {
+        "message": "שים לב: רשימת ההכללות קוצרה.\nאנא בדוק אותה ידנית!"
+    },
+    "Author": {
+        "message": "מחבר"
+    },
+    "Auto": {
+        "message": "אוטומטי"
+    },
+    "Auto_Indent_all": {
+        "message": "הזחה אוטומטית לכל"
+    },
+    "Auto_reload_on_script_enabled": {
+        "message": "טעינה מחדש אוטומטית של דפים"
+    },
+    "Auto_reload_on_script_enabled_desc": {
+        "message": "טען מחדש דפים מושפעים כאשר סקריפט מופעל או מושבת"
+    },
+    "Auto_syntax_check_max_length": {
+        "message": "גודל מקסימלי לבדיקת תחביר אוטומטית"
+    },
+    "Auto_syntax_check_on_typing": {
+        "message": "בדיקת תחביר אוטומטית בעת הקלדה"
+    },
+    "Autocomplete": {
+        "message": "השלמה אוטומטית"
+    },
+    "Automatically_added_user_includes_for_compatibility_reasons_": {
+        "message": "כמה הכללות משתמש נוספו אוטומטית מסיבות תאימות!"
+    },
+    "Back_or_close": {
+        "message": "חזור או סגור"
+    },
+    "Beginner": {
+        "message": "מתחיל"
+    },
+    "BlackCheck": {
+        "message": "בדיקת רשימה שחורה"
+    },
+    "Blacklist": {
+        "message": "רשימה שחורה"
+    },
+    "Blacklist_0domain0": {
+        "message": "אל תריץ על $domain$",
+        "placeholders": {
+            "domain": {
+                "content": "$1"
+            }
+        }
+    },
+    "Blacklist_Severity": {
+        "message": "חסום מרמת חומרה"
+    },
+    "Blacklisted_Pages": {
+        "message": "דפים ברשימה שחורה"
+    },
+    "Bookmarks": {
+        "message": "סימניות"
+    },
+    "Both": {
+        "message": "שניהם"
+    },
+    "Browser_API": {
+        "message": "API דפדפן"
+    },
+    "Browser_API_Downloads": {
+        "message": "הורדות API דפדפן"
+    },
+    "Browser_Sync": {
+        "message": "סנכרון דפדפן"
+    },
+    "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
+        "message": "התנגשות:\nסקריפט זה שונה על ידי לשונית אחרת לפני $t$ שניות!",
+        "placeholders": {
+            "t": {
+                "content": "$1"
+            }
+        }
+    },
+    "Cancel": {
+        "message": "ביטול"
+    },
+    "Casual": {
+        "message": "מזדמן"
+    },
+    "Center_Cursor": {
+        "message": "מרכז סמן"
+    },
+    "Changelog": {
+        "message": "יומן שינויים"
+    },
+    "Changes": {
+        "message": "שינויים"
+    },
+    "Changes_the_number_of_visible_config_options": {
+        "message": "משנה את מספר אפשרויות התצורה הנראות"
+    },
+    "Check_disabled_scripts": {
+        "message": "עדכן סקריפטים מושבתים"
+    },
+    "Check_for_Updates": {
+        "message": "בדוק עדכונים"
+    },
+    "Check_for_userscripts_updates": {
+        "message": "בדוק עדכוני סקריפטים"
+    },
+    "Check_interval": {
+        "message": "מרווח בדיקה"
+    },
+    "Check_only_scripts_up_to_this_size_automatically_": {
+        "message": "בדוק אוטומטית רק סקריפטים עד גודל זה."
+    },
+    "Classic": {
+        "message": "קלאסי"
+    },
+    "Clean_after_session": {
+        "message": "נקה לאחר סיום הסשן"
+    },
+    "Clear_All": {
+        "message": "נקה הכל"
+    },
+    "Click_here_to_allow_TM_to_access_the_following_hosts_0hostlist0": {
+        "message": "לחץ אישור כדי לאפשר ל-Tampermonkey גישה למארחים הבאים:\n\n$hostlist$",
+        "placeholders": {
+            "hostlist": {
+                "content": "$1"
+            }
+        }
+    },
+    "Click_here_to_allow_TM_to_make_use_of_a_proxy": {
+        "message": "לחץ אישור כדי לאפשר ל-Tampermonkey להשתמש בפרוקסי."
+    },
+    "Click_here_to_allow_TM_to_start_downloads": {
+        "message": "לחץ אישור כדי לאפשר ל-Tampermonkey להתחיל הורדות מיידיות."
+    },
+    "Click_here_to_install_it_": {
+        "message": "לחץ כאן להתקנה."
+    },
+    "Click_here_to_move_this_script": {
+        "message": "לחץ כאן להזיז סקריפט זה"
+    },
+    "Click_here_to_see_the_recent_changes": {
+        "message": "לחץ כאן לראות שינויים אחרונים"
+    },
+    "Close": {
+        "message": "סגור"
+    },
+    "Closing_Bracket": {
+        "message": "סוגר סגירה"
+    },
+    "Cloud": {
+        "message": "ענן"
+    },
+    "Columns": {
+        "message": "עמודות"
+    },
+    "Comment": {
+        "message": "הערה"
+    },
+    "Config_Mode": {
+        "message": "מצב תצורה"
+    },
+    "Configures_which_sandbox_values_are_valid": {
+        "message": "מגדיר אילו ערכי @sandbox תקפים"
+    },
+    "Content_Script": {
+        "message": "סקריפט תוכן"
+    },
+    "Content_Script_API": {
+        "message": "API סקריפט תוכן"
+    },
+    "Context_Menu": {
+        "message": "תפריט הקשר"
+    },
+    "Controls_how_deleted_scripts_are_handled__0enabled0_moves_scripts_to_a_virtual_trash__0disabled0_permanently_deletes_scripts__0cleanAfterSession0_automatically_deletes_all_on_session_end_": {
+        "message": "שולט כיצד מטופלים סקריפטים שנמחקו. '$enabled$' מעביר סקריפטים לאשפה וירטואלית לשחזור אפשרי. '$disabled$' מוחק סקריפטים לצמיתות לאחר אישור. '$cleanAfterSession$' מרוקן אוטומטית את האשפה לאחר סיום הפגישה.",
+        "placeholders": {
+            "enabled": {
+                "content": "$1"
+            },
+            "disabled": {
+                "content": "$2"
+            },
+            "cleanAfterSession": {
+                "content": "$3"
+            }
+        }
+    },
+    "Convert_CDATA_sections_into_a_chrome_compatible_format": {
+        "message": "המר קטעי CDATA לפורמט תואם דפדפן"
+    },
+    "Copy": {
+        "message": "העתק"
+    },
+    "Cross_Origin_Request_Permission": {
+        "message": "הרשאת בקשה ממקור אחר"
+    },
+    "Current_Version": {
+        "message": "גרסה נוכחית"
+    },
+    "Cursor": {
+        "message": "סמן"
+    },
+    "Custom_CSS": {
+        "message": "CSS מותאם אישית"
+    },
+    "Custom_Linter_Config": {
+        "message": "תצורת Linter מותאמת אישית"
+    },
+    "Cut": {
+        "message": "גזור"
+    },
+    "DOM_mode_is_unsecure__Scripts_can_install_new_scripts_": {
+        "message": "מצב \"DOM\" של sandbox אינו מאובטח. סקריפטים פועלים יש להם הרשאות תוסף כמעט מלאות ויכולים אפילו לשנות ולהתקין סקריפטים חדשים."
+    },
+    "Dashboard": {
+        "message": "לוח בקרה"
+    },
+    "Debug": {
+        "message": "ניפוי"
+    },
+    "Debug_scripts": {
+        "message": "נפה סקריפטים"
+    },
+    "Decoding": {
+        "message": "מפענח..."
+    },
+    "Default": {
+        "message": "ברירת מחדל"
+    },
+    "Default_Dark": {
+        "message": "ברירת מחדל - כהה"
+    },
+    "Default_Darker": {
+        "message": "ברירת מחדל - כהה יותר"
+    },
+    "Default_Light": {
+        "message": "ברירת מחדל - בהיר"
+    },
+    "Delete": {
+        "message": "מחק"
+    },
+    "Delete_Line": {
+        "message": "מחק שורה"
+    },
+    "Delete_Line_Left": {
+        "message": "מחק שורה שמאלה"
+    },
+    "Delete_Line_Right": {
+        "message": "מחק שורה ימינה"
+    },
+    "Delete_all": {
+        "message": "מחק הכל"
+    },
+    "Delete_to_Next_Word_Boundary": {
+        "message": "מחק עד גבול המילה הבאה"
+    },
+    "Delete_to_Previous_Word_Boundary": {
+        "message": "מחק עד גבול המילה הקודמת"
+    },
+    "Delete_to_Sublime_Mark": {
+        "message": "מחק עד סימן Sublime"
+    },
+    "Deleted_on": {
+        "message": "נמחק ב"
+    },
+    "Description": {
+        "message": "תיאור"
+    },
+    "Destination_URL": {
+        "message": "כתובת URL יעד"
+    },
+    "Destination_domain": {
+        "message": "דומיין יעד"
+    },
+    "Details": {
+        "message": "פרטים"
+    },
+    "Developer": {
+        "message": "מפתח"
+    },
+    "Developer_Mode": {
+        "message": "מצב מפתח"
+    },
+    "Disable": {
+        "message": "השבת"
+    },
+    "Disable_Updates": {
+        "message": "השבת עדכונים"
+    },
+    "Disable_all_remaining_scripts_of_this_tag": {
+        "message": "לחץ להשבתת כל הסקריפטים הנותרים של תגית זו"
+    },
+    "Disable_all_scripts_of_this_tag": {
+        "message": "לחץ להשבתת כל הסקריפטים של תגית זו"
+    },
+    "Disabled": {
+        "message": "מושבת"
+    },
+    "Do_you_need_help_finding_Tampermonkey_s_console_output_": {
+        "description": "A question asked by the service bot",
+        "message": "צריך עזרה במציאת פלט המסוף של Tampermonkey?"
+    },
+    "Do_you_need_help_installing_new_scripts_to_Tampermonkey_": {
+        "description": "A question asked by the service bot",
+        "message": "צריך עזרה בהתקנת סקריפטים חדשים ל-Tampermonkey?"
+    },
+    "Do_you_need_help_syncing_all_your_installed_scripts_to_another_browser_": {
+        "description": "A question asked by the service bot",
+        "message": "צריך עזרה בסנכרון כל הסקריפטים המותקנים לדפדפן אחר?"
+    },
+    "Do_you_need_help_viewing_and_editing_values_stored_by_a_userscript_": {
+        "description": "A question asked by the service bot",
+        "message": "צריך עזרה בצפייה ועריכת ערכים שנשמרו על ידי סקריפט?"
+    },
+    "Do_you_need_help_working_with_Tampermonkey_": {
+        "description": "A question asked by the service bot",
+        "message": "צריך עזרה בעבודה עם Tampermonkey?"
+    },
+    "Do_you_really_want_to_store_fixed_code_": {
+        "message": "האפשרות '$option$' מופעלת!\n\nהאם אתה באמת רוצה לשמור את הקוד המתוקן?",
+        "placeholders": {
+            "option": {
+                "content": "$1"
+            }
+        }
+    },
+    "Do_you_want_to_know_how_to_allow_Tampermonkey_access_to_local_file_URIs_": {
+        "description": "A question asked by the service bot",
+        "message": "רוצה לדעת איך לאפשר ל-Tampermonkey גישה לכתובות קבצים מקומיים?"
+    },
+    "Do_you_want_to_use_an_external_editor_to_edit_your_scripts__nWould_you_like_to_know_how_to_set_this_up_": {
+        "description": "A question asked by the service bot",
+        "message": "רוצה להשתמש בעורך חיצוני לעריכת הסקריפטים שלך?\nרוצה לדעת איך להגדיר זאת?"
+    },
+    "Document_End": {
+        "message": "סוף מסמך"
+    },
+    "Document_Start": {
+        "message": "תחילת מסמך"
+    },
+    "Does_not_run_in_incognito_tabs": {
+        "message": "לא רץ בלשוניות גלישה פרטית"
+    },
+    "Does_not_run_in_normal_tabs": {
+        "message": "לא רץ בלשוניות רגילות"
+    },
+    "Dont_ask_again": {
+        "message": "אל תשאל שוב"
+    },
+    "Dont_ask_me_for_simple_script_updates": {
+        "message": "אל תשאל אותי לגבי עדכוני סקריפטים פשוטים"
+    },
+    "Downgrade": {
+        "message": "שדרג לאחור"
+    },
+    "Download_Mode": {
+        "message": "מצב הורדה"
+    },
+    "Downloaded_from_0url0": {
+        "message": "הורד מ: $url$",
+        "placeholders": {
+            "url": {
+                "content": "$1"
+            }
+        }
+    },
+    "Downloads": {
+        "message": "הורדות"
+    },
+    "Dropbox": {
+        "message": "Dropbox"
+    },
+    "DuckDuckGo": {
+        "message": "DuckDuckGo"
+    },
+    "Duplicate_Lines": {
+        "message": "שכפל שורות"
+    },
+    "Edit": {
+        "message": "ערוך"
+    },
+    "Editor": {
+        "message": "עורך"
+    },
+    "Editor_reset": {
+        "message": "בטל שינויים"
+    },
+    "Emacs": {
+        "message": "Emacs"
+    },
+    "Enable": {
+        "message": "הפעל"
+    },
+    "Enable_Editor": {
+        "message": "הפעל עורך משופר"
+    },
+    "Enable_Script_Sync": {
+        "message": "הפעל סנכרון סקריפטים"
+    },
+    "Enable_Tags": {
+        "message": "הפעל תגיות"
+    },
+    "Enable_all_scripts_of_this_tag": {
+        "message": "לחץ להפעלת כל הסקריפטים של תגית זו"
+    },
+    "Enable_autoSave": {
+        "message": "שמור תוכן כשהעורך מאבד פוקוס"
+    },
+    "Enable_context_menu": {
+        "message": "הפעל תפריט הקשר"
+    },
+    "Enable_easySave": {
+        "message": "אל תציג דיאלוג אישור בשמירה"
+    },
+    "Enable_this_option_to_automatically_check_the_code_on_typing_": {
+        "message": "הפעל אפשרות זו לבדיקת קוד אוטומטית בעת הקלדה."
+    },
+    "Enabled": {
+        "message": "מופעל"
+    },
+    "Enabling_this_makes_it_easy_for_scripts_to_leak_it_s_granted_powers_to_the_page_Therefore__off__is_the_safest_option_": {
+        "message": "הפעלת זה מקלה על סקריפטים לחשוף את ההרשאות שניתנו להם לדף. לכן \"$off$\" היא האפשרות הבטוחה ביותר, אך עלולה לגרום לבעיות תאימות.",
+        "placeholders": {
+            "off": {
+                "content": "$1"
+            }
+        }
+    },
+    "Enforce": {
+        "message": "אכוף"
+    },
+    "Enter_the_new_rule": {
+        "message": "הזן חוק חדש"
+    },
+    "Error": {
+        "message": "שגיאה"
+    },
+    "Every_12_Hour": {
+        "message": "כל 12 שעות"
+    },
+    "Every_6_Hours": {
+        "message": "כל 6 שעות"
+    },
+    "Every_Day": {
+        "message": "כל יום"
+    },
+    "Every_Hour": {
+        "message": "כל שעה"
+    },
+    "Every_Month": {
+        "message": "כל חודש"
+    },
+    "Every_Week": {
+        "message": "כל שבוע"
+    },
+    "Exclude_0domain0": {
+        "message": "החרג $domain$",
+        "placeholders": {
+            "domain": {
+                "content": "$1"
+            }
+        }
+    },
+    "Exclude_s__": {
+        "message": "החרגות"
+    },
+    "Experimental": {
+        "message": "ניסיוני"
+    },
+    "Export": {
+        "message": "ייצא"
+    },
+    "Export_script_0name0_0uuid0": {
+        "message": "ייצא סקריפט \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Export_script_meta_data_of_0name0": {
+        "message": "ייצא מטא-נתונים של סקריפט \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Export_script_source_of_0name0": {
+        "message": "ייצא קוד מקור של סקריפט \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Externals": {
+        "message": "חיצוניים"
+    },
+    "Factory_Reset": {
+        "message": "איפוס להגדרות יצרן"
+    },
+    "Fast": {
+        "message": "מהיר"
+    },
+    "Favicon_Service": {
+        "message": "שירות Favicon"
+    },
+    "Features": {
+        "message": "תכונות"
+    },
+    "File": {
+        "message": "קובץ"
+    },
+    "Filter_by": {
+        "message": "סנן לפי"
+    },
+    "Find": {
+        "message": "חפש"
+    },
+    "Find_All_Under": {
+        "message": "מצא הכל תחת"
+    },
+    "Find_Next": {
+        "message": "מצא הבא"
+    },
+    "Find_Previous": {
+        "message": "מצא קודם"
+    },
+    "Find_Under": {
+        "message": "מצא תחת"
+    },
+    "Find_Under_Previous": {
+        "message": "מצא תחת קודם"
+    },
+    "Find_incremental": {
+        "message": "חיפוש מצטבר"
+    },
+    "Find_incremental_reverse": {
+        "message": "חיפוש מצטבר הפוך"
+    },
+    "Fix_wrappedJSObject_property_access": {
+        "message": "תקן גישה למאפיין wrappedJSObject"
+    },
+    "Focus_tab": {
+        "message": "התמקד בלשונית מקור"
+    },
+    "Fold": {
+        "message": "קפל"
+    },
+    "Fold_All": {
+        "message": "קפל הכל"
+    },
+    "Folding": {
+        "message": "קיפול"
+    },
+    "Font_Size": {
+        "message": "גודל גופן"
+    },
+    "Forbid_once": {
+        "message": "אסור פעם אחת"
+    },
+    "Force_DOM": {
+        "message": "אכוף DOM"
+    },
+    "Force_JavaScript": {
+        "message": "אכוף JavaScript"
+    },
+    "Force_Raw": {
+        "message": "אכוף Raw"
+    },
+    "Found_0count0_available_scripts": {
+        "message": "נמצאו $count$ סקריפטים זמינים",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "Full_reset": {
+        "message": "איפוס להגדרות יצרן"
+    },
+    "GM_compat_options_": {
+        "message": "אפשרויות תאימות GM/FF"
+    },
+    "General": {
+        "message": "כללי"
+    },
+    "Get_new_scripts___": {
+        "message": "מצא סקריפטים חדשים..."
+    },
+    "Get_some_scripts___": {
+        "message": "השג כמה סקריפטים..."
+    },
+    "Global_Settings": {
+        "message": "הגדרות גלובליות"
+    },
+    "Global_settings_import": {
+        "message": "ייבוא הגדרות גלובליות"
+    },
+    "GoTo": {
+        "message": "עבור אל"
+    },
+    "Google": {
+        "message": "Google"
+    },
+    "Google_Drive": {
+        "message": "Google Drive"
+    },
+    "Grant_all": {
+        "message": "הענק הכל"
+    },
+    "Grant_selected": {
+        "message": "הענק נבחרים"
+    },
+    "Group_Left": {
+        "message": "קבוצה שמאלה"
+    },
+    "Group_Right": {
+        "message": "קבוצה ימינה"
+    },
+    "Help": {
+        "message": "עזרה"
+    },
+    "Hide_disabled_scripts": {
+        "message": "הסתר סקריפטים מושבתים"
+    },
+    "Hide_notification_after": {
+        "message": "הסתר התראה אחרי"
+    },
+    "Highlight_selection_matches": {
+        "message": "הדגש התאמות בחירה"
+    },
+    "Highlight_trailing_whitespace": {
+        "message": "הדגש רווחים בסוף"
+    },
+    "Homepage": {
+        "message": "דף הבית"
+    },
+    "Host_permissions_denied_by_user_": {
+        "message": "הרשאות מארח נדחו על ידי המשתמש:"
+    },
+    "I_contributed_already": {
+        "message": "כבר תרמתי"
+    },
+    "I_dont_want_to_contribute": {
+        "message": "אני לא רוצה לתרום"
+    },
+    "Icon_badge_color": {
+        "message": "צבע תג אייקון"
+    },
+    "Icon_badge_info": {
+        "message": "מידע תג אייקון"
+    },
+    "Icon_badge_text_color": {
+        "message": "צבע טקסט תג אייקון"
+    },
+    "Import": {
+        "message": "ייבא"
+    },
+    "Import_from_URL": {
+        "message": "ייבא מכתובת URL"
+    },
+    "Import_from_file": {
+        "message": "ייבא מקובץ"
+    },
+    "Import_remote_script_0uuid0": {
+        "message": "ייבא סקריפט מרוחק ($uuid$)",
+        "placeholders": {
+            "uuid": {
+                "content": "$1"
+            }
+        }
+    },
+    "Imported": {
+        "message": "יובא"
+    },
+    "In_order_to_search_for_userscripts__0on_action_menu0__and__0icon_badge_number0__automatically_transfer_the_tab_s_url_to_the_search_website__0on_click0_opens_the_search_page_on_click_Please_click_at_this_icon_to_open_the_privacy_policy_": {
+        "message": "במצב \"$icon_badge_number$\" כתובת ה-URL של הלשונית מועברת אוטומטית לאתר החיפוש ומשמשת כערך חיפוש.\n\nבמצב \"$on_action_menu$\" החיפוש באמצעות הכתובת נעשה רק כאשר תפריט הפעולות נפתח.\n\n\"$on_click$\" רק פותח את אתר החיפוש בלחיצה על פריט תפריט הפעולות.\n\nלחץ כאן לפתיחת מדיניות הפרטיות של אתר החיפוש.",
+        "placeholders": {
+            "icon_badge_number": {
+                "content": "$1"
+            },
+            "on_action_menu": {
+                "content": "$2"
+            },
+            "on_click": {
+                "content": "$3"
+            }
+        }
+    },
+    "Include_TM_settings": {
+        "message": "כלול הגדרות Tampermonkey"
+    },
+    "Include_s__": {
+        "message": "הכללות"
+    },
+    "Include_script_externals": {
+        "message": "כלול משאבי סקריפט חיצוניים"
+    },
+    "Include_script_storage": {
+        "message": "כלול אחסון סקריפט"
+    },
+    "Includes_Excludes": {
+        "message": "הכללות/החרגות"
+    },
+    "Incognito_tabs": {
+        "message": "לשוניות גלישה פרטית"
+    },
+    "Incremental_Find": {
+        "message": "חיפוש מצטבר"
+    },
+    "Indent": {
+        "message": "הזחה"
+    },
+    "Indent_Less": {
+        "message": "פחות הזחה"
+    },
+    "Indent_More": {
+        "message": "יותר הזחה"
+    },
+    "Indent_with": {
+        "message": "הזח עם"
+    },
+    "Indentation_Width": {
+        "message": "רוחב הזחה"
+    },
+    "Info": {
+        "message": "מידע"
+    },
+    "Inject_Mode": {
+        "message": "מצב הזרקה"
+    },
+    "Insert_Line_After": {
+        "message": "הכנס שורה אחרי"
+    },
+    "Insert_Line_Before": {
+        "message": "הכנס שורה לפני"
+    },
+    "Insert_constructor": {
+        "message": "הכנס בנאי"
+    },
+    "Install": {
+        "message": "התקן"
+    },
+    "Install_this_script": {
+        "message": "התקן סקריפט זה"
+    },
+    "Installed_Version_": {
+        "message": "גרסה מותקנת"
+    },
+    "Installed_userscripts": {
+        "message": "סקריפטים מותקנים"
+    },
+    "Instant": {
+        "message": "מיידי"
+    },
+    "Invalid_UserScript__Sry_": {
+        "message": "סקריפט לא תקין!"
+    },
+    "Invalid_UserScript_name__Sry_": {
+        "message": "שם סקריפט לא תקין!"
+    },
+    "JavaScript_and_DOM": {
+        "message": "JavaScript+DOM"
+    },
+    "Join_Lines": {
+        "message": "חבר שורות"
+    },
+    "Jump_to_line": {
+        "message": "קפוץ לשורה"
+    },
+    "Just_another_service_provided_by_your_friendly_script_updater_": {
+        "message": "עוד שירות שמספק מעדכן הסקריפטים הידידותי שלך"
+    },
+    "Key_Mapping": {
+        "message": "מיפוי מקשים"
+    },
+    "Language": {
+        "message": "שפה"
+    },
+    "Last_updated": {
+        "message": "עודכן לאחרונה"
+    },
+    "Layout": {
+        "message": "פריסה"
+    },
+    "Learn_more": {
+        "message": "למד עוד"
+    },
+    "Legacy": {
+        "message": "מורשת"
+    },
+    "Limited_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
+        "message": "הרשאות מארח מוגבלות בזמן ריצה עלולות לשבור חלק מתכונות Tampermonkey כמו עדכון סקריפטים, GM_xmlhttpRequest ואחרות!"
+    },
+    "Line_Case_Insensitive": {
+        "message": "שורה ללא תלות ברישיות"
+    },
+    "Line_Down": {
+        "message": "שורה למטה"
+    },
+    "Line_Up": {
+        "message": "שורה למעלה"
+    },
+    "Line_break": {
+        "message": "גלישת מילים"
+    },
+    "Lines": {
+        "message": "שורות"
+    },
+    "Lines_Menu": {
+        "message": "שורות"
+    },
+    "Loading": {
+        "message": "טוען..."
+    },
+    "LogLevel": {
+        "message": "רמת רישום"
+    },
+    "Login": {
+        "message": "התחבר"
+    },
+    "Lookup_remote_script_0uuid0": {
+        "message": "חפש סקריפט מרוחק ($uuid$)",
+        "placeholders": {
+            "uuid": {
+                "content": "$1"
+            }
+        }
+    },
+    "Lookup_remote_script_list": {
+        "message": "חפש רשימת סקריפטים מרוחקת"
+    },
+    "Lower_Case": {
+        "message": "אותיות קטנות"
+    },
+    "MIME_Type": {
+        "message": "סוג MIME"
+    },
+    "Malicious_scripts_can_violate_your_privacy_": {
+        "message": "סקריפטים זדוניים יכולים לפגוע בפרטיות שלך ולפעול בשמך!\nעליך להתקין סקריפטים רק ממקורות שאתה סומך עליהם."
+    },
+    "Manual_Script_Blacklist": {
+        "message": "רשימה שחורה ידנית של סקריפטים ו-@require"
+    },
+    "Matching_URL": {
+        "message": "כתובת URL תואמת"
+    },
+    "Modify": {
+        "message": "שנה"
+    },
+    "Modifying_a_script_will_disable_automatic_script_updates_": {
+        "message": "שינוי סקריפט ישבית עדכונים אוטומטיים!"
+    },
+    "Move_Line_Down": {
+        "message": "הזז שורה למטה"
+    },
+    "Move_Line_Up": {
+        "message": "הזז שורה למעלה"
+    },
+    "Name": {
+        "message": "שם"
+    },
+    "Native": {
+        "message": "מקורי"
+    },
+    "Never": {
+        "message": "לעולם לא"
+    },
+    "New_Tag": {
+        "message": "תגית חדשה"
+    },
+    "New_Version": {
+        "message": "גרסה חדשה"
+    },
+    "New_script_template_": {
+        "message": "תבנית סקריפט חדש"
+    },
+    "New_userscript": {
+        "message": "<סקריפט חדש>"
+    },
+    "Next_Bookmark": {
+        "message": "סימנייה הבאה"
+    },
+    "Next_Problem": {
+        "message": "בעיה הבאה"
+    },
+    "Next_tab": {
+        "message": "לשונית הבאה"
+    },
+    "Next_theme": {
+        "message": "ערכת נושא הבאה"
+    },
+    "No": {
+        "message": "לא"
+    },
+    "No_available_scripts": {
+        "message": "אין סקריפטים זמינים"
+    },
+    "No_backups_found": {
+        "message": "לא נמצאו גיבויים"
+    },
+    "No_entry_found": {
+        "message": "לא נמצאה רשומה"
+    },
+    "No_frames": {
+        "message": "הרץ רק במסגרת העליונה"
+    },
+    "No_previously_denied_runtime_host_permissions_found": {
+        "message": "לא נמצאו הרשאות מארח שנדחו בעבר"
+    },
+    "No_script_is_installed": {
+        "message": "אין סקריפט מותקן"
+    },
+    "No_script_is_running": {
+        "message": "אין סקריפט פועל"
+    },
+    "No_syntax_errors_were_found_": {
+        "message": "לא נמצאו שגיאות תחביר."
+    },
+    "No_text": {
+        "message": "ללא טקסט"
+    },
+    "No_update_found__sry_": {
+        "message": "לא נמצא עדכון, סליחה!"
+    },
+    "Normal": {
+        "message": "רגיל"
+    },
+    "Normal_tabs": {
+        "message": "לשוניות רגילות"
+    },
+    "Note": {
+        "message": "הערה"
+    },
+    "Novice": {
+        "message": "טירון"
+    },
+    "Off": {
+        "message": "כבוי"
+    },
+    "Ok": {
+        "message": "אישור"
+    },
+    "On": {
+        "message": "פועל"
+    },
+    "On_Action_Menu": {
+        "message": "בתפריט פעולות"
+    },
+    "On_Click": {
+        "message": "בלחיצה"
+    },
+    "OneDrive": {
+        "message": "OneDrive"
+    },
+    "One_error_or_hint_was_found_": {
+        "message": "נמצאה שגיאה או רמז אחד."
+    },
+    "One_of_your_scripts_is_blacklisted__Would_you_like_to_know_why_": {
+        "description": "A question asked by the service bot",
+        "message": "אחד מהסקריפטים שלך ברשימה שחורה. רוצה לדעת למה?"
+    },
+    "One_or_more_compatibility_options_are_set": {
+        "message": "אפשרות תאימות אחת או יותר מוגדרות. ייתכן שתרצה לבדוק אותן."
+    },
+    "Only_Manual": {
+        "message": "ידני בלבד"
+    },
+    "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
+        "message": "רק קבצים עם סיומות אלה יכולים להישמר לדיסק.\nהיזהר לא לאפשר סיומות קבצים שמייצגות קבצי הפעלה במערכת ההפעלה שלך!"
+    },
+    "Open_changelog": {
+        "message": "פתח יומן שינויים"
+    },
+    "Operation_completed_successfully": {
+        "message": "הפעולה הושלמה בהצלחה"
+    },
+    "Original_domain_whitelist": {
+        "message": "רשימה לבנה של דומיינים מקוריים"
+    },
+    "Original_excludes": {
+        "message": "החרגות מקוריות"
+    },
+    "Original_includes": {
+        "message": "הכללות מקוריות"
+    },
+    "Original_matches": {
+        "message": "התאמות מקוריות"
+    },
+    "Overwrite": {
+        "message": "דרוס"
+    },
+    "Page_Filter_Mode": {
+        "message": "מצב סינון דפים"
+    },
+    "Password": {
+        "message": "סיסמה"
+    },
+    "Paste": {
+        "message": "הדבק"
+    },
+    "Permanent": {
+        "message": "קבוע"
+    },
+    "Please_check_the_0editor0_documentation_for_more_details_": {
+        "message": "אנא בדוק את תיעוד $editor$ לפרטים נוספים.",
+        "placeholders": {
+            "editor": {
+                "content": "$1"
+            }
+        }
+    },
+    "Please_consider_a_contribution": {
+        "message": "אנא שקול תרומה"
+    },
+    "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
+        "message": "אנא הפעל סטטיסטיקות אנונימיות ועזור לשפר תוסף זה. רק נתונים טכניים ונתוני אינטראקציה נאספים. לחץ כאן למידע נוסף על הנתונים."
+    },
+    "Please_enable_the_allow_userscripts_extension_setting_": {
+        "message": "אנא הפעל את הגדרת התוסף `אפשר סקריפטי משתמש`. לחץ כאן למידע נוסף כיצד לעשות זאת."
+    },
+    "Please_select_a_file": {
+        "message": "אנא בחר קובץ"
+    },
+    "Please_wait___": {
+        "message": "אנא המתן..."
+    },
+    "Position": {
+        "description": "Script table header",
+        "message": "#"
+    },
+    "Position_": {
+        "message": "מיקום"
+    },
+    "Press_ctrl_to_toggle_all_checkboxes": {
+        "message": "לחץ Ctrl/Cmd להחלפת כל תיבות הסימון"
+    },
+    "Prev_Bookmark": {
+        "message": "סימנייה קודמת"
+    },
+    "Prev_Problem": {
+        "message": "בעיה קודמת"
+    },
+    "Previous_tab": {
+        "message": "לשונית קודמת"
+    },
+    "Process_with_Chrome": {
+        "message": "עבד עם הדפדפן"
+    },
+    "Proxy_Permission": {
+        "message": "הרשאת פרוקסי"
+    },
+    "Raw_and_JavaScript": {
+        "message": "Raw ו-JavaScript"
+    },
+    "Really_delete_0name0__": {
+        "message": "האם באמת למחוק '$name$'?",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "Really_delete_all_userscripts_": {
+        "message": "האם באמת למחוק לצמיתות את כל הסקריפטים?"
+    },
+    "Really_delete_the_selected_items_": {
+        "message": "האם באמת למחוק את כל הפריטים שנבחרו?"
+    },
+    "Really_factory_reset_the_selected_items_": {
+        "message": "האם באמת לאפס להגדרות יצרן את כל הפריטים שנבחרו?"
+    },
+    "Really_factory_reset_this_script_": {
+        "message": "האם באמת לאפס סקריפט זה להגדרות יצרן?"
+    },
+    "Really_reset_all_changes_": {
+        "message": "באמת לבטל שינויים?"
+    },
+    "Really_restore_all_userscripts_": {
+        "message": "האם באמת לשחזר את כל הסקריפטים?"
+    },
+    "Recent_Sync_Log": {
+        "message": "יומן סנכרון אחרון"
+    },
+    "Redo": {
+        "message": "בצע שוב"
+    },
+    "Reindent_on_typing": {
+        "message": "הזח מחדש בעת הקלדה"
+    },
+    "Reinstall": {
+        "message": "התקן מחדש"
+    },
+    "Reload": {
+        "message": "טען מחדש"
+    },
+    "Remind_me_later": {
+        "message": "הזכר לי מאוחר יותר"
+    },
+    "Remove": {
+        "message": "הסר"
+    },
+    "Remove_Tag": {
+        "message": "הסר תגית"
+    },
+    "Remove__possibly_unsecure_": {
+        "message": "הסר לחלוטין (ייתכן שלא מאובטח)"
+    },
+    "Remove_local_script_0name0_0uuid0": {
+        "message": "מחק סקריפט מקומי \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Remove_remote_script_0name0_0uuid0": {
+        "message": "מחק סקריפט מרוחק \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Replace": {
+        "message": "החלף"
+    },
+    "Replace_": {
+        "message": "להחליף?"
+    },
+    "Replace_All": {
+        "message": "החלף הכל"
+    },
+    "Replace_all_with": {
+        "message": "החלף הכל"
+    },
+    "Replace_for_each_statements": {
+        "message": "החלף הצהרות 'for each'"
+    },
+    "Replace_with": {
+        "message": "החלף ב"
+    },
+    "Report_a_bug": {
+        "message": "דווח על באג"
+    },
+    "Report_an_issue_to_the_script_hoster_": {
+        "message": "דווח על שימוש לרעה.\n(ייתכן שנדרש חשבון משתמש)"
+    },
+    "Requested_Host_Permissions": {
+        "message": "הרשאות מארח מבוקשות"
+    },
+    "Requires": {
+        "message": "דורש"
+    },
+    "Reset_Section": {
+        "message": "אפס"
+    },
+    "Reset_list": {
+        "message": "אפס רשימה"
+    },
+    "Resources": {
+        "message": "משאבים"
+    },
+    "Restart_Tampermonkey": {
+        "message": "הפעל מחדש את Tampermonkey"
+    },
+    "Restore": {
+        "message": "שחזר"
+    },
+    "Restore_all": {
+        "message": "שחזר הכל"
+    },
+    "Revoke_Access_Token": {
+        "message": "בטל אסימון גישה"
+    },
+    "Run_at": {
+        "message": "הרץ ב"
+    },
+    "Run_in": {
+        "message": "הרץ ב"
+    },
+    "Run_syntax_check": {
+        "message": "הרץ בדיקת תחביר"
+    },
+    "Running_scripts": {
+        "message": "מופעי סקריפטים פועלים"
+    },
+    "Runtime_Host_Permissions": {
+        "message": "הרשאות מארח בזמן ריצה"
+    },
+    "Sandbox_Mode": {
+        "message": "מצב Sandbox"
+    },
+    "Save": {
+        "message": "שמור"
+    },
+    "Save_to_disk": {
+        "message": "שמור לדיסק"
+    },
+    "Scan_the_QR_code_to_use_Tampermonkey_on_your_phone_or_tablet_": {
+        "message": "סרוק את קוד ה-QR כדי להשתמש ב-Tampermonkey בטלפון או בטאבלט שלך."
+    },
+    "Script_0name0_is_slowing_down_some_page_loads_": {
+        "message": "הסקריפט '$name$' מאט את טעינת הדפים שלך",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "Script_Blacklist_Source": {
+        "message": "מקור רשימה שחורה של סקריפטים"
+    },
+    "Script_Include_Mode": {
+        "message": "מצב @include של סקריפטים"
+    },
+    "Script_Sync": {
+        "message": "סנכרון סקריפטים"
+    },
+    "Script_Tags": {
+        "message": "תגיות סקריפט"
+    },
+    "Script_URL_detection": {
+        "message": "זיהוי כתובת URL של סקריפט"
+    },
+    "Script_Update": {
+        "message": "עדכון סקריפט"
+    },
+    "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
+        "message": "מחברי סקריפטים יכולים לאבטח משאבים חיצוניים על ידי הוספת גיבוב SRI לכתובת ה-URL."
+    },
+    "Script_cookies_access": {
+        "message": "אפשר לסקריפטים גישה לעוגיות"
+    },
+    "Script_local_files_access": {
+        "message": "אפשר לסקריפטים גישה לקבצים מקומיים"
+    },
+    "Script_menu_commands": {
+        "message": "פקודות תפריט סקריפט"
+    },
+    "Script_name_0name0": {
+        "message": "שם סקריפט: $name$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "Script_order": {
+        "message": "סדר סקריפטים"
+    },
+    "Scripts_activated_by_context_menu": {
+        "message": "סקריפטים המשתמשים ב-@run-at context-menu"
+    },
+    "Search": {
+        "message": "חפש"
+    },
+    "Search_for": {
+        "message": "חפש"
+    },
+    "Search_for_userscripts_for_this_tab": {
+        "message": "חפש סקריפטים לדף זה"
+    },
+    "Searching_for_userscripts_for_this_tab": {
+        "message": "מחפש סקריפטים..."
+    },
+    "Security": {
+        "message": "אבטחה"
+    },
+    "Select_All": {
+        "message": "בחר הכל"
+    },
+    "Select_All_Occurrences": {
+        "message": "בחר את כל ההופעות"
+    },
+    "Select_Bookmarks": {
+        "message": "בחר סימניות"
+    },
+    "Select_Line": {
+        "message": "בחר שורה"
+    },
+    "Select_Next_Occurrence": {
+        "message": "בחר הופעה הבאה"
+    },
+    "Select_Scope": {
+        "message": "בחר טווח"
+    },
+    "Select_between_Brackets": {
+        "message": "בחר בין סוגריים"
+    },
+    "Select_to_Sublime_Mark": {
+        "message": "בחר עד סימן Sublime"
+    },
+    "Selection": {
+        "message": "בחירה"
+    },
+    "Server_And_Manual": {
+        "message": "מרוחק + ידני"
+    },
+    "Set_Sublime_Mark": {
+        "message": "הגדר סימן Sublime"
+    },
+    "Settings": {
+        "message": "הגדרות"
+    },
+    "Show_backups": {
+        "message": "הצג גיבויים"
+    },
+    "Show_fixed_source": {
+        "message": "הצג קוד מתוקן"
+    },
+    "Show_notification": {
+        "message": "הצג התראה"
+    },
+    "Sites": {
+        "message": "אתרים"
+    },
+    "Size": {
+        "message": "גודל"
+    },
+    "Skip_and_select_next_occurrence": {
+        "message": "דלג ובחר הופעה הבאה"
+    },
+    "Skip_timeout__0seconds0_seconds_": {
+        "message": "דלג על זמן קצוב ($seconds$ שניות)",
+        "placeholders": {
+            "seconds": {
+                "content": "$1"
+            }
+        }
+    },
+    "Smart": {
+        "message": "חכם"
+    },
+    "Smart_Backspace": {
+        "message": "Backspace חכם"
+    },
+    "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
+        "message": "חלק מהסקריפטים עשויים להיות חסומים על ידי הגדרות JavaScript לדף זה או חוסם סקריפטים!"
+    },
+    "Sort": {
+        "message": "מיין"
+    },
+    "Source": {
+        "message": "מקור"
+    },
+    "Source_Code": {
+        "message": "קוד מקור"
+    },
+    "Spaces": {
+        "message": "רווחים"
+    },
+    "Split_into_Lines": {
+        "message": "פצל לשורות"
+    },
+    "Split_selection_by_line": {
+        "message": "פצל בחירה לפי שורה"
+    },
+    "Start": {
+        "message": "התחל"
+    },
+    "Stop": {
+        "message": "עצור"
+    },
+    "Storage": {
+        "message": "אחסון"
+    },
+    "Store_data_in_incognito_mode": {
+        "message": "שמור נתונים במצב גלישה פרטית"
+    },
+    "Strict": {
+        "message": "קפדני"
+    },
+    "Sublime": {
+        "message": "Sublime Text"
+    },
+    "Sublime_Mark": {
+        "message": "סימן Sublime"
+    },
+    "Subresource_Integrity": {
+        "message": "שלמות תת-משאב"
+    },
+    "Swap_with_Sublime_Mark": {
+        "message": "החלף עם סימן Sublime"
+    },
+    "Sync_Now": {
+        "message": "הרץ עכשיו"
+    },
+    "Sync_Reset": {
+        "message": "אפס"
+    },
+    "Sync_Type": {
+        "message": "סוג"
+    },
+    "Sync_failed": {
+        "message": "הסנכרון נכשל"
+    },
+    "Sync_finished": {
+        "message": "הסנכרון הסתיים"
+    },
+    "Sync_is_running": {
+        "message": "הסנכרון פועל"
+    },
+    "Synchronize_your_scripts_across_browsers_and_operation_systems": {
+        "message": "סנכרן את הסקריפטים שלך בין דפדפנים ומערכות הפעלה"
+    },
+    "System_Tags": {
+        "message": "תגיות מערכת"
+    },
+    "TabMode": {
+        "message": "מצב לשונית"
+    },
+    "Tab_Size": {
+        "message": "גודל לשונית"
+    },
+    "Tab_URL": {
+        "message": "כתובת URL של לשונית"
+    },
+    "Tabs": {
+        "message": "לשוניות"
+    },
+    "Tag_Already_Exists": {
+        "message": "תגית זו כבר קיימת"
+    },
+    "Tags": {
+        "message": "תגיות"
+    },
+    "Tam": {
+        "message": "Tam",
+        "description": "Name of the service bot"
+    },
+    "Tampermonkey_and_script_version": {
+        "message": "גרסת Tampermonkey + סקריפט"
+    },
+    "Tampermonkey_has_no_access_to_this_page": {
+        "message": "ל-Tampermonkey אין גישה לדף זה"
+    },
+    "Tampermonkey_has_no_file_access_permission_": {
+        "message": "ל-Tampermonkey אין הרשאה לגשת לקבצים מקומיים!"
+    },
+    "Tampermonkey_is_available_on_mobile_platforms": {
+        "message": "Tampermonkey זמין בפלטפורמות ניידות"
+    },
+    "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
+        "message": "Tampermonkey עשוי לא להיות מסוגל לספק גישה להקשר הלא בטוח (unsafeWindow, פונקציות ומשתנים של הדף) כאשר זה מושבת."
+    },
+    "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
+        "message": "יש להפעיל מחדש את Tampermonkey כדי להחיל שינוי זה.\n\nהאם תרצה להמשיך?"
+    },
+    "Tampermonkey_version": {
+        "message": "גרסת Tampermonkey בלבד"
+    },
+    "Tampermonkey_won_t_inject_into_other_tab_types_anymore_": {
+        "message": "Tampermonkey לא יזריק עוד לסוגי לשוניות אחרים!"
+    },
+    "Templates": {
+        "message": "תבניות"
+    },
+    "Temporarily_allow": {
+        "message": "אפשר זמנית"
+    },
+    "Temporary": {
+        "message": "זמני"
+    },
+    "Temporary_domain_whitelist": {
+        "message": "רשימה לבנה זמנית של דומיינים"
+    },
+    "Text": {
+        "message": "טקסט"
+    },
+    "TextArea": {
+        "message": "אזור טקסט"
+    },
+    "Thank_you_very_much_": {
+        "message": "תודה רבה!"
+    },
+    "The_Browser_API_mode_requires_a_special_permission_": {
+        "message": "מצב API דפדפן דורש הרשאה מיוחדת."
+    },
+    "The_diff_for_this_script_is_too_large_to_render": {
+        "message": "ההבדל עבור סקריפט זה גדול מדי להצגה"
+    },
+    "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
+        "message": "לסקריפט המשודרג לאחור עשויות להיות בעיות בקריאת הנתונים השמורים שלו!"
+    },
+    "The_origin_of_this_script_cant_be_determined_": {
+        "message": "אזהרה: לא ניתן לקבוע את מקור הסקריפט הזה.\nאו שהותקן על ידי צד שלישי זדוני כדי לגנוב את הנתונים הפרטיים שלך או הגדרות דפדפן בסיסיות, או שמערכת ההפעלה או החומרה שלך השתנו!\n\nאנא פתח, בדוק ושמור את הסקריפט כדי להפעיל אותו."
+    },
+    "The_script_was_modified_locally_on_0date0__Updating_it_will_overwrite_your_changes_": {
+        "message": "הסקריפט שונה מקומית ב-$date$. עדכון שלו ידרוס את השינויים שלך!",
+        "placeholders": {
+            "date": {
+                "content": "$1"
+            }
+        }
+    },
+    "The_script_was_successfully_deleted_": {
+        "message": "הסקריפט נמחק בהצלחה."
+    },
+    "The_script_was_successfully_moved_to_the_trash_": {
+        "message": "הסקריפט הועבר בהצלחה לאשפה."
+    },
+    "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
+        "message": "כתובת ה-URL לעדכון שונתה מ:\n    '$oldurl$'\n    ל:\n    '$newurl$'\n",
+        "placeholders": {
+            "oldurl": {
+                "content": "$1"
+            },
+            "newurl": {
+                "content": "$2"
+            }
+        }
+    },
+    "Theme": {
+        "message": "ערכת נושא"
+    },
+    "There_are_no_active_scripts__Do_you_want_to_search_for_userscripts_": {
+        "description": "A question asked by the service bot",
+        "message": "אין סקריפטים פעילים. רוצה לחפש סקריפטים?"
+    },
+    "There_are_unsaved_changed_": {
+        "message": "יש שינויים שלא נשמרו.\nהאם באמת לסגור את העורך?"
+    },
+    "There_is_an_update_for_0name0_avaiable_": {
+        "message": "יש עדכון זמין עבור '$name$'. :)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
+        "message": "משאב חיצוני זה לא יתעדכן אוטומטית! אנא מחק אותו כדי לאפשר עדכונים שוב."
+    },
+    "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
+        "message": "זה נותן לסקריפט הזה הרשאה לאחזר ולשלוח נתונים מ/אל כל דף אינטרנט. זה עשוי להיות לא בטוח!\n\nהאם אתה בטוח שברצונך להמשיך?"
+    },
+    "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
+        "message": "לא ניתן לקבוע את מקור הסקריפט הזה.\nאו שהותקן על ידי צד שלישי כדי לגנוב את הנתונים הפרטיים שלך או הגדרות דפדפן בסיסיות, או שמערכת ההפעלה או החומרה שלך השתנו.\nשינוי זה יפעיל אותו!"
+    },
+    "This_is_a_system_script": {
+        "message": "זהו סקריפט מערכת."
+    },
+    "This_is_a_userscript": {
+        "message": "זהו סקריפט משתמש כתוב ב-Javascript"
+    },
+    "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
+        "message": "אפשרות זו מאפשרת לדף הבית של Tampermonkey וכמה אתרי אירוח סקריפטים לקבוע את גרסת Tampermonkey ומידע בסיסי על סקריפטים (מותקן, גרסה, מופעל)."
+    },
+    "This_page_is_blacklisted_at_the_security_settings": {
+        "message": "ברשימה שחורה על ידי הגדרות אבטחה"
+    },
+    "This_script_does_not_provide_any__include_information_": {
+        "message": "סקריפט זה לא מספק מידע @include או @match."
+    },
+    "This_script_does_not_require_any_special_powers_": {
+        "message": "סקריפט זה לא דורש הרשאות מיוחדות."
+    },
+    "This_script_has_access_to_https_pages": {
+        "message": "לפריט זה יש גישה לדפי https."
+    },
+    "This_script_has_full_web_access": {
+        "message": "לסקריפט זה יש גישה מלאה לאינטרנט."
+    },
+    "This_script_has_local_modifications_and_needs_to_be_updated_manually": {
+        "message": "לסקריפט זה יש שינויים מקומיים ויש לעדכן אותו ידנית!"
+    },
+    "This_script_is_blacklisted_": {
+        "message": "סקריפט זה ברשימה שחורה!"
+    },
+    "This_script_stores_data": {
+        "message": "סקריפט זה שומר נתונים ב-Tampermonkey."
+    },
+    "This_script_was_deleted": {
+        "message": "סקריפט זה נמחק"
+    },
+    "This_script_was_deleted_by_the_hoster_": {
+        "message": "סקריפט זה נמחק על ידי המארח"
+    },
+    "This_script_was_executed_0count0_times": {
+        "message": "סקריפט זה הורץ $count$ פעמים",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "This_script_was_executed_0count0_times_but_is_not_active_anymore": {
+        "message": "סקריפט זה הורץ $count$ פעמים אך כבר לא פעיל",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "This_script_was_not_executed": {
+        "message": "סקריפט זה לא הורץ"
+    },
+    "This_script_was_not_executed_yet": {
+        "message": "סקריפט זה עדיין לא רץ.\n\nסיבות אפשריות: כאשר הדף נטען...\n1. Tampermonkey לא היה מוכן.\n2. הסקריפט לא היה קיים או היה מושבת.\n3. הכתובת לא התאימה (נפוץ באפליקציות דף יחיד, שמשנות את הכתובת באמצעות JavaScript)\n\nהפעל ו/או טען מחדש את הלשונית או השתמש ב-`@match` כללי יותר וזהה שינויי כתובת עם `window.onurlchange`."
+    },
+    "This_tag_is_not_part_of_the_system_tag_list_": {
+        "message": "תגית זו אינה חלק מרשימת תגיות המערכת "
+    },
+    "This_will_overwrite_your_global_settings_": {
+        "message": "זה ידרוס את ההגדרות הגלובליות שלך!"
+    },
+    "This_will_remove_all_remote_data_from_sync_Ok_": {
+        "message": "האם באמת למחוק את כל הנתונים מהסנכרון?"
+    },
+    "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
+        "message": "האם באמת למחוק את כל הסקריפטים ולאפס את כל ההגדרות?"
+    },
+    "This_will_restart_Tampermonkey_Ok_": {
+        "message": "האם באמת להפעיל מחדש את Tampermonkey?"
+    },
+    "Today": {
+        "message": "היום"
+    },
+    "Toggle": {
+        "message": "החלף"
+    },
+    "Toggle_Block_Comment": {
+        "message": "החלף הערת בלוק"
+    },
+    "Toggle_Comment": {
+        "message": "החלף הערה"
+    },
+    "Toggle_Comment_Indented": {
+        "message": "החלף הערה מוזחת"
+    },
+    "Toggle_Enable": {
+        "message": "החלף הפעלה"
+    },
+    "Trace": {
+        "message": "עקוב"
+    },
+    "Transpose": {
+        "message": "החלף מיקום"
+    },
+    "Trash_Mode": {
+        "message": "מצב אשפה"
+    },
+    "Trash_bin": {
+        "message": "סל אשפה"
+    },
+    "Treat_like__match": {
+        "message": "התייחס כמו @match"
+    },
+    "Trigger_Update": {
+        "message": "הפעל עדכון"
+    },
+    "Trim_trailing_whitespace_from_modified_lines": {
+        "message": "הסר רווחים בסוף משורות שהשתנו"
+    },
+    "Try_to_install_as_script": {
+        "message": "נסה להתקין כסקריפט"
+    },
+    "Type": {
+        "message": "סוג"
+    },
+    "URL": {
+        "message": "כתובת URL"
+    },
+    "UUID": {
+        "message": "UUID"
+    },
+    "Unable_to_load_script_from_url_0url0": {
+        "message": "לא ניתן לטעון סקריפט מכתובת: \n $url$",
+        "placeholders": {
+            "url": {
+                "content": "$1"
+            }
+        }
+    },
+    "Unable_to_parse_0name0": {
+        "message": "לא ניתן לנתח $name$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "Unable_to_parse_this_": {
+        "message": "לא ניתן לנתח זאת! :("
+    },
+    "Undo": {
+        "message": "בטל"
+    },
+    "Unfold": {
+        "message": "פרוש"
+    },
+    "Unfold_All": {
+        "message": "פרוש הכל"
+    },
+    "Unique_running_scripts": {
+        "message": "סקריפטים ייחודיים פועלים"
+    },
+    "Unknown_method_0name0": {
+        "message": "שיטה לא ידועה $name$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "Unsafe": {
+        "message": "לא בטוח"
+    },
+    "Update": {
+        "message": "עדכן"
+    },
+    "Update_Notification": {
+        "message": "הצג התראת עדכון"
+    },
+    "Update_URL_": {
+        "message": "כתובת URL לעדכון"
+    },
+    "Update_check_is_disabled": {
+        "message": "בדיקת עדכון סקריפטים מושבתת או לא אפשרית"
+    },
+    "Update_interval": {
+        "message": "מרווח עדכון"
+    },
+    "Update_local_script_0name0_0uuid0": {
+        "message": "עדכן סקריפט מקומי \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Updated_to__0version0": {
+        "message": "עודכן ל: $version$",
+        "placeholders": {
+            "version": {
+                "content": "$1"
+            }
+        }
+    },
+    "Updates": {
+        "message": "עדכונים"
+    },
+    "Upper_Case": {
+        "message": "אותיות גדולות"
+    },
+    "UserScripts_API": {
+        "message": "API סקריפטי משתמש"
+    },
+    "UserScripts_API_Dynamic": {
+        "message": "API דינמי לסקריפטי משתמש"
+    },
+    "User_domain_blacklist": {
+        "message": "רשימה שחורה של דומיינים של משתמש"
+    },
+    "User_domain_whitelist": {
+        "message": "רשימה לבנה של דומיינים של משתמש"
+    },
+    "User_excludes": {
+        "message": "החרגות משתמש"
+    },
+    "User_includes": {
+        "message": "הכללות משתמש"
+    },
+    "User_matches": {
+        "message": "התאמות משתמש"
+    },
+    "User_modified": {
+        "message": "שונה"
+    },
+    "Userscript_Search": {
+        "message": "חיפוש סקריפטים"
+    },
+    "Userscript_search_integration_mode": {
+        "message": "שילוב חיפוש סקריפטים"
+    },
+    "Userscripts": {
+        "message": "סקריפטים"
+    },
+    "Using__include_is_potentially_unsafe_and_may_be_obsolete_soon___0off0_disables__include_completely__0match0__is_safe__but_may_not_compatible_the_script_developers_intention__0unsafe0__mostly_keeps_the_legacy_behavior_0default0__means__0used_default0": {
+        "message": "שימוש ב-@include עשוי להיות לא בטוח ועשוי להיות מיושן ב-Manifest v3 בתחילת 2023. הגדרה זו מאפשרת לך להגדיר את האופן שבו @include מתפרש. '$off$' משבית @include לחלוטין, '$match$' בטוח, אך עשוי להיות לא תואם לכוונת מפתח הסקריפט. '$unsafe$' בעיקר שומר על ההתנהגות הישנה ו-'$default$' אומר '$used_default$' כרגע.",
+        "placeholders": {
+            "off": {
+                "content": "$1"
+            },
+            "match": {
+                "content": "$2"
+            },
+            "unsafe": {
+                "content": "$3"
+            },
+            "default": {
+                "content": "$4"
+            },
+            "used_default": {
+                "content": "$5"
+            }
+        }
+    },
+    "Utilities": {
+        "message": "כלי עזר"
+    },
+    "VSCode": {
+        "message": "VSCode"
+    },
+    "Validate_if_given": {
+        "message": "אמת אם ניתן"
+    },
+    "Validate_if_supported": {
+        "message": "אמת אם אפשרי"
+    },
+    "Verbose": {
+        "message": "מפורט"
+    },
+    "Version": {
+        "message": "גרסה"
+    },
+    "View": {
+        "message": "תצוגה"
+    },
+    "Vim": {
+        "message": "Vim"
+    },
+    "Waiting_for_sync_to_finish": {
+        "message": "ממתין לסיום הסנכרון"
+    },
+    "Warning": {
+        "message": "אזהרה"
+    },
+    "Warning_unsafe_site_warnings_might_appear_": {
+        "message": "אזהרה: אזהרות אתר לא בטוח עשויות להופיע אם סקריפט כולל כתובות URL שעלולות להזיק."
+    },
+    "WebDAV": {
+        "message": "WebDAV"
+    },
+    "Whitelist": {
+        "message": "רשימה לבנה"
+    },
+    "Whitelisted_File_Extensions": {
+        "message": "סיומות קבצים ברשימה לבנה"
+    },
+    "Whitelisted_Pages": {
+        "message": "דפים ברשימה לבנה"
+    },
+    "Windows": {
+        "message": "Windows"
+    },
+    "Would_you_like_to_know_how_to_overwrite_or_extend_a_script_s_includes_and_or_excludes_": {
+        "description": "A question asked by the service bot",
+        "message": "רוצה לדעת איך לדרוס או להרחיב את ההכללות ו/או ההחרגות של סקריפט?"
+    },
+    "Would_you_like_to_learn_how_to_export_and_import_your_scripts_": {
+        "description": "A question asked by the service bot",
+        "message": "רוצה ללמוד איך לייצא ולייבא את הסקריפטים שלך?"
+    },
+    "Wrap_lines": {
+        "message": "גלישת שורות"
+    },
+    "XHR_Security": {
+        "message": "אבטחת XHR"
+    },
+    "Yandex_Disk": {
+        "message": "Yandex.Disk"
+    },
+    "Yank_Sublime_Mark": {
+        "message": "משוך סימן Sublime"
+    },
+    "Yes": {
+        "message": "כן"
+    },
+    "You_are_about_to_downgrade_a_UserScript": {
+        "message": "שים לב! שדרוג לאחור של סקריפט"
+    },
+    "You_are_about_to_install_a_UserScript_": {
+        "message": "התקנת סקריפט"
+    },
+    "You_are_about_to_modify_a_UserScript_": {
+        "message": "שינוי סקריפט"
+    },
+    "You_are_about_to_reinstall_a_UserScript_": {
+        "message": "התקנה מחדש של סקריפט"
+    },
+    "You_are_about_to_update_a_UserScript_": {
+        "message": "עדכון סקריפט"
+    },
+    "You_can_add_your_custom_CSS_rules_here_": {
+        "message": "אתה יכול להוסיף כאן כללי CSS משלך עבור ממשק המשתמש של Tampermonkey. במקרה שזה שובר משהו תוכל לקבל את הפריסה המקורית על ידי הוספת ?layout=reset לכתובת ה-URL של דף האפשרויות."
+    },
+    "You_can_add_your_custom_linter_config_here_": {
+        "message": "אתה יכול להוסיף כאן את תצורת ה-linter המותאמת אישית שלך."
+    },
+    "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
+        "message": "השפה שלך לא נתמכת?\nלחץ כאן לקבלת הוראות כיצד לתרגם את Tampermonkey?"
+    },
+    "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
+        "message": "נראה שהרשימה הלבנה שלך כוללת קבצי הפעלה!\nזה אומר שהסקריפטים שלך עשויים להוריד תוכנות זדוניות או ריגול לדיסק שלך!!"
+    },
+    "Zip": {
+        "message": "Zip"
+    },
+    "__Please_choose__": {
+        "message": "-- אנא בחר אפשרות --"
+    },
+    "_not_set_": {
+        "message": "<לא הוגדר>"
+    },
+    "by_0name0": {
+        "message": "מאת $name$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "connect_mode": {
+        "message": "בדוק @connect"
+    },
+    "fatal_error": {
+        "message": "שגיאה קריטית"
+    },
+    "overwritten_by_user": {
+        "message": "נדרס על ידי הגדרת משתמש"
+    },
+    "require_and_resource": {
+        "message": "חיצוניים (@require ו-@resource)"
+    },
+    "severity_1": {
+        "message": "1 (הכי מאובטח)"
+    },
+    "severity_10": {
+        "message": "10 (הכי פחות מאובטח)"
+    },
+    "severity_2": {
+        "message": "2"
+    },
+    "severity_3": {
+        "message": "3"
+    },
+    "severity_4": {
+        "message": "4"
+    },
+    "severity_5": {
+        "message": "5"
+    },
+    "severity_6": {
+        "message": "6"
+    },
+    "severity_7": {
+        "message": "7"
+    },
+    "severity_8": {
+        "message": "8"
+    },
+    "severity_9": {
+        "message": "9"
+    },
+    "some_secs": {
+        "message": "כמה"
+    },
+    "strict_mode": {
+        "message": "מצב קפדני"
+    },
+    "top_level_await": {
+        "message": "await ברמה עליונה"
+    },
+    "v0version0": {
+        "message": "v$version$",
+        "placeholders": {
+            "version": {
+                "content": "$1"
+            }
+        }
+    }
+}
