@@ -1520,16 +1520,16 @@
         "message": "系统标签"
     },
     "TabMode": {
-        "message": "标签类型"
+        "message": "制表符类型"
     },
     "Tab_Size": {
-        "message": "标签大小"
+        "message": "制表符宽度"
     },
     "Tab_URL": {
         "message": "标签 URL"
     },
     "Tabs": {
-        "message": "标签"
+        "message": "制表符"
     },
     "Tag_Already_Exists": {
         "message": "该标签已存在"
