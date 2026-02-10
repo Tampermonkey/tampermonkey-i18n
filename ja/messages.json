@@ -858,6 +858,9 @@
     "Exclude_s__": {
         "message": "exclude"
     },
+    "Execute_now": {
+        "message": "実行する"
+    },
     "Experimental": {
         "message": "実験的"
     },

@@ -858,6 +858,9 @@
     "Exclude_s__": {
         "message": "Exclusión(es)"
     },
+    "Execute_now": {
+        "message": "Ejecutar ahora"
+    },
     "Experimental": {
         "message": "Experimental"
     },

@@ -672,6 +672,9 @@
     "Exclude_s__": {
         "message": "Hariç tutulanlar"
     },
+    "Execute_now": {
+        "message": "Hemen çalıştır"
+    },
     "Experimental": {
         "message": "Deneysel"
     },

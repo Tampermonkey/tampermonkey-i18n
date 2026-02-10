@@ -417,6 +417,9 @@
     "Exclude_s__": {
         "message": "Okrem"
     },
+    "Execute_now": {
+        "message": "Spustiť teraz"
+    },
     "Experimental": {
         "message": "Experintálne"
     },

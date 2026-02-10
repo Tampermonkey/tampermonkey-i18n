@@ -605,6 +605,9 @@
     "Exclude_s__": {
         "message": "(مستبعد (مستبعدات"
     },
+    "Execute_now": {
+        "message": "تنفيذ الآن"
+    },
     "Experimental": {
         "message": "تجريبي"
     },

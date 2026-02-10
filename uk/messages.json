@@ -758,6 +758,9 @@
     "Exclude_s__": {
         "message": "Виключення"
     },
+    "Execute_now": {
+        "message": "Виконати зараз"
+    },
     "Experimental": {
         "message": "Експериментальний"
     },

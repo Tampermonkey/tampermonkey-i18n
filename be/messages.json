@@ -858,6 +858,9 @@
     "Exclude_s__": {
         "message": "Выключэнне(-і)"
     },
+    "Execute_now": {
+        "message": "Выканайце зараз"
+    },
     "Experimental": {
         "message": "Эксперыментальныя"
     },

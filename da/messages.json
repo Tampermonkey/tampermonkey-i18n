@@ -668,6 +668,9 @@
     "Exclude_s__": {
         "message": "Ekskluderinger"
     },
+    "Execute_now": {
+        "message": "Udfør nu"
+    },
     "Experimental": {
         "message": "Eksperimentel"
     },

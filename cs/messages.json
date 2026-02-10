@@ -420,6 +420,9 @@
     "Exclude_s__": {
         "message": "Vynechat"
     },
+    "Execute_now": {
+        "message": "Spustit nyní"
+    },
     "Experimental": {
         "message": "Experimentální"
     },

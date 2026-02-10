@@ -444,6 +444,8 @@ Exclude_0domain0:
   placeholders:
     domain:
       content: $1
+Execute_now:
+  message: Jetzt ausführen
 Experimental:
   message: Experimente
 Export:
@@ -456,7 +458,7 @@ Export_script_0name0_0uuid0:
     uuid:
       content: $2
 Export_script_meta_data_of_0name0:
-  message: Exportiere die Userscript-Meta-Daten von  "$name$" ($uuid$)
+  message: Exportiere die Userscript-Meta-Daten von "$name$" ($uuid$)
   placeholders:
     name:
       content: $1

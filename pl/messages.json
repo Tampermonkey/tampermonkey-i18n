@@ -464,6 +464,9 @@
     "Exclude_s__": {
         "message": "Lista @exclude"
     },
+    "Execute_now": {
+        "message": "Uruchom teraz"
+    },
     "Experimental": {
         "message": "Eksperymentalne"
     },

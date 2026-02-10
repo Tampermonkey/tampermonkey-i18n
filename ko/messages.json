@@ -420,6 +420,9 @@
     "Exclude_s__": {
         "message": "제외"
     },
+    "Execute_now": {
+        "message": "지금 실행하기"
+    },
     "Experimental": {
         "message": "실험적"
     },

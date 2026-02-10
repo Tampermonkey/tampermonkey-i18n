@@ -776,6 +776,9 @@
     "Exclude_s__": {
         "message": "排除 URL(s)"
     },
+    "Execute_now": {
+        "message": "立即執行"
+    },
     "Experimental": {
         "message": "實驗室"
     },

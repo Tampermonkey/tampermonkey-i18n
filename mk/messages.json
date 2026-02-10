@@ -698,6 +698,9 @@
     "Exclude_s__": {
         "message": "Исклучувања"
     },
+    "Execute_now": {
+        "message": "Изведи сега"
+    },
     "Experimental": {
         "message": "Експериментално"
     },

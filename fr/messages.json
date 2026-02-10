@@ -755,6 +755,9 @@
     "Exclude_s__": {
         "message": "Exclus"
     },
+    "Execute_now": {
+        "message": "Exécuter maintenant"
+    },
     "Experimental": {
         "message": "Expérimental"
     },

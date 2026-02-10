@@ -727,6 +727,9 @@
     "Exclude_s__": {
         "message": "Loại trừ"
     },
+    "Execute_now": {
+        "message": "Thực thi ngay bây giờ"
+    },
     "Experimental": {
         "message": "Thử nghiệm"
     },

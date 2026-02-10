@@ -525,6 +525,9 @@
     "Exclude_s__": {
         "message": "Isključeni"
     },
+    "Execute_now": {
+        "message": "Izvrši sada"
+    },
     "Experimental": {
         "message": "Eksperimentalno"
     },

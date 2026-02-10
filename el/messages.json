@@ -672,6 +672,9 @@
     "Exclude_s__": {
         "message": "Εξαίρεση(εις)"
     },
+    "Execute_now": {
+        "message": "Εκτέλεση τώρα"
+    },
     "Experimental": {
         "message": "Πειραματικό"
     },

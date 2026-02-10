@@ -858,6 +858,9 @@
     "Exclude_s__": {
         "message": "החרגות"
     },
+    "Execute_now": {
+        "message": "הרץ עכשיו"
+    },
     "Experimental": {
         "message": "ניסיוני"
     },

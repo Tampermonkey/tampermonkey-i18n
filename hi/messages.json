@@ -519,6 +519,9 @@
     "Exclude_s__": {
         "message": "वर्जन"
     },
+    "Execute_now": {
+        "message": "अभी चलाएं"
+    },
     "Experimental": {
         "message": "प्रयोगात्मक"
     },

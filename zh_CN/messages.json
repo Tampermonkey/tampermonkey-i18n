@@ -701,6 +701,9 @@
     "Exclude_s__": {
         "message": "排除 URL"
     },
+    "Execute_now": {
+        "message": "立即执行"
+    },
     "Experimental": {
         "message": "实验"
     },

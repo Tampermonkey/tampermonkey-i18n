@@ -344,6 +344,9 @@
     "Exclude_s__": {
         "message": "Kizárás(ok)"
     },
+    "Execute_now": {
+        "message": "Most futtatása"
+    },
     "Export": {
         "message": "Exportálás"
     },
