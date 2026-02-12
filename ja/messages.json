@@ -369,6 +369,9 @@
     "Apply_this_action_to_the_selected_scripts": {
         "message": "選択したスクリプトすべてにこの操作を適用"
     },
+    "Apply_update": {
+        "message": "更新を適用"
+    },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Tampermonkey がブラウザーによって更新される際、同時に再起動もされます。残念ですが、これにより実行中のスクリプトが壊れる場合があります!\n\n本当に更新を通知しないように設定しますか?"
     },
@@ -417,6 +420,9 @@
     },
     "Autocomplete": {
         "message": "自動補完"
+    },
+    "Automatic_installation": {
+        "message": "自動インストール"
     },
     "Automatically_added_user_includes_for_compatibility_reasons_": {
         "message": "互換性の理由から、一部のユーザー include が自動的に追加されました!"

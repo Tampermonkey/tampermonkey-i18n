@@ -214,6 +214,9 @@
     "Apply_this_action_to_the_selected_scripts": {
         "message": "Dit toepassen op alle geselecteerde scripts"
     },
+    "Apply_update": {
+        "message": "Update toepassen"
+    },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Wanneer Tampermonkey wordt herstart door uw browser wordt het ook herstart. Helaas kan dit op dat moment uitgevoerde scripts breken!\n\nDus weet u zeker dat u geen meldingen wilt krijgen over updates?"
     },
@@ -255,6 +258,9 @@
     },
     "Auto_syntax_check_on_typing": {
         "message": "Automatische syntaxiscontrole tijdens het typen"
+    },
+    "Automatic_installation": {
+        "message": "Automatische installatie"
     },
     "Automatically_added_user_includes_for_compatibility_reasons_": {
         "message": "Een aantal gebruikersincludes zijn automatisch toegevoegd om compitabiliteitsredenen."

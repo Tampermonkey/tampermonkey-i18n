@@ -264,6 +264,9 @@
     "Apply_this_action_to_the_selected_scripts": {
         "message": "Додадете го ова за сите селектирани скриптови"
     },
+    "Apply_update": {
+        "message": "Ажурирање"
+    },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Кога Tampermonkey се ажурира, покрај пребарувачот, се рестартира. За жал, ова може да ги уништи скриптовите што работат!\n\nТака да, дали сте сигурни дека не сакате да бидете информирани за ажурирања?"
     },
@@ -305,6 +308,9 @@
     },
     "Auto_syntax_check_on_typing": {
         "message": "Автоматска проверка на синтаксата додека пишувате"
+    },
+    "Automatic_installation": {
+        "message": "Автоматско инсталирање"
     },
     "Automatically_added_user_includes_for_compatibility_reasons_": {
         "message": "Некои вклучувања од корисникот беа автоматски додадени заради компатибилност!"

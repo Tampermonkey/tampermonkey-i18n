@@ -107,6 +107,9 @@
     "Apply_this_action_to_the_selected_scripts": {
         "message": "Hajtsd végre ezt a kijelölt szkripteken "
     },
+    "Apply_update": {
+        "message": "Frissítés alkalmazása"
+    },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Amikor a böngésződ a Tampermonkey-t frissíti akkor újra az újra is indítja. Sajnos, ez lehet, hogy elrontja az éppen futó szkripteket! \n\n Tehát biztos, hogy nem akarsz értesülni a frissítésekről?"
     },

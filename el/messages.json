@@ -258,6 +258,9 @@
     "Apply_this_action_to_the_selected_scripts": {
         "message": "Εφαρμογή αυτού για όλους του επιλεγμένους κώδικες"
     },
+    "Apply_update": {
+        "message": "Εφαρμογή ενημερώσεων"
+    },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Όταν το Tampermonkey ενημερώνετε από τον φυλλομετρητή σας, επανεκκινείται. Δυστυχώς, αυτό μπορεί να προκαλέσει πρόβλημα στους κώδικες που ήδη εκτελούνται!\n\nΓια αυτό ξαναρωτάμε αν, σίγουρα, δε θέλετε να ειδοποιήστε για τις ενημερώσεις;"
     },
@@ -299,6 +302,9 @@
     },
     "Auto_syntax_check_on_typing": {
         "message": "Αυτόματος έλεγχος σύνταξης κατά τη δακτυλογράφηση"
+    },
+    "Automatic_installation": {
+        "message": "Αυτόματη εγκατάσταση"
     },
     "Automatically_added_user_includes_for_compatibility_reasons_": {
         "message": "Ορισμένες συμπεριλήψεις χρήστη έχουν προστεθεί αυτόματα για λόγους συμβατότητας!"

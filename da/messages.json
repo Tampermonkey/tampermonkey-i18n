@@ -223,6 +223,9 @@
     "Apply_this_action_to_the_selected_scripts": {
         "message": "Anvend dette på alle valgte scripts"
     },
+    "Apply_update": {
+        "message": "Anvend opdatering"
+    },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Når Tampermonkey opdateres af din browser, genstartes det også. Desværre kan dette muligvis afbryde scripts, der kører i øjeblikket!\n\nSå er du sikker på, at du ikke vil have besked om opdateringer?"
     },
@@ -264,6 +267,9 @@
     },
     "Auto_syntax_check_on_typing": {
         "message": "Automatisk syntakskontrol ved indtastning"
+    },
+    "Automatic_installation": {
+        "message": "Automatisk installation"
     },
     "Automatically_added_user_includes_for_compatibility_reasons_": {
         "message": "Nogle user includes blev automatisk tilføjet af kompatibilitetsårsager!"

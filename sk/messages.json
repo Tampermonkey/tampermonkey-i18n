@@ -153,6 +153,9 @@
     "Apply_this_action_to_the_selected_scripts": {
         "message": "Vykonať túto akciu so všetkými vybratými skriptami"
     },
+    "Apply_update": {
+        "message": "Použiť aktualizáciu"
+    },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Po aktualizácii Tampermonkey sa reštartuje aj Chrome. Môže to prerušiť práve bežiace skripty!\n\nSte si istý, že nechcete byť na aktualizácie upozornený?"
     },

@@ -178,6 +178,9 @@
     "Apply_this_action_to_the_selected_scripts": {
         "message": "Primeni ovo nad svim izabranim skriptama"
     },
+    "Apply_update": {
+        "message": "Primeni ažuriranje"
+    },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Kada je Tampermonkey ažuriran od strane pretravača istovremeno je restartovan. Nažalost ovo može obustaviti trenutno pokrenute skripte!\n\nDa li ste sigurni da ne želite da budete obavešteni kada su dostupna ažuriranja?"
     },
@@ -219,6 +222,9 @@
     },
     "Auto_syntax_check_on_typing": {
         "message": "Automatska provera sintakse prilikom kucanja"
+    },
+    "Automatic_installation": {
+        "message": "Automatska instalacija"
     },
     "Automatically_added_user_includes_for_compatibility_reasons_": {
         "message": "Neke od obuhvaćenih (uključenih) su automatski dodati zbog kompatiblinosti!"

@@ -167,6 +167,8 @@ Apply_compatibility_options_to_required_script_too:
   message: Anwenden der Kompatibilitätsoptionen auf @require-Scripte
 Apply_this_action_to_the_selected_scripts:
   message: Die gewählte Aktion auf alle markierten Userscripte anwenden
+Apply_update:
+  message: Update anwenden
 Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_:
   message: |-
     Der Browser startet die Tampermonkey-Erweiterung neu, wenn sie aktualiert wurde. Das kann zu Problemen bei aktuell laufenden Userscripten führen.!
@@ -205,6 +207,8 @@ Auto_syntax_check_max_length:
   message: Längenbeschränkung für die automatischen Syntax-Überprüfung
 Auto_syntax_check_on_typing:
   message: Automatische Syntax-Überprüfung
+Automatic_installation:
+  message: Automatische Installation
 Automatically_added_user_includes_for_compatibility_reasons_:
   message: Es wurden aus Kompatibilitätsgründen einige Benutzer-Includes eingefügt.
 Beginner:

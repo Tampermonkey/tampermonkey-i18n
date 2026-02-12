@@ -250,6 +250,9 @@
     "Apply_this_action_to_the_selected_scripts": {
         "message": "Áp dụng vào tất cả tập lệnh được chọn"
     },
+    "Apply_update": {
+        "message": "Áp dụng cập nhật"
+    },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Khi Tampermonkey được cập nhật bởi trình duyệt của bạn, nó cũng sẽ khởi động lại. Không may là nó cỏ thể phá hỏng các tập lệnh đang chạy!\n\nBạn có chắc là bạn không muốn được thông báo về các cập nhật không?"
     },
@@ -298,6 +301,9 @@
     },
     "Autocomplete": {
         "message": "Tự động hoàn thành"
+    },
+    "Automatic_installation": {
+        "message": "Tự động cài đặt"
     },
     "Automatically_added_user_includes_for_compatibility_reasons_": {
         "message": "Một số phần bao gồm của người dùng đã được tự động thêm vào vì lí do tương thích!"

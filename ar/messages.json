@@ -220,6 +220,9 @@
     "Apply_this_action_to_the_selected_scripts": {
         "message": "تطبيق هذا الإجراء على جميع البرامج النصية المحددة"
     },
+    "Apply_update": {
+        "message": "تطبيق التحديث"
+    },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "عندما يتم تحديث Tampermonkey بواسطة متصفحك ، يتم إعادة تشغيله أيضًا. للأسف قد يؤدي هذا إلى كسر البرامج النصية التي تعمل حاليًا!\n\nهل أنت متأكد من أنك لا تريد أن يتم إعلامك بالتحديثات؟"
     },
@@ -261,6 +264,9 @@
     },
     "Auto_syntax_check_on_typing": {
         "message": "فحص بناء الجملة التلقائي عند الكتابة"
+    },
+    "Automatic_installation": {
+        "message": "تثبيت تلقائي"
     },
     "Automatically_added_user_includes_for_compatibility_reasons_": {
         "message": "تمت إضافة بعض ميزات المستخدم تلقائيًا لأسباب التوافق!"

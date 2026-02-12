@@ -369,6 +369,9 @@
     "Apply_this_action_to_the_selected_scripts": {
         "message": "Ужываць да ўсіх выбраных скрыптоў"
     },
+    "Apply_update": {
+        "message": "Заступіць абнаўленне"
+    },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Калі Tampermonkey абнаўляецца браўзерам, яна таксама перазапускаецца. На жаль, гэта можа пашкодзіць працу бягучых скрыптоў!\n\nВы ўпэўнены, што не хочаце атрымліваць апавяшчэнні аб абнаўленнях?"
     },
@@ -417,6 +420,9 @@
     },
     "Autocomplete": {
         "message": "Аўтазапаўненне"
+    },
+    "Automatic_installation": {
+        "message": "Аўтаматычнае ўстанаўленне"
     },
     "Automatically_added_user_includes_for_compatibility_reasons_": {
         "message": "Некаторыя карыстальніцкія ўключэнні былі аўтаматычна дададзены для забеспячэння сумяшчальнасці!"

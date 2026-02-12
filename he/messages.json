@@ -369,6 +369,9 @@
     "Apply_this_action_to_the_selected_scripts": {
         "message": "החל על כל הסקריפטים שנבחרו"
     },
+    "Apply_update": {
+        "message": "עדכן"
+    },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "כאשר Tampermonkey מתעדכן על ידי הדפדפן הוא גם מופעל מחדש. לצערי זה עלול לשבור סקריפטים פועלים!\n\nאז האם אתה בטוח שאתה לא רוצה לקבל התראות על עדכונים?"
     },
@@ -417,6 +420,9 @@
     },
     "Autocomplete": {
         "message": "השלמה אוטומטית"
+    },
+    "Automatic_installation": {
+        "message": "התקנה אוטומטית"
     },
     "Automatically_added_user_includes_for_compatibility_reasons_": {
         "message": "כמה הכללות משתמש נוספו אוטומטית מסיבות תאימות!"

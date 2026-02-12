@@ -275,6 +275,9 @@
     "Apply_this_action_to_the_selected_scripts": {
         "message": "Appliquer cette action aux scripts sélectionnés"
     },
+    "Apply_update": {
+        "message": "Appliquer les mises à jour"
+    },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Lorsque Tampermonkey est MàJ il est aussi redémarré. Ceci peut casser les scripts en fonction !\n\nÊtes-vous sûr de ne pas vouloir être averti des MàJ ?"
     },
@@ -320,6 +323,9 @@
     },
     "Auto_syntax_check_on_typing": {
         "message": "Vérification automatique de la syntaxe lors de l'écriture"
+    },
+    "Automatic_installation": {
+        "message": "Installation automatique"
     },
     "Automatically_added_user_includes_for_compatibility_reasons_": {
         "message": "Certains utilisateurs inclus ont été ajoutés automatiquement pour des raisons de compatibilité!"

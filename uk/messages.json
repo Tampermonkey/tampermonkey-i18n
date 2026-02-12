@@ -275,6 +275,9 @@
     "Apply_this_action_to_the_selected_scripts": {
         "message": "Застосувати це до всіх вибраних скриптів"
     },
+    "Apply_update": {
+        "message": "Застосувати оновлення"
+    },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Коли Tampermonkey оновлюється вашим браузером, він також перезапускається. На жаль, це може порушити роботу поточних скрипти!\n\nВи впевнені, що не хочете отримувати сповіщення про оновлення?"
     },
@@ -320,6 +323,9 @@
     },
     "Auto_syntax_check_on_typing": {
         "message": "Автоматична перевірка синтаксису під час набору тексту"
+    },
+    "Automatic_installation": {
+        "message": "Автоматична установка"
     },
     "Automatically_added_user_includes_for_compatibility_reasons_": {
         "message": "Деякі користувацькі @include-и було автоматично додано з міркувань сумісності!"

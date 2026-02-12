@@ -153,6 +153,9 @@
     "Apply_this_action_to_the_selected_scripts": {
         "message": "Provést tuto akci u všech vybraných skriptů"
     },
+    "Apply_update": {
+        "message": "Použít aktualizaci"
+        },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Po aktualizaci je Tampermonkey prohlížečem restartován. Bohužel to může znefunkčnit aktuálně běžící skripty!\n\nOpravdu tedy nechcete být informován/a o aktualizacích?"
     },

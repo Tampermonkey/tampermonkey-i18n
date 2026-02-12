@@ -369,6 +369,9 @@
     "Apply_this_action_to_the_selected_scripts": {
         "message": "Применять это ко всем выбранным скриптам"
     },
+    "Apply_update": {
+        "message": "Применить обновление"
+    },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Когда Tampermonkey обновится, он будет перезапущен. Во время перезапуска скрипты временно не будут работать!\n\nВы уверены, что не хотите получать уведомления об обновлениях?"
     },
@@ -417,6 +420,9 @@
     },
     "Autocomplete": {
         "message": "Автозаполнение"
+    },
+    "Automatic_installation": {
+        "message": "Автоматическая установка"
     },
     "Automatically_added_user_includes_for_compatibility_reasons_": {
         "message": "Некоторые пользовательские @include будут применены автоматически для обеспечения совместимости!"

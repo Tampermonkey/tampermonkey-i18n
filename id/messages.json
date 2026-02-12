@@ -104,6 +104,9 @@
     "Apply_this_action_to_the_selected_scripts": {
         "message": "Terapkan ini ke semua skrip yang dipilih"
     },
+    "Apply_update": {
+        "message": "Terapkan pembaruan"
+    },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Ketika Tampermonkey diperbarui oleh peramban Anda itu juga dimulai ulang. Sayangnya ini mungkin dapat menganggu skrip! \n\nJadi, apakah Anda yakin bahwa Anda tidak ingin mendapat notifikasi pembaruan?"
     },

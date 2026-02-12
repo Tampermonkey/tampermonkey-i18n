@@ -156,6 +156,9 @@
     "Apply_this_action_to_the_selected_scripts": {
         "message": "이 동작을 선택된 모든 스크립트에 적용"
     },
+    "Apply_update": {
+        "message": "업데이트 적용하기"
+    },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "브라우저에 의해 Tampermonkey가 업데이트되었을 때 Tampermonkey는 재시작됩니다. 불행하게도 이는 현재 실행 중인 스크립트에 오류를 발생시킬 수 있습니다!\n\n정말로 업데이트에 대한 알림을 받지 않으시겠습니까?"
     },

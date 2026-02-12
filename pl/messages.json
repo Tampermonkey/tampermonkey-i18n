@@ -156,6 +156,9 @@
     "Apply_this_action_to_the_selected_scripts": {
         "message": "Zastosuj tę akcję do wszystkich zaznaczonych skryptów"
     },
+    "Apply_update": {
+        "message": "Zastosuj aktualizację"
+    },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Gdy Tampermonkey jest aktualizowany przez twoją przeglądarkę, to jest również restartowany. Niestety to może zatrzymać aktualnie uruchomione skrypty!\n\nWięc czy jesteś pewny(a), że nie chcesz otrzymywać powiadomień o aktualizacjach?"
     },

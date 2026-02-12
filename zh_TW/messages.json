@@ -293,6 +293,9 @@
     "Apply_this_action_to_the_selected_scripts": {
         "message": "在所選腳本上套用此動作"
     },
+    "Apply_update": {
+        "message": "套用更新"
+    },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "篡改猴在瀏覽器更新後同時也重新啟動。這將會阻斷正在執行的腳本！\n\n您確定不要再提示更新嗎？"
     },
@@ -338,6 +341,9 @@
     },
     "Auto_syntax_check_on_typing": {
         "message": "輸入時自動檢查語法"
+    },
+    "Automatic_installation": {
+        "message": "自動安裝"
     },
     "Automatically_added_user_includes_for_compatibility_reasons_": {
         "message": "部分自訂 includes 因相容性原因自動新增！"

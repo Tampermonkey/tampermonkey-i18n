@@ -165,6 +165,9 @@
     "Apply_this_action_to_the_selected_scripts": {
         "message": "सभी चयनित स्क्रिप्ट पर यह लागू करें"
     },
+    "Apply_update": {
+        "message": "अपडेट के साथ प्रतिस्पर्धा करें"
+    },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Tampermonkey आपके ब्राउज़र द्वारा अपडेट किया जाता है यह फिर से शुरू होता है। दुर्भाग्य से यह वर्तमान में स्क्रिप्ट चलना तोड़ सकता है!\n\nतो आपको लगता है कि आप अपडेट की सूचना प्राप्त नहीं करना चाहते हैं?"
     },
@@ -206,6 +209,9 @@
     },
     "Auto_syntax_check_on_typing": {
         "message": "टाइपिंग पर स्वचालित सिंटेक्स की जांच"
+    },
+    "Automatic_installation": {
+        "message": "स्वचालित स्थापना"
     },
     "Automatically_added_user_includes_for_compatibility_reasons_": {
         "message": "संगतता कारणों के लिए कुछ उपयोगकर्ता समवेशों को स्वचालित रूप से  जोड़ा गया था!"

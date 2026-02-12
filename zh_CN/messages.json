@@ -273,6 +273,9 @@
     "Apply_this_action_to_the_selected_scripts": {
         "message": "应用此操作到选择的所有脚本"
     },
+    "Apply_update": {
+        "message": "应用更新"
+    },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "您的浏览器更新篡改猴时会重启篡改猴。这可能会中断当前正在运行的脚本！\n\n您确认不想接收篡改猴更新的通知吗？"
     },
@@ -314,6 +317,9 @@
     },
     "Auto_syntax_check_on_typing": {
         "message": "输入时自动检查语法"
+    },
+    "Automatic_installation": {
+        "message": "自动安装"
     },
     "Automatically_added_user_includes_for_compatibility_reasons_": {
         "message": "出于兼容原因已自动添加部分用户 include!"

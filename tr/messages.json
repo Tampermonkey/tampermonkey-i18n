@@ -258,6 +258,9 @@
     "Apply_this_action_to_the_selected_scripts": {
         "message": "Bunu seçilen tüm betiklere uygula"
     },
+    "Apply_update": {
+        "message": "Yeni betiği uygula"
+    },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Tampermonkey tarayıcınız tarafından güncellendiğinde yeniden başlatılır. Maalesef bu, şu anda çalışan betikleri bozabilir!\n\nDiğer güncellemelerden haberdar edilmek istemediğinizden emin misiniz?"
     },
@@ -299,6 +302,9 @@
     },
     "Auto_syntax_check_on_typing": {
         "message": "Yazarken otomatik söz dizimi denetimi"
+    },
+    "Automatic_installation": {
+        "message": "Otomatik Kurulum"
     },
     "Automatically_added_user_includes_for_compatibility_reasons_": {
         "message": "Uyumluluk nedeniyle bazı kullanıcı dahil etmeleri otomatik olarak eklendi!"

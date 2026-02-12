@@ -156,6 +156,9 @@
     "Apply_this_action_to_the_selected_scripts": {
         "message": "Bruk dette for alle de valgte skriptene"
     },
+    "Apply_update": {
+        "message": "Bruk oppdateringen"
+    },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Når Tampermonkey blir oppdatert av nettleseren din, blir den også startet på nytt. Dessverre kan det også knekke de skriptene som kjører på det tidspunktet!\n\nSå, er du sikker på at du ikke vil bli fortalt om oppdateringer?"
     },

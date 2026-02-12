@@ -369,6 +369,9 @@
     "Apply_this_action_to_the_selected_scripts": {
         "message": "Apply this to all selected scripts"
     },
+    "Apply_update": {
+        "message": "Apply update"
+    },
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "When Tampermonkey is updated by your browser it is also re-started. Unfortunately this might break currently running scripts!\n\nSo are you sure that you don't want to be notified of updates?"
     },
@@ -417,6 +420,9 @@
     },
     "Autocomplete": {
         "message": "Autocomplete"
+    },
+    "Automatic_installation": {
+        "message": "Automatic installation"
     },
     "Automatically_added_user_includes_for_compatibility_reasons_": {
         "message": "Some user includes were automatically added for compatibility reasons!"
