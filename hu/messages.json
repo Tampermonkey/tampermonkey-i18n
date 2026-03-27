@@ -113,8 +113,11 @@
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Amikor a böngésződ a Tampermonkey-t frissíti akkor újra az újra is indítja. Sajnos, ez lehet, hogy elrontja az éppen futó szkripteket! \n\n Tehát biztos, hogy nem akarsz értesülni a frissítésekről?"
     },
-    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
-        "message": "Az oldal legalább egy része a 'tiltott oldalak' beállítások alatt szerepel!"
+    "Some_URLs_are_restricted_by_a_setting_": {
+        "message": "Néhány URL-t egy beállítás korlátoz!"
+    },
+    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
+        "message": "Néhány URL-t a böngésződ vagy egy beállítás korlátoz!"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Figyelem: A kizáró lista megrövidült.\nKérlek, ellenőrizd manuálisan!"
@@ -820,8 +823,8 @@
     "This_is_a_userscript": {
         "message": "Ez egy userscript amely Javascript nyelven íródott"
     },
-    "This_page_is_blacklisted_at_the_security_settings": {
-        "message": "Biztonsági beállítások alapján feketelistára került "
+    "Partially_restricted_by_settings": {
+        "message": "A beállítások miatt részben korlátozva"
     },
     "This_script_does_not_provide_any__include_information_": {
         "message": "Ez a szkript nem tartalmaz @include információt."

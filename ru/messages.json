@@ -388,8 +388,11 @@
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Как минимум одно из выражений @include, @match или @exclude было изменено."
     },
-    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
-        "message": "Как минимум одна часть этой страницы указана в настройке «запрещённые страницы»!"
+    "Some_URLs_are_restricted_by_a_setting_": {
+        "message": "Некоторые URL ограничены настройкой!"
+    },
+    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
+        "message": "Некоторые URL ограничены браузером или настройкой!"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Внимание: список исключений был сокращён.\nПроверьте его вручную!"
@@ -1960,8 +1963,8 @@
     "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
         "message": "Позволяет домашней странице Tampermonkey и некоторым страницам хостинга скриптов определять версию Tampermonkey и базовую информацию о скриптах (какие установлены, их версии и включены ли они)."
     },
-    "This_page_is_blacklisted_at_the_security_settings": {
-        "message": "Занесён в чёрный список по настройкам безопасности"
+    "Partially_restricted_by_settings": {
+        "message": "Частично ограничено настройками"
     },
     "This_script_does_not_provide_any__include_information_": {
         "message": "Не содержит @include выражений."

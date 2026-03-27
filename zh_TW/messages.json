@@ -312,8 +312,11 @@
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "至少變更一個 @include、@match 或 @exclude 聲明。"
     },
-    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
-        "message": "此網頁至少有一部分被列在「禁止的網頁」設定清單上！"
+    "Some_URLs_are_restricted_by_a_setting_": {
+        "message": "某些 URL 受到設定限制！"
+    },
+    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
+        "message": "某些 URL 受到瀏覽器或設定限制！"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "注意：排除 URL(s) 列表發生變化。\n請手動檢查！"
@@ -1857,8 +1860,8 @@
     "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
         "message": "此選項將允許篡改猴首頁及一些腳本寄存網站判斷篡改猴的版本及其他腳本的基本資訊 (已安裝/啟用、版本)。"
     },
-    "This_page_is_blacklisted_at_the_security_settings": {
-        "message": "此頁面因為安全性設定而加入黑名單"
+    "Partially_restricted_by_settings": {
+        "message": "因設定而部分受限"
     },
     "This_script_does_not_provide_any__include_information_": {
         "message": "此腳本沒有提供任何 @include 資訊。"

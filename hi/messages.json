@@ -180,8 +180,11 @@
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "@include, @match या @exclude स्टेटमेंट में से कम से कम एक को बदल दिया गया।"
     },
-    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
-        "message": "इस पेज का कम से कम एक हिस्सा 'forbidden pages' सेटिंग में सूचीबद्ध किया गया है!"
+    "Some_URLs_are_restricted_by_a_setting_": {
+        "message": "कुछ URL किसी सेटिंग के कारण प्रतिबंधित हैं!"
+    },
+    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
+        "message": "कुछ URL आपके ब्राउज़र या किसी सेटिंग के कारण प्रतिबंधित हैं!"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "ध्यान दें: समावेश सूची छोटी कर दी गई है।\nकृपया इसे स्वतः जाँच लें!"
@@ -1320,8 +1323,8 @@
     "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
         "message": "यह विकल्प  Tampermonkey मुखपृष्ठ और कुछ स्क्रिप्ट होस्टिंग पेज को Tampermonkey संस्करण और कुछ बुनियादी स्क्रिप्ट जानकारी निर्धारित (स्थापित, संस्करण, सक्षम) करने की अनुमति देता है ।"
     },
-    "This_page_is_blacklisted_at_the_security_settings": {
-        "message": "सुरक्षा सेटिंग्स द्वारा ब्लैकलिस्ट"
+    "Partially_restricted_by_settings": {
+        "message": "सेटिंग्स के कारण आंशिक रूप से प्रतिबंधित"
     },
     "This_script_does_not_provide_any__include_information_": {
         "message": "यह स्क्रिप्ट कोई भी @include जानकारी प्रदान नहीं करती।"

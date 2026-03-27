@@ -183,8 +183,10 @@ At_least_one_new_connect_statement_was_added_:
   message: Mindestens eine @connect-Anweisung wurde hinzugefügt.
 At_least_one_of_the_include_match_or_exclude_statements_was_changed_:
   message: Mindestens eine der @include-, @match- oder @exclude-Anweisungen wurde modifiziert.
-At_least_one_part_of_this_page_is_forbidden_by_a_setting_:
-  message: Mindestens ein Teil der Seite ist durch eine Einstellung für die Script-Ausführung blockiert.
+Some_URLs_are_restricted_by_a_setting_:
+  message: Einige URLs sind durch eine Einstellung eingeschränkt.
+Some_URLs_are_restricted_by_your_browser_or_a_setting_:
+  message: Einige URLs sind durch deinen Browser oder eine Einstellung eingeschränkt.
 Attention_Can_not_display_all_excludes_:
   message: |-
     Achtung: Es werden nicht alle Seiten angezeigt!
@@ -1041,8 +1043,8 @@ This_is_a_userscript:
   message: Dieses Element ist ein Userscript geschrieben in JavaScript.
 This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_:
   message: Diese Option erlaubt es der Tampermonkey-Homepage und einigen Seiten, von denen Userscripte heruntergeladen werden können, die Tampermonkey-Version und grundlegende Informationen (installiert, aktiviert, Version) zu einem Userscript abzufragen.
-This_page_is_blacklisted_at_the_security_settings:
-  message: Durch Sicherheitsoptionen geblockt
+Partially_restricted_by_settings:
+  message: Teilweise durch Einstellungen eingeschränkt
 This_script_does_not_provide_any__include_information_:
   message: Dieses Userscript beinhaltet keine @include- oder @match-Informationen.
 This_script_does_not_require_any_special_powers_:

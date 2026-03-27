@@ -388,8 +388,11 @@
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "È stata modificata almeno una delle istruzioni @include, @match o @exclude."
     },
-    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
-        "message": "Almeno una parte di questa pagina è presente nell'impostazione delle 'pagine vietate'!"
+    "Some_URLs_are_restricted_by_a_setting_": {
+        "message": "Alcuni URL sono limitati da un'impostazione!"
+    },
+    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
+        "message": "Alcuni URL sono limitati dal browser o da un'impostazione!"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Attenzione: l'elenco di esclusione è stato ridotto.\nControllalo manualmente!"
@@ -1967,8 +1970,8 @@
     "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
         "message": "Questa opzione consente alla pagina home di Tampermonkey e ad alcune pagine di hosting di script di determinare la versione di Tampermonkey e alcune informazioni di base sullo script (installati, versione, abilitati)."
     },
-    "This_page_is_blacklisted_at_the_security_settings": {
-        "message": "Inserita nell'elenco vietati dalle impostazioni di sicurezza"
+    "Partially_restricted_by_settings": {
+        "message": "Parzialmente limitato dalle impostazioni"
     },
     "This_script_does_not_provide_any__include_information_": {
         "message": "Questo script non contiene nessuna informazione @include o info @match."

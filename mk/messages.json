@@ -279,8 +279,11 @@
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Барем една @include, @match или @exclude линија беше сменета."
     },
-    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
-        "message": "Барем еден дел од оваа страна е во делот на поставката „забранети страни“!"
+    "Some_URLs_are_restricted_by_a_setting_": {
+        "message": "Некои URL-адреси се ограничени со поставка!"
+    },
+    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
+        "message": "Некои URL-адреси се ограничени од вашиот прелистувач или од поставка!"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Внимание: Листата за исклучуванје беше скратена.\nВе молиме проверете ја!"
@@ -1717,7 +1720,7 @@
     "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
         "message": "Оваа опција дозволува на Tampermonkey страната и некои страни со скриптови да ја одредат верзијата на Tampermonkey и некои општи информации за скриптови (инсталирани, верзија, уклучени)."
     },
-    "This_page_is_blacklisted_at_the_security_settings": {
+    "Partially_restricted_by_settings": {
         "message": "На црна листа од поставките за безбедност"
     },
     "This_script_does_not_provide_any__include_information_": {

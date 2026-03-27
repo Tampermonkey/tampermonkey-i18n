@@ -238,8 +238,11 @@
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Mindst ét @include-, @match- eller @exclude-statement blev ændret."
     },
-    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
-        "message": "Mindst én del af denne side er angivet under indstillingen 'forbudte sider'!"
+    "Some_URLs_are_restricted_by_a_setting_": {
+        "message": "Nogle URL'er er begrænset af en indstilling!"
+    },
+    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
+        "message": "Nogle URL'er er begrænset af din browser eller en indstilling!"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "OBS: Ekskluderingslisten blev forkortet.\nKontrollér den manuelt!"
@@ -1706,8 +1709,8 @@
     "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
         "message": "Denne indstilling tillader Tampermonkey-hjemmesiden og nogle script-hosting-sider at bestemme Tampermonkey-versionen og nogle grundlæggende scriptoplysninger (installeret, version, aktiveret)."
     },
-    "This_page_is_blacklisted_at_the_security_settings": {
-        "message": "Sortlistet pga. sikkerhedsindstillinger"
+    "Partially_restricted_by_settings": {
+        "message": "Delvist begrænset af indstillinger"
     },
     "This_script_does_not_provide_any__include_information_": {
         "message": "Dette script giver ingen @include-information."

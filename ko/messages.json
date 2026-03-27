@@ -165,8 +165,11 @@
     "Ask_if_unknown": {
         "message": "모를 때 물어보기"
     },
-    "At_least_one_part_of_this_page_is_forbidden_by_a_setting_": {
-        "message": "이 페이지의 적어도 한 부분이 '금지된 페이지' 설정에 올라 있습니다!"
+    "Some_URLs_are_restricted_by_a_setting_": {
+        "message": "일부 URL은 설정에 의해 제한됩니다!"
+    },
+    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
+        "message": "일부 URL은 브라우저 또는 설정에 의해 제한됩니다!"
     },
     "Author": {
         "message": "작성자"
@@ -1023,8 +1026,8 @@
     "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
         "message": "이 설정은 Tampermonkey 홈페이지와 몇몇 스크립트 호스팅 페이지가 Tampermonkey 버전과 몇 가지 기본적인 스크립트 정보(설치 여부, 버전, 활성화 여부)를 확인할 수 있도록 허용합니다."
     },
-    "This_page_is_blacklisted_at_the_security_settings": {
-        "message": "보안 설정에 의해 블랙리스트 처리됨"
+    "Partially_restricted_by_settings": {
+        "message": "설정에 의해 일부 제한됨"
     },
     "This_script_does_not_provide_any__include_information_": {
         "message": "이 스크립트는 아무런 @include 정보를 제공하지 않습니다."
