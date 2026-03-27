@@ -388,12 +388,6 @@
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Как минимум одно из выражений @include, @match или @exclude было изменено."
     },
-    "Some_URLs_are_restricted_by_a_setting_": {
-        "message": "Некоторые URL ограничены настройкой!"
-    },
-    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
-        "message": "Некоторые URL ограничены браузером или настройкой!"
-    },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Внимание: список исключений был сокращён.\nПроверьте его вручную!"
     },
@@ -1295,7 +1289,7 @@
     "Next_Bookmark": {
         "message": "Следующая закладка"
     },
-    "Next_Problem":  {
+    "Next_Problem": {
         "message": "Следующая проблема"
     },
     "Next_tab": {
@@ -1406,6 +1400,9 @@
     },
     "Page_Filter_Mode": {
         "message": "Режим фильтрации страниц"
+    },
+    "Partially_restricted_by_settings": {
+        "message": "Частично ограничено настройками"
     },
     "Password": {
         "message": "Пароль"
@@ -1751,6 +1748,12 @@
     "Smart_Backspace": {
         "message": "«Умный» Backspace"
     },
+    "Some_URLs_are_restricted_by_a_setting_": {
+        "message": "Некоторые URL ограничены настройкой!"
+    },
+    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
+        "message": "Некоторые URL ограничены браузером или настройкой!"
+    },
     "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
         "message": "Некоторые скрипты могут быть заблокированы настройками JavaScript для этой страницы или блокировщиком скриптов!"
     },
@@ -1962,9 +1965,6 @@
     },
     "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
         "message": "Позволяет домашней странице Tampermonkey и некоторым страницам хостинга скриптов определять версию Tampermonkey и базовую информацию о скриптах (какие установлены, их версии и включены ли они)."
-    },
-    "Partially_restricted_by_settings": {
-        "message": "Частично ограничено настройками"
     },
     "This_script_does_not_provide_any__include_information_": {
         "message": "Не содержит @include выражений."

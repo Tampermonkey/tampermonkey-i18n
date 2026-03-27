@@ -165,12 +165,6 @@
     "Ask_if_unknown": {
         "message": "모를 때 물어보기"
     },
-    "Some_URLs_are_restricted_by_a_setting_": {
-        "message": "일부 URL은 설정에 의해 제한됩니다!"
-    },
-    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
-        "message": "일부 URL은 브라우저 또는 설정에 의해 제한됩니다!"
-    },
     "Author": {
         "message": "작성자"
     },
@@ -702,6 +696,9 @@
     "Page_Filter_Mode": {
         "message": "페이지 필터링 모드"
     },
+    "Partially_restricted_by_settings": {
+        "message": "설정에 의해 일부 제한됨"
+    },
     "Permanent": {
         "message": "영구"
     },
@@ -713,14 +710,14 @@
             }
         }
     },
-    "Please_enable_the_allow_userscripts_extension_setting_": {
-        "message": "`사용자 스크립트 허용` 확장 설정을 활성화하세요. 여기를 클릭하여 어떻게 하는지 알아보세요."
-    },
     "Please_consider_a_contribution": {
         "message": "기부를 고려해 주세요"
     },
     "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
         "message": "익명 통계를 활성화하여 이 확장 기능을 최적화하는 데 도움을 주세요. 기술적 데이터와 확장 기능과의 상호 작용 데이터만 수집됩니다. 데이터에 대한 자세한 정보는 여기를 클릭하세요."
+    },
+    "Please_enable_the_allow_userscripts_extension_setting_": {
+        "message": "`사용자 스크립트 허용` 확장 설정을 활성화하세요. 여기를 클릭하여 어떻게 하는지 알아보세요."
     },
     "Please_select_a_file": {
         "message": "파일을 선택해 주세요"
@@ -896,6 +893,12 @@
     "Smart": {
         "message": "자동"
     },
+    "Some_URLs_are_restricted_by_a_setting_": {
+        "message": "일부 URL은 설정에 의해 제한됩니다!"
+    },
+    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
+        "message": "일부 URL은 브라우저 또는 설정에 의해 제한됩니다!"
+    },
     "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
         "message": "어떤 스크립트가 이 페이지에 대한 자바스크립트 설정이나 스크립트 차단기에 의해 차단되었을 수 있습니다!"
     },
@@ -1025,9 +1028,6 @@
     },
     "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
         "message": "이 설정은 Tampermonkey 홈페이지와 몇몇 스크립트 호스팅 페이지가 Tampermonkey 버전과 몇 가지 기본적인 스크립트 정보(설치 여부, 버전, 활성화 여부)를 확인할 수 있도록 허용합니다."
-    },
-    "Partially_restricted_by_settings": {
-        "message": "설정에 의해 일부 제한됨"
     },
     "This_script_does_not_provide_any__include_information_": {
         "message": "이 스크립트는 아무런 @include 정보를 제공하지 않습니다."

@@ -162,12 +162,6 @@
     "Ask_if_unknown": {
         "message": "Pergunte se não conhece."
     },
-    "Some_URLs_are_restricted_by_a_setting_": {
-        "message": "Alguns URLs estão restringidos por uma definição."
-    },
-    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
-        "message": "Alguns URLs estão restringidos pelo seu browser ou por uma definição."
-    },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Atenção: A lista de exclusões não pode ser apresentada na sua totalidade.\nPor favor, verifique manualmente!"
     },
@@ -646,6 +640,9 @@
     "Page_Filter_Mode": {
         "message": "Modo de Filtro de Página"
     },
+    "Partially_restricted_by_settings": {
+        "message": "Parcialmente restringido pelas definições"
+    },
     "Permanent": {
         "message": "Permanente"
     },
@@ -828,6 +825,12 @@
             }
         }
     },
+    "Some_URLs_are_restricted_by_a_setting_": {
+        "message": "Alguns URLs estão restringidos por uma definição."
+    },
+    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
+        "message": "Alguns URLs estão restringidos pelo seu browser ou por uma definição."
+    },
     "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
         "message": "Alguns scripts podem ser bloqueados pelas configurações do javascript para esta página ou por um bloqueador de scripts!"
     },
@@ -942,9 +945,6 @@
     },
     "This_is_a_userscript": {
         "message": "Este é um Userscript"
-    },
-    "Partially_restricted_by_settings": {
-        "message": "Parcialmente restringido pelas definições"
     },
     "This_script_does_not_provide_any__include_information_": {
         "message": "Este script não fornece qualquer informação @include."

@@ -279,12 +279,6 @@
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Барем една @include, @match или @exclude линија беше сменета."
     },
-    "Some_URLs_are_restricted_by_a_setting_": {
-        "message": "Некои URL-адреси се ограничени со поставка!"
-    },
-    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
-        "message": "Некои URL-адреси се ограничени од вашиот прелистувач или од поставка!"
-    },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Внимание: Листата за исклучуванје беше скратена.\nВе молиме проверете ја!"
     },
@@ -1117,7 +1111,7 @@
     "Next_Bookmark": {
         "message": "Нареден букмарк"
     },
-    "Next_Problem":  {
+    "Next_Problem": {
         "message": "Следна грешка"
     },
     "No": {
@@ -1212,6 +1206,9 @@
     },
     "Page_Filter_Mode": {
         "message": "Мод на филтрирање на страна"
+    },
+    "Partially_restricted_by_settings": {
+        "message": "На црна листа од поставките за безбедност"
     },
     "Password": {
         "message": "Лозинка"
@@ -1536,6 +1533,12 @@
     "Smart": {
         "message": "Паметно"
     },
+    "Some_URLs_are_restricted_by_a_setting_": {
+        "message": "Некои URL-адреси се ограничени со поставка!"
+    },
+    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
+        "message": "Некои URL-адреси се ограничени од вашиот прелистувач или од поставка!"
+    },
     "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
         "message": "Некои скриптови може да се блокирани од JavaScript поставките за оваа страна или од скрипт блокер!"
     },
@@ -1719,9 +1722,6 @@
     },
     "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
         "message": "Оваа опција дозволува на Tampermonkey страната и некои страни со скриптови да ја одредат верзијата на Tampermonkey и некои општи информации за скриптови (инсталирани, верзија, уклучени)."
-    },
-    "Partially_restricted_by_settings": {
-        "message": "На црна листа од поставките за безбедност"
     },
     "This_script_does_not_provide_any__include_information_": {
         "message": "Овој скрипт не дава @include информации."

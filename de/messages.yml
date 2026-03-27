@@ -100,8 +100,7 @@ All_but_HttpOnly:
 All_local_files:
   message: Alle lokalen Dateien
 All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_:
-  message:  |-
-    Die Änderungen werden nur kurzfristig gespeichert. Bitte konfigurieren Sie die Option '$name$', um sie dauerhaft zu speichern!
+  message: Die Änderungen werden nur kurzfristig gespeichert. Bitte konfigurieren Sie die Option '$name$', um sie dauerhaft zu speichern!
   placeholders:
     name:
       content: $1
@@ -183,10 +182,6 @@ At_least_one_new_connect_statement_was_added_:
   message: Mindestens eine @connect-Anweisung wurde hinzugefügt.
 At_least_one_of_the_include_match_or_exclude_statements_was_changed_:
   message: Mindestens eine der @include-, @match- oder @exclude-Anweisungen wurde modifiziert.
-Some_URLs_are_restricted_by_a_setting_:
-  message: Einige URLs sind durch eine Einstellung eingeschränkt.
-Some_URLs_are_restricted_by_your_browser_or_a_setting_:
-  message: Einige URLs sind durch deinen Browser oder eine Einstellung eingeschränkt.
 Attention_Can_not_display_all_excludes_:
   message: |-
     Achtung: Es werden nicht alle Seiten angezeigt!
@@ -267,8 +262,7 @@ Click_here_to_allow_TM_to_access_the_following_hosts_0hostlist0:
     hostlist:
       content: $1
 Click_here_to_allow_TM_to_make_use_of_a_proxy:
-  message: |-
-    Ein Klick auf 'OK' erlaubt Tampermonkey die Nutzung eines Proxys für GM_xmlhttpRequests.
+  message: Ein Klick auf 'OK' erlaubt Tampermonkey die Nutzung eines Proxys für GM_xmlhttpRequests.
 Click_here_to_allow_TM_to_start_downloads:
   message: Ein Klick auf 'OK' erlaubt Tampermonkey bzw. den Userscripts sofort startende Downloads.
 Click_here_to_install_it_:
@@ -732,6 +726,8 @@ Overwrite:
   message: Überschreiben
 Page_Filter_Mode:
   message: Filtere Seiten nach
+Partially_restricted_by_settings:
+  message: Teilweise durch Einstellungen eingeschränkt
 Password:
   message: Passwort
 Please_check_the_0editor0_documentation_for_more_details_:
@@ -907,6 +903,10 @@ Skip_timeout__0seconds0_seconds_:
   placeholders:
     seconds:
       content: $1
+Some_URLs_are_restricted_by_a_setting_:
+  message: Einige URLs sind durch eine Einstellung eingeschränkt.
+Some_URLs_are_restricted_by_your_browser_or_a_setting_:
+  message: Einige URLs sind durch deinen Browser oder eine Einstellung eingeschränkt.
 Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_:
   message: Einige Userscripte könnten durch einen Script-Blocker oder die JavaScript-Einstellungen blockiert worden sein!
 Sort:
@@ -1043,8 +1043,6 @@ This_is_a_userscript:
   message: Dieses Element ist ein Userscript geschrieben in JavaScript.
 This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_:
   message: Diese Option erlaubt es der Tampermonkey-Homepage und einigen Seiten, von denen Userscripte heruntergeladen werden können, die Tampermonkey-Version und grundlegende Informationen (installiert, aktiviert, Version) zu einem Userscript abzufragen.
-Partially_restricted_by_settings:
-  message: Teilweise durch Einstellungen eingeschränkt
 This_script_does_not_provide_any__include_information_:
   message: Dieses Userscript beinhaltet keine @include- oder @match-Informationen.
 This_script_does_not_require_any_special_powers_:

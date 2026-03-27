@@ -294,12 +294,6 @@
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Змінено принаймні один з виразів @include, @match або @exclude."
     },
-    "Some_URLs_are_restricted_by_a_setting_": {
-        "message": "Деякі URL-адреси обмежені налаштуванням!"
-    },
-    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
-        "message": "Деякі URL-адреси обмежені вашим браузером або налаштуванням!"
-    },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Увага: список виключень був скорочений.\nБудь ласка, перевірте його вручну!"
     },
@@ -1192,7 +1186,7 @@
     "Next_Bookmark": {
         "message": "Наступна закладка"
     },
-    "Next_Problem":  {
+    "Next_Problem": {
         "message": "Наступна проблема"
     },
     "No": {
@@ -1297,6 +1291,9 @@
     },
     "Page_Filter_Mode": {
         "message": "Режим фільтра сторінки"
+    },
+    "Partially_restricted_by_settings": {
+        "message": "Частково обмежено налаштуваннями"
     },
     "Password": {
         "message": "Пароль"
@@ -1633,6 +1630,12 @@
     "Smart": {
         "message": "Розумний"
     },
+    "Some_URLs_are_restricted_by_a_setting_": {
+        "message": "Деякі URL-адреси обмежені налаштуванням!"
+    },
+    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
+        "message": "Деякі URL-адреси обмежені вашим браузером або налаштуванням!"
+    },
     "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
         "message": "Деякі скрипти можуть бути заблоковані налаштуваннями JavaScript для цієї сторінки або блокувальником скриптів!"
     },
@@ -1841,9 +1844,6 @@
     },
     "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
         "message": "Ця опція дозволяє домашній сторінці Tampermonkey та деяким сторінкам хостингу скриптів визначати версію Tampermonkey та основну інформацію про скрипти (встановлено, версія, увімкнено)."
-    },
-    "Partially_restricted_by_settings": {
-        "message": "Частково обмежено налаштуваннями"
     },
     "This_script_does_not_provide_any__include_information_": {
         "message": "Цей скрипт не надає жодної інформації @include або @match."

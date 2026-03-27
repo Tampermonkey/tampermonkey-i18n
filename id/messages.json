@@ -119,9 +119,6 @@
     "Attention_Can_not_display_all_includes_": {
         "message": "Perhatian: Daftar include telah disingkat.\nSilakan periksa secara manual!"
     },
-    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
-        "message": "Beberapa URL dibatasi oleh peramban atau pengaturannya!"
-    },
     "Author": {
         "message": "Penulis"
     },
@@ -612,6 +609,9 @@
                 "content": "$1"
             }
         }
+    },
+    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
+        "message": "Beberapa URL dibatasi oleh peramban atau pengaturannya!"
     },
     "Source": {
         "message": "Sumber"

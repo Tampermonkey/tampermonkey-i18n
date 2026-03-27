@@ -193,12 +193,6 @@
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Najmanje jedan od @include, @match ili @exclude iskaza je promenjen."
     },
-    "Some_URLs_are_restricted_by_a_setting_": {
-        "message": "Neki URL-ovi su ograničeni zbog podešavanja!"
-    },
-    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
-        "message": "Neki URL-ovi su ograničeni vašim pregledačem ili podešavanjem!"
-    },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Upozorenje: Lista (Isključeni) je smanjena.\nMolimo vas proverite ručno!"
     },
@@ -828,7 +822,7 @@
     "Next_Bookmark": {
         "message": "Sledeći Obeleživač"
     },
-    "Next_Problem":  {
+    "Next_Problem": {
         "message": "Sledeći Problem"
     },
     "No": {
@@ -905,6 +899,9 @@
     },
     "Page_Filter_Mode": {
         "message": "Filter Mod Stranica"
+    },
+    "Partially_restricted_by_settings": {
+        "message": "Delimično ograničeno podešavanjima"
     },
     "Paste": {
         "message": "Nalepi"
@@ -1150,6 +1147,12 @@
     "Smart": {
         "message": "Pametno"
     },
+    "Some_URLs_are_restricted_by_a_setting_": {
+        "message": "Neki URL-ovi su ograničeni zbog podešavanja!"
+    },
+    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
+        "message": "Neki URL-ovi su ograničeni vašim pregledačem ili podešavanjem!"
+    },
     "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
         "message": "Neke skripte mogu biti blokirane od strane JavaScript podešavanja na ovoj stranici ili bloker skripta!"
     },
@@ -1315,9 +1318,6 @@
     },
     "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
         "message": "Ova opcija omogućava Tampermonkey početnoj stranici i nekim skriptama da utvrde Tampermonkey-ovu verziju i neke osnovne informacije o skripti (instalirane, verzija, uključena)."
-    },
-    "Partially_restricted_by_settings": {
-        "message": "Delimično ograničeno podešavanjima"
     },
     "This_script_does_not_provide_any__include_information_": {
         "message": "Ova skripta ne obezbedjuje nikakve @include informacije."

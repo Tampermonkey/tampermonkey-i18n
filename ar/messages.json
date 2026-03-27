@@ -235,12 +235,6 @@
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "تم تغيير عبارة @include أو @match أو @exclude واحدة على الأقل."
     },
-    "Some_URLs_are_restricted_by_a_setting_": {
-        "message": "بعض عناوين URL مقيّدة بواسطة أحد الإعدادات!"
-    },
-    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
-        "message": "بعض عناوين URL مقيّدة بواسطة متصفحك أو أحد الإعدادات!"
-    },
     "Attention_Can_not_display_all_excludes_": {
         "message": ".تنبيه: قائمة الاستبعاد تم تقصيرها\n!من فضلك إفحصها يدوياً"
     },
@@ -929,7 +923,7 @@
     "Next_Bookmark": {
         "message": "المرجعية التالية"
     },
-    "Next_Problem":  {
+    "Next_Problem": {
         "message": "المشكلة التالية"
     },
     "No": {
@@ -1012,6 +1006,9 @@
     },
     "Page_Filter_Mode": {
         "message": "وضع تصفية الصفحة"
+    },
+    "Partially_restricted_by_settings": {
+        "message": "مقيّد جزئيًا بواسطة الإعدادات"
     },
     "Password": {
         "message": "الرقم السري"
@@ -1272,6 +1269,12 @@
     "Smart": {
         "message": "ذكي"
     },
+    "Some_URLs_are_restricted_by_a_setting_": {
+        "message": "بعض عناوين URL مقيّدة بواسطة أحد الإعدادات!"
+    },
+    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
+        "message": "بعض عناوين URL مقيّدة بواسطة متصفحك أو أحد الإعدادات!"
+    },
     "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
         "message": "قد يتم حظر بعض البرامج النصية بواسطة إعدادات JavaScript لهذه الصفحة أو بواسطة أداة حظر البرامج النصية!"
     },
@@ -1449,9 +1452,6 @@
     },
     "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
         "message": "يسمح هذا الخيار للصفحة الرئيسية لـ Tampermonkey وبعض صفحات استضافة البرامج النصية بتحديد إصدار Tampermonkey وبعض معلومات البرنامج النصي الأساسي (مثبت ، إصدار ، مُمكّن)."
-    },
-    "Partially_restricted_by_settings": {
-        "message": "مقيّد جزئيًا بواسطة الإعدادات"
     },
     "This_script_does_not_provide_any__include_information_": {
         "message": ".هذا البرنامج النصي لا توفر أي معلومات @include مضمنة"

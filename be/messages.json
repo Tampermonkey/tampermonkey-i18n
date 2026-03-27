@@ -1,28 +1,4 @@
 {
-    "extName": {
-        "message": "Tampermonkey"
-    },
-    "extNameBeta": {
-        "message": "Tampermonkey BETA"
-    },
-    "extNameLegacy": {
-        "message": "Tampermonkey Legacy"
-    },
-    "extNameClassic": {
-        "message": "Tampermonkey Classic"
-    },
-    "extShortName": {
-        "message": "Tampermonkey"
-    },
-    "extShortNameBeta": {
-        "message": "TM BETA"
-    },
-    "extShortNameLegacy": {
-        "message": "TM Legacy"
-    },
-    "extShortNameClassic": {
-        "message": "TM Classic"
-    },
     "extDescription": {
         "message": "Змяняйце вэб-старонкі па жаданні з дапамогай карыстальніцкіх скрыптоў"
     },
@@ -387,12 +363,6 @@
     },
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Быў зменены як мінімум адзін аператар @include, @match або @exclude."
-    },
-    "Some_URLs_are_restricted_by_a_setting_": {
-        "message": "Некаторыя URL абмежаваныя наладай!"
-    },
-    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
-        "message": "Некаторыя URL абмежаваныя вашым браўзерам або наладай!"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Увага: спіс выключэнняў быў скарочаны.\nПраверце яго ўручную!"
@@ -1298,7 +1268,7 @@
     "Next_Bookmark": {
         "message": "Наступная закладка"
     },
-    "Next_Problem":  {
+    "Next_Problem": {
         "message": "Наступная праблема"
     },
     "Next_tab": {
@@ -1409,6 +1379,9 @@
     },
     "Page_Filter_Mode": {
         "message": "Рэжым фільтра старонкі"
+    },
+    "Partially_restricted_by_settings": {
+        "message": "У чорным спісе паводле налад бяспекі"
     },
     "Password": {
         "message": "Пароль"
@@ -1758,6 +1731,12 @@
     "Smart_Backspace": {
         "message": "Разумны Backspace"
     },
+    "Some_URLs_are_restricted_by_a_setting_": {
+        "message": "Некаторыя URL абмежаваныя наладай!"
+    },
+    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
+        "message": "Некаторыя URL абмежаваныя вашым браўзерам або наладай!"
+    },
     "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
         "message": "Некаторыя скрыпты могуць быць заблакіраваны наладамі JavaScript для гэтай старонкі або блакіроўшчыкам скрыптоў!"
     },
@@ -1969,9 +1948,6 @@
     },
     "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
         "message": "Гэты параметр дазваляе дамашняй старонцы Tampermonkey і некаторым скрыптам вызначаць версію Tampermonkey і базавую інфармацыю аб скрыптах (ці ўсталяваны, версію, ці ўключаны)."
-    },
-    "Partially_restricted_by_settings": {
-        "message": "У чорным спісе паводле налад бяспекі"
     },
     "This_script_does_not_provide_any__include_information_": {
         "message": "Гэты скрыпт не дае ніякай інфармацыі пра @include або @match."

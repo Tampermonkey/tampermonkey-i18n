@@ -388,12 +388,6 @@
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "At least one @include, @match or @exclude statement was changed."
     },
-    "Some_URLs_are_restricted_by_a_setting_": {
-        "message": "Some URLs are restricted by a setting!"
-    },
-    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
-        "message": "Some URLs are restricted by your browser or a setting!"
-    },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Attention: The exclude list was shortened.\nPlease check it manually!"
     },
@@ -1298,7 +1292,7 @@
     "Next_Bookmark": {
         "message": "Next Bookmark"
     },
-    "Next_Problem":  {
+    "Next_Problem": {
         "message": "Next Problem"
     },
     "Next_tab": {
@@ -1409,6 +1403,9 @@
     },
     "Page_Filter_Mode": {
         "message": "Page Filter Mode"
+    },
+    "Partially_restricted_by_settings": {
+        "message": "Partially restricted by settings"
     },
     "Password": {
         "message": "Password"
@@ -1758,6 +1755,12 @@
     "Smart_Backspace": {
         "message": "Smart Backspace"
     },
+    "Some_URLs_are_restricted_by_a_setting_": {
+        "message": "Some URLs are restricted by a setting!"
+    },
+    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
+        "message": "Some URLs are restricted by your browser or a setting!"
+    },
     "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
         "message": "Some scripts might be blocked by the JavaScript settings for this page or a script blocker!"
     },
@@ -1969,9 +1972,6 @@
     },
     "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
         "message": "This option allows the Tampermonkey homepage and some script hosting pages to determine the Tampermonkey version and some basic script information (installed, version, enabled)."
-    },
-    "Partially_restricted_by_settings": {
-        "message": "Partially restricted by settings"
     },
     "This_script_does_not_provide_any__include_information_": {
         "message": "This script does not provide any @include or @match information."

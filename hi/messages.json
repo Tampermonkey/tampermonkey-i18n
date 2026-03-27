@@ -180,12 +180,6 @@
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "@include, @match या @exclude स्टेटमेंट में से कम से कम एक को बदल दिया गया।"
     },
-    "Some_URLs_are_restricted_by_a_setting_": {
-        "message": "कुछ URL किसी सेटिंग के कारण प्रतिबंधित हैं!"
-    },
-    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
-        "message": "कुछ URL आपके ब्राउज़र या किसी सेटिंग के कारण प्रतिबंधित हैं!"
-    },
     "Attention_Can_not_display_all_excludes_": {
         "message": "ध्यान दें: समावेश सूची छोटी कर दी गई है।\nकृपया इसे स्वतः जाँच लें!"
     },
@@ -831,7 +825,7 @@
     "Next_Bookmark": {
         "message": "अगला बुकमार्क"
     },
-    "Next_Problem":  {
+    "Next_Problem": {
         "message": "अगला समस्या"
     },
     "No": {
@@ -915,6 +909,9 @@
     "Page_Filter_Mode": {
         "message": "पेज फ़िल्टर मोड"
     },
+    "Partially_restricted_by_settings": {
+        "message": "सेटिंग्स के कारण आंशिक रूप से प्रतिबंधित"
+    },
     "Paste": {
         "message": "पेस्ट"
     },
@@ -929,14 +926,14 @@
             }
         }
     },
-    "Please_enable_the_allow_userscripts_extension_setting_": {
-        "message": "एक्सटेंशन की ‘उपयोगकर्ता स्क्रिप्टें अनुमति दें’ सेटिंग को सक्रिय करें। अधिक जानकारी के लिये यहाँ क्लिक करें।"
-    },
     "Please_consider_a_contribution": {
         "message": "कृपया दान भेजें"
     },
     "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
         "message": "कृपया गुमनाम आंकड़े सक्षम करें और इस एक्सटेंशन को बेहतर बनाने में मदद करें। केवल तकनीकी और एक्सटेंशन सहभागिता डेटा एकत्रित किया जाता है। डेटा के बारे में अधिक जानकारी के लिए यहां क्लिक करें।"
+    },
+    "Please_enable_the_allow_userscripts_extension_setting_": {
+        "message": "एक्सटेंशन की ‘उपयोगकर्ता स्क्रिप्टें अनुमति दें’ सेटिंग को सक्रिय करें। अधिक जानकारी के लिये यहाँ क्लिक करें।"
     },
     "Please_select_a_file": {
         "message": "कृपया फ़ाइल चुनें"
@@ -1163,6 +1160,12 @@
     "Smart": {
         "message": "स्मार्ट"
     },
+    "Some_URLs_are_restricted_by_a_setting_": {
+        "message": "कुछ URL किसी सेटिंग के कारण प्रतिबंधित हैं!"
+    },
+    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
+        "message": "कुछ URL आपके ब्राउज़र या किसी सेटिंग के कारण प्रतिबंधित हैं!"
+    },
     "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
         "message": "इस पेज की कुछ स्क्रिप्ट जावास्क्रिप्ट सेटिंग द्वारा स्क्रिप्ट ब्लॉकर से अवरुद्ध की जा सकती है!"
     },
@@ -1322,9 +1325,6 @@
     },
     "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
         "message": "यह विकल्प  Tampermonkey मुखपृष्ठ और कुछ स्क्रिप्ट होस्टिंग पेज को Tampermonkey संस्करण और कुछ बुनियादी स्क्रिप्ट जानकारी निर्धारित (स्थापित, संस्करण, सक्षम) करने की अनुमति देता है ।"
-    },
-    "Partially_restricted_by_settings": {
-        "message": "सेटिंग्स के कारण आंशिक रूप से प्रतिबंधित"
     },
     "This_script_does_not_provide_any__include_information_": {
         "message": "यह स्क्रिप्ट कोई भी @include जानकारी प्रदान नहीं करती।"

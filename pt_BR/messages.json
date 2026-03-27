@@ -1,28 +1,4 @@
 {
-    "extName": {
-        "message": "Tampermonkey"
-    },
-    "extNameBeta": {
-        "message": "Tampermonkey BETA"
-    },
-    "extNameLegacy": {
-        "message": "Tampermonkey Legacy"
-    },
-    "extNameClassic": {
-        "message": "Tampermonkey Classic"
-    },
-    "extShortName": {
-        "message": "Tampermonkey"
-    },
-    "extShortNameBeta": {
-        "message": "TM BETA"
-    },
-    "extShortNameLegacy": {
-        "message": "TM Legacy"
-    },
-    "extShortNameClassic": {
-        "message": "TM Classic"
-    },
     "extDescription": {
         "message": "Mude a web à vontade com userscripts"
     },
@@ -387,12 +363,6 @@
     },
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Pelo menos uma das declarações @include, @match ou @exclude foi alterada."
-    },
-    "Some_URLs_are_restricted_by_a_setting_": {
-        "message": "Algumas URLs estão restritas por uma configuração!"
-    },
-    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
-        "message": "Algumas URLs estão restritas pelo seu navegador ou por uma configuração!"
     },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Atenção: A lista de exclusões foi encurtada.\nPor favor, cheque manualmente!"
@@ -1298,7 +1268,7 @@
     "Next_Bookmark": {
         "message": "Próximo marcador"
     },
-    "Next_Problem":  {
+    "Next_Problem": {
         "message": "Próximo problema"
     },
     "Next_tab": {
@@ -1409,6 +1379,9 @@
     },
     "Page_Filter_Mode": {
         "message": "Modo de Filtro de Página"
+    },
+    "Partially_restricted_by_settings": {
+        "message": "Parcialmente restrito pelas configurações"
     },
     "Password": {
         "message": "Senha"
@@ -1758,6 +1731,12 @@
     "Smart_Backspace": {
         "message": "Backspace Inteligente"
     },
+    "Some_URLs_are_restricted_by_a_setting_": {
+        "message": "Algumas URLs estão restritas por uma configuração!"
+    },
+    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
+        "message": "Algumas URLs estão restritas pelo seu navegador ou por uma configuração!"
+    },
     "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
         "message": "Alguns scripts podem estar bloqueados pelas configurações do javascript desta página ou um bloqueador de scripts!"
     },
@@ -1969,9 +1948,6 @@
     },
     "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
         "message": "Esta opção permite que a página inicial do Tampermonkey e algumas páginas de hospedagem de scripts determinem a versão do Tampermonkey e algumas informações básicas sobre o script (instalado, versão, habilitado)"
-    },
-    "Partially_restricted_by_settings": {
-        "message": "Parcialmente restrito pelas configurações"
     },
     "This_script_does_not_provide_any__include_information_": {
         "message": "Este script não possui nenhuma informação @include."

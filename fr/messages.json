@@ -294,12 +294,6 @@
     "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
         "message": "Au moins l'une des instructions @include, @match ou @exclude a été modifiée."
     },
-    "Some_URLs_are_restricted_by_a_setting_": {
-        "message": "Certaines URL sont restreintes par un paramètre !"
-    },
-    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
-        "message": "Certaines URL sont restreintes par votre navigateur ou par un paramètre !"
-    },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Attention : La liste d'exclusion a été réduite.\nVeuillez la vérifier manuellement !"
     },
@@ -1183,7 +1177,7 @@
     "Next_Bookmark": {
         "message": "Favoris suivant"
     },
-    "Next_Problem":  {
+    "Next_Problem": {
         "message": "Problème suivant"
     },
     "No": {
@@ -1285,6 +1279,9 @@
     },
     "Page_Filter_Mode": {
         "message": "Mode de filtre de page"
+    },
+    "Partially_restricted_by_settings": {
+        "message": "Partiellement restreint par les paramètres"
     },
     "Password": {
         "message": "Mot de passe"
@@ -1618,6 +1615,12 @@
     "Smart": {
         "message": "Intelligent"
     },
+    "Some_URLs_are_restricted_by_a_setting_": {
+        "message": "Certaines URL sont restreintes par un paramètre !"
+    },
+    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
+        "message": "Certaines URL sont restreintes par votre navigateur ou par un paramètre !"
+    },
     "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
         "message": "Des scripts peuvent être bloqués par un paramétrage javascript ou un bloqueur de script !"
     },
@@ -1815,9 +1818,6 @@
     },
     "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
         "message": "Cette option permet à la page d'accueil de Tampermonkey et à certaines pages d'hébergement de scripts de déterminer la version de Tampermonkey et quelques informations de base du script (installé, version, activé)."
-    },
-    "Partially_restricted_by_settings": {
-        "message": "Partiellement restreint par les paramètres"
     },
     "This_script_does_not_provide_any__include_information_": {
         "message": "Ce script ne contient pas d'information @include."

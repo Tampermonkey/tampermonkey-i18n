@@ -113,12 +113,6 @@
     "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
         "message": "Amikor a böngésződ a Tampermonkey-t frissíti akkor újra az újra is indítja. Sajnos, ez lehet, hogy elrontja az éppen futó szkripteket! \n\n Tehát biztos, hogy nem akarsz értesülni a frissítésekről?"
     },
-    "Some_URLs_are_restricted_by_a_setting_": {
-        "message": "Néhány URL-t egy beállítás korlátoz!"
-    },
-    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
-        "message": "Néhány URL-t a böngésződ vagy egy beállítás korlátoz!"
-    },
     "Attention_Can_not_display_all_excludes_": {
         "message": "Figyelem: A kizáró lista megrövidült.\nKérlek, ellenőrizd manuálisan!"
     },
@@ -575,6 +569,9 @@
     "Page_Filter_Mode": {
         "message": "Oldal szűrő mód"
     },
+    "Partially_restricted_by_settings": {
+        "message": "A beállítások miatt részben korlátozva"
+    },
     "Permanent": {
         "message": "Véglegesen"
     },
@@ -726,6 +723,12 @@
     "Smart": {
         "message": "Okos"
     },
+    "Some_URLs_are_restricted_by_a_setting_": {
+        "message": "Néhány URL-t egy beállítás korlátoz!"
+    },
+    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
+        "message": "Néhány URL-t a böngésződ vagy egy beállítás korlátoz!"
+    },
     "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
         "message": "Néhány szkript lehet hogy blokkolva van az oldal Javascript beállítási vagy egy szkript blokkoló által!"
     },
@@ -822,9 +825,6 @@
     },
     "This_is_a_userscript": {
         "message": "Ez egy userscript amely Javascript nyelven íródott"
-    },
-    "Partially_restricted_by_settings": {
-        "message": "A beállítások miatt részben korlátozva"
     },
     "This_script_does_not_provide_any__include_information_": {
         "message": "Ez a szkript nem tartalmaz @include információt."
