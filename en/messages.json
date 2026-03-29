@@ -1380,6 +1380,10 @@
     "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
         "message": "Only files with these extensions can be saved to harddisk.\nBe careful to not allow file extensions that represent executables at your operating system!"
     },
+    "Open": {
+        "description": "A button to open a file",
+        "message": "Open"
+    },
     "Open_changelog": {
         "message": "Open changelog"
     },
@@ -1955,6 +1959,14 @@
             }
         }
     },
+    "This_editor_is_tracking_the_changes_of_0name0_": {
+        "message": "This editor is tracking the changes of $name$.",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
         "message": "This external resource will not auto-update! Please delete it in order to enable updates again."
     },
@@ -2025,6 +2037,14 @@
     "This_tag_is_not_part_of_the_system_tag_list_": {
         "message": "This tag is not part of the system tag list "
     },
+    "This_will_overwrite_the_current_script_with_the_content_of_0name0__Are_you_sure_": {
+        "message": "This will overwrite the current script with the content of $name$.\n\nAre you sure?",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "This_will_overwrite_your_global_settings_": {
         "message": "This will overwrite your global settings!"
     },
@@ -2057,6 +2077,10 @@
     },
     "Trace": {
         "message": "Trace"
+    },
+    "Track_from_disk": {
+        "description": "A button to make the editor track changes from a file at the harddisk",
+        "message": "Track from disk"
     },
     "Transpose": {
         "message": "Transpose"

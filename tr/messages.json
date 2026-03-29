@@ -1096,6 +1096,9 @@
     "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
         "message": "Yalnızca bu uzantılara sahip dosyalar sabit diskinize kaydedilebilir.\nİşletim sisteminizdeki çalıştırılabilir dosyaları temsil eden dosya uzantılarına izin vermemeye özen gösterin!"
     },
+    "Open": {
+        "message": "Aç"
+    },
     "Open_changelog": {
         "message": "Değişiklik günlüğünü aç"
     },
@@ -1581,6 +1584,14 @@
             }
         }
     },
+    "This_editor_is_tracking_the_changes_of_0name0_": {
+        "message": "Bu düzenleyici $1 değişikliklerini takip ediyor",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
         "message": "Bu harici kaynak otomatik güncellenmeyecek! Lütfen güncellemeleri tekrar etkinleştirmek için bunu silin"
     },
@@ -1648,6 +1659,14 @@
     "This_tag_is_not_part_of_the_system_tag_list_": {
         "message": "Bu etiket sistem etiket listesinde yer almıyor"
     },
+    "This_will_overwrite_the_current_script_with_the_content_of_0name0__Are_you_sure_": {
+        "message": "Bu işlem geçerli betiği '$name$' içeriğiyle üzerine yazacaktır.\n\nDevam etmek istediğinizden emin misiniz?",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "This_will_overwrite_your_global_settings_": {
         "message": "Bu işlem, genel ayarlarınızı değiştirecektir!"
     },
@@ -1680,6 +1699,9 @@
     },
     "Trace": {
         "message": "İzle"
+    },
+    "Track_from_disk": {
+        "message": "Diskten izle"
     },
     "Transpose": {
         "message": "Yerini değiştir"

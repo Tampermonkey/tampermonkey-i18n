@@ -1160,6 +1160,9 @@
     "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
         "message": "Kun filer med disse udvidelser kan gemmes på harddisken.\nVær forsigtig med ikke at tillade filtypenavne, der repræsenterer eksekverbare filer i dit operativsystem!"
     },
+    "Open": {
+        "message": "Åben"
+    },
     "Open_changelog": {
         "message": "Åbn ændringslog"
     },
@@ -1694,6 +1697,14 @@
             }
         }
     },
+    "This_editor_is_tracking_the_changes_of_0name0_": {
+        "message": "Denne redigeringsprogram sporer ændringer af $name$.",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
         "message": "Denne eksterne ressource opdateres ikke automatisk! Slet den for at aktivere opdateringer igen."
     },
@@ -1764,6 +1775,14 @@
     "This_tag_is_not_part_of_the_system_tag_list_": {
         "message": "Dette tag er ikke en del af systemets tagliste"
     },
+    "This_will_overwrite_the_current_script_with_the_content_of_0name0__Are_you_sure_": {
+        "message": "Dette vil overskrive det aktuelle script med indholdet af $name$.\n\nEr du sikker?",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "This_will_overwrite_your_global_settings_": {
         "message": "Dette overskriver dine globale indstillinger!"
     },
@@ -1796,6 +1815,9 @@
     },
     "Trace": {
         "message": "Spor"
+    },
+    "Track_from_disk": {
+        "message": "Spor fra disken"
     },
     "Transpose": {
         "message": "Transponer"

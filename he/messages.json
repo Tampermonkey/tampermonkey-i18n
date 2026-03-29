@@ -1356,6 +1356,9 @@
     "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
         "message": "רק קבצים עם סיומות אלה יכולים להישמר לדיסק.\nהיזהר לא לאפשר סיומות קבצים שמייצגות קבצי הפעלה במערכת ההפעלה שלך!"
     },
+    "Open": {
+        "message": "פתח"
+    },
     "Open_changelog": {
         "message": "פתח יומן שינויים"
     },
@@ -1931,6 +1934,14 @@
             }
         }
     },
+    "This_editor_is_tracking_the_changes_of_0name0_": {
+        "message": "עורך זה מעקב אחר השינויים של $name$.",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
         "message": "משאב חיצוני זה לא יתעדכן אוטומטית! אנא מחק אותו כדי לאפשר עדכונים שוב."
     },
@@ -2001,6 +2012,14 @@
     "This_tag_is_not_part_of_the_system_tag_list_": {
         "message": "תגית זו אינה חלק מרשימת תגיות המערכת "
     },
+    "This_will_overwrite_the_current_script_with_the_content_of_0name0__Are_you_sure_": {
+        "message": "זה ידרוס את הסקריפט הנוכחי עם תוכן של $name$.\n\nהאם אתה בטוח שברצונך להמשיך?",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "This_will_overwrite_your_global_settings_": {
         "message": "זה ידרוס את ההגדרות הגלובליות שלך!"
     },
@@ -2033,6 +2052,9 @@
     },
     "Trace": {
         "message": "עקוב"
+    },
+    "Track_from_disk": {
+        "message": "מעקב מהדיסק"
     },
     "Transpose": {
         "message": "החלף מיקום"

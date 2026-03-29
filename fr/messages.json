@@ -1259,6 +1259,9 @@
     "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
         "message": "Seuls les fichiers avec ces extensions peuvent être enregistrés sur le disque dur.\nVeillez à ne pas autoriser les extensions de fichiers représentant des exécutables sur votre système d'exploitation !"
     },
+    "Open": {
+        "message": "Ouvrir"
+    },
     "Open_changelog": {
         "message": "Ouvrir le journal de modifications"
     },
@@ -1801,6 +1804,14 @@
             }
         }
     },
+    "This_editor_is_tracking_the_changes_of_0name0_": {
+        "message": "Cet éditeur suit les modifications de $name$.",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
         "message": "Cette ressource externe ne sera pas mise à jour automatiquement! Veuillez le supprimer afin d'activer à nouveau les mises à jour."
     },
@@ -1868,6 +1879,14 @@
     "This_tag_is_not_part_of_the_system_tag_list_": {
         "message": "Ce tag ne fait pas partie de la liste des tags système"
     },
+    "This_will_overwrite_the_current_script_with_the_content_of_0name0__Are_you_sure_": {
+        "message": "Ceci va écraser le script actuel avec celui de $name$.\n\nVoulez-vous continuer ?",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "This_will_overwrite_your_global_settings_": {
         "message": "Ceci va écraser vos paramètres globaux!"
     },
@@ -1900,6 +1919,9 @@
     },
     "Trace": {
         "message": "Tracer"
+    },
+    "Track_from_disk": {
+        "message": "Suivre depuis le disque dur"
     },
     "Transpose": {
         "message": "Transposer"

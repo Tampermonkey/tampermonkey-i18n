@@ -681,6 +681,9 @@
     "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
         "message": "Kun filer med disse utvidelsene kan bli lagret til harddisken.\nVær forsiktig med å godkjenne filutvidelser som representer kjørbare filer i systemet ditt!"
     },
+    "Open": {
+        "message": "Åpne"
+    },
     "Open_changelog": {
         "message": "Åpne loggboken over endringer"
     },
@@ -1014,6 +1017,14 @@
             }
         }
     },
+    "This_editor_is_tracking_the_changes_of_0name0_": {
+        "message": "Denne redigereren sporer endringene til: $name$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
         "message": "Dette gir skriptet tillatelse til å hente og sende data til og fra alle nettsider. Dette kan potensielt være utrygt.\n\nEr du sikker på at du vil fortsette?"
     },
@@ -1044,6 +1055,14 @@
     "This_tag_is_not_part_of_the_system_tag_list_": {
         "message": "Denne taggen er ikke en del av systemets tagliste"
     },
+    "This_will_overwrite_the_current_script_with_the_content_of_0name0__Are_you_sure_": {
+        "message": "Dette vil overskrive det nåværende skriptet med innholdet i '$name$'.\n\nVil du fortsette?",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "This_will_overwrite_your_global_settings_": {
         "message": "Dette vil overskrive dine utvidelsesinnstillinger!"
     },
@@ -1064,6 +1083,9 @@
     },
     "Trace": {
         "message": "Spor"
+    },
+    "Track_from_disk": {
+        "message": "Spore fra disk"
     },
     "Trigger_Update": {
         "message": "Fremprovoser oppdatering"

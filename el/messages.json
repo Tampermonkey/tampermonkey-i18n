@@ -1096,6 +1096,9 @@
     "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
         "message": "Μόνο αρχεία με αυτές τις επεκτάσεις μπορούν να αποθηκευτούν στον σκληρό δίσκο.\nΠροσέξτε να μην επιτρέπεται επεκτάσεις αρχείων που παραπέμπουν σε εκτελέσιμα αρχεία στο λειτουργικό σας σύστημα!"
     },
+    "Open": {
+        "message": "Ανοίγμα"
+    },
     "Open_changelog": {
         "message": "Άνοιγμα καταγραφής αλλαγών"
     },
@@ -1581,6 +1584,14 @@
             }
         }
     },
+    "This_editor_is_tracking_the_changes_of_0name0_": {
+        "message": "Αυτός ο επεξεργαστής ακολουθεί τις αλλαγές της 0name0.",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
         "message": "Αυτή η εξωτερική πηγή δεν θα ενημερωθεί αυτόματα! Διαγράψτε την ώστε να ενεργοποιηθούν οι ενημερώσεις ξανά."
     },
@@ -1648,6 +1659,14 @@
     "This_tag_is_not_part_of_the_system_tag_list_": {
         "message": "Αυτή η ετικέτα δεν είναι μέρος της λίστας ετικετών του συστήματος"
     },
+    "This_will_overwrite_the_current_script_with_the_content_of_0name0__Are_you_sure_": {
+        "message": "Αυτό θα αντικαταστήσει το τρέχον script με το περιεχόμενο του «$name$».\n\nΕίστε σίγουροι;",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "This_will_overwrite_your_global_settings_": {
         "message": "Αυτό θα αντικαταστήσει τις γενικές σας ρυθμίσεις!"
     },
@@ -1680,6 +1699,9 @@
     },
     "Trace": {
         "message": "Ίχνος"
+    },
+    "Track_from_disk": {
+        "message": "Ακολουθία από το σκληρό δίσκο"
     },
     "Transpose": {
         "message": "Μετατόπιση"

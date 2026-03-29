@@ -888,6 +888,9 @@
     "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
         "message": "केवल इन एक्सटेंशन के साथ फ़ाइलें हार्डडिस्क में सेव की जा सकती है।\nआपके ऑपरेटिंग सिस्टम पर निष्पादनयोग्य प्रतिनिधित्व करने वाली फ़ाइल एक्सटेंशन को अनुमति न दे!"
     },
+    "Open": {
+        "message": "खोलें"
+    },
     "Open_changelog": {
         "message": "चेंजलॉग खोलें"
     },
@@ -1311,6 +1314,14 @@
             }
         }
     },
+    "This_editor_is_tracking_the_changes_of_0name0_": {
+        "message": "यह संपादक $name$ के बदलावों का पालन करता है",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
         "message": "यह बाहरी संसाधन स्वत: अपडेट नहीं होगा! कृपया अपडेट फिर से सक्षम करने के लिए इसे हटा दें।"
     },
@@ -1344,6 +1355,14 @@
     "This_tag_is_not_part_of_the_system_tag_list_": {
         "message": "यह टैग सिस्टम टैग सूची का हिस्सा नहीं है"
     },
+    "This_will_overwrite_the_current_script_with_the_content_of_0name0__Are_you_sure_": {
+        "message": "यह वर्तमान स्क्रिप्ट को $name$ की सामग्री से अधिलेखित कर देगा।\n\nक्या आप सुनिश्चित हैं?",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "This_will_overwrite_your_global_settings_": {
         "message": "यह आपके ग्लोबल सेटिंग्स के ऊपर लिख देगा!"
     },
@@ -1373,6 +1392,9 @@
     },
     "Trace": {
         "message": "नज़र"
+    },
+    "Track_from_disk": {
+        "message": "डिस्क से बदलाव पालन करें"
     },
     "Transpose": {
         "message": "सरकाएं"

@@ -1380,6 +1380,9 @@
     "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
         "message": "これらの拡張子を持つファイルのみをハードディスクに保存できます。\nあなたのオペレーティング システムの実行可能ファイルの拡張子を指定しないようにご注意ください!"
     },
+    "Open": {
+        "message": "開く"
+    },
     "Open_changelog": {
         "message": "更新履歴を開く"
     },
@@ -1955,6 +1958,14 @@
             }
         }
     },
+    "This_editor_is_tracking_the_changes_of_0name0_": {
+        "message": "このエディターは、$name$ の変更を追跡しています。",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
         "message": "この外部リソースは自動更新されません! 再度更新を有効にするには削除してください。"
     },
@@ -2025,6 +2036,14 @@
     "This_tag_is_not_part_of_the_system_tag_list_": {
         "message": "このタグはシステム タグのリストに含まれていません"
     },
+    "This_will_overwrite_the_current_script_with_the_content_of_0name0__Are_you_sure_": {
+        "message": "この操作により、現在のスクリプトが「$name$」の内容で上書きされます。\n\n本当に続行しますか?",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "This_will_overwrite_your_global_settings_": {
         "message": "この操作により、グローバル設定が上書きされます!"
     },
@@ -2057,6 +2076,9 @@
     },
     "Trace": {
         "message": "トレース"
+    },
+    "Track_from_disk": {
+        "message": "ディスクから追跡する"
     },
     "Transpose": {
         "message": "1文字入れ替え"

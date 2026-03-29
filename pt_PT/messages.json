@@ -619,6 +619,9 @@
     "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
         "message": "Apenas arquivos com esta extensão podem ser gravados no Disco Rígido.\nTenha cuidado para não permitir extensões de arquivo que representam executáveis no seu Sistema Operativo!"
     },
+    "Open": {
+        "message": "Abrir"
+    },
     "Open_changelog": {
         "message": "Abrir o log de alterações"
     },
@@ -937,6 +940,14 @@
             }
         }
     },
+    "This_editor_is_tracking_the_changes_of_0name0_": {
+        "message": "Este editor está a rastrear as alterações de: $name$.",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
         "message": "Isto confere ao script a permissão de recolher e enviar dados de e para qualquer página da web. Isto é potencialmente inseguro!\n\nTem a certeza de que deseja continuar?"
     },
@@ -964,6 +975,14 @@
     "This_tag_is_not_part_of_the_system_tag_list_": {
         "message": "Esta etiqueta não está na lista de etiquetas do sistema"
     },
+    "This_will_overwrite_the_current_script_with_the_content_of_0name0__Are_you_sure_": {
+        "message": "Isto irá substituir o script atual com o conteúdo de: $name$.\n\nTem a certeza?",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "This_will_overwrite_your_global_settings_": {
         "message": "Isto irá substituir as suas configurações globais!"
     },
@@ -978,6 +997,9 @@
     },
     "Toggle_Enable": {
         "message": "Seleccione para activar."
+    },
+    "Track_from_disk": {
+        "message": "Rastrear do disco rígido"
     },
     "Trigger_Update": {
         "message": "Iniciar pesquisa de actualização"

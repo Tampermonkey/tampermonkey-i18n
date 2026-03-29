@@ -1234,6 +1234,9 @@
     "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
         "message": "Chỉ các tệp với các phần mở rộng sau mới có thể được luu vào ổ cứng.\nHãy cẩn thận khi không cho phép các phần mở rộng tệp đại diện cho các tệp thực thi ở hệ điều hành của bạn!"
     },
+    "Open": {
+        "message": "Mở"
+    },
     "Open_changelog": {
         "message": "Mở nhật kí thay đổi"
     },
@@ -1792,6 +1795,14 @@
             }
         }
     },
+    "This_editor_is_tracking_the_changes_of_0name0_": {
+        "message": "Trình chỉnh sửa này đang theo dõi các thay đổi của $name$.",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
         "message": "Tài nguyên bên ngoài này sẽ không tự cập nhật! Hãy xoá nó đi để cho phép cập nhật lại."
     },
@@ -1862,6 +1873,14 @@
     "This_tag_is_not_part_of_the_system_tag_list_": {
         "message": "Thẻ này không có trong danh sách thẻ hệ thống"
     },
+    "This_will_overwrite_the_current_script_with_the_content_of_0name0__Are_you_sure_": {
+        "message": "Thao tác này sẽ ghi đè tập lệnh hiện tại với nội dung của $name$.\n\nBạn có chắc không?",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "This_will_overwrite_your_global_settings_": {
         "message": "Thao tác này sẽ ghi đè thiết đặt toàn cục của bạn!"
     },
@@ -1894,6 +1913,9 @@
     },
     "Trace": {
         "message": "Truy vết"
+    },
+    "Track_from_disk": {
+        "message": "Theo dõi từ ổ cứng"
     },
     "Transpose": {
         "message": "Chuyển vị"

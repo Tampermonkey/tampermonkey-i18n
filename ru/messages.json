@@ -1377,6 +1377,9 @@
     "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
         "message": "Только файлы с этими расширениями могут быть сохранены на жёсткий диск.\nОсторожно! Не разрешайте расширения исполняемых файлов!"
     },
+    "Open": {
+        "message": "Открыть"
+    },
     "Open_changelog": {
         "message": "Открыть список изменений"
     },
@@ -1948,6 +1951,14 @@
             }
         }
     },
+    "This_editor_is_tracking_the_changes_of_0name0_": {
+        "message": "Редактор отслеживает изменения в $name$.",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
         "message": "Этот внешний ресурс не будет автобновляться! Удалите его, чтобы снова включить обновления."
     },
@@ -2018,6 +2029,14 @@
     "This_tag_is_not_part_of_the_system_tag_list_": {
         "message": "Этот тег не входит в список системных тегов"
     },
+    "This_will_overwrite_the_current_script_with_the_content_of_0name0__Are_you_sure_": {
+        "message": "Будет перезаписан текущий скрипт с содержимым $name$.\n\nВсё равно продолжить?",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "This_will_overwrite_your_global_settings_": {
         "message": "Будут перезаписаны ваши глобальные настройки!"
     },
@@ -2050,6 +2069,9 @@
     },
     "Trace": {
         "message": "Отслеживать"
+    },
+    "Track_from_disk": {
+        "message": "Следить за файлом на диске"
     },
     "Transpose": {
         "message": "Транспонировать"

@@ -648,6 +648,9 @@
     "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
         "message": "Len súbory s touto príponou môžu byť uložené na pevný disk.\nBuďte opatrný, aby ste nepovolili prípony reprezentujúce spustiteľné súbory!"
     },
+    "Open": {
+        "message": "Otvoriť"
+    },
     "Open_changelog": {
         "message": "Otvoriť zoznam zmien"
     },
@@ -981,6 +984,14 @@
             }
         }
     },
+    "This_editor_is_tracking_the_changes_of_0name0_": {
+        "message": "Tento editor sleduje zmeny skriptu $name$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
         "message": "Týmto povolíte získavanie a odosielanie dát každej stránke. Môže to byť nebezpečné!\n\nSte si istý, že chcete pokračovať?"
     },
@@ -1008,6 +1019,14 @@
     "This_tag_is_not_part_of_the_system_tag_list_": {
         "message": "Táto značka nie je súčasťou zoznamu systémových značiek"
     },
+    "This_will_overwrite_the_current_script_with_the_content_of_0name0__Are_you_sure_": {
+        "message": "Toto prepíše aktuálny skript s obsahom $name$.\n\nNaozaj chcete pokračovať?",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "This_will_overwrite_your_global_settings_": {
         "message": "Toto prepíše globálne nastavenia!"
     },
@@ -1025,6 +1044,9 @@
     },
     "Trace": {
         "message": "Vypátrať"
+    },
+    "Track_from_disk": {
+        "message": "Začať sledovať z disku"
     },
     "Trigger_Update": {
         "message": "Spustiť aktualizáciu"

@@ -1356,6 +1356,9 @@
     "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
         "message": "Apenas arquivos com esta extensão podem ser salvos no Disco Rígido.\nTenha cuidado para não permitir extensões de arquivo que representam executáveis no seu Sistema Operacional!"
     },
+    "Open": {
+        "message": "Abrir"
+    },
     "Open_changelog": {
         "message": "Abrir o log de mudanças"
     },
@@ -1931,6 +1934,14 @@
             }
         }
     },
+    "This_editor_is_tracking_the_changes_of_0name0_": {
+        "message": "Este editor está rastreando as mudanças de $name$.",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
         "message": "Este recurso externo não será atualizado automaticamente! Por favor, exclua-o para reabilitar as atualizações."
     },
@@ -2001,6 +2012,14 @@
     "This_tag_is_not_part_of_the_system_tag_list_": {
         "message": "Esta tag não está na lista de tags do sistema"
     },
+    "This_will_overwrite_the_current_script_with_the_content_of_0name0__Are_you_sure_": {
+        "message": "Isto irá sobrescrever o script atual com o conteúdo de $name$.\n\nVocê tem certeza?",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
     "This_will_overwrite_your_global_settings_": {
         "message": "Isto irá sobrescrever suas configurações globais!"
     },
@@ -2033,6 +2052,9 @@
     },
     "Trace": {
         "message": "Traço"
+    },
+    "Track_from_disk": {
+        "message": "Rastrear do disco"
     },
     "Transpose": {
         "message": "Transpor"
