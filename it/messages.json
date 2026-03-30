@@ -2013,7 +2013,7 @@
         "message": "Questo tag non fa parte dell'elenco dei tag di sistema"
     },
     "This_will_overwrite_the_current_script_with_the_content_of_0name0__Are_you_sure_": {
-        "message": "Questo sovrascriverà lo script corrente con il contenuto di $name$.\n\nVuoi continuare?",
+        "message": "Questo sovrascriverà lo script attuale con il contenuto di $name$.\n\nVuoi continuare?",
         "placeholders": {
             "name": {
                 "content": "$1"
