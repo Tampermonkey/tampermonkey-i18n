@@ -995,6 +995,9 @@
     "Invalid_UserScript_name__Sry_": {
         "message": "Невалидно име на скрипт. Извини!"
     },
+    "Invert": {
+        "message": "Инвертирање"
+    },
     "JavaScript_and_DOM": {
         "message": "JavaScript+DOM"
     },

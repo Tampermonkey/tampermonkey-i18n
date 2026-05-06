@@ -789,6 +789,9 @@
     "Invalid_UserScript_name__Sry_": {
         "message": "Ongeldige UserScriptnaam. Sorry!"
     },
+    "Invert": {
+        "message": "Omkeren"
+    },
     "Join_Lines": {
         "message": "Regels samenvoegen"
     },

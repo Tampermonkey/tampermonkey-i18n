@@ -1033,6 +1033,9 @@
     "Invalid_UserScript_name__Sry_": {
         "message": "Rất tiếc! Tên tập lệnh người dùng không hợp lệ."
     },
+    "Invert": {
+        "message": "Đảo ngược"
+    },
     "Join_Lines": {
         "message": "Nối các dòng"
     },

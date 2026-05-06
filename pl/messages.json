@@ -614,6 +614,9 @@
     "Invalid_UserScript_name__Sry_": {
         "message": "Błędna nazwa skryptu. Przepraszam!"
     },
+    "Invert": {
+        "message": "Odwróć"
+    },
     "Jump_to_line": {
         "message": "Przeskocz do linii"
     },

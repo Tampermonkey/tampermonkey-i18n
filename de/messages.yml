@@ -604,6 +604,8 @@ Invalid_UserScript__Sry_:
   message: Ungültiges Userscript!
 Invalid_UserScript_name__Sry_:
   message: Ungültiger Userscript-Name!
+Invert:
+  message: Umkehren
 JavaScript_and_DOM:
   message: JavaScript- und DOM-Modus
 Jump_to_line:

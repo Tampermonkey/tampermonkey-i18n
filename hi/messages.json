@@ -735,6 +735,9 @@
     "Invalid_UserScript_name__Sry_": {
         "message": "अमान्य यूजर स्क्रिप्ट नाम | खेद है!"
     },
+    "Invert": {
+        "message": "इनवर्ट करें"
+    },
     "Join_Lines": {
         "message": "लाइन को शामिल करें"
     },

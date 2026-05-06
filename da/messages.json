@@ -965,6 +965,9 @@
     "Invalid_UserScript_name__Sry_": {
         "message": "Ugyldigt userscriptnavn. Beklager!"
     },
+    "Invert": {
+        "message": "Inverter"
+    },
     "JavaScript_and_DOM": {
         "message": "JavaScript+DOM"
     },
@@ -1091,7 +1094,7 @@
         "message": "Nej"
     },
     "No_available_scripts": {
-        "message": "No available scripts"
+        "message": "Intet script tilgængeligt"
     },
     "No_backups_found": {
         "message": "Ingen sikkerhedskopier fundet"

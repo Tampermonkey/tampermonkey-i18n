@@ -1,4 +1,28 @@
 {
+    "extName": {
+        "message": "Tampermonkey"
+    },
+    "extNameBeta": {
+        "message": "Tampermonkey BETA"
+    },
+    "extNameLegacy": {
+        "message": "Tampermonkey Legacy"
+    },
+    "extNameClassic": {
+        "message": "Tampermonkey Classic"
+    },
+    "extShortName": {
+        "message": "Tampermonkey"
+    },
+    "extShortNameBeta": {
+        "message": "TM BETA"
+    },
+    "extShortNameLegacy": {
+        "message": "TM Legacy"
+    },
+    "extShortNameClassic": {
+        "message": "TM Classic"
+    },
     "extDescription": {
         "message": "Cambia il web a piacimento con gli userscript"
     },
@@ -1145,6 +1169,9 @@
     },
     "Invalid_UserScript_name__Sry_": {
         "message": "Nome script non valido!"
+    },
+    "Invert": {
+        "message": "Inverti"
     },
     "JavaScript_and_DOM": {
         "message": "JavaScript+DOM"

@@ -824,6 +824,9 @@
     "Invalid_UserScript_name__Sry_": {
         "message": "اسم الملف غير صالح! المعذرة"
     },
+    "Invert": {
+        "message": "عكس"
+    },
     "Join_Lines": {
         "message": "ضم الأسطر"
     },
@@ -852,7 +855,7 @@
         "message": "قد تؤدي أذونات مضيف وقت التشغيل المحدودة إلى تعطيل بعض ميزات Tampermonkey مثل تحديث البرنامج النصي و GM_xmlhttpRequest وغيرها!"
     },
     "Line_Case_Insensitive": {
-        "message": "Line Case Insensitive"
+        "message": "غير حساس للحالة الأحرفية السطرة"
     },
     "Line_Down": {
         "message": "سطر بالأسفل"
@@ -1713,7 +1716,7 @@
         "message": "علامة لصق Sublime"
     },
     "Yes": {
-        "message": "Yes"
+        "message": "نعم"
     },
     "You_are_about_to_downgrade_a_UserScript": {
         "message": "!انتبه نسخة قديمة من الملف"
@@ -1758,7 +1761,7 @@
         "message": "خطأ فادح"
     },
     "overwritten_by_user": {
-        "message": "overwritten by user setting"
+        "message": "تم تعديله من إعدادات المستخدم"
     },
     "require_and_resource": {
         "message": "المستبعدات الخارجية (@require و @resource)"

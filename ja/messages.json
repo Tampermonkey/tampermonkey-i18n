@@ -1170,6 +1170,9 @@
     "Invalid_UserScript_name__Sry_": {
         "message": "ユーザー スクリプト名が無効です。すみません!"
     },
+    "Invert": {
+        "message": "反転"
+    },
     "JavaScript_and_DOM": {
         "message": "JavaScript+DOM"
     },

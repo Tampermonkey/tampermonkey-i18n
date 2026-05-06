@@ -729,6 +729,9 @@
     "Invalid_UserScript_name__Sry_": {
         "message": "Nevažeći UserScript ime. Izvini!"
     },
+    "Invert": {
+        "message": "Obrnuti"
+    },
     "Join_Lines": {
         "message": "Pridruži Linije"
     },

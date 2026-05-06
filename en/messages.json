@@ -1170,6 +1170,9 @@
     "Invalid_UserScript_name__Sry_": {
         "message": "Invalid Userscript name!"
     },
+    "Invert": {
+        "message": "Invert"
+    },
     "JavaScript_and_DOM": {
         "message": "JavaScript+DOM"
     },

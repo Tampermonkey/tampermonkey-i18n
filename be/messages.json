@@ -1146,6 +1146,9 @@
     "Invalid_UserScript_name__Sry_": {
         "message": "Некарэктная назва скрыпта!"
     },
+    "Invert": {
+        "message": "Перавяртыць"
+    },
     "JavaScript_and_DOM": {
         "message": "JavaScript+DOM"
     },

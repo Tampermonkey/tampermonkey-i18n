@@ -561,6 +561,9 @@
     "Invalid_UserScript_name__Sry_": {
         "message": "유효하지 않은 유저 스크립트 이름입니다. 죄송합니다!"
     },
+    "Invert": {
+        "message": "반전"
+    },
     "Jump_to_line": {
         "message": "줄 찾아가기"
     },

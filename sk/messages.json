@@ -549,6 +549,9 @@
     "Invalid_UserScript_name__Sry_": {
         "message": "Neplatný názov skriptu. Prepáčte!"
     },
+    "Invert": {
+        "message": "Obrátiť"
+    },
     "Jump_to_line": {
         "message": "Ísť na riadok"
     },

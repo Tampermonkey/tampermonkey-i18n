@@ -82,6 +82,78 @@
             }
         }
     },
+    "0name0_Your_service_bot": {
+        "message": "$name$ - 您的服务机器人",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_Bytes": {
+        "message": "$number$ B",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_GB": {
+        "message": "$number$ GB",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_KB": {
+        "message": "$number$ KB",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_MB": {
+        "message": "$number$ MB",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_TB": {
+        "message": "$number$ TB",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_days": {
+        "message": "$number$ 天",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_hours": {
+        "message": "$number$ 小时",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_minutes": {
+        "message": "$number$ 分钟",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
     "15_Seconds": {
         "message": "15秒"
     },
@@ -135,6 +207,9 @@
     "Add": {
         "message": "添加"
     },
+    "Add_GM_functions_to_this_or_window": {
+        "message": "将 GM 函数添加到 this 或 window"
+    },
     "Add_Selection_Above": {
         "message": "在上面添加选择内容"
     },
@@ -161,6 +236,12 @@
             }
         }
     },
+    "Add_cursor_to_next_line": {
+        "message": "在下一行添加光标"
+    },
+    "Add_cursor_to_prev_line": {
+        "message": "在上一行添加光标"
+    },
     "Add_new_script___": {
         "message": "添加新脚本..."
     },
@@ -169,6 +250,9 @@
     },
     "Advanced": {
         "message": "高级"
+    },
+    "All": {
+        "message": "全部"
     },
     "All_but_HttpOnly": {
         "message": "除了 HttpOnly"
@@ -315,11 +399,17 @@
     "Auto_syntax_check_on_typing": {
         "message": "输入时自动检查语法"
     },
+    "Autocomplete": {
+        "message": "自动补全"
+    },
     "Automatic_installation": {
         "message": "自动安装"
     },
     "Automatically_added_user_includes_for_compatibility_reasons_": {
         "message": "出于兼容原因已自动添加部分用户 include!"
+    },
+    "Back_or_close": {
+        "message": "返回或关闭"
     },
     "Beginner": {
         "message": "初学者"
@@ -450,6 +540,15 @@
     "Config_Mode": {
         "message": "配置模式"
     },
+    "Configures_which_sandbox_values_are_valid": {
+        "message": "配置哪些 @sandbox 值是有效的"
+    },
+    "Content_Script": {
+        "message": "内容脚本"
+    },
+    "Content_Script_API": {
+        "message": "内容脚本 API"
+    },
     "Context_Menu": {
         "message": "上下文菜单"
     },
@@ -490,6 +589,9 @@
     },
     "Cut": {
         "message": "剪切"
+    },
+    "DOM_mode_is_unsecure__Scripts_can_install_new_scripts_": {
+        "message": "\"DOM\" 沙盒模式不安全。运行中的用户脚本几乎拥有完整扩展权限，甚至可以修改和安装新脚本。"
     },
     "Dashboard": {
         "message": "管理面板"
@@ -557,6 +659,9 @@
     "Developer": {
         "message": "开发者"
     },
+    "Developer_Mode": {
+        "message": "开发者模式"
+    },
     "Disable": {
         "message": "禁用"
     },
@@ -572,6 +677,21 @@
     "Disabled": {
         "message": "已禁用"
     },
+    "Do_you_need_help_finding_Tampermonkey_s_console_output_": {
+        "message": "您需要帮助查找篡改猴的控制台输出吗？"
+    },
+    "Do_you_need_help_installing_new_scripts_to_Tampermonkey_": {
+        "message": "您需要帮助安装新的篡改猴脚本吗？"
+    },
+    "Do_you_need_help_syncing_all_your_installed_scripts_to_another_browser_": {
+        "message": "您需要帮助将所有已安装脚本同步到其他浏览器吗？"
+    },
+    "Do_you_need_help_viewing_and_editing_values_stored_by_a_userscript_": {
+        "message": "您需要帮助查看或编辑用户脚本存储的数据吗？"
+    },
+    "Do_you_need_help_working_with_Tampermonkey_": {
+        "message": "您需要关于使用篡改猴的帮助吗？"
+    },
     "Do_you_really_want_to_store_fixed_code_": {
         "message": "“$option$”选项已启用！\n是否保存修复后的源码？",
         "placeholders": {
@@ -579,6 +699,12 @@
                 "content": "$1"
             }
         }
+    },
+    "Do_you_want_to_know_how_to_allow_Tampermonkey_access_to_local_file_URIs_": {
+        "message": "您想了解如何允许篡改猴访问本地文件 URI 吗？"
+    },
+    "Do_you_want_to_use_an_external_editor_to_edit_your_scripts__nWould_you_like_to_know_how_to_set_this_up_": {
+        "message": "您想使用外部编辑器来编辑脚本吗？\n需要了解如何进行设置吗？"
     },
     "Document_End": {
         "message": "文档结束"
@@ -752,6 +878,12 @@
     "Find_Under_Previous": {
         "message": "查找上一项"
     },
+    "Find_incremental": {
+        "message": "增量查找"
+    },
+    "Find_incremental_reverse": {
+        "message": "反向增量查找"
+    },
     "Fix_wrappedJSObject_property_access": {
         "message": "修复 wrappedJSObject 属性"
     },
@@ -772,6 +904,15 @@
     },
     "Forbid_once": {
         "message": "拒绝一次"
+    },
+    "Force_DOM": {
+        "message": "强制使用 DOM"
+    },
+    "Force_JavaScript": {
+        "message": "强制使用 JavaScript"
+    },
+    "Force_Raw": {
+        "message": "强制原始模式"
     },
     "Found_0count0_available_scripts": {
         "message": "找到了 $count$ 个可用的脚本",
@@ -957,6 +1098,9 @@
     "Invalid_UserScript_name__Sry_": {
         "message": "用户脚本的名称无效！"
     },
+    "Invert": {
+        "message": "反转"
+    },
     "Join_Lines": {
         "message": "合并行"
     },
@@ -1011,6 +1155,17 @@
     "Login": {
         "message": "登录"
     },
+    "Lookup_remote_script_0uuid0": {
+        "message": "查找远程脚本 ($uuid$)",
+        "placeholders": {
+            "uuid": {
+                "content": "$1"
+            }
+        }
+    },
+    "Lookup_remote_script_list": {
+        "message": "查找远程脚本列表"
+    },
     "Lower_Case": {
         "message": "小写"
     },
@@ -1028,6 +1183,9 @@
     },
     "Modify": {
         "message": "修改"
+    },
+    "Modifying_a_script_will_disable_automatic_script_updates_": {
+        "message": "修改脚本将禁用自动更新！"
     },
     "Move_Line_Down": {
         "message": "下移行"
@@ -1061,6 +1219,12 @@
     },
     "Next_Problem": {
         "message": "下一个问题"
+    },
+    "Next_tab": {
+        "message": "下一个标签页"
+    },
+    "Next_theme": {
+        "message": "下一个主题"
     },
     "No": {
         "message": "否"
@@ -1158,6 +1322,9 @@
     "Original_matches": {
         "message": "原始匹配"
     },
+    "Overwrite": {
+        "message": "覆盖"
+    },
     "Page_Filter_Mode": {
         "message": "页面过滤模式"
     },
@@ -1208,11 +1375,17 @@
     "Prev_Problem": {
         "message": "上一个问题"
     },
+    "Previous_tab": {
+        "message": "上一个标签页"
+    },
     "Process_with_Chrome": {
         "message": "安装到浏览器"
     },
     "Proxy_Permission": {
         "message": "代理权限"
+    },
+    "Raw_and_JavaScript": {
+        "message": "原始 + JavaScript"
     },
     "Really_delete_0name0__": {
         "message": "确定删除“$name$”？",
@@ -1240,6 +1413,9 @@
     "Really_restore_all_userscripts_": {
         "message": "您真的想恢复所有用户脚本吗？"
     },
+    "Recent_Sync_Log": {
+        "message": "最近同步日志"
+    },
     "Redo": {
         "message": "重做"
     },
@@ -1263,6 +1439,28 @@
     },
     "Remove__possibly_unsecure_": {
         "message": "全部移除（可能不安全）"
+    },
+    "Remove_local_script_0name0_0uuid0": {
+        "message": "删除本地脚本 \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Remove_remote_script_0name0_0uuid0": {
+        "message": "删除远程脚本 \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
     },
     "Replace": {
         "message": "替换"
@@ -1330,6 +1528,9 @@
     "Runtime_Host_Permissions": {
         "message": "运行时主机权限"
     },
+    "Sandbox_Mode": {
+        "message": "沙盒模式"
+    },
     "Save": {
         "message": "保存"
     },
@@ -1349,6 +1550,9 @@
     },
     "Script_Blacklist_Source": {
         "message": "脚本黑名单源"
+    },
+    "Script_Include_Mode": {
+        "message": "用户脚本 @include 模式"
     },
     "Script_Sync": {
         "message": "同步脚本"
@@ -1524,6 +1728,9 @@
     },
     "Sync_Type": {
         "message": "同步类型"
+    },
+    "Sync_failed": {
+        "message": "同步失败"
     },
     "Sync_finished": {
         "message": "同步已完成"
@@ -1822,6 +2029,9 @@
             }
         }
     },
+    "Unsafe": {
+        "message": "不安全"
+    },
     "Update": {
         "message": "更新"
     },
@@ -1851,6 +2061,12 @@
     "Upper_Case": {
         "message": "大写"
     },
+    "UserScripts_API": {
+        "message": "用户脚本 API"
+    },
+    "UserScripts_API_Dynamic": {
+        "message": "用户脚本 API（动态）"
+    },
     "User_domain_blacklist": {
         "message": "用户域名黑名单"
     },
@@ -1877,6 +2093,26 @@
     },
     "Userscripts": {
         "message": "用户脚本"
+    },
+    "Using__include_is_potentially_unsafe_and_may_be_obsolete_soon___0off0_disables__include_completely__0match0__is_safe__but_may_not_compatible_the_script_developers_intention__0unsafe0__mostly_keeps_the_legacy_behavior_0default0__means__0used_default0": {
+        "message": "使用 @include 可能不安全，并可能在 Manifest v3 中逐步淘汰。此设置允许您配置 @include 的解析方式。'$off$' 完全禁用 @include，'$match$' 更安全但可能不符合开发者意图，'$unsafe$' 保持大部分旧行为，'$default$' 当前表示 '$used_default$'。",
+        "placeholders": {
+            "off": {
+                "content": "$1"
+            },
+            "match": {
+                "content": "$2"
+            },
+            "unsafe": {
+                "content": "$3"
+            },
+            "default": {
+                "content": "$4"
+            },
+            "used_default": {
+                "content": "$5"
+            }
+        }
     },
     "Utilities": {
         "message": "实用工具"
@@ -2021,5 +2257,13 @@
     },
     "top_level_await": {
         "message": "top-level await"
+    },
+    "v0version0": {
+        "message": "v$version$",
+        "placeholders": {
+            "version": {
+                "content": "$1"
+            }
+        }
     }
 }

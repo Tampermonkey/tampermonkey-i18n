@@ -919,6 +919,9 @@
     "Invalid_UserScript_name__Sry_": {
         "message": "Geçersiz kullanıcı betiği adı."
     },
+    "Invert": {
+        "message": "Ters çevir"
+    },
     "Join_Lines": {
         "message": "Satırları birleştir"
     },

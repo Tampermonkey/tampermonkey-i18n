@@ -1064,6 +1064,9 @@
     "Invalid_UserScript_name__Sry_": {
         "message": "Неправильна назва користувацького скрипту!"
     },
+    "Invert": {
+        "message": "Інвертувати"
+    },
     "JavaScript_and_DOM": {
         "message": "JavaScript+DOM"
     },

@@ -1082,6 +1082,9 @@
     "Invalid_UserScript_name__Sry_": {
         "message": "無效的使用者腳本名稱。抱歉！"
     },
+    "Invert": {
+        "message": "反轉"
+    },
     "JavaScript_and_DOM": {
         "message": "JavaScript+DOM"
     },
