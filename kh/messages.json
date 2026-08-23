@@ -1,0 +1,2432 @@
+{
+    "extName": {
+        "message": "Tampermonkey"
+    },
+    "extNameBeta": {
+        "message": "Tampermonkey BETA"
+    },
+    "extNameLegacy": {
+        "message": "Tampermonkey Legacy"
+    },
+    "extNameClassic": {
+        "message": "Tampermonkey Classic"
+    },
+    "extShortName": {
+        "message": "Tampermonkey"
+    },
+    "extShortNameBeta": {
+        "message": "TM BETA"
+    },
+    "extShortNameLegacy": {
+        "message": "TM Legacy"
+    },
+    "extShortNameClassic": {
+        "message": "TM Classic"
+    },
+    "extDescription": {
+        "message": "ផ្លាស់ប្តូរគេហទំព័រតាមចិត្តប្រាថ្នាជាមួយ userscripts"
+    },
+    "1": {
+        "message": "1"
+    },
+    "2": {
+        "message": "2"
+    },
+    "3": {
+        "message": "3"
+    },
+    "4": {
+        "message": "4"
+    },
+    "5": {
+        "message": "5"
+    },
+    "6": {
+        "message": "6"
+    },
+    "7": {
+        "message": "7"
+    },
+    "8": {
+        "message": "8"
+    },
+    "9": {
+        "message": "9"
+    },
+    "10": {
+        "message": "10"
+    },
+    "11": {
+        "message": "11"
+    },
+    "0count0_changes_exported": {
+        "message": "បាននាំចេញការផ្លាស់ប្តូរចំនួន $count$",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "0count0_changes_imported": {
+        "message": "បាននាំចូលការផ្លាស់ប្តូរចំនួន $count$",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "0count0_errors_or_hints_were_found_": {
+        "message": "រកឃើញកំហុស ឬការណែនាំចំនួន $count$។",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
+        "message": "$name$ $version$ មានហើយ។\nសូមចាប់ផ្តើមកម្មវិធីរុករករបស់អ្នកឡើងវិញ ដើម្បីចាប់ផ្តើមធ្វើបច្ចុប្បន្នភាព!",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "version": {
+                "content": "$2"
+            }
+        }
+    },
+    "0name0_Your_service_bot": {
+        "message": "$name$ - ប៊ុតបម្រើសេវាកម្មរបស់អ្នក",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_Bytes": {
+        "message": "$number$ B",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_GB": {
+        "message": "$number$ GB",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_KB": {
+        "message": "$number$ KB",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_MB": {
+        "message": "$number$ MB",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_TB": {
+        "message": "$number$ TB",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_days": {
+        "message": "$number$ ថ្ងៃ",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_hours": {
+        "message": "$number$ ម៉ោង",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "0number0_minutes": {
+        "message": "$number$ នាទី",
+        "placeholders": {
+            "number": {
+                "content": "$1"
+            }
+        }
+    },
+    "15_Seconds": {
+        "message": "15 វិនាទី"
+    },
+    "1_Hour": {
+        "message": "1 ម៉ោង"
+    },
+    "1_Minute": {
+        "message": "1 នាទី"
+    },
+    "30_Seconds": {
+        "message": "30 វិនាទី"
+    },
+    "5_Minutes": {
+        "message": "5 នាទី"
+    },
+    "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
+        "message": "ការពិនិត្យមើលឡើងវិញនូវជម្រើសភាពត្រូវគ្នាសម្រាប់ GreaseMonkey/FF អាចនឹងត្រូវការជាចាំបាច់ ដើម្បីដំណើរការស្គ្រីបនេះ។"
+    },
+    "A_reload_is_required": {
+        "message": "តម្រូវឱ្យផ្ទុកឡើងវិញ៖ \nរាល់ការផ្លាស់ប្តូរដែលមិនទាន់រក្សាទុកនឹងត្រូវបាត់បង់!"
+    },
+    "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
+        "message": "ការស្នើសុំទៅកាន់ធនធានឆ្លងកាត់ប្រភព (cross origin resource) មិនមែនជារឿងចម្លែកនោះទេ។\nអ្នកគ្រាន់តែត្រូវពិនិត្យមើលថាតើស្គ្រីបនេះមានមូលហេតុត្រឹមត្រូវក្នុងការចូលប្រើដែន (domain) នេះដែរឬទេ។\nឧទាហរណ៍ មានមូលហេតុតិចតួចណាស់ដែល userscript ត្រូវទាក់ទងទៅកាន់ធនាគាររបស់អ្នក។\n\nសូមកត់សម្គាល់ថា អ្នកបង្កើត userscript អាចជៀសវាងផ្ទាំងសារនេះបានដោយបន្ថែម [url=$connect$]@connect tags[/url] ទៅក្នុងស្គ្រីបរបស់ពួកគេ។\n\nទោះបីជាអ្នកសម្រេចចិត្តយ៉ាងណាក៏ដោយ អ្នកអាចផ្លាស់ប្តូរមតិរបស់អ្នកបានគ្រប់ពេលនៅក្នុង [url=$settings$]ផ្ទាំងការកំណត់ (settings tab)[/url] របស់ស្គ្រីប។",
+        "placeholders": {
+            "connect": {
+                "content": "$1"
+            },
+            "settings": {
+                "content": "$2"
+            }
+        }
+    },
+    "A_userscript_wants_to_access_a_cross_origin_resource_": {
+        "message": "Userscript មួយចង់ចូលប្រើប្រាស់ធនធានឆ្លងកាត់ប្រភព។"
+    },
+    "Aborted_by_user": {
+        "message": "ត្រូវបានបោះបង់ដោយអ្នកប្រើប្រាស់"
+    },
+    "Action": {
+        "message": "សកម្មភាព"
+    },
+    "Action_Menu": {
+        "message": "ម៉ឺនុយសកម្មភាព"
+    },
+    "Action_failed": {
+        "message": "សកម្មភាពបានបរាជ័យ"
+    },
+    "Actions": {
+        "message": "សកម្មភាព"
+    },
+    "Add": {
+        "message": "បន្ថែម"
+    },
+    "Add_GM_functions_to_this_or_window": {
+        "message": "បន្ថែមមុខងារ GM ទៅកាន់ this ឬ window"
+    },
+    "Add_Selection_Above": {
+        "message": "បន្ថែមជម្រើសនៅខាងលើ"
+    },
+    "Add_Selection_Below": {
+        "message": "បន្ថែមជម្រើសនៅខាងក្រោម"
+    },
+    "Add_TM_to_CSP": {
+        "message": "កែប្រែបឋមកថាគោលការណ៍សុវត្ថិភាពមាតិកា (CSP) ដែលមានស្រាប់"
+    },
+    "Add_Tag": {
+        "message": "បន្ថែមស្លាក"
+    },
+    "Add_Tag_to_System": {
+        "message": "បន្ថែមស្លាកទៅក្នុងបញ្ជីរបស់ប្រព័ន្ធ"
+    },
+    "Add_Tampermonkey_to_the_site_s_content_csp": {
+        "message": "បន្ថែម Tampermonkey ទៅកាន់ CSP របស់ HTML"
+    },
+    "Add_as_0clude0": {
+        "message": "បន្ថែមជា $clude$",
+        "placeholders": {
+            "clude": {
+                "content": "$1"
+            }
+        }
+    },
+    "Add_cursor_to_next_line": {
+        "message": "បន្ថែមទស្សន៍ទ្រនិចទៅបន្ទាត់បន្ទាប់"
+    },
+    "Add_cursor_to_prev_line": {
+        "message": "បន្ថែមទស្សន៍ទ្រនិចទៅបន្ទាត់មុន"
+    },
+    "Add_new_script___": {
+        "message": "បង្កើតស្គ្រីបថ្មី..."
+    },
+    "Add_to_icon_badge_text": {
+        "message": "បន្ថែមទៅអត្ថបទផ្លាកសញ្ញារូបតំណាង"
+    },
+    "Advanced": {
+        "message": "កម្រិតខ្ពស់"
+    },
+    "All": {
+        "message": "ទាំងអស់"
+    },
+    "All_but_HttpOnly": {
+        "message": "ទាំងអស់ លើកលែងតែឃុកឃីដែលបានការពារ (HttpOnly)"
+    },
+    "All_local_files": {
+        "message": "ឯកសារក្នុងស្រុកទាំងអស់"
+    },
+    "All_modifications_are_only_kept_a_few_moments_Reconfigure_the_0name0_option_to_save_them_permanently_": {
+        "message": "ការកែប្រែទាំងអស់ត្រូវបានរក្សាទុកតែមួយភ្លែតប៉ុណ្ណោះ។ សូមកំណត់ជម្រើស '$name$' ឡើងវិញដើម្បីរក្សាទុកវាជាអចិន្ត្រៃយ៍។",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "All_script_settings_will_be_reset_": {
+        "message": "ការកំណត់ស្គ្រីបទាំងអស់នឹងត្រូវកំណត់ឡើងវិញ!"
+    },
+    "All_tabs": {
+        "message": "ផ្ទាំងទាំងអស់"
+    },
+    "Allow_Tampermonkey_to_collect_anonymous_statistics": {
+        "message": "អនុញ្ញាតឱ្យ Tampermonkey ប្រមូលស្ថិតិអនាមិកតាមរយៈការដំឡើង Matomo ដែលមានម៉ាស៊ីនផ្ទាល់ខ្លួន។ នេះជួយខ្ញុំក្នុងការកែលម្អ Tampermonkey និងកំណត់ថាតើលក្ខណៈវិនិច្ឆ័យណាដែលខ្ញុំគួរផ្តោតលើការអភិវឌ្ឍន៍របស់ខ្ញុំ។ គ្រាន់តែបិទវា ប្រសិនបើអ្នកមិនចូលចិត្តវា។"
+    },
+    "Allow_communication_with_cooperate_pages": {
+        "message": "អនុញ្ញាតឱ្យមានការប្រាស្រ័យទាក់ទងជាមួយទំព័រសហការ"
+    },
+    "Allow_headers_to_be_modified_by_scripts": {
+        "message": "អនុញ្ញាតឱ្យបឋមកថា HTTP ត្រូវបានកែប្រែដោយស្គ្រីប"
+    },
+    "Allow_once": {
+        "message": "អនុញ្ញាតតែម្តង"
+    },
+    "Allow_scripts_to_run_scripts_in": {
+        "message": "ប្រភេទផ្ទាំងលំនាំដើមដើម្បីដំណើរការស្គ្រីប"
+    },
+    "Alltime_running_instances": {
+        "message": "វគ្គដំណើរការសរុបតាំងពីដើមមក"
+    },
+    "Always": {
+        "message": "ជានិច្ច"
+    },
+    "Always_allow": {
+        "message": "អនុញ្ញាតជានិច្ច"
+    },
+    "Always_allow_all_domains": {
+        "message": "អនុញ្ញាតគ្រប់ដែនទាំងអស់ជានិច្ច"
+    },
+    "Always_allow_domain": {
+        "message": "អនុញ្ញាតដែននេះជានិច្ច"
+    },
+    "Always_ask": {
+        "message": "សួរជានិច្ច"
+    },
+    "Always_forbid": {
+        "message": "ហាមឃាត់ជានិច្ច"
+    },
+    "Always_forbid_domain": {
+        "message": "ហាមឃាត់ដែននេះជានិច្ច"
+    },
+    "An_error_occured_during_import_": {
+        "message": "មានកំហុសមួយបានកើតឡើងក្នុងអំឡុងពេលនាំចូល។"
+    },
+    "An_internal_error_occured_Do_you_want_to_visit_the_forum_": {
+        "message": "មានកំហុសខាងក្នុងមួយបានកើតឡើង។ ប្រសិនបើបញ្ហានេះនៅតែបន្តកើតមាន សូម្បីតែបន្ទាប់ពីចាប់ផ្តើមកម្មវិធីរុករកឡើងវិញក៏ដោយ សូមចុច យល់ព្រម (OK) ហើយរាយការណ៍ពីបញ្ហានេះនៅលើវេទិកាពិភាក្សា។\n\nតើអ្នកចង់ចូលទៅកាន់វេទិកា Tampermonkey ដែរឬទេ?"
+    },
+    "Anonymous_statistics": {
+        "message": "ស្ថិតិអនាមិក"
+    },
+    "Antifeature__0name0__0description0": {
+        "message": "មានផ្ទុក $name$: $description$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "description": {
+                "content": "$2"
+            }
+        }
+    },
+    "Antifeature_ads": {
+        "message": "ការផ្សាយពាណិជ្ជកម្ម"
+    },
+    "Antifeature_miner": {
+        "message": "ការជីកយករូបិយប័ណ្ណគ្រីបតូ"
+    },
+    "Antifeature_no_details": {
+        "message": "មិនមានព័ត៌មានលម្អិតត្រូវបានផ្តល់ជូនទេ"
+    },
+    "Antifeature_other": {
+        "message": "លក្ខណៈមិនល្អ (Antifeature)"
+    },
+    "Antifeature_tracking": {
+        "message": "ការតាមដាន"
+    },
+    "Appearance": {
+        "message": "រូបរាង"
+    },
+    "Apply_compatibility_options_to_required_script_too": {
+        "message": "អនុវត្តជម្រើសភាពត្រូវគ្នាទៅនឹងស្គ្រីប @require ផងដែរ"
+    },
+    "Apply_this_action_to_the_selected_scripts": {
+        "message": "អនុវត្តវាចំពោះស្គ្រីបដែលបានជ្រើសរើសទាំងអស់"
+    },
+    "Apply_update": {
+        "message": "អនុវត្តការធ្វើបច្ចុប្បន្នភាព"
+    },
+    "Are_you_sure_that_you_don_t_want_to_be_notified_of_updates_": {
+        "message": "នៅពេលដែល Tampermonkey ត្រូវបានធ្វើបច្ចុប្បន្នភាពដោយកម្មវិធីរុករករបស់អ្នក វាក៏នឹងត្រូវចាប់ផ្តើមឡើងវិញផងដែរ។ ជាអកុសល វានឹងអាចធ្វើឱ្យខូចស្គ្រីបដែលកំពុងដំណើរការបច្ចុប្បន្ន!\n\nដូច្នេះ តើអ្នកប្រាកដទេថាអ្នកមិនចង់ឱ្យមានការជូនដំណឹងអំពីការធ្វើបច្ចុប្បន្នភាព?"
+    },
+    "Are_you_unsure_about_what__sandbox_value_to_use_": {
+        "description": "A question asked by the service bot",
+        "message": "តើអ្នកមិនប្រាកដអំពីតម្លៃ @sandbox ណាដែលត្រូវប្រើមែនទេ?"
+    },
+    "Ask_if_unknown": {
+        "message": "សួរប្រសិនបើមិនស្គាល់"
+    },
+    "At_least_one_new_connect_statement_was_added_": {
+        "message": "យ៉ាងហោចណាស់មានសេចក្តីថ្លែងការណ៍ @connect ថ្មីមួយត្រូវបានបន្ថែម។"
+    },
+    "At_least_one_of_the_include_match_or_exclude_statements_was_changed_": {
+        "message": "យ៉ាងហោចណាស់មានសេចក្តីថ្លែងការណ៍ @include, @match ឬ @exclude មួយត្រូវបានផ្លាស់ប្តូរ។"
+    },
+    "Attention_Can_not_display_all_excludes_": {
+        "message": "ប្រយ័ត្ន៖ បញ្ជីដកចេញត្រូវបានកាត់ខ្លី។\nសូមពិនិត្យមើលវាដោយខ្លួនឯង!"
+    },
+    "Attention_Can_not_display_all_includes_": {
+        "message": "ប្រយ័ត្ន៖ បញ្ជីរួមបញ្ចូលត្រូវបានកាត់ខ្លី。\nសូមពិនិត្យមើលវាដោយខ្លួនឯង!"
+    },
+    "Author": {
+        "message": "អ្នកនិពន្ធ"
+    },
+    "Auto": {
+        "message": "ស្វ័យប្រវត្តិ"
+    },
+    "Auto_Indent_all": {
+        "message": "ខិតបន្ទាត់ស្វ័យប្រវត្តទាំងអស់"
+    },
+    "Auto_reload_on_script_enabled": {
+        "message": "ផ្ទុកទំព័រឡើងវិញដោយស្វ័យប្រវត្តិ"
+    },
+    "Auto_reload_on_script_enabled_desc": {
+        "message": "ផ្ទុកទំព័រដែលរងផលប៉ះពាល់ឡើងវិញ ប្រសិនបើស្គ្រីបត្រូវបានបើក ឬបិទ"
+    },
+    "Auto_syntax_check_max_length": {
+        "message": "ទំហំអតិបរមានៃការពិនិត្យវាក្យសម្ពន្ធស្វ័យប្រវត្តិ"
+    },
+    "Auto_syntax_check_on_typing": {
+        "message": "ពិនិត្យវាក្យសម្ពន្ធដោយស្វ័យប្រវត្តិពេលកំពុងវាយបញ្ចូល"
+    },
+    "Autocomplete": {
+        "message": "បំពេញស្វ័យប្រវត្តិ"
+    },
+    "Automatic_installation": {
+        "message": "ការដំឡើងដោយស្វ័យប្រវត្តិ"
+    },
+    "Automatically_added_user_includes_for_compatibility_reasons_": {
+        "message": "ការរួមបញ្ចូលរបស់អ្នកប្រើប្រាស់មួយចំនួនត្រូវបានបន្ថែមដោយស្វ័យប្រវត្តិសម្រាប់ហេតុផលភាពត្រូវគ្នា!"
+    },
+    "Back_or_close": {
+        "message": "ថយក្រោយ ឬបិទ"
+    },
+    "Beginner": {
+        "message": "អ្នកចាប់ផ្តើមដំបូង"
+    },
+    "BlackCheck": {
+        "message": "BlackCheck"
+    },
+    "Blacklist": {
+        "message": "បញ្ជីខ្មៅ"
+    },
+    "Blacklist_0domain0": {
+        "message": "កុំដំណើរការនៅលើ $domain$",
+        "placeholders": {
+            "domain": {
+                "content": "$1"
+            }
+        }
+    },
+    "Blacklist_Severity": {
+        "message": "រារាំងពីកម្រិតធ្ងន់ធ្ងរ"
+    },
+    "Blacklisted_Pages": {
+        "message": "ទំព័រដែលស្ថិតក្នុងបញ្ជីខ្មៅ"
+    },
+    "Bookmarks": {
+        "message": "ចំណាំ"
+    },
+    "Both": {
+        "message": "ទាំងពីរ"
+    },
+    "Browser_API": {
+        "message": "Browser API"
+    },
+    "Browser_API_Downloads": {
+        "message": "ការទាញយកតាម Browser API"
+    },
+    "Browser_Sync": {
+        "message": "ការធ្វើសមកាលកម្មកម្មវិធីរុករក"
+    },
+    "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
+        "message": "ទំនាស់៖\nស្គ្រីបនេះត្រូវបានកែប្រែដោយផ្ទាំងផ្សេងទៀតកាលពី $t$ វិនាទីមុន!",
+        "placeholders": {
+            "t": {
+                "content": "$1"
+            }
+        }
+    },
+    "Cancel": {
+        "message": "បោះបង់"
+    },
+    "Casual": {
+        "message": "ធម្មតា"
+    },
+    "Center_Cursor": {
+        "message": "ដាក់ទស្សន៍ទ្រនិចចំកណ្តាល"
+    },
+    "Changelog": {
+        "message": "កំណត់ហេតុនៃការផ្លាស់ប្តូរ"
+    },
+    "Changes": {
+        "message": "ការផ្លាស់ប្តូរ"
+    },
+    "Changes_the_number_of_visible_config_options": {
+        "message": "ផ្លាស់ប្តូរចំនួនជម្រើសកំណត់រចនាសម្ព័ន្ធដែលមើលឃើញ"
+    },
+    "Check_disabled_scripts": {
+        "message": "ធ្វើបច្ចុប្បន្នភាពស្គ្រីបដែលបានបិទ"
+    },
+    "Check_for_Updates": {
+        "message": "ពិនិត្យមើលការធ្វើបច្ចុប្បន្នភាព"
+    },
+    "Check_for_userscripts_updates": {
+        "message": "ពិនិត្យមើលការធ្វើបច្ចុប្បន្នភាព userscript"
+    },
+    "Check_interval": {
+        "message": "ចន្លោះពេលពិនិត្យ"
+    },
+    "Check_only_scripts_up_to_this_size_automatically_": {
+        "message": "ពិនិត្យតែស្គ្រីបដែលមានទំហំរហូតដល់ប៉ុណ្ណេះដោយស្វ័យប្រវត្តិ។"
+    },
+    "Classic": {
+        "message": "បុរាណ"
+    },
+    "Clean_after_session": {
+        "message": "សម្អាតបន្ទាប់ពីវគ្គដំណើរការ"
+    },
+    "Clear_All": {
+        "message": "សម្អាតទាំងអស់"
+    },
+    "Click_here_to_allow_TM_to_access_the_following_hosts_0hostlist0": {
+        "message": "សូមចុច យល់ព្រម (OK) ដើម្បីអនុញ្ញាតឱ្យ Tampermonkey ចូលប្រើម៉ាស៊ីនផ្ទុកដូចខាងក្រោម៖\n\n$hostlist$",
+        "placeholders": {
+            "hostlist": {
+                "content": "$1"
+            }
+        }
+    },
+    "Click_here_to_allow_TM_to_make_use_of_a_proxy": {
+        "message": "ចុច យល់ព្រម ដើម្បីអនុញ្ញាតឱ្យ Tampermonkey ប្រើប្រាស់ប្រូកស៊ី។"
+    },
+    "Click_here_to_allow_TM_to_start_downloads": {
+        "message": "ចុច យល់ព្រម ដើម្បីអនុញ្ញាតឱ្យ Tampermonkey ចាប់ផ្តើមទាញយកភ្លាមៗ។"
+    },
+    "Click_here_to_install_it_": {
+        "message": "ចុចទីនេះដើម្បីដំឡើងវា។"
+    },
+    "Click_here_to_move_this_script": {
+        "message": "ចុចទីនេះដើម្បីផ្លាស់ទីស្គ្រីបនេះ"
+    },
+    "Click_here_to_see_the_recent_changes": {
+        "message": "ចុចទីនេះដើម្បីមើលការផ្លាស់ប្តូរថ្មីៗ"
+    },
+    "Close": {
+        "message": "បិទ"
+    },
+    "Closing_Bracket": {
+        "message": "វង់ក្រចកបិទ"
+    },
+    "Cloud": {
+        "message": "ក្លោដ"
+    },
+    "Columns": {
+        "message": "ជួរឈរ"
+    },
+    "Comment": {
+        "message": "មតិយោបល់"
+    },
+    "Config_Mode": {
+        "message": "របៀបកំណត់រចនាសម្ព័ន្ធ"
+    },
+    "Configures_which_sandbox_values_are_valid": {
+        "message": "កំណត់រចនាសម្ព័ន្ធថាតើតម្លៃ @sandbox ណាខ្លះដែលមានសុពលភាព"
+    },
+    "Content_Script": {
+        "message": "Content Script"
+    },
+    "Content_Script_API": {
+        "message": "Content Script API"
+    },
+    "Context_Menu": {
+        "message": "ម៉ឺនុយបរិបទ"
+    },
+    "Controls_how_deleted_scripts_are_handled__0enabled0_moves_scripts_to_a_virtual_trash__0disabled0_permanently_deletes_scripts__0cleanAfterSession0_automatically_deletes_all_on_session_end_": {
+        "message": "គ្រប់គ្រងរបៀបចាត់ចែងស្គ្រីបដែលបានលុប។ '$enabled$' ផ្លាស់ទីស្គ្រីបទៅកាន់ធុងសំរាមនិម្មិតសម្រាប់ការងើបឡើងវិញ។ '$disabled$' លុបស្គ្រីបជាអចិន្ត្រៃយ៍បន្ទាប់ពីការបញ្ជាក់។ '$cleanAfterSession$' សម្អាតធុងសំរាមដោយស្វ័យប្រវត្តបន្ទាប់ពីវគ្គដំណើរការកម្មវិធីរុករកបញ្ចប់។",
+        "placeholders": {
+            "enabled": {
+                "content": "$1"
+            },
+            "disabled": {
+                "content": "$2"
+            },
+            "cleanAfterSession": {
+                "content": "$3"
+            }
+        }
+    },
+    "Convert_CDATA_sections_into_a_chrome_compatible_format": {
+        "message": "បំប្លែងផ្នែក CDATA ទៅជាទម្រង់ដែលអាចប្រើបានជាមួយកម្មវិធីរុករក"
+    },
+    "Copy": {
+        "message": "ចម្លង"
+    },
+    "Cross_Origin_Request_Permission": {
+        "message": "ការអនុញ្ញាតសំណើឆ្លងកាត់ប្រភព"
+    },
+    "Current_Version": {
+        "message": "កំណែបច្ចុប្បន្ន"
+    },
+    "Cursor": {
+        "message": "ទស្សន៍ទ្រនិច"
+    },
+    "Custom_CSS": {
+        "message": "CSS ផ្ទាល់ខ្លួន"
+    },
+    "Custom_Linter_Config": {
+        "message": "ការកំណត់រចនាសម្ព័ន្ធ Linter ផ្ទាល់ខ្លួន"
+    },
+    "Cut": {
+        "message": "កាត់"
+    },
+    "DOM_mode_is_unsecure__Scripts_can_install_new_scripts_": {
+        "message": "របៀប sandbox \"DOM\" គឺមិនមានសុវត្ថិភាពទេ។ userscripts ដែលកំពុងដំណើរការមានការអនុញ្ញាតស្ទើរតែពេញលេញពី extension ហើយថែមទាំងអាចកែប្រែ និងដំឡើង userscripts ថ្មីៗបានទៀតផង។"
+    },
+    "Dashboard": {
+        "message": "ផ្ទាំងគ្រប់គ្រង"
+    },
+    "Debug": {
+        "message": "ដោះស្រាយកំហុស"
+    },
+    "Debug_scripts": {
+        "message": "ដោះស្រាយកំហុសស្គ្រីប"
+    },
+    "Decoding": {
+        "message": "កំពុងបកកូដ..."
+    },
+    "Default": {
+        "message": "លំនាំដើម"
+    },
+    "Default_Dark": {
+        "message": "លំនាំដើម - ងងឹត"
+    },
+    "Default_Darker": {
+        "message": "លំនាំដើម - ងងឹតជាង"
+    },
+    "Default_Light": {
+        "message": "លំនាំដើម - ភ្លឺ"
+    },
+    "Delete": {
+        "message": "លុប"
+    },
+    "Delete_Line": {
+        "message": "លុបបន្ទាត់"
+    },
+    "Delete_Line_Left": {
+        "message": "លុបបន្ទាត់ខាងឆ្វេង"
+    },
+    "Delete_Line_Right": {
+        "message": "លុបបន្ទាត់ខាងស្តាំ"
+    },
+    "Delete_all": {
+        "message": "លុបទាំងអស់"
+    },
+    "Delete_to_Next_Word_Boundary": {
+        "message": "លុបទៅព្រំដែនពាក្យបន្ទាប់"
+    },
+    "Delete_to_Previous_Word_Boundary": {
+        "message": "លុបទៅព្រំដែនពាក្យមុន"
+    },
+    "Delete_to_Sublime_Mark": {
+        "message": "លុបទៅចំណាំលំអិត"
+    },
+    "Deleted_on": {
+        "message": "បានលុបនៅថ្ងៃ"
+    },
+    "Description": {
+        "message": "ការពិពណ៌នា"
+    },
+    "Destination_URL": {
+        "message": "URL គោលដៅ"
+    },
+    "Destination_domain": {
+        "message": "ដែនគោលដៅ"
+    },
+    "Details": {
+        "message": "ព័ត៌មានលម្អិត"
+    },
+    "Developer": {
+        "message": "អ្នកអភិវឌ្ឍន៍"
+    },
+    "Developer_Mode": {
+        "message": "របៀបអ្នកអភិវឌ្ឍន៍"
+    },
+    "Disable": {
+        "message": "បិទ"
+    },
+    "Disable_Updates": {
+        "message": "បិទការធ្វើបច្ចុប្បន្នភាព"
+    },
+    "Disable_all_remaining_scripts_of_this_tag": {
+        "message": "ចុចដើម្បីបិទស្គ្រីបដែលនៅសល់ទាំងអស់នៃស្លាកនេះ"
+    },
+    "Disable_all_scripts_of_this_tag": {
+        "message": "ចុចដើម្បីបិទស្គ្រីបទាំងអស់នៃស្លាកនេះ"
+    },
+    "Disabled": {
+        "message": "បានបិទ"
+    },
+    "Do_you_need_help_finding_Tampermonkey_s_console_output_": {
+        "description": "A question asked by the service bot",
+        "message": "តើអ្នកត្រូវការជំនួយក្នុងការស្វែងរកលទ្ធផល console របស់ Tampermonkey ដែរឬទេ?"
+    },
+    "Do_you_need_help_installing_new_scripts_to_Tampermonkey_": {
+        "description": "A question asked by the service bot",
+        "message": "តើអ្នកត្រូវការជំនួយក្នុងការដំឡើងស្គ្រីបថ្មីទៅកាន់ Tampermonkey ដែរឬទេ?"
+    },
+    "Do_you_need_help_syncing_all_your_installed_scripts_to_another_browser_": {
+        "description": "A question asked by the service bot",
+        "message": "តើអ្នកត្រូវការជំនួយក្នុងការធ្វើសមកាលកម្មស្គ្រីបដែលបានដំឡើងទាំងអស់របស់អ្នកទៅកាន់កម្មវិធីរុករកផ្សេងទៀតដែរឬទេ?"
+    },
+    "Do_you_need_help_viewing_and_editing_values_stored_by_a_userscript_": {
+        "description": "A question asked by the service bot",
+        "message": "តើអ្នកត្រូវការជំនួយក្នុងការមើល និងកែសម្រួលតម្លៃដែលបានរក្សាទុកដោយ userscript ដែរឬទេ?"
+    },
+    "Do_you_need_help_working_with_Tampermonkey_": {
+        "description": "A question asked by the service bot",
+        "message": "តើអ្នកត្រូវការជំនួយក្នុងការធ្វើការជាមួយ Tampermonkey ដែរឬទេ?"
+    },
+    "Do_you_really_want_to_store_fixed_code_": {
+        "message": "ជម្រើស '$option$' ត្រូវបានបើក!\n\nតើអ្នកពិតជាចង់រក្សាទុកកូដប្រភពដែលបានកែប្រែមែនទេ?",
+        "placeholders": {
+            "option": {
+                "content": "$1"
+            }
+        }
+    },
+    "Do_you_want_to_know_how_to_allow_Tampermonkey_access_to_local_file_URIs_": {
+        "description": "A question asked by the service bot",
+        "message": "តើអ្នកចង់ដឹងពីរបៀបអនុញ្ញាតឱ្យ Tampermonkey ចូលប្រើប្រាស់ URI ឯកសារក្នុងស្រុកដែរឬទេ?"
+    },
+    "Do_you_want_to_use_an_external_editor_to_edit_your_scripts__nWould_you_like_to_know_how_to_set_this_up_": {
+        "description": "A question asked by the service bot",
+        "message": "តើអ្នកចង់ប្រើកម្មវិធីកែសម្រួលខាងក្រៅដើម្បីកែសម្រួលស្គ្រីបរបស់អ្នកដែរឬទេ?\nតើអ្នកចង់ដឹងពីរបៀបរៀបចំវាដែរឬទេ?"
+    },
+    "Document_End": {
+        "message": "ចុងបញ្ចប់ឯកសារ"
+    },
+    "Document_Start": {
+        "message": "ការចាប់ផ្តើមឯកសារ"
+    },
+    "Does_not_run_in_incognito_tabs": {
+        "message": "មិនដំណើរការក្នុងផ្ទាំងអនាមិកទេ"
+    },
+    "Does_not_run_in_normal_tabs": {
+        "message": "មិនដំណើរការក្នុងផ្ទាំងធម្មតាទេ"
+    },
+    "Dont_ask_again": {
+        "message": "កុំសួរម្តងទៀត"
+    },
+    "Dont_ask_me_for_simple_script_updates": {
+        "message": "កុំសួរខ្ញុំសម្រាប់ការធ្វើបច្ចុប្បន្នភាពស្គ្រីបសាមញ្ញ"
+    },
+    "Downgrade": {
+        "message": "បញ្ចុះកំណែ"
+    },
+    "Download_Mode": {
+        "message": "របៀបទាញយក"
+    },
+    "Downloaded_from_0url0": {
+        "message": "បានទាញយកពី៖ $url$",
+        "placeholders": {
+            "url": {
+                "content": "$1"
+            }
+        }
+    },
+    "Downloads": {
+        "message": "ការទាញយក"
+    },
+    "Dropbox": {
+        "message": "Dropbox"
+    },
+    "DuckDuckGo": {
+        "message": "DuckDuckGo"
+    },
+    "Duplicate_Lines": {
+        "message": "បន្ទាត់ស្ទួន"
+    },
+    "Edit": {
+        "message": "កែសម្រួល"
+    },
+    "Editor": {
+        "message": "កម្មវិធីកែសម្រួល"
+    },
+    "Editor_reset": {
+        "message": "បោះបង់ការផ្លាស់ប្តូរ"
+    },
+    "Emacs": {
+        "message": "Emacs"
+    },
+    "Enable": {
+        "message": "បើក"
+    },
+    "Enable_Editor": {
+        "message": "បើកកម្មវិធីកែសម្រួលដែលបានកែលម្អ"
+    },
+    "Enable_Script_Sync": {
+        "message": "បើកការធ្វើសមកាលកម្ម Userscript"
+    },
+    "Enable_Tags": {
+        "message": "បើកប្រើស្លាក"
+    },
+    "Enable_all_scripts_of_this_tag": {
+        "message": "ចុចដើម្បីបើកស្គ្រីបទាំងអស់នៃស្លាកនេះ"
+    },
+    "Enable_autoSave": {
+        "message": "រក្សាទុកមាតិកានៅពេលកម្មវិធីកែសម្រួលបាត់បង់ការផ្តោត"
+    },
+    "Enable_context_menu": {
+        "message": "បើកម៉ឺនុយបរិបទ"
+    },
+    "Enable_easySave": {
+        "message": "មិនបាច់បង្ហាញផ្ទាំងបញ្ជាក់នៅពេលរក្សាទុក"
+    },
+    "Enable_this_option_to_automatically_check_the_code_on_typing_": {
+        "message": "បើកជម្រើសនេះដើម្បីពិនិត្យកូដដោយស្វ័យប្រវត្តនៅពេលកំពុងវាយបញ្ចូល។"
+    },
+    "Enabled": {
+        "message": "បានបើក"
+    },
+    "Enabling_this_makes_it_easy_for_scripts_to_leak_it_s_granted_powers_to_the_page_Therefore__off__is_the_safest_option_": {
+        "message": "ការបើកមុខងារនេះធ្វើឱ្យ userscripts ងាយស្រួលក្នុងការលេចធ្លាយថាមពលដែលបានផ្តល់ទៅឱ្យទំព័រ។ ដូច្នេះ \"$off$\" គឺជាជម្រើសដែលមានសុវត្ថិភាពបំផុត ប៉ុន្តែវាអាចបង្កជាបញ្ហាភាពត្រូវគ្នា។",
+        "placeholders": {
+            "off": {
+                "content": "$1"
+            }
+        }
+    },
+    "Enforce": {
+        "message": "បង្ខំអនុវត្ត"
+    },
+    "Enter_the_new_rule": {
+        "message": "បញ្ចូលច្បាប់ថ្មី"
+    },
+    "Error": {
+        "message": "កំហុស"
+    },
+    "Every_12_Hour": {
+        "message": "រៀងរាល់ 12 ម៉ោង"
+    },
+    "Every_6_Hours": {
+        "message": "រៀងរាល់ 6 ម៉ោង"
+    },
+    "Every_Day": {
+        "message": "រៀងរាល់ថ្ងៃ"
+    },
+    "Every_Hour": {
+        "message": "រៀងរាល់ម៉ោង"
+    },
+    "Every_Month": {
+        "message": "រៀងរាល់ខែ"
+    },
+    "Every_Week": {
+        "message": "រៀងរាល់សប្តាហ៍"
+    },
+    "Exclude_0domain0": {
+        "message": "ដកចេញ $domain$",
+        "placeholders": {
+            "domain": {
+                "content": "$1"
+            }
+        }
+    },
+    "Exclude_s__": {
+        "message": "ការដកចេញ"
+    },
+    "Execute_now": {
+        "message": "ដំណើរការឥឡូវនេះ"
+    },
+    "Experimental": {
+        "message": "ការពិសោធន៍"
+    },
+    "Export": {
+        "message": "នាំចេញ"
+    },
+    "Export_script_0name0_0uuid0": {
+        "message": "នាំចេញស្គ្រីប \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Export_script_meta_data_of_0name0": {
+        "message": "នាំចេញទិន្នន័យមេតាស្គ្រីបនៃ \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Export_script_source_of_0name0": {
+        "message": "នាំចេញកូដប្រភពស្គ្រីបនៃ \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Externals": {
+        "message": "ខាងក្រៅ"
+    },
+    "Factory_Reset": {
+        "message": "កំណត់ឡើងវិញដូចរោងចក្រ"
+    },
+    "Fast": {
+        "message": "លឿន"
+    },
+    "Favicon_Service": {
+        "message": "សេវាកម្ម Favicon"
+    },
+    "Features": {
+        "message": "លក្ខណៈពិសេស"
+    },
+    "File": {
+        "message": "ឯកសារ"
+    },
+    "Filter_by": {
+        "message": "ចម្រោះតាម"
+    },
+    "Find": {
+        "message": "ស្វែងរក"
+    },
+    "Find_All_Under": {
+        "message": "ស្វែងរកទាំងអស់នៅខាងក្រោម"
+    },
+    "Find_Next": {
+        "message": "ស្វែងរកបន្ទាប់"
+    },
+    "Find_Previous": {
+        "message": "ស្វែងរកមុន"
+    },
+    "Find_Under": {
+        "message": "ស្វែងរកនៅខាងក្រោម"
+    },
+    "Find_Under_Previous": {
+        "message": "ស្វែងរកនៅខាងក្រោមមុន"
+    },
+    "Find_incremental": {
+        "message": "ស្វែងរកបន្ថែមលំដាប់"
+    },
+    "Find_incremental_reverse": {
+        "message": "ស្វែងរកបន្ថែមលំដាប់បញ្ច្រាស"
+    },
+    "Fix_wrappedJSObject_property_access": {
+        "message": "ជួសជុលការចូលប្រើប្រាស់លក្ខណៈសម្បត្តិ wrappedJSObject"
+    },
+    "Focus_tab": {
+        "message": "ផ្ដោតលើផ្ទាំងប្រភព"
+    },
+    "Fold": {
+        "message": "បត់កូដ"
+    },
+    "Fold_All": {
+        "message": "បត់កូដទាំងអស់"
+    },
+    "Folding": {
+        "message": "ការបត់កូដ"
+    },
+    "Font_Size": {
+        "message": "ទំហំអក្សរ"
+    },
+    "Forbid_once": {
+        "message": "ហាមឃាត់តែម្តង"
+    },
+    "Force_DOM": {
+        "message": "បង្ខំ DOM"
+    },
+    "Force_JavaScript": {
+        "message": "បង្ខំ JavaScript"
+    },
+    "Force_Raw": {
+        "message": "បង្ខំ Raw"
+    },
+    "Found_0count0_available_scripts": {
+        "message": "រកឃើញស្គ្រីបដែលអាចប្រើបានចំនួន $count$",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "Full_reset": {
+        "message": "កំណត់ឡើងវិញដូចរោងចក្រ"
+    },
+    "GM_compat_options_": {
+        "message": "ជម្រើសភាពត្រូវគ្នាសម្រាប់ GM/FF"
+    },
+    "General": {
+        "message": "ទូទៅ"
+    },
+    "Get_new_scripts___": {
+        "message": "ស្វែងរកស្គ្រីបថ្មី..."
+    },
+    "Get_some_scripts___": {
+        "message": "ទទួលបានស្គ្រីបខ្លះ..."
+    },
+    "Global_Settings": {
+        "message": "ការកំណត់សកល"
+    },
+    "Global_settings_import": {
+        "message": "ការនាំចូលការកំណត់សកល"
+    },
+    "GoTo": {
+        "message": "ទៅកាន់"
+    },
+    "Google": {
+        "message": "Google"
+    },
+    "Google_Drive": {
+        "message": "Google Drive"
+    },
+    "Grant_all": {
+        "message": "ផ្តល់ការអនុញ្ញាតទាំងអស់"
+    },
+    "Grant_selected": {
+        "message": "ផ្តល់ការអនុញ្ញាតដែលបានជ្រើសរើស"
+    },
+    "Group_Left": {
+        "message": "ក្រុមខាងឆ្វេង"
+    },
+    "Group_Right": {
+        "message": "ក្រុមខាងស្តាំ"
+    },
+    "Help": {
+        "message": "ជំនួយ"
+    },
+    "Hide_disabled_scripts": {
+        "message": "លាក់ស្គ្រីបដែលបានបិទ"
+    },
+    "Hide_notification_after": {
+        "message": "លាក់ការជូនដំណឹងបន្ទាប់ពី"
+    },
+    "Highlight_selection_matches": {
+        "message": "រំលេចអ្វីដែលត្រូវគ្នានឹងការជ្រើសរើស"
+    },
+    "Highlight_trailing_whitespace": {
+        "message": "រំលេចចន្លោះទំនេរនៅខាងចុង"
+    },
+    "Homepage": {
+        "message": "គេហទំព័រដើម"
+    },
+    "Host_permissions_denied_by_user_": {
+        "message": "ការអនុញ្ញាតម៉ាស៊ីនផ្ទុកត្រូវបានបដិសេធដោយអ្នកប្រើប្រាស់៖"
+    },
+    "I_contributed_already": {
+        "message": "ខ្ញុំបានចូលរួមចំណែករួចហើយ"
+    },
+    "I_dont_want_to_contribute": {
+        "message": "ខ្ញុំមិនចង់ចូលរួមចំណែកទេ"
+    },
+    "Icon_badge_color": {
+        "message": "ពណ៌ផ្លាកសញ្ញារូបតំណាង"
+    },
+    "Icon_badge_info": {
+        "message": "ព័ត៌មានផ្លាកសញ្ញារូបតំណាង"
+    },
+    "Icon_badge_text_color": {
+        "message": "ពណ៌អត្ថបទផ្លាកសញ្ញារូបតំណាង"
+    },
+    "Import": {
+        "message": "នាំចូល"
+    },
+    "Import_from_URL": {
+        "message": "នាំចូលពី URL"
+    },
+    "Import_from_file": {
+        "message": "នាំចូលពីឯកសារ"
+    },
+    "Import_remote_script_0uuid0": {
+        "message": "នាំចូលស្គ្រីបពីចម្ងាយ ($uuid$)",
+        "placeholders": {
+            "uuid": {
+                "content": "$1"
+            }
+        }
+    },
+    "Imported": {
+        "message": "បាននាំចូល"
+    },
+    "In_order_to_search_for_userscripts__0on_action_menu0__and__0icon_badge_number0__automatically_transfer_the_tab_s_url_to_the_search_website__0on_click0_opens_the_search_page_on_click_Please_click_at_this_icon_to_open_the_privacy_policy_": {
+        "message": "នៅក្នុងរបៀប \"$icon_badge_number$\" URL របស់ផ្ទាំងនឹងត្រូវបានផ្ទេរទៅកាន់គេហទំព័រស្វែងរកដោយស្វ័យប្រវត្ត\nហើយប្រើជាតម្លៃស្វែងរក។\n\nនៅក្នុងរបៀប \"$on_action_menu$\" ការស្វែងរកដោយប្រើ URL នឹងត្រូវធ្វើឡើងតែនៅពេល\nដែលម៉ឺនុយសកម្មភាពត្រូវបានបើកប៉ុណ្ណោះ។\n\n\"$on_click$\" គ្រាន់តែបើកគេហទំព័រស្វែងរកនៅពេលចុចលើធាតុម៉ឺនុយសកម្មភាព។\n\nចុចទីនេះដើម្បីបើកគោលការណ៍ឯកជនភាពរបស់គេហទំព័រស្វែងរក។",
+        "placeholders": {
+            "icon_badge_number": {
+                "content": "$1"
+            },
+            "on_action_menu": {
+                "content": "$2"
+            },
+            "on_click": {
+                "content": "$3"
+            }
+        }
+    },
+    "Include_TM_settings": {
+        "message": "រួមបញ្ចូលការកំណត់ Tampermonkey"
+    },
+    "Include_s__": {
+        "message": "ការរួមបញ្ចូល"
+    },
+    "Include_script_externals": {
+        "message": "រួមបញ្ចូលធនធានស្គ្រីបខាងក្រៅ"
+    },
+    "Include_script_storage": {
+        "message": "រួមបញ្ចូលទំហំផ្ទុកទិន្នន័យស្គ្រីប"
+    },
+    "Includes_Excludes": {
+        "message": "រួមបញ្ចូល/ដកចេញ"
+    },
+    "Incognito_tabs": {
+        "message": "ផ្ទាំងអនាមិក"
+    },
+    "Incremental_Find": {
+        "message": "ស្វែងរកបន្ថែមលំដាប់"
+    },
+    "Indent": {
+        "message": "Indent"
+    },
+    "Indent_Less": {
+        "message": "ខិតបន្ទាត់តិចជាង"
+    },
+    "Indent_More": {
+        "message": "ខិតបន្ទាត់ច្រើនជាង"
+    },
+    "Indent_with": {
+        "message": "ខិតបន្ទាត់ដោយប្រើ"
+    },
+    "Indentation_Width": {
+        "message": "ទទឹងនៃការខិតបន្ទាត់"
+    },
+    "Info": {
+        "message": "ព័ត៌មាន"
+    },
+    "Inject_Mode": {
+        "message": "របៀបបញ្ចូលកូដ"
+    },
+    "Insert_Line_After": {
+        "message": "បញ្ចូលបន្ទាត់នៅខាងក្រោយ"
+    },
+    "Insert_Line_Before": {
+        "message": "បញ្ចូលបន្ទាត់នៅខាងមុខ"
+    },
+    "Insert_constructor": {
+        "message": "បញ្ចូល constructor"
+    },
+    "Install": {
+        "message": "ដំឡើង"
+    },
+    "Install_this_script": {
+        "message": "ដំឡើងស្គ្រីបនេះ"
+    },
+    "Installed_Version_": {
+        "message": "កំណែដែលបានដំឡើង"
+    },
+    "Installed_userscripts": {
+        "message": "Userscripts ដែលបានដំឡើង"
+    },
+    "Instant": {
+        "message": "ភ្លាមៗ"
+    },
+    "Invalid_UserScript__Sry_": {
+        "message": "Userscript មិនត្រឹមត្រូវ!"
+    },
+    "Invalid_UserScript_name__Sry_": {
+        "message": "ឈ្មោះ Userscript មិនត្រឹមត្រូវ!"
+    },
+    "Invert": {
+        "message": "ច្រឡាស់"
+    },
+    "JavaScript_and_DOM": {
+        "message": "JavaScript+DOM"
+    },
+    "Join_Lines": {
+        "message": "ភ្ជាប់បន្ទាត់"
+    },
+    "Jump_to_line": {
+        "message": "ផ្លោះទៅបន្ទាត់"
+    },
+    "Just_another_service_provided_by_your_friendly_script_updater_": {
+        "message": "គ្រាន់តែជាសេវាកម្មមួយផ្សេងទៀតដែលផ្តល់ជូនដោយកម្មវិធីធ្វើបច្ចុប្បន្នភាពស្គ្រីបដ៏រួសរាយរបស់អ្នក"
+    },
+    "Key_Mapping": {
+        "message": "ការផ្គូផ្គងសោ"
+    },
+    "Language": {
+        "message": "ភាសា"
+    },
+    "Last_updated": {
+        "message": "ធ្វើបច្ចុប្បន្នភាពចុងក្រោយ"
+    },
+    "Layout": {
+        "message": "ប្លង់"
+    },
+    "Learn_more": {
+        "message": "ស្វែងយល់បន្ថែម"
+    },
+    "Legacy": {
+        "message": "កេរដំណែល"
+    },
+    "Legal_runtime_host_permissions_might_break_some_Tampermonkey_features_": {
+        "message": "ការអនុញ្ញាតម៉ាស៊ីនផ្ទុកពេលដំណើរការដែលមានកម្រិត អាចនឹងធ្វើឱ្យខូចមុខងាររបស់ Tampermonkey មួយចំនួនដូចជាការធ្វើបច្ចុប្បន្នភាពស្គ្រីប, GM_xmlhttpRequest និងមុខងារផ្សេងទៀត!"
+    },
+    "Line_Case_Insensitive": {
+        "message": "បន្ទាត់មិនប្រកាន់តួអក្សរតូចធំ"
+    },
+    "Line_Down": {
+        "message": "ចុះក្រោមមួយបន្ទាត់"
+    },
+    "Line_Up": {
+        "message": "ឡើងលើមួយបន្ទាត់"
+    },
+    "Line_break": {
+        "message": "រុំពាក្យ"
+    },
+    "Lines": {
+        "message": "បន្ទាត់"
+    },
+    "Lines_Menu": {
+        "message": "បន្ទាត់"
+    },
+    "Loading": {
+        "message": "កំពុងផ្ទុក..."
+    },
+    "LogLevel": {
+        "message": "កម្រិតកត់ត្រាហេតុការណ៍"
+    },
+    "Login": {
+        "message": "ចូលប្រើ"
+    },
+    "Lookup_remote_script_0uuid0": {
+        "message": "រកមើលស្គ្រីបពីចម្ងាយ ($uuid$)",
+        "placeholders": {
+            "uuid": {
+                "content": "$1"
+            }
+        }
+    },
+    "Lookup_remote_script_list": {
+        "message": "រកមើលបញ្ជីស្គ្រីបពីចម្ងាយ"
+    },
+    "Lower_Case": {
+        "message": "អក្សរតូច"
+    },
+    "MIME_Type": {
+        "message": "ប្រភេទ MIME"
+    },
+    "Malicious_scripts_can_violate_your_privacy_": {
+        "message": "ស្គ្រីបដែលមានគំនិតអាក្រក់អាចរំលោភលើឯកជនភាពរបស់អ្នក និងធ្វើសកម្មភាពជំនួសអ្នកបាន!\nអ្នកគួរតែដំឡើងស្គ្រីបពីប្រភពដែលអ្នកទុកចិត្តប៉ុណ្ណោះ។"
+    },
+    "Manual_Script_Blacklist": {
+        "message": "បញ្ជីខ្មៅ Userscript និង @require ដោយដៃ"
+    },
+    "Matching_URL": {
+        "message": "URL ដែលត្រូវគ្នា"
+    },
+    "Modify": {
+        "message": "កែប្រែ"
+    },
+    "Modifying_a_script_will_disable_automatic_script_updates_": {
+        "message": "ការកែប្រែស្គ្រីបនឹងបិទការធ្វើបច្ចុប្បន្នភាពស្គ្រីបដោយស្វ័យប្រវត្ត!"
+    },
+    "Move_Line_Down": {
+        "message": "ផ្លាស់ទីបន្ទាត់ចុះក្រោម"
+    },
+    "Move_Line_Up": {
+        "message": "ផ្លាស់ទីបន្ទាត់ឡើងលើ"
+    },
+    "Name": {
+        "message": "ឈ្មោះ"
+    },
+    "Native": {
+        "message": "ដើម"
+    },
+    "Never": {
+        "message": "មិនដែល"
+    },
+    "New_Tag": {
+        "message": "ស្លាកថ្មី"
+    },
+    "New_Version": {
+        "message": "កំណែថ្មី"
+    },
+    "New_script_template_": {
+        "message": "គំរូ userscript ថ្មី"
+    },
+    "New_userscript": {
+        "message": "<Userscript ថ្មី>"
+    },
+    "Next_Bookmark": {
+        "message": "ចំណាំបន្ទាប់"
+    },
+    "Next_Problem": {
+        "message": "បញ្ហាបន្ទាប់"
+    },
+    "Next_tab": {
+        "message": "ផ្ទាំងបន្ទាប់"
+    },
+    "Next_theme": {
+        "message": "ស្បែកបន្ទាប់"
+    },
+    "No": {
+        "message": "ទេ"
+    },
+    "No_available_scripts": {
+        "message": "មិនមានស្គ្រីបដែលអាចប្រើបានទេ"
+    },
+    "No_backups_found": {
+        "message": "រកមិនឃើញការចម្លងទុកទេ"
+    },
+    "No_entry_found": {
+        "message": "រកមិនឃើញធាតុបញ្ចូលទេ"
+    },
+    "No_frames": {
+        "message": "ដំណើរការតែនៅក្នុង top frame ប៉ុណ្ណោះ"
+    },
+    "No_previously_denied_runtime_host_permissions_found": {
+        "message": "រកមិនឃើញការអនុញ្ញាតម៉ាស៊ីនផ្ទុកពេលដំណើរការដែលត្រូវបានបដិសេធពីមុនមកទេ"
+    },
+    "No_script_is_installed": {
+        "message": "មិនមានស្គ្រីបត្រូវបានដំឡើងទេ"
+    },
+    "No_script_is_running": {
+        "message": "មិនមានស្គ្រីបកំពុងដំណើរការទេ"
+    },
+    "No_syntax_errors_were_found_": {
+        "message": "រកមិនឃើញកំហុសវាក្យសម្ពន្ធទេ៖"
+    },
+    "No_text": {
+        "message": "គ្មានអត្ថបទ"
+    },
+    "No_update_found__sry_": {
+        "message": "រកមិនឃើញការធ្វើបច្ចុប្បន្នភាពទេ សុំទោសផង!"
+    },
+    "Normal": {
+        "message": "ធម្មតា"
+    },
+    "Normal_tabs": {
+        "message": "ផ្ទាំងធម្មតា"
+    },
+    "Note": {
+        "message": "សម្គាល់"
+    },
+    "Novice": {
+        "message": "អ្នកទើបតែចាប់ផ្តើម"
+    },
+    "Off": {
+        "message": "បិទ"
+    },
+    "Ok": {
+        "message": "យល់ព្រម"
+    },
+    "On": {
+        "message": "បើក"
+    },
+    "On_Action_Menu": {
+        "message": "នៅលើម៉ឺនុយសកម្មភាព"
+    },
+    "On_Click": {
+        "message": "នៅពេលចុច"
+    },
+    "OneDrive": {
+        "message": "OneDrive"
+    },
+    "One_error_or_hint_was_found_": {
+        "message": "រកឃើញកំហុស ឬការណែនាំមួយ។"
+    },
+    "One_of_your_scripts_is_blacklisted__Would_you_like_to_know_why_": {
+        "description": "A question asked by the service bot",
+        "message": "ស្គ្រីបមួយរបស់អ្នកត្រូវបានដាក់ក្នុងបញ្ជីខ្មៅ។ តើអ្នកចង់ដឹងពីមូលហេតុដែរឬទេ?"
+    },
+    "One_or_more_compatibility_options_are_set": {
+        "message": "ជម្រើសភាពត្រូវគ្នាមួយ ឬច្រើនត្រូវបានកំណត់។ អ្នកប្រហែលជាចង់/គួរតែពិនិត្យមើលវាឡើងវិញ។"
+    },
+    "Only_Manual": {
+        "message": "ដោយដៃប៉ុណ្ណោះ"
+    },
+    "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
+        "message": "មានតែឯកសារដែលមានកន្ទុយទាំងនេះទេដែលអាចរក្សាទុកក្នុងថាសរឹងបាន។\nសូមប្រយ័ត្នកុំអនុញ្ញាតឱ្យមានកន្ទុយឯកសារដែលជាប្រភេទឯកសារដែលអាចដំណើរការបាននៅលើប្រព័ន្ធប្រតិបត្តិការរបស់អ្នក!",
+    },
+    "Open": {
+        "description": "A button to open a file",
+        "message": "បើក"
+    },
+    "Open_changelog": {
+        "message": "បើកកំណត់ហេតុនៃការផ្លាស់ប្តូរ"
+    },
+    "Operation_completed_successfully": {
+        "message": "ប្រតិបត្តិការបានបញ្ចប់ដោយជោគជ័យ"
+    },
+    "Original_domain_whitelist": {
+        "message": "បញ្ជីសដែនដើម"
+    },
+    "Original_excludes": {
+        "message": "ការដកចេញដើម"
+    },
+    "Original_includes": {
+        "message": "ការរួមបញ្ចូលដើម"
+    },
+    "Original_matches": {
+        "message": "ការផ្គូផ្គងដើម"
+    },
+    "Overwrite": {
+        "message": "សរសេរជាន់លើ"
+    },
+    "Page_Filter_Mode": {
+        "message": "របៀបចម្រោះទំព័រ"
+    },
+    "Partially_restricted_by_settings": {
+        "message": "ត្រូវបានដាក់កំហិតមួយផ្នែកដោយការកំណត់"
+    },
+    "Password": {
+        "message": "លេខសម្ងាត់"
+    },
+    "Paste": {
+        "message": "បិទភ្ជាប់"
+    },
+    "Permanent": {
+        "message": "អចិន្ត្រៃយ៍"
+    },
+    "Please_check_the_0editor0_documentation_for_more_details_": {
+        "message": "សូមពិនិត្យមើលឯកសារណែនាំរបស់ $editor$ សម្រាប់ព័ត៌មានលម្អិតបន្ថែម។",
+        "placeholders": {
+            "editor": {
+                "content": "$1"
+            }
+        }
+    },
+    "Please_consider_a_contribution": {
+        "message": "សូមពិចារណាចូលរួមឧបត្ថម្ភ"
+    },
+    "Please_enable_anonymous_statistics_and_help_to_improve_this_extension_": {
+        "message": "សូមបើកស្ថិតិអនាមិក និងជួយកែលម្អ extension នេះ។ មានតែទិន្នន័យបច្ចេកទេស និងទិន្នន័យអន្តរកម្មរបស់ extension ប៉ុណ្ណោះដែលត្រូវបានប្រមូល។ ចុចទីនេះសម្រាប់ព័ត៌មានបន្ថែមអំពីទិន្នន័យ។"
+    },
+    "Please_enable_the_allow_userscripts_extension_setting_": {
+        "message": "សូមបើកការកំណត់ extension `អនុញ្ញាតឱ្យប្រើប្រាស់ User Scripts`។ ចុចទីនេះសម្រាប់ព័ត៌មានបន្ថែមអំពីរបៀបធ្វើវា។"
+    },
+    "Please_select_a_file": {
+        "message": "សូមជ្រើសរើសឯកសារមួយ"
+    },
+    "Please_wait___": {
+        "message": "សូមរង់ចាំ..."
+    },
+    "Position": {
+        "description": "Script table header",
+        "message": "#"
+    },
+    "Position_": {
+        "message": "ទីតាំង"
+    },
+    "Press_ctrl_to_toggle_all_checkboxes": {
+        "message": "ចុច Ctrl/Cmd ដើម្បីបិទបើកប្រអប់ធីកទាំងអស់"
+    },
+    "Prev_Bookmark": {
+        "message": "ចំណាំមុន"
+    },
+    "Prev_Problem": {
+        "message": "បញ្ហាមុន"
+    },
+    "Previous_tab": {
+        "message": "ផ្ទាំងមុន"
+    },
+    "Process_with_Chrome": {
+        "message": "ដំណើរការជាមួយកម្មវិធីរុករក"
+    },
+    "Proxy_Permission": {
+        "message": "ការអនុញ្ញាតប្រូកស៊ី"
+    },
+    "Raw_and_JavaScript": {
+        "message": "Raw និង JavaScript"
+    },
+    "Really_delete_0name0__": {
+        "message": "តើអ្នកពិតជាចង់លុប '$name$' មែនទេ?",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "Really_delete_all_userscripts_": {
+        "message": "តើអ្នកពិតជាចង់លុប userscripts ទាំងអស់ជាអចិន្ត្រៃយ៍មែនទេ?"
+    },
+    "Really_delete_the_selected_items_": {
+        "message": "តើអ្នកពិតជាចង់លុបធាតុដែលបានជ្រើសរើសទាំងអស់មែនទេ?"
+    },
+    "Really_factory_reset_the_selected_items_": {
+        "message": "តើអ្នកពិតជាចង់កំណត់ធាតុដែលបានជ្រើសរើសទាំងអស់ឡើងវិញដូចរោងចក្រមែនទេ?"
+    },
+    "Really_factory_reset_this_script_": {
+        "message": "តើអ្នកពិតជាចង់កំណត់ស្គ្រីបនេះឡើងវិញដូចរោងចក្រមែនទេ?"
+    },
+    "Really_reset_all_changes_": {
+        "message": "តើពិតជាចង់បោះបង់ការផ្លាស់ប្តូរមែនទេ?"
+    },
+    "Really_restore_all_userscripts_": {
+        "message": "តើអ្នកពិតជាចង់ស្តារ userscripts ទាំងអស់ឡើងវិញមែនទេ?"
+    },
+    "Recent_Sync_Log": {
+        "message": "កំណត់ហេតុសមកាលកម្មថ្មីៗ"
+    },
+    "Redo": {
+        "message": "ធ្វើវិញ"
+    },
+    "Reindent_on_typing": {
+        "message": "ខិតបន្ទាត់ឡើងវិញពេលកំពុងវាយបញ្ចូល"
+    },
+    "Reinstall": {
+        "message": "ដំឡើងឡើងវិញ"
+    },
+    "Reload": {
+        "message": "ផ្ទុកឡើងវិញ"
+    },
+    "Remind_me_later": {
+        "message": "រំលឹកខ្ញុំពេលក្រោយ"
+    },
+    "Remove": {
+        "message": "ដកចេញ"
+    },
+    "Remove_Tag": {
+        "message": "ដកស្លាកចេញ"
+    },
+    "Remove__possibly_unsecure_": {
+        "message": "លុបចេញទាំងស្រុង (អាចមិនមានសុវត្ថិភាព)"
+    },
+    "Remove_local_script_0name0_0uuid0": {
+        "message": "លុបស្គ្រីបក្នុងស្រុក \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Remove_remote_script_0name0_0uuid0": {
+        "message": "លុបស្គ្រីបពីចម្ងាយ \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Replace": {
+        "message": "ជំនួស"
+    },
+    "Replace_": {
+        "message": "ជំនួស?"
+    },
+    "Replace_All": {
+        "message": "ជំនួសទាំងអស់"
+    },
+    "Replace_all_with": {
+        "message": "ជំនួសទាំងអស់"
+    },
+    "Replace_for_each_statements": {
+        "message": "ជំនួសសេចក្តីថ្លែងការណ៍ 'for each'"
+    },
+    "Replace_with": {
+        "message": "ជំនួសដោយ"
+    },
+    "Report_a_bug": {
+        "message": "រាយការណ៍កំហុស"
+    },
+    "Report_an_issue_to_the_script_hoster_": {
+        "message": "រាយការណ៍ការរំលោភបំពាន។\n(ប្រហែលជាត្រូវមានគណនីអ្នកប្រើប្រាស់)"
+    },
+    "Requested_Host_Permissions": {
+        "message": "ការអនុញ្ញាតម៉ាស៊ីនផ្ទុកដែលបានស្នើសុំ"
+    },
+    "Requires": {
+        "message": "តម្រូវឱ្យមាន"
+    },
+    "Reset_Section": {
+        "message": "កំណត់ឡើងវិញ"
+    },
+    "Reset_list": {
+        "message": "កំណត់បញ្ជីឡើងវិញ"
+    },
+    "Resources": {
+        "message": "ធនធាន"
+    },
+    "Restart_Tampermonkey": {
+        "message": "ចាប់ផ្តើម Tampermonkey ឡើងវិញ"
+    },
+    "Restore": {
+        "message": "ស្តារឡើងវិញ"
+    },
+    "Restore_all": {
+        "message": "ស្តារឡើងវិញទាំងអស់"
+    },
+    "Revoke_Access_Token": {
+        "message": "ដកហូតនិមិត្តសញ្ញាចូលប្រើ"
+    },
+    "Run_at": {
+        "message": "ដំណើរការនៅ"
+    },
+    "Run_in": {
+        "message": "ដំណើរការក្នុង"
+    },
+    "Run_syntax_check": {
+        "message": "ដំណើរការការពិនិត្យវាក្យសម្ពន្ធ"
+    },
+    "Running_scripts": {
+        "message": "វគ្គស្គ្រីបដែលកំពុងដំណើរការ"
+    },
+    "Runtime_Host_Permissions": {
+        "message": "ការអនុញ្ញាតម៉ាស៊ីនផ្ទុកពេលដំណើរការ"
+    },
+    "Sandbox_Mode": {
+        "message": "របៀប Sandbox"
+    },
+    "Save": {
+        "message": "រក្សាទុក"
+    },
+    "Save_to_disk": {
+        "message": "រក្សាទុកទៅក្នុងថាស"
+    },
+    "Scan_the_QR_code_to_use_Tampermonkey_on_your_phone_or_tablet_": {
+        "message": "ស្កែនកូដ QR ដើម្បីប្រើប្រាស់ Tampermonkey នៅលើទូរស័ព្ទ ឬថេប្លេតរបស់អ្នក។"
+    },
+    "Script_0name0_is_slowing_down_some_page_loads_": {
+        "message": "Userscript '$name$' កំពុងធ្វើឱ្យការផ្ទុកទំព័ររបស់អ្នកយឺតយ៉ាវ",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "Script_Blacklist_Source": {
+        "message": "ប្រភពបញ្ជីខ្មៅរបស់ Userscript"
+    },
+    "Script_Include_Mode": {
+        "message": "របៀប @include របស់ Userscript"
+    },
+    "Script_Sync": {
+        "message": "ការធ្វើសមកាលកម្ម Userscript"
+    },
+    "Script_Tags": {
+        "message": "ស្លាកស្គ្រីប"
+    },
+    "Script_URL_detection": {
+        "message": "ការរកឃើញ URL របស់ Userscript"
+    },
+    "Script_Update": {
+        "message": "ការធ្វើបច្ចុប្បន្នភាព Userscript"
+    },
+    "Script_authors_can_secure_external_resources_by_adding_a_SRI_hash_to_the_URL_": {
+        "message": "អ្នកនិពន្ធស្គ្រីបអាចការពារធនធានខាងក្រៅបានដោយបន្ថែម SRI hash ទៅក្នុង URL ប្រភព។"
+    },
+    "Script_cookies_access": {
+        "message": "អនុញ្ញាតឱ្យស្គ្រីបចូលប្រើប្រាស់ឃុកឃី"
+    },
+    "Script_local_files_access": {
+        "message": "អនុញ្ញាតឱ្យស្គ្រីបចូលប្រើប្រាស់ឯកសារក្នុងស្រុក"
+    },
+    "Script_menu_commands": {
+        "message": "ពាក្យបញ្ជាម៉ឺនុយរបស់ Userscript"
+    },
+    "Script_name_0name0": {
+        "message": "ឈ្មោះ Userscript៖ $name$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "Script_order": {
+        "message": "លំដាប់លំដោយរបស់ Userscript"
+    },
+    "Scripts_activated_by_context_menu": {
+        "message": "Userscripts ដែលប្រើប្រាស់ @run-at context-menu"
+    },
+    "Search": {
+        "message": "ស្វែងរក"
+    },
+    "Search_for": {
+        "message": "ស្វែងរក"
+    },
+    "Search_for_userscripts_for_this_tab": {
+        "message": "ស្វែងរក userscripts សម្រាប់ទំព័រនេះ"
+    },
+    "Searching_for_userscripts_for_this_tab": {
+        "message": "កំពុងស្វែងរក userscripts..."
+    },
+    "Security": {
+        "message": "សុវត្ថិភាព"
+    },
+    "Select_All": {
+        "message": "ជ្រើសរើសទាំងអស់"
+    },
+    "Select_All_Occurrences": {
+        "message": "ជ្រើសរើសការកើតឡើងទាំងអស់"
+    },
+    "Select_Bookmarks": {
+        "message": "ជ្រើសរើសចំណាំ"
+    },
+    "Select_Line": {
+        "message": "ជ្រើសរើសបន្ទាត់"
+    },
+    "Select_Next_Occurrence": {
+        "message": "ជ្រើសរើសការកើតឡើងបន្ទាប់"
+    },
+    "Select_Scope": {
+        "message": "ជ្រើសរើសវិសាលភាព"
+    },
+    "Select_between_Brackets": {
+        "message": "ជ្រើសរើសចន្លោះវង់ក្រចក"
+    },
+    "Select_to_Sublime_Mark": {
+        "message": "ជ្រើសរើសទៅចំណាំលំអិត"
+    },
+    "Selection": {
+        "message": "ជម្រើស"
+    },
+    "Server_And_Manual": {
+        "message": "ពីចម្ងាយ + ដោយដៃ"
+    },
+    "Set_Sublime_Mark": {
+        "message": "កំណត់ចំណាំលំអិត"
+    },
+    "Settings": {
+        "message": "ការកំណត់"
+    },
+    "Show_backups": {
+        "message": "បង្ហាញការចម្លងទុក"
+    },
+    "Show_fixed_source": {
+        "message": "បង្ហាញកូដប្រភពដែលបានកែប្រែ"
+    },
+    "Show_notification": {
+        "message": "បង្ហាញការជូនដំណឹង"
+    },
+    "Sites": {
+        "message": "គេហទំព័រ"
+    },
+    "Size": {
+        "message": "ទំហំ"
+    },
+    "Skip_and_select_next_occurrence": {
+        "message": "រំលង រួចជ្រើសរើសការកើតឡើងបន្ទាប់"
+    },
+    "Skip_timeout__0seconds0_seconds_": {
+        "message": "រំលងអស់ពេល ($seconds$ វិនាទី)",
+        "placeholders": {
+            "seconds": {
+                "content": "$1"
+            }
+        }
+    },
+    "Smart": {
+        "message": "វៃឆ្លាត"
+    },
+    "Smart_Backspace": {
+        "message": "Smart Backspace"
+    },
+    "Some_URLs_are_restricted_by_a_setting_": {
+        "message": "URL មួយចំនួនត្រូវបានដាក់កំហិតដោយការកំណត់!"
+    },
+    "Some_URLs_are_restricted_by_your_browser_or_a_setting_": {
+        "message": "URL មួយចំនួនត្រូវបានដាក់កំហិតដោយកម្មវិធីរុករករបស់អ្នក ឬការកំណត់!"
+    },
+    "Some_scripts_might_be_blocked_by_the_javascript_settings_for_this_page_or_a_script_blocker_": {
+        "message": "ស្គ្រីបមួយចំនួនអាចនឹងត្រូវរារាំងដោយការកំណត់ JavaScript សម្រាប់ទំព័រនេះ ឬកម្មវិធីរារាំងស្គ្រីប!"
+    },
+    "Sort": {
+        "message": "តម្រៀប"
+    },
+    "Source": {
+        "message": "ប្រភព"
+    },
+    "Source_Code": {
+        "message": "កូដប្រភព"
+    },
+    "Spaces": {
+        "message": "ចន្លោះទំនេរ"
+    },
+    "Split_into_Lines": {
+        "message": "បំបែកទៅជាបន្ទាត់"
+    },
+    "Split_selection_by_line": {
+        "message": "បំបែកជម្រើសតាមបន្ទាត់"
+    },
+    "Start": {
+        "message": "ចាប់ផ្តើម"
+    },
+    "Stop": {
+        "message": "បញ្ឈប់"
+    },
+    "Storage": {
+        "message": "ទំហំផ្ទុក"
+    },
+    "Store_data_in_incognito_mode": {
+        "message": "រក្សាទុកទិន្នន័យក្នុងរបៀបអនាមិក"
+    },
+    "Strict": {
+        "message": "តឹងរ៉ឹង"
+    },
+    "Sublime": {
+        "message": "Sublime Text"
+    },
+    "Sublime_Mark": {
+        "message": "Sublime Mark"
+    },
+    "Subresource_Integrity": {
+        "message": "Subresource Integrity"
+    },
+    "Swap_with_Sublime_Mark": {
+        "message": "ផ្លាស់ប្តូរជាមួយ Sublime Mark"
+    },
+    "Sync_Now": {
+        "message": "ដំណើរការឥឡូវនេះ"
+    },
+    "Sync_Reset": {
+        "message": "កំណត់ឡើងវិញ"
+    },
+    "Sync_Type": {
+        "message": "ប្រភេទ"
+    },
+    "Sync_failed": {
+        "message": "សមកាលកម្មបានបរាជ័យ"
+    },
+    "Sync_finished": {
+        "message": "សមកាលកម្មបានបញ្ចប់"
+    },
+    "Sync_is_running": {
+        "message": "សមកាលកម្មកំពុងដំណើរការ"
+    },
+    "Synchronize_your_scripts_across_browsers_and_operation_systems": {
+        "message": "ធ្វើសមកាលកម្មស្គ្រីបរបស់អ្នកនៅលើកម្មវិធីរុករក និងប្រព័ន្ធប្រតិបត្តិការផ្សេងៗ"
+    },
+    "System_Tags": {
+        "message": "ស្លាកប្រព័ន្ធ"
+    },
+    "TabMode": {
+        "message": "TabMode"
+    },
+    "Tab_Size": {
+        "message": "ទំហំផ្ទាំង"
+    },
+    "Tab_URL": {
+        "message": "URL របស់ផ្ទាំង"
+    },
+    "Tabs": {
+        "message": "ផ្ទាំង"
+    },
+    "Tag_Already_Exists": {
+        "message": "ស្លាកនេះមានរួចហើយ"
+    },
+    "Tags": {
+        "message": "ស្លាក"
+    },
+    "Tam": {
+        "message": "Tam",
+        "description": "Name of the service bot"
+    },
+    "Tampermonkey_and_script_version": {
+        "message": "កំណែ Tampermonkey + ស្គ្រីប"
+    },
+    "Tampermonkey_has_no_access_to_this_page": {
+        "message": "Tampermonkey មិនមានសិទ្ធិចូលប្រើទំព័រនេះទេ"
+    },
+    "Tampermonkey_has_no_file_access_permission_": {
+        "message": "Tampermonkey មិនមានការអនុញ្ញាតឱ្យចូលប្រើឯកសារក្នុងស្រុកទេ!"
+    },
+    "Tampermonkey_is_available_on_mobile_platforms": {
+        "message": "Tampermonkey មាននៅលើប្រព័ន្ធទូរស័ព្ទចល័ត"
+    },
+    "Tampermonkey_might_not_be_able_to_provide_access_to_the_unsafe_context_when_this_is_disabled": {
+        "message": "Tampermonkey អាចនឹងមិនអាចផ្តល់សិទ្ធិចូលប្រើបរិបទដែលមិនមានសុវត្ថិភាព (unsafeWindow, មុខងារ និងអថេររបស់ទំព័រ) នៅពេលដែលមុខងារនេះត្រូវបានបិទ។"
+    },
+    "Tampermonkey_needs_to_be_restarted_to_make_this_change_apply_Do_you_want_to_continue_": {
+        "message": "Tampermonkey ត្រូវតែចាប់ផ្តើមឡើងវិញដើម្បីឱ្យការផ្លាស់ប្តូរនេះមានប្រសិទ្ធភាព。\n\nតើអ្នកចង់បន្តដែរឬទេ?",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "Tampermonkey_version": {
+        "message": "តែកំណែ Tampermonkey ប៉ុណ្ណោះ"
+    },
+    "Tampermonkey_won_t_inject_into_other_tab_types_anymore_": {
+        "message": "Tampermonkey នឹងមិនបញ្ចូលកូដទៅក្នុងប្រភេទផ្ទាំងផ្សេងទៀតទៀតទេ!"
+    },
+    "Templates": {
+        "message": "គំរូ"
+    },
+    "Temporarily_allow": {
+        "message": "អនុញ្ញាតជាបណ្តោះអាសន្ន"
+    },
+    "Temporary": {
+        "message": "បណ្តោះអាសន្ន"
+    },
+    "Temporary_domain_whitelist": {
+        "message": "បញ្ជីសដែនបណ្តោះអាសន្ន"
+    },
+    "Text": {
+        "message": "អត្ថបទ"
+    },
+    "TextArea": {
+        "message": "TextArea"
+    },
+    "Thank_you_very_much_": {
+        "message": "សូមអរគុណច្រើន!"
+    },
+    "The_Browser_API_mode_requires_a_special_permission_": {
+        "message": "របៀប Browser API តម្រូវឱ្យមានការអនុញ្ញាតពិសេស។"
+    },
+    "The_diff_for_this_script_is_too_large_to_render": {
+        "message": "ភាពខុសគ្នា (diff) សម្រាប់ស្គ្រីបនេះមានទំហំធំពេកមិនអាចបង្ហាញបានទេ"
+    },
+    "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
+        "message": "ស្គ្រីបដែលបានបញ្ចុះកំណែអាចមានបញ្ហាក្នុងការអានទិន្នន័យដែលបានរក្សាទុករបស់វា!"
+    },
+    "The_origin_of_this_script_cant_be_determined_": {
+        "message": "ការព្រមាន៖ ប្រភពដើមនៃស្គ្រីបនេះមិនអាចកំណត់បានទេ។\nវាអាចត្រូវបានដំឡើងដោយភាគីទីបីដែលមានគំនិតអាក្រក់ដើម្បីលួចទិន្នន័យឯកជនរបស់អ្នក ឬការកំណត់កម្មវិធីរុករកជាមូលដ្ឋានមួយចំនួន ឬប្រព័ន្ធប្រតិបត្តិការ ឬផ្នែករឹងរបស់អ្នកបានផ្លាស់ប្តូរ!\n\nសូមបើក ពិនិត្យមើល និងរក្សាទុកស្គ្រីបដើម្បីបើកដំណើរការវា។"
+    },
+    "The_script_was_modified_locally_on_0date0__Updating_it_will_overwrite_your_changes_": {
+        "message": "ស្គ្រីបនេះត្រូវបានកែប្រែនៅក្នុងស្រុកនៅថ្ងៃ $date$។ ការធ្វើបច្ចុប្បន្នភាពវានឹងសរសេរជាន់លើការផ្លាស់ប្តូររបស់អ្នក!",
+        "placeholders": {
+            "date": {
+                "content": "$1"
+            }
+        }
+    },
+    "The_script_was_successfully_deleted_": {
+        "message": "ស្គ្រីបត្រូវបានលុបដោយជោគជ័យ។"
+    },
+    "The_script_was_successfully_moved_to_the_trash_": {
+        "message": "ស្គ្រីបត្រូវបានផ្លាស់ទីទៅធុងសំរាមដោយជោគជ័យ។"
+    },
+    "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
+        "message": "URL ធ្វើបច្ចុប្បន្នភាពបានផ្លាស់ប្តូរពី៖\n    '$oldurl$'\n    ទៅជា៖\n    '$newurl$'\n",
+        "placeholders": {
+            "oldurl": {
+                "content": "$1"
+            },
+            "newurl": {
+                "content": "$2"
+            }
+        }
+    },
+    "Theme": {
+        "message": "ស្បែក"
+    },
+    "There_are_no_active_scripts__Do_you_want_to_search_for_userscripts_": {
+        "description": "A question asked by the service bot",
+        "message": "មិនមានស្គ្រីបសកម្មទេ។ តើអ្នកចង់ស្វែងរក userscripts ដែរឬទេ?"
+    },
+    "There_are_unsaved_changed_": {
+        "message": "មានការផ្លាស់ប្តូរដែលមិនទាន់រក្សាទុក។\nតើអ្នកពិតជាចង់បិទកម្មវិធីកែសម្រួលមែនទេ?"
+    },
+    "There_is_an_update_for_0name0_avaiable_": {
+        "message": "មានការធ្វើបច្ចុប្បន្នភាពសម្រាប់ '$name$' ហើយ។ :)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "This_editor_is_tracking_the_changes_of_0name0_": {
+        "message": "កម្មវិធីកែសម្រួលនេះកំពុងតាមដានការផ្លាស់ប្តូររបស់ $name$។",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "This_external_resource_will_not_auto_update__Please_delete_it_in_order_to_enable_updates_again_": {
+        "message": "ធនធានខាងក្រៅនេះនឹងមិនធ្វើបច្ចុប្បន្នភាពដោយស្វ័យប្រវត្តទេ! សូមលុបវាចោល ដើម្បីបើកការធ្វើបច្ចុប្បន្នភាពឡើងវិញ។"
+    },
+    "This_gives_this_script_the_permission_to_retrieve_and_send_data_from_and_to_every_webpage__This_is_potentially_unsafe__Are_you_sure_you_want_to_continue_": {
+        "message": "នេះផ្តល់ឱ្យស្គ្រីបនេះនូវការអនុញ្ញាតក្នុងការទាញយក និងផ្ញើទិន្នន័យពី និងទៅកាន់គ្រប់គេហទំព័រទាំងអស់។ នេះអាចមិនមានសុវត្ថិភាពទេ!\n\nតើអ្នកប្រាកដជាចង់បន្តដែរឬទេ?"
+    },
+    "This_is_a_possibly_foisted_script_and_a_modification_will_enable_it_": {
+        "message": "ប្រភពដើមនៃស្គ្រីបនេះមិនអាចកំណត់បានទេ។\nវាអាចត្រូវបានដំឡើងដោយភាគីទីបីដើម្បីលួចទិន្នន័យឯកជនរបស់អ្នក ឬការកំណត់កម្មវិធីរុករកជាមូលដ្ឋានមួយចំនួន ឬប្រព័ន្ធប្រតិបត្តិការ ឬផ្នែករឹងរបស់អ្នកបានផ្លាស់ប្តូរ។\nការកែប្រែនេះនឹងបើកដំណើរការវា!"
+    },
+    "This_is_a_system_script": {
+        "message": "នេះគឺជាស្គ្រីបប្រព័ន្ធ។"
+    },
+    "This_is_a_userscript": {
+        "message": "នេះគឺជា userscript ដែលសរសេរជា Javascript"
+    },
+    "This_option_allows_the_Tampermonkey_homepage_and_some_script_hosting_pages_to_determine_the_Tampermonkey_version_and_whether_a_script_is_installed_": {
+        "message": "ជម្រើសនេះអនុញ្ញាតឱ្យគេហទំព័រដើមរបស់ Tampermonkey និងទំព័រផ្ទុកស្គ្រីបមួយចំនួនកំណត់កំណែរបស់ Tampermonkey និងព័ត៌មានស្គ្រីបជាមូលដ្ឋានមួយចំនួន (ការដំឡើង, កំណែ, ការបើកដំណើរការ)។"
+    },
+    "This_script_does_not_provide_any__include_information_": {
+        "message": "ស្គ្រីបនេះមិនផ្តល់ព័ត៌មាន @include ឬ @match ណាមួយឡើយ។"
+    },
+    "This_script_does_not_require_any_special_powers_": {
+        "message": "ស្គ្រីបនេះមិនទាមទារអំណាចពិសេសណាមួយឡើយ។"
+    },
+    "This_script_has_access_to_https_pages": {
+        "message": "ធាតុនេះមានសិទ្ធិចូលប្រើទំព័រ https។"
+    },
+    "This_script_has_full_web_access": {
+        "message": "ស្គ្រីបនេះមានសិទ្ធិចូលប្រើប្រាស់អ៊ីនធឺណិតពេញលេញ។"
+    },
+    "This_script_has_local_modifications_and_needs_to_be_updated_manually": {
+        "message": "ស្គ្រីបនេះមានការកែប្រែនៅក្នុងស្រុក ហើយត្រូវធ្វើបច្ចុប្បន្នភាពដោយដៃ!"
+    },
+    "This_script_is_blacklisted_": {
+        "message": "ស្គ្រីបនេះស្ថិតក្នុងបញ្ជីខ្មៅ!"
+    },
+    "This_script_stores_data": {
+        "message": "ស្គ្រីបនេះរក្សាទុកទិន្នន័យទៅកាន់ Tampermonkey។"
+    },
+    "This_script_was_deleted": {
+        "message": "ស្គ្រីបនេះត្រូវបានលុប"
+    },
+    "This_script_was_deleted_by_the_hoster_": {
+        "message": "ស្គ្រីបនេះត្រូវបានលុបដោយម៉ាស៊ីនផ្ទុក"
+    },
+    "This_script_was_executed_0count0_times": {
+        "message": "ស្គ្រីបនេះត្រូវបានដំណើរការចំនួន $count$ ដង",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "This_script_was_executed_0count0_times_but_is_not_active_anymore": {
+        "message": "ស្គ្រីបនេះត្រូវបានដំណើរការចំនួន $count$ ដង ប៉ុន្តែលែងសកម្មទៀតហើយ",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "This_script_was_not_executed": {
+        "message": "ស្គ្រីបនេះមិនត្រូវបានដំណើរការទេ"
+    },
+    "This_script_was_not_executed_yet": {
+        "message": "ស្គ្រីបនេះមិនទាន់ដំណើរការនៅឡើយទេ។\n\nមូលហេតុដែលអាចកើតមាន៖ នៅពេលទំព័រផ្ទុក... \n1. Tampermonkey មិនទាន់រួចរាល់។\n2. ស្គ្រីបមិនមាន ឬត្រូវបានបិទ។\n3. URL មិនត្រូវគ្នា (ជាទូទៅនៅក្នុងកម្មវិធីទំព័រតែមួយ ដែលកែប្រែ URL តាមរយៈ JavaScript)\n\nបើក និង/ឬផ្ទុកផ្ទាំងឡើងវិញ ឬប្រើប្រាស់ `@match` ដែលទូទៅជាងនេះ ហើយរកមើលការផ្លាស់ប្តូរ URL ជាមួយ `window.onurlchange` Holy!"
+    },
+    "This_tag_is_not_part_of_the_system_tag_list_": {
+        "message": "ស្លាកនេះមិនមែនជាផ្នែកនៃបញ្ជីស្លាកប្រព័ន្ធទេ "
+    },
+    "This_will_overwrite_the_current_script_with_the_content_of_0name0__Are_you_sure_": {
+        "message": "សកម្មភាពនេះនឹងសរសេរជាន់លើស្គ្រីបបច្ចុប្បន្នដោយប្រើមាតិការបស់ $name$។\n\nតើអ្នកប្រាកដទេ?",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "This_will_overwrite_your_global_settings_": {
+        "message": "សកម្មភាពនេះនឹងសរសេរជាន់លើការកំណត់សកលរបស់អ្នក!"
+    },
+    "This_will_remove_all_remote_data_from_sync_Ok_": {
+        "message": "តើអ្នកពិតជាចង់លុបទិន្នន័យទាំងអស់ចេញពីសមកាលកម្មមែនទេ?"
+    },
+    "This_will_remove_all_scripts_and_reset_all_settings_Ok_": {
+        "message": "តើអ្នកពិតជាចង់លុបស្គ្រីបទាំងអស់ និងកំណត់ការកំណត់ទាំងអស់ឡើងវិញមែនទេ?"
+    },
+    "This_will_restart_Tampermonkey_Ok_": {
+        "message": "តើអ្នកពិតជាចង់ចាប់ផ្តើម Tampermonkey ឡើងវិញមែនទេ?"
+    },
+    "Today": {
+        "message": "ថ្ងៃនេះ"
+    },
+    "Toggle": {
+        "message": "បិទបើក"
+    },
+    "Toggle_Block_Comment": {
+        "message": "បិទបើកការមិនចាត់ការជាប្លុក"
+    },
+    "Toggle_Comment": {
+        "message": "បិទបើកមតិយោបល់"
+    },
+    "Toggle_Comment_Indented": {
+        "message": "បិទបើកមតិយោបល់ដែលបានខិតបន្ទាត់"
+    },
+    "Toggle_Enable": {
+        "message": "បិទបើកការបើកដំណើរការ"
+    },
+    "Trace": {
+        "message": "Trace"
+    },
+    "Track_from_disk": {
+        "description": "A button to make the editor track changes from a file at the harddisk",
+        "message": "តាមដានពីថាស"
+    },
+    "Transpose": {
+        "message": "ត្រឡប់ទីតាំង"
+    },
+    "Trash_Mode": {
+        "message": "របៀបធុងសំរាម"
+    },
+    "Trash_bin": {
+        "message": "ធុងសំរាម"
+    },
+    "Treat_like__match": {
+        "message": "ចាត់ទុកដូចជា @match"
+    },
+    "Trigger_Update": {
+        "message": "កេះឱ្យធ្វើបច្ចុប្បន្នភាព"
+    },
+    "Trim_trailing_whitespace_from_modified_lines": {
+        "message": "កាត់ចន្លោះទំនេរខាងចុងចេញពីបន្ទាត់ដែលបានកែប្រែ"
+    },
+    "Try_to_install_as_script": {
+        "message": "ព្យាយាមដំឡើងជាស្គ្រីប"
+    },
+    "Type": {
+        "message": "ប្រភេទ"
+    },
+    "URL": {
+        "message": "URL"
+    },
+    "UUID": {
+        "message": "UUID"
+    },
+    "Unable_to_load_script_from_url_0url0": {
+        "message": "មិនអាចផ្ទុកស្គ្រីបពី url បានទេ៖ \n $url$",
+        "placeholders": {
+            "url": {
+                "content": "$1"
+            }
+        }
+    },
+    "Unable_to_parse_0name0": {
+        "message": "មិនអាចញែក $name$ បានទេ",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "Unable_to_parse_this_": {
+        "message": "មិនអាចញែករបស់នេះបានទេ! :("
+    },
+    "Undo": {
+        "message": "មិនធ្វើវិញ"
+    },
+    "Unfold": {
+        "message": "លាតកូដ"
+    },
+    "Unfold_All": {
+        "message": "លាតកូដទាំងអស់"
+    },
+    "Unique_running_scripts": {
+        "message": "ស្គ្រីបប្លែកៗដែលកំពុងដំណើរការ"
+    },
+    "Unknown_method_0name0": {
+        "message": "មិនស្គាល់វិធីសាស្ត្រ $name$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "Unsafe": {
+        "message": "មិនមានសុវត្ថិភាព"
+    },
+    "Update": {
+        "message": "ធ្វើបច្ចុប្បន្នភាព"
+    },
+    "Update_Notification": {
+        "message": "បង្ហាញការជូនដំណឹងអំពីការធ្វើបច្ចុប្បន្នភាព"
+    },
+    "Update_URL_": {
+        "message": "URL ធ្វើបច្ចុប្បន្នភាព"
+    },
+    "Update_check_is_disabled": {
+        "message": "ការពិនិត្យមើលការធ្វើបច្ចុប្បន្នភាព Userscript ត្រូវបានបិទ ឬមិនអាចធ្វើទៅបាន"
+    },
+    "Update_interval": {
+        "message": "ចន្លោះពេលធ្វើបច្ចុប្បន្នភាព"
+    },
+    "Update_local_script_0name0_0uuid0": {
+        "message": "ធ្វើបច្ចុប្បន្នភាពស្គ្រីបក្នុងស្រុក \"$name$\" ($uuid$)",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            },
+            "uuid": {
+                "content": "$2"
+            }
+        }
+    },
+    "Updated_to__0version0": {
+        "message": "បានធ្វើបច្ចុប្បន្នភាពទៅជា៖ $version$",
+        "placeholders": {
+            "version": {
+                "content": "$1"
+            }
+        }
+    },
+    "Updates": {
+        "message": "ការធ្វើបច្ចុប្បន្នភាព"
+    },
+    "Upper_Case": {
+        "message": "អក្សរធំ"
+    },
+    "UserScripts_API": {
+        "message": "UserScripts API"
+    },
+    "UserScripts_API_Dynamic": {
+        "message": "UserScripts API Dynamic"
+    },
+    "User_domain_blacklist": {
+        "message": "បញ្ជីខ្មៅដែនរបស់អ្នកប្រើប្រាស់"
+    },
+    "User_domain_whitelist": {
+        "message": "បញ្ជីសដែនរបស់អ្នកប្រើប្រាស់"
+    },
+    "User_excludes": {
+        "message": "ការដកចេញរបស់អ្នកប្រើប្រាស់"
+    },
+    "User_includes": {
+        "message": "ការរួមបញ្ចូលរបស់អ្នកប្រើប្រាស់"
+    },
+    "User_matches": {
+        "message": "ការផ្គូផ្គងរបស់អ្នកប្រើប្រាស់"
+    },
+    "User_modified": {
+        "message": "បានកែប្រែ"
+    },
+    "Userscript_Search": {
+        "message": "ការស្វែងរក Userscript"
+    },
+    "Userscript_search_integration_mode": {
+        "message": "ការរួមបញ្ចូលការស្វែងរក Userscript"
+    },
+    "Userscripts": {
+        "message": "Userscripts"
+    },
+    "Using__include_is_potentially_unsafe...": {
+        "message": "ការប្រើប្រាស់ @include អាចនឹងមិនមានសុវត្ថិភាព និងអាចនឹងលែងប្រើប្រាស់ក្នុង Manifest v3 នៅដើមឆ្នាំ 2023។ ការកំណត់នេះអនុញ្ញាតឱ្យអ្នកកំណត់រចនាសម្ព័ន្ធវិធីដែល @include ត្រូវបានបកស្រាយ។ '$off$' បិទ @include ទាំងស្រុង, '$match$' គឺមានសុវត្ថិភាព ប៉ុន្តែអាចនឹងមិនត្រូវគ្នានឹងបំណងប្រាថ្នារបស់អ្នកបង្កើតស្គ្រីបឡើយ។ '$unsafe$' ភាគច្រើនរក្សាទុកឥរិយាបថកេរដំណែល ហើយ '$default$' មានន័យថា '$used_default$' សម្រាប់ពេលបច្ចុប្បន្ន។",
+        "placeholders": {
+            "off": {
+                "content": "$1"
+            },
+            "match": {
+                "content": "$2"
+            },
+            "unsafe": {
+                "content": "$3"
+            },
+            "default": {
+                "content": "$4"
+            },
+            "used_default": {
+                "content": "$5"
+            }
+        }
+    },
+    "Utilities": {
+        "message": "ឧបករណ៍ប្រើប្រាស់"
+    },
+    "VSCode": {
+        "message": "VSCode"
+    },
+    "Validate_if_given": {
+        "message": "ផ្ទៀងផ្ទាត់ប្រសិនបើបានផ្តល់ជូន"
+    },
+    "Validate_if_supported": {
+        "message": "ផ្ទៀងផ្ទាត់ប្រសិនបើអាចធ្វើទៅបាន"
+    },
+    "Verbose": {
+        "message": "ពិស្តារ"
+    },
+    "Version": {
+        "message": "កំណែ"
+    },
+    "View": {
+        "message": "មើល"
+    },
+    "Vim": {
+        "message": "Vim"
+    },
+    "Waiting_for_sync_to_finish": {
+        "message": "កំពុងរង់ចាំសមកាលកម្មបញ្ចប់"
+    },
+    "Warning": {
+        "message": "ការព្រមាន"
+    },
+    "Warning_unsafe_site_warnings_might_appear_": {
+        "message": "ការព្រមាន៖ ការព្រមានអំពីគេហទំព័រមិនមានសុវត្ថិភាពអាចនឹងលេចឡើង ប្រសិនបើស្គ្រីបរួមបញ្ចូល URL ដែលអាចបង្កគ្រោះថ្នាក់។"
+    },
+    "WebDAV": {
+        "message": "WebDAV"
+    },
+    "Whitelist": {
+        "message": "បញ្ជីស"
+    },
+    "Whitelisted_File_Extensions": {
+        "message": "កន្ទុយឯកសារដែលស្ថិតក្នុងបញ្ជីស"
+    },
+    "Whitelisted_Pages": {
+        "message": "ទំព័រដែលស្ថិតក្នុងបញ្ជីស"
+    },
+    "Windows": {
+        "message": "Windows"
+    },
+    "Would_you_like_to_know_how_to_overwrite_or_extend_a_script_s_includes_and_or_excludes_": {
+        "description": "A question asked by the service bot",
+        "message": "តើអ្នកចង់ដឹងពីរបៀបសរសេរជាន់លើ ឬពង្រីកការរួមបញ្ចូល និង/ឬការដកចេញរបស់ស្គ្រីបដែរឬទេ?"
+    },
+    "Would_you_like_to_learn_how_to_export_and_import_your_scripts_": {
+        "description": "A question asked by the service bot",
+        "message": "តើអ្នកចង់រៀនពីរបៀបនាំចេញ និងនាំចូលស្គ្រីបរបស់អ្នកដែរឬទេ?"
+    },
+    "Wrap_lines": {
+        "message": "រុំបន្ទាត់"
+    },
+    "XHR_Security": {
+        "message": "សុវត្ថិភាព XHR"
+    },
+    "Yandex_Disk": {
+        "message": "Yandex.Disk"
+    },
+    "Yank_Sublime_Mark": {
+        "message": "ទាញយកចំណាំលំអិត"
+    },
+    "Yes": {
+        "message": "បាទ/ចាស"
+    },
+    "You_are_about_to_downgrade_a_UserScript": {
+        "message": "ប្រយ័ត្ន! ការបញ្ចុះកំណែ Userscript"
+    },
+    "You_are_about_to_install_a_UserScript_": {
+        "message": "ការដំឡើង Userscript"
+    },
+    "You_are_about_to_modify_a_UserScript_": {
+        "message": "ការកែប្រែ Userscript"
+    },
+    "You_are_about_to_reinstall_a_UserScript_": {
+        "message": "ការដំឡើង Userscript ឡើងវិញ"
+    },
+    "You_are_about_to_update_a_UserScript_": {
+        "message": "ការធ្វើបច្ចុប្បន្នភាព Userscript"
+    },
+    "You_can_add_your_custom_CSS_rules_here_": {
+        "message": "អ្នកអាចបន្ថែមច្បាប់ CSS ផ្ទាល់ខ្លួនរបស់អ្នកសម្រាប់ UI របស់ Tampermonkey នៅទីនេះ។ ក្នុងករណីដែលវាធ្វើឱ្យខូចអ្វីមួយ អ្នកអាចទទួលបានប្លង់លំនាំដើមវិញដោយបន្ថែម ?layout=reset ទៅកាន់ URL នៃទំព័រជម្រើស។"
+    },
+    "You_can_add_your_custom_linter_config_here_": {
+        "message": "អ្នកអាចបន្ថែមការកំណត់រចនាសម្ព័ន្ធ linter ផ្ទាល់ខ្លួនរបស់អ្នកនៅទីនេះ។"
+    },
+    "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
+        "message": "ភាសារបស់អ្នកមិនត្រូវបានគាំទ្រមែនទេ?\nចុចទីនេះដើម្បីទទួលបានការណែនាំអំពីរបៀបបកប្រែ Tampermonkey?"
+    },
+    "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
+        "message": "បញ្ជីសរបស់អ្នកហាក់ដូចជារួមបញ្ចូលឯកសារដែលអាចដំណើរការបាន!\nនេះមានន័យថា userscripts របស់អ្នកអាចនឹងទាញយកមេរោគ ឬកម្មវិធីលបមើលទៅក្នុងថាសរឹងរបស់អ្នក!!"
+    },
+    "Zip": {
+        "message": "Zip"
+    },
+    "__Please_choose__": {
+        "message": "-- សូមជ្រើសរើសជម្រើសមួយ --"
+    },
+    "_not_set_": {
+        "message": "<មិនទាន់កំណត់>"
+    },
+    "by_0name0": {
+        "message": "ដោយ $name$",
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    },
+    "connect_mode": {
+        "message": "ពិនិត្យ @connect"
+    },
+    "fatal_error": {
+        "message": "កំហុសធ្ងន់ធ្ងរ"
+    },
+    "overwritten_by_user": {
+        "message": "ត្រូវបានសរសេរជាន់លើដោយការកំណត់របស់អ្នកប្រើប្រាស់"
+    },
+    "require_and_resource": {
+        "message": "ខាងក្រៅ (@require និង @resource)"
+    },
+    "severity_1": {
+        "message": "1 (សុវត្ថិភាពបំផុត)"
+    },
+    "severity_10": {
+        "message": "10 (សុវត្ថិភាពតិចបំផុត)"
+    },
+    "severity_2": {
+        "message": "2"
+    },
+    "severity_3": {
+        "message": "3"
+    },
+    "severity_4": {
+        "message": "4"
+    },
+    "severity_5": {
+        "message": "5"
+    },
+    "severity_6": {
+        "message": "6"
+    },
+    "severity_7": {
+        "message": "7"
+    },
+    "severity_8": {
+        "message": "8"
+    },
+    "severity_9": {
+        "message": "9"
+    },
+    "some_secs": {
+        "message": "ខ្លះ"
+    },
+    "strict_mode": {
+        "message": "របៀបតឹងរ៉ឹង"
+    },
+    "top_level_await": {
+        "message": "top-level await"
+    },
+    "v0version0": {
+        "message": "v$version$",
+        "placeholders": {
+            "version": {
+                "content": "$1"
+            }
+        }
+    }
+}
